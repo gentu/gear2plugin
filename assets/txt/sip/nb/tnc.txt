@@ -1,0 +1,8 @@
+Samsung-tastatur og bruken av en Talegjenkjenningstjeneste
+1. Samsung-tastatur-tjenesten bruker talegjenkjenningsteknologi som en komponent i tjenesten. Du erkjenner at Samsung kan bruke en talegjenkjenningstjeneste («Talegjenkjenningstjenesten») som leveres av en tredjepart, Nuance Communications Inc. («Nuance»), og du erkjenner og godtar følgende i forbindelse med din bruk av Samsung-tastatur-tjenesten.
+2. Du samtykker i at du ikke vil benytte forespørsler som er automatiserte eller spilt inn ved bruk av Samsung-tastatur-tjenesten.
+3. Du erkjenner at ordene du dikterer til Samsung-tastatur-tjenesten (deriblant lydopptak av slike ord samt tilknyttede transkripsjoner og loggfiler) («Taledata»), vil bli samlet inn av Nuance ved tilveiebringelse av Talegjenkjenningstjenesten.
+4. Du samtykker i og godtar at Nuance kan samle inn Taledata ved tilveiebringelse av Talegjenkjenningstjenesten, og at disse kan brukes av Nuance og deres tredjeparts samarbeidspartnere til finjustering, forsterkning og forbedring av (a) Talegjenkjenningstjenesten og (b) andre produkter og tjenester fra Nuance.
+5. Du erkjenner og samtykker i at dine Taledata kan bli overført til USA og/eller andre land for lagring, behandling og bruk av Nuance og deres tredjeparts samarbeidspartnere.
+6. Alle eventuelle Taledata du tilveiebringer, vil forbli konfidensielle og vil bli brukt i samsvar med gjeldende lovgivning. Nuance kan imidlertid oppgi disse til tredjepart hvis dette kreves for å overholde juridiske eller regulatoriske krav, for eksempel ved en rettskjennelse eller til et myndighetsorgan hvis krav fremsettes eller loven autoriserer dette eller til en tredjepart som anskaffer eller fusjonerer med Nuance.
+

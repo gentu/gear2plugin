@@ -1,0 +1,2 @@
+資訊提供合約<br>
+三星鍵盤採用第三方服務供應商 Nuance Communications, Inc. 所提供的語音辨識技術。因此，您的語音資訊必然會儲存在 Nuance 所操作的伺服器 (位於美國)。您必須同意 <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuance 的條款與條件</a>，才能使用三星鍵盤。 <br><br>Nuance 保留將您的語音輸入資訊用於改善服務及開發技術的權利。 Nuance 亦保留將上述語音輸入資訊提供給 Nuance 合作夥伴的權利。 您語音輸入資訊的保留時間直至達成上述目標。 如需三星鍵盤服務的資訊，請閱讀 <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuance 隱私權政策</a>。 <br><br> 如不同意提供上述資訊，您將無法使用三星鍵盤。

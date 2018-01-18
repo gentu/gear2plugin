@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">%1$s is not installed on your mobile device. To use %2$s on your Gear, download %1$s to your mobile device.</string>
+    <string name="attention_popup_title">Attention</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="sa_email">Email</string>
+    <string name="shealth_menu">S Health</string>
+</resources>

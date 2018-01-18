@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Ikke tilgængelig under samtale.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Fuldskærms-pop op</string>
+    <string name="alert_mini">Mini-pop op</string>
+    <string name="alertdialog_backkey_popup_content">Advarsel</string>
+    <string name="alertdialog_disconnect_popup_description">Gear vil blive frakoblet. Brug Bluetooth til at oprette forbindelse igen.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Dette afslutter din forbindelse til %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Forbindelsen mellem dit %s og din mobilenhed vil blive afbrudt. Næste gang du forbinder disse enheder, skal du bruge Bluetooth. Efterfølgende forbindelser kan oprettes via Fjernforbindelse.</string>
+    <string name="alertdialog_uninstall_popup_content">Afinstaller</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s er ikke installeret på din mobile enhed. For at bruge %2$s på Gear skal du overføre %1$s til din mobile enhed.</string>
+    <string name="attention_popup_title">Bemærk!</string>
+    <string name="auto_call_forwarding">Autom. viderestill.</string>
+    <string name="auto_call_forwarding_att">Aktiver viderestilling t. Gear</string>
+    <string name="auto_call_forwarding_desc">Viderestil opkald automatisk, når dit Gear ikke har forbindelse til din mobilenhed. Dette vil viderestille indgående opkald fra din mobilenhed til dit Gear, indtil der igen er forbindelse mellem enhederne.</string>
+    <string name="auto_update">Autoopdatering</string>
+    <string name="auto_update_summary">Se efter opdateringer automatisk.</string>
+    <string name="backing_up">Sikkerhedskopierer …</string>
+    <string name="backup_complete">Sikkerhedskopi fuldført.</string>
+    <string name="bnr_backup">Sikkerhedskopierer …</string>
+    <string name="bnr_bakcup_title">Sikkerhedskopi</string>
+    <string name="bnr_cancel">Annuller</string>
+    <string name="bnr_canel">Annullér</string>
+    <string name="bnr_error_occurred">Der opstod en fejl</string>
+    <string name="bnr_except">%1$s (undtagen %2$s)</string>
+    <string name="bnr_except_autolock">Automatisk lås</string>
+    <string name="bnr_except_remoteconnection">Fjernforbindelse</string>
+    <string name="bnr_except_texttemplate">Tekstskabeloner</string>
+    <string name="bnr_next">Næste</string>
+    <string name="bnr_no">Nej</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">For at oprette forbindelse til en ny enhed vil Gear blive nulstillet til fabriksindstillinger.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear er ikke konfigureret fuldt ud. Opsætningsguiden er i øjeblikket åben i Gear, men for at oprette forbindelse til Gear skal du også åbne opsætningsguiden i Gear Manager på denne enhed.</string>
+    <string name="bnr_reset_initialization">Bemærkning</string>
+    <string name="bnr_restore">Gendan</string>
+    <string name="bnr_restored">Data gendannet.</string>
+    <string name="bnr_setupwizard_title2">Sikkerhedskopier og gendan</string>
+    <string name="bnr_yes">Ja</string>
+    <string name="bt_connected">Forbundet</string>
+    <string name="bt_disconnected">Afbrudt</string>
+    <string name="bt_unpaired">Ikke-parret</string>
+    <string name="button_finish">Udfør</string>
+    <string name="button_restore">Gendan</string>
+    <string name="call">OPKALD</string>
+    <string name="call_check_gear_status_when_cfwd">Funktionerne til viderestilling af opkald, Mobil til Gear og Gear til mobil, kan ikke være aktiveret på samme tid.</string>
+    <string name="call_dualsim1">SIM-kort 1</string>
+    <string name="call_dualsim1sim2">Begge SIM-kort</string>
+    <string name="call_dualsim2">SIM-kort 2</string>
+    <string name="call_forwarding">Viderestilling</string>
+    <string name="call_forwarding_agree">Jeg accepterer</string>
+    <string name="call_forwarding_desc">Viderestil indgående opkald fra din mobilenhed til dit Gear.</string>
+    <string name="call_forwarding_desc_vzw">Viderestil ubesvarede indgående opkald fra din telefon til dit Gear.</string>
+    <string name="call_forwarding_disable_msg">Der er blevet anmodet om at deaktivere viderestilling af opkald fra din mobilenhed til dit Gear. Status for dit mobile netværk og din mobilenhed kan påvirke resultaterne.</string>
+    <string name="call_forwarding_enable_msg">Der er blevet anmodet om at aktivere viderestilling af opkald fra din mobilenhed til dit Gear. Status for dine mobile netværk og din mobilenhed kan påvirke resultaterne.</string>
+    <string name="call_forwarding_for_att_msg">"Når Gear ikke har forbindelse til din smartphone, viderestilles indgående opkald til mobilenheden automatisk til Gear.
+- Din smartphone ringer nogle få gange, før opkaldet viderestilles til dit Gear.
+- Hvis du ikke besvarer opkaldet på dit Gear, kan personen, der ringer, lægge en telefonsvarerbesked, som du kan høre på dit Gear.
+Vil du slå automatisk viderestilling af opkald til nu?"</string>
+    <string name="call_forwarding_notify_msg">Viderestilling af opkald fra din mobilenhed til dit Gear er i øjeblikket aktiveret. Indgående opkald til din mobilenhed viderestilles til dit Gear. Hvis du ikke har dit Gear med dig, skal du gå til Indstillinger og deaktivere Automatisk viderestilling af opkald for at sikre, at du ikke går glip af et opkald.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Deaktiv. viderest. af stemmeopkald …</string>
+    <string name="call_forwarding_turning_on_notify_msg">Aktiverer viderest. af stemmeopkald …</string>
+    <string name="call_no_gear_number">Ingen numre</string>
+    <string name="call_select_dualsim_title">Vælg SIM-kort</string>
+    <string name="call_voice_control">Stemmestyring</string>
+    <string name="callforwarding_help_des1">Skift automatisk, hvilken enhed opkald bliver viderestillet til, afhængigt af om dine enheder er forbundet via Bluetooth eller fjernforbindelse.</string>
+    <string name="callforwarding_help_des2">Modtag opkald, der er foretaget til din mobilenhed, på dit Gear, mens du er i bevægelse og bærer dit Gear, og det har fjernforbindelse til mobilenheden.</string>
+    <string name="cancel">Annuller</string>
+    <string name="cf_activated">Aktiveret</string>
+    <string name="cf_deactivate_failed">Kunne ikke deaktivere viderestilling af opkald.</string>
+    <string name="cf_deactivated">Deaktiveret</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Der er anvendt nye urindstillinger via Gear.</string>
+    <string name="clocks_download_more_clocks">Download flere ure</string>
+    <string name="clocks_noti_uninstall_clock">%s bliver afinstalleret.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s afsinstalleres, og %2$s indstilles som standarduret.</string>
+    <string name="clocks_title_basic_clocks">STANDARDURE</string>
+    <string name="clocks_title_downloaded_clocks">DOWNLOADEDE URE</string>
+    <string name="clocks_title_style_clocks">STILFULDE URE</string>
+    <string name="clocks_uninstalled">Afinstalleret.</string>
+    <string name="clocks_uninstalling">Afinstallerer …</string>
+    <string name="close">Luk</string>
+    <string name="closing_samsung_gear_message">Dit Gear er nulstillet. Samsung Gear-applikationen lukkes om lidt.</string>
+    <string name="closing_samsung_gear_message_jpn">Dit Gear er nulstillet. Gear-applikationen lukkes om lidt.</string>
+    <string name="closing_samsung_gear_title">Luk Samsung Gear-applikationen</string>
+    <string name="closing_samsung_gear_title_jpn">Luk Gear-applikationen</string>
+    <string name="cloud_backup_no_information">Aldrig</string>
+    <string name="cloud_backup_restore_backup_now">Sikkerhedskopier data</string>
+    <string name="cloud_backup_restore_restore_now">Gendan data</string>
+    <string name="cmw_agree">Jeg accept.</string>
+    <string name="cmw_eula_agree">Jeg forstår og accepterer vilkårene og betingelserne herover.</string>
+    <string name="cmw_for_setting">Placeringstjenester er deaktiveret. Gå til Indstillinger.</string>
+    <string name="cmw_high_accuracy_dialog_message">For at opnå den hurtigste og mest præcise registrering af placering skal du vælge Høj nøjagtighed i Placering > Tilstand.</string>
+    <string name="cmw_high_accuracy_dialog_title">Vælg Høj nøjagtighed</string>
+    <string name="cmw_legal_content">Ved at aktivere “Del placering” accepterer du at placeringsdata knyttet til din mobiltelefon og/eller Gear-enhed sendes via en Samsung-server for at levere tjenesterne Find Mit Gear og Find Min Enhed. Ingen data eller oplysninger om din enheds placering lagres på Samsung-serveren.</string>
+    <string name="cmw_legal_content1">Ved at aktivere “%1$s &amp; %2$s” accepterer du, at placeringsdata knyttet til din mobiltelefon og/eller Gear-enhed sendes via en Samsung-server for at levere tjenesterne %1$s og %2$s. Ingen data eller oplysninger om din enheds placering lagres på Samsung-serveren.</string>
+    <string name="cmw_legal_content1_no_gps">Ved at aktivere “%1$s &amp; %2$s” accepterer du, at placeringsdata knyttet til din mobiltelefon sendes via en Samsung-server for at levere tjenesten %2$s. Ingen data eller oplysninger om din enheds placering lagres på Samsung-serveren.</string>
+    <string name="cmw_legal_content_2">Samsungs fortrolighedspolitik</string>
+    <string name="cmw_legal_title">Juridiske meddelelser</string>
+    <string name="cmw_location">Aktiver placeringstjenester</string>
+    <string name="cmw_show_on_map">Vis på kort</string>
+    <string name="color_black">Sort</string>
+    <string name="color_blue">Blå</string>
+    <string name="color_brown">Brun</string>
+    <string name="color_gray">Grå</string>
+    <string name="color_green">Grøn</string>
+    <string name="color_light_sky_blue">Lys himmelblå</string>
+    <string name="color_medium_purple">Mellemlilla</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_purple">Lilla</string>
+    <string name="color_red">Rød</string>
+    <string name="color_spring_green">Forårsgrøn</string>
+    <string name="common_none">Ingen</string>
+    <string name="common_off">Fra</string>
+    <string name="common_on">Til</string>
+    <string name="common_recent_apps">Seneste apps</string>
+    <string name="connect_popup_content">Forbinder til %s …</string>
+    <string name="connected_by_trasport_BT">Tilsluttet via Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Tilsluttet eksternt</string>
+    <string name="connecting_content">Opretter forbindelse til Gear</string>
+    <string name="connecting_doc">Når du har oprettet forbindelse til dit %1$s, kan du ændre dets indstillinger og installere applikationer på det via %2$s.</string>
+    <string name="connecting_popup_message">Opretter forbindelse til Gear …</string>
+    <string name="connecting_popup_title">Opret forbindelse til Gear</string>
+    <string name="connecting_to_gear_ing">Opretter forbindelse til Gear …</string>
+    <string name="connectingdoc">Når du har oprettet forbindelse til Gear, kan du ændre dets indstillinger og installere applikationer her via Gear Manager.</string>
+    <string name="connection_error_dialog_message">Din enhed er ikke blevet forbundet. Der forsøges at oprette forbindelse igen.</string>
+    <string name="dialog_check_phone_number_msg1">Kontroller, at følgende oplysninger er korrekte:</string>
+    <string name="dialog_check_phone_number_msg2">Mobilnummer: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear-telefonnummer: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tryk på OK for at bekræfte og aktivere Automatisk viderestilling af opkald.</string>
+    <string name="dialog_enable_remote_connection_desc">For at aktivere automatisk viderestilling af opkald skal du aktivere Fjernforbindelse og prøve igen.</string>
+    <string name="dialog_enable_remote_connection_title">Aktiver Fjernforbindelse</string>
+    <string name="dialog_permission_message">Kan ikke bruge %s. Tryk på INDSTILLINGER, gå til Appoplysninger > Tilladelser, accepter følgende tilladelser, og prøv igen:</string>
+    <string name="dialog_popup_button_cancel">Annuller</string>
+    <string name="dialog_reverse_msg">Afhængigt af din tjenesteudbyder kræver det muligvis særskilte abonnementer, før din mobilenhed og dit Gear kan bruge denne funktion. Dette kan medføre yderligere gebyrer.</string>
+    <string name="dialog_set_phone_number_msg">For at aktivere Automatisk viderestilling skal du angive telefonnumrene for de enheder, du vil viderestille indgående opkald til og fra.</string>
+    <string name="dialog_set_phone_number_title">Aktiver Autom. viderestil.</string>
+    <string name="disable_loc_text">Del placering vil blive deaktiveret. Du vil ikke kunne bruge placeringsoplysninger til at søge efter dit Gear eller din mobilenhed via Find mit Gear eller Find min enhed.</string>
+    <string name="disable_loc_text_no_gps">Del placering vil blive deaktiveret. Du vil ikke kunne bruge placeringsoplysninger til at søge efter din mobilenhed via Find min enhed.</string>
+    <string name="disable_remote_connection">Deaktiver Fjernforb.</string>
+    <string name="disable_remote_connection_fmm_fmd">Find mit Gear og Find min enhed</string>
+    <string name="disable_remote_connection_receiving_blocked">Modtagelse af beskeder, e-mails og meddelelser fra mobilenheden</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Modtagelse af e-mails og meddelelser fra mobilenheden</string>
+    <string name="disable_remote_connection_warning">Fjernforbindelse bliver deaktiveret. Følgende funktioner er ikke tilgængelige, før dit Gear igen har forbindelse til din mobilenhed via Bluetooth:</string>
+    <string name="disable_share_location">Deaktiver Del placering</string>
+    <string name="disconnect_popup_content">Frakobler %s…</string>
+    <string name="do_not_show_again">Vis ikke igen</string>
+    <string name="enable_auto_call_forwarding_msg">Viderestil indgående opkald fra din mobilenhed til dit Gear automatisk, når der ikke er forbindelse til dit Gear. Afhængigt af din tjenesteudbyder kan dette muligvis medføre yderligere gebyrer. Tryk på OK for at aktivere Autom. viderestil.</string>
+    <string name="enable_auto_call_forwarding_title">Aktiver Autom. viderestil.</string>
+    <string name="enable_more_notifications_enable">Aktiver</string>
+    <string name="enable_notification_access">Aktiver Meddelelsesadgang</string>
+    <string name="enable_notification_access_desc">"Denne funktion kan læse alle de meddelelser, du modtager, herunder f.eks. personlige oplysninger såsom kontakter og beskeder, du har modtaget. Den kan også afvise disse meddelelser eller vælge handlinger, der er relateret til dem.
+For at modtage meddelelser på dit Gear skal du trykke på Aktiver og derefter aktivere %s."</string>
+    <string name="enable_share_location">Aktiver Del placering</string>
+    <string name="enabled_loc">Del placering er aktiveret.</string>
+    <string name="error_enter_device_name">Angiv enhedsnavn.</string>
+    <string name="error_occurred">Der opstod en fejl.</string>
+    <string name="eula_i_agree">Jeg accepterer</string>
+    <string name="failed_tshare_msg">"Aktiv. af viderest.
+af opk. mislyk.
+T share svarer ikke."</string>
+    <string name="find_my_device">Find min enhed</string>
+    <string name="find_my_gear">Find mit Gear</string>
+    <string name="find_watch_btn_start">Start</string>
+    <string name="find_watch_btn_stop">Stop</string>
+    <string name="find_watch_off">Tryk på Start for at finde Gear. Gear vil afspille en lyd, og dets skærm vil tænde.</string>
+    <string name="find_watch_on">Tryk på Stop for at stoppe med at finde dit Gear. Dit Gear vil stoppe med at afspille en lyd, og skærmen vil slukke.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s vil blive fjernet, og standardskrifttypen vil blive anvendt på dit %2$s.</string>
+    <string name="force_wifi_direct_msg">Applikationen vil blive installeret via Wi-Fi Direct. Dette vil afslutte din nuværende Wi-Fi Direct-forbindelse. Hvis du annullerer installationsprocessen, skal du downloade applikationen igen for at installere den.</string>
+    <string name="force_wifi_direct_title">Installer</string>
+    <string name="force_wifi_install">Installer</string>
+    <string name="gear2_backup_confirm_text">Hvis du sikkerhedskopierer dine data nu, vil de aktuelle Gear-sikkerhedskopidata på den mobile enhed blive erstattet af dine nyeste Gear-data.</string>
+    <string name="gear2_restore_confirm_text">Hvis du gendanner dine data, bliver de aktuelle data på din Gear blive slettet og erstattet af dine aktuelle Gear-sikkerhedskopidata.</string>
+    <string name="gear2_text">"Brug din enheds lager til at sikkerhedskopiere dit %1$s-indhold:
+%2$s
+
+Hvis du tidligere har sikkerhedskopieret dette indhold, kan du gendanne det til %3$s nu.
+
+Afhængigt af filstørrelsen kan det tage nogen tid."</string>
+    <string name="gear2_text_import3">Indstillinger</string>
+    <string name="gear_bnr_desc">"Brug din mobilenheds lager til at sikkerhedskopiere følgende %1$s-data: %2$s
+
+Hvis du tidligere har sikkerhedskopieret dine %3$s-data, kan du gendanne dem på din %4$s nu.
+
+Dette kan tage et stykke tid afhængigt af filstørrelsen."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Din mobilenhed leder nu efter dit Gear. Dette vil tage nogle minutter. Det kan være svært for mobilenheden at finde dit Gear, hvis det er indendørs.</string>
+    <string name="gear_location_popup_title">Find Gear</string>
+    <string name="gear_location_text">Placering af Gear</string>
+    <string name="gear_lock_success">Dit Gear er blevet låst.</string>
+    <string name="gear_lock_text">Lås Gear</string>
+    <string name="gear_locked">Dit Gear er blevet låst</string>
+    <string name="gear_locked_text1">Dit Gear er låst. Hvis du vil låse det op, skal du oprette forbindelse mellem dit Gear og din mobilenhed via Bluetooth.</string>
+    <string name="gear_phone_number">Gear-telefonnummer</string>
+    <string name="gear_phone_number_popup_desc">Alle opkald til din mobilenhed vil blive viderestillet til %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Alle ubesvarede opkald til din mobilenhed vil blive viderestillet til %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Fjernforbindelse skal være aktiveret, før du kan låse dit Gear.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Fjernforbindelse skal være aktiveret, før du kan nulstille dit Gear.</string>
+    <string name="gear_reset_text">Nulstil Gear</string>
+    <string name="gear_to_mobile">Gear til mobil</string>
+    <string name="gear_to_mobile_des">Modtag opkald, som er foretaget til dit Gear, på din mobilenhed, når de to enheder er forbundet via Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Placeringen kunne ikke findes. Prøv igen senere.</string>
+    <string name="gear_unable_to_locate_title">Kan ikke finde Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Baggrunde</string>
+    <string name="home_bg_color">Farver</string>
+    <string name="home_bg_colors_title">TILGÆNGELIGE FARVER</string>
+    <string name="home_bg_delete_actionbar_selected">Valgt</string>
+    <string name="home_bg_delete_dialog_msg">%d baggrunde vil blive fjernet fra Gear Manager og dit Gear.</string>
+    <string name="home_bg_delete_select_all">Vælg alle</string>
+    <string name="home_bg_max_more_image_toast">Det maksimale antal baggrunde (%d) er nået.</string>
+    <string name="home_bg_more_images">Flere billeder</string>
+    <string name="home_bg_popup_wallpaper_msg">Downloader Gear-baggrunde …</string>
+    <string name="home_bg_popup_wallpaper_title">Download baggrunde</string>
+    <string name="home_bg_toast_saved">Gemt.</string>
+    <string name="home_bg_wallpaper">Baggrund</string>
+    <string name="home_bg_wallpapers_title">TILGÆNGELIGE BAGGRUNDE</string>
+    <string name="homelayout_apps">Applikationer</string>
+    <string name="incoming_calls_title">Indgående opkald</string>
+    <string name="info_build_number">Softwareversion</string>
+    <string name="info_model_number">Modelnummer</string>
+    <string name="info_software_update">Softwareopdatering</string>
+    <string name="information_provision_agreement">Aftale om informationslevering</string>
+    <string name="information_provision_agreement_mgs">"Tjenesten Stemmenotat bruger stemmegenkendelsesteknologier leveret af en tredjepartsleverandør med navnet Nuance Communications Inc. Derfor er dine stemmeinformationer nødvendigvis gemt på en server, der drives af Nuance (i USA) og brug af Stemmenotat kræver, at du accepterer Vilkårene og betingelserne for Nuance.
+ Nuance forbeholder sig ret til at anvende til stemmeinput til forbedring af tjenester og udvikle teknologier. Nuance forbeholder sig også ret til at levere det førnævnte stemmeinput til Nuances partnere. Dine stemmeinputinformationer er gemt, indtil førnævnte mål er opnået. For oplysninger om tjenesten Stemmenotat bedes du læse Samsungs fortrolighedspolitik og Nuances fortrolighedspolitik.
+ Du kan ikke anvende Stemmenotat, hvis du ikke accepterer levering af dine informationer beskrevet herover."</string>
+    <string name="init_manage_notifications_desc">Vælg de applikationer, du vil modtage meddelelser fra på dit %1$s. Hvis du vil spare på dit %2$ss batteri, kan du fravælge de applikationer, du ikke vil modtage meddelelser fra.</string>
+    <string name="install_in_progress">I gang…</string>
+    <string name="invalid_rename_character">Ugyldige tegn indtastet. Prøv igen.</string>
+    <string name="latest_version">Nyeste version installeret</string>
+    <string name="latitude">Breddegrad</string>
+    <string name="limit_notification_desc">Bloker varsler, så de ikke bliver vist på dit Gear, når mobilenheden er i brug.</string>
+    <string name="limit_notification_dialog_desc">Kunne ikke aktivere Begræns meddelelser på Gear. Ingen skærmlås indstillet på din mobile enhed.</string>
+    <string name="limit_notification_title">Begræns meddelelser</string>
+    <string name="location_info_title">Del placering</string>
+    <string name="lock_gear_legal_text1">Ved hjælp af Lås Gear kan du eksternt låse dit Gear for at forhindre uautoriseret brug. Du kan låse Gear op ved at oprette forbindelse til den mobile enhed igen.</string>
+    <string name="lock_gear_legal_text2">* Det kan tage noget tid, inden Lås Gear fungerer. Funktionen kan endda mislykkes afhængigt af dit Gear, din mobile enhed eller dit netværk.</string>
+    <string name="lock_gear_text">Kan ikke låse dit Gear, når din mobilenhed og dit Gear er forbundet via Bluetooth.</string>
+    <string name="login_to_samsung_account">Log ind på Samsung account</string>
+    <string name="login_to_samsung_account_desc">For at aktivere Fjernforbindelse på dit Gear skal du logge på din Samsung account.</string>
+    <string name="login_to_samsung_account_full_desc">"Log på din Samsung account for at bruge følgende funktioner, selv når enheden ikke er tilsluttet via Bluetooth:
+- Modtagelse af meddelelser
+- Brug af applikationer via Fjernforbindelse
+Brug af Fjernforbindelse kan medføre ekstra gebyrer."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Når du ikke er forbundet med din telefon via Bluetooth, gør en Samsung account det muligt for dig at gøre følgende via mobile data:
+- Modtage beskeder, e-mails og andre meddelelser
+- Bruge applikationer på Gear, som skal være forbundet til din telefon via fjernforbindelse.
+
+Bemærk, at fjernforbindelse via din Samsung account medfører brug af dit dataabonnement."</string>
+    <string name="longitude">Længdegrad</string>
+    <string name="main_bt_unpaired">Ikke-parret</string>
+    <string name="main_disconnected">Afbrudt</string>
+    <string name="manage_applications">Administrer applikationer</string>
+    <string name="manage_notifications">Administrer meddelelser</string>
+    <string name="manual_call_forwarding_for_att_msg">"Opkald til din mobilenhed kan viderestilles til dit Gear.
+- Din smartphone ringer nogle få gange, og opkaldet viderestilles derefter til dit Gear.
+- Hvis du ikke besvarer opkaldet på dit Gear, vil personen, der ringer op, eventuelt indtale en telefonsvarerbesked, som du kan høre på dit Gear.
+Vil du aktivere viderestilling af opkald nu?"</string>
+    <string name="manual_call_forwarding_popup_desc">Viderestilling af opkald er en netværkstjeneste, der viderestiller indgående opkald til %s til et bestemt nummer. Det kan være nødvendigt med et abonnement, afhængigt af tjenesteudbyderen, for at give dit Gear tilladelse til at bruge denne funktion. Dette kan medføre yderligere gebyrer.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobil enhed</string>
+    <string name="masterapp_not_installed">%1$s er ikke installeret på din mobile enhed. For at bruge %2$s på Gear skal du overføre %1$s til din mobile enhed.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s er ikke installeret på din mobile enhed. For at bruge %2$s på Gear skal du overføre %1$s til din mobile enhed. Du føres videre til overførselsskærmen.</string>
+    <string name="masterapp_uninstalled">%1$s er blevet afinstalleret fra din mobile enhed. For at bruge %2$s på Gear skal du overføre %1$s til din mobile enhed.</string>
+    <string name="maximum_size_warning">Det maksimale antal tegn er nået.</string>
+    <string name="menu_about_device">OM %s</string>
+    <string name="menu_actionbar_remove">Fjern</string>
+    <string name="menu_actionbar_uninstall">Afinstallér</string>
+    <string name="menu_appsandsettigns">APPS OG INDSTILLINGER</string>
+    <string name="menu_clock">Ur</string>
+    <string name="menu_display">REDIGER STARTSKÆRM</string>
+    <string name="menu_downloaded_font">DOWNLOAD SKRIFTTYPER</string>
+    <string name="menu_filetransfertogear">OVERFØR FILER TIL GEAR</string>
+    <string name="menu_gallery">Billede</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitness</string>
+    <string name="menu_help">Hjælp</string>
+    <string name="menu_home_screen">Typografi for startskærm</string>
+    <string name="menu_music">Musik</string>
+    <string name="menu_myapp">Mine apps</string>
+    <string name="menu_notification">Meddelelser</string>
+    <string name="menu_rename">Omdøb</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Indstillinger</string>
+    <string name="mobile_to_gear">Mobil til Gear</string>
+    <string name="mobile_to_gear_des">Modtag opk., som er foretaget til din mobilenhed, på Gear, når to enheder er tilsluttet eksternt.</string>
+    <string name="monotype_default_font">Standardskrifttype</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Flere</string>
+    <string name="more_options">Flere indstil.</string>
+    <string name="multisim_title">Multi-SIM</string>
+    <string name="navigate_up">Navigér op</string>
+    <string name="new_eula_error_log">Rapporter diagnoseoplysn.</string>
+    <string name="new_eula_fmd2">Find min enhed</string>
+    <string name="new_eula_fmg2">Find mit Gear</string>
+    <string name="new_eula_news_briefing">Nyheder</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung-tastatur</string>
+    <string name="new_notification_list">Listevisning</string>
+    <string name="new_notifications_list_desc">Vis en liste over modtagne meddelelser på dit Gear til venstre for uret.</string>
+    <string name="no_application_selected">Der er ikke blevet valgt nogen applikationer</string>
+    <string name="no_downloaded_applications">Ingen downloadede applikationer</string>
+    <string name="no_of_application_selected">Der er blevet valgt %d applikationer</string>
+    <string name="no_remote_connection_popup_msg">For at aktivere Automatisk viderestilling skal du åbne Samsung Gear-applikationen på din mobilenhed, aktivere Fjernforbindelse og prøve igen.</string>
+    <string name="no_remote_connection_popup_title">Aktiver Fjernforbindelse</string>
+    <string name="notification_type">Meddelelsestype</string>
+    <string name="notification_type_desc">Når dit Gear er i brug, vil dine meddelelser blive vist som små pop op-meddelelser øverst på skærmen, uanset hvad du vælger herover.</string>
+    <string name="number_setting">Nummerindstillinger</string>
+    <string name="ok">OK</string>
+    <string name="once">Én gang</string>
+    <string name="one_application_selected">Der er blevet valgt 1 applikation</string>
+    <string name="popup_attention_email_msg">Nogle e-mailkonti er ikke valgt i E-mailindstillinger. For at modtage meddelelser fra disse konti på dit Gear, skal du vælge E-mailmeddelelser i E-mailindstillinger.</string>
+    <string name="popup_attention_message_msg">For at sende og modtage beskeder på Gear, vil din standardbeskedapp blive ændret fra %s til Beskeder.</string>
+    <string name="popupmenu_search_for_new_device">Administrer enheder</string>
+    <string name="preview_message_desc">Vis eksempler på modtagne meddelelser i pop op-meddelelser på Gear, undtagen varsler om indgående opkald og alarmer.</string>
+    <string name="preview_message_title">Forhåndsvisning af besked</string>
+    <string name="primary">Primær</string>
+    <string name="privacypolicy_fmgfmd">Ved at aktivere “%1$s &amp; %2$s” accepterer du, at placeringsdata knyttet til din mobiltelefon og/eller Gear-enhed sendes via en Samsung-server for at levere tjenesterne %1$s og %2$s. Ingen data eller oplysninger om din enheds placering lagres på Samsung-serveren.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Ved at aktivere “%1$s &amp; %2$s” accepterer du, at placeringsdata knyttet til din mobiltelefon sendes via en Samsung-server for at levere tjenesten %2$s. Ingen data eller oplysninger om din enheds placering lagres på Samsung-serveren.</string>
+    <string name="privacypolicy_newsbriefing">Denne app giver brugere mulighed for at interagere med sociale medier og internettet på en række innovative måder. Hvis du aktiverer denne app, indsamler tjenesten informationer om, hvordan du bruger disse tjenester, herunder hvordan du ser og interagerer med indhold og reklamer. For yderligere oplysninger se Flipboards %1$sAnvendelsesvilkår%2$s og %3$sFortrolighedspolitik%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsungs fortrolighedspolitik</string>
+    <string name="progressdialog_please_wait">Vent…</string>
+    <string name="progressdialog_reinstalled_message">Installerer …</string>
+    <string name="progressdialog_reinstalled_popup_content">Geninstallér</string>
+    <string name="providerapp_reinstalled">%s fungerer ikke korrekt, så det er blevet afinstalleret. Det vil nu blive geninstalleret.</string>
+    <string name="quick_tutorial_add_shortcuts">"Hvis du vil tilføje appgenveje på Gear's startskærm, skal du gå til Apps på Gear, trykke og holde på et appikon og derefter trække det hen på startikonet øverst på skærmen."</string>
+    <string name="quick_tutorial_gear_structure">Uret vises på hovedsiden af dit Gears startskærmbillede. Siderne til venstre for uret indeholder meddelelser, og siderne til højre indeholder widgets. Stryg opad fra skærmens nederst kant for at se applikationer.</string>
+    <string name="quick_tutorial_noti_title">Introduktion til %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Du kan åbne S Voice ved at sige “Hi Gear” eller trykke på starttasten to gange på en valgfri skærm.</string>
+    <string name="quick_tutorial_swipe_downwards">Dobbelttryk på starttasten for at åbne din yndlingsapplikation. Du kan ændre din yndlingsapplikation i Indstillinger.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Dobbelttryk på tænd/sluk-tasten for at åbne din favoritapp. Du kan ændre din favoritapp i Indstillinger.</string>
+    <string name="quick_tutorial_to_go_back">Stryg nedad på skærmen fra kanten for at gå tilbage.</string>
+    <string name="remote_connection_disabled_settings">Indstillinger</string>
+    <string name="remote_connection_enabled_desc">Gear vil blive tilsluttet eksternt, hvis Bluetooth-forbindelsen ophører.</string>
+    <string name="requested">Anmodet</string>
+    <string name="reset_gear_legal_text1">Ved hjælp af Nulstil Gear kan du eksternt slette alle data på dit Gear. Når du har slettet alle data, kan de slettede data ikke gendannes, og du kan ikke længere bruge Find Mit Gear.</string>
+    <string name="reset_gear_legal_text2">* Det kan tage noget tid, inden Nulstil Gear fungerer. Funktionen kan endda mislykkes afhængigt af dit Gear, din mobile enhed eller dit netværk.</string>
+    <string name="restore_complete">Gendannelse fuldført.</string>
+    <string name="restore_some_error">Gendannelse mislykkedes. Prøv igen.</string>
+    <string name="restore_try_again">Prøv igen</string>
+    <string name="restore_watch_settings_content2">"Brug din enheds lager til at sikkerhedskopiere dit %1$s-indhold:
+%2$s
+
+Hvis du tidligere har sikkerhedskopieret dette indhold, kan du gendanne det til %3$s nu.
+
+Afhængigt af filstørrelsen kan det tage nogen tid.
+
+Du kan ændre dine sikkerhedskopiindstillinger i Indstillinger."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">INDSTILLINGER</string>
+    <string name="retrieve_dialog_desc">Henter programliste …</string>
+    <string name="sa_email">E-mail</string>
+    <string name="sa_error_0203_desc">For at aktivere Fjernforbindelse skal du opdatere din Samsung account manuelt.</string>
+    <string name="sa_error_0203_title">Opdater Samsung account</string>
+    <string name="sa_error_0301_desc">Der opstod en netværksfejl, da du loggede ind på din Samsung account på din mobile enhed.</string>
+    <string name="sa_error_0301_title">Kunne ikke aktivere funktion</string>
+    <string name="sa_error_0302_desc">Der opstod en netværksfejl, da du loggede ind på din Samsung account på din mobile enhed.</string>
+    <string name="sa_error_0302_title">Kunne ikke aktivere funktion</string>
+    <string name="sa_error_0401_desc">Der opstod en fejl. Prøv igen.</string>
+    <string name="sa_error_0401_title">Fejl</string>
+    <string name="safety_message_interval_10minutes">Hvert 10. minut</string>
+    <string name="safety_message_interval_20minutes">Hvert 20. minut</string>
+    <string name="samsung_apps_info">Applikationer, der er blevet downloadet via %1$s, kan slettes, når %2$s afinstalleres, eller applikationsdata ryddes. Du kan downloade slettede applikationer fra din købsoversigt i %3$s.</string>
+    <string name="samsung_apps_notice">Bemærkning</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Opdater nu</string>
+    <string name="screen_off">Hold skærmen slukket</string>
+    <string name="screen_off_desc">Modtag meddelelser, undtagen varsler om indgående opkald og alarmer, på Gear, mens skærmen er slukket.</string>
+    <string name="setting_Enable">Aktiver</string>
+    <string name="setting_alpm_dialog_title">Bemærk!</string>
+    <string name="setting_always_off">Altid fra</string>
+    <string name="setting_always_on">Altid til</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Deaktiveret af administrator, krypteringspolitik eller legitimationslager.</string>
+    <string name="setting_backup_restore2">Sikkerhedskopier og gendan</string>
+    <string name="setting_basic">BASIS</string>
+    <string name="setting_connections">FORBINDELSER</string>
+    <string name="setting_disable">Deaktiver</string>
+    <string name="setting_home_key_double_pressing">Tryk to gange på starttasten</string>
+    <string name="setting_language_input">SPROG OG INPUT</string>
+    <string name="setting_manage_text_templates">Rediger tekstskabeloner</string>
+    <string name="setting_mobile_network">Mobile netværk</string>
+    <string name="setting_mobile_network_desc">Gear vil blive koblet fra dit mobile netværk, når det forbindes til din mobilenhed via Bluetooth. Når Bluetooth-forbindelsen afbrydes, forbindes dit Gear automatisk med dit mobile netværk.</string>
+    <string name="setting_multisim_popup_desc">Afhængigt af din tjenesteudbyder vil du muligvis få brug for et separat abonnement for at bruge Multi-SIM-funktion. Tryk på OK for at aktivere Multi-SIM.</string>
+    <string name="setting_opensource">Open source-licens</string>
+    <string name="setting_palm_motion">Bevægelser</string>
+    <string name="setting_palm_swipe">Stryg for skærmbillede</string>
+    <string name="setting_palmover_desc">Anbring din hånd på skærmen, når den er tændt, for at slå lyden fra for indgående opkald og alarmer eller for at stoppe medier midlertidigt.</string>
+    <string name="setting_palmswipe_desc">Tag et skærmbillede ved at stryge hele din finger over skærmen, fra side til side, mens du holder kontakten med skærmen.</string>
+    <string name="setting_pause_mute">Lydløs/pause</string>
+    <string name="setting_power_key_double_pressing">Db.tryk på Tænd/sluk-knap</string>
+    <string name="setting_restoring">Gendanner…</string>
+    <string name="setting_safety_b1_desc">Når Gear og din mobilenhed er forbundet, kan Send hjælpebeskeder hjælpe dig i en nødsituation. Den alarmerer dine beskedkontakter om din situation ved at sende dem nødsituationsbeskeder med din placering. Afsendelse af disse beskeder kan medføre yderligere gebyrer. Hvis du vil aktivere Send hjælpebeskeder i en nødsituation, skal du trykke på tænd/sluk-knappen %d gange.</string>
+    <string name="setting_safety_b2_desc">Når Gear og din mobilenhed er forbundet, hjælper Send hjælpebeskeder dig i en nødsituation ved at tage et billede ved hjælp af Gear-kameraet. Den advarer dine nødsituationskontakter om din situation ved at sende dem nødsituationsbeskeder med dette billede sammen med din placering. Den første besked indeholder både din placering og billedet. Efter et stykke tid vil en anden hjælpebesked blive sendt, der kun indeholder din placering. Afsendelse af disse beskeder kan medføre yderligere gebyrer. For at aktivere Send hjælpebesked i en nødsituation skal du trykke på starttasten %d gange.</string>
+    <string name="setting_safety_b2_no_camera_desc">Når Gear og din mobilenhed er forbundet, hjælper Send hjælpebeskeder dig i en nødsituation. Den alarmerer dine nødsituationskontakter om din situation ved at sende dem nødsituationsbeskeder med din placering. Afsendelse af disse beskeder kan medføre yderligere gebyrer. For at aktivere Send hjælpebeskeder i en nødsituation skal du trykke på starttasten %d gange.</string>
+    <string name="setting_safety_b3_desc1">Tryk hurtigt 3 gange på starttasten for at sende et hurtigt varsel til dine primære kontakter, hvis du befinder dig i en nødsituation.</string>
+    <string name="setting_safety_b3_desc2">Dine primære kontakter vil modtage nødsituationsbeskeder med oplysninger om din aktuelle placering.</string>
+    <string name="setting_safety_b3_desc3">Opret forbindelse mellem din mobilenhed og dit Gear for at bruge denne funktion.</string>
+    <string name="setting_safety_list">Sikkerhedsassistance</string>
+    <string name="setting_samsung_legal">Samsung juridisk</string>
+    <string name="setting_screen_lock">Automatisk lås</string>
+    <string name="setting_screen_lock_desc">Brug Gear til at låse din mobile enhed.</string>
+    <string name="setting_screen_secutiry">SKÆRMSIKKERHED</string>
+    <string name="setting_send_emergency_picture">Send nødbillede</string>
+    <string name="setting_send_emergency_recording">Send lydoptagelse</string>
+    <string name="setting_send_emergency_term_agree">Jeg har læst og accepterer alle vilkår og betingelser ovenfor.</string>
+    <string name="setting_send_help_message">Send hjælpebeskeder</string>
+    <string name="setting_send_terms_conditions">Betingelser og vilkår</string>
+    <string name="setting_smart_relay">Smart relay</string>
+    <string name="setting_smart_relay_desc">Se indhold fra dit Gear på din mobile enhed ved at tage din mobile enhed op.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">SYSTEM</string>
+    <string name="setting_text_to_speech_engine">Tekst-til-tale-program</string>
+    <string name="setting_textinput_emoticon">Humørikoner</string>
+    <string name="setting_textinput_keyboard">Tastatur</string>
+    <string name="setting_textinput_list">Tekstinputmetoder</string>
+    <string name="setting_textinput_templates">Skabeloner</string>
+    <string name="setting_try_it">Prøv det</string>
+    <string name="setting_wake_up">Vågn op-bevægelse</string>
+    <string name="setting_wake_up_desc">Væk dit Gear ved at løfte den arm, som dit Gear sidder på.</string>
+    <string name="setting_wakeupgesture">"Hvis du vil vække dit Gear, skal du løfte den arm, som dit Gear sidder på, og kigge på dit Gears skærm.
+
+Denne funktion virker ikke, når du læner dig tilbage eller ligger ned, og den kan bruge mere af dit Gears batteri, fordi bevægelsessensoren altid er aktiveret."</string>
+    <string name="setting_wakeupgesture_clock">Ur</string>
+    <string name="setting_wakeupgesture_previous">Senest viste skærm</string>
+    <string name="setting_wakeupgesture_screen_on">Vælg den viste skærm</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Vælg den viste skærm</string>
+    <string name="settings">Indstillinger</string>
+    <string name="settings_application_version">Applikationsversion</string>
+    <string name="settings_emergency_contact">Administrer primære kontakter</string>
+    <string name="settings_emergency_contact_empty">Ingen primære kontakter er tilføjet. Hvis du vil aktivere %s, skal du føje kontakter til Primære kontakter.</string>
+    <string name="settings_legal_information">Juridiske oplysninger</string>
+    <string name="settings_message_interval">Beskedinterval</string>
+    <string name="settings_not_set">Ikke indstillet</string>
+    <string name="settings_security">Sikkerhed</string>
+    <string name="settings_security_update">Sikkerhedsopdatering</string>
+    <string name="settings_security_update_desc">Beskyt din enhed mod skadeligt indhold ved at forbedre dens sikkerhed og tjenester.</string>
+    <string name="settings_unknown_sources_dialog">Installation fra ukendte kilder kan skade din enhed og personlige data. Ved at trykke på OK accepterer du, at du alene er ansvarlig for enhver skade på din enhed eller tab af data, der kan opstå som følge af brug af disse applikationer.</string>
+    <string name="settings_unknown_sources_subtitle">Tillad installation af apps fra ukendte kilder.</string>
+    <string name="share_loc_disabled">Del placering er deaktiveret.</string>
+    <string name="share_location_desc">Tillad, at Find mit Gear og Find min enhed kan dele dit Gear og mobilenhedens placeringsdata.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Jeg accepterer, at Mobile data kan bruges, og at mms kan sendes i nødsituationer. Jeg er klar over, at dette kan medføre yderligere gebyrer.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Send hjælpebeskeder er beregnet til at hjælpe brugere med at sende besked om deres omtrentlige placering og visuelle omgivelser til mobiltelefonen for en valgt kontaktperson, som er angivet på forhånd. Den er kun lavet for din bekvemmelighed og er ikke beregnet som, og må ikke anses for at være, en erstatning for nødopkald til myndighederne.
+
+2. Send hjælpebeskeder (Tjenesterne) fungerer muligvis ikke nøjagtigt, kontinuerligt eller fejlfrit, afhængigt af omstændigheder såsom netværksforbindelse, tilgængeligheden af GPS-/Wi-Fi-information, status og/eller tilstand for din/dine valgte kontaktpersonernes enhed, batteriniveau og/eller andre omstændigheder, som ligger uden for kontrollen af Samsung Electronics Co., Ltd. (Samsung, vi, os, vores). Nøjagtigheden af placeringsinformation og rettidig levering af Tjenesterne kan afhænge af dine omgivelser og forholdene for din enhed og for din valgte kontaktpersons enhed. Medmindre andet udtrykkeligt angives eller er pålagt ved lov, frasiger Samsung sig enhver garanti for, at Tjenesterne vil fungere nøjagtigt, kontinuerligt eller fejlfrit. Bemærk, at din valgte kontaktperson skal have en fungerende mobiltelefon, og at enheden skal være tændt og i stand til at modtage SMS-beskeder. Overførsel af dine placeringsdata kan forudsætte, at du betaler for det, afhængigt af de gebyrer, som er specificeret af din tjenesteudbyder.
+
+For at Tjenesterne kan fungere efter hensigten, når du har installeret dem, er det nødvendigt at programmet automatisk aktiverer GPS- og Wi-Fi-funktionerne på din enhed. Du anerkender og accepterer automatisk aktivering af GPS- og Wi-Fi-funktionerne (hvis det er påkrævet) uden yderligere meddelelser til dig eller samtykke fra dig.
+
+3. Du anerkender og accepterer ikke at misbruge denne funktion eller bruge funktionen til ulovlige formål, eller til at krænke privatlivets fred, personlige rettigheder eller andres ejendomsrettigheder. Funktionen må kun anvendes i overensstemmelse med lovgivningen og kun i tilfælde af nødsituationer.Du accepterer at være eneansvarlig for din brug af denne funktion. Samsung er ikke ansvarlig for eventuelle følger af din brug af denne funktion.
+
+4. Tjenesterne er kun lavet for din bekvemmelighed og er ikke beregnet som, og må ikke anses for at være, en erstatning for nødopkald til myndighederne. Medmindre andet udtrykkeligt angives eller er pålagt ved lov, frasiger Samsung sig enhver garanti for, at Tjenesterne vil fungere nøjagtigt, kontinuerligt eller fejlfrit.
+
+5. ANSVARSFRASKRIVELSE. DU ER UDTRYKKELIGT INDFORSTÅET MED OG ACCEPTERER AT:
+ 
+A. TJENESTERNE LEVERES SOM DE ER, MED ALLE FEJL OG SOM DE FOREFINDES. DU BÆRER SELV RISIKOEN FOR BRUG AF DEM. SAMSUNG GIVER INGEN GARANTIER ELLER SÆRLIGE BETINGELSER UNDER ELLER I FORBINDELSE MED TJENESTERNE. SAMSUNG FRASKRIVER SIG UDTRYKKELIGT ALLE INDSIGELSER OG ALT ANSVAR AF ENHVER ART, DET VÆRE SIG UDTRYKKELIGT ELLER UNDERFORSTÅET, HERUNDER, MEN IKKE BEGRÆNSET TIL, EVENTUELLE UNDERFORSTÅEDE GARANTIER FOR SALGBARHED OG EGNETHED TIL ET BESTEMT FORMÅL OG IKKE-KRÆNKELSE AF RETTIGHEDER, OG ALLE UNDERFORSTÅEDE GARANTIER FRA HANDELSBRUG ELLER YDELSESBRUG.
+
+B. UDEN AT BEGRÆNSE DET FORANSTÅENDE GIVER SAMSUNG INGEN ERKLÆRING OM ELLER GARANTI FOR, AT (i) TJENESTERNE VIL OPFYLDE DINE KRAV, (ii) TJENESTERNE VIL VÆRE UDEN AFBRYDELSER, RETTIDIGE, SIKRE ELLER FEJLFRIE, (iii) INDHOLDET, DER LEVERES AF TJENESTERNE, ELLER EVENTUELLE BESKEDER ELLER FUNKTIONALITET I TJENESTERNE VIL VÆRE TILGÆNGELIGT, PRÆCIST, FULDSTÆNDIGT ELLER PÅLIDELIGT, (iv) KVALITETEN AF TJENESTERNE ELLER EVENTUELLE OPLYSNINGER ELLER ANDET MATERIALE, DER LEVERES TIL DIG AF TJENESTERNE, VIL OPFYLDE DINE FORVENTNINGER, ELLER (v) EVENTUELLE FEJL I TJENESTERNE BLIVER RETTET.
+
+6. BEGRÆNSNING AF ANSVAR.
+
+A. DU ER UDTRYKKELIGT INDFORSTÅET MED OG ACCEPTERER AT SAMSUNG IKKE KAN HOLDES ANSVARLIG UNDER MISTANKE FOR FORSØMMELIGHED FOR NOGET/NOGEN DIREKTE, INDIREKTE, HÆNDELIG, SPECIEL, PØNAL, FØLGEMÆSSIG ELLER ERSTATNINGSMÆSSIG TAB, ANSVAR, SKADE ELLER UDGIFT, HERUNDER, MEN IKKE BEGRÆNSET TIL, DRIFTSTAB, BRUGSTAB ELLER ANDRE TAB (SELV HVIS REPARATION, UDSKIFTNING ELLER EN GODTGØRELSE FOR TJENESTERNE IKKE KOMPENSERER DIG FULDT UD FOR EVENTUELLE TAB, ELLER SAMSUNG KENDTE TIL ELLER BURDE HAVE KENDT TIL MULIGHEDEN FOR ET SÅDANT TAB, ANSVAR, SKADE ELLER UDGIFT), DER DIREKTE ELLER INDIREKTE ER RESULTATET AF ELLER STAMMER FRA: (i) PÅSTAND OM KONTRAKTBRUD, BRUD PÅ GARANTI ELLER GARANTIBETINGELSER, SKÆRPET ANSVAR, FORSØMMELIGHED ELLER ANDEN SKADEVOLDENDE HANDLING I DET OMGANG, GÆLDENDE LOVGIVNING GØR DET MULIGT; (ii) BRUGEN AF, ELLER DEN MANGLENDE MULIGHED FOR AT BRUGE TJENESTERNE, (iii) OMKOSTNINGERNE VED ANSKAFFELSE AF ERSTATNINGSTJENESTER; (iv) UAUTORISERET ADGANG TIL ELLER ÆNDRING AF DINE TRANSMISSIONER ELLER DATA; (v) TREDJEPARTS ERKLÆRINGER ELLER ADFÆRD; (vi) DENNE AFTALE; (vii) SKADER I FORBINDELSE MED PERSONER ELLER IMMATERIALRET (HERUNDER DØD), ELLER (viii) ALLE ANDRE FORHOLD RELATERET TIL TJENESTERNE ELLER DET INDHOLD, DER LEVERES GENNEM TJENESTERNE.
+ 
+B. DIT ENESTE RETSMIDDEL VED ENHVER TVIST MED SAMSUNG VEDRØRENDE DENNE AFTALE ELLER TJENESTERNE ER AT STOPPE BRUGEN AF TJENESTERNE.
+ 
+C. NOGLE JURISDIKTIONER TILLADER IKKE FRALÆGGELSE AF VISSE GARANTIER ELLER BEGRÆNSNING ELLER UDELADELSE AF ANSVAR FOR HÆNDELIGE SKADER ELLER FØLGESKADER. DERFOR GÆLDER NOGLE AF OVENSTÅENDE BEGRÆNSNINGER I AFSNIT 5 OG 6 MULIGVIS IKKE FOR DIG.
+
+7. SKADESLØSHOLDELSE. Du er indforstået med at skadesløsholde og forsvare Samsung for og mod alle krav, handlinger, omkostninger, ansvar, tab, skader, bøder og udgifter (herunder rimelige advokathonorarer og -omkostninger), der opstår som følge af eller i relation til din brug af Tjenesterne eller din eventuelle manglende opfyldelse af denne aftale. Hvis du, trods den personlige form af de licenser, du er blevet tildelt under disse vilkår og bestemmelser, tillader andre personer at bruge Tjenesterne eller forsyner andre personer med oplysninger modtaget via Tjenesterne, er du indforstået med at oplyse disse personer om eksistensen af og bestemmelserne i disse vilkår og bestemmelser, der vil være bindende for sådanne personer, og du er indforstået med at skadesløsholde og forsvare Samsung mod alle krav, handlinger, omkostninger, ansvar, tab, skader, bøder og udgifter (herunder rimelige advokathonorarer og -omkostninger), der opstår i relation til disse personers brug af Tjenesterne.
+
+8. Force majeure. Samsung kan ikke holdes ansvarlig for eventuel forsinkelse eller funktionssvigt i henhold til disse vilkår og betingelser eller for afbrydelse af Tjenesterne som følge af naturkatastrofer, indgriben fra civile eller militære myndigheder, krig, terrorisme, arbejdstvister, materialer og tjenester leveret af tredjeparter eller andre årsager, der ligger uden for rimelig kontrol af Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Jeg tillader, at %1$s deler min placering med mine %2$s-kontakter.</string>
+    <string name="smartrelay_not_show">Vis ikke igen</string>
+    <string name="software_update">Softwareopdatering</string>
+    <string name="ss_double_tap_any_screen">Dobbelttryk på en hvilken som helst skærm med to fingre for at se kontrolelementer for lys- og lydstyrke og andre nyttige oplysninger.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Viderestiller opkald til dit Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Anmoder …</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Læser indstillinger …</string>
+    <string name="ss_loading_ing_abb">Indlæser…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data deaktiveret. Opret forbindelse til WLAN i stedet, eller aktiver mobile data, og prøv igen.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobile data deaktiveret. Opret forbindelse til Wi-Fi-netværk i stedet, eller aktiver mobile data og prøv igen.</string>
+    <string name="ss_no_network_connection">Ingen netværksforbindelse</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Brugervejledning</string>
+    <string name="str_no">Nej tak</string>
+    <string name="str_yes">Ja</string>
+    <string name="stub_list_install">Installér</string>
+    <string name="sw_eula_condition">Jeg forstår og accepterer vilkårene og betingelserne herover.</string>
+    <string name="sw_eula_desc2">Du accepterer at forsyne Samsung med fejllogdata fra enhver Softwareopdateringsfejl, din enhed udsættes for. Dette hjælper Samsung med at forbedre Samsungs Softwareopdateringsproces og ultimativt hjælpe dig med at holde din enhed korrekt opdateret.</string>
+    <string name="tab_stub_list">Udvalgte</string>
+    <string name="talkback_download">Overfør</string>
+    <string name="talkback_setting">Indstilling</string>
+    <string name="the_samsung_gear_application">Samsung Gear-applikationen</string>
+    <string name="threeg_connection">Brug Fjernforbindelse</string>
+    <string name="threeg_connection_subtitle">Forbind til dit Gear eksternt ved brug af Mobile data eller Wi-Fi sammen med din Samsung account.</string>
+    <string name="threeg_connection_subtitle_chn">Fjernforbind til dit Gear ved brug af Mobile data eller WLAN sammen med din Samsung account.</string>
+    <string name="title_activity_clock_delete">Afinstallér</string>
+    <string name="title_activity_connect_popup">Tilslut</string>
+    <string name="title_activity_paired_watch">Parret enhed</string>
+    <string name="title_alertdialog_device_name_popup">Omdøb %s</string>
+    <string name="title_alertdialog_disconnect_popup">Afbryd</string>
+    <string name="title_dialog_pm_error">Advarsel</string>
+    <string name="title_dialog_uninstall">Afinstaller</string>
+    <string name="title_eula">Juridiske meddelelser</string>
+    <string name="title_findmywatch_connect2">Find mit Gear</string>
+    <string name="title_findmywatch_finding">Søger …</string>
+    <string name="tri_connect_title_circle_to_gear">Forbind %1$s med %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Hvis du forbinder din %1$s med din %2$s via Bluetooth, frakobles din %3$s midlertidigt fra din mobilenhed. Forbindelsen genoprettes efter kort tid, og din %4$s vil være forbundet både med din %5$s og din mobilenhed.</string>
+    <string name="tt_install_voice_data">Installer TTS-stemmedata</string>
+    <string name="tt_install_voice_data_required">Installer yderligere tekst-til-tale-sprog på dit Gear.</string>
+    <string name="tt_language">Sprog</string>
+    <string name="tt_send_help_message">Send hjælpebeskeder</string>
+    <string name="tt_tts_language_guide">Dit tekst-til-tale-sprog er det sprog, du har konfigureret i dine Gear-indstillinger. Hvis dit sprog ikke understøttes af tekst-til-tale-funktionen, vil engelsk (Storbritannien) blive anvendt.</string>
+    <string name="unable_to_connect_popup_message">Kunne ikke forbinde dit Gear til din mobilenhed. Prøv igen senere.</string>
+    <string name="unable_to_connect_popup_title">Forbindelse mislykkedes</string>
+    <string name="unable_to_lock_gear">Kan ikke låse Gear</string>
+    <string name="unable_to_reset_gear">Kan ikke nulstille Gear</string>
+    <string name="unabled_health">Kan ikke åbne dette program, da det er deaktiveret.</string>
+    <string name="uninstall_applications">Afinstaller applikationer</string>
+    <string name="unknown_sources_msg_new">%1$s vil ikke blive installeret via %2$s. Din enhed og dine personlige data er mere sårbare over for angreb fra applikationer fra ukendte kilder. Du accepterer, at du alene er ansvarlig for skade på din enhed eller tab af data, der kan opstå som følge af brug af disse applikationer. Hvis du altid vil installere applikationer fra ukendte kilder skal du gå til %3$s > %4$s > %5$s og aktivere %6$s. Tryk på OK for at installere %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s er ikke fra %2$s, og den indeholder ikke en app til dit Gear. Din enhed og dine data er mere sårbare over for angreb fra apps fra ukendte kilder. Installationen vil blive annulleret, og %3$s vil blive slettet fra din telefon.</string>
+    <string name="unknown_sources_title">Ukendte kilder</string>
+    <string name="update_button">Opdater</string>
+    <string name="update_summary">Kontroller for opdateringer</string>
+    <string name="update_the_latest_version">Opdatering tilgængelig</string>
+    <string name="voice_control_subtitle">Sig “Answer” eller “Reject” i pauserne, hvor dit Gear ikke ringer eller vibrerer, for at besvare eller afvise opkald.</string>
+    <string name="voicememo_link1">Vilkårene og betingelserne for Nuance</string>
+    <string name="voicememo_link2">Samsungs fortrolighedspolitik</string>
+    <string name="voicememo_link3">Nuances fortrolighedspolitik</string>
+    <string name="watchapp_all">Apps</string>
+    <string name="watchapp_noapps">Ingen apps</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Opdaterer …</string>
+    <string name="wifi_only">Kun Wi-Fi</string>
+    <string name="wifi_only_chn">Kun WLAN</string>
+    <string name="wifi_only_summary">Download kun opdateringer, når der er oprettet forbindelse til et Wi-Fi-netværk.</string>
+    <string name="wifi_only_summary_chn">Kan kun downloades, når der er oprettet forbindelse via WLAN.</string>
+    <string name="email_sanitize">Af sikkerhedsmæssige årsager kan indholdet i denne e-mail ikke vises i Gear. Læs denne e-mail på din mobile enhed for flere detaljer</string>
+    <string name="knox_sanitize">Tryk her for at åbne KNOX-tilstand.</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/textView_popuptitle" android:paddingLeft="25.0dip" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle">
+        <TextView android:textSize="19.0sp" android:id="@id/textView_message" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:layout_marginRight="15.0dip" android:maxHeight="288.0dip" android:layout_below="@id/dialogImageLayout" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+        <LinearLayout android:orientation="horizontal" android:id="@id/show_again_check_Linear" android:focusable="true" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="17.0dip" android:layout_marginBottom="22.0dip" android:layout_below="@id/textView_message" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin">
+            <CheckBox android:gravity="center|left" android:id="@id/show_again_CheckBox" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="wrap_content" android:button="@drawable/manager_checkbox_btn" />
+            <TextView android:textSize="19.0sp" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/tv_dnsa" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/checkbox_left_margin" android:text="@string/smartrelay_not_show" android:singleLine="true" style="@style/TextView_PopupDesc" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/show_again_check_Linear">
+            <Button android:id="@id/btn_cancel" android:layout_width="0.0dip" android:layout_height="50.0dip" android:text="@string/bnr_cancel" android:layout_weight="1.0" style="@style/PopupButton" />
+            <View android:id="@id/btn_divider" android:background="@drawable/manager_buttonbarbutton_selector_default_line" android:layout_width="1.0dip" android:layout_height="50.0dip" />
+            <Button android:id="@id/btn_ok" android:layout_width="0.0dip" android:layout_height="50.0dip" android:text="@string/bnr_ok" android:layout_weight="1.0" style="@style/PopupButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

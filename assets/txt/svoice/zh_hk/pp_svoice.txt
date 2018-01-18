@@ -1,0 +1,5 @@
+免責聲明<br><br>
+S Voice 、語音識別及語言處理功能是由 Nuance Communications Inc.（美國）提供。 Samsung 對任何與 S Voice 的語音識別功能有關和其衍生的使用一律概不負責。<br><br>
+Nuance 服務條款<br><br>
+為提供 S Voice 、語音識別及語言處理功能，Nuance Communications Inc.（以下簡稱「Nuance」）會收集：(i) 您的位置數據、(ii) 您的聲音數據、(iii) 您的儲存數據（如聯絡人姓名、音樂資訊等）、(iv) 您的裝置數據（如獨有的裝置辨認器、硬件型號、作業系統版本、語言等）及 (v) 您的使用數據。 Nuance 和其合夥人會用收集回來的數據作以下用途：(i) 提供服務、(ii) 改善服務及 (iii) 統計目的。 按下下方的 「我同意 」核取方塊後，代表您同意以下幾點： (a) 在  <a href="http://www.vlingo.com/wap/samsung-cc-terms/en"> Nuance 服務條款</a>中列明的所有條款及細則及 (b) Nuance 及其合夥人根據 Nuance 的私隱政策去收集、使用、儲存及發佈您裝置中的數據作上述用途。 欲獲取更多有關私隱的資料，請參閱 <a href="http://www.vlingo.com/wap/samsung-sv-privacy/en"> Nuance 私隱政策</a>。 
+

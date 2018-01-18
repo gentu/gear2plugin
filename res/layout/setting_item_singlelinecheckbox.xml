@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/manager_winset_1_line_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="bottom" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="11.0dip" android:layout_toLeftOf="@id/checkbox" android:layout_alignParentLeft="true" android:layout_centerVertical="true" style="@style/TextView_ListDescFirstLine" />
+    <CheckBox android:id="@id/checkbox" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="12.0dip" android:button="@drawable/manager_checkbox_btn" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

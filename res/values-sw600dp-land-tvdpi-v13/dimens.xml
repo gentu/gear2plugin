@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fmg_b2_desc_text_bottom_margin">65.0dip</dimen>
+    <dimen name="fmg_b2_desc_text_left_margin">25.0dip</dimen>
+    <dimen name="fmg_b2_desc_text_right_margin">25.0dip</dimen>
+    <dimen name="fmg_b2_desc_text_textsize">22.0sp</dimen>
+    <dimen name="fmg_b2_desc_text_top_margin">51.0dip</dimen>
+    <dimen name="fmg_b2_find_my_phone_button_height">49.0dip</dimen>
+    <dimen name="fmg_b2_find_my_phone_button_textsize">19.0dip</dimen>
+    <dimen name="fmg_b2_img_find_my_phone_image_watch2_height">515.0dip</dimen>
+    <dimen name="fmg_b2_img_find_my_phone_image_watch2_width">545.0dip</dimen>
+    <dimen name="fmg_b2_img_find_my_phone_image_watch_height">296.0dip</dimen>
+    <dimen name="fmg_b2_img_find_my_phone_image_watch_width">241.0dip</dimen>
+    <dimen name="fmg_b2_relative_layout_height">65.0dip</dimen>
+    <dimen name="fmg_b2_relative_layout_margin_left">14.0dip</dimen>
+    <dimen name="fmg_b2_relative_layout_margin_right">14.0dip</dimen>
+    <dimen name="fmg_b2_relative_layout_margin_top">0.0dip</dimen>
+    <dimen name="myapps_list_setting_icon_area_size">55.0dip</dimen>
+    <dimen name="myapps_list_setting_icon_text_left_margin">15.0dip</dimen>
+    <dimen name="myapps_list_setting_icon_text_right_margin">5.0dip</dimen>
+</resources>

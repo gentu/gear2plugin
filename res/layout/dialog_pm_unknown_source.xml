@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/textPmTitle" style="@style/TextView_PopupTitle" />
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/ScrlPmView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/textPmTitle">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/contentPmView" android:scrollbars="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:layout_marginBottom="22.0dip" style="@style/TextView_PopupDesc" />
+            <LinearLayout android:gravity="right" android:orientation="horizontal" android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/popup_btn_height" android:layout_below="@id/contentPmView">
+                <TextView android:id="@id/btn_pm_cancel" android:text="@string/cancel" style="@style/TextView_PopupButton" />
+                <TextView android:id="@id/btn_pm_ok" android:layout_marginRight="8.0dip" android:text="@string/ok" style="@style/TextView_PopupButton" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

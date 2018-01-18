@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/watch_info_software_layout_update" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/samsung_update" custom:subtext="@string/update_summary" />
+    <include layout="@layout/settings_items_simple_divider" />
+    <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/watch_info_software_layout_auto_update" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/auto_update" custom:subtext="@string/auto_update_summary" />
+    <include layout="@layout/settings_items_simple_divider" />
+    <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/watch_info_software_layout_wifi" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/wifi_only" custom:subtext="@string/wifi_only_summary" />
+    <include android:id="@id/line3" layout="@layout/settings_items_simple_divider" />
+</LinearLayout>

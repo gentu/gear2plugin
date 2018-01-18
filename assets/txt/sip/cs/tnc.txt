@@ -1,0 +1,8 @@
+Klávesnice Samsung a používání služby pro rozpoznávání řeči
+1. Služba Klávesnice Samsung používá jako komponentu technologii pro rozpoznávání řeči. Berete na vědomí, že společnost Samsung může využívat službu pro rozpoznávání řeči („Služba pro rozpoznávání řeči“) poskytovanou třetí stranou, společností Nuance Communications Inc. („Nuance“), a souhlasíte v souvislosti s používáním služby Klávesnice Samsung s následujícími ustanoveními.
+2. Souhlasíte s tím, že službě Klávesnice Samsung nebudete zasílat žádné automatizované nebo nahrané požadavky.  
+3. Berete na vědomí, že slova, která budete diktovat do služby Klávesnice Samsung (včetně zvukových nahrávek takových slov, přidružených přepisů a souborů protokolů) („Data rozpoznávání řeči“), budou shromažďována společností Nuance za účelem poskytování služby rozpoznávání řeči.
+4. Souhlasíte s tím, že během poskytování služby pro rozpoznávání řeči může společnost Nuance shromažďovat Data rozpoznávání řeči, která mohou být použita společností Nuance a jejími nezávislými partnery k ladění, vylepšení a zdokonalení (a) služby pro rozpoznávání řeči a (b) jiných produktů a služeb společnosti Nuance.
+5. Souhlasíte s tím, že Data rozpoznávání řeči mohou být přenášena do Spojených států nebo jiných zemí za účelem uložení, zpracování a použití společností Nuance a jejími nezávislými partnery.
+6. Veškerá poskytnutá Data rozpoznávání řeči zůstanou důvěrná a budou použita ve shodě s platnými zákony, ale mohou být společností Nuance předána, v případě potřeby, aby bylo vyhověno zákonným nebo kontrolním požadavkům, např. na základě soudního příkazu, nebo státnímu úřadu, pokud je vyžaduje nebo je to dáno zákonem, nebo třetí straně, která získá společnost Nuance nebo se s ní sloučí.
+

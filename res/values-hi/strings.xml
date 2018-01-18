@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">कॉल के दौरान अनुपलब्ध।</string>
+    <string name="actionbar_name">गियर प्रबंधक</string>
+    <string name="alert_full_screen">पूर्ण स्क्रीन पॉपअप</string>
+    <string name="alert_mini">छोटा पॉप-अप</string>
+    <string name="alertdialog_backkey_popup_content">चेतावनी</string>
+    <string name="alertdialog_disconnect_popup_description">गियर डिस्कनेक्ट किया जाएगा। पुनः कनेक्ट करने हेतु ब्लूटूथ का उपयोग करें।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">यह %s के साथ आपका कनेक्शन समाप्त करेगा।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">आपका %s आपके मोबाइल डिवाइस से डिस्कनेक्ट हो जाएगा। अगली बार जब आप इन डिवाइसेस को कनेक्ट करें, तब आपको ब्लूटूथ का उपयोग करना आवश्यक है। इसके बाद कोई भी कनेक्शंस रिमोट कनेक्शन के माध्यम से पूर्ण किए जा सकते हैं।</string>
+    <string name="alertdialog_uninstall_popup_content">स्थापना रद्द करें</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">आपके मोबाइल डिवाइस पर %1$s स्थापित नहीं किया गया। अपने गियर पर %2$s का उपयोग करने के लिए, अपने मोबाइल डिवाइस पर %1$s डाउनलोड करें।</string>
+    <string name="attention_popup_title">ध्यान दें</string>
+    <string name="auto_call_forwarding">स्वतः कॉल अग्रेषण</string>
+    <string name="auto_call_forwarding_att">गियर पर स्वतः कॉल अग्रेषण</string>
+    <string name="auto_call_forwarding_desc">आपका गियर आपके मोबाइल डिवाइस से डिस्कनेक्ट होने पर स्वचालित रूप से कॉल अग्रेषण सक्षम करें। डिवाइसेस के पुनः कनेक्ट होने तक यह आनेवाली कॉल्स को आपके मोबाइल डिवाइस से आपके गियर पर अग्रेषित करेगा।</string>
+    <string name="auto_update">स्वतः अपडेट</string>
+    <string name="auto_update_summary">स्वचालित रूप से अपडेट्‍स के लिए देखें।</string>
+    <string name="backing_up">बैकअप ले रहा है…</string>
+    <string name="backup_complete">बैकअप पूर्ण।</string>
+    <string name="bnr_backup">बैकअप ले रहा है…</string>
+    <string name="bnr_bakcup_title">बैकअप</string>
+    <string name="bnr_cancel">रद्द</string>
+    <string name="bnr_canel">रद्द करें</string>
+    <string name="bnr_error_occurred">त्रुटि पाई गई</string>
+    <string name="bnr_except">%1$s (%2$s के अलावा)</string>
+    <string name="bnr_except_autolock">स्वत: लॉक</string>
+    <string name="bnr_except_remoteconnection">रिमोट कनेक्शन</string>
+    <string name="bnr_except_texttemplate">टेक्स्ट टेम्पलेट्स</string>
+    <string name="bnr_next">अगला</string>
+    <string name="bnr_no">नहीं</string>
+    <string name="bnr_ok">ओके</string>
+    <string name="bnr_reset_gear">नए डिवाइस से कनेक्ट होने के लिए, गियर अपनी फैक्टरी सेटिंग्स पर रीसेट हो जाएगा।</string>
+    <string name="bnr_reset_gear_move_setupwizard">गियर पूरी तरह से सेट नहीं है। सेटअप विज़ार्ड वर्तमान में गियर में खुला है, लेकिन गियर से कनेक्ट करने के लिए, आपको इस डिवाइस पर भी गियर मैनेजर में सेटअप विज़ार्ड खोलने की आवश्यकता है।</string>
+    <string name="bnr_reset_initialization">सूचना</string>
+    <string name="bnr_restore">रीस्टोर</string>
+    <string name="bnr_restored">डाटा रीस्टोर किया गया।</string>
+    <string name="bnr_setupwizard_title2">बैक अप लें और रीस्टोर करें</string>
+    <string name="bnr_yes">हाँ</string>
+    <string name="bt_connected">कनेक्ट किया गया</string>
+    <string name="bt_disconnected">डिस्कनेक्ट हुआ</string>
+    <string name="bt_unpaired">जोड़ा हटाया गया</string>
+    <string name="button_finish">समाप्त</string>
+    <string name="button_restore">रीस्टोर करें</string>
+    <string name="call">कॉल करें</string>
+    <string name="call_check_gear_status_when_cfwd">एक ही समय में कॉल अग्रेषण फंक्शन मोबाइल से गियर और गियर से मोबाइल सक्षम नहीं किए जा सकते हैं।</string>
+    <string name="call_dualsim1">SIM कार्ड 1</string>
+    <string name="call_dualsim1sim2">दोनों SIM कार्ड</string>
+    <string name="call_dualsim2">SIM कार्ड 2</string>
+    <string name="call_forwarding">कॉल अग्रेषण</string>
+    <string name="call_forwarding_agree">मैं सहमत हूँ।</string>
+    <string name="call_forwarding_desc">अपने मोबाइल डिवाइस पर आनेवाली कॉल्स अपने गियर पर अग्रेषित करें।</string>
+    <string name="call_forwarding_desc_vzw">अपने फोन की अनुत्तरित आनेवाली कॉल्स को अपने गियर पर अग्रेषित करें।</string>
+    <string name="call_forwarding_disable_msg">आपके मोबाइल डिवाइस से आपके गियर पर कॉल अग्रेषण अक्षम करने के लिए एक अनुरोध किया गया है। आपके मोबाइल नेटवर्क और मोबाइल डिवाइस की स्थिति परिणामों को प्रभावित कर सकती है।</string>
+    <string name="call_forwarding_enable_msg">आपके मोबाइल डिवाइस से आपके गियर पर कॉल अग्रेषण सक्षम करने के लिए एक अनुरोध किया गया है। आपके मोबाइल नेटवर्क और मोबाइल डिवाइस की स्थिति परिणामों को प्रभावित कर सकती है।</string>
+    <string name="call_forwarding_for_att_msg">"आपके स्मार्टफोन से गियर डिस्कनेक्ट होने पर, मोबाइल डिवाइस की आनेवाली कॉल्स को गियर पर स्वचालित रूप से अग्रेषित किया जाएगा।
+- आपका स्मार्टफोन कई बार रिंग होगा और फिर कॉल आपके गियर पर अग्रेषित किया जाएगा।
+- यदि आप अपने गियर पर कॉल का उत्तर नहीं देते हैं, तो कॉलर एक वॉइसमेल छोड़ सकता है जिसे आप अपने गियर पर सुन सकते हैं।
+क्या आप अभी स्वतः कॉल अग्रेषण चालू करना चाहते हैं?"</string>
+    <string name="call_forwarding_notify_msg">आपके मोबाइल डिवाइस से आपके गियर पर कॉल अग्रेषण वर्तमान में सक्षम है। आपके मोबाइल डिवाइस पर आनेवाली कॉल्स आपके गियर पर अग्रेषित की जाएँगी। यदि आपके पास आपका गियर नहीं है, तो आपसे कोई कॉल नहीं छूटे यह सुनिश्चित करने के लिए, सेटिंग्स पर जाएँ और कॉल्स स्वतः अग्रेषित करें अक्षम करें।</string>
+    <string name="call_forwarding_turning_off_notify_msg">वॉइस कॉल अग्रेषण अक्षम हो रहा है…</string>
+    <string name="call_forwarding_turning_on_notify_msg">वॉइस कॉल अग्रेषण सक्षम हो रहा है…</string>
+    <string name="call_no_gear_number">नंबर्स नहीं</string>
+    <string name="call_select_dualsim_title">SIM कार्ड चुनें</string>
+    <string name="call_voice_control">वॉइस नियंत्रण</string>
+    <string name="callforwarding_help_des1">चाहे आपके डिवाइसेस ब्लूटूथ के द्वारा या रिमोट कनेक्शन के माध्यम से कनेक्ट किए गए हों, इसके आधार पर उस डिवाइस पर स्विच करें जिसके कॉल्स को स्वचालित रूप से अग्रेषित किया जाएगा।</string>
+    <string name="callforwarding_help_des2">गियर के दूरस्थ रूप से आपके मोबाइल डिवाइस से कनेक्ट होने पर आपके द्वारा इसे ले जाने और पहनने के दौरान अपने मोबाइल डिवाइस पर किए जाने वाले कॉल्स को अपने गियर पर प्राप्त करें।</string>
+    <string name="cancel">रद्द</string>
+    <string name="cf_activated">सक्रिय किया गया</string>
+    <string name="cf_deactivate_failed">कॉल अग्रेषण अक्षम करने में विफल।</string>
+    <string name="cf_deactivated">निष्क्रिय किया गया</string>
+    <string name="clock_new_clock_settings_applied_via_gear">गियर के माध्यम से नई घड़ी सेटिंग्स को लागू किया गया है।</string>
+    <string name="clocks_download_more_clocks">अधिक घड़ियाँ डाउनलोड करें</string>
+    <string name="clocks_noti_uninstall_clock">%s अस्थापित किया जाएगा।</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s की स्थापना रद्द की जाएगी और %2$s को डिफॉल्ट घड़ी के रूप में सेट किया जाएगा।</string>
+    <string name="clocks_title_basic_clocks">मूल घड़ियाँ</string>
+    <string name="clocks_title_downloaded_clocks">डाउनलोड की गई घड़ियाँ</string>
+    <string name="clocks_title_style_clocks">शैली घड़ियाँ</string>
+    <string name="clocks_uninstalled">स्थापना रद्द किया गया।</string>
+    <string name="clocks_uninstalling">स्थापना रद्द किया जा रहा है…</string>
+    <string name="close">बंद</string>
+    <string name="closing_samsung_gear_message">आपका गियर रीसेट किया गया। सैमसंग गियर एप्लीकेशन जल्द ही बंद हो जाएगी।</string>
+    <string name="closing_samsung_gear_message_jpn">आपका गियर रीसेट हो गया है। गियर एप्लीकेशन जल्द ही बंद हो जाएगी।</string>
+    <string name="closing_samsung_gear_title">सैमसंग गियर एप्लीकेशन बंद करें</string>
+    <string name="closing_samsung_gear_title_jpn">गियर एप्लीकेशन बंद करें</string>
+    <string name="cloud_backup_no_information">कभी नहीं</string>
+    <string name="cloud_backup_restore_backup_now">डाटा का बैकअप लें</string>
+    <string name="cloud_backup_restore_restore_now">डाटा रीस्टोर करें</string>
+    <string name="cmw_agree">मैं सहमत हूँ</string>
+    <string name="cmw_eula_agree">मैंने ऊपर लिखे नियम और शर्तों को पढ़ा और समझा है और मैं इनसे सहमत हूँ।</string>
+    <string name="cmw_for_setting">स्थान सेवाएँ अक्षम की गई हैं। सेटिंग्स पर जाएँ।</string>
+    <string name="cmw_high_accuracy_dialog_message">तीव्र और सबसे सटीक स्थान पहचान के लिए, स्थान > मोड में “उच्च परिशुद्धता” चुनें।</string>
+    <string name="cmw_high_accuracy_dialog_title">उच्च सटीकता चुनें</string>
+    <string name="cmw_legal_content">“मेरा स्थान साझा करें” सक्षम करके आप सहमति देते हैं कि मेरा गियर ढूँढें और मेरा डिवाइस ढूँढें सेवा प्रदान करने के लिए आपके मोबाइल फोन और/या गियर डिवाइस से संबद्ध डाटा सैमसंग सर्वर के माध्यम से स्थानांतरित किया जाएगा। आपके डिवाइस स्थान के बारे में कोई डाटा या जानकारी सैमसंग सर्वर पर संग्रहित नहीं की जाती।</string>
+    <string name="cmw_legal_content1">“%1$s &amp; %2$s” सक्षम करके आप सहमति देते हैं कि %1$s और %2$s सेवा प्रदान करने के लिए आपके मोबाइल फोन और/या गियर डिवाइस से संबंधित डाटा सैमसंग सर्वर के माध्यम से स्थानांतरित किया जाएगा। आपके डिवाइस स्थान के बारे में कोई डाटा या जानकारी सैमसंग सर्वर पर संग्रहित नहीं की जाती।</string>
+    <string name="cmw_legal_content1_no_gps">“%1$s &amp; %2$s” सक्षम करके आप सहमति देते हैं कि %2$s सेवा प्रदान करने के लिए आपके मोबाइल फोन से संबंधित डाटा सैमसंग सर्वर के माध्यम से स्थानांतरित किया जाएगा। आपके डिवाइस स्थान के बारे में कोई डाटा या जानकारी सैमसंग सर्वर पर संग्रहित नहीं की जाती।</string>
+    <string name="cmw_legal_content_2">सैमसंग गोपनीयता निति</string>
+    <string name="cmw_legal_title">कानूनी सूचना</string>
+    <string name="cmw_location">स्थान सेवाएँ सक्षम करें</string>
+    <string name="cmw_show_on_map">मैप पर दिखाएँ</string>
+    <string name="color_black">काला</string>
+    <string name="color_blue">नीला</string>
+    <string name="color_brown">भूरा</string>
+    <string name="color_gray">ग्रे</string>
+    <string name="color_green">हरा</string>
+    <string name="color_light_sky_blue">हल्का आसमानी नीला</string>
+    <string name="color_medium_purple">मध्यम बैंगनी</string>
+    <string name="color_orange">नारंगी</string>
+    <string name="color_pink">गुलाबी</string>
+    <string name="color_purple">बैंगनी</string>
+    <string name="color_red">लाल</string>
+    <string name="color_spring_green">बसंती हरा</string>
+    <string name="common_none">कुछ नहीं</string>
+    <string name="common_off">बंद</string>
+    <string name="common_on">चालू</string>
+    <string name="common_recent_apps">हाल ही के एप्स</string>
+    <string name="connect_popup_content">%s से जोड़ रहा है…</string>
+    <string name="connected_by_trasport_BT">ब्लूटूथ के माध्यम से कनेक्ट किया गया</string>
+    <string name="connected_by_trasport_SCS">दूरस्थ रूप से कनेक्ट किया</string>
+    <string name="connecting_content">गियर से कनेक्‍ट कर रहा है</string>
+    <string name="connecting_doc">अपने %1$s से कनेक्ट करने के बाद, आप इसकी सेटिंग्स बदल सकते हैं और %2$s के द्वारा इस पर एप्लीकेशंस स्थापित कर सकते हैं।</string>
+    <string name="connecting_popup_message">गियर से कनेक्ट किया जा रहा है…</string>
+    <string name="connecting_popup_title">गियर से जोड़ें</string>
+    <string name="connecting_to_gear_ing">गियर से कनेक्ट किया जा रहा है…</string>
+    <string name="connectingdoc">अपने गियर से जुड़ने के बाद, आप गियर प्रबंधक के द्वारा उसकी सेटिंग्स बदल सकते हैं और उस पर एप्लीकेशंस स्थापित कर सकते हैं।</string>
+    <string name="connection_error_dialog_message">आपका डिवाइस कनेक्ट नहीं किया गया है। यह फिर से कनेक्ट करने का प्रयास करेगा।</string>
+    <string name="dialog_check_phone_number_msg1">सुनिश्चित करें कि निम्नलिखित जानकारी सही है:</string>
+    <string name="dialog_check_phone_number_msg2">मोबाइल फोन नंबर: %s</string>
+    <string name="dialog_check_phone_number_msg3">गियर फोन नंबर: %s</string>
+    <string name="dialog_check_phone_number_msg4">स्वतः कॉल अग्रेषण की पुष्टि और इसे सक्षम करने के लिए “ओके” टैप करें।</string>
+    <string name="dialog_enable_remote_connection_desc">स्वतः कॉल अग्रेषण सक्षम करने के लिए रिमोट कनेक्शन सक्षम करें, तब फिर से प्रयास करें।</string>
+    <string name="dialog_enable_remote_connection_title">रिमोट कनेक्शन सक्षम करें</string>
+    <string name="dialog_permission_message">%s का उपयोग करने में असमर्थ। “सेटिंग्स” पर टैप करें, एप जानकारी > अनुमतियाँ पर जाएं फिर निम्नलिखित अनुमतियों को अनुमति दें और फिर से प्रयास करें:</string>
+    <string name="dialog_popup_button_cancel">रद्द</string>
+    <string name="dialog_reverse_msg">आपके सेवा प्रदाता के आधार पर, इस सुविधा का उपयोग करने के लिए मोबाइल डिवाइस और गियर को अनुमति देने के लिये भिन्न सदस्यताओं की आवश्‍यकता हो सकती है। इसके परिणाम स्वरूप अतिरिक्त शुल्क लग सकते हैं।</string>
+    <string name="dialog_set_phone_number_msg">स्वतः कॉल अग्रेषण सक्षम करने के लिए, उन डिवाइसेस का फोन नंबर सेट करें जिन पर आप आनेवाली कॉल्स अग्रेषित करना या जिनसे आप कॉल्स प्राप्त करना चाहते हैं।</string>
+    <string name="dialog_set_phone_number_title">स्वतः कॉल अग्रेषण सक्षम करें</string>
+    <string name="disable_loc_text">स्थान साझा करें अक्षम हो जाएगा। मेरा गियर ढूँढें या मेरा डिवाइस ढूंढें के माध्यम से अपना गियर या मोबाइल डिवाइस खोजने के लिए स्थान जानकारी उपयोग करने में समर्थ नहीं होंगे।</string>
+    <string name="disable_loc_text_no_gps">स्थान साझा करें अक्षम किया जाएगा। आप मेरा डिवाइस ढूँढें के माध्यम से अपना मोबाइल डिवाइस खोजने के लिए स्थान जानकारी उपयोग करने में समर्थ नहीं होंगे।</string>
+    <string name="disable_remote_connection">रिमोट कनेक्शन अक्षम करें</string>
+    <string name="disable_remote_connection_fmm_fmd">मेरा गियर ढूंढें और मेरा डिवाइस ढूंढें</string>
+    <string name="disable_remote_connection_receiving_blocked">मोबाइल डिवाइस से सन्देश, ईमेल और सूचनाएँ प्राप्त करना</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">मोबाइल डिवाइस से सन्देश, ईमेल्स और अधिसूचनाएँ प्राप्त करना</string>
+    <string name="disable_remote_connection_warning">रिमोट कनेक्शन अक्षम किया जाएगा। निम्न फंक्शंस तब तक उपलब्ध नहीं होंगे जब तक आपका गियर ब्लूटूथ द्वारा आपके मोबाइल डिवाइस से फिर से कनेक्ट नहीं होता:</string>
+    <string name="disable_share_location">स्थान साझा करें अक्षम करें</string>
+    <string name="disconnect_popup_content">%s डिस्कनेक्ट हो रहा है…</string>
+    <string name="do_not_show_again">दोबारा न दिखाएँ</string>
+    <string name="enable_auto_call_forwarding_msg">गियर डिस्कनेक्ट होने के दौरान आनेवाली कॉल्स को अपने मोबाइल डिवाइस से अपने गियर पर स्वचालित रूप से अग्रेषित करें। आपके सेवा प्रदाता के आधार पर, इसके परिणाम स्वरूप अतिरिक्त शुल्क लग सकते हैं। स्वतः कॉल अग्रेषण सक्षम करने हेतु “ओके” टैप करें।</string>
+    <string name="enable_auto_call_forwarding_title">स्वतः कॉल अग्रेषण सक्षम करें</string>
+    <string name="enable_more_notifications_enable">सक्षम</string>
+    <string name="enable_notification_access">सूचना एक्सेस सक्षम करें</string>
+    <string name="enable_notification_access_desc">"यह फंक्शन आपके द्वारा प्राप्त की जाने सभी अधिसूचनाएँ पढ़ने में समर्थ होगा, जिनमें आपको भेजे गए संपर्क और सन्देश के रूप में व्यक्तिगत जानकारी शामिल हो सकती है। यह इन अधिसूचनाओं को निरस्त करने या उनसे संबंधित कार्यवाहियों को चुनने में भी समर्थ होगा।
+आपके गियर पर अधिसूचनाएँ प्राप्त करने के लिए, “सक्षम करें” पर टैप करें, फिर %s सक्षम करें।"</string>
+    <string name="enable_share_location">स्थान साझा करें सक्षम करें</string>
+    <string name="enabled_loc">स्थान साझा करें सक्षम है।</string>
+    <string name="error_enter_device_name">साधन नाम प्रविष्ट करें।</string>
+    <string name="error_occurred">त्रुटि पाई गई।</string>
+    <string name="eula_i_agree">मैं सहमत हूँ।</string>
+    <string name="failed_tshare_msg">कॉल अग्रेषण सक्षम करना विफल। T शेयर से कोई प्रतिक्रिया नही।</string>
+    <string name="find_my_device">मेरा डिवाइस ढूँढें</string>
+    <string name="find_my_gear">मेरा गियर ढूंढें</string>
+    <string name="find_watch_btn_start">प्रारंभ करें</string>
+    <string name="find_watch_btn_stop">रोकें</string>
+    <string name="find_watch_off">अपना गियर ढूँढने के लिए, प्रारंभ टैप करें। गियर ध्वनि उत्पन्न करेगा और उसकी स्क्रीन चालू की जाएगी।</string>
+    <string name="find_watch_on">अपना गियर ढूँढ़ना रोकने के लिए, “रोकें” टैप करें। गियर कोई ध्वनि चलाने से रोक देगा और इसकी स्क्रीन बंद हो जाएगी।</string>
+    <string name="font_gear_name">गियर</string>
+    <string name="font_noti_uninstall_idle_font">%1$s की स्थापना रद्द की जाएगी और आपके %2$s में डिफॉल्ट फॉन्ट लागू किया जाएगा।</string>
+    <string name="force_wifi_direct_msg">एप्लीकेशन Wi-Fi Direct के माध्यम से स्थापित की जाएगी। यह आपके वर्तमान Wi-Fi Direct कनेक्शन को समाप्त कर देगा। यदि आप स्थापना रद्द करते हैं, तो आपको इस एप्लीकेशन को फिर से स्थापित करने के लिए इसे डाउनलोड करने की आवश्यकता होगी।</string>
+    <string name="force_wifi_direct_title">स्थापित करें</string>
+    <string name="force_wifi_install">स्थापित करें</string>
+    <string name="gear2_backup_confirm_text">यदि आप अभी अपने डाटा का बैकअप लेते हैं, तो मोबाइल डिवाइस का वर्तमान गियर बैकअप डाटा आपके नवीनतम गियर डाटा से बदल जाएगा।</string>
+    <string name="gear2_restore_confirm_text">यदि आप अपना डाटा रीस्टोर करते हैं, तो आपके गियर का वर्तमान डाटा हट जाएगा और आपके वर्तमान गियर बैकअप डाटा से बदल जाएगा।</string>
+    <string name="gear2_text">"अपनी %1$s सामग्री का बैकअप लेने के लिए अपने डिवाइस स्टोरेज का उपयोग करें:
+%2$s
+
+यदि पिछली बार आपने इस सामग्री का बैकअप लिया है, तो आप इसे %3$s पर अभी रीस्टोर कर सकते हैं।
+
+फाइल के आकार के आधार पर इसमें कुछ समय लग सकता है।"</string>
+    <string name="gear2_text_import3">सेटिंग्स</string>
+    <string name="gear_bnr_desc">"निम्न %1$s डाटा का बैकअप लेने के लिए अपने मोबाइल डिवाइस स्टोरेज का उपयोग करें: %2$s
+
+आपके द्वारा पहले अपने %3$s डाटा का बैकअप लिए होने पर अब आप उसे अपने %4$s में रीस्टोर कर सकते हैं।
+
+फाइलों के आकार के आधार पर इसमें कुछ समय लग सकता है।"</string>
+    <string name="gear_fit">सैमसंग गियर फिट</string>
+    <string name="gear_location_popup_message">आपका मोबाइल डिवाइस अब आपके गियर को खोज रहा है। इसमें काफी समय लग सकता है। यदि आपका गियर घर के अंदर है तो इसे ढूँढना कठिन हो सकता है।</string>
+    <string name="gear_location_popup_title">गियर का पता लगाएँ</string>
+    <string name="gear_location_text">गियर स्थान</string>
+    <string name="gear_lock_success">गियर लॉक है।</string>
+    <string name="gear_lock_text">गियर लॉक करें</string>
+    <string name="gear_locked">गियर लॉक है</string>
+    <string name="gear_locked_text1">गियर लॉक है। अनलॉक करने के लिए ब्लूटूथ द्वारा गियर को मोबाइल डिवाइस से कनेक्ट करें।</string>
+    <string name="gear_phone_number">गियर फोन नंबर</string>
+    <string name="gear_phone_number_popup_desc">आपके मोबाइल डिवाइस की सभी कॉल्स %s पर अग्रेषित की जाएँगी।</string>
+    <string name="gear_phone_number_popup_desc_vzw">आपके मोबाइल डिवाइस की सभी अनुत्तरित कॉल्स %s पर अग्रेषित की जाएँगी।</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">अपना गियर लॉक करने के लिए पहले रिमोट कनेक्शन सक्षम किया गया होना आवश्यक है।</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">अपना गियर रीसेट करने के लिए पहले रिमोट कनेक्शन सक्षम किया गया होना आवश्यक है।</string>
+    <string name="gear_reset_text">गियर रीसेट करें</string>
+    <string name="gear_to_mobile">गियर से मोबाइल</string>
+    <string name="gear_to_mobile_des">दो डिवाइसेस ब्लूटूथ द्वारा कनेक्ट होने पर आपके गियर से मोबाइल डिवाइस पर किए गए कॉल्स प्राप्त करें।</string>
+    <string name="gear_unable_to_locate_message">स्थान ढूँढ़ने में विफल। बाद में फिर से प्रयास करें।</string>
+    <string name="gear_unable_to_locate_title">गियर का पता लगाने में असमर्थ</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">वॉलपेपर्स</string>
+    <string name="home_bg_color">रंग</string>
+    <string name="home_bg_colors_title">उपलब्ध रंग</string>
+    <string name="home_bg_delete_actionbar_selected">चयनित</string>
+    <string name="home_bg_delete_dialog_msg">%d वॉलपेपर्स गियर प्रबंधक और आपके गियर से निकाले जाएँगे।</string>
+    <string name="home_bg_delete_select_all">सभी चुनें</string>
+    <string name="home_bg_max_more_image_toast">वॉलपेपर्स की अधिकतम संख्या (%d) तक पहुँच गई है।</string>
+    <string name="home_bg_more_images">अधिक छवियाँ</string>
+    <string name="home_bg_popup_wallpaper_msg">गियर वॉलपेपर्स डाउनलोड हो रहा है…</string>
+    <string name="home_bg_popup_wallpaper_title">वॉलपेपर्स डाउनलोड करें</string>
+    <string name="home_bg_toast_saved">सुरक्षित किया।</string>
+    <string name="home_bg_wallpaper">वॉलपेपर</string>
+    <string name="home_bg_wallpapers_title">उपलब्ध वॉलपेपर्स</string>
+    <string name="homelayout_apps">एप्लीकेशंस</string>
+    <string name="incoming_calls_title">आनेवाली कॉल्स</string>
+    <string name="info_build_number">सॉफ्‍टवेयर संस्‍करण</string>
+    <string name="info_model_number">मॉडल नम्‍बर</string>
+    <string name="info_software_update">सॉफ्टवेयर अपडेट</string>
+    <string name="information_provision_agreement">सूचना प्रावधान अनुबंध</string>
+    <string name="information_provision_agreement_mgs">"वॉइस मेमो द्वारा Nuance Communications, Inc. नामक एक तृतीय पक्ष प्रदाता द्वारा प्रदान की गई वॉइस रिकग्निशन तकनीक का उपयोग किया जाता है। अतः आपकी वॉइस संबंधी सूचना अनिवार्य रूप से Nuance (संयुक्त राज्य में) द्वारा संचालित सर्वर में स्टोर की जाती है तथा वॉइस मेमो का उपयोग करने के लिए आपका Nuance के नियमों और शर्तों को स्वीकार करना आवश्यक है।
+ Nuance के पास सेवाओं में सुधार करने तथा तकनीकों का विकास करने के लिए आपके वॉइस इनपुट के उपयोग का अधिकार सुरक्षित है। Nuance के पास पूर्वोल्लिखित वॉइस इनपुट Nuance के भागीदारों को प्रदान करने का अधिकार भी सुरक्षित है। आपकी वॉइस इनपुट जानकारी पूर्वोल्लिखित उद्देश्यों के पूरा होने तक स्टोर करके रखी जाती है। वॉइस मेमो सेवाओं के बारे में जानकारी के लिए, कृपया Samsung गोपनीयता नीति और Nuance गोपनीयता नीतिपढ़ें।
+ यदि आप ऊपर वर्णित आपकी सूचना संबंधी प्रावधानों को स्वीकार नहीं करते हैं, तो आप वॉइस मेमो का उपयोग नहीं कर सकते हैं।"</string>
+    <string name="init_manage_notifications_desc">वे एप्लीकेशंस चुनें, जिनसे आप अपने %1$s पर सूचनाएँ प्राप्त करना चाहते हैं। अपने %2$s की बैटरी पॉवर बचाने के लिए उन एप्लीकेशन का चयन रद्द करें, जिनसे आप सूचनाएँ प्राप्त नहीं करना चाहते हैं।</string>
+    <string name="install_in_progress">प्रगति पर…</string>
+    <string name="invalid_rename_character">अमान्य वर्ण प्रविष्ट किया गया है। फिर से प्रयास करें।</string>
+    <string name="latest_version">नवीनतम संस्करण स्थापित हुआ</string>
+    <string name="latitude">अक्षांश</string>
+    <string name="limit_notification_desc">मोबाइल डिवाइस का उपयोग किए जाने के दौरान गियर पर प्रकट होने वाले सतर्क अवरुद्ध करें।</string>
+    <string name="limit_notification_dialog_desc">आपके गियर पर अधिसूचनाएँ प्रतिबंधित करें सक्षम करने में अक्षम। आपके मोबाइल डिवाइस पर कोई स्क्रीन लॉक सेट नहीं है।</string>
+    <string name="limit_notification_title">सूचनाएँ सीमित करें</string>
+    <string name="location_info_title">स्थान साझा करें</string>
+    <string name="lock_gear_legal_text1">गियर लॉक करें का उपयोग करके, आप अपने गियर के अनधिकृत उपयोग को रोकने के लिए उसे दूरस्थ रूप से लॉक कर सकते हैं। आप गियर को मोबाइल डिवाइस से फिर से कनेक्ट करके उसे अनलॉक कर सकते हैं।</string>
+    <string name="lock_gear_legal_text2">* गियर लॉक करें आपके गियर, मोबाइल डिवाइस या नेटवर्क पर्यावरण की स्थिति के आधार पर कार्य करने में कुछ समय ले सकता है या विफल भी हो सकता है।</string>
+    <string name="lock_gear_text">आपका मोबाइल डिवाइस और गियर ब्लूटूथ के माध्यम से कनेक्ट होने पर अपने गियर को लॉक करने में असमर्थ।</string>
+    <string name="login_to_samsung_account">Samsung account में साइन इन करें</string>
+    <string name="login_to_samsung_account_desc">अपने गियर पर रिमोट कनेक्शन सक्षम करने के लिए अपने Samsung account में साइन इन करें।</string>
+    <string name="login_to_samsung_account_full_desc">"ब्लूटूथ द्वारा कनेक्ट नहीं किए जाने पर भी निम्नलिखित सुविधाओं का उपयोग करने के लिए आपके Samsung account में साइन इन करें:
+- अधिसूचनाएँ प्राप्त करना
+- रिमोट कनेक्शन के माध्यम से एप्लीकेशंस का उपयोग करना
+रिमोट कनेक्शन का उपयोग करने के परिणाम स्वरूप अतिरिक्त शुल्क लग सकते हैं।"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"जब आप ब्लूटूथ द्वारा अपने फोन से कनेक्टेड न हों, तो एक Samsung account आपको मोबाइल डाटा पर निम्न कार्य करने देगा:
+- सन्देश, ईमेल्स और अन्य सूचनाएँ प्राप्त करना
+- गियर पर उन एप्लीकेशंस का उपयोग करें जिन्हें दूरस्थ कनेक्शन के माध्यम से आपके फोन पर कनेक्शन की जरूरत हो।
+
+ध्यान रखें कि आपके Samsung account के माध्यम से रिमोट कनेक्शन आपकी डाटा योजना का उपयोग करता है।"</string>
+    <string name="longitude">देशांतर</string>
+    <string name="main_bt_unpaired">जोड़ा हटाया गया</string>
+    <string name="main_disconnected">डिस्कनेक्ट हुआ</string>
+    <string name="manage_applications">एप्लीकेशंस प्रबंधित करें</string>
+    <string name="manage_notifications">सूचनाएँ प्रबंधित करें</string>
+    <string name="manual_call_forwarding_for_att_msg">"आपके स्मार्टफोन पर डायल की गईं कॉल्स आपके गियर पर अग्रेषित की जा सकती हैं।
+- आपका स्मार्टफोन कुछ देर तक रिंग होगा और फिर कॉल को आपके गियर पर अग्रेषित किया जाएगा।
+- यदि आप अपने गियर पर कॉल का उत्तर नहीं देते हैं, तो कॉलर एक वॉइसमेल छोड़ सकता है जिसे आप अपने गियर पर सुन सकते हैं।
+क्या आप अभी कॉल अग्रेषण सक्षम करना चाहते हैं?"</string>
+    <string name="manual_call_forwarding_popup_desc">कॉल अग्रेषण एक नेटवर्क सेवा है, जो %s आनेवाली कॉल्स को किसी निर्दिष्ट नंबर पर अंतरित करती है। आपके सेवा प्रदाता के आधार पर, आपके गियर को इस सुविधा का उपयोग करने की अनुमति देने के लिए सदस्यता की आवश्यकता हो सकती है। इसके परिणाम स्वरूप अतिरिक्त शुल्क लग सकते हैं।</string>
+    <string name="manual_call_forwarding_popup_desc_arg">मोबाइल डिवाइस</string>
+    <string name="masterapp_not_installed">आपके मोबाइल डिवाइस पर %1$s स्थापित नहीं किया गया। अपने गियर पर %2$s का उपयोग करने के लिए, अपने मोबाइल डिवाइस पर %1$s डाउनलोड करें।</string>
+    <string name="masterapp_not_installed_goto_deeplink">आपके मोबाइल डिवाइस पर %1$s स्थापित नहीं है। अपने गियर पर %2$s का उपयोग करने के लिए, अपने मोबाइल डिवाइस पर %1$s डाउनलोड करें। आपको डाउनलोड स्क्रीन पर ले जाया जाएगा।</string>
+    <string name="masterapp_uninstalled">आपके मोबाइल डिवाइस से %1$s की स्थापना रद्द की गई। अपने गियर पर %2$s का उपयोग करने के लिए, अपने मोबाइल डिवाइस पर %1$s डाउनलोड करें।</string>
+    <string name="maximum_size_warning">वर्णों की अधिकतम संख्या पूरी हो गई।</string>
+    <string name="menu_about_device">%s के बारे में</string>
+    <string name="menu_actionbar_remove">हटाएँ</string>
+    <string name="menu_actionbar_uninstall">अस्थापित करें</string>
+    <string name="menu_appsandsettigns">एप्स और सेटिंग्स</string>
+    <string name="menu_clock">घड़ी</string>
+    <string name="menu_display">होम स्क्रीन संपादित करें</string>
+    <string name="menu_downloaded_font">डाउनलोड किए गए फॉन्ट्स</string>
+    <string name="menu_filetransfertogear">गियर पर फाइलें भेजें</string>
+    <string name="menu_gallery">छवि</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">स्वास्थ्य</string>
+    <string name="menu_help">सहायता</string>
+    <string name="menu_home_screen">होम स्क्रीन स्टायलर</string>
+    <string name="menu_music">संगीत</string>
+    <string name="menu_myapp">मेरे एप्स</string>
+    <string name="menu_notification">सूचनाएँ</string>
+    <string name="menu_rename">नाम बदलें</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">गियर एप्स</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="mobile_to_gear">मोबाइल से गियर</string>
+    <string name="mobile_to_gear_des">दो डिवाइसेस दूरस्थ रूप से कनेक्ट होने पर आपके मोबाइल डिवाइस पर किए गए कॉल्स को गियर पर प्राप्त करें।</string>
+    <string name="monotype_default_font">डिफॉल्ट फॉन्ट</string>
+    <string name="monotype_dialog_font_applemint">एप्पल मिंट</string>
+    <string name="monotype_dialog_font_choco">चोको कुकी</string>
+    <string name="monotype_dialog_font_cool">कूल जैज</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">पॉप</string>
+    <string name="monotype_dialog_font_rose">रोजमेरी</string>
+    <string name="monotype_dialog_font_tinkerbell">टिंकर बेल</string>
+    <string name="more">अधिक</string>
+    <string name="more_options">अधिक विकल्प</string>
+    <string name="multisim_title">मल्टी SIM</string>
+    <string name="navigate_up">ऊपर नेविगेट करें</string>
+    <string name="new_eula_error_log">नैदानिक सूचना रिपोर्ट करें</string>
+    <string name="new_eula_fmd2">मेरा डिवाइस ढूँढें</string>
+    <string name="new_eula_fmg2">मेरा गियर ढूंढें</string>
+    <string name="new_eula_news_briefing">समाचार विवरण</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">सैमसंग कीबोर्ड</string>
+    <string name="new_notification_list">सूची दृश्य</string>
+    <string name="new_notifications_list_desc">घड़ी के बाएँ गियर पर प्राप्त सूचनाओं की सूची दिखाएँ।</string>
+    <string name="no_application_selected">कोई एप्लीकेशंस नहीं चुने गए</string>
+    <string name="no_downloaded_applications">कोई डाउनलोड किए गए एप्लीकेशंस नहीं हैं</string>
+    <string name="no_of_application_selected">%d एप्लीकेशंस चुने गए</string>
+    <string name="no_remote_connection_popup_msg">स्वतः कॉल अग्रेषण सक्षम करने के लिए, अपने मोबाइल डिवाइस पर सैमसंग गियर एप्लीकेशन खोलें और रिमोट कनेक्शन सक्षम करें, इसके बाद फिर से प्रयास करें।</string>
+    <string name="no_remote_connection_popup_title">रिमोट कनेक्शन सक्षम करें</string>
+    <string name="notification_type">सूचना का प्रकार</string>
+    <string name="notification_type_desc">आपके गियर का उपयोग करने के दौरान ऊपर आपके चयन पर ध्यान दिए बिना, आपकी सूचनाएँ स्क्रीन के शीर्ष पर छोटे पॉप-अप्स के रूप में प्रदर्शित होंगी।</string>
+    <string name="number_setting">नंबर सेटिंग</string>
+    <string name="ok">ओके</string>
+    <string name="once">एकबार</string>
+    <string name="one_application_selected">1 एप्लीकेशन चुना गया</string>
+    <string name="popup_attention_email_msg">कुछ ईमेल खाते ईमेल सेटिंग्स में चयनित नहीं हैं। अपने गियर पर उन खातों से सूचनाओं को प्राप्त करने के लिए, ईमेल सेटिंग्स में ईमेल सूचनाओं का चयन करें।</string>
+    <string name="popup_attention_message_msg">अपने गियर पर सन्देश भेजने और प्राप्त करने के लिए, आपका डिफॉल्ट सन्देश सेवा एप %s से सन्देश में बदल जाएगा।</string>
+    <string name="popupmenu_search_for_new_device">डिवाइसेस प्रबंधित करें</string>
+    <string name="preview_message_desc">आनेवाली कॉल सतर्क और अलार्म छोड़ कर, अपने गियर पर सूचना पॉप-अप्स में प्राप्त सूचनाओं का प्रिव्यू दिखाएँ।</string>
+    <string name="preview_message_title">सन्देश का प्रिव्यू देखें</string>
+    <string name="primary">प्राथमिक</string>
+    <string name="privacypolicy_fmgfmd">“%1$s &amp; %2$s” सक्षम करके आप सहमति देते हैं कि %1$s और %2$s सेवा प्रदान करने के लिए आपके मोबाइल फोन और/या गियर डिवाइस से संबंधित डाटा सैमसंग सर्वर के माध्यम से स्थानांतरित किया जाएगा। आपके डिवाइस स्थान के बारे में कोई डाटा या जानकारी सैमसंग सर्वर पर संग्रहित नहीं की जाती।</string>
+    <string name="privacypolicy_fmgfmd_no_gps">“%1$s &amp; %2$s” सक्षम करके आप सहमति देते हैं कि %2$s सेवा प्रदान करने के लिए आपके मोबाइल फोन से संबंधित डाटा सैमसंग सर्वर के माध्यम से स्थानांतरित किया जाएगा। आपके डिवाइस स्थान के बारे में कोई डाटा या जानकारी सैमसंग सर्वर पर संग्रहित नहीं की जाती।</string>
+    <string name="privacypolicy_newsbriefing">यह एप उपयोगकर्ताओं को सामाजिक मीडिया और इंटरनेट के साथ सहभागिता करने के विभिन्न तरीके प्रदान करता है। यदि आप यह एप सक्षम करते हैं, तो सेवा आप जिस प्रकार सेवाएँ उपयोग करते हैं वह जानकारी एकत्रित करेगी, जिसमें यह शामिल है कि आप सामग्री और विज्ञापनों से किस प्रकार सहभागिता करते हैं। अधिक विवरण के लिए कृपया फ्लिपबोर्ड %1$sउपयोग की शर्तें%2$s और %3$sगोपनीयता नीति%4$s देखें।</string>
+    <string name="privacypolicy_samsung_privacy_policy">सैमसंग गोपनीयता निति</string>
+    <string name="progressdialog_please_wait">कृपया प्रतीक्षा करें…</string>
+    <string name="progressdialog_reinstalled_message">स्थापित हो रहा है…</string>
+    <string name="progressdialog_reinstalled_popup_content">पुन: स्थापित</string>
+    <string name="providerapp_reinstalled">%s ठीक से कार्य नहीं करता इसलिए इसकी स्थापना रद्द कर दी गई है। अब यह पुनः स्थापित किया जाएगा।</string>
+    <string name="quick_tutorial_add_shortcuts">गियर की होम स्क्रीन पर ऐप शॉर्टकट्स जोड़ने के लिए, गियर पर एप्स में जाएँ, कोई “ऐप” प्रतीक पर टैप और होल्ड करें, फिर स्क्रीन के शीर्ष पर होम प्रतीक पर उसे ड्रैग और ड्रॉप करें।</string>
+    <string name="quick_tutorial_gear_structure">घड़ी आपके गियर की होम स्क्रीन के मुख्य पेज पर दिखाई गई है। घड़ी के बाईं ओर के पेज सूचनाएँ दिखाते हैं और जो दाईं ओर हैं वे विजेट्स दिखाते हैं। एप्लीकेशंस देखने के लिए स्क्रीन के निचले किनारे से ऊपर की ओर स्वाइप करें।</string>
+    <string name="quick_tutorial_noti_title">%s से परिचय</string>
+    <string name="quick_tutorial_noti_title_gear">गियर S</string>
+    <string name="quick_tutorial_noti_title_gear1">गियर</string>
+    <string name="quick_tutorial_noti_title_gear2">गियर 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice खोलने के लिए, “Hi Gear” बोलें या किसी स्क्रीन पर होम कुंजी दो बार दबाएँ।</string>
+    <string name="quick_tutorial_swipe_downwards">अपना पसंदीदा एप्लिकेशन खोलने के लिए होम कुंजी दो बार दबाएँ। आप सेटिंग्स में अपना पसंदीदा एप्लिकेशन बदल सकते हैं।</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">अपना पसंदीदा एप खोलने के लिए पॉवर कुंजी दो बार दबाएँ। आप सेटिंग्स में अपना पसंदीदा एप बदल सकते हैं।</string>
+    <string name="quick_tutorial_to_go_back">पीछे जाने के लिए स्क्रीन को किनारे से नीचे की ओर स्वाइप करें।</string>
+    <string name="remote_connection_disabled_settings">सेटिंग्स</string>
+    <string name="remote_connection_enabled_desc">ब्लूटूथ कनेक्शन समाप्त होने पर गियर को दूरस्थ रूप से कनेक्ट किया जाएगा।</string>
+    <string name="requested">अनुरोध किया गया</string>
+    <string name="reset_gear_legal_text1">गियर रीसेट करें उपयोग करके, आप दूरस्थ रूप से अपने गियर पर मौजूद सभी डाटा को हटा सकते हैं। इस प्रकार से हटाने के बाद, हटाया गया डाटा फिर से रीस्टोर नही किया जा सकता और आप मेरा गियर ढूँढें का अब और उपयोग नहीं कर पाएंगे।</string>
+    <string name="reset_gear_legal_text2">* गियर रीसेट करें आपके गियर, मोबाइल डिवाइस या नेटवर्क पर्यावरण की स्थिति के आधार पर कार्य करने में कुछ समय ले सकता है या विफल भी हो सकता है।</string>
+    <string name="restore_complete">रीस्टोर पूरा हुआ।</string>
+    <string name="restore_some_error">रीस्टोर करना विफल। फिर से प्रयास करें।</string>
+    <string name="restore_try_again">पुनः प्रयास</string>
+    <string name="restore_watch_settings_content2">"अपनी %1$s सामग्री का बैकअप लेने के लिए अपने डिवाइस स्टोरेज का उपयोग करें:
+%2$s
+
+यदि पिछली बार आपने इस सामग्री का बैकअप लिया है, तो आप इसे %3$s पर अभी रीस्टोर कर सकते हैं।
+
+फाइल के आकार के आधार पर इसमें कुछ समय लग सकता है।
+
+आप सेटिंग्स में अपनी बैकअप सेटिंग्स परिवर्तित कर सकते हैं।"</string>
+    <string name="restore_watch_settings_content2_import1">गियर</string>
+    <string name="restore_watch_settings_content2_import3">सेटिंग्स</string>
+    <string name="retrieve_dialog_desc">एप्लीकेशन सूची पुनः प्राप्त की जा रही है…</string>
+    <string name="sa_email">ईमेल</string>
+    <string name="sa_error_0203_desc">रिमोट कनेक्शन सक्षम करने के लिए, Samsung account को मैनुअल रूप से अपडेट करें।</string>
+    <string name="sa_error_0203_title">Samsung account अपडेट करे</string>
+    <string name="sa_error_0301_desc">आपके मोबाइल डिवाइस पर आपके Samsung account में साइन इन करने के दौरान कोई नेटवर्क त्रुटि उत्पन्न हुई।</string>
+    <string name="sa_error_0301_title">फंक्शंस सक्षम करने में विफल</string>
+    <string name="sa_error_0302_desc">आपके मोबाइल डिवाइस पर आपके Samsung account में साइन इन करने के दौरान कोई नेटवर्क त्रुटि उत्पन्न हुई।</string>
+    <string name="sa_error_0302_title">फंक्शंस सक्षम करने में विफल</string>
+    <string name="sa_error_0401_desc">कोई त्रुटि हुई है। फिर प्रयास करें।</string>
+    <string name="sa_error_0401_title">त्रुटि</string>
+    <string name="safety_message_interval_10minutes">प्रत्येक 10 मिनट</string>
+    <string name="safety_message_interval_20minutes">हर 20 मिनट</string>
+    <string name="samsung_apps_info">%2$s की स्थापना रद्द करने या एप्लीकेशन डाटा साफ करने पर %1$s के माध्यम से डाउनलोड किए गए एप्लीकेशंस हटाए जा सकते हैं। आप %3$s में अपने खरीद इतिहास से हटाए गए एप्लीकेशंस डाउनलोड कर सकते हैं।</string>
+    <string name="samsung_apps_notice">सूचना</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">अभी अपडेट करें</string>
+    <string name="screen_off">स्क्रीन बंद रखें</string>
+    <string name="screen_off_desc">आपके गियर की स्क्रीन बंद होने के दौरान उस पर आनेवाली कॉल सतर्क और अलार्म को छोड़ कर अधिसूचनाएँ प्राप्त करें।</string>
+    <string name="setting_Enable">सक्षम</string>
+    <string name="setting_alpm_dialog_title">ध्यान दें</string>
+    <string name="setting_always_off">हमेशा बंद</string>
+    <string name="setting_always_on">हमेशा चालू</string>
+    <string name="setting_auto">स्वतः</string>
+    <string name="setting_auto_lock_disable_desc">व्यवस्थापक, एन्क्रिप्शन नीति, या क्रिडेन्शियल स्टोरेज के द्वारा अक्षम किया गया।</string>
+    <string name="setting_backup_restore2">बैक अप लें और रीस्टोर करें</string>
+    <string name="setting_basic">मूलभूत</string>
+    <string name="setting_connections">कनेक्शंस</string>
+    <string name="setting_disable">अक्षम करें</string>
+    <string name="setting_home_key_double_pressing">होम कुंजी दो बार दबाना</string>
+    <string name="setting_language_input">भाषा और इनपुट</string>
+    <string name="setting_manage_text_templates">टेक्स्ट टेम्पलेट्स संपादित करें</string>
+    <string name="setting_mobile_network">मोबाइल नेटवर्क्स</string>
+    <string name="setting_mobile_network_desc">ब्लूटूथ द्वारा आपके मोबाइल डिवाइस से कनेक्ट होने पर गियर आपके मोबाइल नेटवर्क से डिस्कनेक्ट होगा। ब्लूटूथ द्वारा कनेक्शन समाप्त होने पर, गियर स्वचालित रूप से आपके मोबाइल नेटवर्क से पुनः कनेक्ट होगा।</string>
+    <string name="setting_multisim_popup_desc">आपके सेवा प्रदाता के आधार पर, आपको मल्टी SIM फंक्शन उपयोग करने के लिए अलग सदस्यता की आवश्यकता हो सकती है। मल्टी SIM सक्षम करने के लिए “ओके” टैप करें।</string>
+    <string name="setting_opensource">ओपन सोर्स लाइसेंस</string>
+    <string name="setting_palm_motion">गति</string>
+    <string name="setting_palm_swipe">कैप्चर हेतु स्वाइप</string>
+    <string name="setting_palmover_desc">आनेवाली कॉल्स और अलार्म्स म्यूट करने, या मीडिया को विराम देने के लिए, स्क्रीन के चालू होने पर स्क्रीन के ऊपर अपना हाथ रखें।</string>
+    <string name="setting_palmswipe_desc">स्क्रीन से संपर्क बनाए रखते हुए अपनी उंगली को स्क्रीन पर स्वाइप करके स्क्रीन को कैप्चर करें।</string>
+    <string name="setting_pause_mute">म्यूट करें/विराम दें</string>
+    <string name="setting_power_key_double_pressing">पॉवर कुंजी दो बार दबाना</string>
+    <string name="setting_restoring">रीस्‍टोर हो रहा है…</string>
+    <string name="setting_safety_b1_desc">जब आपका गियर और मोबाइल डिवाइस कनेक्ट हो, तो मदद सन्देश भेजें किसी आपातकाल में आपकी मदद करता है। यह आपके आपातकालीन सन्देश संपर्कों को आपके स्थान के साथ आपातकालीन सन्देश भेज कर उन्हें आपकी स्थिति के प्रति सतर्क करता है। ये सन्देश भेजने पर अतिरिक्त शुल्क लग सकते हैं। किसी आपातकाल के दौरान मदद सन्देश भेजें सक्षम करने के लिए पॉवर कुंजी को %d बार दबाएँ।</string>
+    <string name="setting_safety_b2_desc">"आपके गियर और मोबाइल डिवाइस के कनेक्ट होने पर, 'मदद सन्देश भेजें' सुविधा किसी आपातकाल में गियर कैमरा के उपयोग से कोई तस्वीर लेकर आपकी मदद करती है। यह आपके आपातकालीन सन्देश संपर्को को इस तस्वीर और आपके स्थान के साथ आपातकालीन सन्देश भेजकर आपकी स्थिति के बारे में सतर्क करती है। पहले सन्देश में आपका स्थान और तस्वीर दोनों होंगे। इसके बाद, एक अंतराल के बाद, एक दूसरा सन्देश भेजा जाएगा जिसमें केवल आपका स्थान शामिल होगा। ये सन्देश भेजने के अतिरिक्त शुल्क लग सकते है। किसी आपातकाल के दौरान मदद सन्देश भेजना सक्षम करने के लिए, होम कुंजी को %d बार दबाएँ।"</string>
+    <string name="setting_safety_b2_no_camera_desc">आपका गियर और मोबाइल डिवाइस कनेक्ट होने पर, मदद सन्देशों को भेजना किसी आपातकालीन स्थिति में आपकी मदद करता है। यह आपके स्थान सहित आपके आपातकालीन सन्देश संपर्कों को आपातकालीन सन्देश भेजकर उन्हें आपकी स्थिति के बारे में सतर्क करता है। इन सन्देशों को भेजने से अतिरिक्त शुल्क लग सकते हैं। किसी आपातकालीन स्थिति के दौरान मदद सन्देश भेजना सक्षम करने के लिए, होम कुंजी को %d बार दबाएँ।</string>
+    <string name="setting_safety_b3_desc1">जब आप किसी आपातकाल स्थिति में हों, तब अपने प्राथमिक संपर्कों को शीघ्र सतर्क भेजने के लिए होम कुंजी को शीघ्रता से 3 बार दबाएँ।</string>
+    <string name="setting_safety_b3_desc2">आपके प्राथमिक संपर्कों को आपके वर्तमान स्थान की जानकारी शामिल करने वाले आपातकालीन सन्देश प्राप्त होंगे।</string>
+    <string name="setting_safety_b3_desc3">इस फंक्शन का उपयोग करने के लिए अपने मोबाइल डिवाइस को अपने गियर से कनेक्ट करें।</string>
+    <string name="setting_safety_list">सुरक्षा सहायता</string>
+    <string name="setting_samsung_legal">सैमसंग कानूनी</string>
+    <string name="setting_screen_lock">स्वत: लॉक</string>
+    <string name="setting_screen_lock_desc">अपना मोबाइल डिवाइस लॉक करने के लिए अपने गियर का उपयोग करें।</string>
+    <string name="setting_screen_secutiry">स्क्रीन सुरक्षा</string>
+    <string name="setting_send_emergency_picture">आपातकालीन चित्र भेजें</string>
+    <string name="setting_send_emergency_recording">ध्वनि रिकॉर्डिंग भेजें</string>
+    <string name="setting_send_emergency_term_agree">मैंने उपरोक्त सभी नियम और शर्तें पढ़ी हैं और मैं उनसे सहमत हूं।</string>
+    <string name="setting_send_help_message">सहायता सन्देश भेजें</string>
+    <string name="setting_send_terms_conditions">नियम और शर्तें</string>
+    <string name="setting_smart_relay">स्मार्ट रिले</string>
+    <string name="setting_smart_relay_desc">अपना मोबाइल डिवाइस उठा कर अपने मोबाइल डिवाइस पर अपने गियर की सामग्री देखें।</string>
+    <string name="setting_smart_toss">स्मार्ट टॉस</string>
+    <string name="setting_system">सिस्टम</string>
+    <string name="setting_text_to_speech_engine">टेक्‍स्‍ट-टू-स्पीच इंजन</string>
+    <string name="setting_textinput_emoticon">इमोटिकॉन्स</string>
+    <string name="setting_textinput_keyboard">कीबोर्ड</string>
+    <string name="setting_textinput_list">टेक्स्ट इनपुट पद्धतियाँ</string>
+    <string name="setting_textinput_templates">टेम्पलेट्स</string>
+    <string name="setting_try_it">इसे आजमाएँ</string>
+    <string name="setting_wake_up">जेस्चर सक्रिय करें</string>
+    <string name="setting_wake_up_desc">जिस हाथ में आपका गियर चालू है उसे ऊपर उठाकर गियर सक्रिय करें।</string>
+    <string name="setting_wakeupgesture">"गियर सक्रिय करने के लिए, जिस हाथ में आपका गियर है उसे ऊपर उठाएँ और गियर का स्क्रीन देखें।
+
+आपके द्वारा पीछे झुकने या नीचे लेटने पर यह सुविधा कार्य नहीं करता है और इसका गति सेंसर हमेशा चालू रहने के कारण गियर के बैटरी की खपत अधिक हो सकती है।"</string>
+    <string name="setting_wakeupgesture_clock">घड़ी</string>
+    <string name="setting_wakeupgesture_previous">अंतिम बार देखी गई स्क्रीन</string>
+    <string name="setting_wakeupgesture_screen_on">दिखाई गई स्क्रीन चुनें</string>
+    <string name="setting_wakeupgesture_screen_on_ru">दिखाई गई स्क्रीन चुनें</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="settings_application_version">एप्लीकेशन संस्करण</string>
+    <string name="settings_emergency_contact">प्राथमिक संपर्क प्रबंधित करें</string>
+    <string name="settings_emergency_contact_empty">कोई प्राथमिक संपर्क नहीं जोड़े गए हैं। %s सक्षम करने के लिए संपर्कों को प्राथमिक संपर्क में जोड़ें।</string>
+    <string name="settings_legal_information">कानूनी जानकारी</string>
+    <string name="settings_message_interval">सन्देश अंतराल</string>
+    <string name="settings_not_set">सेट नहीं है</string>
+    <string name="settings_security">सुरक्षा</string>
+    <string name="settings_security_update">सुरक्षा अपडेट</string>
+    <string name="settings_security_update_desc">अपने डिवाइस की सुरक्षा और सेवा में सुधार करके उसे हानिकारक सामग्री से सुरक्षित करें।</string>
+    <string name="settings_unknown_sources_dialog">अज्ञात स्रोतों से स्थापना करना आपके डिवाइस और व्यक्तिगत डाटा के लिए हानिकारक हो सकता है। “ओके” टैप करके आप यह स्‍वीकार करते हैं कि इन एप्लीकेशंस के उपयोग से आपके डिवाइस की होने वाली किसी भी क्षति या डाटा के खोने के लिए केवल आप ही उत्तरदायी हैं।</string>
+    <string name="settings_unknown_sources_subtitle">अज्ञात स्रोत से एप्स की स्थापना की अनुमति दें</string>
+    <string name="share_loc_disabled">स्थान साझा करें अक्षम है।</string>
+    <string name="share_location_desc">मेरा गियर ढूँढें और मेरा डिवाइस ढूंढें को अपने गियर और मोबाइल डिवाइस का स्थान डाटा साझा करने की अनुमति दें।</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">मैं सहमत हूँ कि मोबाइल डाटा का उपयोग किया जा सकता है और आपातकालीन परिस्थितियों में MMS सन्देश भेजे जा सकते हैं। मैं जानता हूँ कि इसके परिणामस्वरूप अतिरिक्त शुल्क लग सकते है।</string>
+    <string name="shm_new_disclaimer_msg_01">"1. सहायता भेजें संदेश का उद्देश्य उपयोगकर्ताओं को आपके द्वारा अग्रिम रूप से सेट किए गए किसी चयनित संपर्क के मोबाइल फ़ोन पर उनका अनुमानित स्थान तथा विज़ुअल-ऑडिटरी परिवेश की जानकारी भेजने में सक्षम बनाना है। ये सिर्फ़ आपकी सुविधा के लिए प्रदान की गई हैं, इन्हें अधिकारियों को की जाने वाली आपातकालीन कॉल के विकल्प के रुप में नहीं माना जाना चाहिए और न ही इन्हें ऐसा समझा जाना चाहिए.
+
+2. संभव है कि सहायता संदेश भेजें (अर्थात् “सेवाएं”) विभिन्न परिस्थितियों जैसे कि नेटवर्क कनेक्टिविटी, GPS/Wi-Fi जानकारी की उपलब्धता, आपके द्वारा चयनित संपर्क के उपकरण की स्थिति और/या दशा, बैटरी ऊर्जा के स्तर तथा/या ऐसी किन्हीं भी अन्य परिस्थितियों में, जो Samsung Electronics Co. Ltd. “Samsung”, “हम”, “हमें”, “हमारे”) के वश से बाहर है, वहां निर्बाध अथवा त्रुटि-रहित ढंग से काम न करें। स्थान जानकारी की सटीकता तथा सेवाओं की समय पर सुपुर्दगी आपके परिवेश तथा आपके द्वारा चयनित संपर्क के उपकरण की दशा द्वारा प्रभावित हो सकती है। जब तक स्पष्ट रूप से कहा न गया हो अथवा कानूनन अनिवार्य न हो, Samsung सेवा के काम करने की सटीकता, उसके निर्बाध बने रहने तथा त्रुटि-रहित होने के संबंध में किसी भी प्रकार की वॉरंटी नहीं देता। कृपया ध्यान दें कि आपके द्वारा चयनित संपर्क एक कार्यशील मोबाइल फ़ोन होना चाहिए तथा वह उपकरण चालू अवस्था में और टेक्स्ट संदेश स्वीकार करने में समर्थ होना चाहिए। अपना परिवेश तथा स्थान डेटा स्थानांतरित करने के फलस्वरूप आपका सेवा प्रदाता आपसे निर्धारित शुल्क ले सकता है।
+
+सेवाएं अपेक्षित ढंग से काम कर सकें, इसके लिए यह ज़रूरी है आपके द्वारा उपयोग की जा रही सुविधा आपके उपकरण के GPS तथा Wi-Fi फ़ंक्शन को स्वचालित ढंग से चालू करें। आप GPS तथा Wi-Fi फंक्शन को स्वचालित ढंग से सक्षम करने पर अपनी सहमति जताते हैं (आवश्यकता होने पर) और स्वीकार करते हैं कि इसके बाद आपको उसे सक्षम करने के संबंध में न तो सूचना दी जाएगी और न ही आपसे अनुमति मांगी जाएंगी।
+
+3. आप स्वीकार करते तथा सहमति जताते हैं कि आप इस फ़ंक्शन का दुरुपयोग नहीं करेंगे अथवा इस फ़ंक्शन का उपयोग करके किसी भी प्रकार के अवैध कार्यकलापों को अंजाम देने या अन्य लोगों की गोपनीयता या किसी भी प्रकार के निजी अथवा स्वत्वाधिकारों का उल्लंघन नहीं करेंगे। इस फ़ंक्शन का उपयोग केवल नियमों के अनुरूप और आपातकालीन परिस्थितियों में ही किया जाना चाहिए। इस सुविधा के उपयोग के लिए केवल आप उत्तरदायी होने पर सहमत होते हैं। इस सुविधा के उपयोग के फलस्वरूप उत्पन्न होने वाले किन्हीं भी परिणामों के लिए Samsung ज़िम्मेदार नहीं होगा।
+
+4. ये सेवाएं सिर्फ़ आपकी सुविधा के लिए प्रदान की गई हैं, इन्हें अधिकारियों को की जाने वाली आपातकालीन कॉल के विकल्प के रुप में नहीं माना जाना चाहिए और न ही इन्हें ऐसा समझा जाना चाहिए। जब तक स्पष्ट रूप से कहा न गया हो अथवा कानूनन अनिवार्य न हो, Samsung सेवा के काम करने की सटीकता, उसके निर्बाध बने रहने तथा त्रुटि-रहित होने के संबंध में किसी भी प्रकार की वॉरंटी नहीं देता।
+
+5. वॉरंटियों का अस्वीकरण। आप निम्न तथ्यों को अच्छी तरह समझते और उन पर अपनी सहमति जताते हैं:
+ 
+A. ये सेवाएं आपको यथारूप, “सदोष अवस्था में”, तथा उपलब्धता के आधार पर प्रदान की जाती हैं। इनका उपयोग करने के जोखिमों के लिए आप ज़िम्मेदार होंगे। SAMSUNG सेवाओं के संबंध में व्यक्त रूप से किसी भी प्रकार की वॉरंटियां, गारंटियां या अपवाद प्रदान नहीं करता। SAMSUNG स्पष्ट रूप से किसी भी प्रकार की प्रत्यक्ष अथवा अप्रत्यक्ष वारंटियों को अस्वीकार करता है, जिसमें वाणिज्यिकता, किसी खास उद्देश्य के लिए उपयुक्तता तथा गैर-अतिलंघन तथा से संबंधित किसी भी प्रकार की अप्रत्यक्ष वॉरंटियां तथा व्यवहारचर्या अथवा प्रदर्शन से संबंधित अप्रत्यक्ष वॉरंटियां शामिल हैं, लेकिन यह इन्हीं तक सीमित नहीं है।
+
+B. उपर्युक्त को परिसीमित किए बिना, SAMSUNG इस संबंध में कोई वॉरंटी नहीं देता अथवा इसका प्रतिनिधित्व नहीं करता कि (i) सेवा आपकी आवश्यकताओं के अनुरूप होगी, (ii) सेवा निर्बाध, सामयिक, सुरक्षित या त्रुटि-रहित होगी, (iii) सेवाओं के माध्यम से हासिल की गई सामग्री अथवा सेवा द्वारा प्रदत्त किसी भी प्रकार की सूचना या सेवा की कार्यात्मकता हमेशा उपलब्ध, सटीक, पूर्ण या विश्वसनीय होगी, (iv) यह कि सेवा के माध्यम से आपके द्वारा हासिल की गई कोई भी जानकारी अथवा अन्य सामग्री आपकी अपेक्षाओं के अनुरूप होगी (v) सेवा में मौजूद किन्हीं भी त्रुटियों अथवा बग्स का निदान किया जाएगा।
+
+6. दायित्व की सीमा।
+
+A. आप स्पष्ट रूप से समझते और इस पर अपनी सहमति जताते हैं कि SAMSUNG को किसी भी प्रकार की प्रत्यक्ष, अप्रत्यक्ष, आकस्मिक, विशिष्ट, दंडात्मक, परिणामी या दृष्टांतिक हानि, उत्तरदेयता, नुकसान अथवा खर्च, जिसमें परिसीमन रहित रूप से मुनाफ़ों की हानि, उपयोग संबंधी हानि तथा अन्य प्रकार की हानियां शामिल हैं, के लिए लापरवाही के आधार पर ज़िम्मेदार नहीं ठहराया जा सकता (तब भी नहीं जब मरम्मत, रीप्लेसमेंट या सेवाओं के लिए किया गया प्रतिदाय आपकी हानियों की पूर्णतः प्रतिपूर्ति न करे अथवा SAMSUNG को ऐसी किसी भी प्रकार की हानि, उत्तरदेयता, क्षति अथवा खर्च की संभावना की जानकारी रही हो), जो निम्नलिखित के फलस्वरूप प्रत्यक्ष अथवा अप्रत्यक्ष रूप से पैदा हो सकती हैं: (i) लागू कानून द्वारा अनुमत अधिकतम सीमा तक, अनुबंध के भंग होने, वॉरंटी अथवा गारंटी या शर्ते के भंग होने, कठोर दायित्व, लापरवाही या अन्य प्रकार के अनुचित कार्यों के फलस्वरूप; (ii) आपके द्वारा सेवाओं का उपयोग करने या न कर पाने की असमर्थता के कारण, (iii) वैकल्पिक सेवाओं की अधिप्राप्ति की लागत के फलस्वरूप; (iv) आपके ट्रांसमिशन अथवा डेटा तक अनधिकृत पहुंच या उसमें परिवर्तन होने के कारण; (v) किसी भी तृतीय पक्ष के कथन या आचरण के फलस्वरूप; (vi) इस अनुबंध के फलस्वरूप (vii) किसी व्यक्ति या संपत्ति को हुई क्षति (मृत्यु सहित) के कारण, या (viii) सेवाओं अथवा सेवाओं द्वारा प्रदत्त सामग्री से संबंधित अन्य किसी भी मामले के परिणामस्वरूप।
+ 
+B. इस अनुबंध के फलस्वरूप आपके और SAMSUNG के बीच पैदा होने वाले किसी भी विवाद के लिए आपका एकमात्र और विशिष्ट प्रतिकार यही होगा कि आप सेवा का उपयोग बंद कर दें।
+ 
+C. कुछ न्यायक्षेत्र आकस्मिक या परिणामी हानियों के संबंध में कुछ खास प्रकार की वॉरंटियों अथवा परिसीमाओं या दायित्वों के बहिष्करण की अनुमति नहीं देते। ऐसा होने पर, आप पर खंड 5 और 6 में दिए गए कुछ प्रतिबंध आप पर लागू नहीं होंगे।
+
+7. प्रतिपूर्ति। सेवाओं के उपयोग तथा इस अनुबंध के अनुपालन के संबंध में आपसे हुई किसी भी प्रकार की विफलता के लिए आप Samsung को किन्हीं भी दावों, कार्रवाइयों, मांगों, लागतों, दायित्वों, हानियों, क्षतियों, जुर्मानों तथा खर्चों (वकील की उचित फ़ीस तथा अन्य खर्चों सहित) से मुक्त रखने, प्रतिपूर्ति करने तथा उसका बचाव करने पर अपनी सहमति जताते हैं। यदि इन नियम और शर्तों के आधार पर आपको प्रदान किए गए लाइसेंसों की व्यक्तिगत प्रकृति के बावजूद आप किसी व्यक्ति को इन सेवाओं का उपयोग करने की अनुमति देते हैं या किसी व्यक्ति को सेवाओं से मिली कोई भी जानकारी देते हैं, तो आप उक्त व्यक्ति को इन नियम और शर्तों से जुड़े प्रावधानों तथा उनकी प्रभावशीलता की जानकारी देने पर भी अपनी सहमति जताते हैं, तथा ऐसे किसी भी व्यक्ति द्वारा सेवाओं का उपयोग किए जाने की स्थिति में Samsung को किन्हीं भी दावों, कार्रवाइयों, मांगों, लागतों, दायित्वों, हानियों, क्षतियों, जुर्मानों तथा खर्चों (वकील की उचित फ़ीस तथा अन्य खर्चों सहित) से मुक्त रखने, प्रतिपूर्ति करने तथा उसका बचाव करने पर अपनी सहमति जताते हैं।
+
+8. अप्रत्याशित घटना। प्राकृतिक प्रकोप, प्रशासनिक अथवा सैन्य कार्रवाइयां द्वारा कार्रवाई, युद्ध, आतंकवादी घटनाओं, श्रमिक विवाद, तृतीय पक्षों द्वारा प्रदत्त सामग्री या सेवाओं अथवा ऐसे किन्हीं भी कारणों के फलस्वरूप सेवा में होने वाले विलंब अथवा प्रदर्शन की पूर्ण विफलता के लिए Samsung ज़िम्मेदार नहीं होगा, क्योंकि ऐसी परिस्थितियां Samsung के वश के बाहर हैं।"</string>
+    <string name="shm_share_my_location_checkbox_text">मेरे %2$s संपर्कों के साथ मेरा स्थान साझा करने के लिए %1$s को अनुमति देने पर मैं सहमत हूँ।</string>
+    <string name="smartrelay_not_show">दोबारा न दिखाएँ</string>
+    <string name="software_update">सॉफ्टवेयर अपडेट</string>
+    <string name="ss_double_tap_any_screen">चमक और वॉल्यूम नियंत्रणों एवं अन्य उपयोगी जानकारी देखने के लिए किसी भी स्क्रीन पर दो उंगलियों से दो बार टैप करें।</string>
+    <string name="ss_forwarding_calls_to_gear_header">अपने गियर पर कॉल्स अग्रेषित करना</string>
+    <string name="ss_forwarding_calls_to_gear_progress">अनुरोध कर रहा है…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">सेटिंग्स पढ़ रहे है…</string>
+    <string name="ss_loading_ing_abb">लोड हो रहा है…</string>
+    <string name="ss_mobile_data_is_disabled">मोबाइल डाटा अक्षम है। इसके बजाय WLAN से कनेक्ट करें या मोबाइल डाटा सक्षम करें और फिर से प्रयास करें।</string>
+    <string name="ss_mobile_data_is_disabled2">मोबाइल डाटा अक्षम है। इसके बजाय Wi-Fi नेटवर्क से कनेक्ट करें, या मोबाइल डाटा सक्षम करें और फिर से प्रयास करें।</string>
+    <string name="ss_no_network_connection">कोई नेटवर्क कनेक्शन नहीं</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">उपयोगकर्ता मैनुअल</string>
+    <string name="str_no">नहीं धन्यवाद</string>
+    <string name="str_yes">हाँ</string>
+    <string name="stub_list_install">स्थापित करें</string>
+    <string name="sw_eula_condition">मैंने ऊपर लिखे नियम और शर्तों को पढ़ा और समझा है और मैं इनसे सहमत हूँ।</string>
+    <string name="sw_eula_desc2">आप अपने डिवाइस में होने वाली किसी भी सॉफ्टवेयर अपडेट विफलता के लिए सैमसंग को त्रुटि लॉग डाटा उपलब्ध करने के लिए सहमत हैं। यह सैमसंग की सॉफ्टवेयर अपडेट प्रक्रिया को सुधारने और उन्नत करने में सैमसंग की सहायता करेगा और मूलभूत रूप से आपको अपना डिवाइस सही ढंग से अपडेट रखने में मदद करता है।</string>
+    <string name="tab_stub_list">विशेष</string>
+    <string name="talkback_download">डाउनलोड करें</string>
+    <string name="talkback_setting">सेटिंग</string>
+    <string name="the_samsung_gear_application">सैमसंग गियर एप्लीकेशन</string>
+    <string name="threeg_connection">रिमोट कनेक्शन उपयोग करें</string>
+    <string name="threeg_connection_subtitle">अपने Samsung account से मोबाइल डाटा या Wi-Fi का एक साथ उपयोग करके, दूरस्थ रूप से अपने गियर से कनेक्ट करें।</string>
+    <string name="threeg_connection_subtitle_chn">अपने Samsung account से मोबाइल डाटा या WLAN का एक साथ उपयोग करके, दूरस्थ रूप से अपने गियर से कनेक्ट करें।</string>
+    <string name="title_activity_clock_delete">अस्थापित करें</string>
+    <string name="title_activity_connect_popup">कनेक्ट करें</string>
+    <string name="title_activity_paired_watch">जोड़ा गया डिवाइस</string>
+    <string name="title_alertdialog_device_name_popup">%s का नाम बदलें</string>
+    <string name="title_alertdialog_disconnect_popup">डिस्कनेक्ट करें</string>
+    <string name="title_dialog_pm_error">चेतावनी</string>
+    <string name="title_dialog_uninstall">स्थापना रद्द करें</string>
+    <string name="title_eula">कानूनी सूचना</string>
+    <string name="title_findmywatch_connect2">मेरा गियर ढूँढ़ें</string>
+    <string name="title_findmywatch_finding">खोज रहा है…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s को %2$s से कनेक्ट करें</string>
+    <string name="tri_connect_warning_temporal_disconnect">ब्लूटूथ द्वारा अपने %1$s को अपने %2$s से कनेक्ट करने पर आपका %3$s आपके मोबाइल डिवाइस से अस्थाई रूप से डिस्कनेक्ट हो जाएगा। यह कनेक्शन जल्द ही पुनः शुरू होगा और फिर आपका %4$s आपके %5$s और आपके मोबाइल डिवाइस, दोनों से कनेक्ट होगा।</string>
+    <string name="tt_install_voice_data">TTS वॉइस डाटा स्थापित करें</string>
+    <string name="tt_install_voice_data_required">अपने गियर में अतिरिक्त टेक्‍स्‍ट-टू-स्पीच भाषाएँ स्थापित करें।</string>
+    <string name="tt_language">भाषा</string>
+    <string name="tt_send_help_message">सहायता सन्देश भेजें</string>
+    <string name="tt_tts_language_guide">आपकी टेक्‍स्‍ट-टू-स्पीच भाषा वह भाषा है जिसे आप अपनी गियर सेटिंग्स में सेट करते हैं। यदि आपकी भाषा टेक्‍स्‍ट-टू-स्पीच इंजन द्वारा समर्थित नहीं है तो, अंग्रेजी (ब्रिटिश) का उपयोग किया जाएगा।</string>
+    <string name="unable_to_connect_popup_message">आपके मोबाइल डिवाइस से आपका गियर कनेक्ट करने में विफल। बाद में फिर से प्रयास करें।</string>
+    <string name="unable_to_connect_popup_title">कनेक्शन विफल</string>
+    <string name="unable_to_lock_gear">गियर को लॉक करने में असमर्थ</string>
+    <string name="unable_to_reset_gear">गियर रीसेट करने में असमर्थ</string>
+    <string name="unabled_health">यह एप्लीकेशन खोलने में असमर्थ है क्योंकि यह अक्षम है।</string>
+    <string name="uninstall_applications">एप्लीकेशंस अस्थापित करें</string>
+    <string name="unknown_sources_msg_new">%2$s के माध्यम से %1$s स्थापित नहीं किया जाएगा। अज्ञात स्रोतों के एप्लीकेशंस के आक्रमण से आपका डिवाइस और व्यक्तिगत डाटा ज्‍यादा असुरक्षित है। आप सहमत हैं कि आप इन एप्लीकेशंस का उपयोग करने के परिणाम स्वरूप अपने डिवाइस को होनेवाली क्षति या डाटा के नुकसान के लिए पूरी तरह से जिम्मेदार हैं। हमेशा अज्ञात स्रोतों के एप्लीकेशंस स्थापित करने के लिए %3$s > %4$s > %5$s पर जाएँ और %6$s सक्षम करें। %7$s स्थापित करने के लिए “ओके” टैप करें।</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s, %2$s का नहीं है और इसमें आपके गियर के लिए कोई एप शामिल नहीं है। अज्ञात स्रोतों के एप्स के आक्रमण से आपका डिवाइस और डाटा अधिक असुरक्षित है। स्थापना रद्द हो जाएगी और आपके फोन से %3$s को हटा दिया जाएगा।</string>
+    <string name="unknown_sources_title">अज्ञात स्रोत</string>
+    <string name="update_button">अपडेट</string>
+    <string name="update_summary">अपडेट्‍स के लिए जाँचें</string>
+    <string name="update_the_latest_version">अपडेट उपलब्ध</string>
+    <string name="voice_control_subtitle">आपका गियर रिंग या कंपन नहीं होने पर, विराम देने के दौरान कॉल्स का उत्तर देने या अस्वीकृत करने के लिए, “Answer” या “Reject” बोलें।</string>
+    <string name="voicememo_link1">Nuance के नियमों और शर्तों</string>
+    <string name="voicememo_link2">सैमसंग गोपनीयता निति</string>
+    <string name="voicememo_link3">Nuance गोपनीयता नीति</string>
+    <string name="watchapp_all">एप्स</string>
+    <string name="watchapp_noapps">एप्स नहीं</string>
+    <string name="welcome_Gear">गियर</string>
+    <string name="welcome_samsung">सैमसंग</string>
+    <string name="widget_bt">ब्लूटूथ</string>
+    <string name="widget_fmw_refresh">रिफ्रेश कर रहा है…</string>
+    <string name="wifi_only">केवल Wi-Fi</string>
+    <string name="wifi_only_chn">केवल WLAN</string>
+    <string name="wifi_only_summary">किसी Wi-Fi नेटवर्क से कनेक्ट होने पर ही अपडेट्स डाउनलोड करें।</string>
+    <string name="wifi_only_summary_chn">WLAN के माध्यम से कनेक्ट किए जाने पर ही डाउनलोड करने योग्‍य है।</string>
+    <string name="email_sanitize">सुरक्षा कारणों से इस ईमेल की सामग्री गियर पर प्रदर्शित नहीं की जा सकती है। विवरण के लिए, यह मेल अपने मोबाइल डिवाइस पर देखें।</string>
+    <string name="knox_sanitize">KNOX मोड में जाने के लिए यहाँ टैप करें।</string>
+</resources>

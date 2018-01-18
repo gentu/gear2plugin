@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Indisponível durante chamada.</string>
+    <string name="actionbar_name">Gerenciador do Gear</string>
+    <string name="alert_full_screen">Pop-up em tela inteira</string>
+    <string name="alert_mini">Mini pop-up</string>
+    <string name="alertdialog_backkey_popup_content">Aviso</string>
+    <string name="alertdialog_disconnect_popup_description">O Gear será desconectado. Use o Bluetooth para reconectar.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Isso encerrará a conexão com %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Seu %s será desconectado do seu celular. Na próxima vez que você conectar estes dispositivos, você deve usar o Bluetooth. Qualquer conexão posterior a essa pode ser feita por Conexão remota.</string>
+    <string name="alertdialog_uninstall_popup_content">Desinstalar</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s não está instalado no dispositivo móvel. Para usar %2$s no seu Gear, baixe %1$s para o dispositivo móvel.</string>
+    <string name="attention_popup_title">Atenção</string>
+    <string name="auto_call_forwarding">Encam. autom. de chamadas</string>
+    <string name="auto_call_forwarding_att">Encam. auto chamadas p/ Gear</string>
+    <string name="auto_call_forwarding_desc">Ative o Encaminhamento de chamada automaticamente enquanto o seu Gear estiver desconectado do seu celular. Isto encaminhará as chamadas recebidas pelo celular para o seu Gear até que os dispositivos estejam reconectados.</string>
+    <string name="auto_update">Atualização automática</string>
+    <string name="auto_update_summary">Procura atualizações automaticamente.</string>
+    <string name="backing_up">Fazendo cópia de segurança…</string>
+    <string name="backup_complete">Cópia concluída.</string>
+    <string name="bnr_backup">Fazendo cópia de segurança…</string>
+    <string name="bnr_bakcup_title">Backup</string>
+    <string name="bnr_cancel">Cancelar</string>
+    <string name="bnr_canel">Cancelar</string>
+    <string name="bnr_error_occurred">Erro</string>
+    <string name="bnr_except">%1$s (exceto %2$s)</string>
+    <string name="bnr_except_autolock">Bloqueio automático</string>
+    <string name="bnr_except_remoteconnection">Conexão remota</string>
+    <string name="bnr_except_texttemplate">Modelo de texto</string>
+    <string name="bnr_next">Seg.</string>
+    <string name="bnr_no">Não</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Para conectar-se a um novo dispositivo, o Gear será redefinido para as configurações de fábrica.</string>
+    <string name="bnr_reset_gear_move_setupwizard">O Gear não está completamente configurado. O assistente de configuração está aberto no momento no Gear, mas para conectar-se a ele é necessário abrir o assistente de configuração do Gerenciador do Gear neste dispositivo também.</string>
+    <string name="bnr_reset_initialization">Aviso</string>
+    <string name="bnr_restore">Restaurar</string>
+    <string name="bnr_restored">Dados restaurados.</string>
+    <string name="bnr_setupwizard_title2">Fazer backup e restaurar</string>
+    <string name="bnr_yes">Sim</string>
+    <string name="bt_connected">Conectado</string>
+    <string name="bt_disconnected">Desconectado</string>
+    <string name="bt_unpaired">Desemparelhado</string>
+    <string name="button_finish">Concluir</string>
+    <string name="button_restore">Restaurar</string>
+    <string name="call">CHAMADA</string>
+    <string name="call_check_gear_status_when_cfwd">As funções de encaminhamento de chamada do Celular ao Gear e do Gear ao celular não podem ser ativadas ao mesmo tempo.</string>
+    <string name="call_dualsim1">Chip 1</string>
+    <string name="call_dualsim1sim2">Ambos os chips</string>
+    <string name="call_dualsim2">Chip 2</string>
+    <string name="call_forwarding">Encaminhar chamadas</string>
+    <string name="call_forwarding_agree">Concordo.</string>
+    <string name="call_forwarding_desc">Encaminhar chamadas recebidas do seu dispositivo móvel para o seu Gear.</string>
+    <string name="call_forwarding_desc_vzw">Encaminhe chamadas não atendidas do telefone para o Gear.</string>
+    <string name="call_forwarding_disable_msg">Foi feita uma solicitação para desativar o encaminhamento de chamadas do seu celular para o Gear. O status da sua rede móvel e do celular podem afetar os resultados.</string>
+    <string name="call_forwarding_enable_msg">Foi feita uma solicitação para ativar o encaminhamento de chamadas do seu celular para o Gear. O status da sua rede móvel e do celular podem afetar os resultados.</string>
+    <string name="call_forwarding_for_att_msg">"Quando o Gear for desconectado de seu smartphone, as chamadas recebidas no aparelho móvel serão automaticamente encaminhadas ao Gear.
+- O smartphone tocará algumas vezes e, em seguida, a chamada será encaminhada ao Gear.
+- Se você não atender a chamada no Gear, o autor da chamada poderá deixar uma mensagem de voz que pode ser ouvida no Gear.
+Deseja ativar o encaminhamento automático de chamada agora?"</string>
+    <string name="call_forwarding_notify_msg">O Encaminhamento de chamada do seu aparelho móvel para o seu Gear está ativado no momento. As chamadas recebidas no seu dispositivo móvel serão encaminhadas para o seu Gear. Se você não tiver o seu Gear consigo, vá para Configurações e desative o Encaminhamento automático de chamadas para certificar-se de não perder uma chamada.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Desativ. encaminhamento de cham. voz…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Ativ. encaminhamento de cham. voz…</string>
+    <string name="call_no_gear_number">Sem números</string>
+    <string name="call_select_dualsim_title">Selec. cartão SIM</string>
+    <string name="call_voice_control">Controle por voz</string>
+    <string name="callforwarding_help_des1">Alterne o aparelho para o qual as chamadas serão encaminhadas automaticamente, isto se os seus aparelhos estiverem conectados através de Bluetooth ou Conexão remota.</string>
+    <string name="callforwarding_help_des2">Receba chamadas feitas para o seu aparelho móvel no seu Gear enquanto estiver em movimento ou usando o Gear e ele estiver conectado remotamente ao aparelho móvel.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cf_activated">Ativado</string>
+    <string name="cf_deactivate_failed">Falha ao desativar o Encaminhamento de chamada.</string>
+    <string name="cf_deactivated">Desativado</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Novas configurações do relógio foram aplicadas pelo Gear.</string>
+    <string name="clocks_download_more_clocks">Baixar mais relógios</string>
+    <string name="clocks_noti_uninstall_clock">%s será desinstalado.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s será desinstalado e %2$s será definido como o relógio padrão.</string>
+    <string name="clocks_title_basic_clocks">RELÓGIOS BÁSICOS</string>
+    <string name="clocks_title_downloaded_clocks">RELÓGIOS BAIXADOS</string>
+    <string name="clocks_title_style_clocks">RELÓGIOS DE ESTILO</string>
+    <string name="clocks_uninstalled">Desinstalado.</string>
+    <string name="clocks_uninstalling">Desinstalando…</string>
+    <string name="close">Fechar</string>
+    <string name="closing_samsung_gear_message">Seu Gear foi redefinido. O aplicativo do Samsung Gear será fechado imediatamente.</string>
+    <string name="closing_samsung_gear_message_jpn">Seu Gear foi redefinido. O aplicativo Gear será fechado em breve.</string>
+    <string name="closing_samsung_gear_title">Fechar aplicativo Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Fechar o aplicativo Gear</string>
+    <string name="cloud_backup_no_information">Nunca</string>
+    <string name="cloud_backup_restore_backup_now">Backup de dados</string>
+    <string name="cloud_backup_restore_restore_now">Restaurar dados</string>
+    <string name="cmw_agree">Concordo</string>
+    <string name="cmw_eula_agree">Compreendo e concordo com os termos e condições acima.</string>
+    <string name="cmw_for_setting">Os serviços de localização foram desativados. Vá para as Configurações.</string>
+    <string name="cmw_high_accuracy_dialog_message">Para detecção da localização mais exata e rápida, selecione Alta precisão em Localização > Modo.</string>
+    <string name="cmw_high_accuracy_dialog_title">Selecione Alta precisão</string>
+    <string name="cmw_legal_content">Ao habilitar a função “Compartilhar minha localização”, você aceita que os dados de localização associados ao seu telefone celular e/ou dispositivo Gear sejam transmitidos para um servidor da Samsung, a fim de fornecer os serviços Localizar o meu Gear &amp; Localizar o meu dispositivo. Nenhum dado ou informação sobre a localização do seu dispositivo ficará armazenado no servidor da Samsung.</string>
+    <string name="cmw_legal_content1">Ao habilitar “%1$s e %2$s”, você aceita que os dados de localização associados ao seu telefone celular e/ou dispositivo Gear serão transmitidos por meio de um servidor da Samsung para prestar os serviços %1$s e %2$s. Nenhum dado ou informação sobre a localização do seu dispositivo ficará armazenado no servidor da Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">Ao habilitar “%1$s e %2$s”, você aceita que os dados de localização associados ao seu telefone celular serão transmitidos por meio de um servidor da Samsung para prestar o serviço %2$s. Nenhum dado ou informação sobre a localização do seu dispositivo ficará armazenado no servidor da Samsung.</string>
+    <string name="cmw_legal_content_2">Política de Privacidade Samsung</string>
+    <string name="cmw_legal_title">Notificações legais</string>
+    <string name="cmw_location">Ativar serviços de localização</string>
+    <string name="cmw_show_on_map">Exibir no mapa</string>
+    <string name="color_black">Preto</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_brown">Marrom</string>
+    <string name="color_gray">Cinza</string>
+    <string name="color_green">Verde</string>
+    <string name="color_light_sky_blue">Azul do céu</string>
+    <string name="color_medium_purple">Roxo médio</string>
+    <string name="color_orange">Laranja</string>
+    <string name="color_pink">Rosa</string>
+    <string name="color_purple">Violeta</string>
+    <string name="color_red">Vermelho</string>
+    <string name="color_spring_green">Verde primavera</string>
+    <string name="common_none">Nenhum</string>
+    <string name="common_off">Desativado</string>
+    <string name="common_on">Ativado</string>
+    <string name="common_recent_apps">Aplic. rec.</string>
+    <string name="connect_popup_content">Conectando a %s…</string>
+    <string name="connected_by_trasport_BT">Conectado por Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Conectado remotamente</string>
+    <string name="connecting_content">Conectando ao Gear</string>
+    <string name="connecting_doc">Após conectar-se ao %1$s, é possível alterar suas configurações e instalar aplicativos através do %2$s.</string>
+    <string name="connecting_popup_message">Conectando ao Gear…</string>
+    <string name="connecting_popup_title">Conectar ao Gear</string>
+    <string name="connecting_to_gear_ing">Conectando ao Gear…</string>
+    <string name="connectingdoc">Após conectar-se ao Gear, é possível alterar suas configurações e instalar aplicativos via Gerenciador do Gear.</string>
+    <string name="connection_error_dialog_message">Seu dispositivo não foi conectado. Ele tentará conectar-se novamente.</string>
+    <string name="dialog_check_phone_number_msg1">Verifique se as seguintes informações estão corretas:</string>
+    <string name="dialog_check_phone_number_msg2">Número do celular: %s</string>
+    <string name="dialog_check_phone_number_msg3">Número de telefone do Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Toque em OK para confirmar e ativar o Encaminhamento de chamada automático.</string>
+    <string name="dialog_enable_remote_connection_desc">Para a ativar o Encaminhamento de chamada automático, ative a Conexão remota e tente novamente.</string>
+    <string name="dialog_enable_remote_connection_title">Ativar Conexão remota</string>
+    <string name="dialog_permission_message">Não é possível usar %s. Toque em CONFIGURAÇÕES, vá para Informações do aplicativo > Permissões, conceda as permissões a seguir e tente novamente:</string>
+    <string name="dialog_popup_button_cancel">Cancelar</string>
+    <string name="dialog_reverse_msg">Dependendo da sua operadora, podem ser necessárias assinaturas separadas para permitir o uso deste recurso pelo seu celular e Gear. Isto poderá acarretar cobranças adicionais.</string>
+    <string name="dialog_set_phone_number_msg">Para ativar o Encaminhamento automático de chamada, configure os números de telefone dos aparelhos para e dos quais deseja encaminhar chamadas recebidas.</string>
+    <string name="dialog_set_phone_number_title">Ativar Encaminhamento de chamada automático</string>
+    <string name="disable_loc_text">O compartilhamento da localização será desativado. Não será possível usar informações de localização para buscar pelo seu Gear ou celular através do Encontrar meu Gear ou Buscar meu telefone.</string>
+    <string name="disable_loc_text_no_gps">O compartilhamento da localização será desativado. Não será possível usar informações de localização para buscar pelo seu celular através do Buscar meu dispositivo.</string>
+    <string name="disable_remote_connection">Desativar conexão remota</string>
+    <string name="disable_remote_connection_fmm_fmd">Encontrar meu Gear e Buscar meu dispositivo</string>
+    <string name="disable_remote_connection_receiving_blocked">Recebendo mensagens, e-mails e notificações do dispositivo móvel</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Recebendo e-mails e notificações do celular</string>
+    <string name="disable_remote_connection_warning">A Conexão remota será desativada. As seguintes funções não estarão disponíveis até seu Gear estar conectado ao seu dispositivo móvel por Bluetooth novamente:</string>
+    <string name="disable_share_location">Desativar Compartilhar localização</string>
+    <string name="disconnect_popup_content">Desconectando %s…</string>
+    <string name="do_not_show_again">Não exibir novamente</string>
+    <string name="enable_auto_call_forwarding_msg">Encaminhe automaticamente as chamadas recebidas do seu dispos. móvel para o Gear enquanto o Gear estiver desconectado. Dependendo da sua operadora, isto pode acarretar cobranças adicionais. Toque em OK para ativar Encam. cham. automático.</string>
+    <string name="enable_auto_call_forwarding_title">Ativar Enc. cham. automático</string>
+    <string name="enable_more_notifications_enable">Ativar</string>
+    <string name="enable_notification_access">Ativar Acessar notificações</string>
+    <string name="enable_notification_access_desc">"Esta função será capaz de ler todas as notificações recebidas, que podem incluir informações pessoais tais como contatos e mensagens enviadas para você. Ela também poderá descartar estas notificações ou selecionar ações relacionadas a elas.
+Para receber notificações no seu Gear, toque em Ativar e ative %s."</string>
+    <string name="enable_share_location">Ativar compartilhamento de localização</string>
+    <string name="enabled_loc">Compartilhamento de localização ativado.</string>
+    <string name="error_enter_device_name">Inserir nome do dispositivo.</string>
+    <string name="error_occurred">Ocorreu um erro.</string>
+    <string name="eula_i_agree">Concordo.</string>
+    <string name="failed_tshare_msg">Falha ao ativar Encam. chamada. Sem resposta do T share.</string>
+    <string name="find_my_device">Buscar meu telefone</string>
+    <string name="find_my_gear">Buscar meu Gear</string>
+    <string name="find_watch_btn_start">Iniciar</string>
+    <string name="find_watch_btn_stop">Parar</string>
+    <string name="find_watch_off">Para encontrar seu Gear, toque em Iniciar. O Gear tocará um som e sua tela será ligada.</string>
+    <string name="find_watch_on">Para interromper a procura do Gear, toque em Parar. O Gear interromperá a reprodução de um som e sua tela será desligada.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s será desinstalado e a fonte padrão será aplicada ao seu %2$s.</string>
+    <string name="force_wifi_direct_msg">O aplicativo será instalado através do Wi-Fi Direct. Isto encerrará sua conexão Wi-Fi Direct atual. Se você cancelar a instalação, será necessário baixar este aplicativo novamente para instalá-lo.</string>
+    <string name="force_wifi_direct_title">Instalar</string>
+    <string name="force_wifi_install">Instalar</string>
+    <string name="gear2_backup_confirm_text">Se você fizer o backup dos seus dados agora, os dados atuais do Gear no dispositivo móvel serão substituídos pelos dados do Gear mais recentes.</string>
+    <string name="gear2_restore_confirm_text">Se você restaurar os seus dados agora, os dados atuais no seu Gear serão excluídos e substituídos pelos dados do backup mais recente do Gear.</string>
+    <string name="gear2_text">"Use o armazenamento do seu dispositivo para fazer backup do conteúdo do %1$s:
+%2$s
+
+Se foi feito backup do conteúdo anteriormente, você pode restaurá-lo para %3$s agora.
+
+Dependendo do tamanho do arquivo, ele pode demorar algum tempo."</string>
+    <string name="gear2_text_import3">Configurações</string>
+    <string name="gear_bnr_desc">"Usar o armazenamento do seu dispositivo móvel para fazer o backup dos seguintes dados de %1$s: %2$s
+
+Se o backup dos seus dados de %3$s tiverem sido feitos anteriormente, é possível restaurá-los para o seu %4$s agora.
+
+Isto pode demorar algum tempo dependendo do tamanho dos arquivos."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Seu celular está procurando seu Gear agora. Isto poderá demorar vários minutos. Pode ser difícil localizá-lo se ele estiver em um ambiente fechado.</string>
+    <string name="gear_location_popup_title">Localizar Gear</string>
+    <string name="gear_location_text">Localização do Gear</string>
+    <string name="gear_lock_success">Gear bloqueado.</string>
+    <string name="gear_lock_text">Bloquear Gear</string>
+    <string name="gear_locked">Gear bloqueado</string>
+    <string name="gear_locked_text1">Gear bloqueado. Para desbloquear, conecte o Gear ao celular através do Bluetooth.</string>
+    <string name="gear_phone_number">Número de telefone Gear</string>
+    <string name="gear_phone_number_popup_desc">Todas as chamadas para o seu celular serão encaminhadas para %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Todas as chamadas não atendidas para o seu Aparelho móvel serão encaminhadas para %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Para bloquear seu Gear, é necessário ativar a Conexão remota primeiro.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Para redefinir seu Gear, é necessário ativar a Conexão remota primeiro.</string>
+    <string name="gear_reset_text">Redefinir Gear</string>
+    <string name="gear_to_mobile">Gear ao celular</string>
+    <string name="gear_to_mobile_des">Recebe chamadas feitas para o seu Gear no celular enquanto os dois celulares estiverem conectados através do Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Falha ao buscar localização. Tente novamente mais tarde.</string>
+    <string name="gear_unable_to_locate_title">Não é possível localizar o Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Papéis de parede</string>
+    <string name="home_bg_color">Cores</string>
+    <string name="home_bg_colors_title">CORES DISPONÍVEIS</string>
+    <string name="home_bg_delete_actionbar_selected">Selecionado</string>
+    <string name="home_bg_delete_dialog_msg">%d papéis de parede serão removidos do Gerenciador do Gear e do seu Gear.</string>
+    <string name="home_bg_delete_select_all">Selecionar tudo</string>
+    <string name="home_bg_max_more_image_toast">Número máximo de papéis de parede (%d) atingido.</string>
+    <string name="home_bg_more_images">Mais imagens</string>
+    <string name="home_bg_popup_wallpaper_msg">Baixando papéis de parede do Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">Baixar papéis de parede</string>
+    <string name="home_bg_toast_saved">Salvo.</string>
+    <string name="home_bg_wallpaper">Papel de parede</string>
+    <string name="home_bg_wallpapers_title">PAPÉIS PAREDE DISPONÍVEIS</string>
+    <string name="homelayout_apps">Aplicações</string>
+    <string name="incoming_calls_title">Chamadas recebidas</string>
+    <string name="info_build_number">Versão de software</string>
+    <string name="info_model_number">Número do modelo</string>
+    <string name="info_software_update">Atualiz. software</string>
+    <string name="information_provision_agreement">Acordo de fornecimento de informações</string>
+    <string name="information_provision_agreement_mgs">"O Lembrete utiliza tecnologias de reconhecimento de voz de um fornecedor externo chamado Nuance Communications, Inc. Por esse motivo, suas informações de voz são inevitavelmente armazenadas em um servidor operado pela Nuance (nos Estados Unidos) e a utilização do Lembrete de Voz precisa que você concorde com os Termos e Condições da Nuance.
+ A Nuance ser reserva o direito de usar a entrada de voz com a finalidade de melhoria dos serviços e desenvolvimento de tecnologias. A Nuance também se reserva o direito de fornecer a entrada de voz previamente mencionada aos seus parceiros. As informações de entrada de voz são armazenadas até que os objetivos previamente mencionados tenham sido consumados. Para obter informações dos serviços de Lembrete de Voz, leia a Política de Privacidade da Samsung e Política de Privacidade da Nuance.
+ Não será possível usar o Lembrete de Voz se você não concordar em fornecer as informações descritas acima."</string>
+    <string name="init_manage_notifications_desc">Selecione os aplicativos dos quais deseja receber notificações no seu %1$s. Para economizar a energia da bateria do %2$s, desmarque os aplicativos dos quais não deseja receber notificações.</string>
+    <string name="install_in_progress">Em andamento…</string>
+    <string name="invalid_rename_character">Caractere inválido inserido. Tente novamente.</string>
+    <string name="latest_version">Última versão instalada</string>
+    <string name="latitude">Latitude</string>
+    <string name="limit_notification_desc">Bloquear alertas de aparecerem no Gear enquanto o celular estiver sendo usado.</string>
+    <string name="limit_notification_dialog_desc">Não é possível Restringir notificações no seu Gear. Nenhuma tela de bloqueio está definida no seu dispositivo móvel.</string>
+    <string name="limit_notification_title">Limite de notificações</string>
+    <string name="location_info_title">Compartilhar localização</string>
+    <string name="lock_gear_legal_text1">Ao utilizar a função Bloquear Gear, será possível bloquear remotamente seu Gear para impedir que ele seja utilizado sem autorização. Será possível desbloquear o Gear reconectando-o ao dispositivo móvel.</string>
+    <string name="lock_gear_legal_text2">* A função Bloquear Gear poderá levar algum tempo para funcionar, ou mesmo não funcionar, dependendo do estado do seu Gear, de seu dispositivo móvel e do ambiente de rede.</string>
+    <string name="lock_gear_text">Não é possível bloquear seu Gear enquanto seu aparelho móvel e o Gear estiverem conectados por Bluetooth.</string>
+    <string name="login_to_samsung_account">Entrar na Conta Samsung</string>
+    <string name="login_to_samsung_account_desc">Para ativar a Conexão remota no seu Gear, conecte-se a sua Conta Samsung.</string>
+    <string name="login_to_samsung_account_full_desc">"Conecte-se a sua Conta Samsung para usar os seguintes recursos mesmo quando não estiver conectado pelo Bluetooth:
+- Receber notificações
+- Usar aplicativos por Conexão remota
+O uso da Conexão remota pode acarretar cobranças adicionais."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Quando você não estiver conectado ao seu telefone por Bluetooth, uma conta Samsung, usando dados móveis, permitirá que você:
+- Receba mensagens, e-mails e outras notificações
+- Use aplicativos no Gear que precisam de uma conexão com o telefone por Conexão remota.
+
+Observe que a conexão remota pela conta Samsung usa o plano de dados."</string>
+    <string name="longitude">Longitude</string>
+    <string name="main_bt_unpaired">Desemparelhado</string>
+    <string name="main_disconnected">Desconectado</string>
+    <string name="manage_applications">Gerenciar aplicativos</string>
+    <string name="manage_notifications">Gerenciar notificações</string>
+    <string name="manual_call_forwarding_for_att_msg">"As chamadas efetuadas para o seu smartphone podem ser encaminhadas para o seu Gear.
+- Seu smartphone tocará algumas vezes e, em seguida, a chamada será encaminhada ao Gear.
+- Se você não atender a chamada no Gear, o autor da chamada poderá deixar uma mensagem de voz que pode ser ouvida no Gear.
+Deseja ativar o encaminhamento de chamada agora?"</string>
+    <string name="manual_call_forwarding_popup_desc">O encaminhamento de chamada é um serviço de rede que desvia %s chamadas recebidas para um número especificado. Dependendo da sua operadora, pode ser necessária uma assinatura para permitir o uso deste recurso ao seu Gear. Isto poderá acarretar cobranças adicionais.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Dispositivo móvel</string>
+    <string name="masterapp_not_installed">%1$s não está instalado no dispositivo móvel. Para usar %2$s no seu Gear, baixe %1$s para o dispositivo móvel.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s não está instalado no dispositivo móvel. Para usar %2$s no seu Gear, baixe %1$s para o dispositivo móvel. Você será direcionado para a tela de download.</string>
+    <string name="masterapp_uninstalled">%1$s foi desinstalado do dispositivo móvel. Para usar %2$s no seu Gear, baixe %1$s para o dispositivo móvel.</string>
+    <string name="maximum_size_warning">Número máximo de caracteres atingido.</string>
+    <string name="menu_about_device">SOBRE %s</string>
+    <string name="menu_actionbar_remove">Remover</string>
+    <string name="menu_actionbar_uninstall">Desinstalar</string>
+    <string name="menu_appsandsettigns">APLICAT. E CONFIGURAÇÕES</string>
+    <string name="menu_clock">Relógio</string>
+    <string name="menu_display">EDITAR TELA DE INÍCIO</string>
+    <string name="menu_downloaded_font">FONTES BAIXADAS</string>
+    <string name="menu_filetransfertogear">TRANSF. ARQ. PARA O GEAR</string>
+    <string name="menu_gallery">Imagem</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Ginástica</string>
+    <string name="menu_help">Ajuda</string>
+    <string name="menu_home_screen">Estilo da tela de Início</string>
+    <string name="menu_music">Música</string>
+    <string name="menu_myapp">Meus aplicativos</string>
+    <string name="menu_notification">Notificações</string>
+    <string name="menu_rename">Renomear</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="mobile_to_gear">Celular ao Gear</string>
+    <string name="mobile_to_gear_des">Receber chamadas feitas p/ apar. móvel no Gear enquanto os 2 apar. estiverem conec. remotamente.</string>
+    <string name="monotype_default_font">Fonte padrão</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Mais</string>
+    <string name="more_options">Mais opções</string>
+    <string name="multisim_title">SIM múltiplo</string>
+    <string name="navigate_up">Navegar para</string>
+    <string name="new_eula_error_log">Report. info diagnóstico</string>
+    <string name="new_eula_fmd2">Buscar meu telefone</string>
+    <string name="new_eula_fmg2">Buscar meu Gear</string>
+    <string name="new_eula_news_briefing">Resumo notícias</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Teclado Samsung</string>
+    <string name="new_notification_list">Exibir lista</string>
+    <string name="new_notifications_list_desc">Exibir uma lista de notificações recebidas no Gear à esquerda do relógio.</string>
+    <string name="no_application_selected">Nenhum aplicativo selecionado</string>
+    <string name="no_downloaded_applications">Nenhum aplicativo baixado</string>
+    <string name="no_of_application_selected">%d aplicativos selecionados</string>
+    <string name="no_remote_connection_popup_msg">Para ativar o Encaminhamento de chamadas automático, abra o aplicativo do Samsung Gear no seu dispositivo móvel e ative a Conexão remota e tente novamente.</string>
+    <string name="no_remote_connection_popup_title">Ativar Conexão remota</string>
+    <string name="notification_type">Tipo de notificação</string>
+    <string name="notification_type_desc">Enquanto seu Gear estiver em uso, suas notificações serão exibidas como pop-ups pequenas na parte superior da tela, independente da sua seleção acima.</string>
+    <string name="number_setting">Configuração do número</string>
+    <string name="ok">OK</string>
+    <string name="once">Uma vez</string>
+    <string name="one_application_selected">1 aplicativo selecionado</string>
+    <string name="popup_attention_email_msg">Algumas contas de E-mail não estão selecionadas nas configurações do E-mail. Para receber notificações destas contas no seu Gear, selecione Notificações de E-mail em Configurações do E-mail.</string>
+    <string name="popup_attention_message_msg">Para enviar e receber mensagens no seu Gear, seu app padrão de mensagens será alterado de %s para Mensagens.</string>
+    <string name="popupmenu_search_for_new_device">Gerenciar dispositivos</string>
+    <string name="preview_message_desc">Exibe uma visualização das notificações recebidas, com exceção de alertas de chamada recebida e alarmes, nas pop-ups de notificação do seu Gear.</string>
+    <string name="preview_message_title">Visualizar mensagem</string>
+    <string name="primary">Principal</string>
+    <string name="privacypolicy_fmgfmd">Ao habilitar “%1$s e %2$s”, você aceita que os dados de localização associados ao seu telefone celular e/ou dispositivo Gear serão transmitidos por meio de um servidor da Samsung para prestar os serviços %1$s e %2$s. Nenhum dado ou informação sobre a localização do seu dispositivo ficará armazenado no servidor da Samsung.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Ao habilitar “%1$s e %2$s”, você aceita que os dados de localização associados ao seu telefone celular serão transmitidos por meio de um servidor da Samsung para prestar o serviço %2$s. Nenhum dado ou informação sobre a localização do seu dispositivo ficará armazenado no servidor da Samsung.</string>
+    <string name="privacypolicy_newsbriefing">Este aplicativo oferece aos usuários a capacidade de interagir com mídias sociais e com a internet de diversas formas inovadoras. Ao habilitar este aplicativo, o serviço coletará informações sobre a utilização desses serviços, incluindo a maneira como você visualiza e interage com conteúdos e anúncios. Para obter mais detalhes, veja os %1$sTermos de Uso %2$s e %3$sPolítica de Privacidade%4$s do Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Política de Privacidade Samsung</string>
+    <string name="progressdialog_please_wait">Por favor, aguarde…</string>
+    <string name="progressdialog_reinstalled_message">Instalando…</string>
+    <string name="progressdialog_reinstalled_popup_content">Reinstalar</string>
+    <string name="providerapp_reinstalled">%s não estava funcionando corretamente de forma que foi desinstalado. Ele será reinstalado agora.</string>
+    <string name="quick_tutorial_add_shortcuts">Para adicionar atalhos de aplicativos à tela de início do Gear, vá para Apps no Gear, mantenha um ícone de aplicativo pressionado, depois arraste e solte-o na parte superior da tela.</string>
+    <string name="quick_tutorial_gear_structure">O relógio é exibido na página principal da tela inicial do seu Gear. As páginas à esquerda do relógio exibem notificações e aquelas à direita exibem widgets. Deslize para cima a partir da borda inferior da tela para visualizar os aplicativos.</string>
+    <string name="quick_tutorial_noti_title">Introdução ao %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Para abrir o S Voice, diga “Olá Gear” ou pressione a Tecla Início duas vezes enquanto estiver em qualquer tela.</string>
+    <string name="quick_tutorial_swipe_downwards">Pressione duas vezes a tecla de início para abrir seu aplicativo favorito. É possível alterar seu aplicativo favorito nas Configurações.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Pressione duas vezes a Tecla Ligar/Desligar para abrir seu aplicativo favorito. É possível alterar seu aplicativo favorito nas Configurações.</string>
+    <string name="quick_tutorial_to_go_back">Deslize a tela para baixo a partir da borda para retornar.</string>
+    <string name="remote_connection_disabled_settings">Configurações</string>
+    <string name="remote_connection_enabled_desc">O Gear será conectado remotamente se a conexão Bluetooth for encerrada.</string>
+    <string name="requested">Pedido</string>
+    <string name="reset_gear_legal_text1">Ao utilizar a função Reiniciar Gear, será possível excluir remotamente todos os dados do seu Gear. Após a exclusão, os dados excluídos não poderão ser restaurados e não será mais possível utilizar a função Localizar o meu Gear.</string>
+    <string name="reset_gear_legal_text2">* A função Reiniciar Gear poderá levar algum tempo para funcionar, ou mesmo não funcionar, dependendo do estado do seu Gear, de seu dispositivo móvel e do ambiente de rede.</string>
+    <string name="restore_complete">Restaurar concluído.</string>
+    <string name="restore_some_error">Falha na restauração. Tente novamente.</string>
+    <string name="restore_try_again">Tente novam.</string>
+    <string name="restore_watch_settings_content2">"Use o armazenamento do seu dispositivo para fazer backup do conteúdo do %1$s:
+%2$s
+
+Se foi feito backup do conteúdo anteriormente, você pode restaurá-lo para %3$s agora.
+
+Dependendo do tamanho do arquivo, ele pode demorar algum tempo.
+
+Você pode alterar suas configurações de backup em Configurações."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">CONFIGURAÇÕES</string>
+    <string name="retrieve_dialog_desc">Recuperando lista de aplicativos…</string>
+    <string name="sa_email">E-mail</string>
+    <string name="sa_error_0203_desc">Para ativar a Conexão remota, atualize conta Samsung manualmente.</string>
+    <string name="sa_error_0203_title">Atualizar Conta Samsung</string>
+    <string name="sa_error_0301_desc">Ocorreu um erro de rede ao conectar-se à sua Conta Samsung no seu dispositivo móvel.</string>
+    <string name="sa_error_0301_title">Falha ao ativar função</string>
+    <string name="sa_error_0302_desc">Ocorreu um erro de rede ao conectar-se à sua Conta Samsung no seu dispositivo móvel.</string>
+    <string name="sa_error_0302_title">Falha ao ativar função</string>
+    <string name="sa_error_0401_desc">Houve um erro. Tente novamente.</string>
+    <string name="sa_error_0401_title">Erro</string>
+    <string name="safety_message_interval_10minutes">Cada 10 minutos</string>
+    <string name="safety_message_interval_20minutes">A cada 20 minutos</string>
+    <string name="samsung_apps_info">Os aplicativos que não tiverem sido baixados pelo %1$s podem ser excluídos quando o %2$s for desinstalado ou os dados do aplicativo forem apagados. Você pode baixar aplicativos excluídos a partir do seu histórico de compras em %3$s.</string>
+    <string name="samsung_apps_notice">Aviso</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Atualizar agora</string>
+    <string name="screen_off">Mantém a tela desativada</string>
+    <string name="screen_off_desc">Recebe notificações, com exceção de alertas de chamada recebida e alarmes, no seu Gear enquanto a tela estiver desativada.</string>
+    <string name="setting_Enable">Ativar</string>
+    <string name="setting_alpm_dialog_title">Atenção</string>
+    <string name="setting_always_off">Sempre desligada</string>
+    <string name="setting_always_on">Sempre ligada</string>
+    <string name="setting_auto">Automático</string>
+    <string name="setting_auto_lock_disable_desc">Desativado pelo administrador, política de codificação ou armazenamento de credencial.</string>
+    <string name="setting_backup_restore2">Fazer backup e restaurar</string>
+    <string name="setting_basic">FUNDAMENTOS</string>
+    <string name="setting_connections">CONEXÕES</string>
+    <string name="setting_disable">Desativar</string>
+    <string name="setting_home_key_double_pressing">Toque 2x Tecla Início</string>
+    <string name="setting_language_input">IDIOMA E ENTRADA</string>
+    <string name="setting_manage_text_templates">Editar modelos de texto</string>
+    <string name="setting_mobile_network">Redes móveis</string>
+    <string name="setting_mobile_network_desc">O Gear será desconectado da sua rede móvel quando ele estiver conectado aos seu dispositivo móvel por Bluetooth. Quando a conexão por Bluetooth encerrar, o Gear se conectará a sua rede móvel novamente de forma automática.</string>
+    <string name="setting_multisim_popup_desc">Dependendo da sua operadora, você pode solicitar uma assinatura em separado para usar a função do SIM Múltiplo. Toque em OK para ativar o SIM Múltiplo.</string>
+    <string name="setting_opensource">Licença de código aberto</string>
+    <string name="setting_palm_motion">Movimentos</string>
+    <string name="setting_palm_swipe">Deslizar para capturar</string>
+    <string name="setting_palmover_desc">Para silenciar chamadas recebidas e alarmes ou pausar mídia, coloque sua mão sobre a tela enquanto a tela estiver ligada.</string>
+    <string name="setting_palmswipe_desc">Capture a tela deslizando seu dedo inteiro através dela, mantendo o contato com a tela.</string>
+    <string name="setting_pause_mute">Silencia/pausa</string>
+    <string name="setting_power_key_double_pressing">Press. 2x a Tecla Ligar</string>
+    <string name="setting_restoring">Restaurando…</string>
+    <string name="setting_safety_b1_desc">Quando o seu Gear e o dispositivo móvel estiverem conectados, o Envio de mensagens de socorro pode ajudá-lo em uma emergência. Ele alerta os seus contatos de mensagens de emergência sobre a sua situação enviando-lhes mensagens de emergência com sua localização. O envio dessas mensagens pode gerar cobranças adicionais. Para ativar o Envio de mensagens de socorro durante uma emergência, pressione a Tecla Ligar/Desligar %d vezes.</string>
+    <string name="setting_safety_b2_desc">Quando o Gear e o dispositivo móvel estão conectados, o Envio de mensagens de auxílio o ajuda em um emergência tirando uma foto usando a câmera do Gear. Ele alerta seus contatos de mensagem de emergência para a situação enviando a eles mensagens de emergência com essa foto e sua localização. A primeira mensagem conterá a localização e a foto. Em seguida, após um intervalo, uma segunda mensagem será enviada contendo apenas sua localização. O envio dessas mensagens pode acarretar cobranças adicionais. Para ativar o Envio de mensagens de auxílio durante uma emergência, pressione a tecla de início %d vezes.</string>
+    <string name="setting_safety_b2_no_camera_desc">Quando o seu Gear e o dispositivo móvel estão conectados, o Envio de mensagens de socorro pode ajudá-lo em uma emergência. Ele alerta os seus contatos de mensagens de emergência sobre a sua situação enviando-lhes mensagens de emergência com sua localização. O envio dessas mensagens pode acarretar cobranças adicionais. Para ativar o Envio de mensagens de socorro durante uma emergência, pressione a tecla de início %d vezes.</string>
+    <string name="setting_safety_b3_desc1">Pressione o botão de início rapidamente 3 vezes para enviar um alerta rápido aos seus contatos principais quando estiver em uma situação de emergência.</string>
+    <string name="setting_safety_b3_desc2">Seus contatos principais receberão mensagens de emergência contendo informações sobre a sua localização atual.</string>
+    <string name="setting_safety_b3_desc3">Para conectar seu celular ao seu Gear use esta função.</string>
+    <string name="setting_safety_list">Auxílio de segurança</string>
+    <string name="setting_samsung_legal">Informações legais da Samsung</string>
+    <string name="setting_screen_lock">Bloqueio automático</string>
+    <string name="setting_screen_lock_desc">Usar o Gear para bloquear seu dispositivo móvel.</string>
+    <string name="setting_screen_secutiry">SEGURANÇA DA TELA</string>
+    <string name="setting_send_emergency_picture">Enviar foto de emergência</string>
+    <string name="setting_send_emergency_recording">Enviar gravação do som</string>
+    <string name="setting_send_emergency_term_agree">Li e concordo com todos os termos e condições acima.</string>
+    <string name="setting_send_help_message">Enviar mensagens de socorro</string>
+    <string name="setting_send_terms_conditions">Termos de uso</string>
+    <string name="setting_smart_relay">Transmissão inteligente</string>
+    <string name="setting_smart_relay_desc">Visualize conteúdo do Gear no seu dispositivo móvel ao pegá-lo.</string>
+    <string name="setting_smart_toss">Lançamento inteligente</string>
+    <string name="setting_system">SISTEMA</string>
+    <string name="setting_text_to_speech_engine">Mecanismo texto para fala</string>
+    <string name="setting_textinput_emoticon">Emoticons</string>
+    <string name="setting_textinput_keyboard">Teclado</string>
+    <string name="setting_textinput_list">Métodos de entrada de texto</string>
+    <string name="setting_textinput_templates">Modelos</string>
+    <string name="setting_try_it">Experimentar</string>
+    <string name="setting_wake_up">Gesto de ativação</string>
+    <string name="setting_wake_up_desc">Ativar o Gear levantando o braço no qual o Gear está ligado.</string>
+    <string name="setting_wakeupgesture">"Para ativar o Gear, suspenda o braço e olhe para a tela do Gear.
+
+Este recurso não funciona quando você está inclinado ou deitado e pode consumir mais energia da bateria do Gear porque seu sensor de movimento está sempre ligado."</string>
+    <string name="setting_wakeupgesture_clock">Relógio</string>
+    <string name="setting_wakeupgesture_previous">Última tela visualizada</string>
+    <string name="setting_wakeupgesture_screen_on">Selecionar tela exibição</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Selecionar tela exibição</string>
+    <string name="settings">Configurações</string>
+    <string name="settings_application_version">Versão do aplicativo</string>
+    <string name="settings_emergency_contact">Gerenciar contatos principais</string>
+    <string name="settings_emergency_contact_empty">Nenhum contato principal adicionado. Para ativar %s, adicione contatos aos Contatos principais.</string>
+    <string name="settings_legal_information">Informações legais</string>
+    <string name="settings_message_interval">Intervalo de mensagens</string>
+    <string name="settings_not_set">Não definido</string>
+    <string name="settings_security">Segurança</string>
+    <string name="settings_security_update">Atualização de segurança</string>
+    <string name="settings_security_update_desc">Proteja seu dispositivo de conteúdo prejudicial melhorando sua segurança e manutenção.</string>
+    <string name="settings_unknown_sources_dialog">A instalação a partir de fontes desconhecidas pode ser prejudicial ao seu dispositivo e dados pessoais. Ao tocar em OK, você concorda que você é exclusivamente responsável por qualquer dano ao seu dispositivo ou perda de dados que possa resultar do uso destes aplicativos.</string>
+    <string name="settings_unknown_sources_subtitle">Permitir a instalação de aplicativos de fontes desconhecidas.</string>
+    <string name="share_loc_disabled">Compartilhamento de localização desativado.</string>
+    <string name="share_location_desc">Permitir o compartilhamento de seus dados de localização no Gear e no celular ao Encontrar meu Gear e ao Buscar meu dispositivo.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Concordo que os Dados Móveis podem ser usados e mensagens MMS podem ser enviadas em emergências. Compreendo que isto pode resultar em cobranças adicionais.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. A função [Enviar mensagem de ajuda] tem o objetivo de ajudar os usuários a enviarem notificação de sua localização aproximada e sinais visual/auditivos para o telefone móvel de um contato previamente escolhido por você. Esta função será disponibilizada apenas para sua conveniência e não pretende ser, nem deve ser tratada como tal, um substituto para chamadas de emergência às autoridades.
+
+2. [Enviar Mensagem de Ajuda] (os “Serviços”) podem não funcionar com exatidão, ininterruptamente ou sem erros, dependendo de circunstâncias tais como conectividade de rede, disponibilidade de informações de GPS/Wi-Fi, status e/ou condição do dispositivo do contato escolhido, nível de bateria e/ou outras circunstâncias que estão fora do controle da Samsung Electronics Co., Ltd. (“Samsung”, “nós”, “nos”, “nosso(a))´. A exatidão das informações de localização e a entrega dos Serviços no tempo certo podem ser afetadas pelas circunstâncias do ambiente, pela condição de seu dispositivo e do dispositivo do contato escolhido. Salvo disposição em contrário ou legalmente exigida, a Samsung isenta-se de qualquer garantia de que os Serviços irão funcionar com precisão, de foma contínua e sem qualquer erro . Note que o contato escolhido deve ser um telefone móvel ativo e o dispositivo deve estar ligado e pronto para receber mensagens de texto. A transferência de dados dos arredores e da localização podem ser cobrados de você dependendo das taxas especificadas pela sua operadora de serviços.
+
+Para que os Serviços funcionem como esperado, pode ser necessário que os recursos, implementados por você, ativem automaticamente as funções do GPS e Wi-Fi de seu dispositivo. Reconheço e concordo com a ativação automática das funções do GPS e Wi-Fi (se necessário), sem aviso prévio ou seu consentimento.
+
+3. Reconheço e concordo em não utilizar esta função de modo incorreto ou usá-la para quaisquer propósitos ilegais ou infringir a privacidade de quaisquer direitos pessoais ou proprietários de outros. Usar esta função apenas de acordo com a lei e somente em casos de emergência.Você concorda em ser o único responsável pelo uso que faz desse recurso. A Samsung não será responsável por qualquer consequência que possa resultar do uso deste recurso.
+
+4. Os Serviços são disponibilizados apenas para sua conveniência e não pretendem ser, nem devem ser tratados como tal, um substituto para chamadas de emergência às autoridades . Salvo disposição em contrário ou legalmente exigida, a Samsung isenta-se de qualquer garantia de que os Serviços irão funcionar com precisão, de foma contínua e sem qualquer erro .
+
+5. ISENÇÃO DE GARANTIAS. VOCÊ EXPRESSAMENTE ENTENDE E CONCORDA QUE:
+ 
+A. OS SERVIÇOS SÃO FORNECIDOS COMO SÃO, “COM TODAS AS FALHAS,” E QUANDO DISPONÍVEIS.  VOCÊ ASSUME O RISCO DE UTILIZÁ-LOS.  A SAMSUNG NÃO CONFERE NENHUMA GARANTIA EXPRESSA OU OUTRO TIPO DE GARANTIA OU CONDIÇÕES SOB OS TERMOS OU RELACIONADAS AOS SERVIÇOS.  A SAMSUNG EXPRESSAMENTE ISENTA-SE DE TODAS AS REPRESENTAÇÕES E GARANTIAS DE QUALQUER TIPO, SEJA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO LIMITANDO-SE A QUALQUER GARANTIA IMPLÍCITA DE COMERCIALIZAÇÃO, ADEQUABILIDADE PARA UM PROPÓSITO ESPECÍFICO E NÃO-VIOLAÇÃO, ASSIM COMO QUALQUER GARANTIA IMPLÍCITA DECORRENTE DO CURSO DE NEGOCIAÇÃO OU DE DESEMPENHO.
+
+B. SEM LIMITAR O QUE FOI ESTABELECIDO ACIMA, A SAMSUNG NÃO REPRESENTA OU GARANTE QUE (i) OS SERVIÇOS ATENDERÃO SEUS REQUISITOS, (ii) OS SERVIÇOS SERÃO ININTERRUPTOS, EM TEMPO ADQUADO, SEGUROS OU LIVRES DE ERROS, (iii) O CONTEÚDO OBTIDO DOS SERVIÇOS OU QUAISQUER NOTIFICAÇÕES DE FUNCIONALIDADE DOS SERVIÇOS ESTARÃO DISPONÍVEIS, EXATAS, COMPLETAS OU SERÃO CONFIÁVEIS, (iv) A QUALIDADE DOS SERVIÇOS OU DE QUALQUER INFORMAÇÃO, OU OUTRO MATERIAL QUE VOCÊ OBTEVE ATRAVÉS DOS SERVIÇOS ATENDERÁ SUAS EXPECTATIVAS, OU (v) QUAISQUER ERROS OU BUGS NOS SERVIÇOS SERÃO CORRIGIDOS.
+
+6. LIMITAÇÃO DE RESPONSABILIDADE.
+
+A.  VOCÊ EXPRESSAMENTE ENTENDE E CONCORDA QUE A SAMSUNG  NÃO SE RESPONSABILIZARÁ MEDIANTE UMA TEORIA DE NEGLIGÊNCIA,, POR QUAISQUER DANOS DIRETOS, INDIRETOS, INCIDENTAIS, ESPECIAIS, PUNITIVOS, PERDA CONSEQUENTIAL OR EXEMPLAR, RESPONSABILIDADE, DANO OU DESPESA, INCLUINDO SEM LMITAÇÃO, PERDA DE LUCROS, PERDA DE USO OU OUTROS DANOS (MESMO QUE O REPARO, SUBSTITUIÇÃO OU REEMBOLSO PELOS SERVIÇOS NÃO CUBRAM TOTALMENTE SUAS PERDAS OU MESMO QUE A SAMSUNG SOUBESSE OU TIVESSE CONHECIMENTO DA POSSIBILIDADE DE TAL PERDA, RESPONSABILIDADE, DANO OU DESPESA), DIRETAMENTE OU INDIRETAMENTE RESULTANTE OU DECORRENTE DE: (i) RECLAMAÇÕES DE VIOLAÇÃO DE CONTRATO, QUEBRA DE GARANTIA OU CONDIÇÃO, RESPONSABILIDADE OBJETIVA , NEGLIGÊNCIA, OU OUTRO DANO NA EXTENSÃO PERMITIDA PELA LEI APLICÁVEL; (ii) O USO OU SUA INCAPACIDADE DE USAR OS SERVIÇOS, (iii) O CUSTO DA AQUISIÇÃO DE SERVIÇOS SUBSTITUTOS; (iv) ACESSO NÃO AUTORIZADO OU ALTERAÇÃO DE SUAS TRANSMISSÕES OU DADOS; (v) DECLARAÇÕES OU CONDUTA DE TERCEIROS; (vi) ESTE ACORDO; (vii) DANO À PESSOA OU PROPRIEDADE (INCLUINDO MORTE), OU (viii) QUALQUER OUTRO ASSUNTO RELACIONADO COM OS SERVIÇOS OU CONTEÚDO FORNECIDO ATRAVÉS DE TAIS SERVIÇOS.
+  
+B.  SEU ÚNICO E EXCLUSIVO RECURSO PARA QUALQUER LITÍGIO COM A SAMSUNG RELACIONADO COM ESTE ACORDO OU COM OS SERVIÇOS SERÁ INTERROMPER O USO DOS SERVIÇOS.
+  
+C.  ALGUMAS JURISDIÇÕES NÃO PERMITEM A EXCLUSÃO DE CERTAS GARANTIAS OU A LIMITAÇÃO OU EXCLUSÃO DA RESPONSABILIDADE FOR DANOS INCIDENTAIS OU CONSEQUENCIAIS. DESSA FORMA, ALGUMAS DA LIMITAÇÕES ACIMA NAS SEÇÕES 5 E 6 NÃO SE APLICAM A VOCÊ.
+
+7. INDENIZAÇÃO. Você concorda em isentar, indenizar e defender a Samsung de e contra quaisquer reclamações, ações, demandas, custos, responsabilidades, perdas, danos, multas e despesas (incluindo honorários de advogados) decorrentes ou relacionados com o uso dos Serviços ou o não cumprimento, de sua parte, com os termos e condições este Acordo .  Se, apesar da natureza pessoal das licenças que lhe foram concedidas sob os termos e condições aqui estabelecidos, você permitir que qualquer indivíduo utilize os Serviços ou fornecer a qualquer pessoa informações recebidas através de tais Serviços, você concorda em informar tal indivíduo da existência e das disposições deste termos e condições, que vincularão tal indivíduo, e você concorda em isentar, indenizar e defender a Samsung contra todas e quaisquer reclamações, ações, demandas, custos, responsabilidades, perdas,d anos, multas e despesas (incluindo os honorários dos advogados) relacionadas com o uso dos Serviços por tal indivíduo.
+
+8. Motivos de Força Maior. A Samsung não será responsável por qualquer atraso ou falha no desempenho, sob os termos e condições aqui estabelecidos, ou interrupção de Serviços, causados por eventos de força maior, autoridades civis ou militares, guerra, atos de terrorismo, disputas trabalhistas, materiais ou serviços fornecidos por terceiros, ou qualquer causa além do controle razoável da Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Concordo em permitir que %1$s compartilhe minha localização com meus contatos %2$s.</string>
+    <string name="smartrelay_not_show">Não exibir novamente</string>
+    <string name="software_update">Atualização de software</string>
+    <string name="ss_double_tap_any_screen">Toque duas vezes em qualquer tela com dois dedos para visualizar os controles de brilho e volume e outras informações úteis.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Encaminhar chamadas para seu Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Solicitando…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Lendo configurações…</string>
+    <string name="ss_loading_ing_abb">Carregando…</string>
+    <string name="ss_mobile_data_is_disabled">Os dados móveis estão desativados. Conecte-se à WLAN ou ative os dados móveis e tente novamente</string>
+    <string name="ss_mobile_data_is_disabled2">A rede de dados móveis está desativada. Conecte-se à rede Wi-Fi ou ative as redes móveis e tente novamente.</string>
+    <string name="ss_no_network_connection">Sem conexão de rede</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Manual do usuário</string>
+    <string name="str_no">Não, obrigado</string>
+    <string name="str_yes">Sim</string>
+    <string name="stub_list_install">Instalar</string>
+    <string name="sw_eula_condition">Compreendo e concordo com os termos e condições acima.</string>
+    <string name="sw_eula_desc2">Você concorda em fornecer para Samsung os dados do registro de erro de qualquer falha de Atualização de Software que ocorra em seu dispositivo. Isto ajudará a Samsung a melhorar e aprimorar o processo de Atualização de Software da Samsung e essencialmente ajudá-lo a manter seu dispositivo atualizado apropriadamente.</string>
+    <string name="tab_stub_list">Destaque</string>
+    <string name="talkback_download">Baixar</string>
+    <string name="talkback_setting">Configurações</string>
+    <string name="the_samsung_gear_application">aplicativo Samsung Gear</string>
+    <string name="threeg_connection">Usar Conexão remota</string>
+    <string name="threeg_connection_subtitle">Conectar ao seu Gear remotamente, usando Dados móveis ou Wi-Fi juntos com a sua Conta Samsung.</string>
+    <string name="threeg_connection_subtitle_chn">Conecte ao seu Gear remotamente, usando Dados móveis ou WLAN juntos com a sua conta Samsung.</string>
+    <string name="title_activity_clock_delete">Desinstalar</string>
+    <string name="title_activity_connect_popup">Conectar</string>
+    <string name="title_activity_paired_watch">Dispositivo emparelhado</string>
+    <string name="title_alertdialog_device_name_popup">Renomear %s</string>
+    <string name="title_alertdialog_disconnect_popup">Desconectar</string>
+    <string name="title_dialog_pm_error">Aviso</string>
+    <string name="title_dialog_uninstall">Desinstalar</string>
+    <string name="title_eula">Notificações legais</string>
+    <string name="title_findmywatch_connect2">Encontrar meu Gear</string>
+    <string name="title_findmywatch_finding">Procurando…</string>
+    <string name="tri_connect_title_circle_to_gear">Conectar %1$s ao %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">A conexão de seu %1$s ao seu %2$s através do Bluetooth desconectará temporariamente seu %3$s do seu aparelho móvel. Esta conexão será retomada em breve e seu %4$s então será conectado no seu %5$s e no seu aparelho móvel.</string>
+    <string name="tt_install_voice_data">Instalar dados de voz TTS</string>
+    <string name="tt_install_voice_data_required">Instalar idiomas de leitura de texto adicionais no seu Gear.</string>
+    <string name="tt_language">Idioma</string>
+    <string name="tt_send_help_message">Enviar mensagens de socorro</string>
+    <string name="tt_tts_language_guide">O idioma do reconhecimento de fala para texto é o idioma definido nas Configurações do seu Gear. Se o seu idioma não for suportado pelo mecanismo de reconhecimento de fala para texto, o Inglês (Reino Unido) será usado.</string>
+    <string name="unable_to_connect_popup_message">Falha ao conectar seu Gear ao seu celular. Tente novamente mais tarde.</string>
+    <string name="unable_to_connect_popup_title">Falha na conexão</string>
+    <string name="unable_to_lock_gear">Não é possível bloquear o Gear</string>
+    <string name="unable_to_reset_gear">Não é possível redefinir o Gear</string>
+    <string name="unabled_health">Não é possível abrir este aplicativo porque ele está desativado.</string>
+    <string name="uninstall_applications">Desinstalar aplicativos</string>
+    <string name="unknown_sources_msg_new">%1$s não será instalado pelo %2$s. Seu dispositivo e dados pessoais são mais vulneráveis a ataques através de aplicativos de fontes desconhecidas. Você concorda ser o único responsável por qualquer dano ao seu dispositivo ou perda de dados resultantes do uso destes aplicativos. Para instalar sempre aplicativos de fontes desconhecidas, vá para o %3$s > %4$s > %5$s e ative %6$s. Toque em OK para instalar %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s não é proveniente da %2$s nem inclui um aplicativo para seu Gear. O aparelho e os dados são mais vulneráveis a ataques de aplicativos de fontes desconhecidas. A instalação será cancelada e %3$s será excluído do seu telefone.</string>
+    <string name="unknown_sources_title">Fontes desconhecidas</string>
+    <string name="update_button">Atualizar</string>
+    <string name="update_summary">Verificar existência de atualizações</string>
+    <string name="update_the_latest_version">Atualização disponível</string>
+    <string name="voice_control_subtitle">Diga “Atender” ou “Recusar”, durante as pausas enquanto seu Gear não estiver tocando ou vibrando, para atender ou recusar chamadas.</string>
+    <string name="voicememo_link1">Termos e Condições da Nuance</string>
+    <string name="voicememo_link2">Política de Privacidade Samsung</string>
+    <string name="voicememo_link3">Política de Privacidade da Nuance</string>
+    <string name="watchapp_all">Aplicativos</string>
+    <string name="watchapp_noapps">Nenhum aplicativo</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Atualizando…</string>
+    <string name="wifi_only">Somente via Wi-Fi</string>
+    <string name="wifi_only_chn">Apenas WLAN</string>
+    <string name="wifi_only_summary">Baixa apenas atualizações quando conectado a uma rede Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Só poderá ser baixado quando estiver conectado via WLAN.</string>
+    <string name="email_sanitize">Não é possível exibir conteúdo deste e-mail no Gear por motivos de segurança. Para obter detalhes, visualize este e-mail no seu dispositivo móvel</string>
+    <string name="knox_sanitize">Toque aqui para entrar no Modo KNOX.</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:splitMotionEvents="false" android:layout_marginStart="@dimen/list_divider_side_margin" android:layout_marginEnd="@dimen/list_divider_side_margin">
+            <FrameLayout android:layout_gravity="center_horizontal" android:layout_width="@dimen/noti_alerttype_image_width" android:layout_height="@dimen/noti_alerttype_image_height" android:layout_marginTop="@dimen/notification_frame_margintop_marginbottom" android:layout_marginBottom="@dimen/notification_frame_margintop_marginbottom">
+                <ImageView android:layout_gravity="center_horizontal" android:id="@id/alerttype_imageview" android:background="@color/black" android:padding="1.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:adjustViewBounds="false" android:baselineAlignBottom="false" />
+            </FrameLayout>
+            <View android:background="@drawable/manager_list_divider" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_marginTop="2.0dip" />
+            <ListView android:id="@id/listview_single_select" android:layout_width="fill_parent" android:layout_height="0.0dip" android:listSelector="@xml/xml_listitem_selector" android:divider="@drawable/b2_list_divider" android:layout_weight="1.0" android:paddingStart="@dimen/list_main_left_right_padding" android:paddingEnd="@dimen/list_main_left_right_padding" />
+            <View android:background="@drawable/manager_list_divider" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <TextView android:textSize="@dimen/Notification_description" android:textColor="@color/black" android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/noti_explanation_top_bottom_margin" android:layout_marginBottom="@dimen/noti_explanation_top_bottom_margin" android:text="@string/notification_type_desc" android:lineSpacingExtra="5.0dip" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" style="@style/RobotoTextViewStyle" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:id="@id/alert_type_background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

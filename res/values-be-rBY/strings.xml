@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">Праграма %1$s не ўсталявана на мабільнай прыладзе. Каб ужываць %2$s на Gear, трэба спампаваць %1$s на мабільную прыладу.</string>
+    <string name="attention_popup_title">Увага</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Новыя налады гадзінніку прыменены праз Gear.</string>
+    <string name="invalid_rename_character">Invalid character entered. Try again.</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="sa_email">Электронная пошта</string>
+    <string name="shealth_menu">S Health</string>
+</resources>

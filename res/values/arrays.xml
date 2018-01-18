@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alerttype">
+        <item>@string/alert_full_screen</item>
+        <item>@string/alert_mini</item>
+    </string-array>
+    <string-array name="color">
+        <item>\#ff6f20</item>
+        <item>\#f4668d</item>
+        <item>\#f93742</item>
+        <item>\#a73f95</item>
+        <item>\#8400c4</item>
+        <item>\#0336e0</item>
+        <item>\#00afa4</item>
+        <item>\#60c01e</item>
+        <item>\#1f9300</item>
+        <item>\#6b3a33</item>
+        <item>\#303030</item>
+        <item>\#000000</item>
+    </string-array>
+    <string-array name="color_name">
+        <item>@string/color_orange</item>
+        <item>@string/color_pink</item>
+        <item>@string/color_red</item>
+        <item>@string/color_medium_purple</item>
+        <item>@string/color_purple</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_light_sky_blue</item>
+        <item>@string/color_spring_green</item>
+        <item>@string/color_green</item>
+        <item>@string/color_brown</item>
+        <item>@string/color_gray</item>
+        <item>@string/color_black</item>
+    </string-array>
+</resources>

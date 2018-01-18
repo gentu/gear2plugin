@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Tidak tersedia selama panggilan.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Pop-up layar penuh</string>
+    <string name="alert_mini">Pop-up mini</string>
+    <string name="alertdialog_backkey_popup_content">Peringatan</string>
+    <string name="alertdialog_disconnect_popup_description">Gear akan diputus. Gunakan Bluetooth untuk menyambung ulang.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Ini akan mengakhiri koneksi Anda dengan %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s akan diputuskan dari perangkat seluler Anda. Saat lain kali Anda tersambung ke perangkat ini, Anda harus menggunakan Bluetooth. Semua koneksi setelahnya dapat dilakukan lewat Koneksi jarak jauh.</string>
+    <string name="alertdialog_uninstall_popup_content">Hapus instalan</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s tidak terinstal di perangkat seluler Anda. Untuk menggunakan %2$s di Gear, unduh %1$s ke perangkat seluler.</string>
+    <string name="attention_popup_title">Perhatian</string>
+    <string name="auto_call_forwarding">Penerusan pgln otomatis</string>
+    <string name="auto_call_forwarding_att">Penerusan panggiln oto ke Gear</string>
+    <string name="auto_call_forwarding_desc">Aktifkan Penerusan panggilan otomatis saat Gear Anda terputus dari perangkat seluler. Ini akan meneruskan panggilan masuk dari perangkat seluler Anda ke Gear hingga perangkat tersambung kembali.</string>
+    <string name="auto_update">Perbarui otomatis</string>
+    <string name="auto_update_summary">Periksa update secara otomatis.</string>
+    <string name="backing_up">Memback up…</string>
+    <string name="backup_complete">Backup selesai.</string>
+    <string name="bnr_backup">Memback up…</string>
+    <string name="bnr_bakcup_title">Backup</string>
+    <string name="bnr_cancel">Batal</string>
+    <string name="bnr_canel">Batalkan</string>
+    <string name="bnr_error_occurred">Terjadi kesalahan</string>
+    <string name="bnr_except">%1$s (kecuali %2$s)</string>
+    <string name="bnr_except_autolock">Kunci otomatis</string>
+    <string name="bnr_except_remoteconnection">Koneksi jarak jauh</string>
+    <string name="bnr_except_texttemplate">Pola teks</string>
+    <string name="bnr_next">Brkt</string>
+    <string name="bnr_no">Tidak</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Untuk menyambungkan perangkat baru, Gear akan direset ke pengaturan pabrik.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear tidak sepenuhnya disetel. Panduan penyetelan sedang dibuka di Gear, namun untuk tersambung ke Gear, Anda juga perlu membuka panduan penyetelan di Gear Manager di perangkat ini.</string>
+    <string name="bnr_reset_initialization">Peringatan</string>
+    <string name="bnr_restore">Pulihkan</string>
+    <string name="bnr_restored">Data disimpan.</string>
+    <string name="bnr_setupwizard_title2">Cadangan dan pemulihan</string>
+    <string name="bnr_yes">Ya</string>
+    <string name="bt_connected">Tersambung</string>
+    <string name="bt_disconnected">Terputus</string>
+    <string name="bt_unpaired">Pisahkan</string>
+    <string name="button_finish">Selesai</string>
+    <string name="button_restore">Restore</string>
+    <string name="call">PANGGILAN</string>
+    <string name="call_check_gear_status_when_cfwd">Fungsi penerusan panggilan Seluler ke Gear dan Gear ke seluler tidak dapat diaktifkan secara bersamaan.</string>
+    <string name="call_dualsim1">Kartu SIM 1</string>
+    <string name="call_dualsim1sim2">Kedua kartu SIM</string>
+    <string name="call_dualsim2">Kartu SIM 2</string>
+    <string name="call_forwarding">Pemindahan panggilan</string>
+    <string name="call_forwarding_agree">Saya setuju.</string>
+    <string name="call_forwarding_desc">Teruskan panggilan masuk dari perangkat seluler ke Gear.</string>
+    <string name="call_forwarding_desc_vzw">Teruskan panggilan masuk tak terjawab dari ponsel Anda ke Gear.</string>
+    <string name="call_forwarding_disable_msg">Permintaan telah dibuat untuk menonaktifkan penerusan panggilan dari perangkat seluler ke Gear. Status jaringan seluler dan perangkat seluler dapat berdampak pada hasil.</string>
+    <string name="call_forwarding_enable_msg">Permintaan telah dibuat untuk mengaktifkan penerusan panggilan dari perangkat seluler ke Gear. Status jaringan seluler dan perangkat seluler dapat berdampak pada hasil.</string>
+    <string name="call_forwarding_for_att_msg">"Saat sambungan Gear diputus dari ponsel cerdas, panggilan masuk ke perangkat seluler akan otomatis diteruskan ke Gear.
+- Ponsel cerdas akan berdering beberapa kali lalu panggilan akan diteruskan ke Gear.
+- Jika Anda tidak menjawab panggilan di Gear, penelepon dapat meninggalkan pesan suara yang dapat Anda dengarkan di Gear.
+Anda ingin mengaktifkan penerusan panggilan otomatis sekarang?"</string>
+    <string name="call_forwarding_notify_msg">Penerusan panggilan dari perangkat seluler ke Gear saat ini diaktifkan. Panggilan masuk ke perangkat seluler akan diteruskan ke Gear. Jika Anda sedang tidak memakai Gear, buka Pengaturan dan nonaktifkan Teruskan panggilan otomatis untuk memastikan Anda tidak melewatkan panggilan yang masuk.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Nonaktifkan pengalihan pnggilan suara…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Aktifkan pengalihan panggilan suara…</string>
+    <string name="call_no_gear_number">Tdk ada nomor</string>
+    <string name="call_select_dualsim_title">Pilih kartu SIM</string>
+    <string name="call_voice_control">Kontrol suara</string>
+    <string name="callforwarding_help_des1">Alihkan perangkat yang panggilannya akan diteruskan secara otomatis, tergantung apakah perangkat Anda tersambung lewat Bluetooth atau Koneksi jarak jauh.</string>
+    <string name="callforwarding_help_des2">Terima panggilan yang ditujukan ke perangkat seluler di Gear saat Anda bergerak dan menggunakan Gear serta terhubung secara jarak jauh dengan perangkat seluler.</string>
+    <string name="cancel">Batal</string>
+    <string name="cf_activated">Diaktifkan</string>
+    <string name="cf_deactivate_failed">Gagal menonaktifkan Penerusan panggilan.</string>
+    <string name="cf_deactivated">Dinonaktifkan</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Pengaturan jam baru diterapkan melalui Gear.</string>
+    <string name="clocks_download_more_clocks">Unduh jam lainnya</string>
+    <string name="clocks_noti_uninstall_clock">Instalan %s akan dihapus.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s akan dihapus instalasinya dan %2$s akan diatur sebagai jam default.</string>
+    <string name="clocks_title_basic_clocks">JAM DASAR</string>
+    <string name="clocks_title_downloaded_clocks">JAM UNDUHAN</string>
+    <string name="clocks_title_style_clocks">JAM GAYA</string>
+    <string name="clocks_uninstalled">Instalan terhapus.</string>
+    <string name="clocks_uninstalling">Menghapus instalan…</string>
+    <string name="close">Tutup</string>
+    <string name="closing_samsung_gear_message">Gear sudah direset. Aplikasi Samsung Gear akan segera ditutup.</string>
+    <string name="closing_samsung_gear_message_jpn">Gear sudah direset. Aplikasi Gear akan segera ditutup.</string>
+    <string name="closing_samsung_gear_title">Tutup aplikasi Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Tutup aplikasi Gear</string>
+    <string name="cloud_backup_no_information">Tidak pernah</string>
+    <string name="cloud_backup_restore_backup_now">Cadangkan data</string>
+    <string name="cloud_backup_restore_restore_now">Memulihkan data</string>
+    <string name="cmw_agree">Saya setuju</string>
+    <string name="cmw_eula_agree">Saya memahami dan menyetujui syarat dan ketentuan di atas.</string>
+    <string name="cmw_for_setting">Layanan lokasi telah dinonaktifkan. Masuk ke Pengaturan.</string>
+    <string name="cmw_high_accuracy_dialog_message">Untuk deteksi lokasi tercepat dan terakurat, pilih Akurasi tinggi di Lokasi > Mode.</string>
+    <string name="cmw_high_accuracy_dialog_title">Pilih Akurasi Tinggi</string>
+    <string name="cmw_legal_content">Dengan mengaktifkan “Berbagi Lokasi”, Anda setuju bahwa data lokasi terkait dengan telepon seluler dan/atau perangkat Gear Anda akan ditransmisikan melalui server Samsung untuk menyediakan layanan Temukan Gear Saya &amp; Temukan Perangkat Saya. Tidak ada data atau informasi tentang lokasi perangkat Anda yang disimpan di server Samsung.</string>
+    <string name="cmw_legal_content1">Dengan mengaktifkan “%1$s &amp; %2$s”, Anda mengakui bahwa data lokasi terkait dengan telepon seluler dan/atau perangkat Gear Anda akan ditransmisikan melalui server Samsung untuk menyediakan layanan %1$s &amp; %2$s. Tidak ada data atau informasi tentang lokasi perangkat Anda yang disimpan di server Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">Dengan mengaktifkan “%1$s &amp; %2$s”, Anda mengakui bahwa data lokasi terkait dengan telepon seluler Anda akan ditransmisikan melalui server Samsung untuk menyediakan layanan %2$s. Tidak ada data atau informasi tentang lokasi perangkat Anda yang disimpan di server Samsung.</string>
+    <string name="cmw_legal_content_2">Kebijakan Privasi Samsung</string>
+    <string name="cmw_legal_title">Pemberitahuan hukum</string>
+    <string name="cmw_location">Aktifkan layanan Lokasi</string>
+    <string name="cmw_show_on_map">Tampilkan di peta</string>
+    <string name="color_black">Hitam</string>
+    <string name="color_blue">Biru</string>
+    <string name="color_brown">Cokelat</string>
+    <string name="color_gray">Abu-abu</string>
+    <string name="color_green">Hijau</string>
+    <string name="color_light_sky_blue">Biru langit muda</string>
+    <string name="color_medium_purple">Ungu medium</string>
+    <string name="color_orange">Oranye</string>
+    <string name="color_pink">Merah muda</string>
+    <string name="color_purple">Ungu</string>
+    <string name="color_red">Merah</string>
+    <string name="color_spring_green">Hijau musim semi</string>
+    <string name="common_none">Tdk ada</string>
+    <string name="common_off">Tdk aktif</string>
+    <string name="common_on">Aktif</string>
+    <string name="common_recent_apps">Apl terakhir</string>
+    <string name="connect_popup_content">Menghubung ke %s…</string>
+    <string name="connected_by_trasport_BT">Tersambung melalui Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Tersambung dari jauh</string>
+    <string name="connecting_content">Menyambung ke Gear</string>
+    <string name="connecting_doc">Setelah menyambung ke %1$s, Anda dapat mengubah pengaturannya dan menginstal aplikasi lewat %2$s.</string>
+    <string name="connecting_popup_message">Menyambung ke Gear…</string>
+    <string name="connecting_popup_title">Sambung ke Gear</string>
+    <string name="connecting_to_gear_ing">Menyambung ke Gear…</string>
+    <string name="connectingdoc">Setelah menyambung ke Gear, Anda dapat mengubah pengaturannya dan menginstal aplikasi di Gear lewat Gear Manager.</string>
+    <string name="connection_error_dialog_message">Perangkat Anda belum tersambung. Perangkat akan mencoba menyambungkan kembali.</string>
+    <string name="dialog_check_phone_number_msg1">Pastikan informasi berikut ini benar:</string>
+    <string name="dialog_check_phone_number_msg2">Nomor telepon seluler: %s</string>
+    <string name="dialog_check_phone_number_msg3">Nomor telepon Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Ketuk OK untuk mengonfirmasi dan mengaktifkan Penerusan panggilan otomatis.</string>
+    <string name="dialog_enable_remote_connection_desc">Untuk mengaktifkan Penerusan panggilan otomatis, aktifkan Koneksi jarak jauh, lalu coba lagi.</string>
+    <string name="dialog_enable_remote_connection_title">Aktifkan Koneksi jarak jauh</string>
+    <string name="dialog_permission_message">Tidak dapat menggunakan %s. Ketuk PENGATURAN, buka Info aplikasi > Izin, lalu perbolehkan izin berikut dan coba lagi:</string>
+    <string name="dialog_popup_button_cancel">Batal</string>
+    <string name="dialog_reverse_msg">Bergantung pada penyedia layanan Anda, langganan terpisah mungkin diperlukan untuk mengizinkan perangkat seluler dan Gear Anda menggunakan fitur ini. Hal ini dapat dikenakan biaya tambahan.</string>
+    <string name="dialog_set_phone_number_msg">Untuk mengaktifkan Penerusan panggilan otomatis, atur nomor telepon perangkat yang ingin Anda jadikan tujuan dan asal penerusan panggilan masuk.</string>
+    <string name="dialog_set_phone_number_title">Aktifkan Penerusan panggilan otomatis</string>
+    <string name="disable_loc_text">Berbagi lokasi akan dinonaktifkan. Anda tidak akan dapat menggunakan informasi lokasi untuk mencari Gear atau perangkat seluler Anda lewat Temukan Gear Saya atau Temukan Perangkat Saya.</string>
+    <string name="disable_loc_text_no_gps">Berbagi lokasi akan dinonaktifkan. Anda tidak akan dapat menggunakan informasi lokasi untuk mencari perangkat seluler lewat Temukan Perangkat Saya.</string>
+    <string name="disable_remote_connection">Nonktfkn Koneksi jrk jauh</string>
+    <string name="disable_remote_connection_fmm_fmd">Temukan Gear Saya dan Temukan Perangkat Saya</string>
+    <string name="disable_remote_connection_receiving_blocked">Menerima pesan, email, dan notifikasi dari perangkat seluler</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Menerima email dan notifikasi dari perangkat seluler</string>
+    <string name="disable_remote_connection_warning">Koneksi jarak jauh akan dinonaktifkan. Fungsi berikut tidak akan tersedia hingga Gear Anda tersambung kembali ke perangkat seluler lewat Bluetooth:</string>
+    <string name="disable_share_location">Nonaktifkan Berbagi lokasi</string>
+    <string name="disconnect_popup_content">Memutus sambungan %s…</string>
+    <string name="do_not_show_again">Jangan perlihatkan lagi</string>
+    <string name="enable_auto_call_forwarding_msg">Teruskan panggilan masuk dari perangkat seluler ke Gear secara otomatis saat sambungan Gear diputus. Bergantung pada penyedia layanan Anda, hal ini dapat dikenakan biaya tambahan. Ketuk OK untuk mengaktifkan Penerusan panggilan otomatis.</string>
+    <string name="enable_auto_call_forwarding_title">Aktifkan Penerusan pgln oto</string>
+    <string name="enable_more_notifications_enable">Aktif</string>
+    <string name="enable_notification_access">Aktifkan Akses notifikasi</string>
+    <string name="enable_notification_access_desc">"Fungsi ini akan mampu membaca semua notifikasi yang Anda terima, yang mungkin mencakup informasi pribadi seperti kontak dan pesan yang dikirimkan kepada Anda. Fungsi juga mampu mengabaikan notifikasi ini atau memilih tindakan yang terkait dengan notifikasi tersebut.
+Untuk menerima notifikasi di Gear, ketuk Aktifkan, lalu aktifkan %s."</string>
+    <string name="enable_share_location">Aktifkan Berbagi lokasi</string>
+    <string name="enabled_loc">Berbagi lokasi diaktifkan.</string>
+    <string name="error_enter_device_name">Masukkan nama perangkat.</string>
+    <string name="error_occurred">Terjadi kesalahan.</string>
+    <string name="eula_i_agree">Saya setuju.</string>
+    <string name="failed_tshare_msg">Gagal mngaktfkn Penerusan pgln. Tak ada respons dr T share.</string>
+    <string name="find_my_device">Cari Perangkat Saya</string>
+    <string name="find_my_gear">Temukan Gear Saya</string>
+    <string name="find_watch_btn_start">Mulai</string>
+    <string name="find_watch_btn_stop">Berhenti</string>
+    <string name="find_watch_off">Untuk menemukan Gear Anda, ketuk Mulai. Gear akan memutar suara dan layarnya akan menyala.</string>
+    <string name="find_watch_on">Untuk berhenti mencari Gear Anda, ketuk Berhenti. Gear akan berhenti berbunyi, bergetar, dan layarnya mati.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s akan dihapus instalasinya, dan font default akan diterapkan ke %2$s.</string>
+    <string name="force_wifi_direct_msg">Aplikasi akan diinstal lewat Wi-Fi Direct. Ini akan mengakhiri koneksi Wi-Fi Direct Anda saat ini. Jika Anda membatalkan instalasi, Anda harus mengunduh aplikasi ini lagi untuk menginstalnya.</string>
+    <string name="force_wifi_direct_title">Instal</string>
+    <string name="force_wifi_install">Instal</string>
+    <string name="gear2_backup_confirm_text">Jika Anda mencadangkan data sekarang, data cadangan Gear di perangkat seluler saat ini akan diganti dengan data Gear Anda yang terbaru.</string>
+    <string name="gear2_restore_confirm_text">Jika Anda memulihkan data, data yang ada di Gear saat ini akan dihapus dan diganti dengan data cadangan Gear Anda saat ini.</string>
+    <string name="gear2_text">"Gunakan penyimpanan perangkat untuk mencadangkan konten %1$s Anda:
+%2$s
+
+Jika sebelumnya Anda mencadangkan konten ini, Anda dapat memulihkannya ke %3$s sekarang.
+
+Bergantung pada ukuran file, mungkin dibutuhkan lebih banyak waktu."</string>
+    <string name="gear2_text_import3">Pengaturan</string>
+    <string name="gear_bnr_desc">"Gunakan penyimpanan perangkat seluler untuk mencadangkan data %1$s berikut: %2$s
+
+Jika sebelumnya Anda telah mencadangkan data %3$s, Anda dapat menyimpannya ke %4$s Anda sekarang.
+
+Waktu yang diperlukan tergantung ukuran file."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Perangkat seluler sedang memindai Gear Anda. Ini mungkin memerlukan beberapa menit. Mungkin sulit menemukan lokasi Gear jika berada di dalam ruangan.</string>
+    <string name="gear_location_popup_title">Temukan Gear</string>
+    <string name="gear_location_text">Lokasi Gear</string>
+    <string name="gear_lock_success">Gear terkunci.</string>
+    <string name="gear_lock_text">Kunci Gear</string>
+    <string name="gear_locked">Gear terkunci</string>
+    <string name="gear_locked_text1">Gear terkunci. Untuk mengunci, sambungkan Gear ke perangkat seluler melalui Bluetooth.</string>
+    <string name="gear_phone_number">Nomor telepon Gear</string>
+    <string name="gear_phone_number_popup_desc">Semua panggilan ke perangkat seluler akan diteruskan ke %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Semua panggilan tak terjawab ke Perangkat seluler akan diteruskan ke %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Untuk mengunci Gear, Koneksi jarak jauh harus diaktifkan terlebih dahulu.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Untuk mereset Gear, Koneksi jarak jauh harus diaktifkan terlebih dahulu.</string>
+    <string name="gear_reset_text">Reset Gear</string>
+    <string name="gear_to_mobile">Gear ke seluler</string>
+    <string name="gear_to_mobile_des">Terima panggilan yang ditujukan ke Gear di perangkat seluler saat kedua perangkat tersebut tersambung lewat Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Gagal menemukan lokasi. Coba lagi nanti.</string>
+    <string name="gear_unable_to_locate_title">Tidak dapat menemukan Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Wallpaper</string>
+    <string name="home_bg_color">Warna</string>
+    <string name="home_bg_colors_title">WARNA YANG TERSEDIA</string>
+    <string name="home_bg_delete_actionbar_selected">Terpilih</string>
+    <string name="home_bg_delete_dialog_msg">%d wallpaper akan dihapus dari Gear Manager dan Gear Anda.</string>
+    <string name="home_bg_delete_select_all">Pilih semua</string>
+    <string name="home_bg_max_more_image_toast">Jumlah maksimum wallpaper (%d) tercapai.</string>
+    <string name="home_bg_more_images">Gambar lainnya</string>
+    <string name="home_bg_popup_wallpaper_msg">Mengunduh wallpaper Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">Unduh wallpaper</string>
+    <string name="home_bg_toast_saved">Tersimpan.</string>
+    <string name="home_bg_wallpaper">Wallpaper</string>
+    <string name="home_bg_wallpapers_title">WALLPAPER YANG TERSEDIA</string>
+    <string name="homelayout_apps">Aplikasi</string>
+    <string name="incoming_calls_title">Panggilan masuk</string>
+    <string name="info_build_number">Versi software</string>
+    <string name="info_model_number">Nomor model</string>
+    <string name="info_software_update">Pembaruan software</string>
+    <string name="information_provision_agreement">Perjanjian Ketentuan Informasi</string>
+    <string name="information_provision_agreement_mgs">"Voice Memo menggunakan teknologi pengenalan suara yang disediakan oleh penyedia layanan pihak ketiga yang disebut Nuance Communications, Inc. Oleh karena itu, informasi suara Anda pasti disimpan di dalam server yang dioperasikan oleh Nuance (di Amerika Serikat), dan penggunaan Voice Memo mengharuskan Anda menyetujui Persyaratan dan Ketentuan dari Nuance.
+ Nuance berhak menggunakan input suara Anda untuk tujuan meningkatkan layanan dan mengembangkan teknologi. Nuance juga berhak untuk memberikan input suara yang disebutkan di atas kepada mitra Nuance. Informasi input suara Anda disimpan hingga tujuan yang disebutkan di atas telah tercapai. Untuk informasi tentang layanan Voice Memo, silakan baca Kebijakan Privasi Samsung dan Kebijakan Privasi Nuance.
+ Anda tidak dapat menggunakan Voice Memo jika Anda tidak menyetujui ketentuan tentang informasi Anda seperti yang dijelaskan di atas."</string>
+    <string name="init_manage_notifications_desc">Pilih aplikasi yang notifikasinya ingin Anda terima dari Gear %1$s. Untuk menyimpan daya baterai %2$s, hapus pilihan aplikasi yang notifikasinya tidak ingin Anda terima.</string>
+    <string name="install_in_progress">Dalam kemajuan…</string>
+    <string name="invalid_rename_character">Karakter tidak valid dimasukkan. Coba lagi.</string>
+    <string name="latest_version">Versi terbaru telah diinstal</string>
+    <string name="latitude">Latitude</string>
+    <string name="limit_notification_desc">Blokir peringatan agar tidak muncul di Gear saat perangkat seluler sedang digunakan.</string>
+    <string name="limit_notification_dialog_desc">Tidak dapat mengaktifkan Batasi notifikasi di Gear Anda. Tidak ada kunci layar yang ditetapkan di perangkat seluler Anda.</string>
+    <string name="limit_notification_title">Batasi notifikasi</string>
+    <string name="location_info_title">Berbagi lokasi</string>
+    <string name="lock_gear_legal_text1">Dengan menggunakan Lock Gear, Anda dapat mengunci Gear Anda dari jarak jauh untuk mencegah penggunaan yang tidak berwenang. Anda dapat membuka kunci Gear dengan menyambungkannya kembali ke perangkat seluler.</string>
+    <string name="lock_gear_legal_text2">* Lock Gear dapat memerlukan beberapa saat untuk berfungsi atau bahkan gagal, tergantung pada keadaan Gear, perangkat seluler, atau lingkungan jaringan Anda.</string>
+    <string name="lock_gear_text">Tidak dapat mengunci Gear saat perangkat seluler dan Gear tersambung lewat Bluetooth.</string>
+    <string name="login_to_samsung_account">Masuk ke akun Samsung</string>
+    <string name="login_to_samsung_account_desc">Untuk mengaktifkan Koneksi jarak jauh di Gear, masuk ke akun Samsung Anda.</string>
+    <string name="login_to_samsung_account_full_desc">"Masuk ke Samsung account untuk menggunakan fitur berikut ini bahkan saat tidak tersambung lewat Bluetooth:
+- Menerima notifikasi
+- Menggunakan aplikasi lewat Koneksi jarak jauh
+Menggunakan Koneksi jarak jauh dapat dikenai biaya tambahan."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Jika Anda tidak tersambung ke ponsel lewat Bluetooth, Samsung account akan mengizinkan Anda melakukan hal berikut melalui data seluler:
+- Menerima pesan, email, dan notifikasi lainnya
+- Menggunakan aplikasi di Gear yang memerlukan koneksi ke ponsel Anda lewat Koneksi jarak jauh.
+
+Perhatikan bahwa koneksi jarak jauh melalui Samsung account menggunakan paket data Anda."</string>
+    <string name="longitude">Garis bujur</string>
+    <string name="main_bt_unpaired">Pisahkan</string>
+    <string name="main_disconnected">Terputus</string>
+    <string name="manage_applications">Atur aplikasi</string>
+    <string name="manage_notifications">Kelola notifikasi</string>
+    <string name="manual_call_forwarding_for_att_msg">"Panggilan yang ditujukan ke ponsel cerdas dapat diteruskan ke Gear.
+- Ponsel cerdas akan berdering beberapa kali lalu panggilan akan diteruskan ke Gear.
+- Jika Anda tidak menjawab panggilan di Gear, penelepon dapat meninggalkan pesan suara yang dapat Anda dengarkan di Gear.
+Anda ingin mengaktifkan penerusan panggilan sekarang?"</string>
+    <string name="manual_call_forwarding_popup_desc">Penerusan panggilan adalah layanan jaringan yang mengalihkan panggilan masuk %s ke nomor yang ditentukan. Mungkin diperlukan langganan untuk mengizinkan Gear menggunakan fitur ini, tergantung pada penyedia layanan Anda. Hal ini dapat dikenakan biaya tambahan.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Perangkat seluler</string>
+    <string name="masterapp_not_installed">%1$s tidak terinstal di perangkat seluler Anda. Untuk menggunakan %2$s di Gear, unduh %1$s ke perangkat seluler.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s tidak diinstal di perangkat seluler Anda. Untuk menggunakan %2$s di Gear, unduh %1$s ke perangkat seluler. Anda akan dibawa ke layar unduhan.</string>
+    <string name="masterapp_uninstalled">%1$s telah dihapus instalasinya dari perangkat seluler. Untuk menggunakan %2$s di Gear, unduh %1$s ke perangkat seluler.</string>
+    <string name="maximum_size_warning">Jumlah maksimum karakter tercapai.</string>
+    <string name="menu_about_device">TENTANG %s</string>
+    <string name="menu_actionbar_remove">Hapus</string>
+    <string name="menu_actionbar_uninstall">Hapus instalasi</string>
+    <string name="menu_appsandsettigns">APLIKASI DAN PENGATURAN</string>
+    <string name="menu_clock">Jam</string>
+    <string name="menu_display">EDIT LAYAR DEPAN</string>
+    <string name="menu_downloaded_font">FONT YANG DIUNDUH</string>
+    <string name="menu_filetransfertogear">TRANSFER FILE KE GEAR</string>
+    <string name="menu_gallery">Gambar</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Kebugaran</string>
+    <string name="menu_help">Bantuan</string>
+    <string name="menu_home_screen">Penata gaya layar depan</string>
+    <string name="menu_music">Musik</string>
+    <string name="menu_myapp">Aplikasi saya</string>
+    <string name="menu_notification">Notifikasi</string>
+    <string name="menu_rename">Ganti nama</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Aplikasi Gear</string>
+    <string name="menu_settings">Pengaturan</string>
+    <string name="mobile_to_gear">Seluler ke Gear</string>
+    <string name="mobile_to_gear_des">Terima panggilan masuk ke perangkat seluler di Gear saat kedua prgkt tersambung dari jauh.</string>
+    <string name="monotype_default_font">Huruf default</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Lagi</string>
+    <string name="more_options">Opsi lainnya</string>
+    <string name="multisim_title">Multi SIM</string>
+    <string name="navigate_up">Navigasi ke atas</string>
+    <string name="new_eula_error_log">Laporkan info diagnostik</string>
+    <string name="new_eula_fmd2">Cari Perangkat Saya</string>
+    <string name="new_eula_fmg2">Temukan Gear Saya</string>
+    <string name="new_eula_news_briefing">News Briefing</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Keyboard Samsung</string>
+    <string name="new_notification_list">Tampilan daftar</string>
+    <string name="new_notifications_list_desc">Tampilkan daftar notifikasi yang diterima di Gear di sisi kiri jam.</string>
+    <string name="no_application_selected">Tidak ada aplikasi yang dipilih</string>
+    <string name="no_downloaded_applications">Tidak ada aplikasi unduhan</string>
+    <string name="no_of_application_selected">%d aplikasi dipilih</string>
+    <string name="no_remote_connection_popup_msg">Untuk mengaktifkan Penerusan panggilan otomatis, buka aplikasi Samsung Gear di perangkat seluler dan aktifkan Koneksi jarak jauh, lalu coba lagi.</string>
+    <string name="no_remote_connection_popup_title">Aktifkan Koneksi jarak jauh</string>
+    <string name="notification_type">Tipe notifikasi</string>
+    <string name="notification_type_desc">Ketika Gear sedang digunakan, notifikasi Anda akan ditampilkan sebagai pop-up kecil di bagian atas layar, apa pun pilihan Anda di atas.</string>
+    <string name="number_setting">Pengaturan nomor</string>
+    <string name="ok">OK</string>
+    <string name="once">Sekali</string>
+    <string name="one_application_selected">1 aplikasi dipilih</string>
+    <string name="popup_attention_email_msg">Beberapa akun email tidak dipilih di Pengaturan email. Untuk menerima notifikasi dari akun tersebut di Gear Anda, pilih Notifikasi email di Pengaturan email.</string>
+    <string name="popup_attention_message_msg">Untuk mengirim dan menerima pesan pada Gear Anda, aplikasi olah pesan default Anda akan berubah dari %s ke Pesan.</string>
+    <string name="popupmenu_search_for_new_device">Kelola perangkat</string>
+    <string name="preview_message_desc">Tampilkan pratinjau notifikasi yang diterima, kecuali peringatan panggilan masuk dan alarm, di pop-up notifikasi di Gear Anda.</string>
+    <string name="preview_message_title">Pratinjau pesan</string>
+    <string name="primary">Utama</string>
+    <string name="privacypolicy_fmgfmd">Dengan mengaktifkan “%1$s &amp; %2$s”, Anda mengakui bahwa data lokasi terkait dengan telepon seluler dan/atau perangkat Gear Anda akan ditransmisikan melalui server Samsung untuk menyediakan layanan %1$s &amp; %2$s. Tidak ada data atau informasi tentang lokasi perangkat Anda yang disimpan di server Samsung.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Dengan mengaktifkan “%1$s &amp; %2$s”, Anda mengakui bahwa data lokasi terkait dengan telepon seluler Anda akan ditransmisikan melalui server Samsung untuk menyediakan layanan %2$s. Tidak ada data atau informasi tentang lokasi perangkat Anda yang disimpan di server Samsung.</string>
+    <string name="privacypolicy_newsbriefing">Aplikasi ini memberikan kemampuan kepada pengguna untuk berinteraksi dengan media sosial dan internet dalam berbagai cara inovatif. Jika Anda mengaktifkan aplikasi ini, layanan akan mengumpulkan informasi tentang bagaimana Anda menggunakan layanan, termasuk bagaimana Anda melihat dan berinteraksi dengan konten dan iklan. Untuk rincian lebih lanjut, silakan lihat %1$sKetentuan Penggunaan%2$s dan %3$sKebijakan Privasi%4$s Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Kebijakan Privasi Samsung</string>
+    <string name="progressdialog_please_wait">Silahkan tunggu…</string>
+    <string name="progressdialog_reinstalled_message">Menginstal…</string>
+    <string name="progressdialog_reinstalled_popup_content">Instal ulang</string>
+    <string name="providerapp_reinstalled">%s dihapus instalasinya karena tidak bekerja dengan baik. Aplikasi ini tidak akan diinstal ulang.</string>
+    <string name="quick_tutorial_add_shortcuts">Untuk menambah pintasan aplikasi ke layar depan Gear, buka Aplikasi di Gear, ketuk dan tahan ikon aplikasi, lalu seret dan letakkan ikon tersebut di bagian atas layar.</string>
+    <string name="quick_tutorial_gear_structure">Jam ditampilkan di halaman utama layar depan Gear Anda. Halaman di sebelah kiri jam menampilkan notifikasi dan di sebelah kanan menampilkan widget. Usap ke atas dari tepi bawah layar untuk melihat aplikasi.</string>
+    <string name="quick_tutorial_noti_title">Pendahuluan tentang %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Untuk membuka S Voice, ucapkan “Hi Gear” atau tekan tombol depan dua kali dari layar apa pun.</string>
+    <string name="quick_tutorial_swipe_downwards">Tekan tombol depan dua kali untuk membuka aplikasi favorit Anda. Anda dapat mengubah aplikasi favorit di Pengaturan.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Tekan ganda tombol daya untuk membuka aplikasi favorit Anda. Anda dapat mengganti aplikasi favorit Anda di Pengaturan.</string>
+    <string name="quick_tutorial_to_go_back">Usap layar dari tepi ke bawah untuk kembali.</string>
+    <string name="remote_connection_disabled_settings">Pengaturan</string>
+    <string name="remote_connection_enabled_desc">Gear akan tersambung dari jauh jika koneksi Bluetooth berakhir.</string>
+    <string name="requested">Diminta</string>
+    <string name="reset_gear_legal_text1">Dengan menggunakan Reset Gear, Anda dapat menghapus semua data di Gear Anda dari jarak jauh. Setelah penghapusan, data yang dihapus tidak dapat dipulihkan dan Anda tidak lagi dapat menggunakan Temukan Gear Saya.</string>
+    <string name="reset_gear_legal_text2">* Reset Gear dapat memerlukan beberapa saat untuk berfungsi atau bahkan gagal, tergantung pada keadaan Gear, perangkat seluler, atau lingkungan jaringan Anda.</string>
+    <string name="restore_complete">Restore selesai.</string>
+    <string name="restore_some_error">Pemulihan gagal. Coba lagi.</string>
+    <string name="restore_try_again">Coba lagi</string>
+    <string name="restore_watch_settings_content2">"Gunakan penyimpanan perangkat untuk mencadangkan konten %1$s Anda:
+%2$s
+
+Jika sebelumnya Anda mencadangkan konten ini, Anda dapat memulihkannya ke %3$s sekarang.
+
+Bergantung pada ukuran file, mungkin dibutuhkan lebih banyak waktu.
+
+Anda dapat mengubah pengaturan cadangan Anda di Pengaturan."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">PENGATURAN</string>
+    <string name="retrieve_dialog_desc">Mengambil daftar aplikasi…</string>
+    <string name="sa_email">Email</string>
+    <string name="sa_error_0203_desc">Untuk mengaktifkan Koneksi jarak jauh, perbarui akun Samsung secara manual.</string>
+    <string name="sa_error_0203_title">Perbarui akun Samsung</string>
+    <string name="sa_error_0301_desc">Terjadi kesalahan jaringan saat masuk ke akun Samsung di perangkat seluler Anda.</string>
+    <string name="sa_error_0301_title">Gagal mengaktifkan fungsi</string>
+    <string name="sa_error_0302_desc">Terjadi kesalahan jaringan saat masuk ke akun Samsung di perangkat seluler Anda.</string>
+    <string name="sa_error_0302_title">Gagal mengaktifkan fungsi</string>
+    <string name="sa_error_0401_desc">Terjadi kesalahan. Coba lagi.</string>
+    <string name="sa_error_0401_title">Kesalahan</string>
+    <string name="safety_message_interval_10minutes">Setiap 10 menit</string>
+    <string name="safety_message_interval_20minutes">Setiap 20 menit</string>
+    <string name="samsung_apps_info">Aplikasi yang telah diunduh lewat %1$s dapat dihapus saat %2$s dihapus instalasinya atau data aplikasi dihapus. Aplikasi yang sudah dihapus dapat diunduh dari riwayat pembelian Anda di %3$s.</string>
+    <string name="samsung_apps_notice">Peringatan</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Perbarui</string>
+    <string name="screen_off">Layar tetap mati</string>
+    <string name="screen_off_desc">Terima notifikasi di Gear Anda, kecuali peringatan panggilan masuk dan alarm, saat layarnya mati.</string>
+    <string name="setting_Enable">Aktif</string>
+    <string name="setting_alpm_dialog_title">Perhatian</string>
+    <string name="setting_always_off">Selalu nonaktif</string>
+    <string name="setting_always_on">Selalu aktif</string>
+    <string name="setting_auto">Otomatis</string>
+    <string name="setting_auto_lock_disable_desc">Dinonaktifkan oleh administrator, kebijakan enkripsi, atau penyimpanan kredensial.</string>
+    <string name="setting_backup_restore2">Cadangan dan pemulihan</string>
+    <string name="setting_basic">DASAR</string>
+    <string name="setting_connections">KONEKSI</string>
+    <string name="setting_disable">Tdk aktif</string>
+    <string name="setting_home_key_double_pressing">Tekan ganda tombol awal</string>
+    <string name="setting_language_input">BAHASA DAN INPUT</string>
+    <string name="setting_manage_text_templates">Edit templat teks</string>
+    <string name="setting_mobile_network">Jaringan seluler</string>
+    <string name="setting_mobile_network_desc">Gear akan diputus dari jaringan seluler saat tersambung ke perangkat seluler Anda lewat Bluetooth. Saat koneksi lewat Bluetooth berakhir, Gear akan menyambung kembali ke jaringan seluler Anda secara otomatis.</string>
+    <string name="setting_multisim_popup_desc">Bergantung pada penyedia layanan Anda, Anda mungkin memerlukan langganan terpisah untuk menggunakan fungsi Multi SIM. Ketuk OK untuk mengaktifkan Multi SIM.</string>
+    <string name="setting_opensource">Lisensi sumber terbuka</string>
+    <string name="setting_palm_motion">Gerak</string>
+    <string name="setting_palm_swipe">Usap untuk mengambil</string>
+    <string name="setting_palmover_desc">Untuk mengheningkan panggilan masuk dan alarm, atau menjeda media, letakkan tangan Anda di layar saat layar hidup.</string>
+    <string name="setting_palmswipe_desc">Ambil gambar layar dengan mengusap seluruh jari Anda di atasnya tanpa mengangkat jari dari layar.</string>
+    <string name="setting_pause_mute">Matikan suara/jeda</string>
+    <string name="setting_power_key_double_pressing">Tekan tmbl daya dua kali</string>
+    <string name="setting_restoring">Simpan ulang…</string>
+    <string name="setting_safety_b1_desc">Ketika Gear dan perangkat seluler Anda tersambung, Kirim pesan bantuan akan membantu Anda pada saat situasi darurat. Kirim pesan bantuan akan memberi tahu kontak pesan darurat mengenai situasi Anda dengan mengirimkan pesan darurat beserta lokasi Anda ke mereka. Mengirim pesan ini dapat dikenakan biaya tambahan. Untuk mengaktifkan Kirim pesan bantuan saat situasi darurat, tekan tombol daya sebanyak %d kali.</string>
+    <string name="setting_safety_b2_desc">Saat Gear dan perangkat seluler Anda tersambung, Kirim pesan bantuan membantu Anda dalam keadaan darurat dengan mengambil gambar menggunakan kamera Gear. Memberitahu kontak pesan darurat Anda tentang situasi Anda dengan mengirimkan pesan darurat dengan gambar dan lokasi Anda. Pesan pertama akan berisi lokasi dan gambar Anda. Kemudian setelah interval, pesan kedua yang dikirim berisi lokasi Anda saja. Mengirimkan pesan ini dapat dikenakan biaya tambahan. Untuk mengaktifkan Kirim pesan bantuan selama keadaan darurat, tekan tombol depan %d kali.</string>
+    <string name="setting_safety_b2_no_camera_desc">Saat Gear dan perangkat seluler tersambung, Kirim pesan bantuan akan membantu Anda dalam keadaan darurat. Pesan ini akan memberi peringatan kepada kontak pesan darurat mengenai situasi Anda dengan mengirimi mereka pesan darurat beserta lokasi Anda. Pengiriman pesan ini mungkin dikenai biaya tambahan. Untuk mengaktifkan Kirim pesan bantuan selama keadaan darurat, tekan tombol depan %d kali.</string>
+    <string name="setting_safety_b3_desc1">Tekan tombol depan dengan cepat 3 kali untuk mengirim peringatan cepat ke kontak utama saat Anda berada dalam situasi darurat.</string>
+    <string name="setting_safety_b3_desc2">Kontak utama Anda akan menerima pesan darurat berisi informasi tentang lokasi Anda saat ini.</string>
+    <string name="setting_safety_b3_desc3">Sambungkan perangkat seluler ke Gear Anda untuk menggunakan fungsi ini.</string>
+    <string name="setting_safety_list">Bantuan keamanan</string>
+    <string name="setting_samsung_legal">Hukum Samsung</string>
+    <string name="setting_screen_lock">Kunci otomatis</string>
+    <string name="setting_screen_lock_desc">Gunakan Gear untuk mengunci perangkat seluler Anda.</string>
+    <string name="setting_screen_secutiry">KEAMANAN LAYAR</string>
+    <string name="setting_send_emergency_picture">Kirim gambar darurat</string>
+    <string name="setting_send_emergency_recording">Kirim rekaman suara</string>
+    <string name="setting_send_emergency_term_agree">Saya telah membaca dan menyetujui seluruh syarat dan ketentuan di atas.</string>
+    <string name="setting_send_help_message">Kirim pesan bantuan</string>
+    <string name="setting_send_terms_conditions">Syarat dan kondisi</string>
+    <string name="setting_smart_relay">Relay cerdas</string>
+    <string name="setting_smart_relay_desc">Lihat konten dari Gear di perangkat seluler dengan mengangkat perangkat seluler Anda.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">SISTEM</string>
+    <string name="setting_text_to_speech_engine">Mesin Text-to-speech</string>
+    <string name="setting_textinput_emoticon">Emotikon</string>
+    <string name="setting_textinput_keyboard">Papan tombol</string>
+    <string name="setting_textinput_list">Metode input teks</string>
+    <string name="setting_textinput_templates">Templat</string>
+    <string name="setting_try_it">Cobalah</string>
+    <string name="setting_wake_up">Gestur pengaktifan</string>
+    <string name="setting_wake_up_desc">Aktifkan Gear dengan mengangkat lengan yang mengenakan Gear.</string>
+    <string name="setting_wakeupgesture">"Untuk mengaktifkan Gear, angkat lengan yang mengenakan Gear dan lihat layar Gear.
+
+Fitur ini tidak bekerja saat Anda bersandar atau tiduran, dan dapat mengonsumsi lebih banyak daya baterai Gear karena sensor gerakan selalu aktif."</string>
+    <string name="setting_wakeupgesture_clock">Jam</string>
+    <string name="setting_wakeupgesture_previous">Layar terakhir dilihat</string>
+    <string name="setting_wakeupgesture_screen_on">Pilih lyr yg ditampilkan</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Pilih lyr yg ditampilkan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="settings_application_version">Versi aplikasi</string>
+    <string name="settings_emergency_contact">Mengelola kontak utama</string>
+    <string name="settings_emergency_contact_empty">Tidak ada kontak utama yang ditambahkan. Untuk mengaktifkan %s, tambah kontak ke Kontak utama.</string>
+    <string name="settings_legal_information">Informasi hukum</string>
+    <string name="settings_message_interval">Interval pesan</string>
+    <string name="settings_not_set">Tdk di atur</string>
+    <string name="settings_security">Pengaman</string>
+    <string name="settings_security_update">Pembaruan keamanan</string>
+    <string name="settings_security_update_desc">Lindungi perangkat Anda dari konten berbahaya dengan meningkatkan keamanan dan layanan.</string>
+    <string name="settings_unknown_sources_dialog">Menginstal dari sumber tak dikenal dapat membahayakan perangkat dan data pribadi Anda. Mengetuk OK berarti Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas kerusakan yang terjadi pada perangkat atau kehilangan data yang diakibatkan penggunaan aplikasi ini.</string>
+    <string name="settings_unknown_sources_subtitle">Izinkan instalasi aplikasi dari sumber tak dikenal.</string>
+    <string name="share_loc_disabled">Berbagi lokasi dinonaktifkan.</string>
+    <string name="share_location_desc">Izinkan Temukan Gear Saya dan Temukan Perangkat Saya untuk berbagi data lokasi Gear dan perangkat seluler Anda.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Saya menyetujui bahwa data Seluler mungkin digunakan dan bahwa pesan MMS mungkin dikirimkan dalam keadaan darurat. Saya memahami bahwa biaya tambahan mungkin dikenakan.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Kirim Pesan Bantuan ditujukan untuk membantu pengguna mengirimkan pemberitahuan terkait perkiraan lokasi dan gambar/audio sekitar mereka kepada kontak terpilih yang telah ditetapkan sebelumnya. Layanan ini disediakan hanya untuk kenyamanan dan bukan ditujukan sebagai, atau dianggap sebagai, pengganti panggilan darurat kepada pihak yang berwajib.
+
+2. Kirim Pesan Bantuan (“Layanan”)mungkin tidak bekerja secara akurat, secara terus menerus, atau bebas dari kesalahan, bergantung pada situasi seperti konektivitas jaringan, ketersediaan GPS/informasi Wi-Fi, status dan/atau perangkat Anda atau yang digunakan oleh kontak yang Anda pilih, tingkat baterai dan/atau kondisi lain yang berada di luar kendali Samsung Electronics Co., Ltd. dan anak perusahaannya (“Samsung”, “kami”, “milik kami”). Keakuratan informasi lokasi dan ketepatan pengiriman Layanan mungkin akan dipengaruhi oleh lingkungan dan kondisi sekitar Anda serta perangkat dari kontak yang Anda pilih. Terkecuali dinyatakan atau diwajibkan secara hukum, Samsung menyangkal segala jaminan bahwa Layanan akan bekerja secara akurat, secara terus menerus, atau tanpa kesalahan. Mohon diingat bahwa kontak yang Anda pilih harus berupa ponsel aktif dan perangkat harus dalam keadaan menyala serta dapat menerima pesan teks. Mentransfer data lokasi dan kondisi sekitar Anda mungkin akan dikenakan biaya sesuai dengan tarif yang ditentukan operator layanan Anda.
+
+Agar Layanan dapat berfungsi sebagaimana mestinya, fungsi GPS dan Wi-Fi di perangkat harus diaktifkan secara otomatis. Anda mengakui dan menyetujui pengaktifan fungsi GPS dan Wi-Fi secara otomatis (jika diperlukan), tanpa memerlukan persetujuan Anda atau pemberitahuan lebih lanjut kepada Anda.
+
+3. Anda menyatakan dan menyetujui untuk tidak menyalahgunakan fungsi atau menggunakan fungsi ini untuk tujuan ilegal atau untuk melanggar privasi atau hak pribadi atau hak milik pihak lainnya. Hanya gunakan Layanan ini sesuai dengan hukum yang berlaku dan hanya dalam kasus darurat. Anda setuju untuk sepenuhnya bertanggung jawab atas penggunaan fitur ini. Samsung tidak akan bertanggung jawab atas segala hasil yang mungkin diakibatkan oleh penggunaan fitur ini.
+
+4. Layanan disediakan hanya untuk kenyamanan dan bukan ditujukan sebagai, atau dianggap sebagai, pengganti panggilan darurat kepada pihak yang berwajib. Terkecuali dinyatakan atau diwajibkan secara hukum, Samsung menyangkal segala jaminan bahwa Layanan akan bekerja secara akurat, secara terus menerus, atau tanpa kesalahan.
+
+5. PENAFIAN/PENYANGKALAN JAMINAN. ANDA MEMAHAMI DAN MENYETUJUI SECARA TEGAS BAHWA:
+
+A. LAYANAN TERSEDIA DENGAN KONDISI APA ADANYA/AS IS, “DENGAN KEMUNGKINAN KESALAHAN,” DAN DENGAN DASAR SAAT TERSEDIA. ANDA MENANGGUNG SEMUA RISIKO DALAM PENGGUNAANNYA. SAMSUNG TIDAK MEMBERIKAN JAMINAN, GARANSI, ATAU KETENTUAN DI DALAM ATAU TERKAIT DENGAN LAYANAN. SAMSUNG DENGAN TEGAS MENYANGKAL SEGALA/SELURUH BENTUK REPRESENTASI DAN JAMINAN, BAIK SECARA LISAN/TEGAS ATAU TERSIRAT, TERMASUK, TETAPI TIDAK TERBATAS PADA GARANSI TERSIRAT DARI PERDAGANGAN (WARRANTIES OF MERCHANTABILITY), KESESUAIAN UNTUK TUJUAN DAN NON PELANGGARAN TERTENTU (FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT), SERTA SEGALA JAMINAN TERSIRAT DARI SISI PENGGUNAAN MAUPUN KINERJANYA.
+
+B. TANPA MEMBATASI HAL TERSEBUT DIATAS, SAMSUNG TIDAK MEMBUAT REPRESENTASI ATAU JAMINAN BAHWA, (I) LAYANAN AKAN MEMENUHI KEBUTUHAN/PERSYARATAN ANDA, (ii) LAYANAN TIDAK AKAN TERGANGGU, TEPAT WAKTU, AMAN, ATAU BEBAS DARI KESALAHAN, (iii) KONTEN YANG DIPEROLEH DARI LAYANAN, ATAU SEGALA PEMBERITAHUAN ATAU FUNGSIONALITAS LAYANAN AKAN SELALU TERSEDIA, AKURAT, LENGKAP, ATAU DAPAT DIANDALKAN, (iv) KUALITAS LAYANAN ATAU SEGALA INFORMASI , ATAU MATERIAL LAIN YANG ANDA PEROLEH MELALUI LAYANAN INI AKAN MEMENUHI HARAPAN ANDA, ATAU (v) SEGALA KESALAHAN ATAU BUGS/ERROR DI DALAM LAYANAN AKAN DIPERBAIKI.
+
+6. BATASAN TANGGUNG JAWAB.
+
+A. ANDA MEMAHAMI DAN MENYETUJUI BAHWA SAMSUNG TIDAK BERTANGGUNG JAWAB MENURUT TEORI KELALAIAN, ATAS SEGALA KERUGIAN, TANGGUNG JAWAB, KERUSAKAN ATAU BIAYA LANGSUNG, TIDAK LANGSUNG, INISIDENTAL, KHUSUS, HUKUM, AKIBAT/CONSEQUENTIAL ATAU CONTOH, , TERMASUK NAMUN TIDAK TERBATAS PADA, KEHILANGAN KEUNTUNGAN, KERUGIAN/KEHILANGAN PENGGUNAAN, KERUSAKAN/KEHILANGAN DATA ATAU KERUGIAN LAINNYA (BAHKAN JIKA PERBAIKAN, PENGGANTIAN, ATAU PENGUANGAN KEMBALI UNTUK LAYANAN TIDAK SEPENUHNYA MENGGANTI KERUGIAN ANDA ATAU JIKA SAMSUNG MENGETAHUI ATAU SEHARUSNYA MENGETAHUI TENTANG KEMUNGKINAN KERUGIAN, TANGGUNG JAWAB, KERUSAKAN, ATAU BIAYA TERSEBUT), SECARA LANGSUNG ATAU TIDAK LANGSUNG MERUPAKAN HASIL DARI ATAU DISEBABKAN OLEH: (i) KLAIM PELANGGARAN KONTRAK, PELANGGARAN JAMINAN, GARANSI ATAU KETENTUAN, TANGGUNG JAWAB KERAS, KELALAIAN, ATAU KESALAHAN LAIN SECARA LUAS YANG DIIZINKAN OLEH HUKUM YANG BERLAKU; (ii) PENGGUNAAN OLEH ANDA ATAU KETIDAKMAMPUAN DALAM MENGGUNAKAN LAYANAN, (iii) BIAYA PENYEDIAAN LAYANAN PENGGANTI; (iv) AKSES TANPA IZIN MENUJU ATAU PENGGANTIAN TRANSMISI ATAU DATA ANDA; (v) PERNYATAAN ATAU PERLAKUKAN OLEH SEGALA PIHAK KETIGA; (vi) PERJANJIAN INI; (vii) CEDERA PADA MANUSIA ATAU PROPERTI (TERMASUK KEMATIAN), ATAU (viii) SEGALA MASALAH LAIN TERKAIT LAYANAN ATAU KONTEN YANG DISEDIAKAN MELALUI LAYANAN.
+
+B. SATU-SATUNYA PERBAIKAN ATAU PENGGANTIAN EKSKLUSIF UNTUK ANDA ATAS SEGALA PERSELISIHAN DENGAN SAMSUNG TERKAIT PERJANJIAN INI ATAU LAYANAN INI ADALAH PENGHENTIAN PENGGUNAAN LAYANAN.
+
+C. BEBERAPA WILAYAH HUKUM TIDAK MEMBOLEHKAN EKSKLUSI JAMINAN TERTENTU ATAU BATASAN ATAU EKSKLUSI TANGGUNG JAWAB ATAS KERUSAKAN INSIDENTAL ATAU SEBAGAI AKIBAT. SESUAI DENGAN HAL TERSEBUT, BEBERAPA DARI BATASAN DI ATAS PADA BAGIAN 5 DAN 6 MUNGKIN TIDAK BERLAKU BAGI ANDA.
+
+7. GANTI RUGI. Anda setuju untuk membebaskan, melindungi dan membela Samsung dari dan terhadap klaim, tindakan, tuntutan, biaya, kewajiban, kerugian, kerusakan, denda, dan biaya (termasuk pengeluaran dan biaya pengacara yang wajar) yang timbul dari atau berkaitan dengan penggunaan Layanan atau kegagalan Anda untuk mematuhi Perjanjian ini. Jika, meskipun sifat pribadi lisensi yang diberikan kepada Anda berdasarkan syarat dan ketentuan ini, Anda mengizinkan orang lain untuk menggunakan Layanan, atau memberi orang lain segala informasi yang diterima melalui Layanan, Anda setuju untuk menginformasikan kepada pihak tersebut keberadaan dan ketersediaan syarat dan ketentuan ini, yang akan mengikat pihak tersebut, dan Anda setuju untuk membebaskan, melindungi, dan membela Samsung dari setiap dan semua klaim, tindakan, tuntutan, biaya, kewajiban, kerugian, kerusakan, denda dan biaya (termasuk biaya pengacara dan pengeluarannya) terkait dengan penggunaan Layanan oleh pihak tersebut.
+
+8. Keadaan Kahar. Samsung tidak bertanggung jawab atas keterlambatan atau kegagalan kinerja Layanan menurut syarat dan ketentuan ini atau, kondisi atau gangguan Layanan, merupakan akibat dari bencana alam, kekuasaan sipil atau militer, perang, aksi terorisme, perselisihan pekerja, bahan atau jasa yang diberikan oleh pihak ketiga, atau sebab apa pun di luar kendali yang wajar dari Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Saya setuju untuk mengizinkan %1$s berbagi lokasi saya dengan kontak %2$s saya.</string>
+    <string name="smartrelay_not_show">Jangan perlihatkan lagi</string>
+    <string name="software_update">Perbarui Perangkat lunak</string>
+    <string name="ss_double_tap_any_screen">Ketuk layar mana saja dua kali dengan dua jari untuk menampilkan kontrol kecerahan dan volume serta melihat informasi berguna lainnya.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Meneruskan panggilan ke Gear Anda</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Meminta…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Membaca pengaturan…</string>
+    <string name="ss_loading_ing_abb">Memuat…</string>
+    <string name="ss_mobile_data_is_disabled">Data seluler dinonaktifkan. Sambungkan ke WLAN atau aktifkan data seluler, lalu coba lagi.</string>
+    <string name="ss_mobile_data_is_disabled2">Data seluler dinonaktifkan. Sambungkan ke jaringan Wi-Fi, atau aktifkan data seluler dan coba lagi</string>
+    <string name="ss_no_network_connection">Tdk ada koneksi jaringan</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Buku panduan Pemakai</string>
+    <string name="str_no">Tidak, terima kasih</string>
+    <string name="str_yes">Ya</string>
+    <string name="stub_list_install">Instal</string>
+    <string name="sw_eula_condition">Saya memahami dan menyetujui syarat dan ketentuan di atas.</string>
+    <string name="sw_eula_desc2">Anda setuju untuk menyediakan Samsung data log kesalahan dari kegagalan Pembaruan Perangkat Lunak apa pun yang dialami perangkat. Ini akan membantu Samsung dalam meningkatkan dan menyempurnakan proses Pembaruan Perangkat Lunak Samsung, dan pada akhirnya menjaga perangkat Anda diperbarui dengan baik.</string>
+    <string name="tab_stub_list">Diunggulkan</string>
+    <string name="talkback_download">Unduh</string>
+    <string name="talkback_setting">Pengaturan</string>
+    <string name="the_samsung_gear_application">Aplikasi Samsung Gear</string>
+    <string name="threeg_connection">Gunakan Koneksi jrk jauh</string>
+    <string name="threeg_connection_subtitle">Menyambung ke Gear Anda dari jauh menggunakan Data seluler atau Wi-Fi dengan akun Samsung Anda.</string>
+    <string name="threeg_connection_subtitle_chn">Sambungkan ke Gear Anda dari jarak jauh menggunakan Data seluler atau WLAN dengan Samsung account Anda.</string>
+    <string name="title_activity_clock_delete">Hapus instalasi</string>
+    <string name="title_activity_connect_popup">Sambung</string>
+    <string name="title_activity_paired_watch">Perangkat terpasang</string>
+    <string name="title_alertdialog_device_name_popup">Ganti nama %s</string>
+    <string name="title_alertdialog_disconnect_popup">Putuskan</string>
+    <string name="title_dialog_pm_error">Peringatan</string>
+    <string name="title_dialog_uninstall">Hapus instalan</string>
+    <string name="title_eula">Pemberitahuan legal</string>
+    <string name="title_findmywatch_connect2">Temukan Gear saya</string>
+    <string name="title_findmywatch_finding">Mencari…</string>
+    <string name="tri_connect_title_circle_to_gear">Sambungkan %1$s ke %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Menyambungkan %1$s Anda ke %2$s lewat Bluetooth akan memutuskan %3$s Anda dari perangkat seluler sementara waktu. Koneksi ini akan segera dilanjutkan dan %4$s kemudian akan disambungkan ke %5$s dan perangkat seluler Anda.</string>
+    <string name="tt_install_voice_data">Instal data suara TTS</string>
+    <string name="tt_install_voice_data_required">Instal bahasa teks-ke-ucapan tambahan di Gear.</string>
+    <string name="tt_language">Bahasa</string>
+    <string name="tt_send_help_message">Kirimkan pesan bantuan</string>
+    <string name="tt_tts_language_guide">Bahasa teks-ke-ucapan adalah bahasa yang Anda atur di pengaturan Gear Anda. Jika bahasa Anda tidak didukung oleh mesin teks-ke-ucapan, Bahasa Inggris (Inggris Raya) akan digunakan.</string>
+    <string name="unable_to_connect_popup_message">Gagal menyambungkan Gear ke perangkat seluler. Coba lagi nanti.</string>
+    <string name="unable_to_connect_popup_title">Koneksi gagal</string>
+    <string name="unable_to_lock_gear">Tidak dapat mengunci Gear</string>
+    <string name="unable_to_reset_gear">Tidak dapat mereset Gear</string>
+    <string name="unabled_health">Tidak dapat membuka aplikasi ini karena telah dinonaktifkan.</string>
+    <string name="uninstall_applications">Hapus instalasi aplikasi</string>
+    <string name="unknown_sources_msg_new">%1$s tidak akan diinstal lewat %2$s. Perangkat dan data pribadi Anda lebih rentan terhadap serangan aplikasi dari sumber yang tidak diketahui. Anda setuju bahwa Anda sepenuhnya bertanggung jawab atas segala kerusakan pada perangkat atau hilangnya data yang dapat diakibatkan oleh penggunaan aplikasi-aplikasi ini. Untuk selalu menginstal aplikasi dari sumber yang tidak diketahui, buka %3$s > %4$s > %5$s, dan aktifkan %6$s. Ketuk OK untuk menginstal %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s bukan berasal dari %2$s, dan tidak mencakup aplikasi untuk Gear Anda. Perangkat dan data Anda lebih rentan diserang oleh aplikasi dari sumber yang tidak diketahui. Instalasi juga akan dibatalkan dan %3$s akan dihapus dari ponsel Anda.</string>
+    <string name="unknown_sources_title">Sumber tdk diketahui</string>
+    <string name="update_button">Update</string>
+    <string name="update_summary">Periksa untuk update</string>
+    <string name="update_the_latest_version">Pembaruan tersedia</string>
+    <string name="voice_control_subtitle">Ucapkan “Answer” atau “Reject”, di antara jeda saat Gear Anda tidak berdering atau bergetar, untuk menjawab atau menolak panggilan.</string>
+    <string name="voicememo_link1">Persyaratan dan Ketentuan dari Nuance</string>
+    <string name="voicememo_link2">Kebijakan Privasi Samsung</string>
+    <string name="voicememo_link3">Kebijakan Privasi Nuance</string>
+    <string name="watchapp_all">Aplikasi</string>
+    <string name="watchapp_noapps">Tidak ada aplikasi</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Memperbarui…</string>
+    <string name="wifi_only">Wi-Fi saja</string>
+    <string name="wifi_only_chn">WLAN saja</string>
+    <string name="wifi_only_summary">Hanya sinkronkan pembaruan bila tersambung ke jaringan Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Hanya dapat diunduh bila tersambung melalui WLAN.</string>
+    <string name="email_sanitize">Konten email ini tidak dapat ditampilkan pada Gear karena alasan keamanan. Untuk detailnya, lihat email ini di perangkat seluler Anda.</string>
+    <string name="knox_sanitize">Ketuk di sini untuk masuk mode KNOX.</string>
+</resources>

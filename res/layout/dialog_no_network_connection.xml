@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/popup_title_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ss_no_network_connection" style="@style/TextView_PopupTitle" />
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/_scrollview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/popup_title_textview">
+        <RelativeLayout android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/dialog_quick_tutorial_textview_textsize" android:id="@id/tv_going_back" android:focusable="false" android:longClickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/popup_left_right_margin" android:layout_marginTop="@dimen/dialog_quick_tutorial_textview_margintop" android:layout_marginRight="@dimen/popup_left_right_margin" android:layout_marginBottom="@dimen/dialog_quick_tutorial_textview_marginbottom" android:text="@string/ss_mobile_data_is_disabled2" style="@style/TextView_PopupDesc" />
+        </RelativeLayout>
+    </ScrollView>
+    <LinearLayout android:orientation="horizontal" android:id="@id/popup_button_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/_scrollview">
+        <Button android:id="@id/cancel_btn" android:layout_width="0.0dip" android:layout_height="50.0dip" android:text="@string/cancel" android:layout_weight="1.0" style="@style/PopupButton" />
+        <View android:id="@id/divider_view" android:background="@drawable/manager_buttonbarbutton_selector_default_line" android:layout_width="1.0dip" android:layout_height="50.0dip" />
+        <Button android:id="@id/ok_btn" android:layout_width="0.0dip" android:layout_height="50.0dip" android:text="@string/ok" android:layout_weight="1.0" style="@style/PopupButton" />
+    </LinearLayout>
+</RelativeLayout>

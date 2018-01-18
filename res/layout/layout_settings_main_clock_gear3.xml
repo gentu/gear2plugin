@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:paddingLeft="@dimen/clocks_layout_left_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+        <FrameLayout android:id="@id/clocks_idle_clock_image_frame" android:layout_width="fill_parent" android:layout_height="@dimen/clocks_clock_frame_height_gear3_downsize" android:layout_marginTop="@dimen/clocks_idle_clock_image_frame_margintop_marginTop" android:layout_marginBottom="@dimen/clocks_idle_clock_image_frame_margintop_marginbottom">
+            <ImageView android:layout_gravity="center" android:id="@id/settings_app_image" android:background="#ff000000" android:layout_width="@dimen/clocks_idle_clock_image_size_width_gear3_downsize" android:layout_height="@dimen/clocks_idle_clock_image_size_height_gear3_downsize" />
+        </FrameLayout>
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_below="@id/clocks_idle_clock_image_frame">
+            <ListView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@xml/xml_listitem_selector" android:scrollingCache="false" android:divider="@null" android:splitMotionEvents="false" />
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

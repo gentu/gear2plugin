@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">ඇමතුම අතර‍තුර නොමැත.</string>
+    <string name="actionbar_name">ගියර් කළමනාකරු</string>
+    <string name="alert_full_screen">පූර්ණ තිර උත්පතනය</string>
+    <string name="alert_mini">මිනි උත්පතනය</string>
+    <string name="alertdialog_backkey_popup_content">අනතුරු ඇඟවීම</string>
+    <string name="alertdialog_disconnect_popup_description">ගියර් විසන්ධි කෙරෙනු ඇත. යළි සබැඳීමට බ්ලූටූත් භාවිතා කරන්න.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">මෙය ඔබ %s සමඟ ඇති සම්බන්ධතාවය අවසන් කරනු ඇත.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">ඔබගේ ජංගම උපාංගය වෙතින් ඔබගේ %s විසන්ධි වනු ඇත. ඔබ මෙම උපාංග සබඳින ඊළඟ අවස්ථාවේ, ඔබ බ්ලූටූත් භාවිත කළ යුතුය. එයින් පසුව වන ඕනෑම සබැඳුමක් දුරස්ථ සබැඳුම හරහා කළ හැකිය.</string>
+    <string name="alertdialog_uninstall_popup_content">අස්ථාපනය කරන්න</string>
+    <string name="app_name_samsung_gear">සැම්සුං ගියර්</string>
+    <string name="attention_popup_body_app_is_not_installed">ඔබගේ උපාංගය මත %1$s ස්ථාපනය වී නොමැත. ඔබගේ ගියරය මත %2$s භාවිතා කිරීමට, ඔබගේ ජංගම උපාංගය වෙත %1$s බාගන්න.</string>
+    <string name="attention_popup_title">අවධානය යොමු කරන්න</string>
+    <string name="auto_call_forwarding">ස්වයං ඇමතුම් යොමු කිරීම</string>
+    <string name="auto_call_forwarding_att">ගියර් වෙත ස්වයං ඇමතුම් යොමුව</string>
+    <string name="auto_call_forwarding_desc">ඔබේ ගියරය ඔබගේ ජංගම උපාංගයෙන් විසන්ධි වී ඇති අතරතුර ඇමතුම් යොමු කිරීම ස්වයංක්‍රියව සක්‍රිය කරන්න. උපාංග යළි සම්බන්ධ වන තුරු මෙමඟින් එන ඇමතුම් ඔබේ ජංගම උපාංගය වෙතින් ඔබේ ගියරය වෙත යොමු කරයි.</string>
+    <string name="auto_update">ස්වයං යාවත්</string>
+    <string name="auto_update_summary">යාවත්කාල ස්වයංක්‍රීයව පරීක්ෂා කරන්න.</string>
+    <string name="backing_up">උපස්ථාන කරමින්…</string>
+    <string name="backup_complete">උපස්ථ කිරීම සම්පූර්ණයි.</string>
+    <string name="bnr_backup">උපස්ථාන කරමින්…</string>
+    <string name="bnr_bakcup_title">උපස්ථ ක.</string>
+    <string name="bnr_cancel">අවල. කර.</string>
+    <string name="bnr_canel">අවලංගු කරන්න</string>
+    <string name="bnr_error_occurred">දෝෂයක් සිදු විය</string>
+    <string name="bnr_except">%1$s (%2$s හැර)</string>
+    <string name="bnr_except_autolock">ස්වයං අගුල</string>
+    <string name="bnr_except_remoteconnection">දුරස්ථ සම්බන්ධතාව</string>
+    <string name="bnr_except_texttemplate">වදන් අච්චු</string>
+    <string name="bnr_next">ඊලඟ</string>
+    <string name="bnr_no">නැත</string>
+    <string name="bnr_ok">හරි</string>
+    <string name="bnr_reset_gear">නව උපාංගයක් වෙත සබැඳීමට, ගියරය එහි කර්මාන්තශාලා සැකසුම් වෙත යළි සැකසෙනු ඇත.</string>
+    <string name="bnr_reset_gear_move_setupwizard">ගියරය සම්පූර්ණයෙන් පිහිටුවා නැත. ගියරය මත දැනට පිහිටුවීම් විශාරද විවෘතව නමුත්, ගියරය වෙත සබැඳීමට, ඔබ මෙම උපාංගය මතද පිහිටුවීම් විශාරද විවෘත කිරීම අවශ්‍යයි.</string>
+    <string name="bnr_reset_initialization">දැන්වීම</string>
+    <string name="bnr_restore">ප්‍රතිසාධනය කර.</string>
+    <string name="bnr_restored">දත්ත ප්‍රතිසාධනය කෙරිණි.</string>
+    <string name="bnr_setupwizard_title2">උපස්ථාපනය සහ ප්‍රතිසාධනය</string>
+    <string name="bnr_yes">ඔව්</string>
+    <string name="bt_connected">සම්බන්ධිතයි</string>
+    <string name="bt_disconnected">විසන්ධි විය</string>
+    <string name="bt_unpaired">යුගලගත කර නැත</string>
+    <string name="button_finish">නිමයි</string>
+    <string name="button_restore">ප්‍රතිසාධනය</string>
+    <string name="call">අමතන්න</string>
+    <string name="call_check_gear_status_when_cfwd">ජංගම උපාංගයෙන් ගියරයට සහ ගියරයෙන් ජංගම උපාංගයට යන ඇමතුම් යොමු කිරීමේ ක්‍රියාකාරිත්ව දෙකම එකවර සක්‍රිය කළ නොහැක.</string>
+    <string name="call_dualsim1">SIM 1 කාඩ්පත</string>
+    <string name="call_dualsim1sim2">SIM කාඩ්පත් දෙකම</string>
+    <string name="call_dualsim2">SIM 2 කාඩ්පත</string>
+    <string name="call_forwarding">ඇමතුම් ‍යොමු කිරීම</string>
+    <string name="call_forwarding_agree">මම එකඟයි.</string>
+    <string name="call_forwarding_desc">එන ඇමතුම් ඔබගේ ජංගම උපාංගය වෙතින් ඔබේ ගියර් වෙත යොමු කරන්න.</string>
+    <string name="call_forwarding_desc_vzw">පිළිතුරු නොදුන් එන ඇමතුම් ඔබේ දුරකථනයේ සිට ඔබේ ගියර් වෙත යොමු කරන්න.</string>
+    <string name="call_forwarding_disable_msg">ඔබගේ ජංගම උපාංගය වෙතින් ඔබගේ ගියර් වෙත ඇමතුම් යොමු කිරීම අක්‍රිය කිරීමට ඉල්ලීමක් කර ඇත. ප්‍රතිඵල කෙරෙහි ඔබගේ ජංගම ජාලයේ හා උපාංගයේ තත්ත්වය බලපෑ හැකිය.</string>
+    <string name="call_forwarding_enable_msg">ඔබගේ ජංගම උපාංගය වෙතින් ඔබගේ ගියර් වෙත ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට ඉල්ලීමක් කර ඇත. ප්‍රතිඵල කෙරෙහි ඔබගේ ජංගම ජාලයේ හා උපාංගයේ තත්ත්වය බලපෑ හැකිය.</string>
+    <string name="call_forwarding_for_att_msg">"ගියරය ඔබේ ස්මාර්ට් දුරකථනයෙන් විසන්ධි කර ඇති විට, ඔබගේ ජංගම උපාංගයට එන ඇමතුම් ඔබේ ගියරයට ස්වයංක්‍රියව යොමු කරනු ඇත.
+- ඔබගේ ස්මාර්ට් දුරකථනය කිහිප වතාවක් නාද වී අනතුරුව ඔබේ ගියරය වෙත ඇමතුම යොමු වනු ඇත.
+- ඔබ විසින් ඔබගේ ගියරයෙන් ඇමතුමට පිළිතුරු නොදුන්නේ නම්, අමතන්නා ඔබේ ගියරයෙන් සවන් දිය හැකි හඬ තැපෑලක් තැබිය හැකිය.
+ ඔබට දැන් ස්වයං ඇමතුම් යොමු කිරීම ක්‍රියාත්මක කිරීමට අවශ්‍යද?"</string>
+    <string name="call_forwarding_notify_msg">ඔබේ ජංගම උපාංගයෙන් ඔබේ ගියර් වෙත ඇමතුම් යොමු කිරීම දැනට සක්‍රියයි. ඔබේ ජංගම උපාංගයට එන ඇමතුම් ඔබේ ගියර් වෙත යොමු කෙරෙනු ඇත. ඔබේ ගියර් ඔබ සමග නැතිනම්, ඔබ ඇමතුමක් මඟ හරවා ගන්නේ නැති බව සහතික කර ගැනීමට සැකසුම් වෙත ගොස් ස්වයං ඇමතුම් යොමු කිරීම අක්‍රිය කරන්න.</string>
+    <string name="call_forwarding_turning_off_notify_msg">හඬ ඇමතුම යොමු වීම අක්‍රිය කෙරෙමින්…</string>
+    <string name="call_forwarding_turning_on_notify_msg">හඬ ඇමතුම යොමු වීම සක්‍රිය කෙරෙමින්…</string>
+    <string name="call_no_gear_number">අංක නොමැත</string>
+    <string name="call_select_dualsim_title">SIM කාඩ්පත තෝරන්න</string>
+    <string name="call_voice_control">කටහඬ පාලනය</string>
+    <string name="callforwarding_help_des1">ඔබේ උපාංග සම්බන්ධිත වී ඇත්තේ දුරස්ථ සම්බන්ධතාවයක් හෝ බ්ලූටූත් ඔස්සේ දැයි අනුව, ඇමතුම් ස්වයංක්‍රීයව යොමු කෙරෙන උපාංගය මාරු කරන්න.</string>
+    <string name="callforwarding_help_des2">ඔබ ගමන් කරමින් හා ගියර් පැළද සිටින හා ජංගම උපාංගය වෙත එය දුරස්ථව සබැඳී ඇති අතරතුර ඔබේ ජංගම දුරකථනයට ගන්නා ඇමතුම් ඔබේ ගියර් මත ලබන්න.</string>
+    <string name="cancel">අවල. කර.</string>
+    <string name="cf_activated">සක්‍රිය කෙරිණි</string>
+    <string name="cf_deactivate_failed">ඇමතුම් යොමු කිරීම අක්‍රිය කිරීම අසාර්ථකයි.</string>
+    <string name="cf_deactivated">අක්‍රියනය කෙරිණි</string>
+    <string name="clocks_download_more_clocks">තවත් ඔරලෝසු බාගන්න</string>
+    <string name="clocks_noti_uninstall_clock">%s අස්ථාපනය කෙරෙනු ඇත.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s අස්ථාපිත වනු ඇති අතර %2$s පෙරනිමි හෝරා යන්ත්‍රය ලෙස සැකසෙනු ඇත.</string>
+    <string name="clocks_title_basic_clocks">මූලික ඔරලෝසු</string>
+    <string name="clocks_title_downloaded_clocks">බාගත් ඔරලෝසු</string>
+    <string name="clocks_title_style_clocks">විලාස ඔරලෝසු</string>
+    <string name="clocks_uninstalled">අස්ථාපනය කෙරිණ.</string>
+    <string name="clocks_uninstalling">අස්ථාපනය කරමින්…</string>
+    <string name="close">වසන්න</string>
+    <string name="closing_samsung_gear_message">ඔබගේ ගියර් යළි සකසා ඇත. සැම්සුං ගියර් යෙදුම ඉක්මනින් වැසෙනු ඇත.</string>
+    <string name="closing_samsung_gear_message_jpn">ඔබේ ගියර් යළි සැකසිණි. ගියර් යෙදුම ඉක්මනින් වැසෙනු ඇත.</string>
+    <string name="closing_samsung_gear_title">සැම්සුං ගියර් යෙදුම වැසීම</string>
+    <string name="closing_samsung_gear_title_jpn">ගියර් යෙදුම වැසීම</string>
+    <string name="cloud_backup_no_information">කිසිදා නොවේ</string>
+    <string name="cloud_backup_restore_backup_now">දත්ත උපස්ථ කරන්න</string>
+    <string name="cloud_backup_restore_restore_now">දත්ත ප්‍රතිසාධනය කරන්න</string>
+    <string name="cmw_agree">මම එකඟයි</string>
+    <string name="cmw_eula_agree">මා ඉහත නියමයන් සහ කොන්දේසි වටහා ගත් අතර ඒ හා එකඟ වෙමි.</string>
+    <string name="cmw_for_setting">පිහිටීම් සේවා අක්‍රිය කර ඇත. සැකසුම් වෙත යන්න.</string>
+    <string name="cmw_high_accuracy_dialog_message">වේගවත්ම සහ වඩාත්ම නිවැරදි පිහිටීම් අනාවරණයකට, පිහිටීම > ප්‍රකාරය තුළ “ඉහළ නිරවද්‍යතාවය” තෝරන්න.</string>
+    <string name="cmw_high_accuracy_dialog_title">ඉහළ නිරවද්‍යතාව තෝරන්න</string>
+    <string name="cmw_legal_content">“පිහිටීම බෙදාගැනීම” සක්‍රිය කිරීමෙන්, මගේ ගියරය සොයන්න සහ මගේ උපාංගය සොයන්න සේවාව සැපයීම සඳහා ඔබගේ ජංගම දුරකථනය සහ/හෝ ගියර් උපාංගය ආශ්‍රිත වූ පිහිටීම් දත්ත Samsung සර්වරයක් ඔස්සේ සම්ප්‍රේෂණය කිරීමට ඔබ එකඟ වේ. ඔබගේ උපාංගයේ පිහිටීම පිළිබඳව කිසිදු දත්තයක් හෝ තොරතුරක් Samsung සර්වරයෙහි ගබඩා නොවේ.</string>
+    <string name="cmw_legal_content1">“%1$s &amp; %2$s” සක්‍රිය කිරීමෙන්, %1$s &amp; %2$s සේවාව සැපයීම සඳහා ඔබගේ ජංගම දුරකථනය සහ/හෝ ගියර් උපාංගය ආශ්‍රිත පිහිටීම් දත්ත Samsung සර්වරයක් ඔස්සේ සම්ප්‍රේෂණය වන බවට ඔබ පිළිගනී. ඔබගේ උපාංගයේ පිහිටීම පිළිබඳව කිසිදු දත්තයක් හෝ තොරතුරක් Samsung සර්වරයේ ගබඩා නොවේ.</string>
+    <string name="cmw_legal_content1_no_gps">“%1$s &amp; %2$s” සක්‍රිය කිරීමෙන්, %2$s සේවාව සැපයීම සඳහා Samsung සේවාදායකය ඔස්සේ ඔබගේ ජංගම දුරකථනය ආශ්‍රිත වූ පිහිටීම් දත්ත සම්ප්‍රේෂිත වන බවට ඔබ පිළිගනී. ඔබගේ උපාංගයේ පිහිටීම පිළිබඳව කිසිදු දත්තයක් හෝ තොරතුරක් Samsung සර්වරයේ ගබඩා නොවේ.</string>
+    <string name="cmw_legal_content_2">සැම්සුං පෞද්ගලිකත්ව ප්‍රතිපත්තිය</string>
+    <string name="cmw_legal_title">නිතීමය සටහන්</string>
+    <string name="cmw_location">පිහිටීම් සේවා සක්‍රිය කරන්න</string>
+    <string name="cmw_show_on_map">සිතියම මත පෙන්වන්න</string>
+    <string name="color_black">කළු</string>
+    <string name="color_blue">නිල්</string>
+    <string name="color_brown">දුඹුරු</string>
+    <string name="color_gray">අළු</string>
+    <string name="color_green">කොළ</string>
+    <string name="color_light_sky_blue">ලා අහස් නිල්</string>
+    <string name="color_medium_purple">මධ්‍යම දම්</string>
+    <string name="color_orange">තැඹිලි පාට</string>
+    <string name="color_pink">රෝස</string>
+    <string name="color_purple">දම්</string>
+    <string name="color_red">රතු</string>
+    <string name="color_spring_green">වසන්ත කොළ</string>
+    <string name="common_none">නොමැත</string>
+    <string name="common_off">අක්‍රියයි</string>
+    <string name="common_on">සක්‍රියයි</string>
+    <string name="common_recent_apps">මෑත යෙදුම්</string>
+    <string name="connect_popup_content">%s සමඟ සම්බන්ධ වෙමින්…</string>
+    <string name="connected_by_trasport_BT">බ්ලූටූත් හරහා සම්බන්ධ කෙරිණි</string>
+    <string name="connected_by_trasport_SCS">දුරස්ථව සබැඳියි</string>
+    <string name="connecting_content">ගියරය වෙත සබැඳෙමින්</string>
+    <string name="connecting_doc">ඔබගේ %1$s වෙත සම්බන්ධ වීමෙන් පසු, ඔබට එහි සැකසුම් වෙනස් කිරීමට ද %2$s ඔස්සේ එහි යෙදුම් ස්ථාපනය කිරීමට ද පුළුවන.</string>
+    <string name="connecting_popup_message">ගියරය වෙත සබැඳෙමින්…</string>
+    <string name="connecting_popup_title">ගියර් වෙත සබඳින්න</string>
+    <string name="connecting_to_gear_ing">ගියරය වෙත සබැඳෙමින්…</string>
+    <string name="connectingdoc">ඔබගේ ගියරය වෙත සබැඳීමෙන් පසු, ඔබට එහි සැකසුම් වෙනස් කළ හැකි අතර ගියර කළමනාකරු හරහා එය මත යෙදුම් ස්ථාපනය කළ හැක.</string>
+    <string name="connection_error_dialog_message">ඔබගේ උපාංගය සබැඳී නොමැත. එය නැවත සබැඳීමට උත්සාහ කරනු ඇත.</string>
+    <string name="dialog_check_phone_number_msg1">පහත තොරතුරු නිවැරදි බව සහතික කර ගන්න:</string>
+    <string name="dialog_check_phone_number_msg2">ජංගම දුරකථන අංකය: %s</string>
+    <string name="dialog_check_phone_number_msg3">ගියර් දුරකථන අංකය: %s</string>
+    <string name="dialog_check_phone_number_msg4">තහවුරු කර ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට “හරි” තට්ටු කරන්න.</string>
+    <string name="dialog_enable_remote_connection_desc">ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට දුරස්ථ සබැඳුම සක්‍රිය කර නැවත උත්සාහ කරන්න.</string>
+    <string name="dialog_enable_remote_connection_title">දුරස්ථ සබැඳුම සක්‍රිය ක.</string>
+    <string name="dialog_permission_message">%s භාවිතා කළ නොහැකිය. “සැකසුම්” තට්ටු කර, යෙදුම් තතු > අවසර වෙත යන්න, එවිට පහත අවසරවලට ඉඩ දී නැවත උත්සාහ කරන්න:</string>
+    <string name="dialog_popup_button_cancel">අවල. කර.</string>
+    <string name="dialog_reverse_msg">ඔබේ සේවා සැපයුම්කරුකරු අනුව, ඔබේ ජංගම උපාංගයට හා ගියරයට මෙම විශේෂාංගය භාවිතයට ඉඩ ලබා දීමට වෙනම ග්‍රාහකත්වයක් අවශ්‍ය විය හැක. මෙහි ප්‍රතිඵලයක් ලෙස අතිරේක ගාස්තු අය විය හැක.</string>
+    <string name="dialog_set_phone_number_msg">ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට, ඔබට එන ඇමතුම් යොමු කළ යුතු හා ලැබිය යුතු උපාංගවල දුරකථන අංක පිහිටුවන්න.</string>
+    <string name="dialog_set_phone_number_title">ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීම</string>
+    <string name="disable_loc_text">පිහිටීම බෙදා ගැනීම අක්‍රිය වනු ඇත. ඔබට මගේ ගියරය සොයන්න හෝ මගේ උපාංගය සොයන්න ඔස්සේ ඔබේ ගියරය හෝ ජංගම උපාංගය සෙවීමට පිහිටීම් තොරතුරු භාවිතා කළ නොහැකි වනු ඇත.</string>
+    <string name="disable_loc_text_no_gps">පිහිටීම බෙදාගැනීම අක්‍රිය වනු ඇත. මගේ උපාංගය සොයන්න ඔස්සේ ඔබේ ජංගම උපාංගය සෙවීමට පිහිටීම් තොරතුරු භාවිතා කිරීමට ඔබට නොහැකි වනු ඇත.</string>
+    <string name="disable_remote_connection">දුරස්ථ සම්බන්. විසන්ධි ක.</string>
+    <string name="disable_remote_connection_fmm_fmd">මගේ ගියරය සෙවීම හා මගේ උපාංගය සෙවීම</string>
+    <string name="disable_remote_connection_receiving_blocked">ජංගම උපාංගය වෙතින් පණිවිඩ, ඊමේල්, සහ දැනුම්දීම් ලබා ගැනීම</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">ජංගම උපාංගය වෙතින් ඊමේල් හා දැනුම්දීම් ලබා ගැනීම</string>
+    <string name="disable_remote_connection_warning">දුරස්ථ සබැඳුම අක්‍රිය වනු ඇත. ඔබගේ ගියරය ඔබේ ජංගම උපාංගය වෙත බ්ලූටූත් හරහා නැවතත් සම්බන්ධ වන තුරු පහත ක්‍රියාදාම ලද නොහැකි වනු ඇත:</string>
+    <string name="disable_share_location">පිහිටීම බෙදා ගැනීම අක්‍රිය කිරීම</string>
+    <string name="disconnect_popup_content">%s විසන්ධි කෙරෙමින්…</string>
+    <string name="do_not_show_again">නැවත නොපෙන්වන්න</string>
+    <string name="enable_auto_call_forwarding_msg">ගියරය විසන්ධි වී ඇති අතරතුර ලැබෙන ඇමතුම් ඔබේ ජංගම උපාංගය වෙතින් ස්වයංක්‍රියව ගියරයට යොමු කරන්න. ඔබේ සේවා සම්පාදක අනුව මේ සඳහා අතිරේක ගාස්තු අය කරනු ලැබිය හැක. ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට “හරි” තට්ටු කරන්න.</string>
+    <string name="enable_auto_call_forwarding_title">ස්වයං ඇම. යොමුව සක්‍රිය කි.</string>
+    <string name="enable_more_notifications_enable">සක්‍රිය ක.</string>
+    <string name="enable_notification_access">දැනුම්දීම් ප්‍රවේශය සක්‍රිය කිරීම</string>
+    <string name="enable_notification_access_desc">"ඔබට එවූ සබඳතා සහ පණිවිඩ යනාදී පුද්ගලික තොරතුරු අඩංගු විය හැකි, ඔබට ලැබෙන සියලු දැනුම්දීම් කියවීමට මෙම ක්‍රියාකාරිත්වයට හැකි වනු ඇත. එයට මෙම දැනුම්දීම් ඉවත දැමීමට හෝ ඒවාට අදාළ ක්‍රියා තේරීමට ද හැක.
+ඔබගේ ගියර් මත දැනුම්දීම් ලැබීමට, “සක්‍රිය කරන්න” තට්ටු කර, අනතුරුව %s සක්‍රිය කරන්න."</string>
+    <string name="enable_share_location">පිහිටීම බෙදාහදා ගැනීම සක්‍රිය කරන්න</string>
+    <string name="enabled_loc">පිහිටීම බෙදාහදා ගැනීම සක්‍රිය කෙරිණි.</string>
+    <string name="error_enter_device_name">උපකරණ නම ඇතුළත් කරන්න.</string>
+    <string name="error_occurred">දෝෂයක් පැන නැගිණ.</string>
+    <string name="eula_i_agree">මම එකඟයි.</string>
+    <string name="failed_tshare_msg">ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට අසමත් විය. T බෙදාගැනීම වෙතින් ප්‍රතිචාරයක් නැත.</string>
+    <string name="find_my_device">මාගේ උපාංගය සොයන්න</string>
+    <string name="find_my_gear">මගේ ගියරය සෙවීම</string>
+    <string name="find_watch_btn_start">ආරම්භ කරන්න</string>
+    <string name="find_watch_btn_stop">නවත්.</string>
+    <string name="find_watch_off">ඔබගේ ගියරය සෙවීමට, අරඹන්න තට්ටු කරන්න. ගියරය හඬක් වාදනය කරනු ඇති අතර එහි තිරය සක්‍රිය වනු ඇත.</string>
+    <string name="find_watch_on">ඔබගේ ගියරය සෙවීම නැවැත්වීමට, “නවත්වන්න” තට්ටු කරන්න. ගියරය හඬක් වාදනය කිරීම නවතිනු ඇති අතර එහි තිරය අක්‍රිය වනු ඇත.</string>
+    <string name="font_gear_name">ගියර්</string>
+    <string name="font_noti_uninstall_idle_font">%1$s අස්ථාපනය වනු ඇති අතර, පෙරනිමි ෆොන්ට ඔබගේ %2$s වෙත යෙදෙනු ඇත.</string>
+    <string name="force_wifi_direct_msg">යෙදුම Wi-Fi Direct ඔස්සේ ස්ථාපනය වනු ඇත. මෙමගින් ඔබේ පවතින Wi-Fi Direct සබැඳුම අවසන් කෙරෙනු ඇත. ඔබ මෙම ස්ථාපනය අවලංගු කළහොත් මෙම යෙදුම ස්ථාපනය කිරීම සඳහා එය නැවත බාගැනීමට සිදු වනු ඇත.</string>
+    <string name="force_wifi_direct_title">ස්ථාපනය කරන්න</string>
+    <string name="force_wifi_install">ස්ථාපනය කරන්න</string>
+    <string name="gear2_backup_confirm_text">දැන් ඔබේ දත්ත උපස්ථ කළහොත් ජංගම උපාංගයේ ඇති වත්මන් ගියර උපස්ථ දත්ත ඔබේ නවතම ගියර දත්ත මගින් ආදේශ වනු ඇත.</string>
+    <string name="gear2_restore_confirm_text">ඔබේ දත්ත ප්‍රතිසාධනය කළහොත්, දැනට ඔබේ ගියරයේ ඇති දත්ත මැකී ඔබේ වත්මන් ගියර උපස්ථ දත්ත මගින් ඒවා ආදේශ වනු ඇත.</string>
+    <string name="gear2_text">"ඔබේ %1$s අන්තර්ගත උපස්ථ කර ගැනීමට ඔබේ උපාංගයේ ගබඩාව භාවිතා කරන්න:
+%2$s
+
+ඔබ මෙම අන්තර්ගතය කළින් උපස්ථ කර ඇත්නම්, ඔබට දැන් එය %3$s වෙත ප්‍රතිසාධනය කර ගැනීමට හැකි වනු ඇත.
+
+ගොනුවේ විශාලත්වය අනුව, ඒ සඳහා තරමක වේලාවක් ගත වනු ඇත."</string>
+    <string name="gear2_text_import3">සැකසුම්</string>
+    <string name="gear_bnr_desc">"පහත %1$s දත්ත උපස්ථ කිරීමට ඔබේ ජංගම උපාංගයේ ගබඩා ඉඩ භාවිතා කරන්න: %2$s
+
+ඔබ ඔබේ %3$s දත්ත කලින් උපස්ථ කර ඇත්නම්, ඔබට දැන් එය ඔබේ %4$s වෙත ප්‍රතිසාධනය කළ හැක.
+
+ගොනුවල තරම අනුව මේ සඳහා තරමක කාලයක් ගත විය හැක."</string>
+    <string name="gear_fit">සැම්සුං ගියර් ෆිට්</string>
+    <string name="gear_location_popup_message">ඔබගේ ජංගම උපාංගය දැන් ඔබගේ ගියරය සඳහා ස්කෑන් කරමින් සිටී. මෙය තත්පර කීපයක් ගනු ඇත. එය ඇතුළත නම් ඔබගේ ගියර් ස්ථානගත කිරීමට දුෂ්කර විය හැක.</string>
+    <string name="gear_location_popup_title">ගියර් ස්ථානගත කිරීම</string>
+    <string name="gear_location_text">ගියර් පිහිටුම</string>
+    <string name="gear_lock_success">ගියර් අගුලු දැමිණි.</string>
+    <string name="gear_lock_text">ගියර් අගුලු දමන්න</string>
+    <string name="gear_locked">ගියර් අගුලු දැමිණි</string>
+    <string name="gear_locked_text1">ගියර් අගුලු දමා ඇත. අගුලු හැරීමට බ්ලූටූත් ඔස්සේ ගියර් ජංගම උපාංගයට සම්බන්ධ කරන්න.</string>
+    <string name="gear_phone_number">ගියර් දුරකථන අංකය</string>
+    <string name="gear_phone_number_popup_desc">ඔබේ ගියර් වෙත එන සියලු ඇමතුම් %s වෙත යොමු කරනු ඇත.</string>
+    <string name="gear_phone_number_popup_desc_vzw">ඔබේ ජංගම උපාංගය වෙත සියලු පිළිතුරු නොදුන් ඇමතුම් %s වෙත යොමු කෙරෙනු ඇත.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">ඔබේ ගියරය අගුලු දැමීමට නම්, පළමුව දුරස්ථ සබැඳුම සක්‍රිය කළ යුතුය.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">ඔබේ ගියරය යළි සැකසීමට නම්, පළමුව දුරස්ථ සබැඳුම සක්‍රිය කළ යුතුය.</string>
+    <string name="gear_reset_text">ගියර් යළි සකසන්න</string>
+    <string name="gear_to_mobile">ගියර් වෙතින් ජංගම උ.</string>
+    <string name="gear_to_mobile_des">උපාංග දෙක බ්ලූටූත් ඔස්සේ සම්බන්ධිතව තිබිය දී ඔබේ ගියර් වෙත ලබා ගත් ඇමතුම් ජංගම උපාංගය වෙත ලබා ගන්න.</string>
+    <string name="gear_unable_to_locate_message">පිහිටීම සොයාගත නොහැකි විය. පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="gear_unable_to_locate_title">ගියර් ස්ථානගත කළ නොහැකිය</string>
+    <string name="gearmanager_app_name">සැම්සුං ගියර්</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">බිතුපත්</string>
+    <string name="home_bg_color">වර්ණ</string>
+    <string name="home_bg_colors_title">ඇති වර්ණ</string>
+    <string name="home_bg_delete_actionbar_selected">තේරිණ</string>
+    <string name="home_bg_delete_dialog_msg">ගියර් කළමනාකරු සහ ඔබගේ ගියරය වෙතින් බිතුපත් %dක් ඉවත් කරනු ඇත.</string>
+    <string name="home_bg_delete_select_all">සියල්ල තෝරන්න</string>
+    <string name="home_bg_max_more_image_toast">උපරිම බිතුපත් සංඛ්‍යාවට (%d) ළඟා විය.</string>
+    <string name="home_bg_more_images">තවත් පින්තූර</string>
+    <string name="home_bg_popup_wallpaper_msg">ගියර් බිතුපත් බාගනිමින්…</string>
+    <string name="home_bg_popup_wallpaper_title">බිතුපත් බාගැනීම</string>
+    <string name="home_bg_toast_saved">සුරකින ලදී.</string>
+    <string name="home_bg_wallpaper">බිතුපත</string>
+    <string name="home_bg_wallpapers_title">ඇති බිතුපත්</string>
+    <string name="homelayout_apps">යෙදුම්</string>
+    <string name="incoming_calls_title">එන ඇමතුම්</string>
+    <string name="info_build_number">මෘදුකාංග අනුවාදය</string>
+    <string name="info_model_number">ආකෘති අංකය</string>
+    <string name="info_software_update">මෘදුකාංග යාවත්කාලය</string>
+    <string name="information_provision_agreement">තොරතුරු සම්පාදන ගිවිසුම</string>
+    <string name="information_provision_agreement_mgs">"හඬ සිහිපත මගින් Nuance Communications, Inc. නම් වූ තෙවන පාර්ශ්වීය සේවා සම්පාදකයකු විසින් සපයනු ලබන කටහඬ හැඳුනුම් තාක්ෂණයන් භාවිතා කරයි. එනයින්, ඔබේ කටහඬ තොරතුරු, නොවැළැක්විය හැකි ලෙස Nuance මගින් (එක්සත් ජනපදය තුළ) ක්රියාත්මක කෙරෙන සර්වරයක ගබඩා කරනු ලැබෙන අතර හඬ සිහිපත භාවිතා කරන්නේ නම් ඔබ විසින් Nuanceහි සේවා නියමයන් හා කොන්දේසිහා එකඟ විය යුතුය.
+ සේවාවන් වැඩි දියුණු කිරීම හා තාක්ෂණය සංවර්ධනය කිරීමේ අරමුණු සඳහා ඔබේ කටහඬ ආදානය භාවිතා කිරීමේ අයිතිය Nuance සතු වේ. තව ද, Nuanceහි පාර්ශ්වකරුවන් වෙත යථොක්ත කටහඬ ආදානයන් සැපයීමේ අයිතිය ද Nuance සතු වේ. උක්ත අරමුණු සපුරා ගනු ලබන තෙක් ඔබේ කටහඬ ආදාන තොරතුරු ගබඩා කොට තබා ගනු ලැබේ. හඬ සිහිපත් සේවා පිළිබඳ වැඩිදුර විස්තර සඳහා, කරුණාකර Samsung රහස්යතා ප්රතිපත්තිය හා Nuance රහස්යතා ප්රතිපත්තිය කියවන්න.
+ ඉහතින් විස්තර කරන ලද, ඔබේ තොරතුරු සම්පාදනය හා එකඟ නොවන්නේ නම් ඔබට හඬ සිහිපත භාවිතා කළ නොහැක."</string>
+    <string name="init_manage_notifications_desc">ඔබේ %1$s වෙත දැනුම්දීම් ලබා ගැනීමට අවශ්‍ය යෙදුම් තෝරන්න. ඔබගේ %2$s හි බැටරි බලය සුරැකීමට, ඔබට දැනුම්දීම් ලබා ගැනීමට අවශ්‍ය නැති යෙදුම් තේරීම්හරණය කරන්න.</string>
+    <string name="install_in_progress">කෙරෙමින් පවතී…</string>
+    <string name="latest_version">නවතම අනුවාදය ස්ථාපිතයි</string>
+    <string name="latitude">අක්ෂාංශය</string>
+    <string name="limit_notification_desc">ජංගම උපාංගය භාවිතා කරමින් තිබිය දී ගියරයෙහි ඇඟවුම් දිස් වීම අවහිර කරන්න.</string>
+    <string name="limit_notification_dialog_desc">ඔබේ ගියරයෙහි දැනුම්දීම් සීමාකිරිම සක්‍රිය කළ නොහැකියි. ඔබේ ජංගම උපාංගයෙහි තිර අගුලක් පිහිටුවා නැත.</string>
+    <string name="limit_notification_title">දැනුම්දීම් සීමා කරන්න</string>
+    <string name="location_info_title">පිහිටීම බෙදා ගන්න</string>
+    <string name="lock_gear_legal_text1">ගියර් අගුලු දමන්න භාවිත කිරීම මගින්, අනවසර භාවිතය වැළැක්වීමට ඔබට ඔබගේ ගියර් දුරස්ථව අගුලු දැමිය හැකිය. ඔබට ගියර් ජංගම උපාංගයට යළි-සබැඳීම මගින් එහි අගුලු හැරිය හැකිය.</string>
+    <string name="lock_gear_legal_text2">* ගියර් යළි සකසන්න ක්‍රියා කිරීමට මද වේලාවක් ගැනීමට හෝ ඔබගේ ගියර්, ජංගම උපාංගය හෝ ජාල පරිසරය මත රඳා පවතිමින් අසාර්ථක වීමට පවා හැකිය.</string>
+    <string name="lock_gear_text">ඔබේ ජංගම උපාංගය හා ගියරය බ්ලූටූත් ඔස්සේ සම්බන්ධිතව තිබිය දී ඔබේ ගියරය අගුලු දැමිය නොහැක.</string>
+    <string name="login_to_samsung_account">Samsung account වෙත පිවි.</string>
+    <string name="login_to_samsung_account_desc">ඔබගේ ගියර් මත දුරස්ථ සබැඳුම සක්‍රිය කිරීමට, ඔබගේ Samsung account වෙත පිවිසෙන්න.</string>
+    <string name="login_to_samsung_account_full_desc">"බ්ලූටූත් ඔස්සේ සම්බන්ධිතව නැති විට පවා පහත විශේෂාංග භාවිතා කිරීමට ඔබේ Samsung account වෙත පිවිසෙන්න:
+- දැනුම්දීම් ලැබීම
+- දුරස්ථ සම්බන්ධතාව ඔස්සේ යෙදුම් භාවිතය
+දුරස්ථ සම්බන්ධතාව භාවිතා කිරීම අතිරේක ගාස්තු අය කරනු ලැබීමට හේතු විය හැක."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"ඔබ බ්ලූටූත් හරහා ඔබේ දුරකථනයට සම්බන්ධ වී නැති විට, Samsung account එකක් ජංගම දත්ත හරහා පහත දේවල් කිරීමට ඔබට ඉඩ දෙනු ඇත:
+- පණිවිඩ, ඊමේල්, සහ වෙනත් දැනුම්දීම් ලබා ගැනීම
+- දුරස්ථ සබැඳුමක් හරහා ඔබේ දුරකථනයට සබැඳුමක් අවශ්‍ය ගියරය මත ඇති යෙදුම් භාවිත කිරීම.
+
+ඔබේ Samsung account හරහා දුරස්ථ සබැඳුම ඔබේ දත්ත සැලසුම භාවිත කරනු ඇති බව සටහන් කර ගන්න."</string>
+    <string name="longitude">දේශාංශ</string>
+    <string name="main_bt_unpaired">යුගලගත කර නැත</string>
+    <string name="main_disconnected">විසන්ධි විය</string>
+    <string name="manage_applications">යෙදුම් කළමනා. කර.</string>
+    <string name="manage_notifications">දැනුම්දීම් කළමනා.ය ක.</string>
+    <string name="manual_call_forwarding_for_att_msg">"ඔබේ ස්මාර්ට්ෆෝනයට ගත් ඇමතුම් ඔබේ ගියරයට යොමු කළ හැක.
+- ඔබේ ස්මාර්ට්ෆෝනය කිහිප වතාවක් නාද වී අනතුරුව ඔබේ ගියරය වෙත ඇමතුම යොමු වනු ඇත.
+- ඔබ විසින් ඔබේ ගියරයෙන් ඇමතුමට පිළිතුරු නොදුන්නේ නම්, අමතන්නා විසින් ඔබේ ගියරයෙන් සවන් දිය හැකි හඬ තැපෑලක් තැබිය හැක.
+ඔබට දැන් ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට අවශ්‍යයි ද?"</string>
+    <string name="manual_call_forwarding_popup_desc">ඇමතුම් යොමු කිරීම යනු %s එන ඇමතුම් නිශ්චිත අංකයකට හරවා යවන ජාල සේවාවකි. ඔබගේ සේවා සැපයුම්කරු මත රඳා පවතිමින්, මෙම විශේෂාංගය භාවිත කිරීමට ඔබගේ ගියර් වෙත ඉඩ දීමට දායකත්වයක් අවශ්‍ය විය හැකිය. මෙය අතිරේක ගාස්තුවලට හේතු විය හැකිය.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">ජංගම උපාංගය</string>
+    <string name="masterapp_not_installed">ඔබගේ උපාංගය මත %1$s ස්ථාපනය වී නොමැත. ඔබගේ ගියරය මත %2$s භාවිතා කිරීමට, ඔබගේ ජංගම උපාංගය වෙත %1$s බාගන්න.</string>
+    <string name="masterapp_not_installed_goto_deeplink">ඔබගේ උපාංගය මත %1$s ස්ථාපනය කර නැත. ඔබගේ ගියරය මත %2$s භාවිතා කිරීමට, ඔබගේ ජංගම උපාංගය වෙත %1$s බාගන්න. ඔබව බාගැනීමේ තිරය වෙත ගෙනයනු ඇත.</string>
+    <string name="masterapp_uninstalled">ඔබගේ ජංගම උපාංගය වෙතිත් %1$s අස්ථාපනය වී ඇත. ඔබගේ ගියරය මත %2$s භාවිතා කිරීමට, ඔබගේ ජංගම උපාංගය වෙත %1$s බාගන්න.</string>
+    <string name="maximum_size_warning">උපරිම අනුලකුණු ගණන ළඟා විය.</string>
+    <string name="menu_about_device">%s පිළිබඳ</string>
+    <string name="menu_actionbar_remove">ඉවත් කර.</string>
+    <string name="menu_actionbar_uninstall">අස්ථාපනය කරන්න</string>
+    <string name="menu_appsandsettigns">යෙදුම් සහ සැකසුම්</string>
+    <string name="menu_clock">ඔරලෝසුව</string>
+    <string name="menu_display">මුල් තිරය සංස්කරණය කිරීම</string>
+    <string name="menu_downloaded_font">බාගත් ෆොන්ට</string>
+    <string name="menu_filetransfertogear">ගියරය වෙත ගොනු හුවමාරුව</string>
+    <string name="menu_gallery">අනුරුව</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">යෝග්‍යතාව</string>
+    <string name="menu_help">සහාය</string>
+    <string name="menu_home_screen">මුල් තිර විලාසකය</string>
+    <string name="menu_music">සංගීතය</string>
+    <string name="menu_myapp">මාගේ යෙදුම්</string>
+    <string name="menu_notification">දැනුම්දීම්</string>
+    <string name="menu_rename">නැවත නම් කරන්න</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">ගියර් යෙදුම්</string>
+    <string name="menu_settings">සැකසුම්</string>
+    <string name="mobile_to_gear">ජංගම උ. වෙතින් ගියර්</string>
+    <string name="mobile_to_gear_des">උපාංග දෙක දුරස්ථව සම්බන්ධිත වී ඇති අතරතුර ඔබේ ජංගම උපාංගය වෙත ලබා ගන්නා ඇමතුම් ගියර් මත ලබන්න.</string>
+    <string name="monotype_default_font">පෙරනිම් ෆොන්ට</string>
+    <string name="monotype_dialog_font_applemint">ඇපල් මින්ට්</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">පොප්</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">ටින්කර් බෙල්</string>
+    <string name="more">වැඩිදුර</string>
+    <string name="more_options">වැඩිදුර විකල්ප</string>
+    <string name="multisim_title">බහු SIM</string>
+    <string name="navigate_up">ඉහළට යාත්‍රා කරන්න</string>
+    <string name="new_eula_error_log">දෝෂ විනිශ්ච තතු වාර්තා කර.</string>
+    <string name="new_eula_fmd2">මාගේ උපාංගය සොයන්න</string>
+    <string name="new_eula_fmg2">මගේ ගියරය සෙවීම</string>
+    <string name="new_eula_news_briefing">පුවත් සැකෙවිය</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">සැම්සුං යතුරුපුවරුව</string>
+    <string name="new_notification_list">ලැයිස්තු දසුන</string>
+    <string name="new_notifications_list_desc">ගියර් වෙත ලැබුණු නව දැනුම්දීම් ලැයිස්තුවක් ඔරලෝසුවට වමෙන් පෙන්වන්න.</string>
+    <string name="no_application_selected">යෙදුම් කිසිවක් නොතේරිණි</string>
+    <string name="no_downloaded_applications">බාගත් යෙදුම් නොමැත</string>
+    <string name="no_of_application_selected">යෙදුම් %d ක් තේරිණි</string>
+    <string name="no_remote_connection_popup_msg">ස්වයං ඇමතුම් යොමු කිරීම සක්‍රිය කිරීමට ඔබේ ජංගම උපාංගයෙන් සැම්සුං ගියර් යෙදුම විවෘත කර, දුරස්ථ සබැඳුම සක්‍රිය කර අනතුරුව නැවත උත්සාහ කරන්න.</string>
+    <string name="no_remote_connection_popup_title">දුරස්ථ සබැඳුම සක්‍රිය ක.</string>
+    <string name="notification_type">දැනුම්දීම් ආකාරය</string>
+    <string name="notification_type_desc">ඔබගේ ගියර් භාවිතයෙහි ඇති අතරතුර, ඉහත ඔබගේ තේරීම නොසලකා, ඔබගේ දැනුම්දීම් තිරයෙහි ඉහළින්ම කුඩා උත්පතන ලෙස සංදර්ශනය වනු ඇත.</string>
+    <string name="number_setting">අංක සැකසුම</string>
+    <string name="ok">හරි</string>
+    <string name="once">එක් වරක්</string>
+    <string name="one_application_selected">යෙදුම් 1 ක් තේරිණි</string>
+    <string name="popup_attention_email_msg">ඇතැම් ඊමේල් ගිණුම් ඊමේල් සැකසුම් තුළ තෝරා නොමැත. එම ගිණුම් වෙතින් ඔබේ ගියරයට දැනුම්දීම් ලබා ගැනීමට ඊමේල් සැකසුම් වෙතින් “ඊමේල් දැනුම්දීම්” තෝරන්න.</string>
+    <string name="popup_attention_message_msg">ඔබේ ගියරයෙන් පණිවුඩ යැවීමට හා ලබා ගැනීමට ඔබේ පෙරනිමි පණිවුඩකරණ යෙදුම %s වෙතින් පණිවුඩකරණයට වෙනස් වනු ඇත.</string>
+    <string name="popupmenu_search_for_new_device">උපාංග කළමනාකරණය</string>
+    <string name="preview_message_desc">ඔබේ ගියරයේ දැනුම්දීම් උත්පතනවල ලැබෙන ඇමතුම් ඇඟවුම් හා එලාම හැර ලද අනෙකුත් දැනුම්දීම්වල පෙරදසුනක් දක්වන්න.</string>
+    <string name="preview_message_title">පණිවිඩය පෙරදසුන් කරන්න</string>
+    <string name="primary">ප්‍රාථමික</string>
+    <string name="privacypolicy_fmgfmd">“%1$s &amp; %2$s” සක්‍රිය කිරීමෙන්, %1$s &amp; %2$s සේවාව සැපයීම සඳහා ඔබගේ ජංගම දුරකථනය සහ/හෝ ගියර් උපාංගය ආශ්‍රිත පිහිටීම් දත්ත Samsung සර්වරයක් ඔස්සේ සම්ප්‍රේෂණය වන බවට ඔබ පිළිගනී. ඔබගේ උපාංගයේ පිහිටීම පිළිබඳව කිසිදු දත්තයක් හෝ තොරතුරක් Samsung සර්වරයේ ගබඩා නොවේ.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">“%1$s &amp; %2$s” සක්‍රිය කිරීමෙන්, %2$s සේවාව සැපයීම සඳහා Samsung සේවාදායකය ඔස්සේ ඔබගේ ජංගම දුරකථනය ආශ්‍රිත වූ පිහිටීම් දත්ත සම්ප්‍රේෂිත වන බවට ඔබ පිළිගනී. ඔබගේ උපාංගයේ පිහිටීම පිළිබඳව කිසිදු දත්තයක් හෝ තොරතුරක් Samsung සර්වරයේ ගබඩා නොවේ.</string>
+    <string name="privacypolicy_newsbriefing">මෙම යෙදුම විවිධ නවෝත්පාදක ක්‍රම වලින් සමාජ මාධ්‍ය සහ අන්තර්ජාලය සමග අන්තර්ක්‍රියා කිරීමේ හැකියාව පරිශීලකයන්ට සපයයි. ඔබ මෙම යෙදුම සක්‍රිය කළහොත්, ඔබ අන්තර්ගතය සහ වෙළඳ දැන්වීම් බලන්නේ සහ ඒවා සමග අන්තර්ක්‍රියා කරන්නේ කෙසේද යන්න ඇතුළුව, ඔබ සේවා භාවිත කරන්නේ කෙසේද යන්න පිළිබඳ තොරතුරු රැස් කරනු ඇත. තවත් විස්තර සඳහා, කරුණාකර Flipboard %1$sභාවිත නියම%2$s සහ %3$sරහස්‍යතා ප්‍රතිපත්තිය%4$s බලන්න.</string>
+    <string name="privacypolicy_samsung_privacy_policy">සැම්සුං පෞද්ගලිකත්ව ප්‍රතිපත්තිය</string>
+    <string name="progressdialog_please_wait">කරුණාකර රැඳී සිටින්න…</string>
+    <string name="progressdialog_reinstalled_message">ස්ථාපනය කරමින්…</string>
+    <string name="progressdialog_reinstalled_popup_content">යළි ස්ථාපනය ක.</string>
+    <string name="providerapp_reinstalled">%s නිසි ලෙස ක්‍රියා නොකරයි එනිසා එය අස්ථාපනය කර ඇත. එය දැන් යළි ස්ථාපනය කරනු ඇත.</string>
+    <string name="quick_tutorial_add_shortcuts">යෙදුම් කෙටිමං, ගියරයෙහි මුල් පිටු තිරය වෙත එක් කිරීමට, ගියරයෙහි යෙදුම් වෙත ගොස්, “යෙදුමක් හෝ විජට්ටු අයිකනයක්” තට්ටු කර, අනතුරුව තිරයේ ඉහළ ඇති මුල් පිටු අයිකනය මතට එය ඇද හෙළන්න.</string>
+    <string name="quick_tutorial_gear_structure">ඔබගේ ගියරයේ මුල් තිරයේ ප්‍රධාන පිටුවෙහි ඔරලෝසුව දිස් වේ. ඔරලෝසුවේ වම් පස ඇති පිටු දැනුම්දීම් ද දකුණු පස ඇති ඒවා විජෙට්ටු ද පෙන්වයි. යෙදුම් බැලීමට තිරයේ යටි කෙළවරෙන් උඩට ස්වයිප් කරන්න.</string>
+    <string name="quick_tutorial_noti_title">%s සඳහා හඳුන්වාදීම</string>
+    <string name="quick_tutorial_noti_title_gear">ගියර් S</string>
+    <string name="quick_tutorial_noti_title_gear1">ගියර්</string>
+    <string name="quick_tutorial_noti_title_gear2">ගියර් 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice විවෘත කිරීමට, “Hi Gear” යැයි පවසන්න නැතහොත් ඕනෑම තිරයක සිටින අතරතුර දෙවරක් මුල්පිටු යතුර ඔබන්න.</string>
+    <string name="quick_tutorial_swipe_downwards">ඔබගේ ප්‍රියතම යෙදුම විවෘත කිරීමට මුල්පිටු යතුර ද්වි තට්ටු කරන්න. සැකසුම්වලදී ඔබට ඔබගේ ප්‍රියතම යෙදුම වෙනස් කළ හැක.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">ඔබගේ ප්‍රියතම යෙදුම විවෘත කිරීමට බල යතුර ද්වි තට්ටු කරන්න. සැකසුම්වලදී ඔබට ඔබගේ ප්‍රියතම යෙදුම වෙනස් කළ හැක.</string>
+    <string name="quick_tutorial_to_go_back">ආපස්සට යාමට තිරය දාරයෙහි සිට පහළ දෙසට ස්වයිප් කරන්න.</string>
+    <string name="remote_connection_disabled_settings">සැකසුම්</string>
+    <string name="remote_connection_enabled_desc">බ්ලූටූත් සම්බන්ධතාව අවසන් වුවහොත් ගියරය දුරස්ථව සම්බන්ධ වනු ඇත.</string>
+    <string name="requested">ඉල්ලීම් කරන ලදී</string>
+    <string name="reset_gear_legal_text1">ගියර් යළි සකසන්න භාවිත කිරීම මගින්, ඔබට ඔබගේ ගියර් මත ඇති සියලු දත්ත දුරස්ථව මැකිය හැකිය. එසේ මැකීමෙන් පසුව, මැකූ දත්ත ප්‍රතිසාධනය කළ නොහැකි අතර ඔබට තවදුරටත් මගේ ගියර් සොයන්න භාවිත කළ නොහැකිය.</string>
+    <string name="reset_gear_legal_text2">* ගියර් යළි සකසන්න ක්‍රියා කිරීමට මද වේලාවක් ගැනීමට හෝ ඔබගේ ගියර්, ජංගම උපාංගය හෝ ජාල පරිසරය මත රඳා පවතිමින් අසාර්ථක වීමට පවා හැකිය.</string>
+    <string name="restore_complete">ප්‍රතිසාධනය සම්පූර්ණයි‍.</string>
+    <string name="restore_some_error">ප්‍රතිසංස්කරණය අසාර්ථකයි. නැවත උත්සාහ කරන්න.</string>
+    <string name="restore_try_again">නැවත උත්. ක</string>
+    <string name="restore_watch_settings_content2">"ඔබේ %1$s අන්තර්ගත උපස්ථ කර ගැනීමට ඔබේ උපාංගයේ ගබඩාව භාවිතා කරන්න:
+%2$s
+
+ඔබ මෙම අන්තර්ගතය කළින් උපස්ථ කර ඇත්නම්, ඔබට දැන් එය %3$s වෙත ප්‍රතිසාධනය කර ගැනීමට හැකි වනු ඇත.
+
+ගොනුවේ විශාලත්වය අනුව, ඒ සඳහා තරමක වේලාවක් ගත වනු ඇත.
+
+ඔබට ඔබේ උපස්ථ සැකසුම් වෙනස් කිරීම සැකසුම්හිදී සිදු කළ හැකිය."</string>
+    <string name="restore_watch_settings_content2_import1">ගියර්</string>
+    <string name="restore_watch_settings_content2_import3">සැකසුම්</string>
+    <string name="retrieve_dialog_desc">යෙදුම් ලැයිස්තුව ලැබෙමින්…</string>
+    <string name="sa_email">ඊමේල්</string>
+    <string name="sa_error_0203_desc">දුරස්ථ සම්බන්ධතාව සක්‍රිය කිරීමට Samsung account හස්තීයව යාවත්කාල කරන්න.</string>
+    <string name="sa_error_0203_title">Samsung account යාවත්කාලීන කර.</string>
+    <string name="sa_error_0301_desc">ඔබේ ජංගම උපාංගයෙන් ඔබේ Samsung account වෙත පිවිසීමේදී ජාල දෝෂයක් හට ගැනිණි.</string>
+    <string name="sa_error_0301_title">ක්‍රියාදාමය සක්‍රිය කිරී. අසමත්</string>
+    <string name="sa_error_0302_desc">ඔබේ ජංගම උපාංගයෙන් ඔබේ Samsung account වෙත පිවිසීමේදී ජාල දෝෂයක් හට ගැනිණි.</string>
+    <string name="sa_error_0302_title">ක්‍රියාදාමය සක්‍රිය කිරී. අසමත්</string>
+    <string name="sa_error_0401_desc">දෝෂයක් සිදුවී ඇත. නැවත උත්සාහ කරන්න.</string>
+    <string name="sa_error_0401_title">දෝෂය</string>
+    <string name="safety_message_interval_10minutes">සෑම විනාඩි 10 කටම වරක්</string>
+    <string name="safety_message_interval_20minutes">සෑම විනාඩි 20 කට වරක්</string>
+    <string name="samsung_apps_info">%2$s අස්ථාපනය කළ විට හෝ යෙදුම් දත්ත අස් කළ විට %1$s ඔස්සේ බාගත් යෙදුම් මැකී යා හැක. ඔබට ඔබගේ මැකුණු යෙදුම් %3$sහි ඇති ඔබේ මිලට ගැනුම් ඉතිහාසයෙන් බාගත හැක.</string>
+    <string name="samsung_apps_notice">දැන්වීම</string>
+    <string name="samsung_gear">සැම්සුං ගියර්</string>
+    <string name="samsung_update">දැන් යාවත්කාලීන කරන්න</string>
+    <string name="screen_off">තිරය ක්‍රියාවිරහිතව තබන්න</string>
+    <string name="screen_off_desc">ඔබේ ගියරයේ තිරය ක්‍රියා විරහිතව තිබිය දී ලැබෙන ඇමතුම් ඇඟවුම් හා එලාම හැර අනෙකුත් දැනුම්දීම් ලබා ගන්න.</string>
+    <string name="setting_Enable">සක්‍රිය ක.</string>
+    <string name="setting_alpm_dialog_title">අවධානය යොමු කරන්න</string>
+    <string name="setting_always_off">සැමවිටම අක්‍රි.</string>
+    <string name="setting_always_on">සැමවිටම සක්‍රි.</string>
+    <string name="setting_auto">ස්වයං</string>
+    <string name="setting_auto_lock_disable_desc">පරිපාලක විසින් අක්‍රිය කරන ලද, සංකේතන ප්‍රතිපත්තිය, හෝ විස්තර ගබඩාව.</string>
+    <string name="setting_backup_restore2">උපස්ථාපනය සහ ප්‍රතිසාධනය</string>
+    <string name="setting_basic">මූලික</string>
+    <string name="setting_connections">සබැඳුම්</string>
+    <string name="setting_disable">අක්‍රිය ක.</string>
+    <string name="setting_home_key_double_pressing">මුල් යතුර දෙවරක් එබීම</string>
+    <string name="setting_language_input">භාෂාව සහ ආදානය</string>
+    <string name="setting_manage_text_templates">පෙළ අච්චු සංස්කරණය කරන්න</string>
+    <string name="setting_mobile_network">ජංගම ජාල</string>
+    <string name="setting_mobile_network_desc">එය බ්ලූටූත් හරහා ඔබගේ ජංගම උපාංගයට සබැඳි විට ගියර් ඔබගේ ජංගම ජාලයෙන් විසන්ධි වනු ඇත. බ්ලූටූත් හරහා සබැඳුම අවසන් විට, ස්වයංක්‍රියව ගියර් නැවත ඔබගේ ජංගම ජාලය වෙත සබැඳෙනු ඇත.</string>
+    <string name="setting_multisim_popup_desc">ඔබගේ සේවා සැපයුම්කරු මත රඳා පවතිමින්, ඔබට බහු SIM ශ්‍රිතය භාවිත කිරීමට වෙනම දායකත්වයක් අවශ්‍ය විය හැකිය. බහු SIM සක්‍රිය කිරීමට “හරි” තට්ටු කරන්න.</string>
+    <string name="setting_opensource">විවෘත කේත බලපත්‍රය</string>
+    <string name="setting_palm_motion">චලනය</string>
+    <string name="setting_palm_swipe">ස්වයිප් කොට හසු කර ගැ.</string>
+    <string name="setting_palmover_desc">එන ඇමතුම් සහ එලාමයන් නිහඬ කිරීමට, හෝ මාධ්‍ය විරාම කිරීමට, තිරය සක්‍රිය වී ඇති අතරතුර ඔබේ අත තිරය මත තබන්න.</string>
+    <string name="setting_palmswipe_desc">ඔබේ සම්පූර්ණ ඇඟිල්ලම තිරයේ ස්පර්ශ වී තිබිය දී එය තිරය ඔස්සේ ඇදගෙන යාමෙන් තිරයේ අනුරුවක් හසු කර ගන්න.</string>
+    <string name="setting_pause_mute">නිහඬ/විරාම කරන්න</string>
+    <string name="setting_power_key_double_pressing">ද්වි ඔබන බල යතුර</string>
+    <string name="setting_restoring">ප්‍රතිස්ථාපනය කරමින්…</string>
+    <string name="setting_safety_b1_desc">ඔබගේ ගියර් සහ ජංගම උපාංග සබැඳුණු විට, සහාය පණිවිඩ යැවීම හදිසියකදී ඔබට සහාය දේ. එය ඔබගේ පිහිටීම සහිත හදිසි පණිවිඩ ඔවුන්ට යැවීමෙන් ඔබගේ හදිසි පණිවිඩ සබඳතාවලට ඔබගේ තත්වය පිළිබඳ දැනුම් දේ. මෙම පණිවිඩ යැවීම අමතර ගාස්තුවලට හේතු විය හැක. හදිසියකදී සහායක පණිවිඩ යැවිම සක්‍රිය කිරීමට, %d වාරයක් බල යතුර ඔබන්න.</string>
+    <string name="setting_safety_b2_desc">ඔබගේ ගියරය සහ ජංගම උපාංගය සබැඳි විට, උපකාර පණිවිඩ යවන්න ඔබට හදිසි අවස්ථාවකදී ගියර කැමරාව භාවිතයෙන් පින්තූරයක් ගැනීමෙන් ඔබට උපකාර කරයි. මෙම පින්තූරය සහ ඔබගේ පිහිටීම සමගින් ඔබගේ හදිසි අවස්ථා සබඳතා වෙත හදිසි අවස්ථා පණිවිඩ යැවීම මගින් එය ඔවුන්ට ඔබගේ තත්වය දැනුම් දෙයි. පළමු පණිවිඩයේ ඔබගේ පිහිටීම සහ පින්තූරය යන දෙකම අඩංගු වනු ඇත. අනතුරුව, විරාමයකට පසුව, ඔබගේ පිහිටීම පමණක් අඩංගු කරමින් දෙවන පණිවිඩයක් යවනු ඇත. මෙම පණිවිඩ යැවීම අමතර ගාස්තු වලට හේතු විය හැක. හදිසි අවස්ථාවකදී උපකාර පණිවිඩ යවන්න සක්‍රිය කිරීමට, මුල්පිටු යතුර වාර %d ක් ඔබන්න.</string>
+    <string name="setting_safety_b2_no_camera_desc">ඔබේ ගියරය හා ජංගම උපාංගය සම්බන්ධිත විට, හදිසි අවස්ථාවක දී උපකාර පණිවුඩ යැවීම ඔබට උපකාරී වේ. එමගින් ඔබ සිටින ස්ථානය සහිතව ඔබේ හදිසි පණිවුඩ සබඳතා වෙත හදිසි පණිවුඩ යැවීම මගින් ඔවුන්ට ඔබේ තත්ත්වය ගැන දැනුම් දෙයි. මෙම පණිවුඩ යැවීම අතිරේක ගාස්තු අය කරනු ලැබීමට හේතු විය හැක. හදිසි අවස්ථාවක දී උපකාර පණිවුඩ යැවීම සක්‍රිය කිරීමට මුල් යතුර %d වරක් ඔබන්න.</string>
+    <string name="setting_safety_b3_desc1">ඔබ හදිසි අවස්ථාවක සිටින විට ඔබගේ ප්‍රාථමික සබඳතා වෙත යුහු දැනුම්දීමක් යැවීමට මුල් පිටු යතුර ඉක්මනින් 3 වරක් ඔබන්න.</string>
+    <string name="setting_safety_b3_desc2">ඔබේ මූලික සබඳතාවලට ඔබේ වත්මන් පිහිටීම පිළිබඳ තොරතුරු ඇතුළත් හදිසි පණිවිඩ ලැබෙනු ඇත.</string>
+    <string name="setting_safety_b3_desc3">මෙම ක්‍රියාකාරිත්වය භාවිත කිරීමට ඔබගේ ජංගම උපාංගය ඔබගේ ගියර් වෙත සබඳින්න.</string>
+    <string name="setting_safety_list">ආරක්ෂණ සහය</string>
+    <string name="setting_samsung_legal">සැම්සුං නෛතික කරුණු</string>
+    <string name="setting_screen_lock">ස්වයං අගුල</string>
+    <string name="setting_screen_lock_desc">ඔබගේ ජංගම උපාංගය අගුලු ලෑමට ඔබගේ ගියරය භාවිතා කරන්න.</string>
+    <string name="setting_screen_secutiry">තිර ආරක්ෂණය</string>
+    <string name="setting_send_emergency_picture">හදිසි අවස්ථා පින්තූර ය.</string>
+    <string name="setting_send_emergency_recording">හඬ පටිගත කිරීම් යවන්න</string>
+    <string name="setting_send_emergency_term_agree">මම ඉහත සියලු නියමයන් සහ කොන්දේසි කියවා පිළිගනිමි.</string>
+    <string name="setting_send_help_message">උපකාර පණිවුඩ යවන්න</string>
+    <string name="setting_send_terms_conditions">නියමයන් හා කොන්දේසි</string>
+    <string name="setting_smart_relay">ස්මාර්ට් රිලේ</string>
+    <string name="setting_smart_relay_desc">ඔබේ ජංගම උපාංගය අතට ගැනීමෙන් ඔබේ ජංගම උපාංගයෙන් ඔබේ ගියරයේ අන්තර්ගත බලන්න.</string>
+    <string name="setting_smart_toss">ස්මාර්ට් ටෝස්</string>
+    <string name="setting_system">පද්ධතිය</string>
+    <string name="setting_text_to_speech_engine">පෙළ-කථන යන්ත්‍රය</string>
+    <string name="setting_textinput_emoticon">භාවාත්මක අයිකන</string>
+    <string name="setting_textinput_keyboard">යතුරු පුවරුව</string>
+    <string name="setting_textinput_list">පෙළ ආදාන ක්‍රම</string>
+    <string name="setting_textinput_templates">අච්චු</string>
+    <string name="setting_try_it">එය අත්හදා බ.</string>
+    <string name="setting_wake_up">අවදි කිරීමේ ඉඟිය</string>
+    <string name="setting_wake_up_desc">ගියරය ඇති ඔබගේ අත එසවීමෙන් ගියරය අවදි කරන්න.</string>
+    <string name="setting_wakeupgesture">"ගියරය අවදි කිරීමට, ඔබගේ ගියරය සක්‍රිය අත ඔසවා ගියරය හි තිරය දෙස බලා සිටින්න.
+
+ඔබ පසුපසට ඇලවී හෝ දිගාවී සිටින විට මෙම විශේෂාංගය ක්‍රියා නොකරන අතර, එහි චලන සංවේදකය සැම විටම සක්‍රිය නිසා ගියරයෙහි බැටරි බලය වැඩියෙන් පාරිභෝජනය කළ හැක."</string>
+    <string name="setting_wakeupgesture_clock">ඔරලෝසුව</string>
+    <string name="setting_wakeupgesture_previous">අවසන් වරට බැලූ තිරය</string>
+    <string name="setting_wakeupgesture_screen_on">පෙන්වන තිරය තෝරන්න</string>
+    <string name="setting_wakeupgesture_screen_on_ru">පෙන්වන තිරය තෝරන්න</string>
+    <string name="settings">සැකසුම්</string>
+    <string name="settings_application_version">යෙදුම් අනුවාදය</string>
+    <string name="settings_emergency_contact">ප්‍රාථමික සබඳතා කළමනාකරණය කරන්න</string>
+    <string name="settings_emergency_contact_empty">ප්‍රාථමික සබඳතා එක් කර නොමැත. %s සක්‍රිය කිරීමට, ප්‍රාථමික සබඳතා වෙත සබඳතා එක් කරන්න.</string>
+    <string name="settings_legal_information">නෛතික තොරතුරු</string>
+    <string name="settings_message_interval">පණිවුඩ අන්තරය</string>
+    <string name="settings_not_set">සකසා නොමැත</string>
+    <string name="settings_security">ආරක්ෂාව</string>
+    <string name="settings_security_update">ආරක්ෂක යාවත්කාලය</string>
+    <string name="settings_security_update_desc">එහි ආරක්ෂාව සහ සේවාව වැඩිදියුණු කිරීම මගින් හානිකර අන්තර්ගත වලින් ඔබගේ උපාංගය ආරක්ෂා කරන්න.</string>
+    <string name="settings_unknown_sources_dialog">නොදන්නා මූලාශ්‍ර වෙතින් ස්ථාපනය කිරීම ඔබගේ උපාංගයට සහ පුද්ගලික දත්ත වලට හානිකර විය හැක. “හරි” තට්ටු කිරීමෙන් මෙම යෙදුම් භාවිතයෙන් ඔබේ උපාංගයට විය හැකි ඕනෑම හානියක හෝ දත්ත අහිමි වීමක සම්පූර්ණ වගකීම ඔබ සතු බවට ඔබ එකඟ වේ.</string>
+    <string name="settings_unknown_sources_subtitle">නොදන්නා මූලාශ්‍රවලින් එන යෙදුම් ස්ථාපනය කිරීමට ඉඩ දෙන්න.</string>
+    <string name="share_loc_disabled">පිහිටීම බෙදාහදා ගැනීම අක්‍රිය කෙරිණි.</string>
+    <string name="share_location_desc">මගේ ගියර් සොයන්න සහ මගේ උපාංගය සොයන්න යන ඒවාට ඔබගේ ගියර් සහ ජංගම උපාංගයේ පිහිටීම් දත්ත බෙදාහදා ගැනීමට ඉඩ දෙන්න.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">ජංගම දත්ත භාවිතා කළ හැකි බවට සහ හදිසි අවස්ථා වලදී MMS පණිවිඩ යැවිය හැකි බවට මම එකඟ වෙමි. මෙය අතිරේක ගාස්තු වලට හේතු විය හැකි බව මට වැටහෙයි.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. හදිසි අවස්ථා ප්‍රකාරය පරිශීලකයන්ට ඔවුන්ගේ ආසන්න පිහිටීම පිළිබඳ දැනුම්දීම සහ ශ්රව්ය/දෘශ්‍යමය වටපිටාව ඔබ කලින් සැකසූ තෝරාගත් සබඳතාවයක ජංගම දුරකථනය වෙත යැවීමට සහාය දීමට බලාපොරොතුවේ. එය ඔබගේ පහසුව සඳහා පමණක් ලදහැකි අතර අධිකාරීන් වෙත හදිසි ඇමතුම් සඳහා ආදේශකයක් ලෙස බලාපොරොත්තු නොවේ නැතහොත් අදේශකයක් ලෙස නොසැලකිය යුතුය.
+
+2. උපකාර පණිවුඩ යවන්න (“සේවාවන්”) ජාල සම්බන්ධතාවය, GPS/Wi-Fi තොරතුරු ලබාගත හැකිබව, ඔබ/ඔබගේ තෝරාගත් සබඳතාවෙහි උපාංගයේ තත්ත්වය සහ/හෝ ස්වභාවය, බැටරි මට්ටම සහ/හෝ Samsung Electronics Co., Ltd. (“Samsung”, “අපි”, “අප”, “අපේ”)´ පාලනයෙන් තොර වෙනත් අවස්ථාවන් යනාදිය මත පදනම් වෙමින් නිවැරදිව, අඛණ්ඩව හෝ දෝෂ-රහිතව ක්‍රියා නොකළ හැකිය. ඔබගේ වටපිටාව, ඔබගේ උපාංගය සහ ඔබගේ තෝරාගත් සබඳතාවයේ උපාංග තත්වය මගින් පිහිටීම් තොරතුරුවල නිරවද්‍යතාවයට සහ සේවාවන්ගේ කාලානුරූප බෙදාහැරීමට බලපෑම් ඇති විය හැකිය. ප්‍රකාශිතව දක්වා ඇත්නම් හෝ නීතිමය වශයෙන් අවශ්‍යව ඇත්නම් මිස, සේවාවන් නිවැරදිව, අඛණ්ඩව හෝ කවර හෝ දෝෂයක් රහිතව වැඩකරනු ඇත යන්න පිළිබඳ කවර හෝ වගකීමක් Samsung වියාචනය කරයි. ඔබගේ තෝරාගත් සබඳතාව වැඩකරන ජංගම දුරකථනයක් වියයුතුබව සහ උපාංගය ක්‍රියාත්මක කර තිබිය යුතුබව සහ පෙළපණිවුඩ පිළිගැනීමේ හැකියාව තිබිය යුතුබව කරුණාකර සටහන් කරගන්න. ඔබගේ වටපිටාව සහ පිහිටීම් දත්ත හුවමාරු කරගැනීම ඔබගේ සේවා සැපයුම්කරු විසින් නියම කළ ගාස්තු මත පදනම් වෙමින් ඔබට ගාස්තු අය විය හැකිය.
+
+සේවාවන් අදහස් කරන ලද පරිදි ක්‍රියාකිරීම පිණිස, ඔබ විසින් වරක් යෙදවූ, විශේෂාංගය ඔබගේ උපාංගයේ GPS සහ Wi-Fi ක්‍රියාකාරිත්වයන් ස්වයංක්‍රියව ක්‍රියාත්මක කරවීම අවශ්‍ය විය හැකිය. ඔබට වැඩිදුර දැනුම්දීමකින් තොරව හෝ ඔබ විසින් කැමත්ත දීමෙන් තොරව GPS සහ Wi-Fi ක්‍රියාකාරිත්වයන්ගේ (අවශ්‍යනම්), ස්වයංක්‍රිය සක්‍රිය කිරීම ඔබ පිළිගෙන ඊට එකඟ වන්නෙහිය.
+
+3. ඔබ මෙම ක්‍රියාකාරිත්වය අයුතු ලෙස භාවිතා නොකිරීමට හෝ මෙම ක්‍රියාකාරිත්වය කවර හෝ නිත්‍යනුකූල නොවන අරමුණක් සඳහා භාවිතා නොකිරීමට හෝ අන්‍යයන්ගේ රහස්‍යතාවය හෝ කවර හෝ පුද්ගලික හෝ හිමිකම් අයිතියක් කඩකිරීමට යොදා නොගැනීමට පිළිගෙන එකඟ වන්නෙහිය. ඔබගේ මෙම විශේෂාංගය භාවිතය සඳහා ඔබ සම්පූර්ණයෙන්ම වගකීමෙන් බැඳී සිටීමට එකඟ වන්නෙහිය. Samsung ඔබගේ මෙම විශේෂාංගය භාවිතයෙන් හට ගන්නා කවර හෝ ප්‍රතිඵලයක් සඳහා වගකිව යුතු නොවේ.
+
+4. මෙම සේවාවන් ඔබගේ පහසුව සඳහා පමණක් ලැබිය හැකි අතර අධිකාරීන් වෙත හදිසි ඇමතුම් සඳහා ආදේශකයක් ලෙස අදහස් නොකරනු ලැබේ නැතහොත් අදේශකයක් ලෙස නොසැලකිය යුතුය. ප්‍රකාශිතව දක්වා ඇත්නම් හෝ නීතිමය වශයෙන් අවශ්‍යව ඇත්නම් මිස, සේවාවන් නිවැරදිව, අඛණ්ඩව හෝ කවර හෝ දෝෂයක් රහිතව වැඩකරනු ඇත යන්න පිළිබඳ කවර හෝ වගකීමක් Samsung වියාචනය කරයි.
+
+5. ප්‍රතිඥාභාර වියාචනය. ඔබ ප්‍රකාශිතව පහත දේවල් තේරුම් ගෙන එකඟ වන්නෙහිය:
+
+අ). මෙම සේවාවන් පවත්නා තත්ත්වයෙන්, “සියලු දෝෂ සහිතව,” සහ ලැබිය හැකි පරිදි පදනමකින් සපයනු ලැබේ. ඔබ ඒවා භාවිත කිරීමේ අවදානම දරාගන්නෙහිය. SAMSUNG විසින් සේවාවන් යටතේ හෝ සේවාවන් සමබන්ධයෙන් ප්‍රකාශිත ප්‍රතිඥාභාර, ඇපවීම්, කොන්දේසි ලබා නොදේ. SAMSUNG, විකිණීමට සුදුසු බව, සුවිශේෂ පරමාර්ථයක් සඳහා යෝග්‍යතාවය සහ කඩ-නොකිරීම පිළිබඳ කවර හෝ ව්‍යංජිත ප්‍රතිඥාභාර සහ ගනුදෙනු ක්‍රියාමාර්ගයෙන් හෝ කාර්යසාධන ක්‍රියාමාර්ගයෙන් වන කවර හෝ ව්‍යංජිත ප්‍රතිඥාභාර ඇතුළත් නමුත් එයට සීමා නොවී, ප්‍රකාශිත හෝ ව්‍යංජිත හෝ වේවා, කවර හෝ අකාරයක සියලු නියෝජනයන් සහ ප්‍රතිඥාභාර ප්‍රකාශිතවම වියාචනය කරයි.
+
+ආ). ඉහත සඳහන් කළ දේවල් සීමාකිරීමෙන් තොරව, SAMSUNG (i) සේවාවන් ඔබගේ අවශ්‍යතාවයන් ළඟාකර දෙනු ඇතිබව, (ii) සේවාවන් බාධාරහිත, කාලීන, ආරක්ෂිත, හෝ දෝෂ-රහිත බව, (iii) සේවාවෙන් ලබාගත් අන්තර්ගතය හෝ සේවාවන්ගේ ක්‍රියාකාරිත්වය ලැබිය හැකි, නිරවද්‍ය, සම්පූර්ණ හෝ විශ්වසනීය වනු ඇතිබව, (iv) සේවාවන්ගේ ගුණත්වය හෝ සේවාවන් තුළින් ඔබ ලබා ගන්නාලද කවර හෝ තොරතුරක් හෝ වෙනත් ද්‍රව්‍ය ඔබගේ අපේක්ෂාවන් ළඟා කරනු ඇතිබව, හෝ (v)සේවාවන්ගේ කවර හෝ දෝෂයක් හෝ දොසක් නිවැරදි කරනු ලබන බවට කිසිදු නියෝජනයක් හෝ ප්‍රතිඥාභාරයක් නොකරයි.
+
+6. වගකීමේ සීමාව.
+
+අ). (i) ගිවිසුම කඩවීමකින්, ප්‍රතිඥාභාර කඩවීමකින්, ඇපවීමකින් හෝ නියමයකින් හෝ දැඩි වගකීමකින්, නොසැලකිල්ලකින්, හෝ අදාළවන නීතිය මගින් අවසරදී ඇතිතාක් වෙනත් සිවිල් වරදකින්; (ii) ඔබගේ භාවිතය හෝ සේවාවන් භාවිතයට ඔබගේ නොහැකියාවකින්, (iii) ආදේශක සේවාවන්ගේ ප්‍රසම්පාදනයකින්; (iv) ඔබගේ සම්ප්‍රේෂණ හෝ දත්ත වෙත අනුමැතිය නොලත් ප්‍රවේශයකින් හෝ වෙනස් කිරීමකින්; (v) කවර හෝ තෙවන පාර්ශ්වයකගේ ප්‍රකාශයකින් හෝ හැසිරීමකින්; (vi) මෙම ගිවිසුමෙන්; (vii) පුද්ගලයකුට හෝ දේපළකට අලාභ හානි වීමකින් (මරණයකින් ඇතුඵව), හෝ (viii) සේවාවන් වෙත හෝ සේවාවන් තුළින් සපයන ලද අන්තර්ගත වලට සම්බන්ධිත වෙනත් කවර හෝ කාරණයකින් සෘජුව හෝ වක්‍රාකාරව ප්‍රතිඵලවන හෝ ඒවායින් හටගන්නා: ලාභ අහිමිවීම, භාවිතය අහිමිවීම හෝ වෙනත් අලාභ (අළුත්වැඩියාව, ප්‍රතිස්ථාපනය හෝ සේවාවන් සඳහා ආපසු ගෙවීමක් ඔබට කවර හෝ අලාභයක් සම්පූර්ණයෙන් හානිපූරණය නොකරන විටදී පවා හෝ එවැනි අලාභයක්, වගකීමක්, හානියක් හෝ වියදමක් SAMSUNG දැනගෙන සිටියේ නම් හෝ දැනගත යුතුව තිබුනි නම්), ඇතුළු වන මුත් ඒවායෙන් සීමිත නොවී නොසැලකිල්ල පිළිබඳ න්‍යායයක් යටතේ, කවර හෝ සෘජු, වක්‍රාකාර, විශේෂ, දණ්ඩනීය, අනුෂංගික හෝ නිදර්ශනාත්මක අලාභයකට, වගකීමකට, හානියකට හෝ වියදමකට SAMSUNG වගකිව නොවිය යුතුවන බව ඔබ ප්‍රකාශිතව අවබෝධ කරගෙන එකඟ වන්නෙහිය.
+
+ආ). මෙම ගිවිසුමට හෝ සේවාවන් වලට සම්බන්ධ ඔබගේ SAMSUNG සමග ඇති කවර හෝ ආරවුලක් සඳහා එකම සහ පරම පිළියම සේවාවන් භාවිතය නතර කිරීමයි.
+
+ඇ). සමහර අධිකරණ බලප්‍රදේශ නිශ්චිත ප්‍රතිඥාභාර හෝ අනියම් හෝ අනුෂංගික හානි සඳහා වගකීමේ සීමාකිරිම් හෝ බැහැරකිරීම සඳහා ඉඩනොදේ. ඒ අනුව, ඉහත වගන්ති 5 සහ 6හි සඳහන් සමහර සීමාකිරීම් ඔබට අදාළ නොවිය හැකිය.
+
+7. හානිපූරණයකිරීම. ඔබගේ සේවාවන් භාවිතයෙන් හෝ මෙම ගිවිසුමට ඔබ විසින් අනුකූල වීමට අපොහොසත්වීම හේතුවෙන් හටගන්නා හෝ ඊට සම්බන්ධ කවර හෝ හිමිකම් පෑම්, ක්‍රියා, ඉල්ලීම්, පිරිවැය, පාඩු, හානි, දඩ සහ වියදම් (සාධාරණ නීතිඥ ගාස්තු සහ පිරිවැය ඇතුළත්ව) වලින් සහ ඊට එදිරිව Samsung නිදොස්බව පිළිගැනීමට, හානිපූරණය කිරීමට සහ ආරක්ෂා කිරීමට ඔබ එකඟ වන්නෙහිය. මෙම නියම සහ කොන්දේසි යටතේ ඔබවෙත ප්‍රදානය කළ බලපත්‍රවල පුද්ගලික ස්වභාවය නොසලකා, ඔබ කවර හෝ තනි පුද්ගලයකුට සේවාවන් භාවිතයට ඉඩ දෙන්නේ නම්, හෝ සේවාවන් හරහා ලැබුණු කවර හෝ තොරතුරක් කවර හෝ තනි පුද්ගලයකු වෙත සපයන්නේ නම්, ඔබ එම තනි පුද්ගලයාහට, එම තනි පුද්ගලයා වගකීමේන් බැඳිය යුතු, මෙම නියම සහ කොන්දේසිවල පැවැත්ම සහ විධිවිධාන දැනුම් දීමට, සහ එම තනි පුද්ගලයා සේවාවන් භාවිතයට සම්බන්ධ කවර හෝ හිමිකම්පෑමක් හෝ සියලුහිමිකම්පෑම්, ක්‍රියා, ඉල්ලීම්, ගාස්තු, පාඩු, හානි, දඩ සහ වියදම් (සාධාරණ නීතිඥ ගාස්තු සහ පිරිවැය ඇතුළත්ව) වලින් Samsung නිදොස්බව පිළිගැනීමට, හානිපූරණය කිරීමට සහ ආරක්ෂා කිරීමට ඔබ එකඟ වන්නෙහිය.
+
+8. අනිවාර්යය බලය. ස්වාභාවික විපත්, සිවිල් හෝ හමුදාමය බලය, යුද්ධ, ත්‍රස්තවාදි ක්‍රියා, කම්කරු ආරවුල්, තෙවන පාර්ශ්ව විසින් සපයන ලද ද්‍රව්‍ය හෝ සේවාවන්, හෝ Samsungහි සාධාරණ පාලනයෙන් පිට කවර හෝ හේතුවකින් ප්‍රතිඵල වන මෙම නියම සහ කොන්දේසි හෝ සේවාවන්ගේ ඇණහිටීමක් යටතේ වන කවර හෝ ප්‍රමාදයක් හෝ ක්‍රියාකාරීත්වයේ ඇණහිටීමක් සඳහා Samsung වගකිවයුතු නොවන්නේය."</string>
+    <string name="shm_share_my_location_checkbox_text">මම මාගේ %2$s සබඳතා සමග %1$s බෙදාහදා ගැනීමට ඉඩ දීමට එකඟ වෙමි.</string>
+    <string name="smartrelay_not_show">නැවත නොපෙන්වන්න</string>
+    <string name="software_update">මෘදුකාංග යාවත්කාලීන කිරීම</string>
+    <string name="ss_double_tap_any_screen">දීප්තිය, හඬ පාලන, සහ වෙනත් ප්‍රයෝජනවත් තොරතුරු බැලීමට, ඕනෑම තිරයක් ඇඟිලි දෙකකින් ද්විතට්ටු කරන්න.</string>
+    <string name="ss_forwarding_calls_to_gear_header">ඔබගේ ගියර් වෙත ඇමතුම් යොමු කිරීම</string>
+    <string name="ss_forwarding_calls_to_gear_progress">ඉල්ලමින්…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">සැකසුම් කියවමින්…</string>
+    <string name="ss_loading_ing_abb">බාගනිමින්…</string>
+    <string name="ss_mobile_data_is_disabled">ජංගම දත්ත අක්‍රියයි. ඒ වෙනුවට WLAN වෙත සබඳින්න, හෝ ජංගම දත්ත සක්‍රිය කර නැවත උත්සාහ කරන්න.</string>
+    <string name="ss_mobile_data_is_disabled2">ජංගම දත්ත අක්‍රියයි. ඒ වෙනුවට Wi-Fi ජාලයකට සම්බන්ධ වන්න, නැතහොත් නැවතත් ජංගම දත්ත ක්‍රියාත්මක කර උත්සාහ කරන්න.</string>
+    <string name="ss_no_network_connection">ජාල සම්බන්ධතා නොමැත</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">පරිශීලක අත්පොත</string>
+    <string name="str_no">ස්තුති එපා</string>
+    <string name="str_yes">ඔව්</string>
+    <string name="stub_list_install">ස්ථාපනය කරන්න</string>
+    <string name="sw_eula_condition">මා ඉහත නියමයන් සහ කොන්දේසි වටහා ගත් අතර ඒ හා එකඟ වෙමි.</string>
+    <string name="sw_eula_desc2">ඔබේ උපාංගය අත්විඳින සියළු මෘදුකාංග යාවත්කාලීන බිඳවැටීම් හා සම්බන්ධ දෝෂ වාර්තා සැම්සුං වෙත සැපයීමට ඔබ එකඟ වෙයි. මෙය සැම්සුං හ‍ට සැම්සුං හි මෘදුකාංග යාවත්කාලීන ක්‍රියාවලීන් වැඩිදියුණු කිරීමට ඉවහල් වන අතර අවසානයේ ඔබට ඔබේ උපාංගය නිසි ලෙස යාවත්කාලීනව තබා ගැනීමට උපකාර වේ.</string>
+    <string name="tab_stub_list">විශේෂාංග</string>
+    <string name="talkback_download">බාගන්න</string>
+    <string name="talkback_setting">සැකසුම</string>
+    <string name="the_samsung_gear_application">සැම්සුං ගියර් යෙදුම</string>
+    <string name="threeg_connection">දුරස්ථ සබැඳුම භාවිතා ක.</string>
+    <string name="threeg_connection_subtitle">ජංගම දත්ත හෝ Wi-Fi ඔබගේ Samsung account සමග එක්ව භාවිතා කිරීමෙන්, ඔබගේ ගියරය වෙත දුරස්ථව සබඳින්න.</string>
+    <string name="threeg_connection_subtitle_chn">ජංගම දත්ත හෝ WLAN ඔබේ Samsung account සමග එක්ව භාවිතා කිරීමෙන්, ඔබේ ගියරයට දුරස්ථව සබඳින්න.</string>
+    <string name="title_activity_clock_delete">අස්ථාපනය කරන්න</string>
+    <string name="title_activity_connect_popup">සම්බන්ධ වන්න</string>
+    <string name="title_activity_paired_watch">යුගලිත උපාංගය</string>
+    <string name="title_alertdialog_device_name_popup">%s යළි නම් කිරීම</string>
+    <string name="title_alertdialog_disconnect_popup">විසන්ධි කරන්න</string>
+    <string name="title_dialog_pm_error">අනතුරු ඇඟවීම</string>
+    <string name="title_dialog_uninstall">අස්ථාපනය කරන්න</string>
+    <string name="title_eula">නීතිමය දැන්වීම්</string>
+    <string name="title_findmywatch_connect2">මගේ ගියරය සොයන්න</string>
+    <string name="title_findmywatch_finding">සොයමින්…</string>
+    <string name="tri_connect_title_circle_to_gear">%2$s වෙත %1$s සබඳින්න</string>
+    <string name="tri_connect_warning_temporal_disconnect">ඔබේ %1$s බ්ලූටූත් ඔස්සේ ඔබේ %2$s වෙත සම්බන්ධ කිරීමෙන් ඔබේ %3$s ඔබේ ජංගම උපාංගයෙන් තාවකාලිකව විසන්ධි කරනු ඇත. මෙම සබැඳුම මොහොතකින් යළි ඇරඹෙනු ඇති අතර ඔබේ %4$s ඉන්පසු ඔබේ %5$s හා ඔබේ ජංගම උපාංගය යන දෙකටම සම්බන්ධ වනු ඇත.</string>
+    <string name="tt_install_voice_data">TTS හඬ දත්ත ස්ථාපිත කරන්න</string>
+    <string name="tt_install_voice_data_required">ඔබේ ගියරයෙහි අතිරේක පෙළ කථනයට භාෂා ස්ථාපනය කරන්න.</string>
+    <string name="tt_language">භාෂාව</string>
+    <string name="tt_send_help_message">උපකාර පණිවුඩ යවන්න</string>
+    <string name="tt_tts_language_guide">ඔබගේ පෙළෙ-කථනයට භාෂාව ඔබ ඔබගේ ගියර් සැකසුම්වල සැකසූ භාෂාව වේ. ඔබගේ භාෂාවට පෙළෙ-කථනයට යාන්ත්‍රණය මගින් සහාය නොදක්වයි නම් ඉංග්‍රීසි (එක්සත් රාජධානිය) භාවිතා කරනු ඇත.</string>
+    <string name="unable_to_connect_popup_message">ඔබගේ ගියර් ඔබගේ ජංගම උපාංගයට සබැඳීමට අසමත් විය. පසුව නැවත උත්සාහ කරන්න.</string>
+    <string name="unable_to_connect_popup_title">සම්බන්ධතාව අසාර්ථකයි</string>
+    <string name="unable_to_lock_gear">ගියරය අගුලු දැමිය නොහැකිය</string>
+    <string name="unable_to_reset_gear">ගියරය යළි සැකසිය නොහැකිය</string>
+    <string name="unabled_health">අක්‍රිය කර ඇති නිසා මෙම යෙදුම විවෘත කළ නොහැක.</string>
+    <string name="uninstall_applications">යෙදුම් අස්ථාපනය කරන්න</string>
+    <string name="unknown_sources_msg_new">%2$s හරහා %1$s ස්ථාපනය නොවනු ඇත. ඔබගේ උපාංගය සහ පුද්ගලික දත්ත නොදන්නා මූලාශ්‍ර වෙතින් වන යෙදුම්වලින් වන ප්‍රහාරවලට වඩාත් ලක් වේ. ඔබගේ උපාංගයට වන ඕනෑම හානියකට හෝ මෙම යෙදුම් භාවිත කිරීමෙන් ඇති විය හැකි දත්ත අහිමි වීමකට ඔබ තනිකරම වගකියන බවට ඔබ එකඟ වේ. නොදන්නා මූලාශ්‍ර වෙතින් වන යෙදුම් සෑම විටම ස්ථාපනය කිරීමට, %3$s > %4$s > %5$s වෙත ගොස්, %6$s සක්‍රිය කරන්න. %7$s ස්ථාපනය කිරීමට “හරි” තට්ටු කරන්න.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s %2$s වෙතින් නොවේ, සහ එහි ඔබේ ගියර් සඳහා යෙදුමක් අඩංගු නොවේ. ඔබේ උපාංගය හා දත්ත නොදන්නා මූලාශ්‍ර වෙතින් වන යෙදුම් මඟින් ප්‍රහාර එල්ල වීමට වැඩි අවදානමක ඇත. ස්ථාපනය අවලංගු කෙරෙනු ඇති අතර %3$s ඔබේ දුරකථනයෙන් මැකෙනු ඇත.</string>
+    <string name="unknown_sources_title">නොදන්නා ප්‍රභව</string>
+    <string name="update_button">යාවත් කර.</string>
+    <string name="update_summary">යාවත්කාල සඳහා පරීක්ෂා කරන්න</string>
+    <string name="update_the_latest_version">යාවත්කාලයක් ඇත</string>
+    <string name="voice_control_subtitle">ඇමතුම්වලට පිළිතුරු දීම හෝ ප්‍රතික්ෂේප කිරීමට, ඔබගේ ගියරය නාද හෝ දෙදරීමක් නොවන විට විරාමයන් අතරතුර, “Answer” හෝ “Reject” යැයි පවසන්න.</string>
+    <string name="voicememo_link2">සැම්සුං පෞද්ගලිකත්ව ප්‍රතිපත්තිය</string>
+    <string name="watchapp_all">යෙදුම්</string>
+    <string name="watchapp_noapps">යෙදුම් නැත</string>
+    <string name="welcome_Gear">ගියර්</string>
+    <string name="welcome_samsung">සැම්සුං</string>
+    <string name="widget_bt">බ්ලූටූත්</string>
+    <string name="widget_fmw_refresh">නැවුම්කරණය කරමින්…</string>
+    <string name="wifi_only">Wi-Fi පමණයි</string>
+    <string name="wifi_only_chn">WLAN පමණි</string>
+    <string name="wifi_only_summary">Wi-Fi ජාලයක් වෙත සබැඳි විට පමණක් යාවත්කාලීන බාගන්න.</string>
+    <string name="wifi_only_summary_chn">WLAN ඔස්සේ සම්බන්ධිත විට පමණක් බාගත හැකිය.</string>
+    <string name="email_sanitize">ආරක්ෂක හේතු නිසා මෙම ඊමේලයෙහි අන්තර්ගතය ගියරය මත සංදර්ශනය කළ නොහැක. විස්තර සඳහා, ඔබගේ ජංගම උපාංගය මත මෙම ඊමේලය බලන්න.</string>
+    <string name="knox_sanitize">KNOX ප්‍රකාරයට ඇතුළු වීමට මෙතැන තට්ටු කරන්න.</string>
+</resources>

@@ -1,0 +1,8 @@
+Samsung-tangentbord och användning av en talidentifieringstjänst
+1. Tjänsten Samsung-tangentbord använder talidentifieringsteknik som en del av översättningstjänsten. Du bekräftar att Samsung får använda en talidentifieringstjänst (”Talidentifieringstjänsten”) från en tredje part, Nuance Communications Inc. (”Nuance”), och du bekräftar och samtycker till följande i samband med din användning av tjänsten Samsung-tangentbord.
+2. Du förbinder dig att inte skicka några automatiska eller inspelade begäran till tjänsten Samsung-tangentbord.
+3. Du samtycker till att de ord du dikterar för tjänsten Samsung-tangentbord (inklusive ljudinspelningar av sådana ord, tillhörande transkriptioner och loggfiler) (”Taldata”) samlas in av Nuance i syfte att tillhandahålla talidentifieringstjänsten.
+4. Du samtycker till att Nuance i samband med tillhandahållandet av talidentifieringstjänsten får samla in taldata, och till att taldata får användas av Nuance och dess tredjepartspartner för att justera och förbättra (a) talidentifieringstjänsten och (b) Nuances andra produkter och tjänster.
+5. Du samtycker till att dina taldata får överföras till USA och/eller andra länder för lagring, bearbetning och användning av Nuance och dess tredjepartsleverantörer.
+6. Alla taldata som du tillhandahåller hanteras konfidentiellt och används i enlighet med gällande lag, men kan avslöjas av Nuance om det krävs för att uppfylla krav i lag eller förordning, inklusive enligt domstolsbeslut eller till en myndighet om det krävs eller auktoriseras enligt lag, eller till en tredje part som köper eller slås ihop med Nuance.
+

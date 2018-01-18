@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/CallCategory" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/CallForWardingLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forwarding" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_system" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingLegalInformationLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_legal_information" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingsGearManagerVersion" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/settings_application_version" custom:subtext="@string/settings_application_version" />
+        <include layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

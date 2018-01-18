@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">%1$s འདི་ཁྱེད་ཀྱི་ཁ་པར་སྒྲིག་ཆས་ནས་སྒྲིག་འཇུག་མ་བྱེད་ཤག། ཁྱེད་ཀྱི་ Gear ནང་གི་ %2$s ལག་ལེན་འཐབ་ནིའི་དོན་དུ་ %1$s འདི་ཁྱེད་ཀྱི་ཁ་པར་སྒྲིག་ཆས་ནང་ཕབ་ལེན་བྱས།</string>
+    <string name="attention_popup_title">ཡིད་གཟབ།</string>
+    <string name="menu_samsung_health">三星健康</string>
+    <string name="sa_email">གློག་རྡུལ་འཕྲིན་ཡིག</string>
+    <string name="shealth_menu">Sབདེ་ཐང་།</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:id="@id/SecurityParentLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginTop="@dimen/manager_winset_list_top_margin" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/WatchSettingsUnkownSources" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/unknown_sources_title" custom:subtext="@string/settings_unknown_sources_subtitle" />
+        <include android:id="@id/SecurityCategoryDivide" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/SettingSecurityLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/settings_security_update" custom:subtext="@string/settings_security_update_desc" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/GearAboutXMLLoadLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/callforward_xml_load" />
+        <include android:id="@id/xmlLoadDivider" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/GearAboutXMLSaveLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/callforward_xml_save" />
+        <include android:id="@id/xmlSaveDivider" layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

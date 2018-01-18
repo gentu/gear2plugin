@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">அழைப்பின் பொழுது கிடைப்பதில்லை.</string>
+    <string name="actionbar_name">கியர் மேலாளர்</string>
+    <string name="alert_full_screen">முழுத் திரை பாப்-அப்</string>
+    <string name="alert_mini">மினி பாப்-அப்</string>
+    <string name="alertdialog_backkey_popup_content">எச்சரிக்கை</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">இது %s-வுடனான உங்கள் இணைப்பை முடிக்கும்.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">உங்கள் மொபைல் சாதனத்தில் இருந்து %s துண்டிக்கப்படும். இந்தச் சாதனங்களை நீங்கள் அடுத்த முறை இணைக்கும்போது, நீங்கள் ப்ளூடூத்தைப் பயன்படுத்த வேண்டும். அதன்பிறகு இணைப்புகளை ரிமோட் இணைப்பு வழியே இணைக்கலாம்.</string>
+    <string name="alertdialog_uninstall_popup_content">நிறுவல்நீக்குக</string>
+    <string name="app_name_samsung_gear">சாம்சங் கியர்</string>
+    <string name="auto_call_forwarding">தானாக அழை. முன்னனுப்பல்</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">உங்கள் கியர், உங்கள் மொபைல் சாதனத்தில் இருந்து துண்டுக்கப்படும்போது, அழைப்பு முன்னனுப்பலைத் தானாகச் செயல்படுத்தவும். சாதனங்கள் மீண்டும் இணைக்கப்படும்வரை, உள்வரும் அழைப்புகளை உங்கள் மொபைல் சாதனத்தில் இருந்து உங்கள் கியருக்கு முன்னனுப்பும்.</string>
+    <string name="auto_update">தானியங்கு புதுப்பிப்பு</string>
+    <string name="auto_update_summary">தானாக புதுப்பித்தல்கள் காண்க.</string>
+    <string name="backing_up">பின்சேமிக்கிறது…</string>
+    <string name="backup_complete">பின்சேமிப்பு முடிந்தது.</string>
+    <string name="bnr_backup">பின்சேமிக்கிறது…</string>
+    <string name="bnr_bakcup_title">பின்சேமிப்பு</string>
+    <string name="bnr_cancel">ரத்து</string>
+    <string name="bnr_canel">ரத்து</string>
+    <string name="bnr_except">%1$s (%2$s தவிர)</string>
+    <string name="bnr_except_autolock">தானியங்கு பூட்டு</string>
+    <string name="bnr_except_remoteconnection">ரிமோட் இணைப்பு</string>
+    <string name="bnr_except_texttemplate">உரை டெம்ப்ளேட்கள்</string>
+    <string name="bnr_no">இல்லை</string>
+    <string name="bnr_ok">சரி</string>
+    <string name="bnr_reset_gear">புதிய சாதனத்தை இணைக்க கியரானது அதன் ஃபேக்டரி அமைவுகளுக்கு ரீசெட் செய்யப்படும்.</string>
+    <string name="bnr_reset_gear_move_setupwizard">கியர் முழுமையாக அமைக்கப்படவில்லை. அமைவு வழிகாட்டி தற்போது கியரில் திறந்துள்ளது ஆனால் கியருடன் இணைக்க, இந்தச் சாதனத்திலும் கியர் மேலாளரில் அமைவு வழிகாட்டியை நீங்கள் திறக்க வேண்டும்.</string>
+    <string name="bnr_reset_initialization">அறிவிப்பு</string>
+    <string name="bnr_restored">தரவு மீட்கப்பட்டது.</string>
+    <string name="bnr_yes">ஆம்</string>
+    <string name="bt_connected">இணைக்கப்பட்டது</string>
+    <string name="bt_disconnected">துண்டிக்கபட்டது</string>
+    <string name="bt_unpaired">இணை. நீக்கப்பட்டது</string>
+    <string name="button_restore">மீட்டமை</string>
+    <string name="call">அழைப்பு</string>
+    <string name="call_check_gear_status_when_cfwd">மொபைலில் இருந்து கியர் மற்றும் கியரில் இருந்து மொபைல் போன்ற அழைப்பு முன்னனுப்பல் செயல்பாடுகளை ஒரே நேரத்தில் செயல்படுத்த இயலாது.</string>
+    <string name="call_dualsim1">SIM அட்டை 1</string>
+    <string name="call_dualsim1sim2">இரு SIM அட்டைகளும்</string>
+    <string name="call_dualsim2">SIM அட்டை 2</string>
+    <string name="call_forwarding">அழைப்பு முன்னனுப்புதல்</string>
+    <string name="call_forwarding_agree">நான் ஏற்கிறேன்</string>
+    <string name="call_forwarding_desc">உள்வரும் அழைப்புகளை உங்கள் மொபைல் சாதனத்திலிருந்து உங்கள் கியருக்கு முன்னனுப்பவும்.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">உங்கள் மொபைல் சாதனத்திலிருந்து உங்கள் கியருக்கு அழைப்பு முன்னனுப்பலைச் செயல்நீக்குமாறு கோரிக்கை விடப்பட்டுள்ளது. உங்கள் மொபைல் நெட்வொர்க் மற்றும் மொபைல் சாதனத்தின் நிலையைப் பொருத்து இதன் முடிவுகள் அமையலாம்.</string>
+    <string name="call_forwarding_enable_msg">உங்கள் மொபைல் சாதனத்திலிருந்து உங்கள் கியருக்கு அழைப்பு முன்னனுப்பலைச் செயல்நீக்குமாறு கோரிக்கை விடப்பட்டுள்ளது. உங்கள் மொபைல் நெட்வொர்க் மற்றும் மொபைல் சாதனத்தின் நிலையைப் பொருத்து இதன் முடிவுகள் அமையலாம்.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">உங்கள் மொபைல் சாதனத்தில் இருந்து உங்கள் கியருக்கு அழைப்பு முன்னனுப்புதல் தற்போது செயல்படுத்தப்படுகிறது. உங்கள் மொபைல் சாதனத்திற்கு உள்வரும் அழைப்புகள் உங்கள் கியருக்கு முன்னனுப்பப்படும். உங்கள் கியர் உங்களிடம் இல்லை என்றால், நீங்கள் அழைப்பை தவறவிடுவதில்லை என்பதை உறுதிசெய்ய, அமைவுகள் என்பதற்குச் சென்று, அழைப்புகளைத் தானாக முன்னனுப்பவும் என்பதைச் செயல்நீக்கவும்.</string>
+    <string name="call_forwarding_turning_off_notify_msg">குரல் அழைப்பு முன்னனுப்பல் செயல்நீக்குகிறது…</string>
+    <string name="call_forwarding_turning_on_notify_msg">குரல் அழைப்பு முன்னனுப்பல் செயல்படுத்துகிறது…</string>
+    <string name="call_no_gear_number">எண்கள் இல்லை</string>
+    <string name="call_select_dualsim_title">SIM அட்டை தேர்வுசெய்க</string>
+    <string name="call_voice_control">குரல் கட்டுப்பாடு</string>
+    <string name="callforwarding_help_des1">உங்கள் சாதனங்கள் ப்ளூடூத் அல்லது ரிமோட் இணைப்பு வழியே இணைக்கப்பட்டுள்ளனவா என்பதைப் பொறுத்து, அழைப்புகள் தானாக முன்னனுப்ப சாதனத்தை அமைக்கவும்.</string>
+    <string name="callforwarding_help_des2">நீங்கள் நகர்ந்துகொண்டும் கியரை அணிந்துகொண்டும் இருக்கும்போது மற்றும் அது தொலைதூரத்திலிருந்தே மொபைல் சாதனத்திற்கு இணைக்கப்படும்போது, உங்கள் மொபைல் சாதனத்திற்கு வரும் அழைப்புகளை உங்கள் கியரில் பெறுமாறு அமைக்கப்பட்டது.</string>
+    <string name="cancel">ரத்து</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">அழைப்பு முன்னனுப்பலைச் செயல்நீக்குவது தோல்வியுற்றது.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">மேலும் கடிகாரம். பதிவிறக்குக</string>
+    <string name="clocks_noti_uninstall_clock">%s நிறுவல் நீக்கப்படும்.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s நிறுவல் நீக்கப்பட்டு %2$s டீஃபால்ட் கடிகாரமாக அமைக்கப்படும்.</string>
+    <string name="clocks_title_basic_clocks">அடிப்படை கடிகாரங்கள்</string>
+    <string name="clocks_title_downloaded_clocks">கடிகாரங்களை பதிவிறக்குக</string>
+    <string name="clocks_title_style_clocks">ஸ்டைல் கடிகாரங்கள்</string>
+    <string name="clocks_uninstalled">நிறுவல்நீக்கப்பட்டது.</string>
+    <string name="clocks_uninstalling">நிறுவல் நீக்குகிறது…</string>
+    <string name="close">மூடுக</string>
+    <string name="closing_samsung_gear_message">உங்கள் கியர் ரீசெட் செய்யப்பட்டுள்ளது. சாம்சங் கியர் பயன்பாடு விரைவில் மூடப்படும்.</string>
+    <string name="closing_samsung_gear_title">சாம்சங் கியர் பயன்பாட்டை மூடவும்</string>
+    <string name="cloud_backup_no_information">இல்லை</string>
+    <string name="cloud_backup_restore_backup_now">தரவை பின்சேமிக்கவும்</string>
+    <string name="cloud_backup_restore_restore_now">தரவை மீட்கவும்</string>
+    <string name="cmw_agree">நான் ஏற்கிறேன்</string>
+    <string name="cmw_eula_agree">மேற்கூறிய விதிகள் மற்றும் நிபந்தனைகளைப் புரிந்துகொண்டு அவற்றை ஏற்கிறேன்.</string>
+    <string name="cmw_for_setting">இட சேவைகள் செயல்நீக்கப்பட்டுள்ளது. அமைவுகளுக்குச் செல்லவும்.</string>
+    <string name="cmw_high_accuracy_dialog_message">வேகமான மற்றும் மிகச் சரியான இடத்தைக் கண்டறிவதற்கு, இடம் > முறை என்பதில் உயர் துல்லியம் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="cmw_high_accuracy_dialog_title">அதிக துல்லியத்தை தேர்க</string>
+    <string name="cmw_legal_content">“இருப்பிடத்தைப் பகிரவும்” என்பதைச் செயல்படுத்துவதன் மூலம், எனது கியரைத் தேடவும் &amp; எனது சாதனம் தேடவும் சேவைகளை வழங்க, உங்கள் மொபைல் ஃபோன் மற்றும்/அல்லது கியர் சாதனத்துடன் தொடர்புடைய இருப்பிடத் தரவு சாம்சங் வழங்கி வழியாக அனுப்பப்படும் என்பதை ஏற்றுக்கொள்கிறீர்கள். சாம்சங் வழங்கியில் உங்கள் சாதன இருப்பிடம் பற்றிய தரவு அல்லது விவரம் சேமிக்கப்படாது.</string>
+    <string name="cmw_legal_content1">\"%1$s &amp; %2$s\" ஆகியவற்றைச் செயல்படுத்துவதன் மூலம், %1$s &amp; %2$s சேவைகளை வழங்க, உங்கள் மொபைல் ஃபோன் மற்றும்/அல்லது கியர் சாதனத்துடன் தொடர்புடைய இருப்பிடத் தரவு சாம்சங் வழங்கி வழியாக அனுப்பப்படும் என்பதை ஏற்றுக்கொள்கிறீர்கள். சாம்சங் வழங்கியில் உங்கள் சாதன இருப்பிடம் பற்றிய தரவு அல்லது விவரம் சேமிக்கப்படாது.</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s &amp; %2$s\" ஆகியவற்றைச் செயல்படுத்துவதன் மூலம், %2$s சேவையை வழங்க, உங்கள் மொபைல் ஃபோனுடன் தொடர்புடைய இருப்பிடத் தரவு சாம்சங் வழங்கி வழியாக அனுப்பப்படும் என்பதை ஏற்றுக்கொள்கிறீர்கள். சாம்சங் வழங்கியில் உங்கள் சாதன இருப்பிடம் பற்றிய தரவு அல்லது விவரம் சேமிக்கப்படாது.</string>
+    <string name="cmw_legal_content_2">சாம்சங் தனிப்பயன் கொள்கை</string>
+    <string name="cmw_legal_title">சட்டபூர்வ அறிவிப்புகள்</string>
+    <string name="cmw_location">இருப்பிடச் சேவைகளை இயலச்செய்க</string>
+    <string name="cmw_show_on_map">வரைபடத்தில் காட்டவும்</string>
+    <string name="color_black">கருப்பு</string>
+    <string name="color_blue">நீலம்</string>
+    <string name="color_brown">பழுப்பு</string>
+    <string name="color_gray">க்ரே</string>
+    <string name="color_green">பச்சை</string>
+    <string name="color_light_sky_blue">வெளிர் வான் நீலம்</string>
+    <string name="color_medium_purple">மிதமான பர்பிள்</string>
+    <string name="color_orange">ஆரஞ்சு</string>
+    <string name="color_pink">இளஞ்சிவப்பு</string>
+    <string name="color_purple">பர்பிள்</string>
+    <string name="color_red">சிகப்பு</string>
+    <string name="color_spring_green">ஸ்பிரிங் பச்சை</string>
+    <string name="common_none">ஒன்றுமில்லை</string>
+    <string name="common_off">ஆஃப்</string>
+    <string name="common_on">ஆன்</string>
+    <string name="common_recent_apps">சமீப. பயன்பாடுகள்</string>
+    <string name="connect_popup_content">%s உடன் இணைகிறது…</string>
+    <string name="connected_by_trasport_BT">ப்ளூடூத் வழியாக இணைக்கப்பட்டது</string>
+    <string name="connected_by_trasport_SCS">ரிமோட் முறையில் இணைக்கப்பட்டது</string>
+    <string name="connecting_popup_message">கியருடன் இணைக்கிறது…</string>
+    <string name="connecting_popup_title">கியருடன் இணை.</string>
+    <string name="dialog_check_phone_number_msg1">பின்வரும் விவரங்கள் சரியா என்பதை உறுதிசெய்யவும்:</string>
+    <string name="dialog_check_phone_number_msg2">மொபைல் ஃபோன் எண்: %s</string>
+    <string name="dialog_check_phone_number_msg3">கியர் ஃபோன் எண்: %s</string>
+    <string name="dialog_check_phone_number_msg4">தானியக்க அழைப்பு முன்னனுப்புதலைச் செயல்படுத்த உறுதிசெய்ய சரி என்பதை டேப் செய்யவும்.</string>
+    <string name="dialog_enable_remote_connection_desc">தானியக்க அழைப்பு முன்னனுப்புதலைச் செயல்படுத்த, ரிமோட் இணைப்பைச் செயல்படுத்தி, பிறகு மீண்டும் முயலவும்.</string>
+    <string name="dialog_enable_remote_connection_title">ரிமோட் இணைப்பைச் செயல்படுத்தவும்</string>
+    <string name="dialog_reverse_msg">உங்கள் சேவை வழங்குநரை பொறுத்து, இந்த அம்சத்தை பயன்படுத்த உங்கள் மொபைல் சாதனம் மற்றும் கியரை அனுமதிக்க வேறு ஒரு சந்தாப்படுத்தல் தேவைப்படலாம். இது கூடுதல் கட்டணங்களுக்கு உட்படக்கூடும்.</string>
+    <string name="dialog_set_phone_number_msg">தானியக்க அழைப்பு முன்னனுப்புதலைச் செயல்படுத்த, உள்வரும் அழைப்புகளை நீங்கள் முன்னனுப்ப மற்றும் பெற விரும்புகிற சாதனங்களின் ஃபோன் எண்களை அமைக்கவும்.</string>
+    <string name="dialog_set_phone_number_title">தானி. அழை. முன்னனு. செ.படு.</string>
+    <string name="disable_loc_text">இருப்பிடம் பகிரவும் என்பது செயல்நீக்கப்படும். எனது கியரைத் தேடுக அல்லது எனது சாதனம் தேடவும் என்பதன் வழியே உங்கள் கியர் அல்லது மொபைல் சாதனத்தைத் தேட, நீங்கள் இருப்பிட விவரத்தைப் பயன்படுத்த இயலாது.</string>
+    <string name="disable_loc_text_no_gps">இருப்பிடம் பகிரவும் என்பது செயல்நீக்கப்படும். எனது சாதனத்தைத் தேடுக என்பதன் வழியே உங்கள் மொபைல் சாதனத்தைத் தேட, இருப்பிட விவரத்தைப் பயன்படுத்த இயலாது.</string>
+    <string name="disable_remote_connection">ரிமோட் இணைப்பை செயல்நீக்கு</string>
+    <string name="disable_remote_connection_fmm_fmd">எனது கியர் தேடவும் மற்றும் எனது சாதனம் தேடவும்</string>
+    <string name="disable_remote_connection_receiving_blocked">மொபைல் சாதனத்திலிருந்து தகவல்கள், மின்னஞ்சல்கள் மற்றும் அறிவிப்புகளைப் பெறுதல்</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">மொபைல் சாதனத்திலிருந்து மின்னஞ்சல்கள் மற்றும் அறிவிப்புகளைப் பெறுதல்</string>
+    <string name="disable_remote_connection_warning">ரிமோட் இணைப்பு செயல்நீக்கப்படும். மீண்டும் ப்ளூடூத் வழியே உங்கள் மொபைல் சாதனத்திற்கு உங்கள் கியர் இணைக்கப்படும் வரை, பின்வரும் செயல்பாடுகள் கிடைக்காது:</string>
+    <string name="disable_share_location">இருப்பிடத்தைப் பகிரவும் என்பதைச் செயல்நீக்கவும்</string>
+    <string name="disconnect_popup_content">%s துண்டிக்கிறது…</string>
+    <string name="do_not_show_again">மீண்டும் காட்ட வேண்டாம்</string>
+    <string name="enable_auto_call_forwarding_msg">கியர் துண்டிக்கப்படும் போது தானாகவே உள்வரும் அழைப்புகளை உங்கள் மொபைல் சாதனத்திலிருந்து உங்கள் கியருக்கு முன்னனுப்புக. உங்கள் சேவை வழங்குநரைப் பொறுத்து இதற்கு கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். தானி. அழை. முன்னனு. செ.படுத்த, சரி என்பதை டேப் செய்க.</string>
+    <string name="enable_auto_call_forwarding_title">தானி. அழை. முன்னனு. செ.படு.</string>
+    <string name="enable_more_notifications_enable">செயல்படுத்துக</string>
+    <string name="enable_notification_access">அறிவிப்பு அணுகலைச் செயல்படுத்தவும்</string>
+    <string name="enable_notification_access_desc">"தொடர்புகள் மற்றும் உங்களுக்கு அனுப்பப்படும் தகவல்கள் போன்ற தனிப்பட்ட விவரங்களை உள்ளடக்கக் கூடிய, உங்களுக்குக் கிடைக்கும் அறிவிப்புகள் அனைத்தையும் இந்தச் செயல்பாட்டால் வாசிக்க இயலும். இது இந்த அறிவிப்புகளை நிராகரிக்க அல்லது அவற்றுடன் தொடர்பான செயல்களைத் தேர்வுசெய்யவும் கூடியது.
+உங்கள் கியரில் அறிவிப்புகளைப் பெற, செயல்படுத்தவும் என்பதை டேப் செய்து, பிறகு %s செயல்படுத்தவும்."</string>
+    <string name="enable_share_location">இருப்பிடம் பகிரவும் என்பதைச் செயல்படுத்தவும்</string>
+    <string name="enabled_loc">இருப்பிடத்தைப் பகிரவும் என்பது செயல்படுத்தப்பட்டுள்ளது.</string>
+    <string name="error_enter_device_name">சாதனப் பெயரை உள்ளிடவும்.</string>
+    <string name="error_occurred">பிழை ஏற்பட்டுள்ளது.</string>
+    <string name="find_my_device">எ. சாதனம் தேடுக</string>
+    <string name="find_my_gear">எனது கியரைத் தேடுக</string>
+    <string name="find_watch_btn_start">துவங்.</string>
+    <string name="find_watch_btn_stop">நிறுத்துக</string>
+    <string name="find_watch_off">உங்கள் கியரைக் கண்டறியவென தொடங்கு என்பதை டேப் செய்யவும். கியர் ஒரு ஒலியை இயக்கி அதன் திரை இயக்கப்படும்.</string>
+    <string name="find_watch_on">உங்கள் கியரைக் கண்டறிவதை நிறுத்தவென நிறுத்துக என்பதை டேப் செய்யவும். கியர் ஒலியை இயக்குவதை நிறுத்தி, அதன் திரை அணைக்கப்படும்.</string>
+    <string name="font_gear_name">கியர்</string>
+    <string name="font_noti_uninstall_idle_font">%1$s நிறுவல் நீக்கப்பட்டு, உங்கள் %2$s-இல் டீஃபால்ட் எழுத்துரு பயன்படுத்தப்படும்.</string>
+    <string name="force_wifi_direct_msg">Wi-Fi Direct வழியே பயன்பாடு நிறுவப்படும். இது உங்கள் நடப்பு Wi-Fi Direct இணைப்பை முடிவுக்குக் கொண்டுவரும். நீங்கள் நிறுவலை ரத்து செய்தால் இப்பயன்பாட்டை நிறுவுவதற்கு அதை மீண்டும் பதிவிறக்க வேண்டும்.</string>
+    <string name="force_wifi_direct_title">நிறுவுக</string>
+    <string name="force_wifi_install">நிறுவுக</string>
+    <string name="gear2_backup_confirm_text">நீங்கள் இப்போது உங்கள் தரவை பின்சேமித்தால், மொபைல் சாதனத்திலுள்ள நடப்பு கியர் பின்சேமிப்புத் தரவானது உங்கள் சமீபத்திய கியர் தரவால் இடமாற்றப்படும்.</string>
+    <string name="gear2_restore_confirm_text">உங்கள் தரவை மீள்சேமித்தல் உங்கள் கியரில் தற்போதுள்ள தரவு நீக்கப்பட்டு உங்கள் நடப்பு கியர் பின்சேமிப்புத் தரவால் இடமாற்றப்படும்.</string>
+    <string name="gear2_text">"உங்கள் %1$s உள்ளடக்கத்தை பின்சேமிக்க உங்களது சாதன சேமிப்பகத்தைப் பயன்படுத்தவும்:
+%2$s
+
+இந்த உள்ளடக்கத்தை நீங்கள் முன்கூட்டியே பின்சேமித்திருந்தால் நீங்கள் அதை இப்பொழுது %3$s-க்கு மீள்சேமிக்கலாம்.
+
+கோப்பின் அளவிற்கேற்ப அதற்கு சிறிது நேரம் ஆகலாம்."</string>
+    <string name="gear2_text_import3">அமைவுகள்</string>
+    <string name="gear_bnr_desc">"பின்வரும் %1$s தரவை பின்சேமிப்பதற்கு உங்கள் மொபைல் சாதன சேமிப்பகத்தைப் பயன்படுத்தவும்: %2$s
+
+உங்கள் %3$s தரவை ஏற்கனவே பின்சேமித்திருந்தால், இப்போது அதை உங்கள் %4$s-ல் மீள்சேமிக்கலாம்.
+
+இதற்கு கோப்புகளின் அளவைப் பொறுத்து சிறிது நேரம் எடுக்கக் கூடும்."</string>
+    <string name="gear_location_popup_message">உங்கள் மொபைல் சாதனம் இப்போது உங்கள் கியரைத் தேடுகிறது. இதற்கு பல நிமிடங்கள் எடுக்கும். உட்புறமாக இருந்தால் உங்கள் கியரைக் கண்டறிவது சிரமமாக இருக்கலாம்.</string>
+    <string name="gear_location_popup_title">கியரைக் கண்டுபிடிக்கவும்</string>
+    <string name="gear_location_text">கியர் இருப்பிடம்</string>
+    <string name="gear_lock_success">கியர் பூட்டப்பட்டது.</string>
+    <string name="gear_lock_text">கியரைப் பூட்டவும்</string>
+    <string name="gear_locked">கியர் பூட்டப்பட்டது</string>
+    <string name="gear_locked_text1">கியர் பூட்டப்பட்டது. பூட்டுநீக்க, ப்ளூடூத் வழியே கியரை மொபைல் சாதனத்துடன் இணைக்கவும்.</string>
+    <string name="gear_phone_number">கியர் ஃபோன் எண்</string>
+    <string name="gear_phone_number_popup_desc">உங்கள் மொபைல் சாதனத்திற்கு வரும் எல்லா அழைப்புகளும் %s-க்கு முன்னனுப்பப்படும்.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">உங்கள் கியரைப் பூட்ட, ரிமோட் இணைப்பை முதலில் செயல்படுத்த வேண்டும்.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">உங்கள் கியரை ரீசெட் செய்ய, ரிமோட் இணைப்பை முதலில் செயல்படுத்த வேண்டும்.</string>
+    <string name="gear_reset_text">கியரை ரீசெட் செய்யவும்</string>
+    <string name="gear_to_mobile">கியரிலிருந்து மொபைலுக்கு</string>
+    <string name="gear_to_mobile_des">ப்ளூடூத் வழியே இரண்டு சாதனங்களை இணைக்கும் போது, உங்கள் கியருக்கு வருகிற அழைப்புகளை உங்கள் மொபைல் சாதனத்தில் பெறலாம்.</string>
+    <string name="gear_unable_to_locate_message">இடம் தேடல் தோல்வியுற்றது. பின்னர் மீண்டும் முயலுக.</string>
+    <string name="gear_unable_to_locate_title">கியரைக் கண்டுபிடிக்க இயலவில்லை</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">வால்பேப்பர்கள்</string>
+    <string name="home_bg_color">வண்ணங்கள்</string>
+    <string name="home_bg_colors_title">கிடைக்கின்ற நிறங்கள்</string>
+    <string name="home_bg_delete_actionbar_selected">தேர்வுசெய்யப்பட்டது</string>
+    <string name="home_bg_delete_dialog_msg">கியர் மேலாளர் மற்றும் உங்கள் கியரிலிருந்து %d வால்பேப்பர்கள் நீக்கப்படும்.</string>
+    <string name="home_bg_delete_select_all">எல்லாம் தேர்வு</string>
+    <string name="home_bg_max_more_image_toast">வால்பேப்பர்களின் அதிகபட்ச எண்ணிக்கை (%d) அடைந்தது.</string>
+    <string name="home_bg_more_images">மேலும் படங்கள்</string>
+    <string name="home_bg_popup_wallpaper_msg">கியர் வால்பேப்பர்களைப் பதிவிறக்குகிறது…</string>
+    <string name="home_bg_popup_wallpaper_title">வால்பேப்பர்களை பதிவிறக்கவும்</string>
+    <string name="home_bg_toast_saved">சேமிக்கப்பட்டது.</string>
+    <string name="home_bg_wallpaper">வால்பேப்பர்</string>
+    <string name="home_bg_wallpapers_title">கிடைக்கும் வால்பேப்பர்கள்</string>
+    <string name="homelayout_apps">பயன்பாடுகள்</string>
+    <string name="incoming_calls_title">உள்வரும் அழைப்புகள்</string>
+    <string name="info_build_number">மென்பொருள் பதிப்பு</string>
+    <string name="info_model_number">மாதிரி எண்</string>
+    <string name="info_software_update">மென்பொருள் புதுப்பிப்பு</string>
+    <string name="information_provision_agreement">தகவல் வழங்கல் ஒப்பந்தம்</string>
+    <string name="information_provision_agreement_mgs">"வாய்ஸ் மெமோ Nuance Communications, Inc. எனப்படும் மூன்றாம் தரப்பு வழங்குநரால் வழங்கப்படுகின்ற குரல் கண்டறிதல் தொழில்நுட்பங்களைப் பயன்படுத்துகிறது. எனவே, உங்கள் குரல் தகவலானது Nuance-ஆல் (அமெரிக்காவில்) இயக்கப்படுகின்ற ஒரு சேவையகத்தில் நிச்சயமாகச் சேமிக்கப்படும், மேலும் வாய்ஸ் மெமோவைப் பயன்படுத்த Nuance-இன் விதிகள் மற்றும் நிபந்தனைகளை நீங்கள் ஏற்றுக்கொள்ள வேண்டும்.
+ சேவைகளை மேம்படுத்தவும் தொழில்நுட்பங்களை வளர்க்கவும் உங்கள் குரல் உள்ளீட்டைப் பயன்படுத்தும் உரிமை Nuance-க்கு உள்ளது. Nuance’இன் கூட்டாளர்களுக்கு மேற்குறிப்பிட்ட குரல் உள்ளீட்டை வழங்கும் உரிமையும் Nuance-க்கு உள்ளது. உங்கள் குரல் உள்ளீட்டுத் தகவல் மேற்குறிப்பிட்ட நோக்கங்கள் நிறைவேறும் வரை சேமிக்கப்படும். வாய்ஸ் மெமோ சேவைகள் பற்றிய தகவலுக்கு, Samsung தனியுரிமைக் கொள்கை மற்றும் Nuance தனியுரிமைக் கொள்கையைப் படிக்கவும்.
+ மேலே குறிப்பிட்ட உங்கள் தகவலை வழங்குவதற்கு நீங்கள் ஏற்றுக்கொள்ளாவிட்டால் வாய்ஸ் மெமோவை உங்களால் பயன்படுத்த முடியாது."</string>
+    <string name="init_manage_notifications_desc">நீங்கள் எந்த பயன்பாடுகளில் இருந்து அறிவிக்கைகளைப் பெற விரும்புகிறீர்கள் என்பதை உங்கள் %1$s-இல் தேர்வுசெய்யவும். உங்கள் %2$s-இன் மின்கல பவரைச் சேமிக்க, நீங்கள் அறிவிக்கைகளைப் பெற விரும்பாத பயன்பாடுகளை தேர்வுநீக்கவும்.</string>
+    <string name="install_in_progress">செயலில்…</string>
+    <string name="latitude">அட்சரேகை</string>
+    <string name="limit_notification_desc">மொபைல் சாதனத்தைப் பயன்படுத்தும்போது, விழிப்பூட்டல்கள் கியரில் தோன்றுவதைத் தடுக்கவும்.</string>
+    <string name="limit_notification_dialog_desc">உங்கள் கியரில் அறிவிப்புகளைக் கட்டுப்படுத்தும் அம்சத்தை செயல்படுத்த இயலவில்லை. உங்கள் மொபைல் சாதனத்தில் திரைப் பூட்டு அமைக்கப்படவில்லை.</string>
+    <string name="limit_notification_title">அறிவிப்புகளை வரம்பிடு</string>
+    <string name="location_info_title">இடம் பகிர்க</string>
+    <string name="lock_gear_legal_text1">அங்கீகாரமற்ற பயன்பாட்டைத் தடுக்க, கியரைப் பூட்டுக என்பதைப் பயன்படுத்துவதன் மூலம் உங்கள் கியரை தொலைதூரத்திலிருந்து பூட்டலாம். மொபைல் சாதனத்துடன் கியரை மீண்டும் இணைப்பதன் மூலம் நீங்கள் அதை பூட்டுநீக்கலாம்.</string>
+    <string name="lock_gear_legal_text2">* கியரைப் பூட்டுக என்பது செயல்பாட்டிற்கு வர சிறிது நேரம் ஆகலாம் அல்லது உங்கள் கியர், மொபைல் சாதனம் அல்லது நெட்வொர்க் சூழ்நிலை போன்றவற்றின் நிலையைப் பொறுத்து தோல்வியும் அடையக் கூடும்.</string>
+    <string name="lock_gear_text">ப்ளூடூத் வழியே உங்கள் மொபைல் சாதனமும் கியரும் இணைக்கப்படும் போது உங்கள் கியரைப் பூட்ட இயலவில்லை.</string>
+    <string name="login_to_samsung_account">Samsung account-ல் உள்நுழைக</string>
+    <string name="login_to_samsung_account_desc">உங்கள் கியரில் ரிமோட் இணைப்பைச் செயல்படுத்துவதற்கு உங்கள் Samsung account-ல் உள்நுழைக.</string>
+    <string name="login_to_samsung_account_full_desc">"ப்ளூடூத் வழியே இணைக்காதபோதும் இந்த அம்சங்களைப் பயன்படுத்த, உங்கள் Samsung account-இல் உள்நுழைக:
+- அறிவிப்புகள் பெறுதல்
+- ரிமோட் இணைப்பு வழியே பயன்பாடுகள் பயன்படுத்துதல்
+ரிமோட் இணைப்பு பயன்படுத்துவதால், கூடுதல் கட்டணங்களை விதிக்கப்படலாம்."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">தீர்க்கரேகை</string>
+    <string name="main_bt_unpaired">இணை. நீக்கப்பட்டது</string>
+    <string name="main_disconnected">துண்டிக்கபட்டது</string>
+    <string name="manage_applications">பயன்பாடுகளை நிர்வகிக்கவும்</string>
+    <string name="manage_notifications">அறிவிப்புகளை நிர்வகி.</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">அழைப்பு முன்னனுப்பல் என்பது, %s-க்கு உள்வரும் அழைப்புகளை ஒரு குறிப்பிட்ட எண்ணுக்குத் திருப்பிவிடும் நெட்வொர்க் சேவையாகும். உங்கள் சேவை வழங்குநரைப் பொறுத்து, இந்த அம்சத்தைப் பயன்படுத்த உங்கள் கியரை அனுமதி்க்க சந்தா தேவைப்படலாம். இதற்கு கூடுதல் கட்டணங்கள் விதிக்கப்படலாம்.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">மொபைல் சாதனம்</string>
+    <string name="masterapp_not_installed">%1$s ஆனது உங்கள் மொபைல் சாதனத்தில் நிறுவப்படவில்லை. உங்கள் கியரில் %2$s பயன்படுத்தவென உங்கள் மொபைல் சாதனத்திற்கு %1$s பதிவிறக்கவும். பதிவிறக்கத் திரைக்கு கொண்டு செல்லப்படுவீர்கள்.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s ஆனது உங்கள் மொபைல் சாதனத்தில் நிறுவப்படவில்லை. உங்கள் கியரில் %2$s பயன்படுத்தவென உங்கள் மொபைல் சாதனத்திற்கு %1$s பதிவிறக்கவும். பதிவிறக்கத் திரைக்கு கொண்டு செல்லப்படுவீர்கள்.</string>
+    <string name="masterapp_uninstalled">%1$s ஆனது உங்கள் மொபைல் சாதனத்தில் இருந்து நிறுவல் நீக்கப்பட்டது. உங்கள் கியரில் %2$s பயன்படுத்தவென உங்கள் மொபைல் சாதனத்தில் %1$s பதிவிறக்கவும்.</string>
+    <string name="maximum_size_warning">எழுத்துகளின் அதிகபட்ச எண்ணிக்கை அடையப்பட்டது.</string>
+    <string name="menu_about_device">%s பற்றி</string>
+    <string name="menu_actionbar_remove">நீக்கு</string>
+    <string name="menu_actionbar_uninstall">நிறுவல் நீக்குக</string>
+    <string name="menu_appsandsettigns">பயன்பாடுகள் மற்றும் அமைவுகள்</string>
+    <string name="menu_clock">கடிகாரம்</string>
+    <string name="menu_display">முகப்புத் திரை திருத்துக</string>
+    <string name="menu_downloaded_font">பதிவிறக். எழுத்துருக்கள்</string>
+    <string name="menu_filetransfertogear">கோப்புகளை கியருக்கு இடமாற்றுக</string>
+    <string name="menu_gallery">படிமம்</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">உடற்பராமரிப்பு</string>
+    <string name="menu_help">உதவி</string>
+    <string name="menu_home_screen">முகப்புத் திரை ஸ்டைலர்</string>
+    <string name="menu_music">இசை</string>
+    <string name="menu_myapp">எனது ப.பாடுகள்</string>
+    <string name="menu_notification">அறிவிப்புகள்</string>
+    <string name="menu_rename">மறுபெயர்</string>
+    <string name="menu_samsungapps">சாம்சங் கியர் ப.பாடு</string>
+    <string name="menu_settings">அமைவுகள்</string>
+    <string name="mobile_to_gear">மொபைலிலிருந்து கியருக்கு</string>
+    <string name="mobile_to_gear_des">இரு சாதனங்களும் ரிமோட் இணைப்பிலுள்ள போது, உங்கள் மொபைல் சாதன அழைப்புகளை கியரில் பெறுக.</string>
+    <string name="monotype_default_font">டீஃபால்ட் எழுத்துரு</string>
+    <string name="monotype_dialog_font_applemint">ஆப்பில் மின்ட்</string>
+    <string name="monotype_dialog_font_choco">சாக்கோ குக்கி</string>
+    <string name="monotype_dialog_font_cool">கூல் ஜாஸ்</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">ரோஸ்மெரி</string>
+    <string name="monotype_dialog_font_tinkerbell">டின்கர் மணி</string>
+    <string name="more">மேலும்</string>
+    <string name="more_options">மேலும் தெரிவு</string>
+    <string name="multisim_title">பல SIM</string>
+    <string name="navigate_up">மேலே நகர்த்தவும்</string>
+    <string name="new_notification_list">பட்டியல் காட்சி</string>
+    <string name="new_notifications_list_desc">பெறப்பட்ட அறிவிப்புகளின் பட்டியலை கடிகாரத்திற்கு இடதுபுறமாக கியரில் காட்டவும்.</string>
+    <string name="no_application_selected">பயன்பாடுகள் எதுவும் தேர்வுசெய்யப்படவில்லை</string>
+    <string name="no_downloaded_applications">பதிவிறக்கிய பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="no_of_application_selected">%d பயன்பாடுகள் தேர்வுசெய்யப்பட்டன</string>
+    <string name="no_remote_connection_popup_msg">தானியங்கு அழைப்பு முன்னனுப்பலைச் செயல்படுத்த, உங்கள் மொபைல் சாதனத்தில் சாம்சங் கியர் பயன்பாட்டைத் திறந்து, ரிமோட் இணைப்பைச் செயல்படுத்தி, பிறகு மீண்டும் முயலவும்.</string>
+    <string name="no_remote_connection_popup_title">ரிமோட் இணைப்பைச் செயல்படுத்தவும்</string>
+    <string name="notification_type">அறிவிப்பு வகை</string>
+    <string name="notification_type_desc">நீங்கள் மேலே எதைத் தேர்வு செய்திருந்தாலும், உங்கள் கியர் பயன்பாட்டில் இருக்கும்போது, உங்கள் அறிவிப்புகள் திரையின் மேல் பகுதியில் பாப்-அப்களாகக் காண்பிக்கப்படும்.</string>
+    <string name="number_setting">எண் அமைவு</string>
+    <string name="ok">சரி</string>
+    <string name="once">ஒருமுறை</string>
+    <string name="one_application_selected">1 பயன்பாடு தேர்வுசெய்யப்பட்டுள்ளது</string>
+    <string name="popup_attention_email_msg">மின்னஞ்சல் அமைவுகளில் சில மின்னஞ்சல் கணக்குகள் தேர்வு செய்யப்படவில்லை. உங்கள் கியரில் அந்த கணக்குகளில் இருந்து அறிவிப்புகளைப் பெற, மின்னஞ்சல் அமைவுகளில் மின்னஞ்சல் அறிவிப்புகளைத் தேர்வு செய்யவும்.</string>
+    <string name="popup_attention_message_msg">உங்கள் கியரில் தகவல்களை அனுப்புவதற்கும் பெறுவதற்கும் உங்கள் டீஃபால்ட் மெசேஜிங் பயன்பாடானது %s-லிருந்து மேசேஜிங்கிற்கு மாற்றப்படும்.</string>
+    <string name="popupmenu_search_for_new_device">சாதனங்களை நிர்வகிக்கவும்</string>
+    <string name="preview_message_desc">உங்கள் கியரில் அறிவிப்பு பாப்-அப்களில் உள்வரும் அழைப்புகள் மற்றும் அலாரங்கள் தவிர்த்து மற்ற பெறப்பட்ட அறிவிப்புகளின் முன்தோற்றத்தைக் காண்பிக்கவும்.</string>
+    <string name="preview_message_title">முன்காட்சி தகவல்</string>
+    <string name="primary">முதன்மையான</string>
+    <string name="progressdialog_please_wait">தயவுசெய்து காத்திருக்கவும்…</string>
+    <string name="progressdialog_reinstalled_message">நிறுவுகிறது…</string>
+    <string name="progressdialog_reinstalled_popup_content">மீ. நிறுவு</string>
+    <string name="providerapp_reinstalled">%s ஆனது சரியாக இயங்காது, எனவே நிறுவல் நீக்கப்பட்டது. அது இப்போது மீண்டும் நிறுவப்படும்.</string>
+    <string name="quick_tutorial_add_shortcuts">கியரின் முகப்புத் திரையில் பயன்பாடுகளின் குறுக்குவழிகளைச் சேர்க்க, கியரில் பயன்பாடுகளுக்குச் சென்று ஒரு பயன்பாடு சின்னத்தை டேப் செய்து பிடித்து திரையின் மேல் பகுதியில் உள்ள முகப்புச் சின்னத்தில் ட்ராக் செய்யவும்.</string>
+    <string name="quick_tutorial_gear_structure">கடிகாரம் உங்கள் கியரின் முகப்புத் திரையின் பிரதான பக்கத்தில் காண்பிக்கப்பட்டுள்ளது. கடிகாரத்தின் இடபுறம் உள்ள பக்கங்கள் அறிவிப்புகளைக் காண்பிக்கும் மற்றும் வலப்பக்கம் உள்ளவை விட்ஜெட்களைக் காண்பிக்கும். பயன்பாடுகளைக் காண, திரையின் அடிப்பகுதி முனையில் இருந்து மேல்நோக்கி ஸ்வைப் செய்யவும்.</string>
+    <string name="quick_tutorial_noti_title">%s அறிமுகம்</string>
+    <string name="quick_tutorial_noti_title_gear">கியர் S</string>
+    <string name="quick_tutorial_noti_title_gear1">கியர்</string>
+    <string name="quick_tutorial_noti_title_gear2">கியர் 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice திறக்க, எந்தவொரு திரையில் இருக்கையிலும் “Hi Gear” என்று கூறவும் அல்லது முகப்பு விசையை இரு தடவை அழுத்தவும்.</string>
+    <string name="quick_tutorial_swipe_downwards">உங்களுக்குப் பிடித்த பயன்பாட்டைத் திறப்பதற்கு முகப்பு விசையை இருமுறை அழுத்தவும். நீங்கள் அமைவுகள் என்பதில் உங்களுக்குப் பிடித்த பயன்பாட்டை மாற்றலாம்.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">உங்கள் பிடித்தமான பயன்பாட்டைத் திறக்க, பவர் விசையை இரண்டு முறை அழுத்தவும். நீங்கள் உங்கள் பிடித்தமான பயன்பாட்டை அமைவுகளில் மாற்றலாம்.</string>
+    <string name="quick_tutorial_to_go_back">திரும்பிச் செல்ல விளிம்பிலிருந்து திரையை கீழ்நோக்கி ஸ்வைப் செய்க.</string>
+    <string name="remote_connection_disabled_settings">அமைவுகள்</string>
+    <string name="remote_connection_enabled_desc">ப்ளூடூத் இணைப்பு முடிந்துவிட்டால் கியர் ரிமோட் நிலையிலிருந்து இணைக்கப்படும்.</string>
+    <string name="requested">கோரப்பட்டது</string>
+    <string name="reset_gear_legal_text1">கியரை ரீசெட் செய்க என்பதைப் பயன்படுத்துவதன் மூலம், உங்கள் கியரிலுள்ள அனைத்துத் தரவையும் நீங்கள் தொலைதூரத்திலிருந்து நீக்கலாம். இதுபோன்ற நீக்கத்தின் பின்னர், நீக்கிய தரவை மீள்சேமிக்க இயலாது, மேலும் நீங்கள் இனிமேல் எனது கியரைத் தேடுக என்பதைப் பயன்படுத்த இயலாது.</string>
+    <string name="reset_gear_legal_text2">* கியரை ரீசெட் செய்க என்பது செயல்பாட்டிற்கு வர சிறிது நேரம் ஆகலாம் அல்லது உங்கள் கியர், மொபைல் சாதனம் அல்லது நெட்வொர்க் சூழல் போன்றவற்றின் நிலையைப் பொறுத்து தோல்வியும் அடையக் கூடும்.</string>
+    <string name="restore_complete">மீள்சேமிப்பு முடிந்தது.</string>
+    <string name="restore_some_error">மீள்சேமிப்பு தோல்வியுற்றது. பின்னர் முயலுக.</string>
+    <string name="restore_try_again">மீ.முயலுக</string>
+    <string name="retrieve_dialog_desc">பயன்பாட்டு பட்டியலை மீட்டெடுக்கிறது…</string>
+    <string name="sa_error_0203_desc">ரிமோட் இணைப்பைச் செயல்படுத்துவதற்கு கைமுறையாக Samsung account புதுப்பிக்கவும்.</string>
+    <string name="sa_error_0203_title">Samsung account புதுப்பி</string>
+    <string name="sa_error_0301_desc">உங்கள் மொபைல் சாதனத்தில் உங்கள் Samsung account-ல் உள்நுழைகையில் நெட்வொர்க் பிழை ஏற்பட்டுள்ளது.</string>
+    <string name="sa_error_0301_title">செயல்பாடு இயக்குவது தோல்வி</string>
+    <string name="sa_error_0302_title">செயல்பாடு இயக்குவது தோல்வி</string>
+    <string name="sa_error_0401_desc">ஒரு பிழை ஏற்பட்டுள்ளது. மீண்டும் முயலுக.</string>
+    <string name="sa_error_0401_title">பிழை</string>
+    <string name="safety_message_interval_10minutes">ஒவ்வொரு 10 நிமிடங்களுக்கும்</string>
+    <string name="safety_message_interval_20minutes">20 நிமிடங்களுக்கு ஒருமுறை</string>
+    <string name="samsung_apps_info">%2$s நிறுவல்நீக்கப்படும் போது அல்லது பயன்பாட்டுத் தரவு அழிக்கப்படும் போது %1$s வழியே பதிவிறக்கப்பட்டுள்ள பயன்பாடுகளை நீக்கலாம். நீங்கள் நீக்கப்பட்ட பயன்பாடுகளை %3$s-ல் உங்கள் வாங்குதல் வரலாற்றிலிருந்து பதிவிறக்கலாம்.</string>
+    <string name="samsung_apps_notice">அறிவிப்பு</string>
+    <string name="samsung_gear">சாம்சங் கியர்</string>
+    <string name="samsung_update">இப்போது புதுப்பிக்கவும்</string>
+    <string name="screen_off">திரையை முடக்கி வைக்கவும்</string>
+    <string name="screen_off_desc">உங்கள் கியரின் திரை முடக்கப்பட்டிருக்கும் போது உள்வரும் அழைப்பு விழிப்பூட்டல்கள் மற்றும் அலாரங்கள் தவிர்த்து மற்ற அறிவிப்புகளைப் பெறவும்.</string>
+    <string name="setting_Enable">செயல்படுத்துக</string>
+    <string name="setting_alpm_dialog_title">கவனம்</string>
+    <string name="setting_always_off">எப்போதும் ஆஃப்</string>
+    <string name="setting_always_on">எப்போதும் ஆன்</string>
+    <string name="setting_auto">தானாக</string>
+    <string name="setting_auto_lock_disable_desc">நிர்வாகியானது மறைகுறியாக்க கொள்கை அல்லது சான்று சேமிப்பகத்தால் செயல்நீக்கப்பட்டது.</string>
+    <string name="setting_backup_restore2">பின்சேமிப்பும் மீள்சேமிப்பும்</string>
+    <string name="setting_basic">அடிப்படைகள்</string>
+    <string name="setting_connections">இணைப்புகள்</string>
+    <string name="setting_disable">செயல்நீக்கு</string>
+    <string name="setting_home_key_double_pressing">முகப்பு விசையை இருமுறை அழுத்துதல்</string>
+    <string name="setting_language_input">மொழியும் உள்ளீடும்</string>
+    <string name="setting_manage_text_templates">உரை டெம்ப்ளேட். திருத்துக</string>
+    <string name="setting_mobile_network">மொபைல் நெட்வொர்க்குகள்</string>
+    <string name="setting_mobile_network_desc">ப்ளூடூத் வழியே உங்கள் மொபைல் சாதனத்துடன் கியரை இணைக்கும் போது, அது உங்கள் மொபைல் நெட்வொர்க்கிலிருந்து துண்டிக்கப்படும். ப்ளூடூத் வழியேயான இணைப்பு முடியும்போது, கியர் தானாகவே உங்கள் மொபைல் நெட்வொர்க்குடன் மீண்டும் இணைக்கப்படும்.</string>
+    <string name="setting_multisim_popup_desc">உங்கள் சேவை வழங்குநரைப் பொறுத்து, பல SIM செயல்பாட்டைப் பயன்படுத்துவதற்கு உங்களுக்கு ஒரு தனியான சந்தா தேவைப்படக் கூடும். பல SIM செயல்படுத்துவதற்கு சரி என்பதை டேப் செய்யவும்.</string>
+    <string name="setting_opensource">திறந்த மூல உரிமம்</string>
+    <string name="setting_palm_motion">மோஷன்கள்</string>
+    <string name="setting_palm_swipe">படம்பிடிக்க ஸ்வைப் செய்யவும்</string>
+    <string name="setting_palmover_desc">உள்வரும் அழைப்புகள் மற்றும் அலாரங்களை ஒலிதடுக்க அல்லது ஊடகத்தை இடைநிறுத்த, திரை ஆன் ஆக இருக்கும்போது உங்கள் கையை திரையின் மீது வைக்கவும்.</string>
+    <string name="setting_palmswipe_desc">திரையுடன் தொடர்பில் இருந்து கொண்டே உங்கள் முழு விரலையும் அதன்மீது ஸ்வைப் செய்வதன் மூலம் திரையைப் படம்பிடிக்கவும்.</string>
+    <string name="setting_pause_mute">ஒலிதடு/இடைநிறுத்துக</string>
+    <string name="setting_power_key_double_pressing">பவர் விசை இருமுறை அழுத்து</string>
+    <string name="setting_restoring">மீ.சேமிக்கிறது…</string>
+    <string name="setting_safety_b1_desc">உங்கள் கியர் மற்றும் மொபைல் சாதனம் ஆகியவை இணைக்கப்பட்டிருக்கும் போது உதவி தகவல் அனுப்பு அம்சம் அவசர காலத்தில் உங்களுக்கு உதவும். அது உங்கள் இருப்பிடத்தைக் கொண்ட அவசர தகவல்களை உங்கள் அவசர தகவல் தொடர்புகளுக்கு அனுப்புவதன் மூலம் உங்கள் சூழ்நிலை பற்றி அவர்களுக்கு விழிப்பூட்டும். இந்த தகவல்களை அனுப்புவதால் கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். அவசர காலத்தின் போது உதவி தகவல் அனுப்பு அம்சத்தைச் செயல்படுத்த பவர் விசையை %d முறை அழுத்தவும்.</string>
+    <string name="setting_safety_b2_desc">உங்கள் கியரும் மொபைல் சாதனமும் இணைக்கப்பட்டிருக்கும் போது உதவி தகவல் அனுப்பு அம்சமானது கியர் கேமராவைப் பயன்படுத்தி ஒரு படத்தை எடுப்பதன் மூலம் அவசர சூழ்நிலையில் உங்களுக்கு உதவும். அது இந்தப் படத்தையும் உங்கள் இருப்பிடத்தையும் கொண்ட அவசர தகவல்களை உங்கள் அவசர தகவல் தொடர்புகளுக்கு அனுப்புவதன் மூலம் உங்கள் சூழ்நிலை பற்றி அவர்களுக்கு விழிப்பூட்டும். முதல் தகவலில் உங்கள் இருப்பிடம் மற்றும் படம் இரண்டுமே இருக்கும். பிறகு ஒரு குறிப்பிட்ட இடைவேளைக்குப் பிறகு உங்கள் இருப்பிடம் பற்றிய விவரம் மட்டும் கொண்ட இரண்டாவது தகவல் அனுப்பப்படும். இந்த தகவல்களை அனுப்புவதால் கூடுதல் கட்டணங்கள் விதிக்கப்படலாம். அவசர காலத்தின் போது உதவி தகவல் அனுப்பவும் அம்சத்தைச் செயல்படுத்த முகப்பு விசையை %d முறை அழுத்தவும்.</string>
+    <string name="setting_safety_b2_no_camera_desc">உங்கள் கியரும் மொபைல் சாதனமும் இணைக்கப்படும் போது உதவித் தகவல்களை அனுப்புக என்பது அவசரநிலை ஒன்றில் உங்களுக்கு உதவுகிறது. இது உங்கள் அவசரநிலைத் தகவல் தொடர்புகளுக்கு உங்கள் இடத்துடன் அவசரநிலைத் தகவல்களை அனுப்புவதன் மூலம் உங்கள் சூழ்நிலையை அவர்களுக்கு விழிப்பூட்டுகிறது. இத்தகவல்களை அனுப்புவது கூடுதல் கட்டணங்களை விளைவிக்கக் கூடும். ஒரு அவசரநிலையின் போது உதவித் தகவல்களை அனுப்பு என்பதைச் செயல்படுத்துவதற்கு முகப்பு விசையை %d தடவைகள் அழுத்தவும்.</string>
+    <string name="setting_safety_b3_desc1">நீங்கள் ஒரு அவசர சூழ்நிலையில் இருக்கும்போது உங்கள் முதன்மைத் தொடர்புகளுக்கு ஒரு துரித விழிப்பூட்டலை அனுப்ப, முகப்பு விசையை வேகமாக 3 முறை அழுத்தவும்.</string>
+    <string name="setting_safety_b3_desc2">உங்கள் நடப்பு இருப்பிடம் பற்றிய விவரத்தைக் கொண்டிருக்கும் அவசரத் தகவல்களை உங்கள் முதன்மையான தொடர்புகள் பெறுவர்.</string>
+    <string name="setting_safety_b3_desc3">இந்தச் செயல்பாட்டைப் பயன்படுத்த, உங்கள் மொபைல் சாதனத்தை உங்கள் கியருடன் இணைக்கவும்.</string>
+    <string name="setting_safety_list">பாதுகாப்பு உதவி</string>
+    <string name="setting_samsung_legal">சாம்சங் சட்டபூர்வம்</string>
+    <string name="setting_screen_lock">தானியங்கு பூட்டு</string>
+    <string name="setting_screen_lock_desc">கண்டறிய முடியாத அளவுக்கு உங்கள் கியர் வெகு தூரத்தில் இருக்கும்போது, உங்கள் மொபைல் சாதனம் தானாகவே பூட்டுமாறு அமைக்கவும்.</string>
+    <string name="setting_screen_secutiry">திரை பாதுகாப்பு</string>
+    <string name="setting_send_emergency_picture">அவசரகால படத்தை அனுப்பவும்</string>
+    <string name="setting_send_emergency_recording">ஒலிப் பதிவை அனுப்புக</string>
+    <string name="setting_send_emergency_term_agree">மேலே உள்ள அனைத்து விதிமுறைகளையும் நிபந்தனைகளையும் நான் படித்துப் புரிந்துகொண்டுள்ளேன்.</string>
+    <string name="setting_send_help_message">உதவித் தகவல்களை அனுப்பவும்</string>
+    <string name="setting_send_terms_conditions">விதிகளும் நிபந்தனைகளும்</string>
+    <string name="setting_smart_relay">ஸ்மார்ட் ரிலே</string>
+    <string name="setting_smart_relay_desc">உங்கள் மொபைல் சாதனத்தை தெரிவுசெய்வதன் மூலம் உங்கள் கியரின் உள்ளடக்கத்தை உங்கள் மொபைல் சாதனத்தில் காணுங்கள்.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">சிஸ்டம்</string>
+    <string name="setting_text_to_speech_engine">உரை-பேச்சு எந்திரம்</string>
+    <string name="setting_textinput_emoticon">எமோடிகான்கள்</string>
+    <string name="setting_textinput_keyboard">விசைப்பலகை</string>
+    <string name="setting_textinput_list">உரை உள்ளீட்டு முறைகள்</string>
+    <string name="setting_textinput_templates">டெம்ப்ளேட்கள்</string>
+    <string name="setting_try_it">இதை முயற்சிக்கவும்</string>
+    <string name="setting_wake_up">வேக்-அப் சைகை</string>
+    <string name="setting_wake_up_desc">கியர் இயக்கத்தில் உள்ளபோது கையை உயர்த்துவதன் மூலம் கியரை எழுப்பவும்.</string>
+    <string name="setting_wakeupgesture">"கியரை விழிப்பூட்ட உங்கள் கியர் உள்ள கையை மேலே உயர்த்தி கியரின் திரையைப் பார்க்கவும்.
+
+நீங்கள் சாய்ந்திருக்கும்போது அல்லது படுத்திருக்கும்போது இந்த அம்சம் செயல்படாது மேலும் நகர்வு சென்சர் எப்போதும் இயக்கத்தில் இருப்பதால் கியரின் கூடுதல் மின்கல திறன் செலவாகக் கூடும்."</string>
+    <string name="setting_wakeupgesture_clock">கடிகாரம்</string>
+    <string name="setting_wakeupgesture_previous">கடைசியாக பார்த்த திரை</string>
+    <string name="setting_wakeupgesture_screen_on">காட்ட. திரையை தேர்ந்தெடு</string>
+    <string name="settings_application_version">பயன்பாட்டு பதிப்பு</string>
+    <string name="settings_emergency_contact">முதன்மைத் தொடர்புகளை நிர்வகிக்கவும்</string>
+    <string name="settings_emergency_contact_empty">முதன்மை தொடர்புகள் எதுவும் சேர்க்கப்படவில்லை. %s செயல்படுத்தவென முதன்மை தொடர்புகளில் தொடர்புகளைச் சேர்க்கவும்.</string>
+    <string name="settings_legal_information">சட்டப்பூர்வ விவரம்</string>
+    <string name="settings_message_interval">தகவல் இடைவேளை</string>
+    <string name="settings_not_set">அமைக்கப்படவில்லை</string>
+    <string name="settings_security">பாதுகாப்பு</string>
+    <string name="settings_security_update">பாதுகாப்பு புதுப்பித்தல்</string>
+    <string name="settings_security_update_desc">அதன் பாதுகாப்பு மற்றும் சேவையை மேம்படுத்தவென உங்கள் சாதனத்தை அபாயகரமான உள்ளடக்கத்திடமிருந்து பாதுகாக்கவும்.</string>
+    <string name="settings_unknown_sources_dialog">அறியப்படாத மூலங்களிலிருந்து நிறுவுவது உங்கள் சாதனத்துக்கும் தனிப்பட்ட தரவுக்கும் தீங்காக அமையலாம். சரி என்பதை டேப் செய்வதன் மூலம் இந்தப் பயன்பாடுகளைப் பயன்படுத்துவதால் உங்கள் சாதனத்துக்கு ஏற்படும் ஏதேனும் சேதம் அல்லது தரவு இழப்பு ஆகிய எதற்கும் நீங்கள் மட்டுமே பொறுப்பு என்பதை ஏற்றுக்கொள்கிறீர்கள்.</string>
+    <string name="settings_unknown_sources_subtitle">சாம்சங் கியர் பயன்பாடு தவிர மற்ற ஆதாரங்களிலிருந்து பயன்பாடுகள் நிறுவப்படுவதை அனுமதிக்கவும்.</string>
+    <string name="share_loc_disabled">இருப்பிடத்தைப் பகிரவும் என்பது செயல்நீக்கப்பட்டுள்ளது.</string>
+    <string name="share_location_desc">உங்கள் கியர் மற்றும் மொபைல் சாதன இருப்பிடத் தரவுகளைப் பகிர, எனது கியர் தேடவும் மற்றும் எனது சாதனம் தேடவும் ஆகியவற்றை அனுமதிக்கவும்.</string>
+    <string name="shm_I_agree_that_mobile_data">அவசரநிலைகளில் மொபைல் தரவு பயன்படுத்தப்படும் என்பதையும் MMS தகவல்கள் அனுப்பப்படக்கூடும் என்பதையும் நான் ஏற்கிறேன். இது கூடுதல் கட்டணங்களை விளைவிக்க கூடும் என நான் புரிந்துள்ளேன்.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. உதவித் தகவல்களை அனுப்பவும் என்பது பயனர்கள் தமது தோராயமான இருப்பிடங்களைப் பற்றிய தகவல்களையும் காட்சி சார்ந்த/ஒலி சார்ந்த சுற்றுப்புறங்களையும் முன்னதாகவே நீங்கள் அமைத்துள்ள தேர்ந்தெடுக்கப்பட்ட தொடர்பாளரின் மொபைல் ஃபோனிற்கு அனுப்புவதற்கு உதவுவதை நோக்கமாக கொண்டது. இது உங்களுடைய வசதிக்காகத்தான் கிடைக்கிறது மேலும் இது அதிகாரிகளுக்கு அவசர அழைப்புகளுக்கான மாற்றாக உத்தேசிக்கப்பட்டவையல்ல மேலும் அவ்வாறு கருதப்படவும் கூடாது.
+
+2. நெட்வொர்க் தொடர்புகை, GPS/Wi-Fi தகவல்கள் கிடைப்பது, உங்களுடைய/நீங்கள் தேர்ந்தெடுத்த தொடர்பாளருடைய சாதனத்தின் நிலை மற்றும்/அல்லது நிலைமை மின்கலத்தின் அளவு போன்ற சூழல்கள், மற்றும்/அல்லது Samsung Electronics Co., Ltd. (“Samsung”, “நாங்கள்”, “எங்களுக்கு”, “எங்களுடைய”) கட்டுப்பாட்டிற்கு அப்பாற்பட்டவைகளான பிற சூழ்நிலைகள் ஆகியவற்றைப் பொருத்து உதவித் தகவல்களை அனுப்பவும் (“இச்சேவைகள்”) துல்லியமாக, தொடர்ச்சியாக அல்லது தவறுகளின்றி வேலை செய்யாமற் போகக்கூடும். இருப்பிடத்தைப் பற்றிய தகவல்களின் துல்லியம் மற்றும் உரிய காலத்தில் சேவைகள் வழங்கப்படுவது ஆகியவை உங்களுடைய சுற்றுப்புறங்கள், உங்களுடைய சாதனத்தின் மற்றும் நீங்கள் தேர்ந்தெடுத்துள்ள தொடர்பாளரின் சாதனத்தின் நிலைமை ஆகியவற்றால் பாதிக்கப்படக் கூடும். வெளிப்படையாக சொல்லப்பட்டாலோ அல்லது சட்டரீதியாகத் தேவைப்பட்டாலோ அன்றி, இச்சேவைகள் துல்லியமாக, தொடர்ச்சியாக அல்லது பிழைகள் ஏதுமின்றி வேலை செய்யும் என்பதற்கான உத்தரவாதத்தை Samsung ஏற்க மறுக்கிறது. நீங்கள் தேர்ந்தெடுத்த தொடர்பாளர் சாதனம், வேலை செய்கிற ஒரு மொபைல் ஃபோனாக இருக்க வேண்டும், மேலும் இந்த சாதனம் ஆன் செய்யப்பட்டு உரை வடிவ தகவல்களை ஏற்கக்கூடியதாகவும் இருக்க வேண்டும் என்பதை கவனிக்கவும். உங்களுடைய சுற்றுப்புறங்கள் மற்றும் இடத்தின் தகவல்களை மாற்றிக் கொள்வது உங்களது சேவை இயக்குநரால் குறிப்பிடப்படுகிற கட்டணங்களுக்கு ஏற்ப உங்களுக்கு கட்டணத்துக்கு உரியதாக இருக்கக்கூடும்.
+
+உத்தேசிக்கப்பட்டவாறு சேவைகள் செய்யப்படுவதன் பொருட்டு, GPS மற்றும் உங்களுடைய சாதனத்தின் Wi-Fi செயற்கூறுகள் தன்னியக்கமாக ஆன் செய்யப்படுமாறு முன்பே உங்களால் அமர்த்தப்பட்டுள்ள அம்சம் அவசியமாக இருக்கக்கூடும். GPS மற்றும் Wi-Fi செயற்கூறுகள் (தேவைப்பட்டால்) தன்னிச்சையாக செயல்படுத்தப்படுவதை, உங்களுக்கு கூடுதல் அறிவிப்பு அல்லது உங்களுடைய ஒப்புதலின்றி நீங்கள் ஏற்கவும் அதற்கு உடன்படவும் செய்கிறீர்கள்.
+
+3. இச்செயற்கூறைத் தவறாகப் பயன்படுத்தாமல் இருப்பதையும் மேலும் சட்டவிரோதமான நோக்கங்களுக்கோ அல்லது மற்றவர்களுடைய அந்தரங்கத்தில் அல்லது வேறு ஏதாவது தனிப்பட்ட அல்லது தனி உடைமைக்கான உரிமைகளில் ஊடுவதற்கோ பயன்படுத்தாமல் இருப்பதையும் நீங்கள் ஏற்கவும் அதற்கு உடன்படவும் செய்கிறீர்கள். இந்த வசதியை சட்டப்படியும் அவசர சூழ்நிலைகளிலும் மட்டுமே பயன்படுத்தவும்.இந்த அம்சத்தைப் பயன்படுத்துவதற்கு முற்றிலும் நீங்களே பொறுப்பு என ஒப்புக்கொள்கிறீர்கள். இந்த அம்சத்தை நீங்கள் பயன்படுத்துவதால் எழக்கூடிய விளைவு எதற்கும் Samsung பொறுப்பாகாது.
+
+4. இச்சேவைகள் உங்களுடைய வசதிக்காக கிடைப்பவை மட்டுமே மேலும் இவை அதிகாரிகளுக்கு அவசர அழைப்புகளுக்கான மாற்றாக உத்தேசிக்கப்பட்டவையல்ல மேலும் அவ்வாறு கருதப்படவும் கூடாது. வெளிப்படையாக சொல்லப்பட்டாலோ அல்லது சட்டரீதியாகத் தேவைப்பட்டாலோ அன்றி, இச்சேவைகள் துல்லியமாக, தொடர்ச்சியாக அல்லது பிழைகள் ஏதுமின்றி வேலை செய்யும் என்பதற்கான உத்தரவாதத்தை Samsung ஏற்க மறுக்கிறது.
+
+5. உத்தரவாதங்களை மறுத்தல். நீங்கள் வெளிப்படையாக புரிந்து கொண்டு உடன்பட்டது வருமாறு:
+ 
+A. சேவைகள் “உள்ளது உள்ளவாறு”, “அனைத்து தவறுகைகளுடனும்” மற்றும் “கிடைக்கிறபடிக்கு” என்கிற அடிப்படையில் வழங்கப்படுகின்றன. அவற்றைப் பயன்படுத்தும் இடரை நீங்கள் ஏற்கிறீர்கள். சேவைகளின் தொடர்பாக SAMSUNG வெளிப்படையான உத்தரவாதங்கள், பொறுப்பேற்றல்கள் அல்லது உட்படும் நிபந்தனைகள் எதையும் தருவது கிடையாது. சந்தைப்படுத்தக்கூடிய நிலைக்கான, குறிப்பிட்ட நோக்கத்திற்கான மற்றும் ஊடுருவாமைக்கான தகுதிக்கான எந்த ஒரு மறைமுகமான உத்தரவாதம் மற்றும் கையாளும் போக்கில் அல்லது செயல்பாட்டின் போக்கில் எந்த ஒரு மறைமுகமான உத்தரவாதத்தையும் உள்ளிட்ட ஆனால் அத்துடன் மட்டுப்படாமல் எந்த வகையிலும் வெளிப்படுத்தப்பட்ட அல்லது மறைமுகமான எடுத்துரைத்தல் மற்றும் உத்தரவாதங்கள் அனைத்தையும் SAMSUNG வெளிப்படையாக மறுக்கிறது.
+
+B. முன்பு கூறியவற்றை மட்டுப்படுத்தாமல், SAMSUNG பின்வரும் எந்த எடுத்துரைத்தலையோ அல்லது உத்தரவாதத்தையோ செய்வதில்லை (i) இச்சேவைகள் உங்களது தேவைகளைப் பூர்த்தி செய்யும், (ii) சேவைகள் தடையற்று, சரியான நேரப்படி, பாதுகாப்பாக, அல்லது தவறுகளின்றி இருக்கும், (iii) சேவைகளிலிருந்து பெறப்படும் உள்ளடக்கம், அல்லது சேவைகளிலிருந்தான அறிவிப்புகள் அல்லது நடைமுறைசார்ந்தவை கிடைக்கத்தக்கவையாக, துல்லியமாக, முழுமையாக அல்லது நம்பத்தக்கவையாக இருக்கும், (iv) சேவைகளின் தரம் அல்லது எதாவது தகவல்கள் அல்லது சேவைகளிலிருந்து நீங்கள் பெறக்கூடிய பிற விஷயங்கள் உங்களது எதிர்பார்ப்பிற்கு ஏற்ப இருக்கும், அல்லது (v) சேவைகளிலுள்ள தவறுகள் அல்லது வழுக்கள் சரிசெய்யப்படும்.
+
+6. பொறுப்புகளுக்கான வரையறை.
+
+A. (i) பொருந்துகிற சட்டத்தினால் அனுமதிக்கப்படுகிற அளவிற்கு ஒப்பந்தத்தை மீறுதல், உத்தரவாதம், பொறுப்புறுதி அல்லது நிபந்தனையை மீறுதல், கண்டிப்பான பொறுப்பு, அலட்சியம் அல்லது மற்ற தீங்கு ஆகியவற்றிற்கான உரிமைக்கோரிக்கை; (ii) சேவைகளை நீங்கள் பயன்படுத்துதல் அல்லது பயன்படுத்த இயலாமை; (iii) மாற்றுச் சேவைகளைப் பெறுவதற்கான கட்டணம்; (iv) உங்களது அனுப்புகை அல்லது தகவல்களை அதிகாரமின்றி அணுகுதல் அல்லது அவற்றை திருத்துதல்; (v) ஏதேனும் மூன்றாம் தரப்பினரின் கூற்றுகள் அல்லது நடத்தை; (vi) இந்த ஒப்பந்தம்; (vii) தனியொரு நபர் அல்லது சொத்துக்களுக்கான ஊறு (மரணம் உள்ளிட்டது), அல்லது (viii) சேவைகள் தொடர்பான வேறு ஏதாவது விஷயங்கள் அல்லது சேவைகளின் வாயிலாக அளிக்கப்பட்ட உள்ளடக்கங்கள் ஆகியவற்றிலிருந்து நேரடியாகவோ அல்லது மறைமுகமாகவோ விளையக்கூடிய அல்லது அவற்றிலிருந்து எழக்கூடிய இலாபங்களின் இழப்பு, பயன்பாட்டின் இழப்பு அல்லது பிற இழப்புகள் உள்ளிட்ட ஆனால் அத்துடன் மட்டுப்படாத எந்த ஒரு நேரடியான, மறைமுகமான, இடைநிகழ்வான, பிரத்யேகமான, தண்டிக்கிற, பின்விளைவான அல்லது எடுத்துக்காட்டான இழப்பு, பொறுப்பு, சேதம் அல்லது செலவு ஆகியவற்றிற்கும் (பழுதுபார்த்தல், மாற்றீடு செய்தல் அல்லது சேவைகளுக்காக திருப்பிக் கொடுத்தல் ஆகியவை எந்த இழப்புகளுக்கும் உங்களை முழுமையாக ஈடுசெய்யாவிட்டால் கூட அல்லது SAMSUNG அத்தகைய இழப்பு, பொறுப்பு, சேதம் அல்லது செலவுகளுக்கான வாய்ப்பைப் பற்றி தெரிந்திருந்தாலோ அல்லது தெரிந்திருக்க வேண்டுமென்றாலோ கூட), அலட்சிய கோட்பாட்டின் கீழ் SAMSUNG பொறுப்பாகாது என்பதை நீங்கள் புரிந்து கொள்வதோடு சம்மதத்தையும் தெரிவிக்கிறீர்கள்.
+ 
+B. இந்த ஒப்பந்தம் அல்லது சேவைகள் தொடர்பாக SAMSUNG உடனான எந்தவொரு தகராறுக்கும் உங்களுக்குள்ள ஒரே மற்றும் முழுமையான தீர்வு இச்சேவைகளைப் பயன்படுத்துவதை நிறுத்திக் கொள்வதே.
+ 
+C. சில உத்தரவாதங்கள் அல்லது இடைநிகழ்வான அல்லது விளையக்கூடிய சேதங்களுக்கான பொறுப்பை மட்டுப்படுத்துதல் அல்லது விலக்குதல் இவற்றை சில அதிகார எல்லைகள் அனுமதிப்பதில்லை. இதற்கேற்ப, பிரிவு 5 மற்றும் 6 க்கான மேற்படி வரையறைகளுள் சில உங்களுக்கு பொருந்தாமல் இருக்கக்கூடும்.
+
+7. இழப்பீடு. சேவைகளை நீங்கள் பயன்படுத்துவதன் விளைவாக அல்லது பயன்படுத்துவதன் தொடர்பானவை அல்லது இந்த ஒப்பந்தத்திற்கு நீங்கள் இணங்கத் தவறியதன் காரணமாக எழக்கூடிய எந்த உரிமைக் கோரிக்கைகள், நடவடிக்கைகள், கோரிக்கைகள், செலவுகள், பொறுப்புகள், இழப்புகள், சேதங்கள், அபராதங்கள் மற்றும் செலவுத்தொகைகள் (நியாயமான வழக்குரைஞர் கட்டணம் மற்றும் செலவுகள் உட்பட) ஆகியவற்றிலிருந்தும் மற்றும் அவற்றிற்கு எதிராகவும், நீங்கள் Samsung-ஐ தீங்கற்று இருக்குமாறு செய்வதற்கும், இழப்பீடு செய்வதற்கும் மேலும் பாதுகாப்பதற்கும் ஒத்துக் கொள்கிறீர்கள். இந்த நியதிகள் மற்றும் நிபந்தனைகளின் கீழ் உங்களுக்கு வழங்கப்பட்டுள்ள உரிமங்கள் தனிநபருக்குரிய தன்மை கொண்டிருந்தபோதிலும் நீங்கள் இச்சேவைகளை தனிநபர்கள் எவரேனும் பயன்படுத்த அனுமதித்தாலோ, அல்லது இச்சேவைகள் வழியே பெற்ற தகவல்கள் எதையேனும் தனிநபர் எவருக்கேனும் அளித்தாலோ அத்தகைய தனிநபருக்கு இந்த நியதிகள் மற்றும் நிபந்தனைகள் இருப்பதையும் அவற்றின் ஒதுக்கீடுகளையும் தெரிவிக்க ஒத்துக் கொள்கிறீர்கள், இது அந்த தனிநபரைக் கட்டுப்படுத்துவதாக இருக்கும் மேலும் நீங்கள் சேவைகளை அத்தகைய தனிநபர் பயன்படுத்துவது தொடர்பான எந்த மற்றும் அனைத்து உரிமைக் கோரிக்கைகள், நடவடிக்கைகள், கோரிக்கைகள், செலவுகள், பொறுப்புகள், இழப்புகள், சேதங்கள், அபராதங்கள் மற்றும் செலவுத்தொகைகள் (நியாயமான வழக்குரைஞர் கட்டணம் மற்றும் செலவுகள் உட்பட) ஆகியவற்றிலிருந்தும் நீங்கள் Samsung- ஐ தீங்கற்று இருக்குமாறு செய்வதற்கும், இழப்பீடு செய்வதற்கும் மேலும் பாதுகாப்பதற்கும் ஒத்துக் கொள்கிறீர்கள்.
+
+8. தடுக்கமுடியாத வலுக்கட்டாய நிலை. இந்த நியதிகள் நிபந்தனைகளின் கீழ், கடவுளின் செயல்கள், குடிமக்கள் அல்லது இராணுவ அதிகார அமைப்பு, போர், பயங்கரவாதச் செயல்கள், தொழிலாளர் தகராறுகள், மூன்றாம் நபர் வழங்குகிற பொருட்கள் அல்லது சேவைகளிருந்து அல்லது Samsung-இன் நியாயமான கட்டுப்பாட்டிற்கு அப்பாற்பட்ட காரணங்களால் விளையக்கூடிய செயல்பாட்டில் தாமதம் அல்லது தோல்வி, அல்லது சேவைகளில் தடங்கல் ஏதாவது ஒன்று ஏற்பட்டாலும் Samsung அதற்குப் பொறுப்பாகாது."</string>
+    <string name="shm_share_my_location_checkbox_text">எனது %2$s தொடர்புகளுடன் எனது இருப்பிடத்தை பகிர்ந்துகொள்ளவென %1$s அனுமதிக்க ஒப்புதல் தெரிவிக்கிறேன்.</string>
+    <string name="smartrelay_not_show">மீண்டும் காட்ட வேண்டாம்</string>
+    <string name="software_update">மென்பொருள் புதுப்பிப்பு</string>
+    <string name="ss_double_tap_any_screen">ஒளிர்வு மற்றும் ஒலியளவு கட்டுப்பாடுகள், மற்றும் பிற பயனுள்ள விவரத்தைக் காண, ஏதேனும் ஒரு திரையை இரண்டு விரல்களால் இரு முறை டேப் செய்யவும்.</string>
+    <string name="ss_forwarding_calls_to_gear_header">உங்கள் கியருடன் அழைப்புகளைப் பகிர்கிறது</string>
+    <string name="ss_forwarding_calls_to_gear_progress">கோருகிறது…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">அமைவுகளை வாசிக்கிறது…</string>
+    <string name="ss_loading_ing_abb">ஏற்றுகிறது…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">மொபைல் தரவு செயல்நீக்கப்பட்டது. மாறாக Wi-Fi நெட்வொர்க்குடன் இணைக்கவும் அல்லது மொபைல் தரவை செயல்படுத்திவிட்டு மீண்டும் முயலுக.</string>
+    <string name="ss_no_network_connection">நெட்வொர்க் இணைப்பு இல்லை</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">பயனர் கையேடு</string>
+    <string name="stub_list_install">புகுத்து</string>
+    <string name="tab_stub_list">பரிந்துரைக்கப்பட்டவை</string>
+    <string name="talkback_download">பதிவிறக்குக</string>
+    <string name="talkback_setting">அமைவு</string>
+    <string name="the_samsung_gear_application">சாம்சங் கியர் பயன்பாடு</string>
+    <string name="threeg_connection">ரிமோட் இணைப்பு பயன்படுத்துக</string>
+    <string name="threeg_connection_subtitle">உங்கள் Samsung account-வுடன் மொபைல் தரவு அல்லது Wi-Fi பயன்படுத்தி தொலைவாக உங்கள் கியரை இணைக்கவும்.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">நிறுவல் நீக்குக</string>
+    <string name="title_activity_connect_popup">இணைக்கவும்</string>
+    <string name="title_activity_paired_watch">இணைக்கப்பட்ட சாதனம்</string>
+    <string name="title_alertdialog_device_name_popup">%s-க்கு மறுபெயரிடவும்</string>
+    <string name="title_alertdialog_disconnect_popup">துண்டிக்கவும்</string>
+    <string name="title_dialog_pm_error">எச்சரிக்கை</string>
+    <string name="title_dialog_uninstall">நிறுவல்நீக்குக</string>
+    <string name="title_findmywatch_connect2">எனது கியரைக் கண்டுபிடிக்கவும்</string>
+    <string name="title_findmywatch_finding">தேடுதல்…</string>
+    <string name="tri_connect_title_circle_to_gear">%2$s-ஐ %1$s உடன் இணைக்கவும்</string>
+    <string name="tri_connect_warning_temporal_disconnect">ப்ளூடூத் வழியே உங்கள் %1$s-ஐ உங்கள் %2$s உடன் இணைப்பது, உங்கள் %3$s-ஐ உங்கள் மொபைல் சாதனத்திலிருந்து தற்காலிகமாகத் துண்டிக்கும். இந்த இணைப்பு விரைவில் மீண்டும் துவங்கும், அப்போது உங்கள் %4$s ஆனது உங்கள் %5$s மற்றும் உங்கள் மொபைல் சாதனம் ஆகிய இரண்டுடனும் இணைக்கப்படும்.</string>
+    <string name="tt_install_voice_data">TTS குரல் தரவை நிறுவவும்</string>
+    <string name="tt_install_voice_data_required">உங்கள் கியரில் கூடுதல் உரையிலிருந்து பேச்சு மொழிகளை நிறுவவும்.</string>
+    <string name="tt_language">மொழி</string>
+    <string name="tt_send_help_message">உதவித் தகவல்களை அனுப்புக</string>
+    <string name="tt_tts_language_guide">உங்களது உரை-பேச்சு மொழி என்பது உங்கள் கியர் அமைவுகளில் நீங்கள் அமைக்கும் மொழியாகும். உரை-பேச்சு பொறி உங்கள் மொழியை ஆதரிக்காவிட்டால் ஆங்கிலம் (ஐக்கிய இராஜியம்) பயன்படுத்தப்படும்.</string>
+    <string name="unable_to_connect_popup_message">உங்கள் மொபைல் சாதனத்துடன் உங்கள் கியரை இணைப்பது தோல்வியுற்றது. பின்னர் மீண்டும் முயலவும்.</string>
+    <string name="unable_to_connect_popup_title">இணைப்பு தோல்வி</string>
+    <string name="unable_to_lock_gear">கியரைப் பூட்ட இயலவில்லை</string>
+    <string name="unable_to_reset_gear">கியரை ரீசெட் செய்ய இயலவில்லை</string>
+    <string name="uninstall_applications">பயன்பாடு. நிறுவல்நீக்குக</string>
+    <string name="unknown_sources_msg_new">%1$s ஆனது %2$s வழியே நிறுவப்படாது. அறியாத மூலங்களின் பயன்பாடுகளால் உங்கள் சாதனமும் தனிப்பயன் தரவும் தாக்குதலுக்கு உள்ளாக அதிக வாய்ப்புள்ளது. இப்பயன்பாடுகளைப் பயன்படுத்துவதால் ஏற்படக்கூடிய உங்கள் சாதனத்திற்கான ஏதேனும் சேதம் அல்லது தரவு இழப்பிற்கு நீங்களே முழுப் பொறுப்பு என்பதை ஏற்கிறீர்கள். அறியாத மூலங்களின் பயன்பாடுகளை எப்போதும் நிறுவ, %3$s > %4$s > %5$s என்பதற்குச் சென்று, %6$s செயல்படுத்தவும். %7$s நிறுவ சரி என்பதை டேப் செய்யவும்.</string>
+    <string name="unknown_sources_title">தெரியாத மூலங்கள்</string>
+    <string name="update_summary">புதுப்பித்தல்கள் காண்க</string>
+    <string name="voice_control_subtitle">அழைப்புகளுக்கு பதிலளிக்க அல்லது நிராகரிக்க, உங்கள் கியர் ஒலி எழுப்பாத அல்லது அதிராத சமயத்தில் இடைநிறுத்தங்களின் போது “Answer” அல்லது “Reject” என சொல்லவும்.</string>
+    <string name="watchapp_all">ப.பாடுகள்</string>
+    <string name="watchapp_noapps">ப.பாடு. எதுவும் இல்லை</string>
+    <string name="widget_bt">ப்ளூடூத்</string>
+    <string name="widget_fmw_refresh">புதுப்பிக்கிறது…</string>
+    <string name="wifi_only">Wi-Fi மட்டும்</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">ஒரு Wi-Fi நெட்வொர்க்குடன் இணைக்கப்பட்டிருக்கும் போது மட்டும் புதுப்பிப்புகளைப் பதிவிறக்கவும்.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

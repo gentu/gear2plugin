@@ -1,0 +1,9 @@
+Tastiera Samsung e uso di un servizio di riconoscimento vocale
+1. Il servizio Tastiera Samsung utilizza la tecnologia di riconoscimento vocale come componente del servizio. L'utente prende atto del fatto che Samsung può utilizzare un servizio di riconoscimento vocale ("Servizio di riconoscimento vocale") fornito da una terza parte, ovvero Nuance Communications Inc. (“Nuance”), e dichiara di essere a conoscenza e di approvare quanto segue in relazione all'utilizzo del servizio Tastiera Samsung.
+2. L'utente si impegna a non inviare richieste automatizzate o registrate al servizio Tastiera Samsung. 
+3. Dichiara inoltre di essere consapevole del fatto che le parole dettate al servizio Tastiera Samsung, ivi comprese le registrazioni audio di tali parole, le trascrizioni associate e i file di registro (“Dati vocali”), verranno raccolte da Nuance nell'ambito della fornitura del Servizio di riconoscimento vocale. 
+4. L'utente conviene che, nella fornitura del Servizio di riconoscimento vocale, Nuance potrà raccogliere Dati vocali che possono essere utilizzati da Nuance e da suoi partner di terze parti per perfezionare, ottimizzare e migliorare (a) il Servizio di riconoscimento vocale e (b) altri prodotti e servizi Nuance. 
+5. Conviene inoltre che i Dati vocali potranno essere trasferiti negli Stati Uniti e/o in altri paesi per l'archiviazione, l'elaborazione e l'uso da parte di Nuance e di suoi partner di terze parti.
+6. Tutti i Dati vocali forniti dall'utente rimarranno di natura riservata e verranno utilizzati in conformità con le leggi in vigore, ma potranno essere divulgati da Nuance, qualora ciò si rendesse necessario per soddisfare requisiti di legge o normativi, ad esempio a seguito di un decreto di un tribunale, o a un ente governativo, se richiesto o autorizzato per legge, o a una terza parte che dovesse acquisire Nuance o eseguire un'operazione di fusione con essa.
+
+

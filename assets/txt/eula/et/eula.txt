@@ -1,0 +1,73 @@
+Lõppkasutaja litsentsileping
+
+Lugege tähelepanelikult käesolevat Lõppkasutaja Litsentsilepingut („Leping”) enne, kui kasutate Samsungi toodetud või kaubamärgistatud kantavaid seadmeid, mis ühilduvad Samsungi mobiilseadmetega, nagu Gear- ja Gear Fit-seeria (koosnimetatuna „Kantav Seade”) ning Samsungi kantava seadme haldusrakendusi, mis ühilduvad Samsungi mobiilseadmetega (koosnimetatuna „Manager”), kuna Leping sisaldab olulist teavet. 
+
+Käesolev Leping on teie (kas siis üksikisiku või ühe üksuse) ja Electronics Co., Ltd. („Samsung”) vaheline õiguslikult siduv kokkulepe, mis käsitleb tarkvara, mille omanikuks on Samsung ja selle sidusettevõtjad ning selle kolmandast isikust varustajad ja litsentsiaarid, mis on käesoleva Lepingu esemeks, mis hõlmab tarkvara ja seotud meediumeid, prinditud materjale, „veebi-” või elektroonilist dokumentatsiooni seoses Kantava Seadme ja/või Manager'i (koosnimetatuna „Tarkvara”) teiepoolse kasutamisega. 
+
+Manager on tarkvaraprogramm teie mobiilseadme („Seade”) Kantava Seadmega ühendamiseks ning võimaldab teil seadme kaudu Kantava Seadme tarkvara hallata, juhtida või uuendada. Kantava Seadme tavapärane toimimine eeldab eellaaditud tarkvara kasutamist.  Kantavat Seadet, Manager'i või selle eellaaditud tarkvara kasutades nõustute käesoleva Lepingu tingimustega. Käesoleva Lepingu tingimustega mittenõustumise korral ärge kasutage Kantavat Seadet, Manager'i ega selle eellaaditud tarkvara. 
+
+1. Litsentsi andmine
+
+Käesoleva Lepingu tingimustest lähtuvalt antakse teile piiratud, mitte-ainuõiguslik, tühistatav litsents tarkvara Manager ühe koopia installeerimiseks, kasutamiseks, juurdepääsuks, kuvamiseks ja käivitamiseks ühel Kantaval Seadmel. Teil ei ole õigust teha tarkvara Manager kättesaadavaks võrgus, kus seda saaksid mitu Kantavat Seadet samaaegselt kasutada.
+
+Tarkvara teatud üksustele võivad kohalduda avatud lähtekoodiga litsentsid. Avatud lähtekoodiga litsentsi sätted võivad tühistada mõned käesoleva Lepingu tingimused.
+
+2. Õiguste ja omandiõiguse reserveerimine
+
+Samsung jätab endale kõik õigused, mida teile ei ole käesoleva Lepingu alusel selgesõnaliselt antud. Tarkvara kaitsevad autoriõigus ning muud intellektuaalomandi õigusi käsitlevad seadused ja lepingud. Tarkvara nimi, autoriõigus ja muud intellektuaalomandi õigused kuuluvad Samsungile. Tarkvara litsentsitakse, mitte ei müüda.
+
+3. Litsentsi piirangud
+
+Teil ei ole õigust pöördprojekteerida, osadeks jagada, koost lahti võtta ega muul moel üritada avastada tarkvara lähtekoodi või algoritme muuta või välja lülitada tarkvara funktsiooni ega tarkvara põhjal luua tuletatud teoseid. Teil ei ole õigust tarkvara rentida, liisida, sellele alamlitsentsi väljastada ega seda ärilisel eesmärgil kasutada.
+
+4. Teenused ja värskendused
+
+Kantav Seade ja tarkvara Manager sisaldavad haldamiseks ette nähtud tarkvara või vastavat ühilduvat tarkvara („Sobiv Tarkvara”). Sobiv Tarkvara on ette nähtud ainult harrastusotstarbel kasutamiseks. Kantav Seade ja Sobiv Tarkvara ei ole ette nähtud haiguse või teiste tingimuste diagnoosimiseks ega haiguste ravimiseks, leevendamiseks ega vältimiseks ega mis tahes muul meditsiinilisel eesmärgil kasutamiseks. Sobivast Tarkvarast tulenev teatud sisu on ette nähtud ainult informatiivsel eesmärgil kasutamiseks ning see ei ole ette nähtud asendama teie ja teie raviarsti või mis tahes meditsiiniteenuse osutaja vahelisi kokkuleppeid. Ärge eirake professionaalset meditsiinilist abi ega viivitage selle otsimisega sobivast tarkvarast saadud andmete alusel.
+
+Kolmandad isikud võivad osutada teile teenuseid. Samsung loobub mis tahes garantiist või esindatusest seoses kolmanda isiku teenuste sisu, täpsuse, terviklikkuse, tõhususe, kohaldatavatele seadustele või eeskirjadele vastavusega.
+
+Tarkvara ja kasutatava seadme uuendamiseks saate kasutada Manager'i. Samsung võib teile edastada või teha teile kättesaadavaks kasutatava seadme tarkvaravärskendused („Värskendused”) piiramatute veaparanduste, teenuse uuenduste ja täiustustega, mis on mõeldud kasutamiseks teie kantavasse seadmesse eelnevalt installitud tarkvaraga. Sellise Värskenduse kaudu hangitud versiooni kasutamiseks peab teile olema väljastatud litsents seoses värskendamiseks sobiliku tarkvaraga. Värskendatud versiooniga võib lisanduda uusi funktsioone ja mõnel juhul võidakse mõned olemasolevad funktsioonid kustutada. Kuigi värskendus on üldiselt kättesaadav, võib teatud tingimusel pakkuda värskendusi ainult teie võrguteenuse osutaja ning sellistele Värskendustele kohalduvad teie võrguteenuse osutajatega sõlmitud lepingusuhte sätted.
+
+5. Nõusolek andmete kasutamiseks
+
+Tunnistate ja nõustute, et Samsung ja/või selle sidusettevõtjad võivad koguda ja kasutada tehnilisi andmeid, nagu seerianumber, mudeli nimi, kliendikood, juurdepääsuteave, teie seadme praegune tarkvaraversioon, mobiiltelefoni riigi kood, mobiilivõrgu kood ja kasutatavas seadmes oleva mäluseadme ainulaadne identifitseerimisnumber. Samsung ja selle sidusettevõtjad võivad kasutada neid andmeid kasutatava seadme ja tarkvara Manager täiustamiseks või tugiteenuste uuendamiseks ning neil ei ole õigust edastada kolmandale isikule neid andmeid teie isiku tuvastamist võimaldavas vormis. Teie andmeid hallatakse alati kooskõlas Samsungi privaatsuspoliitikaga, mida saate lugeda aadressil http://account.samsung.com/membership/pp.
+
+6. Juurdepääs andmetele 
+
+Tarkvara mõned funktsioonid võivad eeldada mobiilseadmel internetiühenduse loomise võimalust ning neile võivad kohalduda teie võrgu- või internetiteenuse osutaja poolt kehtestatud piirangud. Tarkvarale juurdepääsemiseks võib tekkida mobiilsidevõrgu kasutamise vajadus, mis omakorda võib teie andmeside plaanist tulenevalt põhjustada lisatasusid.  Lisaks võib tarkvara mõnede funktsioonide nauditavust mõjutada ka seadme riistvara sobilikkus ja jõudlus ning juurdepääs andmetele. 
+
+7 Tarkvara üleandmine 
+
+Teil ei ole õigus anda käesolevast Lepingust tulenevaid, tarkvaraga seotud õiguseid ega kohustusi ühelegi kolmandale isikule juhul, kui üleandmine ei ole seotud tarkvaraga kaasneva kasutatud seadme müügiga. Viimasel juhul peab üleandmine hõlmama kogu tarkvara (sealhulgas kõik komponentide, meediumi ja prinditud materjalide osad, värskendused, käesolev Leping) ning teil ei ole õigust tarkvara koopiat endale hoida. Üleandmine ei tohi toimuda kaudselt, näiteks kaubasaadetise näol. Enne üleandmist peab tarkvara vastuvõttev lõppkasutaja nõustuma käesoleva Lepingu kõikide tingimustega.
+
+8. Ekspordipiirang  
+
+Tunnistate, et Manager'ile ja tarkvarale võivad kohalduda erinevate riikide ekspordipiirangud. Nõustute täitma kõiki Manager ja tarkvara puhul kohaldatavaid rahvusvahelisi ja kohalikke seaduseid, sealhulgas kõiki ekspordipiiranguid sisaldavaid seadusi ja eeskirju.   
+
+9. Lõpetamine
+
+Käesolev Leping on jõus Lepingu lõpetamiseni. Teile käesoleva Lepingu alusel antavad õigused lõppevad automaatselt ja Samsungi-poolse teavituseta juhul, kui te ei täida käesolevas Lepingus sätestatud mis tahes tingimusi. Käesoleva Lepingu lõpetamisel peate lõpetama Manager'i ja tarkvara kasutamise täies mahus ning hävitama Manager'i või tarkvara kõik koopiad.
+
+10. Garantiist loobumine
+
+KUI TEIE KANTAVA SEADMEGA KAASASOLEVAS, PIIRATUD GARANTII KIRJALIKUS AVALDUSES EI OLE TEISITI SÄTESTATUD, EDASTATAKSE TARKVARA SAMSUNGI POOLT (KAS SIIS KANTAVA SEADME OSAKS OLEV, ALLALAADITUD VÕI MUUL MOEL HANGITUD TARKVARA) „SELLISENA NAGU SEE ON” JA „SELLISENA, NAGU SEE ON KÄTTESAADAV” NING ILMA, ET SELLEKS KAASNEKS SAMSUNGI SELGESÕNALIST VÕI VIHJATUD GARANTIID. SAMSUNG LOOBUB KOHALDATAVAS SEADUSES SÄTESTATUD MAKSIMUMMÄÄRAS IGASUGUSEST GARANTIIST, OLGU SEE SIIS SELGESÕNALINE, VIHJATUD VÕI KOHUSTUSLIK, SEALHULGAS KUID MITTE AINULT, VIHJATUD GARANTII SEOSES KAUPLEMISE, RAHULDAVA KVALITEETI VÕI TÖÖJÕUDLUSE, KONKREETSEL EESMÄRGIL KASUTAMISEKS SOBILIKKUSE, TÖÖKINDLUSE VÕI KÄTTESAADAVUSE, TÄPSUSE, VIIRUSTE PUUDULIKKUSE, MÜRAVABA NAUTIMISE, KOLMANDA ISIKU ÕIGUSTE MITTERIKKUMISE VÕI TEISTE ÕIGUSTE MITTERIKKUMISEGA SEOSES. MÕNED KOHTUALLUVUSED EI LUBA VIHJATUD GARANTIID VÄLISTADA EGA PIIRATA, MISTÕTTU EI PRUUGI EELNIMETATUD VÄLJAARVAMISED VÕI PIIRANGUD TEILE KEHTIDA. PÄRAST KÄESOLEVAT LOOBUMISTEADET EI MÕJUTA TEIE POOLT SAMSUNGILT VÕI SELLE SIDUSETTEVÕTJATELT SAADUD NÕUANDED VÕI TEAVE, OLGU SIIS SUULISES VÕI KIRJALIKUS VORMIS, SAMSUNGI GARANTIIST LOOBUMIST SEOSES TARKVARAGA NING NÕUANDEID JA TEAVET EI KÄSITLETA SAMSUNGI POOLT ANTAVA GARANTII TEKKIMISENA. 
+
+11. Samsungi rakendused ja teenused
+
+Teatud rakendused ja/või teenused võivad olla teie Kantavasse Seadmesse eellaaditud või siis seadmesse allalaaditavad. Selliste rakenduste ja/või teenuste kasutamine võib eeldada teenuse Samsung Service kasutajaks olemist („Samsungi konto”). Teie kohustused ja õigused Samsungi konto kasutamisel on kehtestatud eraldi tingimustes, aga ka Samsungi konto privaatsuspoliitikas. Samsungi konto kasutamist mitte-eeldavad rakendused ja/või teenused võivad küsida teie nõusolekut vastavate tingimuste, aga ka vastava privaatsuspoliitikaga. Käesolevaga mõistate ja nõustute, et iga vastava rakenduse ja teenuse puhul rakenduvad asjakohased tingimused ja privaatsuspoliitika.
+
+12. Vastutuse piiramine
+
+SAMSUNG EI OLE VASTUTAV MIS TAHES KAHJUDE EEST, MIDA PÕHJUSTAB VÕI MIS ON SEOTUD TARKVARA, SELLE SISU VÕI FUNKTSIOONIDE KASUTAMISEGA VÕI SUUTMATUSEGA NEID KASUTADA, SEALHULGAS KUID MITTE AINULT VEAD, TEGEMATAJÄTMISED, KATKESTUSED, DEFEKTID, VIIVITUS TÖÖTAMISEL VÕI EDASTAMISEL, ARVUTIVIIRUSED, SUUTMATUS ÜHENDUST LUUA, VÕRGUTASUD NING KÕIK MUUD OTSESED, KAUDSED, KONKREETSED, EKSITUSLIKUD, HOIATAVAD VÕI TEGEVUSEST TULENEVAD KAHJUD, SEDA ISEGI JUHUL, KUI SAMSUNGIT ON SELLISTE KAHJUDE TEKKIMISE TÕENÄOSUSEST TEAVITATUD. MÕNES KOHTUALLUVUSES EI LUBATA KOHALDADA JUHUSLIKE VÕI TEGEVUSEST TULENEVATE KAHJUDE VÄLISTAMIST VÕI PIIRAMIST, MISTÕTTU EI PRUUGI EELNIMETATUD VÄLISTAMINE VÕI PIIRANGUD TEILE KEHTIDA. VAATAMATA EELPOOL MAINITULE EI ÜLETA SAMSUNGI ÜLDINE KOHUSTUS TEIE EES, SEOSES KÕIKIDE KAHJUDE, KAHJUSTUSTE, HAGI ALUSTE, SEALHULGAS KUID MITTE AINULT LEPINGUST TULENEV KOHUSTUS, KAHJU TEKITAMINE VÕI MUU TEGEVUS, MIS TULENEB TARKVARA TEIEPOOLSEST KASUTAMISEST VÕI KÄESOLEVA LEPINGU MIS TAHES SÄTTEST, SUMMAT, MIS OSTJA TARKVARA EEST TASUS. EELNIMETATUD PIIRANGUD, VÄLISTAMISED JA LOOBUMISED (SEALHULGAS JAOTISED 10 JA 11) KEHTIVAD KOHALIKUS SEADUSANDLUSES SÄTESTATUD MAKSIMUMMÄÄRAS, SEDA ISEGI JUHUL, KUI ÕIGUSKAITSEVAHEND EI SUUDA TÄITA OMA ESIALGSET EESMÄRKI.
+
+13. Kohaldatav seadusandlus
+
+Käesolevale Lepingule kohaldatakse teie elukoha kohtualluvuse seaduseid, seda isegi juhul, kui Lepingu sätted on kooskõlas õigusaktide sätetega. Käesolevale Lepingule ei kohaldu ÜRO konventsioon kaupade rahvusvaheliste müügilepingute kohta, kuna selle kohaldamine on selgesõnaliselt välistatud. 
+
+14. Vaidluste lahendamine 
+
+Kui käesoleva Lepingu kohaldamisest või tarkvara teiepoolsest kasutamisest tulenevat vaidlust, vastuolu või erinevust ei ole võimalik rahumeelselt lahendada, tuleb olukord lahendada teie elukoha kohtualluvuse mitteainupädevas kohtus. Vaatamata eelnimetatule on Samsungil õigus igas kohtualluvuses rakendada ettekirjutavaid õiguskaitsevahendeid (või samaväärseid kiireid õiguslikke lahendusi).
+
+15.  Terviklik leping
+
+Käesolev Leping on terviklik, teie ja Samsungi vahel sõlmitud leping, mis käsitleb tarkvara ning asendab kõiki eelnevaid ja samaaegseid suulisi või kirjalikke teatiseid, ettepanekuid ja esitlusi seoses tarkvara või käesolevas Lepingus käsitletud mis tahes muu teemaga. Kui mõni käesoleva Lepingu säte tunnistatakse tühiseks, kehtetuks, täitmisele mittepööratavaks või ebaseaduslikuks, jäävad teised sätted kehtima ja kuuluvad kohaldamisele.

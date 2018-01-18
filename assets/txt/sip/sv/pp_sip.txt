@@ -1,0 +1,4 @@
+Informationsleveransavtal<br>
+Samsung-tangentbord använder talidentifieringsteknik som tillhandahålls av en tredjepartsleverantör, Nuance Communications, Inc. Därför måste din röstinformation sparas i en server som hanteras av Nuance (i USA), om du vill använda Samsung-tangentbord måste du därför acceptera <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuances villkor</a>.
+Nuance förbehåller sig rätten att använda dina röstinmatningar för att förbättra tjänsterna och utveckla tekniker. Nuance förbehåller sig även rätten att leverera tidigare nämnda röstinmatningar till Nuances partners. Din röstinmatningsinformation lagras tills tidigare nämnda objektiv har uppnåtts. Information om tjänsten Samsung-tangentbord finns i <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuances Sekretesspolicy</a>.
+Du kan inte använda Samsung-tangentbord om du inte accepterar leveransen av din information så som beskrivs ovan.

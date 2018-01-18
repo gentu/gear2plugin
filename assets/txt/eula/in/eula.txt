@@ -1,0 +1,72 @@
+Perjanjian Lisensi Pengguna Akhir
+
+Baca Perjanjian Lisensi Pengguna Akhir ("Perjanjian") ini dengan seksama sebelum menggunakan perangkat pakai yang diproduksi atau bermerek Samsung yang kompatibel dengan perangkat seluler Samsung seperti Gear dan Gear Fit (secara kolektif disebut " Perangkat Pakai"), dan aplikasi manajer Perangkat Pakai Samsung yang kompatibel dengan perangkat seluler Samsung (secara kolektif disebut "Manajer") karena berisi informasi penting. 
+
+Perjanjian ini merupakan kesepakatan hukum antara Anda (baik perorangan maupun entitas tunggal) dan Samsung Electronics Co., Ltd. (“Samsung”) untuk perangkat lunak, yang dimiliki oleh Samsung dan perusahaan afiliasinya serta penyedia pihak ketiga dan pemberi izin, yang menyertai Perjanjian ini, termasuk perangkat lunak dan media terkait, materi cetak, dokumentasi “online” ataupun elektronik yang berhubungan dengan penggunaan Perangkat Pakai dan/atau Manajer (selanjutnya secara kolektif disebut “Perangkat Lunak”). 
+
+Manajer adalah program perangkat lunak untuk menghubungkan perangkat seluler Anda (“Perangkat”) kepada Perangkat Pakai dan memungkinkan Anda mengelola, mengontrol, atau memperbarui perangkat lunak Perangkat Pakai melalui Perangkat tersebut. Perangkat Pakai memerlukan perangkat lunak pramuat untuk operasi normalnya. Dengan menggunakan Perangkat Pakai, Manajer atau perangkat lunak pramuatnya, berarti Anda menyetujui syarat-syarat dalam Perjanjian ini.  Bila Anda tidak menyetujui persyaratan ini, jangan gunakan Perangkat Pakai, Manajer ataupun perangkat lunak pramuatnya. 
+
+1. Pemberian Izin
+
+Sesuai syarat dan ketentuan Perjanjian ini, Anda diberi izin terbatas non eksklusif, dan dapat dibatalkan untuk menginstal, menggunakan, mengakses, menampilkan dan menjalankan satu salinan atas Manajer pada satu Perangkat Pakai. Anda tidak diizinkan menggunakan Manajer lewat sebuah jaringan yang kemudian membuatnya dapat digunakan oleh beberapa Perangkat Pakai pada waktu yang sama.
+
+Beberapa item pada Perangkat Lunak dapat tunduk kepada lisensi sumber terbuka/open source. Ketentuan lisensi sumber terbuka/open source mungkin/dapat menggantikan sebagian dari persyaratan pada Perjanjian ini.
+
+2. Pernyataan Hak dan Kepemilikan
+
+Samsung memegang segala hak yang tidak langsung/secara tegas diberikan kepada Anda dalam Perjanjian ini. Perangkat lunak dilindungi oleh hak cipta serta hukum dan traktathak intelektual lainnya. Samsung berhak atas/memiliki nama/title, hak cipta dan hak kekayaan intelektual lain dari Perangkat lunak ini. Perangkat lunak berlisensi dan tidak dijual.
+
+3. Batasan Izin
+
+Anda tidak dapat merekayasa ulang/kembali mesin, memisahkan, membongkar, atau sebaliknya mencoba menemukan kode sumber atau algoritme Perangkat Lunak, atau memodifikasi, atau mematikan fitur apa pun dari Perangkat Lunak, atau membuat fungsi turunan yang berasal dari Perangkat Lunak tersebut. Anda tidak dapat menyewakan, mengontrakkan, meminjamkan, membuat sublisensi atau menyediakan layanan host komersial menggunakan Perangkat Lunak tersebut.
+4. Layanan dan Pembaruan
+
+Perangkat Pakai dan Manajer memuat, atau mungkin dapat kompatibel dengan Perangkat Lunak tertentu untuk manajemen kebugaran (“Perangkat Lunak Kebugaran”). Perangkat Lunak Kebugaran ditujukan hanya untuk pemakaian rekreasisaja. Perangkat Pakai dan Perangkat Lunak Kebugaran tidak dimaksudkan untuk tujuan diagnosis suatu penyakit atau kondisi lainnya, atau dalam penyembuhan, mitigasi, pengobatan, atau pencegahan suatu penyakit ataupun tujuan medis lainnya. Data tertentu yang berasal dari Perangkat Lunak Kebugaran digunakan hanya untuk tujuan pemberitahuan dan tidak ditujukan untuk menggantikan hubungan antara Anda dan dokter atau penyedia layanan medis lainnya. Jangan pernah mengabaikan nasihat profesional medis atau menunda pengobatan dikarenakan keterangan yang Anda peroleh dari Perangkat Lunak Kebugaran.
+
+Layanan pihak ketiga mungkin juga tersedia untuk Anda. Samsung menaifkan/menolaksetiap jaminan atau pernyataan apa pun terhadap konten, akurasi, kelengkapan, keefektifan, kesesuaian hukum atau undang-undang dari layanan pihak ketiga mana pun.
+
+Anda dapat memperbarui Perangkat Lunak dari Perangkat Pakai dengan menggunakan Manajer. Samsung dapat menyediakan atau memberikan Anda akses untuk pembaruan Perangkat Lunak dari Perangkat Pakai Anda ("Pembaruan"), termasuk tanpa batasan perbaikan bug, layanan peningkatan, serta peningkatan dan perbaikan perangkat lunak yang sebelumnya sudah terinstal pada Perangkat Pakai Anda. Untuk menggunakan versi yang disediakan lewat Pembaruan, Anda harus terlebih dahulu memiliki izin bahwa perangkat lunak tersebut memenuhi syarat untuk Pembaruan. Versi yang diperbarui mungkin akan menambah fungsi baru dan dalam hal tertentu, dapat menghapus fungsi yang sebelumnya ada. Meski Pembaruan secara umum akan tersedia, dalam kondisi tertentu, Pembaruan hanya akan ditawarkan oleh layanan operator jaringan Anda, dan Pembaruan tersebut akan diatur oleh hubungan kontrak Anda dengan operator jaringan tersebut.
+
+5. Izin Penggunaan Data
+
+Anda memahami dan menyetujui bahwa Samsung dan/atau afiliasinya dapat mengumpulkan dan menggunakan informasi seperti nomor seri, model, kode pelanggan, rekaman akses, versi SW perangkat Anda saat ini, MCC (Kode Negara Ponsel), MNC (Kode Jaringan Ponsel) dan TWID (nomor identifikasi unik dari produk memori yang disertakan dalam Perangkat Pakai). Samsung dan afiliasinya dapat menggunakan informasi ini untuk memperbaiki atau meningkatkan layanan dukungan Perangkat Pakai dan Manajer dan tidak akan memberitahukan informasi ini ke pihak ketiga mana pun dalam bentuk yang secara khusus memaparkan jati diri Anda. Informasi Anda akan selalu digunakan sesuai dengan Kebijakan Privasi Samsung, yang dapat dilihat di: http://account.samsung.com/membership/pp.
+
+6. Akses Data 
+
+Beberapa fitur Perangkat Lunak mungkin akan mensyaratkan perangkat seluler Anda memiliki akses internet dan dapat tunduk terhadap batasan yang diberlakukan penyedia jaringan atau internet Anda. Perangkat lunak dapat mengakses melalui jaringan seluler Anda, dan Anda dapat dikenakan biaya tambahan tergantung paket pembayaran Anda.  Selain itu, penggunaan fitur Perangkat Lunak yang Anda gunakan mungkin akan bergantung pada kecocokan dan performa perangkat keras atau akses data pada perangkat Anda. 
+
+7. Pengalihan Perangkat Lunak 
+
+Anda tidak dapat mengalihkan Perjanjian ini atau hak atau kewajiban atas Perangkat Lunak yang diberikan di sini kepada pihak ketiga mana pun kecuali bila Perangkat Pakai yang disertai dengan Perangkat Lunak tersebut dijual. Dalam hal tersebut, pengalihan harus menyertakan semua Perangkat Lunak (termasuk semua komponen, media dan materi cetak, peningkatan, juga Perjanjian ini) dan Anda tidak diizinkan menyimpan salinan Perangkat Lunak tersebut. Pengalihan bisa jadi bukan pengalihan tidak langsung, seperti penitipan/konsinyasi. Sebelum pengalihan, pengguna akhir yang menerima Perangkat Lunak haruslah menyetujui semua persyaratan dalam Perjanjian.
+
+8. Pembatasan Ekspor  
+
+Anda memahami bahwa Manajer atau Perangkat Lunak tunduk pada pembatasan ekspor di negara tertentu. Anda setuju untuk menaati semua peraturan hukum internasional dan nasional yang berlaku, yang diterapkan pada Manajer dan Perangkat Lunak, termasuk semua hukum dan peraturan pembatasan ekspor yang berlaku.   
+
+9. Terminasi
+
+Perjanjian ini berlaku efektif hingga masa penghentian perjanjian. Hak Anda yang tercakup dalam Perjanjian ini akan otomatis dihentikan tanpa pemberitahuan dari Samsung bila Anda gagal menaati bagian mana pun dari Perjanjian ini. Pada saat penghentian Perjanjian ini, Anda haruslah menghentikan penggunaan Manajer atau Perangkat Lunak dan menghapus semua salinan Manajer atau Perangkat Lunak.
+
+10. Penyangkalan Jaminan
+
+KECUALI DINYATAKAN TERPISAH SECARA TERTULIS JAMINAN TERBATAS YANG MENYERTAI PERANGKAT PAKAI ANDA, PERANGKAT LUNAK YANG DIBERIKAN OLEH SAMSUNG (BAIK DISERTAKAN DENGAN PERANGKAT PAKAI, DIUNDUH, ATAU DIPEROLEH DENGAN CARA LAIN) DISEDIAKAN “SEBAGAIMANA ADANYA” DAN DALAM KONDISI “SEBAGAIMANA TERSEDIA”, TANPA JAMINAN APA PUN DARI SAMSUNG, BAIK DINYATAKAN SECARA TEGAS MAUPUN TERSIRAT. SEJAUH SESUAI HUKUM YANG BERLAKU, SAMSUNG MENYANGKAL SEGALA JAMINAN YANG DINYATAKAN, TERSIRAT, ATAUPUN BERDASARKAN UNDANG-UNDANG, TERMASUK, NAMUN TIDAK TERBATAS PADA, JAMINAN PERDAGANGAN TERSIRAT, KUALITAS MEMUASKAN ATAU USAHA KERJA, KESESUAIAN AKAN TUJUAN TERTENTU, KEANDALAN ATAU KETERSEDIAAN, AKURASI, BEBAS VIRUS, KESENANGAN SENDIRI, BEBAS PELANGGARAN HAK PIHAK KETIGA ATAU PELANGGARAN HAK LAINNYA. BEBERAPA YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN JAMINAN TERSIRAT, JADI PENGECUALIAN ATAU PEMBATASAN DI ATAS MUNGKIN TIDAK BERLAKU UNTUK ANDA. TIDAK ADA SARAN ATAU INFORMASI, LISAN ATAUPUN TULISAN, YANG ANDA PEROLEH DARI SAMSUNG ATAUPUN AFILIASINYA YANG AKAN DITERIMA UNTUK MENGGANTI PENYANGKALAN JAMINAN OLEH SAMSUNG INI TERKAIT PERANGKAT LUNAK, ATAU UNTUK MEMBUAT JAMINAN APA PUN DARI SAMSUNG. 
+
+11. Aplikasi dan Layanan Samsung
+
+Beberapa aplikasi dan/atau layanan tertentu mungkin sudah dipramuat atau dapat diunduh di Pakai Anda. Aplikasi dan/atau layanan tersebut mungkin memerlukan keanggotaan Samsung Service (“Samsung Account”). Kewajiban dan hak-hak Anda di bawah Samsung Account diatur dalam syarat dan ketentuan yang terpisah serta kebijakan privasi untuk Samsung Account. Aplikasi dan/atau layanan tersebut yang tidak memerlukan Samsung Account mungkin meminta Anda untuk menyetujui syarat dan ketentuan serta kebijakan privasi mereka sendiri. Dengan ini Anda memahami dan menyetujui bahwa syarat dan ketentuan serta kebijakan privasi yang relevan berlaku untuk setiap aplikasi dan layanan terkait.
+
+12. Pembatasan Tanggung Jawab
+
+SAMSUNG TIDAK BERTANGGUNG JAWAB ATAS KERUSAKAN YANG TIMBUL DARI ATAU AKIBAT PENGGUNAAN ATAU KETIDAKMAMPUAN MENGGUNAKAN PERANGKAT LUNAK, KONTEN ATAU FUNGSINYA, TERMASUK NAMUN TIDAK TERBATAS PADA KERUSAKAN YANG DISEBABKAN ATAU TERKAIT KESALAHAN, PENGHILANGAN, GANGGUAN, KERUSAKAN, PENUNDAAN OPERASI ATAU TRANSMISI, VIRUS KOMPUTER, GAGAL SAMBUNG, BIAYA JARINGAN, DAN SEGALA KERUSAKAN LAINNYA, LANGSUNG, TIDAK LANGSUNG, KHUSUS, INSIDENTAL, EXEMPLARY/KARENA MENIRU, ATAU KERUSAKAN/KERUGIAN KONSEKUENSIAL BAHKAN BILA SAMSUNG TELAH DIBERIKAN KETERANGAN/NASIHAT MENGENAI KEMUNGKINAN KERUSAKAN TERSEBUT. BEBERAPA WILAYAH YURISDIKSI TIDAK MENGIZINKAN PENGECUALIAN ATAU PEMBATASAN KERUSAKAN INSIDENTAL ATAU KONSEKUENSIAL, JADI PENGECUALIAN DI ATAS MUNGKIN TIDAK BERLAKU UNTUK ANDA. MESKIPUN DEMIKIAN, TANGGUNG JAWAB PENUH SAMSUNG KEPADA ANDA UNTUK SEMUA KERUGIAN, KERUSAKAN, PENYEBAB TINDAKAN, TERMASUK NAMUN TIDAK TERBATAS PADA UNSUR YANG TERDAPAT DALAM KONTRAK, GUGATAN, ATAU SEBALIKNYA, YANG MUNCUL DARI PENGGUNAAN PERANGKAT LUNAK, ATAU BAGIAN LAINNYA DARI PERJANJIAN INI, TIDAK BOLEH/TIDAK AKAN MELAMPAUI JUMLAH YANG DIBAYAR PEMBELI KHUSUSNYA UNTUK PERANGKAT LUNAK INI. PEMBATASAN, PENGECUALIAN, DAN PENYANGKALAN SEBELUMNYA (TERMASUK BAGIAN 10 DAN 11) AKAN DITERAPKAN HINGGA BATAS MAKSIMUM YANG DIIZINKAN OLEH HUKUM YANG BERLAKU, BAHKAN BILA USAHA PERBAIKAN LAINNYA TIDAK BERHASIL MENGEMBALIKAN TUJUAN UTAMANYA.
+
+13. Hukum Yang Berlaku
+
+Persetujuan ini diatur oleh hukum yurisdiksi yang berlaku di negara Anda, tanpa mengabaikan konflik ketentuan hukum yang ada. Persetujuan ini tidak diatur oleh Konvensi PBB pada Kontrak Penjualan Barang Internasional, penerapan yang jelas dikecualikan. 
+
+14. Penyelesaian Perselisihan 
+
+Bila masalah, perselisihan atau perbedaan muncul dengan cara apa pun dari Persetujuan ini atau penggunaan Perangkat Lunak tidak dapat diselesaikan secara damai, maka hal ini akan bergantung kepada yurisdiksi non eksklusif pengadilan dari wilayah yurisdiksi negara Anda.  Meskipun demikian, Samsung dapat melakukan penyelesaian/mengajukan putusan sela ganti rugi (atau penyelesaian hukum yang serupa) di yurisdiksi mana pun.
+
+15. Keseluruhan Perjanjian
+
+Perjanjian ini merupakan kesepakatan menyeluruh antara Anda dan Samsung sehubungan dengan Perangkat Lunak dan menggantikan semua komunikasi lisan atau tertulis, proposal dan pernyataan sebelumnya atau yang bersifat sementara, terkait Perangkat Lunak atau masalah lainnya yang tercakup dalam Perjanjian ini. Bila ada bagian dari Perjanjian ini yang dibatalkan, tidak berlaku, tidak dapat dilakukan atau ilegal, maka bagian lainnya akan tetap berlaku dan diterapkan penuh.

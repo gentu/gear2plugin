@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/scrollview" android:layout_width="fill_parent" android:layout_height="@dimen/settings_safety_agreement_scrollview_chn" android:layout_marginBottom="16.0dip">
+        <RelativeLayout android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="18.0sp" android:textColor="@color/normal_text_color" android:gravity="center|left|top" android:id="@id/textView1" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="16.0dip" android:text="@string/shm_new_disclaimer_msg_01" android:layout_centerHorizontal="true" android:textDirection="locale" />
+        </RelativeLayout>
+    </ScrollView>
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/scrollviewAgree" android:layout_width="wrap_content" android:layout_height="@dimen/safety_agreement_scrollview_chn" android:layout_below="@id/scrollview">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/relative_checkbox1" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/settings_safety_agreement_line_margin">
+                <CheckBox android:gravity="center" android:id="@id/checkBox1" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="20.0dip" android:checked="true" android:button="@drawable/manager_checkbox_btn" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+                <TextView android:textSize="@dimen/send_help_message_checkbox_desc" android:textColor="@color/winset_dark_description_text" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/textView8" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:layout_marginRight="20.0dip" android:minHeight="@dimen/settings_safety_agreement_line_margin" android:text="@string/setting_send_emergency_term_agree" android:layout_toRightOf="@id/checkBox1" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/relative_checkbox2" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="72.0dip" android:layout_below="@id/relative_checkbox1">
+                <CheckBox android:gravity="center" android:id="@id/checkBox2" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="20.0dip" android:checked="true" android:button="@drawable/manager_checkbox_btn" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+                <TextView android:textSize="@dimen/send_help_message_checkbox_desc" android:textColor="@color/winset_dark_description_text" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/textView9" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:layout_marginRight="20.0dip" android:minHeight="72.0dip" android:text="@string/shm_share_my_location_checkbox_text" android:layout_toRightOf="@id/checkBox2" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/relative_checkbox3" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="110.0dip" android:layout_below="@id/relative_checkbox2">
+                <CheckBox android:gravity="center" android:id="@id/checkBox3" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginLeft="20.0dip" android:checked="true" android:button="@drawable/manager_checkbox_btn" android:layout_centerVertical="true" android:layout_alignParentStart="true" />
+                <TextView android:textSize="@dimen/send_help_message_checkbox_desc" android:textColor="@color/winset_dark_description_text" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/textView10" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:layout_marginRight="20.0dip" android:minHeight="110.0dip" android:text="@string/shm_I_agree_that_mobile_data" android:layout_toRightOf="@id/checkBox3" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/relativeLayout1" android:background="@drawable/tw_ab_bottom_transparent_mtrl" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true">
+        <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <Button android:textSize="19.0dip" android:textColor="@color/winset_dark_description_text" android:id="@id/buttonleft" android:background="@drawable/manager_winset_btn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/cancel" android:fontFamily="sans-serif-light" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/buttonRightRelative" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <Button android:enabled="false" android:textSize="19.0dip" android:textColor="@color/winset_dark_description_text" android:id="@id/buttonright" android:background="@drawable/manager_winset_btn" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/ok" android:fontFamily="sans-serif-light" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,8 @@
+Samsung teklatua eta Hizketa Errekonozitzeko Zerbitzu baten erabilera
+1.	Samsung teklatua zerbitzuak hizketa errekonozitzeko teknologia erabiltzen du zerbitzuaren osagai gisa. Samsung-ek hirugarren batek, Nuance Communications Inc.-ek (“Nuance”), hornitutako hizketa errekonozitzeko zerbitzua (“hizketa errekonozitzeko zerbitzua”) erabil dezakeela onartzen duzu eta Samsung teklatua zerbitzua erabiltzean hurrengoak onartzen dituzu.
+2.	Samsung teklatua zerbitzuari eskaera automatizaturik edo grabaturik ez bidaltzea onartzen duzu.
+3.	Hizketa errekonozitzeko zerbitzua emateko, Nuance-k Samsung teklatua zerbitzuari diktatzen dizkiozun hitzak (baita hitz horien audio grabaketak, haiek lotutako transkripzioak eta erregistro fitxategiak) (“hizketa datuak”) bilduko dituela onartzen duzu.
+4.	Baliteke, hizketa errekonozitzeko zerbitzua ematean, Nuance-k hizketa datuak biltzea eta Nuance-k eta haren bazkideek horiek erabiltzea (a) hizketa errekonozitzeko zerbitzua eta (b) bestelako Nuance produktuak eta zerbitzuak zehazteko, hobetzeko eta aurreratzeko erabiltzea. Zuk hori onartzen duzu.
+5.	Baliteke zure hizketa datuak Estatu Batuetara eta/edo beste herrialde batzuetara transferitzea onartzen duzu, Nuance-k eta bere bazkideek haiek gordetzeko, prozesatzeko eta erabiltzeko.
+6.	Zuk ematen dituzun hizketa datu guztiak konfidentzialak izango dira eta lege aplikagarrien arabera erabiliko dira. Hala ere, baliteke Nuance-k haiek jakinaraztea legeak betetzeko, adibidez, lege batek exijitzen edo ahalbidetzen badu auzitegi edo gobernu agentzia baten aginduz, edo Nuance-k erosten edo harekin bat egiten duen hirugarren bati.
+

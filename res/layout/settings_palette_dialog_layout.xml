@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/textView_popuptitle" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:id="@id/layout_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle">
+        <GridLayout android:orientation="horizontal" android:id="@id/palette_panel_list" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="24.0dip" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/settings_palette_dialog_btn" android:layout_marginRight="8.0dip" android:text="@string/cancel" android:layout_below="@id/palette_panel_list" android:layout_alignParentRight="true" style="@style/TextView_PopupButton" />
+        <View android:layout_width="fill_parent" android:layout_height="16.0dip" android:layout_below="@id/settings_palette_dialog_btn" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Nav pieejams zvana laikā.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Pilnekrāna uznirstošais logs</string>
+    <string name="alert_mini">Mini uznirstošais logs</string>
+    <string name="alertdialog_backkey_popup_content">Brīdinājums</string>
+    <string name="alertdialog_disconnect_popup_description">Ierīce Gear tiks atvienota. Izmantojiet Bluetooth, lai atkārtoti izveidotu savienojumu.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Šādi tiks pārtraukts savienojums ar ierīci %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Ierīce %s tiks atvienota no jūsu mobilās ierīces. Nākamreiz, savienojot šīs ierīces, izmantojiet Bluetooth. Pēc tam visus savienojumus var izveidot, izmantojot attālo savienojumu.</string>
+    <string name="alertdialog_uninstall_popup_content">Atinstalēt</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">Programma %1$s nav instalēta jūsu mobilajā ierīcē. Lai ierīcē Gear izmantotu programmu %2$s, lejupielādējiet savā mobilajā ierīcē programmu %1$s.</string>
+    <string name="attention_popup_title">Uzmanību</string>
+    <string name="auto_call_forwarding">Autom. zvanu pārsūtīšana</string>
+    <string name="auto_call_forwarding_att">Autom. zvanu pārsūt. uz Gear</string>
+    <string name="auto_call_forwarding_desc">Aktivizējiet zvanu automātisko pārsūtīšanu, kamēr ierīce Gear ir atvienota no jūsu mobilās ierīces. Tādējādi ienākošie zvani no mobilās ierīces tiks pārsūtīti uz ierīci Gear līdz brīdim, kad abas ierīces būs atkal savienotas.</string>
+    <string name="auto_update">Automātiska atjaunināšana</string>
+    <string name="auto_update_summary">Automātiski meklēt atjauninājumus.</string>
+    <string name="backing_up">Veido kopijas…</string>
+    <string name="backup_complete">Dublēšana pabeigta.</string>
+    <string name="bnr_backup">Veido kopijas…</string>
+    <string name="bnr_bakcup_title">Dublējums</string>
+    <string name="bnr_cancel">Atcelt</string>
+    <string name="bnr_canel">Atcelt</string>
+    <string name="bnr_error_occurred">Radās kļūda</string>
+    <string name="bnr_except">%1$s (izņemot %2$s)</string>
+    <string name="bnr_except_autolock">Automātiska bloķēšana</string>
+    <string name="bnr_except_remoteconnection">Attālais savienojums</string>
+    <string name="bnr_except_texttemplate">Teksta veidnes</string>
+    <string name="bnr_next">Nākam.</string>
+    <string name="bnr_no">Nē</string>
+    <string name="bnr_ok">Labi</string>
+    <string name="bnr_reset_gear">Lai izveidotu savienojumu ar jaunu ierīci, ierīcē Gear tiks atjaunoti noklusējuma iestatījumi.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Ierīce Gear nav pilnībā iestatīta. Ierīcē Gear šobrīd ir atvērts iestatīšanas vednis. Lai izveidotu savienojumu ar Gear, atveriet programmas Gear Manager iestatīšanas vedni arī šajā ierīcē.</string>
+    <string name="bnr_reset_initialization">Paziņojums</string>
+    <string name="bnr_restore">Atjaunot</string>
+    <string name="bnr_restored">Dati ir atjaunoti.</string>
+    <string name="bnr_setupwizard_title2">Dublēšana un atjaunošana</string>
+    <string name="bnr_yes">Jā</string>
+    <string name="bt_connected">Pievienots</string>
+    <string name="bt_disconnected">Atvienots</string>
+    <string name="bt_unpaired">Nav savienots pārī</string>
+    <string name="button_finish">Beigt</string>
+    <string name="button_restore">Atjaunot</string>
+    <string name="call">ZVANS</string>
+    <string name="call_check_gear_status_when_cfwd">Zvanu pārsūtīšanas funkcijas No tālruņa uz Gear un No Gear uz tālruni nevar aktivizēt vienlaikus.</string>
+    <string name="call_dualsim1">SIM karte 1</string>
+    <string name="call_dualsim1sim2">Abas SIM kartes</string>
+    <string name="call_dualsim2">SIM karte 2</string>
+    <string name="call_forwarding">Zvanu pārsūtīšana</string>
+    <string name="call_forwarding_agree">Piekrītu.</string>
+    <string name="call_forwarding_desc">Pārsūtiet ienākošos zvanus no mobilās ierīces uz ierīci Gear.</string>
+    <string name="call_forwarding_desc_vzw">Pārsūtiet neatbildētos ienākošos zvanus no tālruņa uz ierīci Gear.</string>
+    <string name="call_forwarding_disable_msg">Tika veikts pieprasījums deaktivizēt zvanu pārsūtīšanu no mobilās ierīces uz ierīci Gear. Rezultātus var ietekmēt jūsu mobilā tīkla un mobilās ierīces statuss.</string>
+    <string name="call_forwarding_enable_msg">Tika veikts pieprasījums aktivizēt zvanu pārsūtīšanu no mobilās ierīces uz ierīci Gear. Rezultātus var ietekmēt jūsu mobilā tīkla un mobilās ierīces statuss.</string>
+    <string name="call_forwarding_for_att_msg">"Ja ierīce Gear tiks atvienota no jūsu viedtālruņa, mobilajā ierīcē saņemtie zvani tiks automātiski pārsūtīti uz ierīci Gear.
+- Viedtālrunis iezvanīsies pāris reizes, un pēc tam zvans tiks pārsūtīts uz ierīci Gear.
+- Ja neatbildēsit uz zvanu ierīcē Gear, zvanītājs varēs atstāt balss pasta ziņu, ko varēsit noklausīties ierīcē Gear.
+Vai vēlaties tagad aktivizēt zvanu pārsūtīšanu?"</string>
+    <string name="call_forwarding_notify_msg">Šobrīd ir aktivizēta zvanu pārsūtīšana no mobilās ierīces uz ierīci Gear. Jūsu mobilajā ierīcē ienākošie zvani tiks pārsūtīti uz ierīci Gear. Ja ierīce Gear nav jums līdzi, atveriet izvēlni Iestatījumi un deaktivizējiet automātisko zvanu pārsūtīšanu, lai nepalaistu garām zvanus.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Deaktivizē balss zvanu pārsūtīšanu…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Aktivizē balss zvanu pārsūtīšanu…</string>
+    <string name="call_no_gear_number">Nav numuru</string>
+    <string name="call_select_dualsim_title">Izvēlēties SIM karti</string>
+    <string name="call_voice_control">Balss vadība</string>
+    <string name="callforwarding_help_des1">Ieslēdziet ierīci, kuras zvani tiks pārsūtīti automātiski atkarībā no tā, vai ierīces ir savienotas, izmantojot Bluetooth vai attālo savienojumu.</string>
+    <string name="callforwarding_help_des2">Saņemiet uz mobilo ierīci veiktos zvanus ierīcē Gear, kad esat kustībā un lietojat Gear un kad tā ir attāli savienota ar mobilo ierīci.</string>
+    <string name="cancel">Atcelt</string>
+    <string name="cf_activated">Aktivizēts</string>
+    <string name="cf_deactivate_failed">Neizdevās deaktivizēt zvanu pārsūtīšanu.</string>
+    <string name="cf_deactivated">Deaktivizēts</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Izmantojot ierīci Gear, tiek lietoti jauni pulksteņa iestatījumi.</string>
+    <string name="clocks_download_more_clocks">Lejupielādēt pulksteņus</string>
+    <string name="clocks_noti_uninstall_clock">%s tiks atinstalēts.</string>
+    <string name="clocks_noti_uninstall_idle_clock">Pulkstenis %1$s tiks atinstalēts un kā noklusējuma pulkstenis tiks iestatīts %2$s.</string>
+    <string name="clocks_title_basic_clocks">PAMATPULKSTEŅI</string>
+    <string name="clocks_title_downloaded_clocks">LEJUPIELĀDĒTIE PULKSTEŅI</string>
+    <string name="clocks_title_style_clocks">STILA PULKSTEŅI</string>
+    <string name="clocks_uninstalled">Atinstalēts.</string>
+    <string name="clocks_uninstalling">Atinstalē…</string>
+    <string name="close">Aizvērt</string>
+    <string name="closing_samsung_gear_message">Ierīce Gear ir atiestatīta. Samsung Gear programma pēc īsa brīža tiks aizvērta.</string>
+    <string name="closing_samsung_gear_message_jpn">Ierīce Gear ir atiestatīta. Programma Gear pēc īsa brīža tiks aizvērta.</string>
+    <string name="closing_samsung_gear_title">Aizvērt Samsung Gear programmu</string>
+    <string name="closing_samsung_gear_title_jpn">Aizvērt programmu Gear</string>
+    <string name="cloud_backup_no_information">Nekad</string>
+    <string name="cloud_backup_restore_backup_now">Dublēt datus</string>
+    <string name="cloud_backup_restore_restore_now">Atjaunot datus</string>
+    <string name="cmw_agree">Piekrītu</string>
+    <string name="cmw_eula_agree">Es saprotu iepriekš minētos noteikumus un nosacījumus un tiem piekrītu.</string>
+    <string name="cmw_for_setting">Atrašanās vietas pakalpojumi ir deaktivizēti. Atveriet sadaļu Iestatījumi.</string>
+    <string name="cmw_high_accuracy_dialog_message">Lai ātrāk un precīzāk noteiktu atrašanās vietu, izvēlnē Atrašanās vieta > Režīms izvēlieties Augsta precizitāte.</string>
+    <string name="cmw_high_accuracy_dialog_title">Izvēlieties Augsta precizitāte</string>
+    <string name="cmw_legal_content">Iespējojot opciju “Kopīgot atrašanās vietu”, jūs piekrītat, ka ar jūsu mobilo tālruni un/vai Gear ierīci saistītie atrašanās vietas dati tiks pārsūtīti, izmantojot Samsung serveri, lai nodrošinātu pakalpojumu Find My Gear &amp; Find My Device. Samsung serverī netiek saglabāti dati vai informācija par jūsu ierīces atrašanās vietu.</string>
+    <string name="cmw_legal_content1">Iespējojot opciju “%1$s &amp; %2$s”, jūs piekrītat, ka ar jūsu mobilo tālruni un/vai Gear ierīci saistītie atrašanās vietas dati tiks pārsūtīti, izmantojot Samsung serveri, lai nodrošinātu pakalpojumu %1$s &amp; %2$s. Samsung serverī netiek saglabāti dati vai informācija par jūsu ierīces atrašanās vietu.</string>
+    <string name="cmw_legal_content1_no_gps">Iespējojot opciju “%1$s &amp; %2$s”, jūs piekrītat, ka ar jūsu mobilo tālruni saistītie atrašanās vietas dati tiks pārsūtīti, izmantojot Samsung serveri, lai nodrošinātu pakalpojumu %2$s. Samsung serverī netiek saglabāti dati vai informācija par jūsu ierīces atrašanās vietu.</string>
+    <string name="cmw_legal_content_2">Samsung konfidencialitātes politika</string>
+    <string name="cmw_legal_title">Juridiskā informācija</string>
+    <string name="cmw_location">Aktiviz. atrašanās vietas pak.</string>
+    <string name="cmw_show_on_map">Rādīt kartē</string>
+    <string name="color_black">Melna</string>
+    <string name="color_blue">Zila</string>
+    <string name="color_brown">Brūna</string>
+    <string name="color_gray">Pelēka</string>
+    <string name="color_green">Zaļa</string>
+    <string name="color_light_sky_blue">Debesu zils</string>
+    <string name="color_medium_purple">Violets</string>
+    <string name="color_orange">Oranža</string>
+    <string name="color_pink">Rozā</string>
+    <string name="color_purple">Purpursarkans</string>
+    <string name="color_red">Sarkana</string>
+    <string name="color_spring_green">Koši zaļa</string>
+    <string name="common_none">Neviena</string>
+    <string name="common_off">Izslēgts</string>
+    <string name="common_on">Ieslēgts</string>
+    <string name="common_recent_apps">Nes. progr.</string>
+    <string name="connect_popup_content">Veido savienojumu ar %s…</string>
+    <string name="connected_by_trasport_BT">Izveidots savienojums, izmantojot Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Savienots attāli</string>
+    <string name="connecting_content">Savienojuma izveide ar Gear</string>
+    <string name="connecting_doc">Pēc savienojuma izveides ar ierīci %1$s varat mainīt tās iestatījumus un instalēt tajā programmas, izmantojot %2$s.</string>
+    <string name="connecting_popup_message">Veido savienojumu ar Gear…</string>
+    <string name="connecting_popup_title">Izveidot savienojumu ar Gear</string>
+    <string name="connecting_to_gear_ing">Veido savienojumu ar Gear…</string>
+    <string name="connectingdoc">Pēc savienojuma izveides ar ierīci Gear varat mainīt tās iestatījumus un instalēt tajā programmas, izmantojot Gear Manager.</string>
+    <string name="connection_error_dialog_message">Jūsu ierīce nav pievienota. Tā mēģinās vēlreiz izveidot savienojumu.</string>
+    <string name="dialog_check_phone_number_msg1">Pārliecinieties, vai tālāk redzamā informācija ir pareiza:</string>
+    <string name="dialog_check_phone_number_msg2">Mobilā tālruņa numurs: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear tālruņa numurs: %s</string>
+    <string name="dialog_check_phone_number_msg4">Pieskarieties pie Labi, lai apstiprinātu un aktivizētu automātisko zvanu pārsūtīšanu.</string>
+    <string name="dialog_enable_remote_connection_desc">Lai aktivizētu automātisko zvanu pārsūtīšanu, aktivizējiet funkciju Attālais savienojums, pēc tam mēģiniet vēlreiz.</string>
+    <string name="dialog_enable_remote_connection_title">Aktivizēt attālo savienojumu</string>
+    <string name="dialog_permission_message">Funkciju %s nevar izmantot. Pieskarieties pie IESTATĪJUMI, izvēlieties Programmas dati > Atļaujas, pēc tam aktivizējiet tālāk norādītās atļaujas un mēģiniet vēlreiz:</string>
+    <string name="dialog_popup_button_cancel">Atcelt</string>
+    <string name="dialog_reverse_msg">Atkarībā no pakalpojumu sniedzēja šīs funkcijas izmantošanai mobilajā ierīcē un ierīcē Gear var būt nepieciešami atsevišķi abonementi. Tas var radīt papildu izmaksas.</string>
+    <string name="dialog_set_phone_number_msg">Lai aktivizētu automātisko zvanu pārsūtīšanu, iestatiet to ierīču tālruņu numurus, uz kuriem vēlaties pārsūtīt ienākošos zvanus vai saņemt tos.</string>
+    <string name="dialog_set_phone_number_title">Aktivizēt automātisko zvanu pārsūtīšanu</string>
+    <string name="disable_loc_text">Atrašanās vietas kopīgošana tiks deaktivizēta. Jūs nevarēsit izmantot atrašanās vietas informāciju, lai meklētu savu ierīci Gear vai mobilo ierīci, izmantojot funkciju Atrast manu Gear vai Meklēt manu ierīci.</string>
+    <string name="disable_loc_text_no_gps">Atrašanās vietas kopīgošana tiks deaktivizēta. Jūs nevarēsit izmantot atrašanās vietas informāciju, lai meklētu savu mobilo ierīci, izmantojot funkciju Meklēt manu ierīci.</string>
+    <string name="disable_remote_connection">Deakt. attālo savienojumu</string>
+    <string name="disable_remote_connection_fmm_fmd">Atrast manu Gear un Meklēt manu ierīci</string>
+    <string name="disable_remote_connection_receiving_blocked">Ziņu, e-pasta ziņu un paziņojumu saņemšana no mobilās ierīces</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">E-pasta ziņu un paziņojumu saņemšana no mobilās ierīces</string>
+    <string name="disable_remote_connection_warning">Attālais savienojums ir deaktivizēts. Tālāk norādītās funkcijas nebūs pieejamas, kamēr ierīce Gear nebūs atkal savienota ar mobilo ierīci, izmantojot Bluetooth:</string>
+    <string name="disable_share_location">Deaktivizēt atrašanās vietas kopīgošanu</string>
+    <string name="disconnect_popup_content">Atvieno %s…</string>
+    <string name="do_not_show_again">Vairs nerādīt</string>
+    <string name="enable_auto_call_forwarding_msg">Pārsūtiet ienākošos zvanus no mobilās ierīces automātiski uz ierīci Gear, kamēr Gear ir atvienota. Tas var radīt papildu izmaksas atkarībā no jūsu pakalpojumu sniedzēja. Pieskarieties pie Labi, lai aktivizētu automātisko zvanu pārsūtīšanu.</string>
+    <string name="enable_auto_call_forwarding_title">Aktiv. autom. zvanu pārsūt.</string>
+    <string name="enable_more_notifications_enable">Aktivizēt</string>
+    <string name="enable_notification_access">Aktivizēt piekļuvi paziņojumiem</string>
+    <string name="enable_notification_access_desc">"Šī funkcija varēs nolasīt visus saņemtos paziņojumus, kas var ietvert personisko informāciju, piemēram, kontaktus un jums sūtītās ziņas. Tā varēs arī noraidīt šos paziņojumus vai izvēlēties ar tiem saistītas darbības.
+Lai saņemtu paziņojumus ierīcē Gear, pieskarieties pie Aktivizēt, pēc tam aktivizējiet %s."</string>
+    <string name="enable_share_location">Aktivizēt atrašanās vietas kopīgošanu</string>
+    <string name="enabled_loc">Atrašanās vietas kopīgošana ir aktivizēta.</string>
+    <string name="error_enter_device_name">Ievadiet ierīces nosaukumu.</string>
+    <string name="error_occurred">Radās kļūda.</string>
+    <string name="eula_i_agree">Piekrītu.</string>
+    <string name="failed_tshare_msg">Neizdevās aktivizēt zvanu pārsūtīšanu. T share neatbild.</string>
+    <string name="find_my_device">Meklēt manu ierīci</string>
+    <string name="find_my_gear">Atrast manu Gear</string>
+    <string name="find_watch_btn_start">Sākt</string>
+    <string name="find_watch_btn_stop">Apturēt</string>
+    <string name="find_watch_off">Lai atrastu savu Gear, pieskarieties pie Sākt. Ierīce Gear atskaņos skaņu, un tiks ieslēgts tās ekrāns.</string>
+    <string name="find_watch_on">Lai pārtrauktu ierīces Gear meklēšanu, pieskarieties pie Beigt. Ierīce Gear beigs atskaņot skaņu, un tās ekrāns tiks izslēgts.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">Fonts %1$s tiks atinstalēts un ierīcē %2$s tiks lietots noklusējuma fonts.</string>
+    <string name="force_wifi_direct_msg">Programma tiks instalēta, izmantojot Wi-Fi Direct. Tādējādi tiks pārtraukts pašreizējais Wi-Fi Direct savienojums. Ja atcelsit šo instalēšanu, šī programma būs jālejupielādē vēlreiz, lai to instalētu.</string>
+    <string name="force_wifi_direct_title">Instalēt</string>
+    <string name="force_wifi_install">Instalēt</string>
+    <string name="gear2_backup_confirm_text">Ja dublēsit savus datus tūlīt, pašreizējie mobilajā ierīcē esošie Gear dublējuma dati tiks aizstāti ar jūsu jaunākajiem Gear datiem.</string>
+    <string name="gear2_restore_confirm_text">Ja atjaunosit savus datus, ierīcē Gear šobrīd esošie dati tiks izdzēsti un aizstāti ar jūsu pašreizējiem Gear dublējuma datiem.</string>
+    <string name="gear2_text">"Lai dublētu savu %1$s saturu, izmantojiet savas ierīces krātuvi:
+%2$s
+
+Ja iepriekš dublējāt šo saturu, varat to tagad atjaunot %3$s.
+
+Tas var aizņemt ilgāku laiku atkarībā no faila lieluma."</string>
+    <string name="gear2_text_import3">Iestatījumi</string>
+    <string name="gear_bnr_desc">"Izmantojiet mobilās ierīces krātuvi, lai dublētu šādus ierīces %1$s datus: %2$s
+
+Ja iepriekš dublējāt ierīces %3$s datus, tagad varat tos atjaunot ierīcē %4$s.
+
+Tas var ilgt kādu brīdi atkarībā no failu lieluma."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Jūsu mobilā ierīce tagad meklē jūsu Gear. Tas aizņems vairākas minūtes. Ja ierīce Gear atrodas iekštelpās, tās atrašanās vietu var būt grūtāk noteikt.</string>
+    <string name="gear_location_popup_title">Ierīces Gear atrašana</string>
+    <string name="gear_location_text">Gear atrašanās vieta</string>
+    <string name="gear_lock_success">Ierīce Gear ir bloķēta.</string>
+    <string name="gear_lock_text">Bloķēt Gear</string>
+    <string name="gear_locked">Ierīce Gear ir bloķēta</string>
+    <string name="gear_locked_text1">Ierīce Gear ir bloķēta. Lai atbloķētu, savienojiet ierīci Gear ar mobilo ierīci, izmantojot Bluetooth.</string>
+    <string name="gear_phone_number">Gear tālruņa numurs</string>
+    <string name="gear_phone_number_popup_desc">Visi mobilajā ierīcē saņemtie zvani tiks pārsūtīti uz %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Visi mobilajā ierīcē neatbildētie zvani tiks pārsūtīti uz %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Lai bloķētu ierīci Gear, vispirms jāaktivizē attālais savienojums.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Lai atiestatītu ierīci Gear, vispirms jāaktivizē attālais savienojums.</string>
+    <string name="gear_reset_text">Atiestatīt Gear</string>
+    <string name="gear_to_mobile">No Gear uz tālruni</string>
+    <string name="gear_to_mobile_des">Saņemiet uz ierīci Gear veiktos zvanus savā mobilajā ierīcē, kad abas ierīces ir savienotas, izmantojot Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Neizdevās atrast atrašanās vietu. Mēģiniet vēlreiz vēlāk.</string>
+    <string name="gear_unable_to_locate_title">Nevar noteikt Gear atrašanās vietu</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Fona attēli</string>
+    <string name="home_bg_color">Krāsas</string>
+    <string name="home_bg_colors_title">PIEEJAMĀS KRĀSAS</string>
+    <string name="home_bg_delete_actionbar_selected">Izvēlēts</string>
+    <string name="home_bg_delete_dialog_msg">No Gear Manager un jūsu ierīces Gear tiks noņemti %d fona attēli.</string>
+    <string name="home_bg_delete_select_all">Izv. visu</string>
+    <string name="home_bg_max_more_image_toast">Sasniegts maksimālais fona attēlu skaits (%d).</string>
+    <string name="home_bg_more_images">Citi attēli</string>
+    <string name="home_bg_popup_wallpaper_msg">Lejupielādē Gear fona attēlus…</string>
+    <string name="home_bg_popup_wallpaper_title">Lejupielādēt fona attēlus</string>
+    <string name="home_bg_toast_saved">Saglabāts.</string>
+    <string name="home_bg_wallpaper">Fona attēls</string>
+    <string name="home_bg_wallpapers_title">PIEEJAMIE FONA ATTĒLI</string>
+    <string name="homelayout_apps">Programmas</string>
+    <string name="incoming_calls_title">Ienākošie zvani</string>
+    <string name="info_build_number">Programmatūras versija</string>
+    <string name="info_model_number">Modeļa numurs</string>
+    <string name="info_software_update">Programmat. atj.</string>
+    <string name="information_provision_agreement">Informācijas nodrošināšanas līgums</string>
+    <string name="information_provision_agreement_mgs">"Pakalpojumā Voice Memo tiek lietotas runas atpazīšanas tehnoloģijas, ko nodrošina trešās puses pakalpojumu sniedzējs Nuance Communications, Inc. Tāpēc jūsu balss informācija tiek uzglabāta serverī, kura darbību nodrošina uzņēmums Nuance (Amerikas Savienotajās Valstīs), un pakalpojuma Voice Memo lietošanas nolūkos jums ir jāpiekrīt Nuance noteikumiem un nosacījumiem.
+ Nuance patur tiesības lietot jūsu balss ievadi pakalpojumu uzlabošanas un tehnoloģiju pilnveidošanas nolūkos. Uzņēmums Nuance patur arī tiesības nodrošināt iepriekšminēto balss ievadi Nuance partneriem. Informācija par jūsu balss ievadi tiek uzglabāta līdz iepriekšminēto mērķu sasniegšanai. Lai iegūtu informāciju par Voice Memo pakalpojumiem, lūdzu, lasiet Samsung konfidencialitātes politiku un Nuance konfidencialitātes politiku.
+ Pakalpojumu Voice Memo nedrīkst izmantot, ja nepiekrītat iepriekš aprakstītajiem jūsu informācijas nodrošināšanas nosacījumiem."</string>
+    <string name="init_manage_notifications_desc">Izvēlieties programmas, kuru paziņojumus vēlaties saņemt ierīcē %1$s. Lai taupītu ierīces %2$s akumulatora enerģiju, noņemiet atlasi programmām, kuru paziņojumus nevēlaties saņemt.</string>
+    <string name="install_in_progress">Notiek darbība…</string>
+    <string name="invalid_rename_character">Ievadīta nederīga rakstzīme. Mēģiniet vēlreiz.</string>
+    <string name="latest_version">Instalēta jaunākā versija</string>
+    <string name="latitude">Platums</string>
+    <string name="limit_notification_desc">Bloķējiet brīdinājuma signālu parādīšanu Gear ierīcē, kad tiek izmantota mobilā ierīce.</string>
+    <string name="limit_notification_dialog_desc">Jūsu ierīcē Gear nevar aktivizēt paziņojumu liegšanas funkciju. Jūsu mobilajā ierīcē nav iestatīta ekrāna bloķēšana.</string>
+    <string name="limit_notification_title">Ierobežot paziņojumus</string>
+    <string name="location_info_title">Kopīgot atrašanās vietu</string>
+    <string name="lock_gear_legal_text1">Izmantojot funkciju Bloķēt Gear, var attālināti bloķēt savu Gear, lai izvairītos no tā neatļautas lietošanas. Gear var atbloķēt, no jauna savienojot to ar mobilo ierīci.</string>
+    <string name="lock_gear_legal_text2">* Funkcijas Bloķēt Gear izpilde var aizņemt kādu laiku vai pat neizdoties, un tas atkarīgs no Gear stāvokļa, mobilās ierīces vai tīkla vides.</string>
+    <string name="lock_gear_text">Ierīci Gear nevar bloķēt, kad mobilā ierīce un ierīce Gear ir savienotas, izmantojot Bluetooth.</string>
+    <string name="login_to_samsung_account">Pierakst. Samsung kontā</string>
+    <string name="login_to_samsung_account_desc">Lai ierīcē Gear aktivizētu attālo savienojumu, pierakstieties savā Samsung kontā.</string>
+    <string name="login_to_samsung_account_full_desc">"Pierakstieties Samsung kontā,
+lai izmantotu šīs funkcijas,
+kad nav savien. ar Bluetooth:
+- Paziņojumu saņemšana
+- Programmu lietošana,
+izmantojot attālo savienojumu
+Attālā savienojuma lietošana
+var radīt papildu izmaksas."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Ja ar tālruni nav izveidots Bluetooth savienojums, Samsung konts ļauj izmantot mobilos datus šādiem mērķiem:
+- Saņemt ziņas, e-pasta ziņas un citus paziņojumus
+- Lietot ierīcē Gear programmas, kurām nepieciešams attālais savienojums ar jūsu tālruni
+
+Ņemiet vērā, ka Samsung konta attālais savienojums izmanto jūsu datu plānu."</string>
+    <string name="longitude">Garums</string>
+    <string name="main_bt_unpaired">Nav savienots pārī</string>
+    <string name="main_disconnected">Atvienots</string>
+    <string name="manage_applications">Pārvaldīt programmas</string>
+    <string name="manage_notifications">Paziņojumu pārvaldība</string>
+    <string name="manual_call_forwarding_for_att_msg">"Viedtālrunī saņemtos zvanus var pārsūtīt uz ierīci Gear:
+- Viedtālrunis iezvanīsies pāris reizes, un pēc tam zvans tiks pārsūtīts uz ierīci Gear.
+- Ja neatbildēsit uz zvanu ierīcē Gear, zvanītājs varēs atstāt balss pasta ziņu, ko varēsit noklausīties ierīcē Gear.
+Vai vēlaties tagad aktivizēt zvanu pārsūtīšanu?"</string>
+    <string name="manual_call_forwarding_popup_desc">Zvanu pārsūtīšana ir tīkla pakalpojums, kas pārvirza no %s ienākošos zvanus uz norādīto numuru. Atkarībā no pakalpojumu sniedzēja šīs funkcijas izmantošanai ierīcē Gear var būt nepieciešams abonements. Tas var radīt papildu izmaksas.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobilā ierīce</string>
+    <string name="masterapp_not_installed">Programma %1$s nav instalēta jūsu mobilajā ierīcē. Lai ierīcē Gear izmantotu programmu %2$s, lejupielādējiet savā mobilajā ierīcē programmu %1$s.</string>
+    <string name="masterapp_not_installed_goto_deeplink">Programma %1$s nav instalēta jūsu mobilajā ierīcē. Lai ierīcē Gear izmantotu programmu %2$s, lejupielādējiet savā mobilajā ierīcē programmu %1$s. Tiks atvērts lejupielādes ekrāns.</string>
+    <string name="masterapp_uninstalled">Programma %1$s ir atinstalēta jūsu mobilajā ierīcē. Lai ierīcē Gear izmantotu programmu %2$s, lejupielādējiet savā mobilajā ierīcē programmu %1$s.</string>
+    <string name="maximum_size_warning">Sasniegts maksimālais rakstzīmju skaits.</string>
+    <string name="menu_about_device">PAR %s</string>
+    <string name="menu_actionbar_remove">Noņemt</string>
+    <string name="menu_actionbar_uninstall">Atinstalēt</string>
+    <string name="menu_appsandsettigns">PROGRAMMAS UN IESTATĪJUMI</string>
+    <string name="menu_clock">Pulkstenis</string>
+    <string name="menu_display">REDIĢĒT SĀKUMA EKRĀNU</string>
+    <string name="menu_downloaded_font">LEJUPIELĀDĒTIE FONTI</string>
+    <string name="menu_filetransfertogear">PĀRSŪTĪT FAILUS UZ GEAR</string>
+    <string name="menu_gallery">Attēls</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitness</string>
+    <string name="menu_help">Palīdzība</string>
+    <string name="menu_home_screen">Sākuma ekrāna veidotājs</string>
+    <string name="menu_music">Mūzika</string>
+    <string name="menu_myapp">Manas programmas</string>
+    <string name="menu_notification">Paziņojumi</string>
+    <string name="menu_rename">Pārdēvēt</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear programmas</string>
+    <string name="menu_settings">Iestatījumi</string>
+    <string name="mobile_to_gear">No tālruņa uz Gear</string>
+    <string name="mobile_to_gear_des">Saņemiet uz mobilo ierīci veiktos zvanus ierīcē Gear, kas abas ierīces ir savienotas attāli.</string>
+    <string name="monotype_default_font">Noklusējuma fonts</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Šokolādes cepums</string>
+    <string name="monotype_dialog_font_cool">Nomierinošs džezs</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rozmarīns</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Citi</string>
+    <string name="more_options">"Citas
+iespējas"</string>
+    <string name="multisim_title">Vairākas SIM</string>
+    <string name="navigate_up">Naviģēt uz augšu</string>
+    <string name="new_eula_error_log">Sūtīt diagnostikas atsk.</string>
+    <string name="new_eula_fmd2">Meklēt manu ierīci</string>
+    <string name="new_eula_fmg2">Atrast manu Gear</string>
+    <string name="new_eula_news_briefing">Ziņu apskats</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung tastatūra</string>
+    <string name="new_notification_list">Saraksta skats</string>
+    <string name="new_notifications_list_desc">Rādīt ierīcē Gear saņemto paziņojumu sarakstu pa kreisi no pulksteņa.</string>
+    <string name="no_application_selected">Nav izvēlēta neviena programma</string>
+    <string name="no_downloaded_applications">Nav lejupielādētu programmu</string>
+    <string name="no_of_application_selected">Izvēlētas %d programmas</string>
+    <string name="no_remote_connection_popup_msg">Lai aktivizētu automātisko zvanu pārsūtīšanu, atveriet Samsung Gear programmu savā mobilajā ierīcē un aktivizējiet attālo savienojumu; pēc tam mēģiniet vēlreiz.</string>
+    <string name="no_remote_connection_popup_title">Aktivizēt attālo savienojumu</string>
+    <string name="notification_type">Paziņojuma veids</string>
+    <string name="notification_type_desc">Kad ierīce Gear tiek lietota, paziņojumi tiks parādīti ekrāna augšdaļā kā nelieli uznirstošie logi neatkarīgi no augstāk veiktās izvēles.</string>
+    <string name="number_setting">Numura iestatījums</string>
+    <string name="ok">Labi</string>
+    <string name="once">Vienu reizi</string>
+    <string name="one_application_selected">Izvēlēta 1 programma</string>
+    <string name="popup_attention_email_msg">Daži e-pasta konti nav izvēlēti e-pasta iestatījumos. Lai saņemtu paziņojumus no šiem kontiem ierīcē Gear, izvēlnē E-pasta iestatījumi izvēlieties E-pasta paziņojumi.</string>
+    <string name="popup_attention_message_msg">Lai sūtītu un saņemtu ziņas ierīcē Gear, jūsu noklusējuma ziņapmaiņas programma tiks mainīta no %s uz Ziņapmaiņa.</string>
+    <string name="popupmenu_search_for_new_device">Pārvaldīt ierīces</string>
+    <string name="preview_message_desc">Ierīcē Gear uznirstošu paziņojumu veidā parādīt saņemto paziņojumu priekšskatījumu, izņemot ienākošo zvanu signālus un modinātāja signālus.</string>
+    <string name="preview_message_title">Priekšskatīt ziņu</string>
+    <string name="primary">Primārā</string>
+    <string name="privacypolicy_fmgfmd">Iespējojot opciju “%1$s &amp; %2$s”, jūs piekrītat, ka ar jūsu mobilo tālruni un/vai Gear ierīci saistītie atrašanās vietas dati tiks pārsūtīti, izmantojot Samsung serveri, lai nodrošinātu pakalpojumu %1$s &amp; %2$s. Samsung serverī netiek saglabāti dati vai informācija par jūsu ierīces atrašanās vietu.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Iespējojot opciju “%1$s &amp; %2$s”, jūs piekrītat, ka ar jūsu mobilo tālruni saistītie atrašanās vietas dati tiks pārsūtīti, izmantojot Samsung serveri, lai nodrošinātu pakalpojumu %2$s. Samsung serverī netiek saglabāti dati vai informācija par jūsu ierīces atrašanās vietu.</string>
+    <string name="privacypolicy_newsbriefing">Šī lietojumprogramma sniedz lietotājiem iespēju mijiedarboties ar sociālajiem saziņas līdzekļiem un internetu dažādos inovatīvos veidos. Ja aktivizēsiet šo lietojumprogrammu, pakalpojums ievāks informāciju, kā lietojat šos pakalpojumus, tostarp, kā skatāties un mijiedarbojaties ar saturu un reklāmām. Detalizētu informāciju, lūdzu, skatiet pakalpojuma Flipboard sadaļās %1$sLietošanas noteikumi%2$s un %3$sKonfidencialitātes politika%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung konfidencialitātes politika</string>
+    <string name="progressdialog_please_wait">Lūdzu, uzgaidiet…</string>
+    <string name="progressdialog_reinstalled_message">Instalē…</string>
+    <string name="progressdialog_reinstalled_popup_content">Instal. atk.</string>
+    <string name="providerapp_reinstalled">Programma %s nedarbojās pareizi, tādēļ tā tika atinstalēta. Tagad tā tiks instalēta atkārtoti.</string>
+    <string name="quick_tutorial_add_shortcuts">Lai Gear sākuma ekrānam pievienotu programmu īsceļus, atveriet ierīces Gear programmu sadaļu, pieskarieties programmas ikonai un turiet to, pēc tam velciet un nometiet to uz ekrāna augšpusē esošās sākuma ikonas.</string>
+    <string name="quick_tutorial_gear_structure">Pulkstenis tiek rādīts ierīces Gear sākuma ekrāna galvenajā lapā. Lapās pa kreisi no pulksteņa tiek rādīti paziņojumi, bet lapās pa labi — logrīki. Lai skatītu programmas, pavelciet uz augšu no ekrāna apakšējās malas.</string>
+    <string name="quick_tutorial_noti_title">Iepazīstieties ar %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Lai atvērtu programmu S Voice, izrunājiet “Hi Gear” vai jebkurā ekrānā divreiz nospiediet sākuma taustiņu.</string>
+    <string name="quick_tutorial_swipe_downwards">Lai atvērtu biežāk lietoto programmu, divreiz nospiediet sākuma taustiņu. Biežāk lietoto programmu varat mainīt izvēlnē Iestatījumi.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Lai atvērtu biežāk lietoto programmu, nospiediet divreiz ieslēgšanas/izslēgšanas taustiņu. Biežāk lietoto programmu var mainīt izvēlnē Iestatījumi.</string>
+    <string name="quick_tutorial_to_go_back">Lai atgrieztos atpakaļ, pavelciet no augšējās malas uz leju.</string>
+    <string name="remote_connection_disabled_settings">Iestatījumi</string>
+    <string name="remote_connection_enabled_desc">Ierīce Gear tiks savienota attāli, ja tiks pārtraukts Bluetooth savienojums.</string>
+    <string name="requested">Pieprasīts</string>
+    <string name="reset_gear_legal_text1">Izmantojot funkciju Atiestatīt Gear, var attālināti izdzēst visus datus, kas atrodas uz Gear. Pēc izdzēšanas dzēstos datus nevar atjaunot, un funkciju Atrast manu Gear vairs nevar izmantot.</string>
+    <string name="reset_gear_legal_text2">* Funkcijas Atiestatīt Gear izpilde var aizņemt kādu laiku vai pat neizdoties, un tas atkarīgs no Gear stāvokļa, mobilās ierīces vai tīkla vides.</string>
+    <string name="restore_complete">Atjaunošana ir pabeigta.</string>
+    <string name="restore_some_error">Atjaunošana neizdevās. Mēģiniet vēlreiz.</string>
+    <string name="restore_try_again">Mēģin. vēlr.</string>
+    <string name="restore_watch_settings_content2">"Lai dublētu savu %1$s saturu, izmantojiet savas ierīces krātuvi:
+%2$s
+
+Ja iepriekš dublējāt šo saturu, varat to tagad atjaunot %3$s.
+
+Tas var aizņemt ilgāku laiku atkarībā no faila lieluma.
+
+Savus dublēšanas iestatījumus varat mainīt izvēlnē Iestatījumi."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">IESTATĪJUMI</string>
+    <string name="retrieve_dialog_desc">Izgūst programmu sarakstu…</string>
+    <string name="sa_email">E-pasts</string>
+    <string name="sa_error_0203_desc">Lai aktivizētu attālo savienojumu, manuāli atjauniniet Samsung kontu.</string>
+    <string name="sa_error_0203_title">Atjaunināt Samsung kontu</string>
+    <string name="sa_error_0301_desc">Pierakstoties Samsung kontā no jūsu mobilās ierīces, radās tīkla kļūda.</string>
+    <string name="sa_error_0301_title">Neizdevās aktivizēt funkciju</string>
+    <string name="sa_error_0302_desc">Pierakstoties Samsung kontā no jūsu mobilās ierīces, radās tīkla kļūda.</string>
+    <string name="sa_error_0302_title">Neizdevās aktivizēt funkciju</string>
+    <string name="sa_error_0401_desc">Radās kļūda. Mēģiniet vēlreiz.</string>
+    <string name="sa_error_0401_title">Kļūda</string>
+    <string name="safety_message_interval_10minutes">Ik pēc 10 minūtēm</string>
+    <string name="safety_message_interval_20minutes">Ik pēc 20 minūtēm</string>
+    <string name="samsung_apps_info">Programmas, kas ir lejupielādētas, izmantojot pakalpojumu %1$s, var izdzēst, kad ir atinstalēta programma %2$s vai ir notīrīti programmas dati. Izdzēstās programmas var lejupielādēt, izmantojot savu pakalpojuma %3$s pirkumu vēsturi.</string>
+    <string name="samsung_apps_notice">Paziņojums</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Atjaunināt tūlīt</string>
+    <string name="screen_off">Atstāt ekrānu izslēgtu</string>
+    <string name="screen_off_desc">Kamēr ierīces Gear ekrāns ir izslēgts, saņemt tajā paziņojumus, izņemot ienākošo zvanu signālus un modinātāja signālus.</string>
+    <string name="setting_Enable">Aktivizēt</string>
+    <string name="setting_alpm_dialog_title">Uzmanību</string>
+    <string name="setting_always_off">Vienmēr izslēgts</string>
+    <string name="setting_always_on">Vienmēr ieslēgts</string>
+    <string name="setting_auto">Auto.</string>
+    <string name="setting_auto_lock_disable_desc">Deaktivizējis administrators, šifrēšanas politika vai akreditācijas datu krātuve.</string>
+    <string name="setting_backup_restore2">Dublēšana un atjaunošana</string>
+    <string name="setting_basic">PAMATI</string>
+    <string name="setting_connections">SAVIENOJUMI</string>
+    <string name="setting_disable">Deaktiviz.</string>
+    <string name="setting_home_key_double_pressing">Divreiz nosp.sāk.taustiņu</string>
+    <string name="setting_language_input">VALODA UN IEVADE</string>
+    <string name="setting_manage_text_templates">Rediģēt teksta veidnes</string>
+    <string name="setting_mobile_network">Mobilie tīkli</string>
+    <string name="setting_mobile_network_desc">Ierīce Gear tiks atvienota no jūsu mobilā tīkla, kad tā būs savienota ar jūsu mobilo ierīci, izmantojot Bluetooth. Kad Bluetooth savienojums tiks pārtraukts, ierīce Gear automātiski atkal izveidos savienojumu ar jūsu mobilo tīklu.</string>
+    <string name="setting_multisim_popup_desc">Atkarībā no jūsu pakalpojumu sniedzēja, lai lietotu vairāku SIM karšu funkciju, jums, iespējams, ir nepieciešams atsevišķs abonements. Pieskarieties pie Labi, lai aktivizētu vairāku SIM karšu funkciju.</string>
+    <string name="setting_opensource">Atklātā pirmkoda licence</string>
+    <string name="setting_palm_motion">Kustības</string>
+    <string name="setting_palm_swipe">Pavilkt, lai tvertu</string>
+    <string name="setting_palmover_desc">Lai izslēgtu ienākošo zvanu un brīdinājumu skaņu vai pauzētu multividi, uzlieciet plaukstu uz ekrāna, kad tas ir ieslēgts.</string>
+    <string name="setting_palmswipe_desc">Tveriet ekrāna attēlu, velkot pāri ekrānam ar visu pirkstu un neatlaižot to.</string>
+    <string name="setting_pause_mute">Izslēgt skaņu/apturēt</string>
+    <string name="setting_power_key_double_pressing">Iesl/izsl.taus.nosp.divr.</string>
+    <string name="setting_restoring">Atjauno…</string>
+    <string name="setting_safety_b1_desc">Ja ierīce Gear ir savienota ar mobilo ierīci, palīgā sauciena sūtīšanas funkcija var jums palīdzēt ārkārtas situācijā. Tā brīdina jūsu ārkārtas situācijas ziņu kontaktus par jūsu situāciju, nosūtot tiem ārkārtas situācijas ziņas kopā ar jūsu atrašanās vietu. Šo ziņu sūtīšana var radīt papildu izmaksas. Lai ārkārtas situācijā aktivizētu palīgā sauciena sūtīšanas funkciju, %d reizes nospiediet ieslēgšanas/izslēgšanas taustiņu.</string>
+    <string name="setting_safety_b2_desc">Ja ierīce Gear ir savienota ar mobilo ierīci, palīdzības ziņu sūtīšanas funkcija var palīdzēt ārkārtas situācijā, uzņemot attēlu ar Gear kameru. Tā brīdina jūsu ārkārtas situācijas ziņu kontaktus par jūsu situāciju, nosūtot tiem ārkārtas situācijas ziņas kopā ar šo attēlu un jūsu atrašanās vietu. Pirmajā ziņā būs iekļauta jūsu atrašanās vieta un attēls. Pēc brīža tiks nosūtīta otra ziņa, kurā būs norādīta tikai jūsu atrašanās vieta. Šo ziņu sūtīšana var radīt papildu izmaksas. Lai ārkārtas situācijā aktivizētu funkciju Sūtīt palīdzības ziņas, %d reizes nospiediet sākuma taustiņu.</string>
+    <string name="setting_safety_b2_no_camera_desc">Ja ierīce Gear ir savienota ar mobilo ierīci, palīdzības ziņu sūtīšanas funkcija palīdzēs jums ārkārtas situācijā. Tā brīdina jūsu ārkārtas situācijas ziņu kontaktus par jūsu situāciju, nosūtot tiem ārkārtas situācijas ziņas un jūsu atrašanās vietu. Šo ziņu sūtīšana var radīt papildu izmaksas. Lai ārkārtas situācijā aktivizētu palīdzības ziņu sūtīšanas funkciju, %d reizes nospiediet sākuma taustiņu.</string>
+    <string name="setting_safety_b3_desc1">Ja nokļūstat ārkārtas situācijā, 3 reizes ātri nospiediet sākuma taustiņu, lai nosūtītu brīdinājumu primārajiem kontaktiem.</string>
+    <string name="setting_safety_b3_desc2">Jūsu primārie kontakti saņems ārkārtas paziņojumus ar informāciju par jūsu pašreizējo atrašanās vietu.</string>
+    <string name="setting_safety_b3_desc3">Lai izmantotu šo funkciju, savienojiet savu mobilo ierīci ar ierīci Gear.</string>
+    <string name="setting_safety_list">Drošības palīdzība</string>
+    <string name="setting_samsung_legal">Samsung juridiskā informācija</string>
+    <string name="setting_screen_lock">Automātiska bloķēšana</string>
+    <string name="setting_screen_lock_desc">Izmantojiet Gear, lai bloķētu savu mobilo ierīci.</string>
+    <string name="setting_screen_secutiry">EKRĀNA DROŠĪBA</string>
+    <string name="setting_send_emergency_picture">Sūt. ārkārtas sit. attēlu</string>
+    <string name="setting_send_emergency_recording">Sūtiet skaņas ierakstu</string>
+    <string name="setting_send_emergency_term_agree">Es esmu izlasījis un piekrītu visiem iepriekš minētajiem noteikumiem un nosacījumiem.</string>
+    <string name="setting_send_help_message">Sūtīt palīdzības ziņas</string>
+    <string name="setting_send_terms_conditions">Noteikumi un nosacījumi</string>
+    <string name="setting_smart_relay">Smart Relay</string>
+    <string name="setting_smart_relay_desc">Lai skatītu Gear saturu mobilās ierīces ekrānā, paceliet savu mobilo ierīci.</string>
+    <string name="setting_smart_toss">Viedais grūdiens</string>
+    <string name="setting_system">SISTĒMA</string>
+    <string name="setting_text_to_speech_engine">Teksta-runas programma</string>
+    <string name="setting_textinput_emoticon">Emocijikonas</string>
+    <string name="setting_textinput_keyboard">Tastatūra</string>
+    <string name="setting_textinput_list">Teksta ievades metodes</string>
+    <string name="setting_textinput_templates">Veidnes</string>
+    <string name="setting_try_it">Izmēģināt</string>
+    <string name="setting_wake_up">Aktivizēšanas žests</string>
+    <string name="setting_wake_up_desc">Pamodiniet Gear, paceļot roku, uz kuras ir Gear.</string>
+    <string name="setting_wakeupgesture">"Lai aktivizētu Gear, paceliet roku, uz kuras ir Gear, un skatieties Gear ekrānā.
+
+Šī funkcija nedarbojas, ja esat atgāzies vai guļus stāvoklī, un tā var patērēt vairāk Gear akumulatora enerģijas, jo kustību sensors ir vienmēr ieslēgts."</string>
+    <string name="setting_wakeupgesture_clock">Pulkstenis</string>
+    <string name="setting_wakeupgesture_previous">Pēdējais skatītais ekrāns</string>
+    <string name="setting_wakeupgesture_screen_on">Izvēl. parādīto ekrānu</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Izvēl. parādīto ekrānu</string>
+    <string name="settings">Iestatījumi</string>
+    <string name="settings_application_version">Programmas versija</string>
+    <string name="settings_emergency_contact">Pārvaldīt primāros kontaktus</string>
+    <string name="settings_emergency_contact_empty">Netika pievienots neviens primārais kontakts. Lai aktivizētu %s, pievienojiet kontaktus sadaļā Primārie kontakti.</string>
+    <string name="settings_legal_information">Juridiskā informācija</string>
+    <string name="settings_message_interval">Ziņu intervāls</string>
+    <string name="settings_not_set">Nav iestatīts</string>
+    <string name="settings_security">Drošība</string>
+    <string name="settings_security_update">Drošības atjauninājums</string>
+    <string name="settings_security_update_desc">Aizsargājiet savu ierīci no kaitīga satura, uzlabojot tās drošību un pakalpojumus.</string>
+    <string name="settings_unknown_sources_dialog">Instalēšana no nezināmiem avotiem var kaitēt jūsu ierīcei un personiskajiem datiem. Pieskaroties pie Labi, jūs piekrītat, ka esat vienpersoniski atbildīgs par jebkādiem ierīces bojājumiem vai datu zudumiem, kas var rasties, izmantojot šīs programmas.</string>
+    <string name="settings_unknown_sources_subtitle">Atļaut programmu instalēšanu no nezināmiem avotiem.</string>
+    <string name="share_loc_disabled">Atrašanās vietas kopīgošana ir deaktivizēta.</string>
+    <string name="share_location_desc">Atļaut funkcijām Atrast manu Gear un Meklēt manu ierīci kopīgot jūsu ierīces Gear un mobilās ierīces atrašanās vietas datus.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Piekrītu, ka tiek izmantoti mobilie dati un tiek sūtītas multiziņas ārkārtas situācijās. Apzinos, ka tas var radīt papildu izmaksas.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Funkcija Sūtīt palīdzības ziņas ir paredzēta, lai palīdzētu lietotājiem nosūtīt paziņojumus par viņu aptuveno atrašanās vietu un vizuālo/audio apkārtni uz iepriekš iestatītas izvēlētās kontaktpersonas mobilo tālruni. Tā tiek piedāvāta tikai jūsu ērtībām un nav paredzētai, kā arī nav uzskatāma par aizvietotāju ārkārtas zvaniem glābšanas dienestiem.
+
+2. Funkcija Sūtīt palīdzības ziņas (“Pakalpojums”) var nedarboties precīzi, bez pārtraukumiem vai nekļūdīgi atkarībā no tādiem apstākļiem kā tīkla savienojums, GPS/Wi-Fi informācijas pieejamība, jūsu/jūsu izvēlētās kontaktpersonas ierīces statuss un/vai stāvoklis, akumulatora uzlādes līmenis un/vai no citiem apstākļiem, kurus uzņēmums Samsung Electronics Co., Ltd. (“Samsung”, “mēs”, “mums”, “mūsu”) nevar ietekmēt. Jūsu atrašanās vietas informācijas precizitāti un laicīgu Pakalpojuma nodrošināšanu var ietekmēt jūsu apkārtne, kā arī jūsu un izvēlētās kontaktpersonas ierīces stāvoklis. Ja vien tas nav skaidri norādīts vai pieprasīts saskaņā ar tiesību aktiem, uzņēmums Samsung nesniedz nekādas garantijas par Pakalpojuma precīzu, nepārtrauktu vai nekļūdīgu darbību. Lūdzu, ņemiet vērā, ka izvēlētajai kontaktpersonai ir jābūt strādājošam mobilajam tālrunim un ierīcei ir jābūt ieslēgtai un spējīgai saņemt īsziņas. Par jūsu apkārtējās vides un atrašanās vietas datu pārsūtīšanu var tikt piemērota maksa, kas ir atkarīga no jūsu mobilo pakalpojumu sniedzēja noteiktā izcenojuma.
+
+Lai tiktu nodrošināta Pakalpojuma paredzētā darbība, funkcijai, kolīdz to izmantojat, ir automātiski jāieslēdz jūsu ierīces GPS un Wi-Fi funkcijas. Jūs atzīstat un piekrītat, ka jūsu ierīcē tiks automātiski iespējotas GPS un Wi-Fi funkcijas (ja nepieciešams), un jūs par to nesaņemsit nekādus turpmākus paziņojumus, kā arī no jums netiks prasīta papildu piekrišana.
+
+3. Jūs atzīstat un piekrītat, ka neizmantosiet šo funkciju ļaunprātīgi, kā arī neizmantosiet to nelikumīgos nolūkos vai lai pārkāptu citu personu konfidencialitāti vai citas personiskās vai īpašuma tiesības. Izmantojiet šo funkciju tikai saskaņā ar tiesību aktiem un tikai ārkārtas gadījumos. Jūs piekrītat uzņemties vienpersonisku atbildību par veidu, kādā izmantojat šo funkciju. Uzņēmums Samsung neuzņemas atbildību par sekām, kas var iestāties šīs funkcijas izmantošanas rezultātā.
+
+4. Pakalpojumi tiek piedāvāti jūsu ērtībām un nav paredzēti, kā arī nav uzskatāmi par aizvietotāju ārkārtas zvaniem uz varas iestādēm. Ja vien tas nav skaidri norādīts vai pieprasīts saskaņā ar tiesību aktiem, uzņēmums Samsung nesniedz nekādas garantijas par Pakalpojuma precīzu, nepārtrauktu vai nekļūdīgu darbību.
+
+5. GARANTIJU ATRUNA JŪS PILNĪBĀ SAPROTAT UN PIEKRĪTAT, KA:
+
+A. PAKALPOJUMI TIEK NODROŠINĀTI TĀDI, KĀDI TIE IR, “AR VISIEM TO TRŪKUMIEM”, UN TĀDI, KĀDI TIE IR PIEEJAMI. JŪS UZŅEMATIES RISKU SAISTĪBĀ AR TO LIETOŠANU. SAMSUNG NESNIEDZ NEKĀDAS GARANTIJAS, APLIECINĀJUMUS VAI APSOLĪJUMUSSAISTĪBĀ AR ŠO PAKALPOJUMU. SAMSUNG SKAIDRI ATSAKĀS NO JEBKĀDIEM APLIECINĀJUMIEM UN GARANTIJĀM, TIEŠĀM VAI NETIEŠĀM, TOSTARP, BET NE TIKAI, PAR PIEMĒROTĪBU PĀRDOŠANAI VAI PIEMĒROTĪBU NOTEIKTAM MĒRĶIM, TIESĪBU NEPĀRKĀPŠANU UN JEBKĀDĀM NETIEŠĀM GARANTIJĀM, KAS IZSECINĀMAS NO UZŅĒMĒJDARBĪBAS PRAKSES VAI PAKALPOJUMA VEIKTSPĒJAS.
+
+B. NEIEROBEŽOJOT IEPRIEKŠ MINĒTO, SAMSUNG NESNIEDZ APLIECINĀJUMU VAI GARANTIJAS, KA (i) PAKALPOJUMI ATBILDĪS JŪS PRASĪBĀM; (ii) PAKALPOJUMI BŪS NEPĀRTRAUKTI, SAVLAICĪGI, DROŠI UN NEKĻŪDĪGI; (iii) AR PAKALPOJUMIEM SAŅEMTAIS SATURS VAI JEBKĀDI PAZIŅOJUMI, VAI TO FUNKCIONALITĀTE BŪS PIEEJAMA, PRECĪZA, PILNĪGA UN UZTICAMA; (iv) PAKALPOJUMU VAI JEBKĀDAS INFORMĀCIJAS, VAI CITU PAKALPOJUMĀ IEGŪTO MATERIĀLU KVALITĀTE ATBILDĪS JŪSU CERĪBĀM VAI (v) JEBKĀDAS KĻŪDAS UN DEFEKTI PAKALPOJUMĀ TIKS IZLABOTI.
+
+6. ATBILDĪBAS IEROBEŽOJUMI
+
+A. JŪS PILNĪBĀ SAPROTAT UN PIEKRĪTAT, KA SAMSUNG NEBŪS ATBILDĪGS , CIKTĀL TAS NAV PRETRUNĀ AR IMPERATĪVĀM PIEMĒROJAMO TIESĪBU NORMĀM, PAR JEBKĀDIEM TIEŠIEM, NETIEŠIEM, NEJAUŠIEM, SPECIĀLIEM, SODOŠIEM, IZRIETOŠIEM VAI TIPVEIDA ZAUDĒJUMIEM, SAISTĪBĀM, KAITĒJUMU VAI IZDEVUMIEM, TOSTARP, BET NE TIKAI PEĻŅAS ZUDUMU, LIETOŠANAS IESPĒJU ZUDUMU VAI CITIEM ZAUDĒJUMIEM (ARĪ TAD, JA REMONTS, AIZVIETOŠANA VAI CITA ATLĪDZĪBA PAR PAKALPOJUMIEM PILNĪBĀ NEKOMPENSĒ JŪSU ZAUDĒJUMUS, VAI SAMSUNG ZINĀJA VAI VARĒJA BŪT ZINĀJIS PAR ŠĀDU ZAUDĒJUMU, SAISTĪBU, BOJĀJUMU VAI IZDEVUMU IESPĒJAMĪBU), KAS TIEŠI VAI NETIEŠI IZRIET VAI RODAS NO (i) PRASĪBĀM PAR LĪGUMU LAUŠANU, GARANTIJAS, GALVOJUMU UN NOSACĪJUMU PĀRTRAUKŠANAS, TIEŠĀM SAISTĪBĀM, NOLAIDĪBAS VAI CITIEM PĀRKĀPUMIEM TĀDĀ APMĒRĀ, KAS ATĻAUTS PIEMĒROJAMOS TIESĪBU AKTOS; (ii) PAKALPOJUMU LIETOŠANAS VAI NESPĒJAS TOS LIETOT; (iii) IZMAKSĀM PAR AIZVIETOJOŠU PAKALPOJUMU IEGĀDES; (iv) NEATĻAUTAS PIEKĻUVES PĀRSŪTĪTAJIEM DATIEM VAI MATERIĀLIEM, KĀ ARĪ TO MODIFICĒŠANAS; (v) TREŠĀS PUSES PAZIŅOJUMIEM VAI RĪCĪBAS; (vi) ŠĪ LĪGUMA; (vii) KAITĒJUMA PERSONAI VAI ĪPAŠUMAM (TOSTARP DZĪVĪBAS ZAUDĒŠANAS) VAI (viii) JEBKĀDA CITA JAUTĀJUMA, KAS ATTIECAS UZ PAKALPOJUMIEM VAI SATURU, KAS SAŅEMTS AR ŠO PAKALPOJUMU.
+
+B. JŪSU VIENĪGAIS RISINĀJUMS JEBKURĀ STRĪDĀ AR SAMSUNG SAISTĪBĀ AR ŠO LĪGUMU VAI PAKALPOJUMIEM IR ŠO PAKALPOJUMU LIETOŠANAS PĀRTRAUKŠANA.
+
+C. DAŽĀS JURISDIKCIJĀS NAV ATĻAUTS IZSLĒGT NOTEIKTA VEIDA GARANTIJAS VAI IEROBEŽOT, VAI IZSLĒGT SAISTĪBAS PAR NEJAUŠIEM VAI NETIEŠIEM KAITĒJUMIEM, TĀDĒĻ DAŽI IEPRIEKŠ MINĒTIE IEROBEŽOJUMI 5. UN 6. SADAĻĀ VAR UZ JUM NEATTIEKTIES.
+
+7. KOMPENSĀCIJA. Jūs piekrītat nenodarīt zaudējumus, sniegt kompensāciju un aizstāvību uzņēmumam Samsung pret jebkādām pretenzijām, darbībām, prasībām, izmaksām, saistībām, zaudējumiem, kaitējumiem, soda naudām un izdevumiem (ieskaitot saprātīgus advokātu honorārus un izmaksas), kas rodas, Jums lietojot šos Pakalpojumus vai saistībā ar to lietošanu, vai neievērojot šo Līgumu. Ja, neskatoties uz to, ka saskaņā ar noteikumiem un nosacījumiem jums piešķirta licence personiskai lietošanai, jūs ļaujat kādai personai izmantot Pakalpojumus vai sniedzat kādai personai informāciju, kas saņemta ar šiem Pakalpojumiem, jūs piekrītat informēt šādu personu par šo noteikumu un nosacījumu esamību un saturu, kas būs šai personai saistošs, un jūs piekrītat nenodarīt zaudējumus, sniegt kompensāciju un aizstāvību uzņēmumam Samsung pret jebkādām pretenzijām, darbībām, prasībām, izmaksām, saistībām, zaudējumiem, kaitējumiem, soda naudām un izdevumiem (ieskaitot saprātīgus advokātu honorārus un izmaksas), kas rodas šādām personām lietojot šos Pakalpojumus.
+
+8. Force Majeure. Saskaņā ar šiem noteikumiem un nosacījumiem uzņēmums Samsung neuzņemas atbildību par veiktspējas kļūmēm un kavēšanos, kuras izraisījušas dabas stihijas, civila vai militāra iestāde, karš, terora akti, darba strīdi, materiāli vai pakalpojumi, kurus nodrošina trešās puses, vai jebkādi iemesli, kurus Samsung nevar saprātīgi ietekmēt."</string>
+    <string name="shm_share_my_location_checkbox_text">Es piekrītu un atļauju %1$s funkcijai kopīgot savu atrašanās vietu ar %2$s kontaktiem.</string>
+    <string name="smartrelay_not_show">Vairs nerādīt</string>
+    <string name="software_update">Programmatūras atjauninājums</string>
+    <string name="ss_double_tap_any_screen">Veiciet dubultskārienu uz ekrāna ar diviem pirkstiem, lai skatītu spilgtuma un skaļuma vadības funkcijas un citu noderīgu informāciju.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Zvanu pārsūtīšana uz ierīci Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Pieprasa…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Nolasa iestatījumus…</string>
+    <string name="ss_loading_ing_abb">Ielādē…</string>
+    <string name="ss_mobile_data_is_disabled">Mobilie dati ir deaktivizēti. Vai tā vietā izveidojiet savienojumu ar WLAN, vai arī aktivizējiet mobilos datus un mēģiniet vēlreiz.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobilie dati ir deaktivizēti. Tā vietā izveidojiet savienojumu ar Wi-Fi tīklu vai aktivizējiet mobilos datus un mēģiniet vēlreiz</string>
+    <string name="ss_no_network_connection">Nav savienojuma ar tīklu</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Lietotāja rokasgrāmata</string>
+    <string name="str_no">Nē, paldies</string>
+    <string name="str_yes">Jā</string>
+    <string name="stub_list_install">Instalēt</string>
+    <string name="sw_eula_condition">Es saprotu iepriekš minētos noteikumus un nosacījumus un tiem piekrītu.</string>
+    <string name="sw_eula_desc2">Jūs piekrītat sniegt uzņēmumam Samsung kļūdu žurnāla datus par jebkuru Programmatūras atjaunināšanas kļūmi jūsu ierīcē. Tas palīdzēs uzņēmumam Samsung uzlabot un pilnveidot Samsung Programmatūras atjaunināšanas procesu, kas savukārt palīdzēs pareizi atjaunināt jūsu ierīci.</string>
+    <string name="tab_stub_list">Piedāvātie</string>
+    <string name="talkback_download">Lejupielādēt</string>
+    <string name="talkback_setting">Iestatījums</string>
+    <string name="the_samsung_gear_application">Samsung Gear programma</string>
+    <string name="threeg_connection">Attālā savien. lietošana</string>
+    <string name="threeg_connection_subtitle">Izveidojiet attālu savienojumu ar ierīci Gear, izmantojot mobilos datus vai Wi-Fi kopā ar savu Samsung kontu.</string>
+    <string name="threeg_connection_subtitle_chn">Izveidojiet attālu savienojumu ar ierīci Gear, izmantojot mobilos datus vai WLAN kopā ar savu Samsung kontu.</string>
+    <string name="title_activity_clock_delete">Atinstalēt</string>
+    <string name="title_activity_connect_popup">Izveidot savienojumu</string>
+    <string name="title_activity_paired_watch">Pārī savienota ierīce</string>
+    <string name="title_alertdialog_device_name_popup">Pārdēvēt %s</string>
+    <string name="title_alertdialog_disconnect_popup">Atvienot</string>
+    <string name="title_dialog_pm_error">Brīdinājums</string>
+    <string name="title_dialog_uninstall">Atinstalēt</string>
+    <string name="title_eula">Juridiska informācija</string>
+    <string name="title_findmywatch_connect2">Atrast manu Gear</string>
+    <string name="title_findmywatch_finding">Meklē…</string>
+    <string name="tri_connect_title_circle_to_gear">Savienot %1$s ar %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Savienojot %1$s ierīci ar %2$s, izmantojot Bluetooth, %3$s ierīce tiks īslaicīgi atvienota no mobilās ierīces. Šis savienojums drīz tiks atjaunots un %4$s ierīce pēc tam būs savienota gan ar %5$s, gan mobilo ierīci.</string>
+    <string name="tt_install_voice_data">Instalēt TTS balss datus</string>
+    <string name="tt_install_voice_data_required">Instalējiet ierīcē Gear papildu valodas, ko izmantot teksta pārveidei runā.</string>
+    <string name="tt_language">Valoda</string>
+    <string name="tt_send_help_message">Sūtīt palīdzības ziņas</string>
+    <string name="tt_tts_language_guide">Jūsu valoda teksta pārveides runā ir Gear iestatījumos izvēlētā valoda. Ja teksta pārveides runā programma neatbalsta jūsu valodu, tiks izmantota angļu valoda (Apvienotā Karaliste).</string>
+    <string name="unable_to_connect_popup_message">Ierīci Gear neizdevās savienot ar jūsu mobilo ierīci. Mēģiniet vēlāk vēlreiz.</string>
+    <string name="unable_to_connect_popup_title">Savienojums neizdevās</string>
+    <string name="unable_to_lock_gear">Nevar bloķēt ierīci Gear</string>
+    <string name="unable_to_reset_gear">Nevar atiestatīt Gear</string>
+    <string name="unabled_health">Nevar atvērt šo programmu, jo tā ir deaktivizēta.</string>
+    <string name="uninstall_applications">Atinstalēt programmas</string>
+    <string name="unknown_sources_msg_new">Programma %1$s netiks instalēta, izmantojot %2$s. Jūsu ierīce un personiskie dati ir vairāk apdraudēti, ja tiek lietotas nezināmas izcelsmes programmas. Jūs piekrītat, ka tikai jūs esat atbildīgs par jebkādiem ierīces bojājumiem vai datu zudumiem, ko var izraisīt šādu programmu lietošana. Lai vienmēr instalētu nezināmas izcelsmes programmas, atveriet %3$s > %4$s > %5$s un aktivizējiet iespēju %6$s. Pieskarieties pie Labi, lai instalētu %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s nav no %2$s, un tā neietver programmu ierīcei Gear. Jūsu ierīce un dati ir vairāk apdraudēti, ja tiek lietotas nezināmas izcelsmes programmas. Instalēšana tiks atcelta, un programma %3$s tiks izdzēsta no tālruņa.</string>
+    <string name="unknown_sources_title">Nezināmi avoti</string>
+    <string name="update_button">Atjaunināt</string>
+    <string name="update_summary">Pārbaudīt atjauninājumus</string>
+    <string name="update_the_latest_version">Ir pieejams atjauninājums</string>
+    <string name="voice_control_subtitle">Pauzēs, kad ierīce Gear nezvana vai nevibrē, izrunājiet “Answer” vai “Reject”, lai atbildētu vai noraidītu zvanus.</string>
+    <string name="voicememo_link1">Nuance noteikumiem un nosacījumiem</string>
+    <string name="voicememo_link2">Samsung konfidencialitātes politika</string>
+    <string name="voicememo_link3">Nuance konfidencialitātes politiku</string>
+    <string name="watchapp_all">Progr.</string>
+    <string name="watchapp_noapps">Nav programmu</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Atsvaidzina…</string>
+    <string name="wifi_only">Tikai Wi-Fi</string>
+    <string name="wifi_only_chn">Tikai WLAN</string>
+    <string name="wifi_only_summary">Lejupielādējiet atjauninājumus tikai tad, ja ir izveidots savienojums ar Wi-Fi tīklu.</string>
+    <string name="wifi_only_summary_chn">Var lejupielādēt tikai tad, ja izveidots savienojums ar WLAN.</string>
+    <string name="email_sanitize">Šīs e-pasta ziņas saturu nevar parādīt ierīcē Gear drošības iemeslu dēļ. Lai uzzinātu vairāk, skatiet šo e-pasta ziņu savā mobilajā ierīcē.</string>
+    <string name="knox_sanitize">Pieskarieties šeit, lai atvērtu KNOX režīmu.</string>
+</resources>

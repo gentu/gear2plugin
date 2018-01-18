@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="WManagerActionBarTheme" parent="@style/WManagerActionBarThemeBase" />
+    <style name="WManagerSetupWizardTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar.Fullscreen">
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+    <style name="ActionBarCompatTitleBase" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:textSize">19.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:shadowColor">#ffffffff</item>
+        <item name="android:shadowDx">-3.0</item>
+        <item name="android:shadowDy">-3.0</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="BottomBarButton" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">@color/normal_text_color</item>
+        <item name="android:background">@drawable/tw_ab_bottom_transparent_mtrl</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="DataReceiveProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+    </style>
+    <style name="PopupButton" parent="@android:style/Widget.Holo.Button">
+        <item name="android:textSize">@dimen/popup_btn_text_size</item>
+        <item name="android:textColor">@color/dialog_button_text</item>
+        <item name="android:background">@drawable/manager_popup_btn</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="PopupMenu" parent="@android:style/Widget.PopupMenu">
+        <item name="android:popupBackground">@android:color/white</item>
+    </style>
+    <style name="PopupMenuTextApearance" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textSize">20.0sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="RobotoButtonStyle" parent="@android:style/Widget.Holo.Button">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="RobotoTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_ListCategory" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@color/category_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_height">@dimen/list_main_category_height</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_ListDescFirstLine" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/list_first_line_desc_text_size</item>
+        <item name="android:textColor">@color/normal_text_color_list</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_ListDescSecondLine" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/list_second_line_desc_text_size</item>
+        <item name="android:textColor">@color/desc</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_MainActivityListDescFirstLine" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/list_main_item_first_line_desc_text_size</item>
+        <item name="android:textColor">@color/normal_text_color_list</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_MainActivityListDescSecondLine" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/list_main_item_second_line_desc_text_size</item>
+        <item name="android:textColor">@color/desc</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_NotiListCategory" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/TextView_NotiListCategory_text_size</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+    </style>
+    <style name="TextView_PopupButton" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/popup_btn_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/popup_btn_text</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/manager_popup_btn</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">36.0dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">secrobotolight-bold</item>
+    </style>
+    <style name="TextView_PopupDesc" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/popup_desc_text_size</item>
+        <item name="android:textColor">@color/normal_text_color</item>
+        <item name="android:linksClickable">true</item>
+        <item name="android:scrollbars">vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:fontFamily">secrobotolight-regular</item>
+        <item name="android:layout_marginStart">@dimen/popup_left_right_margin</item>
+        <item name="android:layout_marginEnd">@dimen/popup_left_right_margin</item>
+    </style>
+    <style name="TextView_PopupTitle" parent="@android:style/Widget.TextView">
+        <item name="android:textSize">@dimen/popup_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/popup_title_text</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">@dimen/popup_left_right_padding</item>
+        <item name="android:paddingTop">@dimen/popup_title_top_bottom_padding</item>
+        <item name="android:paddingRight">@dimen/popup_left_right_padding</item>
+        <item name="android:paddingBottom">@dimen/popup_title_top_bottom_padding</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:maxLines">2</item>
+        <item name="android:fontFamily">secrobotolight-bold</item>
+    </style>
+    <style name="Theme.DialogActivity" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.PMDialog" parent="@android:style/Theme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="WManagerActionBarThemeBase" parent="@android:style/Theme.DeviceDefault.Light">
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:itemTextAppearance">@style/PopupMenuTextApearance</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:actionBarStyle">@style/actionBar</item>
+        <item name="android:popupMenuStyle">@style/PopupMenu</item>
+        <item name="android:actionMenuTextColor">@color/menuitem_text</item>
+        <item name="dividerTextStyle">@style/TextView_ListCategory</item>
+        <item name="simpleDividerStyle">@style/TextView_ListDescFirstLine</item>
+    </style>
+    <style name="WManagerActionBarThemeTransparent" parent="@style/WManagerActionBarTheme">
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+    <style name="actionBar" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/l_os_actionbar_color</item>
+        <item name="android:height">48.0dip</item>
+        <item name="android:titleTextStyle">@style/ActionBarCompatTitleBase</item>
+    </style>
+    <style name="spinnerDropDownItemStyle" parent="@android:style/TextAppearance.Widget.TextView.SpinnerItem">
+        <item name="android:textColor">@color/dropdown_item_text_color</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:padding">16.0dip</item>
+        <item name="android:minWidth">112.0dip</item>
+    </style>
+</resources>

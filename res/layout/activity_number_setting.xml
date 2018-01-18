@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/GearSLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/quick_tutorial_noti_title_gear" custom:subtext="@string/call_no_gear_number" />
+    <include layout="@layout/settings_items_simple_divider" />
+    <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/MobileDeviceLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/manual_call_forwarding_popup_desc_arg" custom:subtext="@string/call_no_gear_number" />
+    <include layout="@layout/settings_items_simple_divider" />
+</LinearLayout>

@@ -1,0 +1,8 @@
+Keyboard Samsung dan Penggunaan Layanan Pengenalan Suara
+
+1. Layanan keyboard Samsung menggunakan teknologi pengenalan suara sebagai komponen layanan.  Anda memahami bahwa Samsung dapat memanfaatkan layanan pengenalan suara ("Layanan Pengenalan Suara") yang disediakan oleh pihak ketiga, Nuance Communications Inc. ("Nuance"), dan Anda memahami dan menyetujui hal-hal berikut sehubungan dengan penggunaan layanan keyboard Samsung Anda. 
+2. Anda setuju untuk tidak menyerahkan permintaan otomatis atau direkam ke layanan keyboard Samsung.
+3. Anda memahami bahwa kata-kata yang Anda dikte ke layanan keyboard Samsung (termasuk rekaman audio kata-kata tersebut, transkripsi yang terkait, dan file log) ("Data Suara") akan dikumpulkan oleh Nuance guna menyediakan Layanan Pengenalan Suara.
+4. Anda mengizinkan dan menyetujui bahwa dalam menyediakan Layanan Pengenalan Suara, Nuance dapat mengambil Data Suara yang dapat digunakan oleh Nuance dan mitra pihak ketiga untuk menyesuaikan, meningkatkan, dan memperbaiki (a) Layanan Pengenalan Suara dan (b) produk dan layanan Nuance lainnya. 
+5. Anda memahami dan menyetujui bahwa Data Suara Anda dapat ditransfer ke Amerika Serikat dan/atau negara lain untuk penyimpanan, pemrosesan, dan penggunaan oleh Nuance dan mitra pihak ketiga.
+6. Setiap dan semua Data Suara yang Anda sediakan akan tetap rahasia dan akan digunakan sesuai dengan hukum yang berlaku tetapi dapat diungkapkan oleh Nuance, jika diperlukan, untuk memenuhi persyaratan hukum atau peraturan, seperti di bawah perintah pengadilan atau badan pemerintah jika diperlukan atau diizinkan oleh hukum, atau pihak ketiga yang mengakuisisi atau merger dengan Nuance.

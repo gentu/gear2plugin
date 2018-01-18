@@ -1,0 +1,2 @@
+信息提供协议<br>
+三星键盘所用的语音识别技术由第三方服务提供商 Nuance Communications, Inc. 提供，因此您的语音信息必然会存储在由 Nuance（在美国）运营的服务器中，使用三星键盘要求您同意遵守 <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuance 的条款与条件</a>。 <br><br>Nuance 有权将您输入的语音信息用于改善服务及开发技术之目的。 Nuance 还保留向 Nuance 合作伙伴提供上述语音输入信息之权利。 您的语音输入信息将被存储直到完成上述目标为止。 有关三星键盘服务的信息，请参阅 <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuance 隐私政策</a>。 <br><br>如果不同意上述有关您信息使用情况的条款，您将不能使用三星键盘。

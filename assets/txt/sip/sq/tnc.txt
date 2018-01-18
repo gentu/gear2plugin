@@ -1,0 +1,8 @@
+Tastiera Samsung dhe përdorimi i Shërbimit të Njohjes së Ligjërimit
+
+1. Shërbimi i tastierës Samsung përdor teknologjinë e njohjes së ligjërimit si pjesë përbërëse e shërbimit.  Ju pranoni se Samsung mund të përdorë një shërbim të njohjes së ligjërimit ("Shërbimi i Njohjes së Ligjërimit") i mundësuar nga një palë e tretë, Nuance Communications Inc. ("Nuance") dhe ju pranoni sa vijon në lidhje me përdorimin tuaj të shërbimit të tastierës Samsung. 
+2. Ju pranoni të mos dërgoni kërkesa të automatizuara ose të regjistruara te shërbimi i tastierës Samsung. 
+3. Ju pranoni se fjalët që diktoni te shërbimi i tastierës Samsung (duke përfshirë regjistrimet audio të këtyre fjalëve, transkriptimet e shoqëruara dhe skedarët e regjistrit) (“Të Dhëna Ligjërimi”) do të mblidhen nga Nuance gjatë mundësimit të Shërbimit të Njohjes së Ligjërimit. 
+4. Ju lejoni dhe pranoni se duke mundësuar Shërbimin e Njohjes së Ligjërimit, Nuance mund të mbledhë Të Dhëna të Ligjërimit të cilat mund të përdoren nga Nuance dhe palët e treta për të përmirësuar, përforcuar dhe përditësuar (a) Shërbimin e Njohjes së Ligjërimit dhe (b) produktet e shërbimet e tjera Nuance. 
+5. Ju pranoni se të dhënat tuaja të ligjërimit mund të dërgohen në Shtetet e Bashkuara dhe/ose shtetet e tjera për ruajtje, përpunim dhe përdorim nga Nuance dhe kompanitë partnere të saj. 
+6. Çdo e dhënë dhe të gjitha të dhënat e ligjërimit që jepni do të mbetet e fshehtë dhe do të përdoret në pajtim me ligjin në fuqi por mund të jepet nga Nuance, nëse kërkohet një gjë e tillë, për të përmbushur kërkesat ligjore ose rregullatore, nga një urdhër gjykata ose nga një agjenci qeveritare nëse kërkohet ose autorizohet sipas ligjit, apo një pale të tretë e cila e blen apo shkrihet me Nuance.

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/full_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/quick_title" android:text="@string/quick_tutorial_noti_title" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:id="@id/_scrollview" android:layout_width="fill_parent" android:layout_height="@dimen/dialog_quick_tutorial_scroll_height" android:layout_below="@id/quick_title" android:paddingStart="5.0dip" android:paddingEnd="5.0dip">
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <RelativeLayout android:id="@id/goingback" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_quick_tutorial_goingback_height">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:id="@id/iv_going_back" android:background="@drawable/b2_help_swipe_img" android:layout_width="@dimen/dialog_quick_tutorial_imageview_width" android:layout_height="@dimen/dialog_quick_tutorial_imageview_height" android:layout_marginTop="@dimen/dialog_quick_tutorial_imageview_margintop" android:layout_marginBottom="@dimen/dialog_quick_tutorial_imageview_marginbottom" android:contentDescription="@string/connecting_content" android:layout_marginStart="@dimen/dialog_quick_tutorial_imageview_marginleft" />
+                        <TextView android:textSize="@dimen/dialog_quick_tutorial_textview_textsize" android:gravity="left" android:id="@id/tv_going_back" android:focusable="false" android:longClickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dialog_quick_tutorial_textview_margintop" android:layout_marginBottom="@dimen/dialog_quick_tutorial_textview_marginbottom" android:text="@string/quick_tutorial_to_go_back" android:layout_marginStart="@dimen/dialog_quick_tutorial_textview_marginleft" android:layout_marginEnd="@dimen/dialog_quick_tutorial_textview_marginright" style="@style/TextView_PopupDesc" />
+                    </LinearLayout>
+                    <RelativeLayout android:layout_width="fill_parent" android:layout_height="@dimen/dialog_quick_tutorial_linearlayout2_height" android:layout_alignParentBottom="true" android:paddingStart="1.0dip" android:paddingEnd="1.0dip">
+                        <LinearLayout android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="@dimen/dialog_quick_tutorial_linearlayout2_height" />
+                    </RelativeLayout>
+                </RelativeLayout>
+                <RelativeLayout android:id="@id/swipedownwards" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/dialog_quick_tutorial_swipedownwards_height" android:layout_below="@id/goingback">
+                    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <ImageView android:id="@id/iv_swipe_downwards" android:background="@drawable/b2_help_press_img" android:layout_width="@dimen/dialog_quick_tutorial_imageview_width" android:layout_height="@dimen/dialog_quick_tutorial_imageview_height" android:layout_marginTop="@dimen/dialog_quick_tutorial_imageview_margintop" android:layout_marginBottom="@dimen/dialog_quick_tutorial_imageview_marginbottom" android:contentDescription="@string/connecting_content" android:layout_marginStart="@dimen/dialog_quick_tutorial_imageview_marginleft" />
+                        <TextView android:textSize="@dimen/dialog_quick_tutorial_textview_textsize" android:gravity="left" android:id="@id/tv_swipe_downwards" android:focusable="false" android:longClickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/dialog_quick_tutorial_textview_margintop" android:layout_marginBottom="@dimen/dialog_quick_tutorial_textview_marginbottom" android:text="@string/quick_tutorial_swipe_downwards" android:layout_marginStart="@dimen/dialog_quick_tutorial_textview_marginleft" android:layout_marginEnd="@dimen/dialog_quick_tutorial_textview_marginright" style="@style/TextView_PopupDesc" />
+                    </LinearLayout>
+                </RelativeLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/checkbox_textview_layout" android:background="@xml/xml_listitem_selector" android:layout_width="fill_parent" android:layout_height="@dimen/dialog_quick_tutorial_checktext_height" android:layout_below="@id/_scrollview" android:paddingStart="@dimen/dialog_quick_tutorial_chechbox_marginleft">
+        <CheckBox android:layout_gravity="center_vertical" android:id="@id/do_not_show_again_checkbox" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:button="@drawable/manager_checkbox_btn" />
+        <TextView android:textSize="@dimen/dialog_quick_tutorial_checkbox_textsize" android:layout_gravity="center_vertical" android:id="@id/textdoNotShowAgain" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/smartrelay_not_show" android:paddingStart="8.0dip" style="@style/TextView_PopupDesc" />
+    </LinearLayout>
+    <LinearLayout android:gravity="right" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/checkbox_textview_layout">
+        <TextView android:id="@id/btn_more" android:focusable="true" android:clickable="true" android:layout_marginBottom="16.0dip" android:text="@string/more" style="@style/TextView_PopupButton" />
+        <TextView android:id="@id/btn_close" android:focusable="true" android:clickable="true" android:text="@string/close" android:layout_marginEnd="8.0dip" style="@style/TextView_PopupButton" />
+    </LinearLayout>
+</RelativeLayout>

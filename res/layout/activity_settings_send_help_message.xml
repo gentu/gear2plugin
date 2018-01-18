@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/safety_image" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:textSize="@dimen/wakeup_desc1_TextSize" android:textColor="@color/normal_text_color" android:id="@id/sendhelpmessage_desc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="17.0dip" android:layout_marginRight="12.0dip" android:lineSpacingExtra="@dimen/fmg_reset_lock_line_spacing" />
+        <Button android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_try_it" />
+        <View android:id="@id/sendhelp_divider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/SettingSendEmergencyPicture" android:background="@xml/xml_listitem_selector" android:paddingLeft="16.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/manager_winset_1_line_list_item_height">
+            <LinearLayout android:orientation="vertical" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="21.0sp" android:textColor="@color/dialog_desc" android:gravity="left" android:id="@id/SettingSendPicture" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_send_emergency_picture" android:singleLine="true" />
+            </LinearLayout>
+            <CheckBox android:layout_gravity="center|right" android:id="@id/WatchSendPictureCheckbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/checkbox_right_margin" android:button="@drawable/manager_checkbox_btn" />
+        </LinearLayout>
+        <View android:id="@id/sendhelp_image_divider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/SettingSendSoundRecording" android:background="@xml/xml_listitem_selector" android:paddingLeft="16.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/manager_winset_1_line_list_item_height">
+            <LinearLayout android:orientation="vertical" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="21.0sp" android:textColor="@color/dialog_desc" android:gravity="left" android:id="@id/SettingSendRecording" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_send_emergency_recording" android:singleLine="true" />
+            </LinearLayout>
+            <CheckBox android:layout_gravity="center|right" android:id="@id/WatchSendRecordingCheckbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0dip" android:button="@drawable/manager_checkbox_btn" />
+        </LinearLayout>
+        <View android:id="@id/sendhelp_sound_divider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+        <LinearLayout android:id="@id/WatchSettingWakeupSubLinear" android:background="@xml/xml_listitem_selector" android:padding="10.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:onClick="onClickScreenOnPressing">
+            <LinearLayout android:orientation="vertical" android:paddingLeft="6.0dip" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0">
+                <TextView android:textSize="21.0sp" android:textColor="@color/normal_text_color" android:gravity="left" android:id="@id/WatchSettingWakeupScreenOnTitle" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_message_interval" android:singleLine="true" />
+                <TextView android:textSize="15.0dip" android:textColor="@color/desc" android:id="@id/WatchSettingWakeupScreenOnText" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_wakeupgesture_clock" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <Button android:layout_gravity="center_vertical" android:id="@id/WatchSettingWakeupScreenOnBtn" android:background="@drawable/b2_btn_next" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_marginRight="4.0dip" />
+            </LinearLayout>
+        </LinearLayout>
+        <View android:id="@id/sendhelp_interval_divider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+    </LinearLayout>
+</ScrollView>

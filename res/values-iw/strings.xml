@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">לא זמין במהלך שיחה.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">חלון קופץ במסך מלא</string>
+    <string name="alert_mini">מיני חלון קופץ</string>
+    <string name="alertdialog_backkey_popup_content">אזהרה</string>
+    <string name="alertdialog_disconnect_popup_description">ה-Gear ינותק. השתמש ב-Bluetooth כדי להתחבר מחדש.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">פעולה זו תסיים את החיבור עם %s</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">"ה-%s ינותק מהמכשיר הנייד שלך. בפעם הבאה שתחבר את שני המכשירים, תצטרך להשתמש ב-Bluetooth. כל חיבור לאחר מכן יוכל להתבצע באמצעות 'חיבור מרוחק'."</string>
+    <string name="alertdialog_uninstall_popup_content">הסר התקנה</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s אינו מותקן במכשיר הנייד שלך. כדי להשתמש ב-%2$s ב-Gear, הורד את %1$s למכשיר הנייד שלך.</string>
+    <string name="attention_popup_title">שים לב</string>
+    <string name="auto_call_forwarding">"העברת שיחות אוטו'"</string>
+    <string name="auto_call_forwarding_att">העברת שיחות אוטומטית ל-Gear</string>
+    <string name="auto_call_forwarding_desc">"הפעל 'העברת שיחות' באופן אוטומטי כאשר ה-Gear מנותק מהמכשיר הנייד שלך. דבר זה יגרום להעברת שיחות נכנסות מהמכשיר הנייד אל ה-Gear, עד לשחזור החיבור בין המכשירים."</string>
+    <string name="auto_update">עדכון אוטומטי</string>
+    <string name="auto_update_summary">בדוק אם קיימים עדכונים באופן אוטומטי.</string>
+    <string name="backing_up">מגבה…</string>
+    <string name="backup_complete">הגיבוי הושלם.</string>
+    <string name="bnr_backup">מגבה…</string>
+    <string name="bnr_bakcup_title">גיבוי</string>
+    <string name="bnr_cancel">ביטול</string>
+    <string name="bnr_canel">ביטול</string>
+    <string name="bnr_error_occurred">אירעה שגיאה</string>
+    <string name="bnr_except">%1$s (למעט %2$s)</string>
+    <string name="bnr_except_autolock">נעילה אוטומטית</string>
+    <string name="bnr_except_remoteconnection">חיבור מרוחק</string>
+    <string name="bnr_except_texttemplate">תבניות טקסט</string>
+    <string name="bnr_next">הבא</string>
+    <string name="bnr_no">לא</string>
+    <string name="bnr_ok">אישור</string>
+    <string name="bnr_reset_gear">כדי להתחבר למכשיר חדש, Gear יאופס להגדרות היצרן שלו.</string>
+    <string name="bnr_reset_gear_move_setupwizard">‏Gear אינו מוגדר באופן מלא. אשף ההגדרה פתוח כעת ב-Gear, אבל כדי להתחבר ל-Gear, עליך לפתוח את אשף ההגדרה ב-Gear Manager גם במכשיר זה.</string>
+    <string name="bnr_reset_initialization">הודעה</string>
+    <string name="bnr_restore">שחזר</string>
+    <string name="bnr_restored">הנתונים שוחזרו.</string>
+    <string name="bnr_setupwizard_title2">גיבוי ושחזור</string>
+    <string name="bnr_yes">כן</string>
+    <string name="bt_connected">מחובר</string>
+    <string name="bt_disconnected">מנותק</string>
+    <string name="bt_unpaired">לא מותאם</string>
+    <string name="button_finish">סיים</string>
+    <string name="button_restore">שחזר</string>
+    <string name="call">שיחה</string>
+    <string name="call_check_gear_status_when_cfwd">לא ניתן להפעיל במקביל את פונקציות העברת השיחה ’מהנייד ל-Gear‘ ו-’מה-Gear לנייד‘.</string>
+    <string name="call_dualsim1">כרטיס SIM‏ 1</string>
+    <string name="call_dualsim1sim2">שני כרטיסי ה-SIM</string>
+    <string name="call_dualsim2">כרטיס ‏SIM‏ 2</string>
+    <string name="call_forwarding">הפניית שיחות</string>
+    <string name="call_forwarding_agree">אני מסכים.</string>
+    <string name="call_forwarding_desc">העבר שיחות נכנסות מהמכשיר הנייד שלך אל ה-Gear.</string>
+    <string name="call_forwarding_desc_vzw">העבר שיחות נכנסות שלא נענו מהטלפון שלך אל ה-Gear.</string>
+    <string name="call_forwarding_disable_msg">הועברה בקשה להשבית העברת שיחות מהמכשיר הנייד אל ה-Gear שלך. מצב הרשת הסלולרית ומצב המכשיר הנייד עשויים להשפיע על התוצאות.</string>
+    <string name="call_forwarding_enable_msg">הועברה בקשה להפעיל העברת שיחות מהמכשיר הנייד אל ה-Gear שלך. מצב הרשת הסלולרית ומצב המכשיר הנייד עשויים להשפיע על התוצאות.</string>
+    <string name="call_forwarding_for_att_msg">"ניתן להעביר באופן אוטומטי שיחות המגיעות למכשיר הנייד שלך אל ה-Gear, כאשר הוא מנותק מהטלפון החכם.‏
+- הטלפון החכם יצלצל מספר פעמים ולאחר מכן השיחה תועבר אל ה-Gear.‏
+- אם לא תקבל את השיחה דרך ה-Gear, המתקשר יוכל להשאיר לך הודעה קולית שתוכל להאזין לה דרך ה-Gear.‏
+האם ברצונך להפעיל העברת שיחות אוטומטית עכשיו?"</string>
+    <string name="call_forwarding_notify_msg">"העברת שיחות מהמכשיר הנייד שלך אל ה-Gear מופעלת כרגע. שיחות המגיעות אל המכשיר הנייד שלך יועברו אל ה-Gear. אם ה-Gear אינו אתך, עבור אל 'הגדרות' והשבת את 'העברת שיחות אוטו' כדי לוודא שלא תחמיץ שיחות."</string>
+    <string name="call_forwarding_turning_off_notify_msg">משבית את העברת השיחות הקוליות…</string>
+    <string name="call_forwarding_turning_on_notify_msg">מפעיל את העברת השיחות הקוליות…</string>
+    <string name="call_no_gear_number">אין מספרים</string>
+    <string name="call_select_dualsim_title">בחר כרטיס SIM</string>
+    <string name="call_voice_control">בקרה קולית</string>
+    <string name="callforwarding_help_des1">"החלף באופן אוטומטי את המכשיר שאליו יועברו השיחות בהתאם לצורת החיבור: באמצעות Bluetooth או באמצעות 'חיבור מרוחק'."</string>
+    <string name="callforwarding_help_des2">קבל שיחות שבוצעו אל המכשיר הנייד שלך דרך ה-Gear כאשר אתה בתנועה ועונד את ה-Gear, במצב שבו ה-Gear מחובר מרחוק אל המכשיר הנייד.</string>
+    <string name="cancel">ביטול</string>
+    <string name="cf_activated">מופעל</string>
+    <string name="cf_deactivate_failed">"נכשלה השבתת הפונקציה 'העברת שיחות'."</string>
+    <string name="cf_deactivated">מושבת</string>
+    <string name="clock_new_clock_settings_applied_via_gear">בוצעה החלה של הגדרות שעון חדשות באמצעות ה-Gear.</string>
+    <string name="clocks_download_more_clocks">הורד שעונים נוספים</string>
+    <string name="clocks_noti_uninstall_clock">תוסר התקנת %s.</string>
+    <string name="clocks_noti_uninstall_idle_clock">ההתקנה של %1$s תוסר ו-%2$s יוגדר כשעון ברירת המחדל</string>
+    <string name="clocks_title_basic_clocks">שעונים בסיסיים</string>
+    <string name="clocks_title_downloaded_clocks">שעונים שהורדו</string>
+    <string name="clocks_title_style_clocks">שעונים מעוצבים</string>
+    <string name="clocks_uninstalled">לא מותקן.</string>
+    <string name="clocks_uninstalling">מסיר התקנה…</string>
+    <string name="close">סגור</string>
+    <string name="closing_samsung_gear_message">ה-Gear שלך אופס. היישום Samsung Gear ייסגר בעוד זמן קצר.</string>
+    <string name="closing_samsung_gear_message_jpn">בוצע איפוס ב-Gear שלך. היישום Gear ייסגר בעוד זמן קצר.</string>
+    <string name="closing_samsung_gear_title">סגור את היישום Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">סגור את היישום Gear</string>
+    <string name="cloud_backup_no_information">אף פעם</string>
+    <string name="cloud_backup_restore_backup_now">גבה נתונים</string>
+    <string name="cloud_backup_restore_restore_now">שחזר נתונים</string>
+    <string name="cmw_agree">אני מסכים</string>
+    <string name="cmw_eula_agree">אני מבין את התנאים וההתניות לעיל ומסכים להם.</string>
+    <string name="cmw_for_setting">"שירותי המיקום הושבתו. עבור אל 'הגדרות'."</string>
+    <string name="cmw_high_accuracy_dialog_message">"לזיהוי מיקום במהירות ובדיוק המרביים, בחר באפשרות 'דיוק גבוה' דרך 'מיקום' > 'מצב GPS'."</string>
+    <string name="cmw_high_accuracy_dialog_title">"בחר 'דיוק גבוה'"</string>
+    <string name="cmw_legal_content">"בעצם ההפעלה של הפונקציה ״שתף מיקום״, הנך מסכים כי נתוני המיקום הקשורים לטלפון הנייד ו/או למכשיר ה-Gear שלך ישודרו דרך שרת של Samsung כדי לספק את השירותים 'חפש את ה-Gear שלי' ו'אתר את המכשיר שלי'. שום פרט או מידע על מיקום המכשיר שלך אינו נשמר בשרת של Samsung."</string>
+    <string name="cmw_legal_content1">בעצם ההפעלה של ״%1$s &amp; %2$s״, הנך מאשר כי נתוני המיקום הקשורים בטלפון הנייד ו/או מכשיר ה-Gear שלך ישודרו באמצעות שרת של Samsung כדי לספק את השירותים %1$s ו%2$s. שום פרט או מידע על מיקום המכשיר שלך אינו נשמר בשרת של Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">בעצם ההפעלה של ״%1$s &amp; %2$s״, הנך מאשר כי נתוני המיקום הקשורים בטלפון הנייד ו/או מכשיר ה-Gear שלך ישודרו באמצעות שרת של Samsung כדי לספק את השירות %2$s. שום פרט או מידע על מיקום המכשיר שלך אינו נשמר בשרת של Samsung.</string>
+    <string name="cmw_legal_content_2">מדיניות הפרטיות של Samsung</string>
+    <string name="cmw_legal_title">הודעות משפטיות</string>
+    <string name="cmw_location">הפעל שירותי מיקום</string>
+    <string name="cmw_show_on_map">הצג במפה</string>
+    <string name="color_black">שחור</string>
+    <string name="color_blue">כחול</string>
+    <string name="color_brown">חום</string>
+    <string name="color_gray">אפור</string>
+    <string name="color_green">ירוק</string>
+    <string name="color_light_sky_blue">כחול שמיים בהיר</string>
+    <string name="color_medium_purple">סגול בינוני</string>
+    <string name="color_orange">כתום</string>
+    <string name="color_pink">ורוד</string>
+    <string name="color_purple">סגול</string>
+    <string name="color_red">אדום</string>
+    <string name="color_spring_green">ירוק אביב</string>
+    <string name="common_none">ללא</string>
+    <string name="common_off">כבוי</string>
+    <string name="common_on">מופעל</string>
+    <string name="common_recent_apps">יישומים אחרונים</string>
+    <string name="connect_popup_content">מתחבר אל %s…</string>
+    <string name="connected_by_trasport_BT">מחובר דרך Bluetooth</string>
+    <string name="connected_by_trasport_SCS">מחובר מרחוק</string>
+    <string name="connecting_content">מתחבר ל-Gear</string>
+    <string name="connecting_doc">לאחר התחברות אל ה-%1$s, תוכל לשנות את ההגדרות שלו ולהתקין בו יישומים באמצעות מנהל %2$s.</string>
+    <string name="connecting_popup_message">מתחבר ל-Gear…</string>
+    <string name="connecting_popup_title">התחבר ל-Gear</string>
+    <string name="connecting_to_gear_ing">מתחבר ל-Gear…</string>
+    <string name="connectingdoc">לאחר התחברות ל-Gear, תוכל לשנות את ההגדרות שלו ולהתקין בו יישומים באמצעות Gear Manager.</string>
+    <string name="connection_error_dialog_message">המכשיר שלך לא התחבר. הוא ינסה להתחבר שוב.</string>
+    <string name="dialog_check_phone_number_msg1">ודא שהפרטים הבאים נכונים:</string>
+    <string name="dialog_check_phone_number_msg2">מספר טלפון נייד: %s</string>
+    <string name="dialog_check_phone_number_msg3">מספר הטלפון של ה-Gear:‏ %s</string>
+    <string name="dialog_check_phone_number_msg4">"הקש על 'אישור' כדי לאשר ולהפעיל את הפונקציה 'העברת שיחות אוטו'."</string>
+    <string name="dialog_enable_remote_connection_desc">"כדי להפעיל את 'העברת שיחות אוטו', הפעל את 'חיבור מרוחק' ונסה שוב."</string>
+    <string name="dialog_enable_remote_connection_title">"הפעלת 'חיבור מרוחק'"</string>
+    <string name="dialog_permission_message">"לא ניתן להפעיל את %s. הקש על 'הגדרות' ועבור אל 'פרטי יישומים' > 'הרשאות'; כעת אשר את ההרשאות הבאות ונסה שוב:"</string>
+    <string name="dialog_popup_button_cancel">ביטול</string>
+    <string name="dialog_reverse_msg">בהתאם לספק השירות שלך, ייתכן שיידרשו לך הסדרי מנוי נפרדים כדי לאפשר שימוש בתכונה זו במכשיר הנייד וגם ב-Gear. הדבר עשוי לגרור תוספת חיובים.</string>
+    <string name="dialog_set_phone_number_msg">"כדי להפעיל את הפונקציה 'העברת שיחות אוטו', הזן את מספרי הטלפונים של המכשירים שברצונך להעביר אליהם ומהם שיחות נכנסות."</string>
+    <string name="dialog_set_phone_number_title">"הפעלת 'העברת שיחות אוטו'"</string>
+    <string name="disable_loc_text">"הפונקציה 'שתף מיקום' תושבת. לא תוכל להשתמש בנתוני מיקום כדי לחפש את ה-Gear או את המכשיר הנייד שלך באמצעות הפונקציות 'חפש את ה-Gear שלי' או 'חפש את המכשיר שלי'."</string>
+    <string name="disable_loc_text_no_gps">"הפונקציה 'שתף מיקום' תושבת. לא תוכל להיעזר בנתוני מיקום כדי לחפש את המכשיר הנייד שלך באמצעות הפונקציה 'חפש את המכשיר שלי'."</string>
+    <string name="disable_remote_connection">"השבתת 'חיבור מרוחק'"</string>
+    <string name="disable_remote_connection_fmm_fmd">"חפש את ה-Gear שלי' ו'אתר את המכשיר שלי'"</string>
+    <string name="disable_remote_connection_receiving_blocked">קבלת הודעות, דוא״ל והתראות מהמכשיר הנייד</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">קבלת דוא״ל והתראות מהמכשיר הנייד</string>
+    <string name="disable_remote_connection_warning">"הפונקציה 'חיבור מרוחק' תושבת. הפונקציות הבאות לא יהיו זמינות עד שה-Gear יתחבר אל המכשיר הנייד שלך מחדש באמצעות Bluetooth:"</string>
+    <string name="disable_share_location">"השבתת 'שתף מיקום'"</string>
+    <string name="disconnect_popup_content">מנתק את %s…</string>
+    <string name="do_not_show_again">אל תציג שוב</string>
+    <string name="enable_auto_call_forwarding_msg">"העבר באופן אוטומטי שיחות נכנסות מהמכשיר הנייד אל ה-Gear שלך כאשר ה-Gear לא מחובר. ייתכן שהדבר יגרור תוספת חיובים, בהתאם להסדר שלך עם ספק השירות. הקש על 'אישור' כדי להפעיל את 'העברת שיחות אוטו'."</string>
+    <string name="enable_auto_call_forwarding_title">"הפעלת 'העברת שיחות אוטו'"</string>
+    <string name="enable_more_notifications_enable">הפעל</string>
+    <string name="enable_notification_access">"הפעלת 'גישה להתראות'"</string>
+    <string name="enable_notification_access_desc">"פונקציה זו תוכל לקרוא את כל ההתראות שתקבל, ואלה עשויות להכיל מידע אישי כמו אנשי קשר והודעות שנשלחו אליך. בנוסף, הוא יוכל גם להתעלם מאותן התראות או לבחור פעולות הקשורות בהם.
+כדי לקבל התראות ב-Gear, הקש על 'הפעל' והפעל את %s."</string>
+    <string name="enable_share_location">"הפעל את 'שתף מיקום'"</string>
+    <string name="enabled_loc">"שתף מיקום' מופעל."</string>
+    <string name="error_enter_device_name">הזן שם מכשיר.</string>
+    <string name="error_occurred">אירעה שגיאה.</string>
+    <string name="eula_i_agree">אני מסכים.</string>
+    <string name="failed_tshare_msg">"נכשלה הפעלת הפונקציה 'העברת שיחות'. אין תגובה מ-T share."</string>
+    <string name="find_my_device">אתר את המכשיר שלי</string>
+    <string name="find_my_gear">אתר את ה-Gear שלי</string>
+    <string name="find_watch_btn_start">התחל</string>
+    <string name="find_watch_btn_stop">עצור</string>
+    <string name="find_watch_off">כדי למצוא את ה-Gear שלך, הקש על ’התחל‘. Gear ישמיע צליל והמסך שלו יידלק.</string>
+    <string name="find_watch_on">"כדי להפסיק לחפש את Gear, הקש על 'עצור'. Gear יפסיק להשמיע צליל, והמסך שלו יכבה."</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">תוסר ההתקנה של %1$s, וגופן ברירת המחדל יוחל על %2$s.</string>
+    <string name="force_wifi_direct_msg">היישום יותקן דרך Wi-Fi Direct. דבר זה ינתק את חיבור Wi-Fi Direct הקיים. אם תבטל את ההתקנה, תצטרך להוריד את היישום פעם נוספת כדי להתקין אותו.</string>
+    <string name="force_wifi_direct_title">התקן</string>
+    <string name="force_wifi_install">התקן</string>
+    <string name="gear2_backup_confirm_text">אם תבצע גיבוי נתונים עכשיו, נתוני הגיבוי של ה-Gear הקיימים במכשיר הנייד יוחלפו בנתוני ה-Gear העדכניים ביותר.</string>
+    <string name="gear2_restore_confirm_text">אם תשחזר נתונים, הנתונים הקיימים ב-Gear שלך כרגע יימחקו ויוחלפו בנתוני הגיבוי הקיימים של ה-Gear.</string>
+    <string name="gear2_text">"השתמש באחסון של המכשיר כדי לגבות את תוכן ה-%1$s הבא:
+%2$s‏
+
+אם כבר גיבית פריט תוכן זה, תוכל לשחזר אותו ב-%3$s עכשיו.
+
+הפעולה עשויה להימשך מספר דקות, בהתאם לגודל הקובץ."</string>
+    <string name="gear2_text_import3">הגדרות</string>
+    <string name="gear_bnr_desc">"השתמש באחסון של המכשיר הנייד לגיבוי נתוני %1$s הבאים: %2$s‏
+
+אם כבר גיבית את נתוני %3$s בעבר, תוכל לשחזר אותם ב-%4$s כעת.
+
+הפעולה עשויה להימשך זמן-מה, בהתאם לגודל הקבצים."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">המכשיר הנייד שלך מחפש את ה-Gear. פעולה זו תימשך מספר דקות. ייתכן שיהיה קושי באיתור ה-Gear אם הוא נמצא בתוך מבנה.</string>
+    <string name="gear_location_popup_title">איתור ה-Gear</string>
+    <string name="gear_location_text">מיקום ה-Gear</string>
+    <string name="gear_lock_success">ה-Gear נעול.</string>
+    <string name="gear_lock_text">נעל את Gear</string>
+    <string name="gear_locked">ה-Gear נעול</string>
+    <string name="gear_locked_text1">ה-Gear נעול. כדי לבטל את הנעילה, חבר את ה-Gear למכשיר נייד באמצעות Bluetooth.</string>
+    <string name="gear_phone_number">מספר הטלפון של ה-Gear</string>
+    <string name="gear_phone_number_popup_desc">כל השיחות המיועדות למכשיר הנייד יועברו אל %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">כל שיחה שלא נענתה אל המכשיר הנייד שלך תועבר אל %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">"כדי לנעול את ה-Gear עליך להפעיל תחילה את הפונקציה 'חיבור מרוחק'."</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">"כדי לאפס את ה-Gear עליך להפעיל תחילה את הפונקציה 'חיבור מרוחק'."</string>
+    <string name="gear_reset_text">אפס את Gear</string>
+    <string name="gear_to_mobile">מה-Gear לנייד</string>
+    <string name="gear_to_mobile_des">קבל שיחות אל ה-Gear דרך המכשיר הנייד שלך כאשר שני המכשירים מחוברים באמצעות Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">איתור המיקום נכשל. נסה שוב מאוחר יותר.</string>
+    <string name="gear_unable_to_locate_title">לא ניתן לאתר את ה-Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">טפטים</string>
+    <string name="home_bg_color">צבעים</string>
+    <string name="home_bg_colors_title">הצבעים הזמינים</string>
+    <string name="home_bg_delete_actionbar_selected">נבחר</string>
+    <string name="home_bg_delete_dialog_msg">%d טפטים יוסרו ב-Gear Manager וב-Gear שלך.</string>
+    <string name="home_bg_delete_select_all">בחר הכל</string>
+    <string name="home_bg_max_more_image_toast">הגעת למספר הטפטים המרבי המותר (%d)‏.</string>
+    <string name="home_bg_more_images">תמונות נוספות</string>
+    <string name="home_bg_popup_wallpaper_msg">מוריד טפטים ל-Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">הורדת טפטים</string>
+    <string name="home_bg_toast_saved">נשמר</string>
+    <string name="home_bg_wallpaper">טפט</string>
+    <string name="home_bg_wallpapers_title">טפטים זמינים</string>
+    <string name="homelayout_apps">יישומים</string>
+    <string name="incoming_calls_title">שיחות נכנסות</string>
+    <string name="info_build_number">גרסת תוכנה</string>
+    <string name="info_model_number">מספר דגם</string>
+    <string name="info_software_update">עדכון תוכנה</string>
+    <string name="information_provision_agreement">הסכם העברת מידע</string>
+    <string name="information_provision_agreement_mgs">"’תזכיר קולי‘ משתמש בטכנולוגיית זיהוי קולי המסופקת על-ידי ספק שירות חיצוני בשם Nuance Communications, Inc. לפיכך, המידע הקולי שלך יישמר בשרתים המופעלים על-ידי Nuance (בארה”ב), והשימוש בתזכירים הקוליים מותנה בהסכמתך לתנאים וההתניות של Nuance.
+ Nuance שומרת לעצמה את הזכות להשתמש בקלט הקולי שלך למטרות שיפור שירותים ושיפור טכנולוגיות. בנוסף, Nuance שומרת לעצמה את הזכות לספק את הקלט הקולי שמוזכר לעיל לשותפיה של Nuance. מידע הקלט הקולי שלך יאוחסן עד למימוש היעדים שצוינו לעיל. למידע אודות שירותי ’תזכיר קולי‘, קרא את הצהרת הפרטיות של Samsung ואת הצהרת הפרטיות של Nuance.
+ לא תוכל להשתמש ב’תזכיר קולי‘ אם לא תסכים לתנאי העברת המידע שלך, כפי שפורטו לעיל."</string>
+    <string name="init_manage_notifications_desc">בחר את היישומים שתרצה לקבל מהם התראות באמצעות ה-%1$s. כדי לחסוך באנרגיית הסוללה של ה-%2$s, בטל את הבחירה ביישומים שאינך מעוניין לקבל מהם התראות.</string>
+    <string name="install_in_progress">מתבצע…</string>
+    <string name="invalid_rename_character">הוזן תו לא חוקי. נסה שוב.</string>
+    <string name="latest_version">הגרסה החדשה ביותר מותקנת</string>
+    <string name="latitude">קו רוחב</string>
+    <string name="limit_notification_desc">חסום הופעה של התראות ב-Gear כאשר המכשיר הנייד בשימוש.</string>
+    <string name="limit_notification_dialog_desc">"לא ניתן להפעיל את התכונה 'הגבל התראות' ב-Gear שלך. לא הוגדרה נעילת מסך במכשיר הנייד שלך."</string>
+    <string name="limit_notification_title">הגבל התראות</string>
+    <string name="location_info_title">שתף מיקום</string>
+    <string name="lock_gear_legal_text1">"באמצעות הפונקציה 'נעילת Gear' תוכל לנעול את ה-Gear מרחוק כדי למנוע שימוש לא מורשה. תוכל לבטל את נעילת ה-Gear על ידי חיבורו מחדש אל המכשיר הנייד."</string>
+    <string name="lock_gear_legal_text2">"* פעולת 'נעילת Gear' עשויה להימשך זמן מה או אפילו להיכשל; הדבר תלוי במצב ה-Gear, המכשיר הנייד או סביבת הרשת."</string>
+    <string name="lock_gear_text">לא ניתן לנעול את ה-Gear כל עוד המכשיר הנייד וה-Gear מחוברים באמצעות Bluetooth.</string>
+    <string name="login_to_samsung_account">היכנס לSamsung Account</string>
+    <string name="login_to_samsung_account_desc">"כדי להפעיל את 'חיבור מרוחק' ב-Gear, היכנס אל Samsung Account שלך."</string>
+    <string name="login_to_samsung_account_full_desc">"היכנס אל Samsung Account שלך כדי להשתמש בתכונות הבאות, גם כאשר אינך מחובר באמצעות Bluetooth‏:
+- קבלת התראות
+- שימוש ביישומים באמצעות 'חיבור מרוחק'
+השימוש ב'חיבור מרוחק' עשוי לגרור תוספת חיובים."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"כאשר אינך מחובר אל הטלפון באמצעות Bluetooth, תוכל בעזרת Samsung Account לבצע את הפעולות הבאות באמצעות נתונים ניידים:
+- קבלת הודעות, דוא״ל והתראות אחרות
+- הפעלה ב-Gear של יישומים הזקוקים לחיבור לטלפון שלך באמצעות 'חיבור מרחוק.
+
+לתשומת לבך, חיבור מרחוק דרך ה-Samsung Account שלך ינצל נתונים מחבילת השירות שלך."</string>
+    <string name="longitude">קו אורך</string>
+    <string name="main_bt_unpaired">לא מותאם</string>
+    <string name="main_disconnected">מנותק</string>
+    <string name="manage_applications">נהל יישומים</string>
+    <string name="manage_notifications">נהל התראות</string>
+    <string name="manual_call_forwarding_for_att_msg">"ניתן להעביר שיחות המגיעות לטלפון החכם שלך אל ה-Gear.
+- הטלפון החכם יצלצל מספר פעמים ולאחר מכן השיחה תועבר אל ה-Gear.‏
+- אם לא תקבל את השיחה דרך ה-Gear, המתקשר יוכל להשאיר לך הודעה קולית שתוכל להאזין לה דרך ה-Gear.‏
+האם ברצונך להפעיל העברת שיחות כעת?"</string>
+    <string name="manual_call_forwarding_popup_desc">העברת שיחות היא שירות רשת המפנה את השיחות הנכנסות של ה-%s למספר שצוין. ייתכן שיידרש מנוי כדי לאפשר ל-Gear שלך להשתמש בתכונה זו; הדבר תלוי בספק השירות. פעולה זו עשויה לגרור תוספת חיובים.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">מכשיר נייד</string>
+    <string name="masterapp_not_installed">%1$s אינו מותקן במכשיר הנייד שלך. כדי להשתמש ב-%2$s ב-Gear, הורד את %1$s למכשיר הנייד שלך.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s אינו מותקן במכשיר הנייד שלך. כדי להשתמש ב-%2$s ב-Gear, הורד את %1$s למכשיר הנייד שלך. עוד מעט תועבר למסך ההורדה.</string>
+    <string name="masterapp_uninstalled">ההתקנה של %1$s הוסרה מהמכשיר הנייד שלך. כדי להשתמש ב-%2$s ב-Gear, הורד את %1$s למכשיר הנייד שלך.</string>
+    <string name="maximum_size_warning">הגעת למספר התווים המרבי המותר.</string>
+    <string name="menu_about_device">אודות %s</string>
+    <string name="menu_actionbar_remove">הסר</string>
+    <string name="menu_actionbar_uninstall">הסר התקנה</string>
+    <string name="menu_appsandsettigns">יישומים והגדרות</string>
+    <string name="menu_clock">שעון</string>
+    <string name="menu_display">ערוך את מסך הבית</string>
+    <string name="menu_downloaded_font">גופנים שהורדו</string>
+    <string name="menu_filetransfertogear">העברת קבצים אל ה-GEAR</string>
+    <string name="menu_gallery">תמונה</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">כושר</string>
+    <string name="menu_help">עזרה</string>
+    <string name="menu_home_screen">מעצב מסך הבית</string>
+    <string name="menu_music">מוסיקה</string>
+    <string name="menu_myapp">היישומים שלי</string>
+    <string name="menu_notification">התראות</string>
+    <string name="menu_rename">שנה שם</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">יישמי Gear</string>
+    <string name="menu_settings">הגדרות</string>
+    <string name="mobile_to_gear">מהנייד ל-Gear</string>
+    <string name="mobile_to_gear_des">קבל שיחות אל המכשיר הנייד שלך דרך ה-Gear כאשר יש בין שני המכשירים חיבור מרחוק.</string>
+    <string name="monotype_default_font">גופן ברירת המחדל</string>
+    <string name="monotype_dialog_font_applemint">נענע תפוח</string>
+    <string name="monotype_dialog_font_choco">עוגיית שוקולד</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">פופ</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">טינקרבל</string>
+    <string name="more">עוד</string>
+    <string name="more_options">אפשרויות נוספות</string>
+    <string name="multisim_title">ריבוי SIM</string>
+    <string name="navigate_up">נווט למעלה</string>
+    <string name="new_eula_error_log">דווח פרטי אבחון</string>
+    <string name="new_eula_fmd2">אתר את המכשיר שלי</string>
+    <string name="new_eula_fmg2">אתר את ה-Gear שלי</string>
+    <string name="new_eula_news_briefing">תדרוך חדשות</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">מקלדת Samsung</string>
+    <string name="new_notification_list">תצוגת רשימה</string>
+    <string name="new_notifications_list_desc">הצג משמאל לשעון את רשימת ההתראות שהתקבלו ב-Gear.</string>
+    <string name="no_application_selected">לא נבחרו יישומים</string>
+    <string name="no_downloaded_applications">אין יישומים שהורדת</string>
+    <string name="no_of_application_selected">%d יישומים נבחרו</string>
+    <string name="no_remote_connection_popup_msg">"כדי להפעיל את 'העברת שיחות אוטו', פתח את היישום Samsung Gear במכשיר הנייד, הפעל את 'חיבור מרוחק' ונסה שוב."</string>
+    <string name="no_remote_connection_popup_title">"הפעלת 'חיבור מרוחק'"</string>
+    <string name="notification_type">סוג התראה</string>
+    <string name="notification_type_desc">כאשר ה-Gear בשימוש, ההתראות יוצגו כחלונות קופצים קטנים בחלק העליון של המסך, ללא קשר בהגדרות שבחרת לעיל.</string>
+    <string name="number_setting">הגדרת מספרים</string>
+    <string name="ok">אישור</string>
+    <string name="once">חד-פעמי</string>
+    <string name="one_application_selected">נבחר יישום אחד</string>
+    <string name="popup_attention_email_msg">"חלק מחשבונות הדוא״ל לא נבחרו בהגדרות היישום 'דוא״ל'. כדי לקבל התראות מחשבונות אלה ב-Gear, בחר באפשרות 'התראות דוא״ל' בהגדרות היישום 'דוא״ל'."</string>
+    <string name="popup_attention_message_msg">כדי לשלוח ולקבל הודעות דרך הGear, עליך לשנות את יישום ברירת המחדל להעברת הודעות מ-%s ל-הודעה</string>
+    <string name="popupmenu_search_for_new_device">ניהול מכשירים</string>
+    <string name="preview_message_desc">הצג בחלונות ההתראה המוקפצים של ה-Gear תצוגה מקדימה של הודעות שהתקבלו, להוציא התראות שיחה נכנסת והתראות.</string>
+    <string name="preview_message_title">הצג הודעה בתצוגה מקדימה</string>
+    <string name="primary">ראשי</string>
+    <string name="privacypolicy_fmgfmd">בעצם ההפעלה של ״%1$s &amp; %2$s״, הנך מאשר כי נתוני המיקום הקשורים בטלפון הנייד ו/או מכשיר ה-Gear שלך ישודרו באמצעות שרת של Samsung כדי לספק את השירותים %1$s ו%2$s. שום פרט או מידע על מיקום המכשיר שלך אינו נשמר בשרת של Samsung.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">בעצם ההפעלה של ״%1$s &amp; %2$s״, הנך מאשר כי נתוני המיקום הקשורים בטלפון הנייד ו/או מכשיר ה-Gear שלך ישודרו באמצעות שרת של Samsung כדי לספק את השירות %2$s. שום פרט או מידע על מיקום המכשיר שלך אינו נשמר בשרת של Samsung.</string>
+    <string name="privacypolicy_newsbriefing">יישום זה מאפשר למשתמש לקיים אינטראקציה דרך רשתות חברתיות ודרך האינטרנט במגוון של דרכים חדשניות. אם תפעיל יישום זה, השירות יאסוף מידע על האופן שבו אתה משתמש בשירותים, כולל כיצד אתה מציג תוכן ומודעות ואילו אינטראקציות אתה מנהל איתן. לקבלת מידע נוסף, עיין ב %1$sתנאי השימוש%2$s וב%3$sמדיניות הפרטיות%4$s של Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">מדיניות הפרטיות של Samsung</string>
+    <string name="progressdialog_please_wait">אנא המתן…</string>
+    <string name="progressdialog_reinstalled_message">מתקין…</string>
+    <string name="progressdialog_reinstalled_popup_content">התקן מחדש</string>
+    <string name="providerapp_reinstalled">%s אינו פועל בצורה תקינה ולכן התקנתו הוסרה. הוא כעת יותקן מחדש.</string>
+    <string name="quick_tutorial_add_shortcuts">"כדי להוסיף במסך הבית של ה-Gear קיצורי דרך אל יישומים, עבור אל 'יישומים' ב-Gear, לחץ לחיצה ארוכה על סמל של יישום, גרור את הפריט הרצוי ושחרר אותו על סמל הבית בחלק העליון של המסך."</string>
+    <string name="quick_tutorial_gear_structure">השעון יוצג בדף הראשי במסך הבית של ה-Gear. בדפים שמשמאל לשעון יוצגו התראות ובדפים שמימין לו יוצגו יישומונים. כדי להציג יישומים, החלק מתחתית המסך כלפי מעלה.</string>
+    <string name="quick_tutorial_noti_title">מבוא ל-%s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">כדי לפתוח את S Voice, אמור ״Hi Gear״ או לחץ פעמיים על מקש הבית בזמן שאתה נמצא במסך כלשהו.</string>
+    <string name="quick_tutorial_swipe_downwards">"הקש הקשה כפולה על מקש הבית כדי לפתוח את היישום המועדף עליך. ניתן לשנות את היישום המועדף דרך 'הגדרות'."</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">"הקש הקשה כפולה על מקש ההפעלה כדי לפתוח את היישום המועדף עליך. ניתן לשנות את היישום המועדף דרך 'הגדרות'."</string>
+    <string name="quick_tutorial_to_go_back">החלק במסך כלפי מטה מהקצה כדי לחזור.</string>
+    <string name="remote_connection_disabled_settings">הגדרות</string>
+    <string name="remote_connection_enabled_desc">ה-Gear יחובר מרחוק במקרה של ניתוק חיבור ה-Bluetooth.</string>
+    <string name="requested">מבוקש</string>
+    <string name="reset_gear_legal_text1">"באמצעות הפונקציה 'אפס Gear' תוכל לבצע מרחוק מחיקה של כל הנתונים ב-Gear. מחיקה שכזאת היא בלתי הפיכה: לא תוכל לשחזר את הנתונים שנמחקו ולא תוכל עוד להשתמש בפונקציה 'חפש את ה-Gear שלי'."</string>
+    <string name="reset_gear_legal_text2">"* פעולת 'אפס Gear' עשויה להימשך זמן מה או אפילו להיכשל; הדבר תלוי במצב ה-Gear, המכשיר הנייד או סביבת הרשת."</string>
+    <string name="restore_complete">השחזור הושלם.</string>
+    <string name="restore_some_error">השחזור נכשל. נסה שוב.</string>
+    <string name="restore_try_again">נסה שוב</string>
+    <string name="restore_watch_settings_content2">"השתמש באחסון של המכשיר כדי לגבות את תוכן ה-%1$s הבא:
+%2$s‏
+
+אם כבר גיבית פריט תוכן זה, תוכל לשחזר אותו ב-%3$s עכשיו.
+
+הפעולה עשויה להימשך מספר דקות, בהתאם לגודל הקובץ.
+
+באפשרותך לשנות את הגדרות הגיבוי שלך דרך 'הגדרות'."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">הגדרות</string>
+    <string name="retrieve_dialog_desc">מאחזר רשימת יישומים…</string>
+    <string name="sa_email">דוא״ל</string>
+    <string name="sa_error_0203_desc">"כדי להפעיל את 'חיבור מרוחק', עדכן ידנית את Samsung Account."</string>
+    <string name="sa_error_0203_title">עדכון Samsung Account</string>
+    <string name="sa_error_0301_desc">אירעה שגיאת רשת בעת הכניסה אל Samsung Account דרך המכשיר הנייד.</string>
+    <string name="sa_error_0301_title">הפעלת היישום נכשלה</string>
+    <string name="sa_error_0302_desc">אירעה שגיאת רשת בעת הכניסה אל Samsung Account דרך המכשיר הנייד.</string>
+    <string name="sa_error_0302_title">הפעלת היישום נכשלה</string>
+    <string name="sa_error_0401_desc">אירעה שגיאה. נסה שוב.</string>
+    <string name="sa_error_0401_title">שגיאה</string>
+    <string name="safety_message_interval_10minutes">כל 10 דקות</string>
+    <string name="safety_message_interval_20minutes">אחת ל-20 דקות</string>
+    <string name="samsung_apps_info">ניתן למחוק יישומים שהורדו באמצעות ה-%1$s בעת הסרת %2$s או בעת ניקוי נתוני יישומים. תוכל להוריד יישומים שנמחקו דרך היסטוריית הרכישות שלך ב-%3$s.</string>
+    <string name="samsung_apps_notice">הודעה</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">עדכן עכשיו</string>
+    <string name="screen_off">השאר מסך כבוי</string>
+    <string name="screen_off_desc">קבל הודעות, למעט התראות שיחה נכנסת והתראות באמצעות ה-Gear כאשר המסך שלו כבוי.</string>
+    <string name="setting_Enable">הפעל</string>
+    <string name="setting_alpm_dialog_title">שים לב</string>
+    <string name="setting_always_off">כבוי תמיד</string>
+    <string name="setting_always_on">מופעל תמיד</string>
+    <string name="setting_auto">"אוט'"</string>
+    <string name="setting_auto_lock_disable_desc">מושבת על-ידי מנהל מערכת, מדיניות הצפנה או אחסון אישורים.</string>
+    <string name="setting_backup_restore2">גיבוי ושחזור</string>
+    <string name="setting_basic">יסודות</string>
+    <string name="setting_connections">חיבורים</string>
+    <string name="setting_disable">השבת</string>
+    <string name="setting_home_key_double_pressing">הקשה כפולה על מקש הבית</string>
+    <string name="setting_language_input">שפה וקלט</string>
+    <string name="setting_manage_text_templates">ערוך תבניות טקסט</string>
+    <string name="setting_mobile_network">רשתות תקשורת סלולרית</string>
+    <string name="setting_mobile_network_desc">ה-Gear ינותק מהרשת הסלולרית כאשר הוא מחובר אל המכשיר הנייד שלך באמצעות Bluetooth. עם סיום החיבור באמצעות Bluetooth, ה-Gear יחובר מחדש אל הרשת הסלולרית שלך באופן אוטומטי.</string>
+    <string name="setting_multisim_popup_desc">"ייתכן שתידרש למנוי נפרד כדי להשתמש בפונקציה 'SIM מרובה'; הדבר תלוי בספק השירות שלך. הקש על 'אישור' כדי להפעיל את 'SIM מרובה'."</string>
+    <string name="setting_opensource">רישיון קוד פתוח</string>
+    <string name="setting_palm_motion">תנועות</string>
+    <string name="setting_palm_swipe">צילום בהחלקה</string>
+    <string name="setting_palmover_desc">כדי להשתיק שיחות נכנסות והתראות או כדי להשהות מדיה, הנח את כף ידך על המסך כאשר הוא מופעל.</string>
+    <string name="setting_palmswipe_desc">צלם את המסך על ידי החלקת האצבע כולה על המסך, תוך שמירה על מגע עם המסך.</string>
+    <string name="setting_pause_mute">השתק/השהה</string>
+    <string name="setting_power_key_double_pressing">הקשה כפולה על מקש ההפעלה</string>
+    <string name="setting_restoring">משחזר…</string>
+    <string name="setting_safety_b1_desc">"כאשר ה-Gear והמכשיר הנייד שלך מחוברים, הפונקציה 'שלח הודעת עזרה' תסייע לך במקרה חירום. הפונקציה שולחת התראה לאנשי הקשר שלך לשעת חירום ומיידעת אותם על מצבך באמצעות הודעת חירום עם נתוני המיקום שלך. שליחת הודעות מסוג זה עשויה לגרור תוספת חיובים. כדי להפעיל את 'שלח הודעות חירום' במצב חירום, לחץ על מקש ההפעלה %d פעמים."</string>
+    <string name="setting_safety_b2_desc">"כאשר ה-Gear והמכשיר הנייד שלך מחוברים, הפונקציה 'שלח הודעות עזרה' יכולה לסייע לך במקרה חירום, על ידי צילום של תמונה בעזרת מצלמת ה-Gear. הפונקציה שולחת אל אנשי הקשר שלך לשעת חירום התראה על מצבך באמצעות הודעת העזרה עם התמונה ופרטי המיקום שלך. ההודעה הראשונה תכיל הן את מיקומך והן את התמונה. לאחר פרק זמן מסוים, תישלח הודעה שנייה, שתכיל את פרטי המיקום שלך בלבד. שליחת הודעות אלה עשויה לגרור חיובים נוספים. כדי להפעיל את הפונקציה 'שלח הודעות עזרה' במקרה חירום, לחץ על מקש הבית %d פעמים."</string>
+    <string name="setting_safety_b2_no_camera_desc">"כאשר ה-Gear והמכשיר הנייד שלך מחוברים, הפונקציה 'שלח הודעות עזרה' יכולה לסייע לך במצב חירום. הפונקציה שולחת אל אנשי הקשר שלך לשעת חירום התראה על מצבך באמצעות הודעות עזרה עם פרטי המיקום שלך. שליחת הודעות אלה עשויה לגרור חיובים נוספים. כדי להפעיל את הפונקציה 'שלח הודעות עזרה' במקרה חירום, לחץ על מקש הבית %d פעמים."</string>
+    <string name="setting_safety_b3_desc1">לחץ 3 לחיצות מהירות על מקש הבית כדי לשלוח התראה מהירה אל אנשי הקשר הראשיים שלך אם נתקלת במצב חירום.</string>
+    <string name="setting_safety_b3_desc2">אנשי הקשר הראשיים יקבלו הודעות חירום ובהן פרטים על מיקומך הנוכחי.</string>
+    <string name="setting_safety_b3_desc3">כדי להשתמש ביישום זה, חבר את המכשיר הנייד שלך אל ה-Gear.</string>
+    <string name="setting_safety_list">סיוע בטיחות</string>
+    <string name="setting_samsung_legal">חומר משפטי של Samsung</string>
+    <string name="setting_screen_lock">נעילה אוטומטית</string>
+    <string name="setting_screen_lock_desc">השתמש ב-Gear שלך כדי לנעול את המכשיר הנייד.</string>
+    <string name="setting_screen_secutiry">אבטחת מסך</string>
+    <string name="setting_send_emergency_picture">שלח תמונת חירום</string>
+    <string name="setting_send_emergency_recording">שלח הקלטת צלילים</string>
+    <string name="setting_send_emergency_term_agree">קראתי את כל התנאים וההתניות שלעיל ואני מסכים לאמור בהם.</string>
+    <string name="setting_send_help_message">שלח הודעות עזרה</string>
+    <string name="setting_send_terms_conditions">תנאי שימוש</string>
+    <string name="setting_smart_relay">ממסר חכם</string>
+    <string name="setting_smart_relay_desc">הצג תוכן מ-Gear במכשיר הנייד על-ידי הרמת המכשיר הנייד.</string>
+    <string name="setting_smart_toss">ממסר חכם</string>
+    <string name="setting_system">מערכת</string>
+    <string name="setting_text_to_speech_engine">מנוע טקסט לדיבור</string>
+    <string name="setting_textinput_emoticon">סמלי הבעה</string>
+    <string name="setting_textinput_keyboard">מקלדת</string>
+    <string name="setting_textinput_list">שיטות קלט טקסט</string>
+    <string name="setting_textinput_templates">תבניות</string>
+    <string name="setting_try_it">נסה זאת</string>
+    <string name="setting_wake_up">מחוות השכמה</string>
+    <string name="setting_wake_up_desc">הער את Gear על-ידי הרמת היד שעליה ענדת את Gear.</string>
+    <string name="setting_wakeupgesture">"כדי להעיר את Gear, הרם את היד שעליה ענדת את Gear והבט במסך Gear.
+
+תכונה זו אינה עובדת כשאתה נשען לאחור או שוכב, ועשויה לצרוך מתח סוללה רב יותר ב-Gear מאחר שחיישן התנועה שלו פועל תמיד."</string>
+    <string name="setting_wakeupgesture_clock">שעון</string>
+    <string name="setting_wakeupgesture_previous">האחרון שהוצג</string>
+    <string name="setting_wakeupgesture_screen_on">בחר מסך מוצג</string>
+    <string name="setting_wakeupgesture_screen_on_ru">בחר מסך מוצג</string>
+    <string name="settings">הגדרות</string>
+    <string name="settings_application_version">גרסת היישום</string>
+    <string name="settings_emergency_contact">נהל אנשי קשר ראשיים</string>
+    <string name="settings_emergency_contact_empty">"לא נוספו אנשי קשר ראשיים. כדי להפעיל את %s, הוסף אנשי קשר תחת 'אנשי קשר ראשיים'."</string>
+    <string name="settings_legal_information">מידע משפטי</string>
+    <string name="settings_message_interval">מרווח הודעות</string>
+    <string name="settings_not_set">לא מוגדר</string>
+    <string name="settings_security">אבטחה</string>
+    <string name="settings_security_update">עדכון אבטחה</string>
+    <string name="settings_security_update_desc">הגן על המכשיר שלך מתוכן מזיק על ידי שיפור האבטחה והשירות.</string>
+    <string name="settings_unknown_sources_dialog">"התקנה ממקורות לא ידועים עלולה לגרום נזק למכשיר שלך ולנתוניך האישיים. הקשה על 'אישור' פירושה כי אתה נושא באחריות בלעדית לכל נזק למכשיר שלך ולכל אובדן של נתונים העלול להיגרם מהשימוש ביישומים אלה."</string>
+    <string name="settings_unknown_sources_subtitle">אפשר התקנה של יישומים ממקורות לא מוכרים.</string>
+    <string name="share_loc_disabled">"שתף מיקום' מושבת."</string>
+    <string name="share_location_desc">"אפשר לפונקציות 'חפש את ה-Gear' ו'חפש את המכשיר' לשתף נתוני מיקום של ה-Gear והמכשיר הנייד."</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">"אני מסכים כי אפשר שייעשה שימוש ב'נתונים ניידים' וכי ייתכן שיישלחו הודעות MMS במצבי חירום. ברור לי שהדבר עשוי לגרור תוספת חיובים."</string>
+    <string name="shm_new_disclaimer_msg_01">"1. התכונה הודעת ’שלח עזרה‘ נועדה לסייע למשתמש לשלוח הודעה עם פרטי המיקום שלו בקירוב, ופרטים חזותיים/קוליים על סביבתו, אל הטלפון הנייד של איש קשר נבחר שפרטיו הוגדרו מראש. השירותים עומדים לרשותך לנוחותך בלבד; הם אינם מיועדים להיות ואין להתייחס אליהם כאל תחליף לשיחות חירום אל הרשויות.
+
+2. Geo News (להלן ”השירותים“) עשוי שלא לפעול באורח מדויק, רצוף או נטול שגיאות, בהתאם לנסיבות כמו קישוריות לרשת, זמינות של נתוני GPS/Wi-Fi, המצב ו/או התקינות של ההתקן שלך/של איש הקשר שבחרת, רמת הטעינה בסוללה ונסיבות אחרות, שאינן בשליטת Samsung Electronics Co., Ltd.‎ (להלן ”סמסונג“, ”אנו“, ”אנחנו“, ”שלנו“). ייתכן שמידת הדיוק של נתוני המיקום והאספקה המהירה של השירותים יושפעו מסביבתך וממצב התקינות של ההתקן שלך ושל אנשי הקשר שבחרת. אלא אם נאמר במפורש או נדרש אחרת על פי חוק, Samsung מסתייגת מכל אחריות לכך שהשירותים יפעלו באופן מדויק, רצוף או נטול שגיאות. לתשומת לבך, על איש הקשר הנבחר שלך להיות בעל טלפון נייד תקין, כאשר ההתקן מופעל ומסוגל לקבל הודעות טקסט. ייתכן שהעברת נתוני הסביבה והמיקום שלך תהיה כרוכה בתשלום, בהתאם לתעריף שצוין על ידי ספק השירות שלך.
+
+כדי שהשירותים יפעלו כמיועד, ייתכן שהתכונה, לאחר שתפרוס אותה אצלך, תפעיל באופן אוטומטי את פונקציות ה-GPS וה-Wi-Fi בהתקן שלך. הנך מאשר ומסכים להפעלה האוטומטית של פונקציות ה-GPS וה-Wi-Fi (במידת הצורך), ללא צורך בהודעה נוספת או בהסכמתך.
+
+3. הנך מסכים ומאשר שלא תעשה שימוש לרעה בפונקציה זו ולא תשתמש בה לשום מטרה שאינה חוקית או כדי לפגוע בפרטיות או להפר זכויות אישיות או קנייניות של אחרים. השתמש בפונקציה זו אך ורק בהתאם לחוק ובמקרי חירום בלבד.הנך מסכים לשאת באחריות בלעדית לשימוש שתעשה בתכונה זו. לא תחול על Samsung חבות כלשהי בגין תוצאה העלולה להיגרם עקב השימוש שתעשה בתכונה זו.
+
+4. השירותים עומדים לרשותך לנוחותך בלבד; הם אינם מיועדים להיות ואין להתייחס אליהם כאל תחליף לשיחות חירום אל הרשויות. אלא אם נאמר במפורש או נדרש אחרת על פי חוק, Samsung מסתייגת מכל אחריות לכך שהשירותים יפעלו באופן מדויק, רצוף או נטול שגיאות.
+
+5. הסתייגות מאחריות. הנך מבין ומסכים באופן מפורש לדברים הבאים:
+ 
+א. השירותים מסופקים לך ”כמות שהם“, ”על כל חסרונותיהם“ וכן ”על פי זמינות“. אתה נושא באחריות לשימוש בהם. Samsung אינה מעניקה שום אחריות, ערבות או התניות מפורשות במסגרת השירותים או בקשר לשירותים. Samsung מסתייגת במפורש מכל ייצוג מכל סוג ומין, בין מפורש ובין מכללא, כולל, בין השאר, אחריות מכללא בדבר סחירות, התאמה למטרה מסוימת ואי הפרה, וכל אחריות מכללא בשל התנהלות קודמת או ביצועים קודמים.
+
+ב. מבלי להגביל את האמור לעיל, אין Samsung מציעה שום ייצוג או התחייבות כי (i) השירותים יענו על דרישותיך, (ii) השירותים יתנהלו ללא שיבושים, במהירות, באופן מאובטח או ללא שגיאות, (iii) התוכן שיושג מהשירותים או כל התראה או רכיב פונקציונלי של השירותים יהיו זמינים, מדויקים, מלאים או אמינים, (iv) איכות השירותים או כל מידע או חומרים אחרים שתשיג באמצעות השירותים יעמדו בציפיותיך, או (v) כל שגיאה או באג בשירותים יתוקנו.
+
+6. הגבלת חבות.
+
+א. הנך מבין ומסכים במפורש כי לא תחול על Samsung אחריות, על פי דיני רשלנות, בגין שום אובדן, חבות, נזק או הוצאה ישירים, עקיפים, מקריים, מיוחדים, עונשיים, תוצאתיים או מופתיים, כולל אך לא רק, הפסד של רווחים, אובדן השימוש או אובדן מסוגים אחרים (גם אם תיקון, החלפה או החזר כספי תמורת השירותים אין בו כדי לפצות אותך באופן מלא על אובדן או הפסד כלשהו, או ש-Samsung הייתה מודעת או הייתה צריכה להיות מודעת לאפשרות של אובדן, הפסד, חבות, נזק או הוצאה, כאמור), כתוצאה ישירה או עקיפה או בהקשר עם (i) תביעות בגין הפרת חוזה, הפרת אחריות, ערבות או התניה, אחריות מוחלטת, רשלנות או עוולה אחרת, במידה המותרת בחוק הרלוונטי; (ii) השימוש או חוסר היכולת שלך להשתמש בשירותים; (iii) עלות הרכישה של שירותים חלופיים; (iv) גישה לא מורשית אל השידורים או הנתונים שלך או שינויים לא מורשים בהם; (v) הצהרות או התנהגות של צד שלישי כלשהו; (vi) הסכם זה; (vii) נזקי גוף או רכוש (כולל מוות); או (viii) כל עניין אחר הנוגע לשירותים או לתוכן המסופק באמצעות השירותים.
+
+ב. הסעד היחיד והבלעדי המזומן לך בכל מחלוקת עם Samsung בהקשר עם הסכם זה או בהקשר עם השירותים יהיה הפסקת השימוש בשירותים.
+ 
+ג. במקומות שיפוט מסוימים ההחרגה של סעיפי אחריות מסוימים או ההגבלה או ההחרגה של חבות בגין נזק מקרי או תוצאתי אסורה. לפיכך, ייתכן שחלק מההגבלות הכלולות בסעיפים 5 ו-‏6 דלעיל אינן חלות עליך.
+
+7. שיפוי. הנך מסכים לשפות, לפצות ולהגן על Samsung מפני וכנגד כל תביעה, הליך, דרישה, עלות, חבות, אובדן, נזק, קנס והוצאה (לרבות שכר טרחה סביר ועלויות של ייעוץ משפטי) בהקשר עם או כתוצאה מהשימוש שלך בשירותים או כל כשל מצדך לקיים את האמור בהסכם זה. והיה אם על אף האופי האישי של הרישיונות המוענקים לך על פי תנאים והתניות אלה, תאפשר לפרט כלשהו להשתמש בשירותים, או תספק לפרט כלשהו מידע שהתקבל באמצעות השירותים, הנך מסכים ליידע את הפרט האמור על קיומם של תנאים והתניות אלה ועל האמור בהם, אשר יחייבו גם אותו, והנך מסכים לשפות ולפצות את Samsung ולהגן עליה מפני כל תביעה, הליך, דרישה, עלות, חבות, אובדן, פיצוי, קנס והוצאה (לרבות שכר טרחה סביר ועלויות של ייעוץ משפטי) בהקשר עם השימוש של אותו פרט בשירותים.
+
+8. כוח עליון. לא תחול על Samsung חבות בגין עיכוב או כשל בביצועים על פי תנאים והתניות אלה, או שיבושים והפסקות באספקת השירותים כתוצאה מכוח עליון או פעולות של רשות אזרחית או צבאית, מלחמה, מעשי טרור, סכסוכי עבודה, חומרים או שירותים המסופקים על ידי צדדי ג' או כל סיבה החורגת משליטתה הסבירה של Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">אני מסכים לאפשר ל%1$s לשתף את המיקום שלי עם אנשי הקשר ה%2$s שלי.</string>
+    <string name="smartrelay_not_show">אל תציג שוב</string>
+    <string name="software_update">עדכון תוכנה</string>
+    <string name="ss_double_tap_any_screen">כדי להציג את פקדי הבהירות ועוצמת הקול ומידע שימושי נוסף, הקש הקשה כפולה על מסך כלשהו בשתי אצבעות.</string>
+    <string name="ss_forwarding_calls_to_gear_header">העברת שיחות אל ה-Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">מבקש…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">קריאת הגדרות…</string>
+    <string name="ss_loading_ing_abb">טוען…</string>
+    <string name="ss_mobile_data_is_disabled">הפונקציה ’נתונים ניידים‘ מושבתת. נסה להתחבר ל-WLAN או הפעל את הפונקציה ’נתונים ניידים‘ ונסה שוב.</string>
+    <string name="ss_mobile_data_is_disabled2">נתונים ניידים מושבתים. התחבר לרשת Wi-Fi או הפעל נתונים ניידים ונסה שוב.</string>
+    <string name="ss_no_network_connection">אין חיבור רשת</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">מדריך למשתמש</string>
+    <string name="str_no">לא, תודה</string>
+    <string name="str_yes">כן</string>
+    <string name="stub_list_install">התקן</string>
+    <string name="sw_eula_condition">אני מבין את התנאים וההתניות לעיל ומסכים להם.</string>
+    <string name="sw_eula_desc2">אתה מסכים בזאת לספק ל- Samsung את נתוני יומן השגיאות מכל כשל בעדכון תוכנה שבו המכשיר שלך ייתקל. הדבר יסייע ל-Samsung לשפר את תהליך עדכון התוכנה של Samsung ויעזור לך בסופו של דבר לעדכן את המכשיר שלך באופן תקין.</string>
+    <string name="tab_stub_list">המומלצים</string>
+    <string name="talkback_download">הורד</string>
+    <string name="talkback_setting">הגדרה</string>
+    <string name="the_samsung_gear_application">היישום Samsung Gear</string>
+    <string name="threeg_connection">"השתמש ב'חיבור מרוחק'"</string>
+    <string name="threeg_connection_subtitle">"התחבר אל ה-Gear מרחוק באמצעות 'נתונים ניידים' או Wi-Fi יחד עם Samsung Account שלך."</string>
+    <string name="threeg_connection_subtitle_chn">"התחבר אל ה-Gear מרחוק באמצעות 'נתונים ניידים' או WLAN יחד עם ה-Samsung Account שלך."</string>
+    <string name="title_activity_clock_delete">הסר התקנה</string>
+    <string name="title_activity_connect_popup">חבר</string>
+    <string name="title_activity_paired_watch">מכשיר משויך</string>
+    <string name="title_alertdialog_device_name_popup">שינוי שם ה-%s</string>
+    <string name="title_alertdialog_disconnect_popup">התנתק</string>
+    <string name="title_dialog_pm_error">אזהרה</string>
+    <string name="title_dialog_uninstall">הסר התקנה</string>
+    <string name="title_eula">הודעות משפטיות</string>
+    <string name="title_findmywatch_connect2">חפש את ה-Gear שלי</string>
+    <string name="title_findmywatch_finding">מחפש…</string>
+    <string name="tri_connect_title_circle_to_gear">חבר את %1$s ל-%2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">חיבור ה-%1$s אל ה-%2$s שלך באמצעות Bluetooth יגרום לניתוק זמני של ה-%3$s מהמכשיר הנייד שלך. החיבור יתחדש בתוך זמן קצר ואז, ה-%4$s יהיה מחובר הן ל-%5$s והן למכשיר הנייד שלך.</string>
+    <string name="tt_install_voice_data">התקן נתוני קול של TTS</string>
+    <string name="tt_install_voice_data_required">התקן ב-Gear שלך שפות נוספות להמרת טקסט-לדיבור.</string>
+    <string name="tt_language">שפה</string>
+    <string name="tt_send_help_message">שלח הודעות עזרה</string>
+    <string name="tt_tts_language_guide">"שפת הטקסט-לדיבור שלך היא השפה שקבעת דרך 'הגדרות' ב-Gear. אם מנוע טקסט-לדיבור זה אינו תומך בשפה זו, ייעשה שימוש באנגלית (של בריטניה)."</string>
+    <string name="unable_to_connect_popup_message">חיבור ה-Gear אל המכשיר הנייד נכשל. נסה שוב מאוחר יותר.</string>
+    <string name="unable_to_connect_popup_title">החיבור נכשל</string>
+    <string name="unable_to_lock_gear">לא ניתן לנעול את ה-Gear</string>
+    <string name="unable_to_reset_gear">לא ניתן לאפס את ה-Gear</string>
+    <string name="unabled_health">לא ניתן לפתוח את היישום מאחר שהוא מושבת.</string>
+    <string name="uninstall_applications">הסר יישומים</string>
+    <string name="unknown_sources_msg_new">"%1$s לא יותקן דרך %2$s. המכשיר והנתונים האישיים שלך חשופים יותר להתקפה מצד יישומים המגיעים ממקורות לא מוכרים. הנך מאשר כי אתה נושא באחריות בלעדית לכל נזק שייגרם למכשיר שלך ולכל אובדן של נתונים שייגרם כתוצאה מהשימוש ביישומים הללו. כדי לאפשר תמיד התקנה של יישומים ממקורות לא מוכרים, עבור אל %3$s > %4$s > %5$s והפעל את %6$s. הקש על 'אישור' כדי להתקין את %7$s."</string>
+    <string name="unknown_sources_msg_new_vulnerable">המקור של %1$s אינו %2$s והוא לא כולל יישום עבור ה-Gear שלך. המכשיר והנתונים שלך פגיעים יותר להתקפות מצד יישומים שמקורם לא ידוע. ההתקנה תבוטל והיישום %3$s יימחק מהטלפון שלך.</string>
+    <string name="unknown_sources_title">יישומים לא מוכרים</string>
+    <string name="update_button">עדכן</string>
+    <string name="update_summary">חפש עדכונים</string>
+    <string name="update_the_latest_version">עדכון זמין</string>
+    <string name="voice_control_subtitle">כדי לקבל או לדחות שיחה, אמור ״Answer״ או ״Reject״ בהפסקות שבין הצלצולים או איתותי הרטט של ה-Gear.</string>
+    <string name="voicememo_link1">תנאים וההתניות של Nuance</string>
+    <string name="voicememo_link2">מדיניות הפרטיות של Samsung</string>
+    <string name="voicememo_link3">הצהרת הפרטיות של Nuance</string>
+    <string name="watchapp_all">יישומים</string>
+    <string name="watchapp_noapps">אין יישומים</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">מרענן…</string>
+    <string name="wifi_only">‏Wi-Fi בלבד</string>
+    <string name="wifi_only_chn">‏WLAN בלבד</string>
+    <string name="wifi_only_summary">הורד עדכונים רק בעת חיבור לרשת Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">ניתן להוריד רק כאשר יש חיבור WLAN.</string>
+    <string name="email_sanitize">לא ניתן להציג את תוכן הדוא\"ל הזה ב-Gear מטעמי אבטחה. לפרטים, הצג דוא\"ל זה במכשיר הנייד שלך</string>
+    <string name="knox_sanitize">הקש כאן כדי לעבור למצב KNOX.</string>
+</resources>

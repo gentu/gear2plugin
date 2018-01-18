@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_samsung_gear">Gear Manager</string>
+    <string name="closing_samsung_gear_message">Gear를 초기화하였습니다. Gear Manager 애플리케이션을 곧 종료합니다.</string>
+    <string name="closing_samsung_gear_title">Gear Manager 애플리케이션 종료</string>
+    <string name="cmw_legal_content_2">개인정보 취급방침</string>
+    <string name="login_to_samsung_account_desc">Gear에서 [원격 연결]을 실행하려면 갤럭시 계정에 로그인하세요.</string>
+    <string name="login_to_samsung_account_full_desc">"블루투스로 연결되지 않은 경우에도 다음 기능을 사용하려면 갤럭시 계정에 로그인하세요.
+- 알림 받기
+- 원격 연결로 애플리케이션 사용하기
+[원격 연결]을 사용하면 추가요금이 부과될 수 있습니다."</string>
+    <string name="menu_samsung_health">S Health</string>
+    <string name="menu_samsungapps">Galaxy Apps</string>
+    <string name="new_eula_sip">갤럭시 키보드</string>
+    <string name="no_remote_connection_popup_msg">[자동 착신전환]을 실행하려면, 모바일 디바이스의 Gear Manager 애플리케이션에서 [원격 연결]을 실행한 후, 다시 시도하세요.</string>
+    <string name="privacypolicy_samsung_privacy_policy">갤럭시 개인정보 취급방침</string>
+    <string name="sa_error_0203_desc">[원격 연결]을 실행하려면 갤럭시 계정을 직접 업데이트하세요.</string>
+    <string name="sa_error_0203_title">갤럭시 계정 업데이트</string>
+    <string name="sa_error_0302_desc">모바일 디바이스에서 갤럭시 계정에 로그인하는 동안 네트워크 오류가 발생하였습니다.</string>
+    <string name="samsung_gear">Gear Manager</string>
+    <string name="setting_samsung_legal">법적 고지</string>
+    <string name="the_samsung_gear_application">Gear 애플리케이션</string>
+    <string name="threeg_connection_subtitle">갤럭시 계정을 사용하여 모바일 데이터 또는 Wi-Fi로 Gear에 원격으로 연결합니다.</string>
+    <string name="voicememo_link2">개인정보 취급방침</string>
+</resources>

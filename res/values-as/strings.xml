@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">কলৰ সময়ত অনুপলভ্য৷</string>
+    <string name="actionbar_name">গীয়েৰ মেনেজাৰ</string>
+    <string name="alert_full_screen">"সম্পূৰ্ণ স্ক্ৰীণ প'প-আপ"</string>
+    <string name="alert_mini">"মিনি প'প-আপ"</string>
+    <string name="alertdialog_backkey_popup_content">সকিয়নী</string>
+    <string name="alertdialog_disconnect_popup_description">"গীয়েৰ সংযোগহীন কৰা হ'ব৷ পুনঃসংযোগ কৰিবলৈ ব্লুটুথ ব্যৱহাৰ কৰক৷"</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">এইটোৱে %s-ৰ সৈতে আপোনাৰ সংযোগ সমাপ্ত ঘটাব৷</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">"আপোনাৰ %s-টো আপোনাৰ ম'বাইল ডিভাইচৰ পৰা সংযোগহীন কৰা হ'ব৷ এই ডিভাইচসমূহ পৰৱৰ্তী সময়ত সংযোগ কৰোতে আপুনি ব্লুটুথ ব্যৱহাৰ কৰিবই লাগিব৷ তাৰপিছত যিকোনো সংযোগ দূৰৱৰ্তী সংযোগ হৈ সম্পন্ন কৰিব পাৰি৷"</string>
+    <string name="alertdialog_uninstall_popup_content">আনইনষ্টল</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">"আপোনাৰ ম'বাইল ডিভাইচত %1$s ইনষ্টল কৰা নাই৷ গীয়েৰত %2$s ব্যৱহাৰ কৰিবৰ বাবে, আপোনাৰ ডিভাইচত %1$s ডাউনলোড কৰক৷"</string>
+    <string name="attention_popup_title">মনোযোগ</string>
+    <string name="auto_call_forwarding">স্বয়ং কল ফৰৱাৰ্ডিং</string>
+    <string name="auto_call_forwarding_att">গীয়েৰৰ বাবে স্বয়ং কল ফৰৱাৰ্ডিং</string>
+    <string name="auto_call_forwarding_desc">"আপোনাৰ গীয়েৰ আপোনাৰ ম'বাইল ডিভাইচৰ পৰা সংযোগহীন হৈ থকাৰ সময়ত কল ফৰৱাৰ্ডিং স্বয়ংক্ৰিয়ভাৱে সক্ষম কৰক৷ ডিভাইচসমূহ পুনঃসংযোগ নকৰালৈকে ই আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ ইনকামিং কলসমূহ অগ্ৰসৰ কৰিব৷"</string>
+    <string name="auto_update">স্বয়ংক্ৰিয় আপডেট</string>
+    <string name="auto_update_summary">স্বয়ংক্ৰিয়ভাৱে আপডেট কৰিবৰ কাৰণে পৰীক্ষা কৰক৷</string>
+    <string name="backing_up">বেকআপ কৰি থকা হৈছে…</string>
+    <string name="backup_complete">বেকআপ সম্পূর্ণ৷</string>
+    <string name="bnr_backup">বেকআপ কৰি থকা হৈছে…</string>
+    <string name="bnr_bakcup_title">বেকআপ</string>
+    <string name="bnr_cancel">বাতিল</string>
+    <string name="bnr_canel">বাতিল</string>
+    <string name="bnr_error_occurred">ত্ৰুটি ঘটিছে</string>
+    <string name="bnr_except">%1$s (%2$s-ৰ বাহিৰে)</string>
+    <string name="bnr_except_autolock">"স্বয়ং ল'ক"</string>
+    <string name="bnr_except_remoteconnection">দূৰবৰ্তী সংযোগ</string>
+    <string name="bnr_except_texttemplate">পাঠ টেমপ্লেটসমূহ</string>
+    <string name="bnr_next">পৰৱৰ্তী</string>
+    <string name="bnr_no">নহয়</string>
+    <string name="bnr_ok">ঠিক</string>
+    <string name="bnr_reset_gear">এটা নতুন ডিভাইচলৈ সংযোগ কৰিবলৈ, গীয়েৰক ইয়াৰ ফেক্টৰী ছেটিংছলৈ পুনঃছেট কৰিব লাগিব৷</string>
+    <string name="bnr_reset_gear_move_setupwizard">গীয়েৰ সম্পূৰ্ণৰূপে ছেটআপ কৰা হোৱা নাই৷ ছেটআপ ৱিজাৰ্ড বৰ্তমান গীয়েৰত খোলা আছে, কিন্তু গীয়েৰলৈ সংযোগ কৰিবৰ বাবে, আপুনি এই ডিভাইচটোত থকা গীয়েৰ মেনেজাৰতো ছেটআপ ৱিজাৰ্ড খুলিব লাগিব৷</string>
+    <string name="bnr_reset_initialization">জাননী</string>
+    <string name="bnr_restore">পুনঃসংগ্ৰহ</string>
+    <string name="bnr_restored">ডাটা পুনঃস্থাপন কৰা হৈছে৷</string>
+    <string name="bnr_setupwizard_title2">বেকআপ আৰু পুনঃসংগ্ৰহ</string>
+    <string name="bnr_yes">হয়</string>
+    <string name="bt_connected">সংযোজিত</string>
+    <string name="bt_disconnected">সংযোগহীন হৈছে</string>
+    <string name="bt_unpaired">যোৰা হৈ নথকা</string>
+    <string name="button_finish">সমাপ্ত</string>
+    <string name="button_restore">পুনঃসংগ্ৰহ</string>
+    <string name="call">কল</string>
+    <string name="call_check_gear_status_when_cfwd">"কল ফৰৱাৰ্ডিং ফাংচনসমূহ ম'বাইলৰ পৰা গীয়েৰলৈ আৰু গীয়েৰৰ পৰা ম'বাইললৈ একে সময়তে সক্ষম কৰিব নোৱাৰি৷"</string>
+    <string name="call_dualsim1">SIM কাৰ্ড 1</string>
+    <string name="call_dualsim1sim2">দুয়োটা SIM কাৰ্ড</string>
+    <string name="call_dualsim2">SIM কাৰ্ড 2</string>
+    <string name="call_forwarding">কল ফৰৱাৰ্ডিং</string>
+    <string name="call_forwarding_agree">মই সহমত।</string>
+    <string name="call_forwarding_desc">"আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ আপোনাৰ ইনকামিং কলসমূহ অগ্ৰসৰ কৰক৷"</string>
+    <string name="call_forwarding_desc_vzw">উত্তৰ নিদিয়া আপোনাৰ ইনকামিং কল আপোনাৰ ফোনৰ পৰা আপোনাৰ গীয়েৰলৈ অগ্ৰসৰ কৰক।</string>
+    <string name="call_forwarding_disable_msg">"আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ কল ফৰৱাৰ্ডিং অক্ষম কৰিবলৈ এটা অনুৰোধ কৰা হৈছে৷ আপোনাৰ ম'বাইল নেটৱৰ্ক আৰু ম'বাইল ডিভাইচৰ স্থিতিয়ে ফলাফলসমূহক প্ৰভাৱিত কৰিব পাৰে৷"</string>
+    <string name="call_forwarding_enable_msg">"আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ এটা অনুৰোধ কৰা হৈছে৷ আপোনাৰ ম'বাইল নেটৱৰ্ক আৰু ম'বাইল ডিভাইচৰ স্থিতিয়ে ফলাফলসমূহক প্ৰভাৱিত কৰিব পাৰে৷"</string>
+    <string name="call_forwarding_for_att_msg">"যেতিয়া গীয়েৰ আপোনাৰ স্মাৰ্টফোনৰ পৰা সংযোগহীন হয়, তেতিয়া আপোনাৰ ম'বাইল ডিভাইচলৈ কৰা ইনকামিং কল স্বয়ংক্ৰিয়ভাৱে গীয়েৰলৈ অগ্ৰসৰ হ'ব।
+- আপোনাৰ স্মাৰ্টফোনে কিছুসময়ৰ বাবে ৰিং কৰিব আৰু তাৰপিছত কলটো আপোনাৰ গীয়েৰলৈ অগ্ৰসৰ হ'ব।
+- যদি আপুনি আপোনাৰ গীয়েৰত কলৰ উত্তৰ নিদিয়ে, তেতিয়া কলাৰে এটা মাতমেইল এৰিব পাৰে, যাক আপুনি আপোনাৰ গীয়েৰত শুনিব পাৰে।
+আপুনি এতিয়া স্বয়ং কল ফৰৱাৰ্ডিং অন কৰিব বিচাৰে নেকি?"</string>
+    <string name="call_forwarding_notify_msg">"আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ কল ফৰৱাৰ্ডিং শেহতীয়াভাৱে সক্ষম হৈছে৷ আপোনাৰ ম'বাইল ডিভাইচৰ ইনকামিং কলসমূহ আপোনাৰ গীয়েৰলৈ অগ্ৰসৰ কৰা হ'ব৷ যদি আপোনাৰ গীয়েৰ আপোনাৰ লগত নাথাকে, এটাও কল মিচ নকৰাটো নিশ্চিত কৰিবলৈ আপুনি ছেটিংছলৈ যাওক আৰু কলসমূহ স্বয়ং অগ্ৰসৰ কৰক অক্ষম কৰক৷"</string>
+    <string name="call_forwarding_turning_off_notify_msg">মাত কল ফৰৱাৰ্ডিং অক্ষম কৰি আছে…</string>
+    <string name="call_forwarding_turning_on_notify_msg">মাত কল ফৰৱাৰ্ডিং সক্ষম কৰি আছে…</string>
+    <string name="call_no_gear_number">নম্বৰসমূহ নাই</string>
+    <string name="call_select_dualsim_title">SIM কাৰ্ড চয়ন কৰক</string>
+    <string name="call_voice_control">মাত নিয়ন্ত্রণ</string>
+    <string name="callforwarding_help_des1">"ব্লুটুথ বা দূৰৱৰ্তী সংযোগ হৈ আপোনাৰ ডিভাইচসমূহ সংযোজিত হৈ আছেনে নাই তাৰ ওপৰত ভিত্তি কৰি কল কৰা ডিভাইচ সলনি কৰিলে স্বয়ংক্ৰিয়ভাৱে অগ্ৰসৰ কৰা হ'ব৷"</string>
+    <string name="callforwarding_help_des2">"আপুনি গীয়েৰটো লৰচৰ আৰু ঘহাঁই থকাৰ সময়ত আৰু ম'বাইল ডিভাইচলৈ ই দূৰৱৰ্তীভাৱে সংযোজিত হৈ থকাৰ সময়ত আপোনাৰ গীয়েৰত আপোনাৰ ম'বাইল ডিভাইচলৈ কৰা কলসমূহ প্ৰাপ্ত কৰক৷"</string>
+    <string name="cancel">বাতিল</string>
+    <string name="cf_activated">সক্ৰিয় হৈছে</string>
+    <string name="cf_deactivate_failed">কল ফৰৱাৰ্ডিং অক্ষম কৰিবলৈ বিফল হৈছে৷</string>
+    <string name="cf_deactivated">নিষ্ক্ৰিয় হৈছে</string>
+    <string name="clock_new_clock_settings_applied_via_gear">গীয়েৰ হৈ নতুন ঘড়ী ছেটিংছ প্ৰয়োগ কৰা হৈছে৷</string>
+    <string name="clocks_download_more_clocks">অধিক ঘড়ী ডাউনলোড কৰক</string>
+    <string name="clocks_noti_uninstall_clock">"%s আনইনষ্টল কৰা হ'ব৷"</string>
+    <string name="clocks_noti_uninstall_idle_clock">"ডিফ'ল্ট ঘড়ীৰ ৰূপত %1$s ইনষ্টল কৰা হ'ব আৰু %2$s ছেট কৰা হ'ব৷"</string>
+    <string name="clocks_title_basic_clocks">প্ৰাথমিক ঘড়ীসমূহ</string>
+    <string name="clocks_title_downloaded_clocks">ডাউনলোড হোৱা ঘড়ীসমূহ</string>
+    <string name="clocks_title_style_clocks">ষ্টাইল ঘড়ীসমূহ</string>
+    <string name="clocks_uninstalled">আনইনষ্টল কৰা হৈছে৷</string>
+    <string name="clocks_uninstalling">আনইনষ্টলিং…</string>
+    <string name="close">বন্ধ কৰক</string>
+    <string name="closing_samsung_gear_message">"আপোনাৰ গীয়েৰ পুনঃছেট কৰা হৈছে৷ চেমচাং গীয়েৰ এপ্লিকেশ্বন অতি সোনকালে বন্ধ কৰা হ'ব৷"</string>
+    <string name="closing_samsung_gear_message_jpn">"আপোনাৰ গীয়েৰ পুনঃছেট হৈছে। গীয়েৰ এপ্লিকেশ্বন সোনকালে বন্ধ হ'ব।"</string>
+    <string name="closing_samsung_gear_title">চেমচাং গীয়েৰ এপ্লিকেশ্বন বন্ধ কৰক</string>
+    <string name="closing_samsung_gear_title_jpn">গীয়েৰ এপ্লিকেশ্বন বন্ধ কৰক</string>
+    <string name="cloud_backup_no_information">কেতিয়াও নহয়</string>
+    <string name="cloud_backup_restore_backup_now">ডাটা বেক আপ লওক</string>
+    <string name="cloud_backup_restore_restore_now">ডাটা পুনৰুদ্ধাৰ</string>
+    <string name="cmw_agree">মই সহমত</string>
+    <string name="cmw_eula_agree">মই ওপৰোক্ত চৰ্ত আৰু নিয়মসমূহ বুজি পাইছো আৰু সন্মত হৈছো।</string>
+    <string name="cmw_for_setting">অৱস্থান সেৱাসমূহ অক্ষম কৰা হৈছে৷ ছেটিংছলৈ যাওক৷</string>
+    <string name="cmw_high_accuracy_dialog_message">"ক্ষিপ্ৰ আৰু অধিক সঠিক অৱস্থান চিনাক্তকৰণৰ বাবে, অৱস্থান > ম'ডত “উচ্চ সঠিকতা” চয়ন কৰক৷"</string>
+    <string name="cmw_high_accuracy_dialog_title">উচ্চ সঠিকতা চয়ন কৰক</string>
+    <string name="cmw_legal_content">"“ভাগ-বতৰা অৱস্থান” সক্ষম কৰি, আপুনি সহমত হৈছে যে আপোনাৰ মোবাইল ফোন আৰু/বা গীয়েৰ ডিভাইচৰ সৈতে সম্বন্ধিত অৱস্থান ডাটা মোৰ গীয়েৰ বিচাৰক আৰু মোৰ ডিভাইচ বিচাৰক প্ৰদান কৰিবলৈ ক্ৰমত এটা Samsung চাৰ্ভাৰৰ জৰিয়তে স্থানান্তৰিত কৰা হ'ব। Samsung চাৰ্ভাৰত আপোনাৰ ডিভাইচ অৱস্থানৰ বিষয়ে কোনো ডাটা বা তথ্য নথকাটো সংগ্ৰহ হৈ আছে।"</string>
+    <string name="cmw_legal_content1">"“%1$s &amp; %2$s” সক্ষম কৰি, আপুনি স্বীকাৰ কৰিছে যে আপোনাৰ মোবাইল ফোন আৰু/বা গীয়েৰ ডিভাইচৰ সৈতে সম্বন্ধিত অৱস্থান ডাটা %1$s &amp; %2$s প্ৰদান কৰিবলৈ ক্ৰমত এটা Samsung চাৰ্ভাৰৰ জৰিয়তে ট্ৰান্সমিট কৰা হ'ব। Samsung চাৰ্ভাৰত আপোনাৰ ডিভাইচ অৱস্থানৰ বিষয়ে কোনো ডাটা বা তথ্য নথকাটো সংগ্ৰহ হৈ আছে।"</string>
+    <string name="cmw_legal_content1_no_gps">"“%1$s &amp; %2$s” সক্ষম কৰি, আপুনি স্বীকাৰ কৰিছে যে আপোনাৰ ম'বাইল ফোনৰ সৈতে সম্বন্ধিত অৱস্থান ডাটা %2$s প্ৰদান কৰিবলৈ ক্ৰমত এটা Samsung চাৰ্ভাৰৰ জৰিয়তে ট্ৰান্সমিট কৰা হ'ব। Samsung চাৰ্ভাৰত আপোনাৰ ডিভাইচ অৱস্থানৰ বিষয়ে কোনো ডাটা বা তথ্য নথকাটো সংগ্ৰহ হৈ আছে।"</string>
+    <string name="cmw_legal_content_2">Samsung Privacy Policy</string>
+    <string name="cmw_legal_title">আইনী জাননী</string>
+    <string name="cmw_location">অৱস্থানৰ সেৱাসমূহ সক্ষম কৰক</string>
+    <string name="cmw_show_on_map">মেপত দেখুৱাওক</string>
+    <string name="color_black">"ক'লা"</string>
+    <string name="color_blue">নীলা</string>
+    <string name="color_brown">মুগা</string>
+    <string name="color_gray">ধূসৰ</string>
+    <string name="color_green">সেউজীয়া</string>
+    <string name="color_light_sky_blue">পাতল আকাশী নীলা</string>
+    <string name="color_medium_purple">মধ্যমীয়া বেঙুনীয়া</string>
+    <string name="color_orange">কমলা</string>
+    <string name="color_pink">গুলপীয়া</string>
+    <string name="color_purple">বেঙুনীয়া</string>
+    <string name="color_red">ৰঙা</string>
+    <string name="color_spring_green">স্প্ৰিং গ্ৰীণ</string>
+    <string name="common_none">একো নাই</string>
+    <string name="common_off">অফ</string>
+    <string name="common_on">অন</string>
+    <string name="common_recent_apps">শেহতীয়া এপ্প্‌চ</string>
+    <string name="connect_popup_content">%s লৈ সংযোগ কৰি আছে…</string>
+    <string name="connected_by_trasport_BT">ব্লুটুথৰ যোগেদি সংযোগ হৈছে</string>
+    <string name="connected_by_trasport_SCS">"ৰিম'টভাৱে সংযোগীত"</string>
+    <string name="connecting_content">গীয়েৰলৈ সংযোগ কৰি আছে</string>
+    <string name="connecting_doc">আপোনাৰ %1$s-লৈ সংযোগ কৰাৰ পিছত, আপুনি ইয়াৰ ছেটিংছ সলনি কৰিব পাৰে আৰু %2$s-ৰ মাধ্যমেদি ইয়াত এপ্লিকেশ্বনসমূহ ইনষ্টল কৰিব পাৰে৷</string>
+    <string name="connecting_popup_message">গীয়েৰলৈ সংযোগ কৰি আছে…</string>
+    <string name="connecting_popup_title">গীয়েৰলৈ সংযোগ কৰক</string>
+    <string name="connecting_to_gear_ing">গীয়েৰলৈ সংযোগ কৰি আছে…</string>
+    <string name="connectingdoc">আপোনাৰ গীয়েৰলৈ সংযোগ কৰাৰ পিছত, আপুনি ইয়াৰ ছেটিংছ সলনি কৰিব পাৰে আৰু গীয়েৰ মেনেজাৰৰ মাধ্যমেদি এপ্লিকেশ্বনসমূহ ইনষ্টল কৰিব পাৰে৷</string>
+    <string name="connection_error_dialog_message">"আপোনাৰ ডিভাইচ সংযোগ হোৱা নাই৷ ই পুনৰ সংযোগ হ'বলৈ চেষ্টা কৰিব৷"</string>
+    <string name="dialog_check_phone_number_msg1">নিশ্চিত কৰক যে নিম্নলিখিত তথ্য শুদ্ধ:</string>
+    <string name="dialog_check_phone_number_msg2">"ম'বাইল ফোন নম্বৰ: %s"</string>
+    <string name="dialog_check_phone_number_msg3">গীয়েৰ ফোন নম্বৰ: %s</string>
+    <string name="dialog_check_phone_number_msg4">নিশ্চিত কৰিবলৈ “ঠিক” টিপক আৰু স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰক৷</string>
+    <string name="dialog_enable_remote_connection_desc">স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ, দূৰৱৰ্তী সংযোগ সক্ষম কৰক, তাৰপিছত পুনঃচেষ্টা কৰক৷</string>
+    <string name="dialog_enable_remote_connection_title">দূৰৱৰ্তী সংযোগ সক্ষম কৰক</string>
+    <string name="dialog_permission_message">%s ব্যৱহাৰ কৰাত অক্ষম৷ “ছেটিংছ” টিপক, এপ তথ্য > অনুমতিলৈ যাওক, তাৰপিছত নিম্নলিখিত অনুমতি প্ৰদান কৰক আৰু পুনঃচেষ্টা কৰক:</string>
+    <string name="dialog_popup_button_cancel">বাতিল</string>
+    <string name="dialog_reverse_msg">"আপোনাৰ সেৱা প্ৰদানকাৰীৰ ওপৰত ভিত্তি কৰি, এই সুবিধাৰ ব্যৱহাৰত আপোনাৰ ম'বাইল ডিভাইচ আৰু গীয়েৰক অনুমতি দিবলৈ পৃথক গ্ৰাহকভুক্তিসমূহৰ আৱশ্যক হ'ব পাৰে৷ ইয়াৰ বাবে অতিৰিক্ত মাছুল বহন কৰিব লাগিব পাৰে৷"</string>
+    <string name="dialog_set_phone_number_msg">স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ, আপুনি ইয়ালৈ আৰু ইয়াৰ পৰা ইনকামিং কলসমূহ অগ্ৰসৰ কৰিব বিচৰা ডিভাইচসমূহৰ ফোন নম্বৰসমূহ ছেট কৰক৷</string>
+    <string name="dialog_set_phone_number_title">স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰক</string>
+    <string name="disable_loc_text">"অৱ্স্থান ভাগ-বতৰা কৰক অক্ষম হ'ব৷ মোৰ গীয়েৰ বিচাৰক বা মোৰ ডিভাইচ বিচাৰক হৈ আপুনি আপোনাৰ গীয়েৰ বা ম'বাইল ডিভাইচ অনুসন্ধান কৰিবৰ বাবে আপুনি অৱস্থান তথ্য ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব৷"</string>
+    <string name="disable_loc_text_no_gps">"অৱ্স্থান ভাগ-বতৰা কৰক অক্ষম হ'ব৷ আপুনি মোৰ ডিভাইচ বিচাৰক হৈ আপোনাৰ ম'বাইল ডিভাইচ অনুসন্ধান কৰিবৰ বাবে অৱ্স্থান তথ্য ব্যৱহাৰ কৰিবলৈ সক্ষম নহ'ব৷"</string>
+    <string name="disable_remote_connection">দূৰবৰ্তী সংযোগ অক্ষম কৰক</string>
+    <string name="disable_remote_connection_fmm_fmd">মোৰ গীয়েৰ বিচাৰক আৰু মোৰ ডিভাইচ বিচাৰক</string>
+    <string name="disable_remote_connection_receiving_blocked">"ম'বাইল ডিভাইচৰ পৰা মেচেজসমূহ, ইমেইলসমূহ আৰু অধিসূচনাসমূহ প্ৰাপ্ত কৰক"</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">"ম'বাইল ডিভাইচৰ পৰা ইমেইল আৰু অধিসূচনাসমূহ প্ৰাপ্ত কৰি আছে"</string>
+    <string name="disable_remote_connection_warning">"দূৰৱৰ্তী সংযোগ অক্ষম কৰা হ'ব৷ পুনঃ ব্লুটুথ হৈ আপোনাৰ ম'বাইল ডিভাইচলৈ গীয়েৰ সংযোজিত হৈ নথকালৈকে নিম্নলিখিত ফাংচনসমূহ উপলব্ধ হৈ নাথাকিব:"</string>
+    <string name="disable_share_location">অৱ্স্থান ভাগ-বতৰা কৰক অক্ষম কৰক</string>
+    <string name="disconnect_popup_content">%s অসংযোগিত কৰি থকা হৈছে…</string>
+    <string name="do_not_show_again">পুনৰাই নেদেখুৱাব</string>
+    <string name="enable_auto_call_forwarding_msg">"গীয়েৰটো সংযোগহীন হৈ থকাৰ সময়ত আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ গীয়েৰলৈ ইনকামিং কলসমূহ স্বয়ংক্ৰিয়ভাৱে অগ্ৰসৰ কৰক৷ আপোনাৰ সেৱা প্ৰদানকাৰীৰ ওপৰত ভিত্তি কৰি, ইয়াৰ ফলত অতিৰিক্ত মাছুল ভৰিব লাগিব পাৰে৷ স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ “ঠিক” টিপক৷"</string>
+    <string name="enable_auto_call_forwarding_title">স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰক</string>
+    <string name="enable_more_notifications_enable">সক্ষম</string>
+    <string name="enable_notification_access">অধিসূচনা প্ৰৱেশ সক্ষম কৰক</string>
+    <string name="enable_notification_access_desc">"এই ফাংচনে আপুনি প্ৰাপ্ত কৰা সকলো অধিসূচনা পঢ়িবলৈ সক্ষম হ'ব, যিবিলাকত সম্পর্কসমূহ আৰু আপোনালৈ প্ৰেৰিত মেচেজসমূহৰ দৰে ব্যক্তিগত তথ্য অন্তৰ্ভুক্ত হ'ব পাৰে৷ ই লগতে এই অধিসূচনাসমূহ খাৰিজ কৰিবলৈ বা সেইবিলাকৰ সৈতে সম্বন্ধিত কাৰ্য চয়ন কৰিবলৈও সক্ষম হ'ব৷
+আপোনাৰ গীয়েৰত অধিসূচনাসমূহ প্ৰাপ্ত কৰিবলৈ “সক্ষম কৰক” টিপক, তাৰপিছত %s সক্ষম কৰক৷"</string>
+    <string name="enable_share_location">অৱস্থান ভাগ-বতৰা সক্ষম কৰক</string>
+    <string name="enabled_loc">অৱস্থান ভাগ-বতৰা সক্ষম হৈছে৷</string>
+    <string name="error_enter_device_name">ডিভাইচৰ নাম প্রবিষ্ট কৰক৷</string>
+    <string name="error_occurred">ত্ৰুটি ঘটিছে৷</string>
+    <string name="eula_i_agree">মই সহমত।</string>
+    <string name="failed_tshare_msg">কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ বিফল হৈছে৷ T ভাগ-বতৰাৰ পৰা কোনো সঁহাৰি পোৱা নাই৷</string>
+    <string name="find_my_device">মোৰ ডিভাইচ বিচাৰক</string>
+    <string name="find_my_gear">মোৰ গীয়েৰ বিচাৰক</string>
+    <string name="find_watch_btn_start">আৰম্ভ কৰক</string>
+    <string name="find_watch_btn_stop">বন্ধ কৰক</string>
+    <string name="find_watch_off">আপোনাৰ গীয়েৰ বিচাৰিবৰ বাবে, আৰম্ভ কৰক টিপক৷ গীয়েৰে এটা শব্দ বজাব আৰু ইয়াৰ স্ক্ৰীণ অন হৈ যাব৷</string>
+    <string name="find_watch_on">আপোনাৰ গীয়েৰ বিচৰা বন্ধ কৰিবৰ বাবে, “বন্ধ কৰক” টিপক৷ গীয়েৰে এটা ধ্বনি বজোৱা বন্ধ কৰিব আৰু ইয়াৰ স্ক্ৰীণ অফ হৈ যাব৷</string>
+    <string name="font_gear_name">গীয়েৰ</string>
+    <string name="font_noti_uninstall_idle_font">"%1$s আনইনষ্টল কৰা হ'ব, আৰু আপোনাৰ %2$s-ত ডিফ'ল্ট ফ'ণ্ট প্ৰয়োগ কৰা হ'ব৷"</string>
+    <string name="force_wifi_direct_msg">"এই এপ্লিকেশ্বনক Wi-Fi Direct হৈ ইনষ্টল কৰা হ'ব৷ ই আপোনাৰ সাম্প্ৰতিক Wi-Fi Direct সংযোগ সমাপ্ত কৰিব৷ যদি আপুনি ইনষ্টলেশ্বন বাতিল কৰে, এইটো ইনষ্টল কৰিবলৈ আপুনি এই এপ্লিকেশ্বন পুনৰ ডাউনলোড কৰাৰ প্ৰয়োজন হ'ব৷"</string>
+    <string name="force_wifi_direct_title">ইনষ্টল</string>
+    <string name="force_wifi_install">ইনষ্টল</string>
+    <string name="gear2_backup_confirm_text">"যদি আপুনি এতিয়া আপোনাৰ ডাটাৰ বেকআপ লয়, ম'বাইল ডিভাইচত থকা শেহতীয়া গীয়েৰ বেকআপ ডাটা আপোনাৰ শেহতীয়া গীয়েৰ ডাটাৰ দ্বাৰা স্থানান্তৰ কৰা হ'ব৷"</string>
+    <string name="gear2_restore_confirm_text">"যদি আপুনি আপোনাৰ ডাটা পুনঃসংগ্ৰহ কৰে, শেহতীয়াভাৱে আপোনাৰ গীয়েৰত থকা ডাটা বিলোপ কৰা হ'ব আৰু আপোনাৰ শেহতীয়া গীয়েৰ বেকআপ ডাটাৰ দ্বাৰা স্থানান্তৰ কৰা হ'ব৷"</string>
+    <string name="gear2_text">"আপোনাৰ %1$s সমল বেক আপ কৰিবলৈ আপোনাৰ ডিভাইচ সংগ্ৰহ ব্যৱহাৰ কৰক:
+%2$s
+
+যদি আপুনি আগতে এই সমল বেক আপ কৰিছিল, আপুনি ইয়াক এতিয়া %3$sলৈ পুনঃস্থাপন কৰিব পাৰে৷
+
+ফাইলৰ আকাৰৰ ওপৰত নিৰ্ভৰ কৰি, ই কিছু সময় ল'ব পাৰে৷"</string>
+    <string name="gear2_text_import3">ছেটিংছ</string>
+    <string name="gear_bnr_desc">"তলৰ %1$s ডাটাৰ বেক আপ ল'বলৈ আপোনাৰ ম'বাইল ডিভাইচ সংগ্ৰহণ ব্যৱহাৰ কৰক: %2$s
+
+যদি আপুনি পূৰ্বতে আপোনাৰ %3$s ডাটাৰ বেক আপ লৈছিল, আপুনি এতিয়া আপোনাৰ %4$s-ত ইয়াক পুনঃসংগ্ৰহ কৰিব পাৰে৷
+
+ফাইলসমূহৰ আকাৰৰ ওপৰত নিৰ্ভৰ কৰি ই কিছুসময় ল'ব পাৰে৷"</string>
+    <string name="gear_fit">চেমচাং গীয়েৰ ফিট</string>
+    <string name="gear_location_popup_message">"আপোনাৰ ম'বাইল ডিভাইচে এতিয়া আপোনাৰ গীয়েৰৰ বাবে স্কেন কৰি আছে৷ ই কেইবামিনিটো ল'ব পাৰে৷ যদি ভিতৰত থাকে তেন্তে আপোনাৰ গীয়েৰ অৱস্থিত কৰাটো জটিল হ'ব পাৰে৷"</string>
+    <string name="gear_location_popup_title">গীয়েৰ স্থানাংকিত কৰক</string>
+    <string name="gear_location_text">গীয়েৰৰ অৱস্থান</string>
+    <string name="gear_lock_success">গীয়েৰ লক হৈছে৷</string>
+    <string name="gear_lock_text">গীয়েৰ লক কৰক</string>
+    <string name="gear_locked">গীয়েৰ লক হৈ আছে</string>
+    <string name="gear_locked_text1">"লক হৈ আছে৷ আনলক কৰিবলৈ, ব্লুটুথ হৈ ম'বাইল ডিভাইচলৈ গীয়েৰ সংযোগ কৰক৷"</string>
+    <string name="gear_phone_number">গীয়েৰ ফোন নম্বৰ</string>
+    <string name="gear_phone_number_popup_desc">"আপোনাৰ ম'বাইল ডিভাইচলৈ কৰা সকলো কল %s-লৈ অগ্ৰসৰ কৰা হ'ব৷"</string>
+    <string name="gear_phone_number_popup_desc_vzw">"আপোনাৰ ম'বাইল ডিভাইচৰ উত্তৰ নিদিয়া সকলো কল %s-লৈ অগ্ৰসৰ কৰা হ'ব।"</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">আপোনাৰ গীয়েৰ লক কৰিবলৈ, প্ৰথমতে দূৰৱৰ্তী সংযোগ সক্ষম কৰিবই লাগিব৷</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">আপোনাৰ গীয়েৰ পুনঃছেট কৰিবলৈ, প্ৰথমতে দূৰৱৰ্তী সংযোগ সক্ষম কৰিবই লাগিব৷</string>
+    <string name="gear_reset_text">গীয়েৰ পুনঃছেট কৰক</string>
+    <string name="gear_to_mobile">"গীয়েৰৰ পৰা ম'বাইল"</string>
+    <string name="gear_to_mobile_des">"ব্লুটুথ হৈ দুটা ডিভাইচ সংযোজিত হৈ থকাৰ সময়ত আপোনাৰ গীয়েৰলৈ কৰা কলসমূহ আপোনাৰ ম'বাইল ডিভাইচত প্ৰাপ্ত কৰক৷"</string>
+    <string name="gear_unable_to_locate_message">অৱস্থান বিচাৰিবলৈ বিফল হৈছে৷ পিছত চেষ্টা কৰক৷</string>
+    <string name="gear_unable_to_locate_title">গীয়েৰ অৱস্থিত কৰিবলৈ অক্ষম</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">ৱালপেপাৰসমূহ</string>
+    <string name="home_bg_color">ৰংবোৰ</string>
+    <string name="home_bg_colors_title">উপলব্ধ ৰংসমূহ</string>
+    <string name="home_bg_delete_actionbar_selected">চয়নিত</string>
+    <string name="home_bg_delete_dialog_msg">"%d খন ৱালপেপাৰ গীয়েৰ পৰিচালক আৰু আপোনাৰ গীয়েৰৰ পৰা আঁতৰোৱা হ'ব৷"</string>
+    <string name="home_bg_delete_select_all">সকলো চয়ন কৰক</string>
+    <string name="home_bg_max_more_image_toast">ৱালপেপাৰ সৰ্বাধিক সংখ্যাত (%d) উপনীত হৈছে৷</string>
+    <string name="home_bg_more_images">অধিক প্ৰতিচ্ছবি</string>
+    <string name="home_bg_popup_wallpaper_msg">গীয়েৰ ৱালপেপাৰসমূহ ডাউনলোড কৰি আছে…</string>
+    <string name="home_bg_popup_wallpaper_title">ৱালপেপাৰসমূহ ডাউনলোড কৰক</string>
+    <string name="home_bg_toast_saved">সংৰক্ষিত৷</string>
+    <string name="home_bg_wallpaper">ৱালপেপাৰ</string>
+    <string name="home_bg_wallpapers_title">উপলব্ধ ৱালপেপাৰ</string>
+    <string name="homelayout_apps">এপ্লিকেশ্বন</string>
+    <string name="incoming_calls_title">ইনকামিং কলসমূহ</string>
+    <string name="info_build_number">চফ্টৱেৰ সংস্কৰণ</string>
+    <string name="info_model_number">"ম'ডেল নম্বৰ"</string>
+    <string name="info_software_update">চফ্টৱেৰ আপডেট</string>
+    <string name="information_provision_agreement">তথ্য বিধান চুক্তি</string>
+    <string name="information_provision_agreement_mgs">"ভইচ মেমোৱে তৃতীয় পক্ষ সেৱা প্ৰদানকাৰী Nuance Communications, Inc.-এ প্ৰদান কৰা ধ্বনি চিনাক্তকৰণ ব্যৱহাৰ কৰে৷ ইয়াৰোপৰি, আপোনাৰ ধ্বনি তথ্যখিনিক Nuance-এ (আমেৰিকা যুক্তৰাষ্ট্ৰত) অবিৰতভাৱে এটা চাৰ্ভাৰত সঞ্চয় কৰি ৰাখে আৰু আপুনি ভইচ মেমো ব্যৱহাৰ কৰিবলৈ হ'লে Nuance-ৰ নিয়ম আৰু চৰ্তাৱলীত সন্মতি জনাব লাগিব৷
+Nuance-এ সেৱাক উন্নত কৰা আৰু প্ৰযুক্তি বিকাশৰ উদ্দেশ্যে আপোনাৰ ধ্বনি ইনপুট ব্যৱহাৰ কৰিবলৈ থকা অধিকাৰক আৰক্ষণ কৰি ৰাখিছে৷ Nuance-এ উপৰোক্ত ধ্বনি ইনপুটখিনি Nuance-ৰ সহযোগীসকলক প্ৰদান কৰিবলৈও অধিকাৰ আৰক্ষণ কৰি ৰাখিছে৷ আপোনাৰ ধ্বনি ইনপুট তথ্যখিনি ওপৰত উল্লেখিত উদ্দেশ্য সম্পূৰ্ণ নোহোৱালৈকে সঞ্চয় কৰি ৰখা হয়৷ ভইচ মেমো সেৱাৰ তথ্যৰ বাবে, অনুগ্ৰহ কৰি Samsung গোপনীয়তাৰ নীতি আৰু Nuance গোপনীয়তাৰ নীতি পঢ়ক৷
+আপুনি ওপৰত বৰ্ণনা কৰা তথ্যৰ বিধানত সন্মতি নজনালে এই ফাংচনটো ব্যৱহাৰ কৰিব নোৱাৰিব৷"</string>
+    <string name="init_manage_notifications_desc">আপুনি আপোনাৰ %1$s-ত যিবিলাক এপ্লিকেশ্বনৰ পৰা অধিসূচনাসমূহ প্ৰাপ্ত কৰিব বিচাৰে সেইবিলাক চয়ন কৰক৷ আপোনাৰ %2$s-ৰ বেটাৰীৰ পাৱাৰ সংৰক্ষণ কৰিবলৈ, আপুনি যিবিলাক এপ্লিকেশ্বনৰ পৰা অধিসূচনাসমূহ লাভ কৰিব নিবিচাৰে সেইবিলাক চয়নহীন কৰক৷</string>
+    <string name="install_in_progress">চলি আছে…</string>
+    <string name="invalid_rename_character">অমান্য বৰ্ণ প্ৰৱিষ্ট কৰা হৈছে৷ পুনৰাই চেষ্টা কৰক৷</string>
+    <string name="latest_version">শেহতীয়া সংস্কৰণ ইনষ্টল কৰা হৈছে</string>
+    <string name="latitude">অক্ষাংশ</string>
+    <string name="limit_notification_desc">"ম'বাইল ডিভাইচ ব্যৱহাৰ হৈ থকাৰ সময়ত গীয়েৰত প্ৰকট হৈ থকা এলাৰ্টসমূহ অৱৰোধ কৰক৷"</string>
+    <string name="limit_notification_dialog_desc">"আপোনাৰ গিয়েৰত প্ৰতিবন্ধিত অধিসূচনা সক্ষম কৰিবলৈ অক্ষম৷ আপোনাৰ ম'বাইল ডিভাইচত কোনো স্ক্ৰীণ লক ছেট হৈ থকা নাই৷"</string>
+    <string name="limit_notification_title">অধিসূচনা সীমিত কৰক</string>
+    <string name="location_info_title">অৱস্থান ভাগ-বতৰা কৰক</string>
+    <string name="lock_gear_legal_text1">"লক গীয়েৰ ব্যৱহাৰ কৰি, আপুনি অকৰ্তৃত্বশীল ব্যৱহাৰ বাধা দিবলৈ আপোনাৰ গীয়েৰ ৰিমৰ্টলি লক কৰিব পাৰে। আপুনি ম'বাইল ডিভাইচলৈ ইয়াক পুনৰ সংযোগ কৰি গীয়েৰটো আনলক কৰিব পাৰে।"</string>
+    <string name="lock_gear_legal_text2">"* লক গীয়েৰটো আপোনাৰ গীয়েৰ, ম'বাইল ডিভাইচ বা নেটৱৰ্ক পৰিবেশৰ স্থিতিৰ ওপৰত নিৰ্ভৰ কৰি ফাংচন বা বিফল হবলৈও কিছুসময় লব পাৰে।"</string>
+    <string name="lock_gear_text">"ব্লুটুথ হৈ আপোনাৰ ম'বাইল ডিভাইচ আৰু গীয়েৰ সংযোজিত হৈ থাকোতে আপোনাৰ গীয়েৰ লক কৰিবলৈ অক্ষম৷"</string>
+    <string name="login_to_samsung_account">Samsung account-লৈ ছাইন ইন কৰক</string>
+    <string name="login_to_samsung_account_desc">"আপোনাৰ গীয়েৰত ৰিম'ট সংযোগ সক্ষম কৰিবলৈ, আপোনাৰ Samsung account-লৈ ছাইন ইন কৰক৷"</string>
+    <string name="login_to_samsung_account_full_desc">"ব্লুটুথ হৈ সংযোজিত নথকাৰ সময়ত, তলৰ সুবিধাসমূহ ব্যৱহাৰ কৰিবলৈ আপোনাৰ Samsung account-লৈ ছাইন ইন কৰক:
+- অধিসূচনাসমূহ প্ৰাপ্ত কৰা
+- দূৰবৰ্তী সংযোগ হৈ এপ্লিকেশ্বনসমূহ ব্যৱহাৰ
+দূৰৱৰ্তী সংযোগ ব্যৱহাৰৰ ফলত অতিৰিক্ত মাছুল বহন কৰিব লাগিব পাৰে৷"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"যেতিয়া আপুনি ব্লুটুথ হৈ আপোনাৰ ফোনত সংযোগ নকৰে, তেতিয়া এটা Samsung account-এ আপোনাক ম'বাইল ডাটাৰ যোগেদি নিম্নলিখিত বিলাক কৰিবলৈ দিব:
+- মেচেজ, ইমেইল আৰু অন্য অধিসূচনা প্ৰাপ্ত কৰক
+- দূৰৱৰ্তী সংযোগ হৈ আপোনাৰ ফোনত এটা সংযোগৰ প্ৰয়োজন হোৱা গীয়েৰত এপ্লিকেশ্বন ব্যৱহাৰ কৰক।
+
+মন কৰক যে আপোনাৰ Samsung account-ৰ যোগেদি কৰা দূৰৱৰ্তী সংযোগে আপোনাৰ ডাটা আঁচনি ব্যৱহাৰ কৰে।"</string>
+    <string name="longitude">দ্ৰাঘিমাংশ</string>
+    <string name="main_bt_unpaired">যোৰা হৈ নথকা</string>
+    <string name="main_disconnected">সংযোগহীন হৈছে</string>
+    <string name="manage_applications">এপ্লিকেশ্বন. মেনেজ কৰক</string>
+    <string name="manage_notifications">অধিসূচনা পৰিচালনা কৰক</string>
+    <string name="manual_call_forwarding_for_att_msg">"আপোনাৰ স্মাৰ্টফোনত ডায়েল কৰা কল আপোনাৰ গীয়েৰলৈ অগ্ৰসৰ কৰিব পাৰি।
+- আপোনাৰ স্মাৰ্টফোনে কিছুসময়ৰ বাবে ৰিং কৰিব আৰু তাৰপিছত কলটো আপোনাৰ গীয়েৰলৈ অগ্ৰসৰ হ'ব।
+- যদি আপুনি আপোনাৰ গীয়েৰত কলৰ উত্তৰ নিদিয়ে, তেতিয়া কল কৰোতাই এটা মাতমেইল এৰিব পাৰে, যাক আপুনি আপোনাৰ গীয়েৰত শুনিব পাৰে।
+আপুনি এতিয়া কল ফৰৱাৰ্ডিং সক্ষম কৰিব বিচাৰে নেকি?"</string>
+    <string name="manual_call_forwarding_popup_desc">"কল ফৰৱাৰ্ডিং হ'ল এটা নেটৱৰ্ক সেৱা যি এটা নিৰ্দিষ্ট নম্বৰলৈ %s-ৰ ইনকামিং কল ডাইভাৰ্ট কৰে৷ আপোনাৰ সেৱা প্ৰদানকাৰীৰ ওপৰত নিৰ্ভৰ কৰি, এই বৈশিষ্ট ব্যৱহাৰ কৰিবৰ বাবে আপোনাৰ গীয়েৰক অনুমতি দিবলৈ এটা গ্ৰাহকভুক্তিৰ আৱশ্যক হ'ব পাৰে৷ ইয়াৰ বাবে অতিৰিক্ত মাছুল বহন কৰিব লাগিব পাৰে৷"</string>
+    <string name="manual_call_forwarding_popup_desc_arg">"ম'বাইল ডিভাইচ"</string>
+    <string name="masterapp_not_installed">"আপোনাৰ ম'বাইল ডিভাইচত %1$s ইনষ্টল কৰা নাই৷ গীয়েৰত %2$s ব্যৱহাৰ কৰিবৰ বাবে, আপোনাৰ ডিভাইচত %1$s ডাউনলোড কৰক৷"</string>
+    <string name="masterapp_not_installed_goto_deeplink">"%1$s আপোনাৰ ম'বাইল ডিভাইচত ইনষ্টল কৰা নাই৷ আপোনাৰ গীয়েৰত %2$s ব্যৱহাৰ কৰিবৰ বাবে, আপোনাৰ ম'বাইল ডিভাইচত %1$s ডাউনলোড কৰক৷ আপোনাক ডাউনলোড স্ক্ৰীণলৈ লৈ যোৱা হ'ব৷"</string>
+    <string name="masterapp_uninstalled">"আপোনাৰ ম'বাইল ডিভাইচৰ পৰা %1$s আনইনষ্টল কৰা হৈছে৷ গীয়েৰত %2$s ব্যৱহাৰ কৰিবৰ বাবে, আপোনাৰ ডিভাইচত %1$s ডাউনলোড কৰক৷"</string>
+    <string name="maximum_size_warning">সৰ্বাধিক সংখ্যাৰ বৰ্ণত উপনীত হৈছে৷</string>
+    <string name="menu_about_device">প্ৰায় %s</string>
+    <string name="menu_actionbar_remove">আঁতৰাওক</string>
+    <string name="menu_actionbar_uninstall">আনইনষ্টল কৰক</string>
+    <string name="menu_appsandsettigns">এপ্প্‌চ আৰু ছেটিংসমূহ</string>
+    <string name="menu_clock">ঘড়ী</string>
+    <string name="menu_display">গৃহ পৃষ্ঠা সম্পাদনা কৰক</string>
+    <string name="menu_downloaded_font">"ডাউনলোড কৰা ফ'ণ্টসমূহ"</string>
+    <string name="menu_filetransfertogear">গীয়েৰলৈ ফাইল স্থানান্তৰ</string>
+    <string name="menu_gallery">প্ৰতিচ্ছবি</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">সুস্বাস্থ্য</string>
+    <string name="menu_help">সহায়</string>
+    <string name="menu_home_screen">গৃহ স্ক্ৰীণ শৈলী</string>
+    <string name="menu_music">সঙ্গীত</string>
+    <string name="menu_myapp">মোৰ এপ্প্‌চ</string>
+    <string name="menu_notification">অধিসূচনাসমূহ</string>
+    <string name="menu_rename">পুনঃনাম</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">গীয়েৰ এপ্প্‌চ</string>
+    <string name="menu_settings">ছেটিংছ</string>
+    <string name="mobile_to_gear">"ম'বাইলৰ পৰা গীয়েৰ"</string>
+    <string name="mobile_to_gear_des">"দুটা ডিভাইচ দূৰৱৰ্তীভাৱে সংযোজিত হৈ থকাৰ সময়ত গীয়েৰত আপোনাৰ ম'বাইল ডিভাইচলৈ কৰা কলসমূহ প্ৰাপ্ত কৰক৷"</string>
+    <string name="monotype_default_font">ডিফল্ট ফন্ট</string>
+    <string name="monotype_dialog_font_applemint">এপ্পল মিণ্ট</string>
+    <string name="monotype_dialog_font_choco">"চ'ক' কুকি"</string>
+    <string name="monotype_dialog_font_cool">কুল জাজ</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">"প'প"</string>
+    <string name="monotype_dialog_font_rose">"ৰ'জমেৰী"</string>
+    <string name="monotype_dialog_font_tinkerbell">টিংকাৰ বেল</string>
+    <string name="more">অধিক</string>
+    <string name="more_options">অধিক বিকল্পসমূহ</string>
+    <string name="multisim_title">মাল্টি SIM</string>
+    <string name="navigate_up">ওপৰলৈ নেভিগেট কৰক</string>
+    <string name="new_eula_error_log">নিদান তথ্যৰ প্ৰতিবেদন দিয়ক</string>
+    <string name="new_eula_fmd2">মোৰ ডিভাইচ বিচাৰক</string>
+    <string name="new_eula_fmg2">মোৰ গীয়েৰ বিচাৰক</string>
+    <string name="new_eula_news_briefing">বাতৰিৰ সংক্ষিপ্ত</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">"চেমচাং কীব'ৰ্ড"</string>
+    <string name="new_notification_list">সূচী দৰ্শন</string>
+    <string name="new_notifications_list_desc">গীয়েৰত প্ৰাপ্ত কৰা অধিসূচনাসমূহৰ এখন সূচী ঘড়ীটোৰ বাওঁফালে দেখুৱাওক৷</string>
+    <string name="no_application_selected">কোনো এপ্লিকেশ্বন চয়নিত নহয়</string>
+    <string name="no_downloaded_applications">কোনো ডাউনলোড হোৱা এপ্লিকেশ্বন নাই</string>
+    <string name="no_of_application_selected">%d টা এপ্লিকেশ্বন চয়নিত</string>
+    <string name="no_remote_connection_popup_msg">"স্বয়ং কল ফৰৱাৰ্ডিং সক্ষম কৰিবলৈ, আপোনাৰ ম'বাইল ডিভাইচত Samsung Gear এপ্লিকেশ্বন খোলক আৰু দূৰৱৰ্তী সংযোগ সক্ষম কৰক, তাৰপিছত পুনঃচেষ্টা কৰক৷"</string>
+    <string name="no_remote_connection_popup_title">দূৰৱৰ্তী সংযোগ সক্ষম কৰক</string>
+    <string name="notification_type">অধিসূচনা প্ৰকাৰ</string>
+    <string name="notification_type_desc">"আপোনাৰ গীয়েৰ ব্যৱহাৰ কৰি থকাৰ সময়ত, আপোনাৰ তলৰ চয়ন যিয়েই নহওক স্ক্ৰীণৰ শীৰ্ষত সৰু প'প-আপসমূহৰ ৰূপত আপোনাৰ অধিসূচনাসমূহ প্ৰদৰ্শন কৰা হ'ব৷"</string>
+    <string name="number_setting">নম্বৰ ছেটিংছ</string>
+    <string name="ok">ঠিক</string>
+    <string name="once">এবাৰ</string>
+    <string name="one_application_selected">1 টা এপ্লিকেশ্বন চয়নিত</string>
+    <string name="popup_attention_email_msg">কিছুমান ইমেইল একাউণ্ট ইমেইল ছেটিংছত চয়ন হৈ থকা নাই৷ আপোনাৰ গীয়েৰত থকা সেই একাউণ্টসমূহৰ পৰা অধিসূচনা লাভ কৰিবলৈ, ইমেইল ছেটিংছত ইমেইল অধিসূচনাসমূহ চয়ন কৰক৷</string>
+    <string name="popup_attention_message_msg">"আপোনাৰ গিয়েৰত মেচেজসমূহ প্ৰেৰণ আৰু প্ৰাপ্ত কৰিবৰ বাবে, আপোনাৰ ডিফ'ল্ট মেচেজিং এপ্প্ %s-ৰ পৰা মেচেজিংলৈ সলনি কৰা হ'ব৷"</string>
+    <string name="popupmenu_search_for_new_device">ডিভাইচসমূহ পৰিচালনা কৰক</string>
+    <string name="preview_message_desc">"আপোনাৰ গিয়েৰত অধিসূচনা প'প-আপত ইনকামিং কল এলাৰ্টসমূহ আৰু এলাৰ্মসমূহৰ বাহিৰে লাভ কৰা অধিসূচনাৰ এটা পূৰ্বলোকন দেখুৱাওক৷"</string>
+    <string name="preview_message_title">মেচেজ পূৰ্বলোকন কৰক</string>
+    <string name="primary">প্ৰাথমিক</string>
+    <string name="privacypolicy_fmgfmd">"“%1$s &amp; %2$s” সক্ষম কৰি, আপুনি স্বীকাৰ কৰিছে যে আপোনাৰ মোবাইল ফোন আৰু/বা গীয়েৰ ডিভাইচৰ সৈতে সম্বন্ধিত অৱস্থান ডাটা %1$s &amp; %2$s প্ৰদান কৰিবলৈ ক্ৰমত এটা Samsung চাৰ্ভাৰৰ জৰিয়তে ট্ৰান্সমিট কৰা হ'ব। Samsung চাৰ্ভাৰত আপোনাৰ ডিভাইচ অৱস্থানৰ বিষয়ে কোনো ডাটা বা তথ্য নথকাটো সংগ্ৰহ হৈ আছে।"</string>
+    <string name="privacypolicy_fmgfmd_no_gps">"“%1$s &amp; %2$s” সক্ষম কৰি, আপুনি স্বীকাৰ কৰিছে যে আপোনাৰ ম'বাইল ফোনৰ সৈতে সম্বন্ধিত অৱস্থান ডাটা %2$s প্ৰদান কৰিবলৈ ক্ৰমত এটা Samsung চাৰ্ভাৰৰ জৰিয়তে ট্ৰান্সমিট কৰা হ'ব। Samsung চাৰ্ভাৰত আপোনাৰ ডিভাইচ অৱস্থানৰ বিষয়ে কোনো ডাটা বা তথ্য নথকাটো সংগ্ৰহ হৈ আছে।"</string>
+    <string name="privacypolicy_newsbriefing">"এই এপৰ দ্বাৰা ব্যৱহাৰকাৰীসকলক ছ'চিয়েল মিডিয়া আৰু ইণ্টাৰনেটৰ দ্বাৰা বিভিন্ন অভিনব উপায়েৰে ভাৱ-বিনিময়ৰ সুবিধা প্ৰদান কৰে৷ যদি আপুনি এই এপটো সক্ষম কৰে, এই সেৱাটোৱে আপুনি কেনেদৰে সেৱাসমূহ ব্যৱহাৰ কৰে, সেই তথ্যসমূহ সংগ্ৰহ কৰিব আৰু ইয়াৰ সৈতে আপুনি সমল আৰু বিজ্ঞাপনসমূহৰ সৈতে কেনেদৰে দৰ্শন আৰু ভাৱ-বিনিময় কৰে, সেইবিলাক অন্তৰ্ভুক্ত হৈ থাকিব৷ অধিক বিৱৰণৰ বাবে, অনুগ্ৰহ কৰি ফ্লিপব'ৰ্ড %1$sব্যৱহাৰৰ চৰ্তসমূহ%2$s আৰু %3$sগোপনীয়তা আঁচনি%4$s চাওক৷"</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung Privacy Policy</string>
+    <string name="progressdialog_please_wait">অনুগ্ৰহ কৰি অপেক্ষা কৰক</string>
+    <string name="progressdialog_reinstalled_message">ইনষ্টল হৈ আছে…</string>
+    <string name="progressdialog_reinstalled_popup_content">পুনঃইনষ্টল</string>
+    <string name="providerapp_reinstalled">"%s-এ সঠিকভাৱে কাম নকৰে, গতিকে ইয়াক আনইনষ্টল কৰা হৈছে৷ ইয়াক এতিয়া পুনৰ ইনষ্টল কৰা হ'ব৷"</string>
+    <string name="quick_tutorial_add_shortcuts">গীয়েৰৰ গৃহ স্ক্ৰীণত এপৰ চমুপথ যোগ কৰিবলৈ, গীয়েৰত এপ্প্‌চলৈ যাওক, এটা “এপ আইকন” টিপক আৰু ধৰি ৰাখক, তাৰপাছত স্ক্ৰীণৰ শীৰ্ষত ইয়াক গৃহ আইকনলৈ টানক আৰু ৰাখক৷</string>
+    <string name="quick_tutorial_gear_structure">ঘড়ীটো আপোনাৰ গীয়েৰৰ গৃহ স্ক্ৰীণৰ মূল পৃষ্ঠাত দেখুওৱা হয়৷ ঘড়ীৰ বাওঁফালৰ পৃষ্ঠাসমূহে অধিসূচনাসমূহ আৰু সোঁফালৰসমূহে ৱিজেটসমূহ দেখুৱায়৷ এপ্লিকেশ্বনসমূহ দৰ্শন কৰিবলৈ স্ক্ৰীণৰ কাষৰ তলৰ পৰা ওপৰৰ দিশে ঘহাঁওক৷</string>
+    <string name="quick_tutorial_noti_title">%s লৈ পৰিচয়</string>
+    <string name="quick_tutorial_noti_title_gear">গীয়েৰ S</string>
+    <string name="quick_tutorial_noti_title_gear1">গীয়েৰ</string>
+    <string name="quick_tutorial_noti_title_gear2">গীয়েৰ 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice খুলিবলৈ, “Hi Gear” বুলি কওক বা যিকোনো স্ক্ৰীণ অন হৈ থাকোতে গৃহ কী দুবাৰ দবাওক।</string>
+    <string name="quick_tutorial_swipe_downwards">আপোনাৰ প্ৰিয় এপ্লিকেশ্বন খুলিবলৈ গৃহ কী দুবাৰ টিপক৷ আপুনি ছেটিংছত আপোনাৰ প্ৰিয় এপ্লিকেশ্বন পৰিৱৰ্তন কৰিব পাৰে৷</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">প্ৰিয় এপ খুলিবলৈ পাৱাৰ কী দুবাৰ টিপক৷ ছেটিংছত আপুনি আপোনাৰ প্ৰিয় এপ সলনি কৰিব পাৰে৷</string>
+    <string name="quick_tutorial_to_go_back">পিছলৈ যাবৰ বাবে কাষৰ পৰা স্ক্ৰীণ তললৈ ঘঁহাওক৷</string>
+    <string name="remote_connection_disabled_settings">ছেটিংছ</string>
+    <string name="remote_connection_enabled_desc">"যদি ব্লুটুথ সংযোগ সমাপ্ত হয়, গীয়েৰ সংযোগ হ'ব৷"</string>
+    <string name="requested">অনুৰোধ কৰা</string>
+    <string name="reset_gear_legal_text1">পুনঃছেট গীয়েৰ ব্যৱহাৰ কৰি, আপুনি আপোনাৰ গীয়েৰত সকলো ডাটা দূৰবৰ্তীভাৱে বিলোপ কৰিব পাৰে। এইদৰে বাতিলকৰণৰ পিছত, বিলোপ কৰা ডাটা সংগ্ৰহ কৰা নহ’ব আৰু আপুনি মোৰ গীয়েৰ বিচাৰক বহু দিনলৈকে ব্যৱহাৰ কৰিব পাৰিব।</string>
+    <string name="reset_gear_legal_text2">"* পুনঃছেট গীয়েৰটো আপোনাৰ গীয়েৰ, ম'বাইল ডিভাইচ বা নেটৱৰ্ক পৰিবেশৰ স্থিতিৰ ওপৰত নিৰ্ভৰ কৰি ফাংচন বা বিফল হবলৈও কিছুসময় লব পাৰে।"</string>
+    <string name="restore_complete">পুনঃসংগ্ৰহ সম্পূৰ্ণ হৈছে৷</string>
+    <string name="restore_some_error">পুনৰুদ্ধাৰ বিফল হৈছে৷ পুনৰ চেষ্টা কৰক।</string>
+    <string name="restore_try_again">পুনৰ চেষ্টা</string>
+    <string name="restore_watch_settings_content2">"আপোনাৰ %1$s সমল বেক আপ কৰিবলৈ আপোনাৰ ডিভাইচ সংগ্ৰহ ব্যৱহাৰ কৰক:
+%2$s
+
+যদি আপুনি আগতে এই সমল বেক আপ কৰিছিল, আপুনি ইয়াক এতিয়া %3$sলৈ পুনঃস্থাপন কৰিব পাৰে৷
+
+ফাইলৰ আকাৰৰ ওপৰত নিৰ্ভৰ কৰি, ই কিছু সময় ল'ব পাৰে৷
+
+আপুনি আপোনাৰ বেক আপ ছেটিংছ ছেটিংছত সলনি কৰিব পাৰে৷"</string>
+    <string name="restore_watch_settings_content2_import1">গীয়েৰ</string>
+    <string name="restore_watch_settings_content2_import3">ছেটিংছ</string>
+    <string name="retrieve_dialog_desc">এপ্লিকেশ্বন সূচী পুনৰুদ্ধাৰ কৰি আছে…</string>
+    <string name="sa_email">ইমেইল</string>
+    <string name="sa_error_0203_desc">"ৰিম'ট সংযোগ সক্ষম কৰিবলৈ, Samsung account মেনুৱেলভাৱে আপডেট কৰক৷"</string>
+    <string name="sa_error_0203_title">Samsung account আপডেট কৰক</string>
+    <string name="sa_error_0301_desc">"আপোনাৰ ম'বাইল ডিভাইচত Samsung account চাইন ইন কৰি থকাৰ সময়ত এটা নেটৱৰ্ক ত্ৰুটি পোৱা গৈছে৷"</string>
+    <string name="sa_error_0301_title">কাৰ্য সক্ষম কৰিবলৈ বিফল হৈছে</string>
+    <string name="sa_error_0302_desc">"আপোনাৰ ম'বাইল ডিভাইচত Samsung account চাইন ইন কৰি থকাৰ সময়ত এটা নেটৱৰ্ক ত্ৰুটি পোৱা গৈছে৷"</string>
+    <string name="sa_error_0302_title">কাৰ্য সক্ষম কৰিবলৈ বিফল হৈছে</string>
+    <string name="sa_error_0401_desc">এটা ত্ৰুটি সংঘটিত হৈছে৷ পুনৰ চেষ্টা কৰক৷</string>
+    <string name="sa_error_0401_title">ত্ৰুটি</string>
+    <string name="safety_message_interval_10minutes">প্ৰত্যেক 10 মিনিটত</string>
+    <string name="safety_message_interval_20minutes">প্ৰত্যেক 20 মিনিটত</string>
+    <string name="samsung_apps_info">"%2$s-টো আনইনষ্টল বা এপ্লিকেশ্বন ডাটা পৰিষ্কাৰ কৰিলে %1$s হৈ ডাউনলোড কৰা এপ্লিকেশ্বনসমূহ বিলোপ হ'ব পাৰে৷ আপুনি আপোনাৰ %3$s-ৰ ক্ৰয় ইতিহাসৰ পৰা বিলোপ কৰা এপ্লিকেশ্বনসমূহ ডাউনলোড কৰিব পাৰে৷"</string>
+    <string name="samsung_apps_notice">জাননী</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">এতিয়া আপডেট কৰক</string>
+    <string name="screen_off">স্ক্ৰীণ অফ ৰাখক</string>
+    <string name="screen_off_desc">আপোনাৰ গিয়েৰত যেতিয়া ইয়াৰ স্ক্ৰীণ অফ হৈ থাকে ইনকামিং কল এলাৰ্টসমূহ আৰু এলাৰ্মসমূহৰ বাহিৰে অধিসূচনা লাভ কৰক৷</string>
+    <string name="setting_Enable">সক্ষম</string>
+    <string name="setting_alpm_dialog_title">মনোযোগ</string>
+    <string name="setting_always_off">সদায় অফ</string>
+    <string name="setting_always_on">সদায় অন</string>
+    <string name="setting_auto">স্বয়ং</string>
+    <string name="setting_auto_lock_disable_desc">কৰ্তৃপক্ষৰ দ্বাৰা এনক্ৰিপশ্বন নীতি বা ক্ৰিডেন্সিয়েল সংগ্ৰহ অক্ষম কৰা হৈছে৷</string>
+    <string name="setting_backup_restore2">বেকআপ আৰু পুনঃসংগ্ৰহ</string>
+    <string name="setting_basic">প্ৰাথমিক</string>
+    <string name="setting_connections">সংযোগসমূহ</string>
+    <string name="setting_disable">অক্ষম</string>
+    <string name="setting_home_key_double_pressing">গৃহ কী দুবাৰ দবাওক</string>
+    <string name="setting_language_input">ভাষা আৰু ইনপুট</string>
+    <string name="setting_manage_text_templates">পাঠ টেমপ্লেটসমূহ সম্পাদনা কৰক</string>
+    <string name="setting_mobile_network">"ম'বাইল নেটৱৰ্ক সমূহ"</string>
+    <string name="setting_mobile_network_desc">"আপোনাৰ ম'বাইল নেটৱৰ্কৰ পৰা গীয়েৰ সংযোগহীন কৰা হ'ব, যেতিয়া ই আপোনাৰ ম'বাইল ডিভাইচলৈ ব্লুটুথ হৈ সংযোজিত হয়৷ ব্লুটুথ হৈ সংযোগ সমাপ্ত হ'লে আপোনাৰ ম'বাইল নেটৱৰ্কলৈ গীয়েৰ পুনঃ স্বয়ংক্ৰিয়ভাৱে সংযোগ হ'ব৷"</string>
+    <string name="setting_multisim_popup_desc">"আপোনাৰ সেৱা প্ৰদানকাৰীৰ ওপৰত নিৰ্ভৰ কৰি মাল্টি SIM ফাংচন ব্যৱহাৰ কৰিবলৈ আপোনাক এটা পৃথক গ্ৰাহকভুক্তিৰ আৱশ্যক হ'ব পাৰে৷ মাল্টি SIM সক্ষম কৰিবলৈ “ঠিক” টিপক৷"</string>
+    <string name="setting_opensource">মুক্ত উৎস লাইচেন্স</string>
+    <string name="setting_palm_motion">সঞ্চালনসমুহ</string>
+    <string name="setting_palm_swipe">কেপছাৰ কৰিবলৈ ঘঁহাওক</string>
+    <string name="setting_palmover_desc">ইনকামিং কলসমূহ আৰু এলাৰ্মসমূহ মিউট কৰিবলৈ বা মিডিয়া বিৰতি দিবলৈ, স্ক্ৰীণখন অন হৈ থকাৰ সময়ত স্ক্ৰীণত আপোনাৰ হাতখন ৰাখক৷</string>
+    <string name="setting_palmswipe_desc">আপোনাৰ সকলো আঙুলি স্ক্ৰীণত লগাই স্ক্ৰীণৰ ইফালৰ পৰা সিফাললৈ ঘঁহি স্ক্ৰীণ কেপছাৰ কৰক৷</string>
+    <string name="setting_pause_mute">মিউট/বিৰতি</string>
+    <string name="setting_power_key_double_pressing">পাৱাৰ কীৰ দুবাৰ দবাই</string>
+    <string name="setting_restoring">পুনসঞ্চয় কৰি থকা হৈছে…</string>
+    <string name="setting_safety_b1_desc">"যেতিয়া আপোনাৰ গিয়েৰ আৰু ম'বাইল ডিভাইচ সংযোজিত থাকে, সহায়তা মেচেজ প্ৰেৰণ কৰকে আপোনাক এটা জৰুৰী অৱস্থাত সহায় কৰে৷ ই জৰুৰী মেচেজ আৰু আপোনাৰ অৱস্থান প্ৰেৰণ কৰাৰ দ্বাৰা আপোনাৰ জৰুৰী মেচেজ সম্পৰ্কসমূহক আপোনাৰ পৰিস্থিতিৰ বিষয়ে সতৰ্ক কৰে৷ এই মেচেজবোৰ প্ৰেৰণ কৰাৰ ফলত অতিৰিক্ত মাছুল ভৰিব লাগিব পাৰে৷ এটা জৰুৰী অৱস্থাত সহায়তা মেচেজ প্ৰেৰণ কৰক সক্ষম কৰিবলৈ, পাৱাৰ কী %d বাৰ দবাওক৷"</string>
+    <string name="setting_safety_b2_desc">"যেতিয়া আপোনাৰ গীয়েৰ আৰু ম'বাইল ডিভাইচ সংযোগিত থাকে, সহায়তা মেচেজ প্ৰেৰণ কৰকে গীয়েৰ কেমেৰা ব্যৱহাৰ কৰি এটা প্ৰতিচ্ছৱি তুলি এটা জৰুৰী পৰিস্থিতিত আপোনাক সহায় কৰে৷ ই এই চিত্ৰ আৰু আপোনাৰ অৱস্থানৰ সৈতে জৰুৰী মেচেজ প্ৰেৰণ কৰাৰ দ্বাৰা আপোনাৰ জৰুৰী মেচেজ সম্পৰ্কসমূহক আপোনাৰ পৰিস্থিতিৰ বিষয়ে সতৰ্ক কৰে৷ প্ৰথম মেচেজটোতে আপোনাৰ অৱস্থান আৰু চিত্ৰ দুয়োটাই থাকিব৷ তাৰপাছত, এটা ব্যৱধানৰ পাছত, কেৱল আপোনাৰ অৱস্থান থকা দ্বিতীয় এটা প্ৰেৰণ কৰা হ'ব৷ এই মেচেজবোৰ প্ৰেৰণ কৰাৰ ফলত অতিৰিক্ত মাছুল ভৰিব লাগিব পাৰে৷ এটা জৰুৰী অৱস্থাত সহায়তা মেচেজ প্ৰেৰণ কৰক সক্ষম কৰিবলৈ গৃহ কী %d বাৰ দবাওক৷"</string>
+    <string name="setting_safety_b2_no_camera_desc">"যেতিয়া আপোনাৰ গীয়েৰ আৰু ম'বাইল ডিভাইচ সংযোগিত থাকে, সহায়তা মেচেজ প্ৰেৰণ কৰকে মেচেজে আপোনাক এটা জৰুৰী অৱস্থাত সহায় কৰে৷ ই জৰুৰী মেচেজ আৰু আপোনাৰ অৱস্থান প্ৰেৰণ কৰাৰ দ্বাৰা আপোনাৰ জৰুৰী মেচেজ সম্পৰ্কসমূহক আপোনাৰ পৰিস্থিতিৰ বিষয়ে সতৰ্ক কৰে৷ এই মেচেজবোৰ প্ৰেৰণ কৰাৰ ফলত অতিৰিক্ত মাছুল ভৰিব লাগিব পাৰে৷ এটা জৰুৰী অৱস্থাত সহায়তা মেচেজ প্ৰেৰণ কৰক সক্ষম কৰিবলৈ, গৃহ কী %d বাৰ দবাওক৷"</string>
+    <string name="setting_safety_b3_desc1">আপুনি এক জৰুৰীকালীন পৰিস্থিতিত থাকিলে আপোনাৰ প্ৰাথমিক সম্পৰ্কসমূহলৈ এক ক্ষিপ্ৰ এলাৰ্ট প্ৰেৰণ কৰিবলৈ গৃহ কীটো ক্ষিপ্ৰভাৱে 3 বাৰ দবাওক৷</string>
+    <string name="setting_safety_b3_desc2">আপোনাৰ প্ৰাথমিক সম্পৰ্কসমূহে আপোনাৰ সাম্প্ৰতিক অৱস্থানৰ বিষয়ে তথ্য বহন কৰা জৰুৰীকালীন মেচেজসমূহ প্ৰাপ্ত কৰিব৷</string>
+    <string name="setting_safety_b3_desc3">"এই ফাংচন ব্যৱহাৰ কৰিবলৈ আপোনাৰ ম'বাইল ডিভাইচক আপোনাৰ গীয়েৰলৈ সংযোগ কৰক৷"</string>
+    <string name="setting_safety_list">সুৰক্ষা সহায়ক</string>
+    <string name="setting_samsung_legal">চেমচাং লিগেল</string>
+    <string name="setting_screen_lock">"স্বয়ং ল'ক"</string>
+    <string name="setting_screen_lock_desc">"আপোনাৰ ম'বাইল ডিভাইচ লক কৰিবৰ বাবে আপোনাৰ গীয়েৰ ব্যৱহাৰ কৰক৷"</string>
+    <string name="setting_screen_secutiry">স্ক্ৰীণৰ সুৰক্ষা</string>
+    <string name="setting_send_emergency_picture">জৰুৰীকালীন চিত্ৰ প্ৰেৰণ কৰক</string>
+    <string name="setting_send_emergency_recording">ধ্বনি ৰেকডিং প্ৰেৰণ কৰক</string>
+    <string name="setting_send_emergency_term_agree">মই ওপৰত দিয়া সকলো নিয়ম আৰু চৰ্ত পঢ়িলোঁ আৰু তাৰ লগত একমত৷</string>
+    <string name="setting_send_help_message">সহায়তা মেচেজ প্ৰেৰণ কৰক</string>
+    <string name="setting_send_terms_conditions">নিয়ম আৰু চৰ্ত্তসমূহ</string>
+    <string name="setting_smart_relay">"স্মাৰ্ট ৰিলে'"</string>
+    <string name="setting_smart_relay_desc">"আপোনাৰ ম'বাইল ডিভাইচটো ধৰি ৰাখি আপোনাৰ গিয়েৰৰ পৰা আপোনাৰ ম'বাইল ডিভাইচত সমল দৰ্শন কৰক৷"</string>
+    <string name="setting_smart_toss">স্মাৰ্ট ট’চ</string>
+    <string name="setting_system">ছিষ্টেম</string>
+    <string name="setting_text_to_speech_engine">পাঠৰ-পৰা-কথন ইঞ্জিন</string>
+    <string name="setting_textinput_emoticon">"ইম'টিকনবোৰ"</string>
+    <string name="setting_textinput_keyboard">"কীব'ৰ্ড"</string>
+    <string name="setting_textinput_list">পাঠ ইনপুট পদ্ধতিসমূহ</string>
+    <string name="setting_textinput_templates">টেমপ্লেটসমূহ</string>
+    <string name="setting_try_it">ইয়াক চেষ্টা কৰক</string>
+    <string name="setting_wake_up">ৱেক-আপ জেশ্বাৰ</string>
+    <string name="setting_wake_up_desc">আপোনাৰ গীয়েৰৰ ওপৰত হাতখন ৰাখি গীয়েৰ জাগ্ৰত কৰক৷</string>
+    <string name="setting_wakeupgesture">"গীয়েৰ জাগ্ৰত কৰিবৰ বাবে, গীয়েৰৰ ওপৰলৈ আপোনাৰ হাতখন নিয়ক আৰু আপোনাৰ গীয়েৰৰ স্ক্ৰীণখনলৈ চাওক৷
+
+এই সুবিধাটোৱে আপুনি পিছলৈ মূৰ কৰি থাকিলে বা তললৈ মুৰ কৰি থাকিলে কাম নকৰে আৰু ইয়াৰ সঞ্চালন চেনচৰ সদায়ে অন হৈ থকাৰ ফলত অধিক বেটাৰীৰ পাৱাৰ ল'ব পাৰে৷"</string>
+    <string name="setting_wakeupgesture_clock">ঘড়ী</string>
+    <string name="setting_wakeupgesture_previous">অন্তিম দৰ্শন কৰা স্ক্ৰীণ</string>
+    <string name="setting_wakeupgesture_screen_on">প্ৰদৰ্শিত স্ক্ৰীণ চয়ন কৰক</string>
+    <string name="setting_wakeupgesture_screen_on_ru">প্ৰদৰ্শিত স্ক্ৰীণ চয়ন কৰক</string>
+    <string name="settings">ছেটিংছ</string>
+    <string name="settings_application_version">এপ্লিকেশ্বন সংস্কৰণ</string>
+    <string name="settings_emergency_contact">প্ৰাথমিক সম্পৰ্ক পৰিচালনা কৰক</string>
+    <string name="settings_emergency_contact_empty">কোনো প্ৰাথমিক সংযোগ যোগ হোৱা নাই৷ %s সক্ষম কৰিবলৈ, সম্পৰ্কসমূহ প্ৰাথমিক সম্পৰ্কসমূহলৈ যোগ কৰক৷</string>
+    <string name="settings_legal_information">আইনসন্মত তথ্য</string>
+    <string name="settings_message_interval">মেচেজ বিৰতি</string>
+    <string name="settings_not_set">ছেট নহয়</string>
+    <string name="settings_security">নিৰাপত্তা</string>
+    <string name="settings_security_update">সুৰক্ষা আপডেট</string>
+    <string name="settings_security_update_desc">আপোনাৰ ডিভাইচটোক নষ্টকাৰী সমলৰ পৰা ৰক্ষা কৰিবৰ বাবে ইয়াৰ নিৰাপত্তা আৰু সেৱা উন্নত কৰক৷</string>
+    <string name="settings_unknown_sources_dialog">"অজ্ঞাত উৎসসমূহৰ পৰা ইনষ্টল কৰাৰ ফলত আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত ডাটাৰ বাবে ক্ষতিদায়ক হ'ব পাৰে৷ “ঠিক” টিপাৰ ফলত, আপুনি এই এপ্লিকেশ্বনসমূহ ব্যৱহাৰ কৰাৰ ফলত আপুনি আপোনাৰ ডিভাইচৰ যিকোনো ক্ষতি বা আপোনাৰ ডাটা হেৰুৱাৰ ক্ষেত্ৰত সম্পূৰ্ণ ৰূপে দায়বদ্ধ ৰূপে সন্মতি প্ৰদান কৰিছে৷"</string>
+    <string name="settings_unknown_sources_subtitle">অজ্ঞাত উৎসৰ পৰা এপ্প্‌চ ইনষ্টলেশ্বনৰ অনুমতি দিয়ক৷</string>
+    <string name="share_loc_disabled">অৱস্থান ভাগ-বতৰা অক্ষম হৈছে৷</string>
+    <string name="share_location_desc">"আপোনাৰ গীয়েৰ আৰু ম'বাইল ডিভাইচৰ অৱস্থান ডাটা ভাগ-বতৰা কৰিবৰ বাবে মোৰ গীয়েৰ বিচাৰক আৰু মোৰ ডিভাইচ বিচাৰক-ক অনুমতি দিয়ক৷"</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">"মই সন্মত যে ম'বাইল ডাটা ব্যৱহাৰ কৰা হৈছে আৰু সেই MMS মেচেজ জৰুৰীকালিন সময়ত ব্যৱহাৰ কৰা হ'ব পাৰে৷ মই বুজি পাইছোঁ যে ইয়াৰ ফলত অতিৰিক্ত মাচুল ভৰিব লগা হ'ব পাৰে৷"</string>
+    <string name="shm_new_disclaimer_msg_01">"1. সহায়্তা মেচেজ প্ৰেৰণ কৰক ক ব্যৱহাৰকাৰীসকলক তেওঁলোকৰ আনুমানিক অৱস্থান আৰু আপুনি পূৰ্বতে ছেট কৰি থোৱা মোবাইল ফোনৰ সেই সম্পৰ্কলৈ দৃশ্যমান অডিটৰি চাৰাউণ্ডিং প্ৰেৰণ কৰিবলৈ যুগুতোৱা হৈছে৷ এই সেৱাসমূহ আপোনাৰ সুবিধাৰ্থেহে উপলভ্য কৰোৱা হৈছে আৰু অন্য কোনো বেলেগ উদ্দেশ্য আগত ৰাখি কৰা হোৱা নাই, কৰ্তৃপক্ষলৈ জৰুৰীকালিন কল কৰাৰ বিকল্প ৰূপে গণ্য কৰা উচিত নহয
+ 
+2. জিঅ' বাতৰি (সেৱাসমূহ) নেটৱৰ্ক সংযোগ, GPS/Wi-Fi তথ্যৰ উপলব্ধতা, আপোনাৰ আপুনি পছন্দ কৰা সম্পৰ্ক ডিভাইচৰ স্থিতি আৰুবা অৱস্থা, বেটাৰীৰ লেভেল আৰুবা Samsung Electronics Co., Ltd. (Samsung, আমি, আমাৰ) নিয়ন্ত্ৰণৰ বাহিৰত থকা অন্য পৰিস্থিতিৰ ওপৰত ভিত্তি কৰি সঠিকভাৱে, একেৰাহে বা ত্ৰুটিশূণ্যভাৱে কাম নকৰিব পাৰে৷ আপোনাৰ ওচৰ-পাজৰ আৰু আপোনাৰ ডিভাইচৰ অৱস্থা আৰু আপুনি পছন্দ কৰা সম্পৰ্কৰ ডিভাইচৰ ওপৰত নিৰ্ভৰ কৰি অৱস্থানৰ তথ্যৰ সঠিকতা আৰু সেৱাৰ সঠিক সময়ত প্ৰদান প্ৰভাৱিত হ'ব পাৰে৷ প্ৰকাশ্যভাৱে উল্লেখ কৰা নাথাকিলে বা আইনৰ আৱশ্যকতা অনুভৱ নহ'লে, Samsung-এ সেই সেৱাসমূহে সঠিকভাৱে, ধাৰাবাহিকভাৱে বা কোনো ত্ৰুটি নোহোৱাকৈ কাম কৰিব বুলি কোনো ৱাৰেণ্টীৰ কথা ঘোষণা কৰা নাই৷ অনুগ্ৰহ কৰি মনত ৰাখক যে, আপুনি পছন্দ কৰা সম্পৰ্ক এটা কাৰ্যকৰী ম'বাইল ফোন হ'ব লাগিব আৰু ডিভাইচ অন হৈ থাকিব লাগিব আৰু পাঠ মেচেজ গ্ৰহণ কৰিবৰ বাবে সক্ষম হ'ব লাগিব৷ আপোনাৰ পৰিবেশ আৰু অৱস্থান ডাটাৰ স্থানান্তৰণ বাবে আপোনাৰ সেৱা পৰিচালকৰ দ্বাৰা নিৰ্দিষ্ট কৰা মাছুলৰ ওপৰত মূল্য নিৰ্ধাৰণ হ'ব৷
+
+এই সেৱাটোৱে কাম কৰিবৰ বাবে, ইয়াত এই সুবিধাটো থাকিব লাগিব, যাক আপুনি প্ৰদান কৰিব পাৰে, আপোনাৰ ডিভাইচত GPS আৰু Wi-Fi স্বয়ংক্ৰিয়ভাৱে অন হ'ব লাগিব৷ আপোনাক আগতীয়াকৈ নজনোৱাকৈ বা আপোনাৰ সন্মতিৰ অবিহনে স্বয়ংক্ৰিয়ভাৱে GPS আৰু Wi-Fi ফাংচন (যদি প্ৰয়োজন হয়) সক্ষম কৰিবৰ বাবে স্বীকাৰ আৰু সন্মতি প্ৰকাশ কৰিছে৷
+
+3. আপুনি এই ফাংচনটোৰ অপব্যৱহাৰ নকৰিবৰ বাবে বা কোনো বেআইনী উদ্দেশ্যৰে বা গোপনীয়তা উলংঘন বা অন্য ব্যক্তিৰ ব্যক্তিগত বা মালিকীস্বত্ব থকা অধিকাৰসমূহ উলংঘনৰ বাবে ব্যৱহাৰ নকৰে বুলি স্বীকাৰ আৰু সন্মতি প্ৰকাশ কৰিছে৷ এই কাৰ্যৱলীসমূহ কেৱল আইন অনুসৰি আৰু কেৱল জৰুৰীকালিন সময়ত ব্যৱহাৰ কৰক৷ আপুনি আপোনাৰ সেৱাসমূহৰ ব্যৱহাৰৰ ক্ষেত্ৰত নিশ্চিতভাৱে দায়ী বুলি সন্মত হৈছে৷ এই সুবিধা ব্যৱহাৰৰ বাবে হোৱা কোনোধৰণৰ পৰিণামৰ বাবে Samsung দায়বদ্ধ নহ'ব৷
+
+4. এই সেৱাসমূহ আপোনাৰ সুবিধাৰ্থেহে উপলভ্য কৰোৱা হৈছে আৰু অন্য কোনো বেলেগ উদ্দেশ্য আগত ৰাখি কৰা হোৱা নাই, কৰ্তৃপক্ষলৈ জৰুৰীকালিন কল কৰিবৰ বাবে বিকল্প বুলি কৰা হোৱা নাই বা ইয়াক তেনেধৰণে লোৱাও উচিত নহয়৷ প্ৰকাশ্যভাৱে উল্লেখ কৰা নাথাকিলে বা আইনৰ আৱশ্যকতা অনুভৱ নহ'লে, Samsung-এ সেই সেৱাসমূহে সঠিকভাৱে, ধাৰাবাহিকভাৱে বা কোনো ত্ৰুটি নোহোৱাকৈ কাম কৰিব বুলি কোনো ৱাৰেণ্টিৰ কথা ঘোষণা কৰা নাই৷
+
+5. ৱাৰেণ্টীৰ ঘোষণা আপুনি স্পষ্টভাৱে বুজিছে আৰু সন্মত হৈছে যে:
+ 
+A. এই সেৱাসমূহ যেনেদৰে আছে, সকলো ত্ৰুটিৰ সৈতে, আৰু যেনেদৰে উপলব্ধ অৱস্থাত প্ৰদান কৰা হৈছে৷ আপুনি সেইবিলাক ব্যৱহাৰৰ বাবে হোৱা শংকাক বহন কৰে৷ SAMSUNG-এ এই সেৱসমূহৰ অন্তৰ্গত বা ইয়াৰ সম্পৰ্কত কোনোধৰণৰ ৱাৰেণ্টী, গেৰাণ্টী বা অৱস্থাক প্ৰদান নকৰে৷ SAMSUNG-এ স্পষ্টৰূপত সকলোধৰণৰ প্ৰতিনিধিত্ব আৰু যিকোনো প্ৰকাৰৰ ৱাৰেণ্টীক ঘোষণা কৰিছে, ই স্পষ্ট ৰূপত হওক বা অন্তৰ্নিহিত হওক, কিন্তু কোনোধৰণৰ অন্তৰ্নিহিত ব্যৱসায়িক ৱাৰেণ্টী, কোনো নিৰ্দিষ্ট উদ্দেশ্যৰ বাবে যোগ্যতা আৰু কোনোধৰণৰ লেনদেন বা প্ৰদৰ্শনৰ ক্ষেত্ৰত ই সীমিত নহয়৷
+
+B. পূৰ্ববৰ্তীক সীমিত নকৰাকৈ, SAMSUNG-এ এইবিলাক ক্ষেত্ৰত কোনোধৰণৰ প্ৰতিনিধিত্ব বা ৱাৰেণ্টী প্ৰদান কৰা নাই (i) সেৱাসমূহে আপোনাৰ প্ৰয়োজনীয়তাসমূহক পুৰণ কৰিব, (ii) সেৱাসমূহ ব্যাঘাতশূণ্য, সময়ানুসাৰ, সুৰক্ষিত বা ত্ৰুটি-শূণ্য, (iii) সেৱাসমূহৰ পৰা আহৰণ কৰা সমলসমূহ বা কোনোধৰণৰ অধিসূচনা বা সেৱাৰ কাৰ্যশীলতা উপলব্ধ হ'ব সঠিক, সম্পূৰ্ণ বা বিশ্বাসযোগ্য হ'ব (iv) সেৱাসমূহৰ পৰা আপোনাৰ বাবে আহৰণ কৰা সেৱাৰ গুণমাণ বা যিকোনো তথ্য বা অন্য কোনো উপাদানসমূহে আপোনাৰ প্ৰত্যাশা পূৰণ কৰিব বা (v) এই সেৱাৰ যিকোনো ধৰণৰ ত্ৰুটি বা ভুল-ভ্ৰান্তি শুদ্ধ কৰা হ'ব৷
+
+6. বিশ্বাসযোগ্যতাৰ সীমাবদ্ধতা৷
+
+A. আপুনি প্ৰকাশ্যভাৱে বুজি পাইছে আৰু সন্মতি জনাইছে যে SAMSUNG-এ থিয়ৰী অৱহেলা কৰা, কোনো প্ৰত্যক্ষ ক্ষতি বা পৰোক্ষ ক্ষতি, দূৰ্ঘটনাবশত, বিশেষ, পুনিটিভ, কনচিকিউয়েণ্টেল বা এক্সেমপেৰী ক্ষতি, দায়বদ্ধতা, ক্ষতি বা ব্যয়, ইয়াক সামৰি লোৱা বা সীমিত নোহোৱা, লাভ হেৰুওৱা, ব্যৱহাৰ কৰাৰ ফলত বা অন্য কাৰণত হোৱা ক্ষতি (যদিও মেৰামতি, পুনঃস্থাপন বা সেৱাসমূহৰ বাবে হোৱা ৰিফাণ্ড আপোনাক সম্পূৰ্ণৰূপে ঘূৰাই দিয়া নহ’ব যদিহে SAMSUNG-এ এনেধৰণৰ ক্ষতিৰ কথা জানিছিল বা এনে ক্ষতি, দায়বদ্ধতা, নষ্ট হোৱা, ব্যয় হোৱাৰ সাম্ভাৱ্য কাৰণ জানিছিল), এনে কাৰণত প্ৰত্যক্ষভাৱে বা পৰোক্ষভাৱে উদ্ভৱ হোৱা সমস্যাৰ পৰিণতি যেনে: (i) চুক্তি ভংগৰ বাবে কৰা দাবী, ৱাৰেণ্টি, গেৰেণ্টি বা চৰ্তাৱলী পালন নকৰা, কঠোৰ দায়বদ্ধতা, অৱহেলা, বা প্ৰযোজ্য আইনৰ বৰ্দ্ধিত অনুমোদন স্বত্বেও অন্য ট’ৰ্ট পালন নকৰা; (ii) সেৱাসমূহ ব্যৱহাৰ কৰিবলৈ আপুনি সক্ষম নোহোৱা, (iii) চাবটাইটেল সেৱাসমূহৰ বাবে হোৱা খৰচ, (iv) ইয়ালৈ কৰা অনস্বীকৃত প্ৰৱেশ বা আপুনি কৰা ট্ৰান্সমিচন বা ডাটাৰ বিকল্প ল’লে; (v) যিকোনো তৃতীয় পক্ষৰ বিবৃতি বা চুক্তি উলংঘন; (vi) এই চুক্তি; (vii) ব্যক্তি বা সম্পদৰ অঘটন বা হানি হোৱা (মৃত্যুকো সামৰি লোৱা হৈছে) বা (viii) এই সেৱাসমূহৰ সৈতে সম্পৰ্কিত যিকোনো কথা বা এই সেৱাসমূহৰ মাধ্যমেৰে প্ৰদান কৰা সম্পদ৷
+
+B. এই চুক্তিৰ বা সেৱাসমূহৰ সৈতে সম্পৰ্কীত SAMSUNGৰ সৈতে হোৱা কোনো বিবাদক কেৱল মাত্ৰ আৰু অনন্য উপায় সেৱা বন্ধ কৰি কৰা হ'ব৷
+
+C. আকস্মিক বা পৰিণাম স্বৰূপ ক্ষয়-ক্ষতিৰ বাবে কিছুমান ন্যায়াধিকৰণে কিছুমান ৱাৰেণ্টীৰ বহিষ্কাৰ বা দায়বদ্ধতাৰ সীমাবদ্ধতা বা বহিষ্কাৰক অনুমতি নিদিয়ে৷ ফলস্বৰূপে, ওপৰত উল্লেখ শাখা 5 আৰু 6-ৰ কিছুমান সীমাবদ্ধতাক আপোনাৰ ক্ষেত্ৰত প্ৰযোজ্য নহয়৷
+
+7. ক্ষতিপুৰণ আপুনি সেৱাৰ ব্যৱহাৰ বাহিৰৰ Samsung বা ইয়াৰ সৈতে সম্পৰ্কীত বা এই চুক্তিৰ সৈতে সংগত আপোনাৰ দ্বাৰা হোৱা কোনো বিফলতাৰ সৈতে জড়িত কোনোধৰণৰ হানিকাৰক, ক্ষতিপূৰ্ণ আৰু প্ৰতিৰক্ষা আৰু যিকোনোধৰণৰ বিচাৰ, কাৰ্য, আৰোপ, বিশ্বাসযোগ্যতা, হেৰুৱা, ক্ষতি হোৱা, জৰিমণা বা ব্যয় (ইয়াৰ লগতে উচিত পৰিমাণৰ উকীলৰ মাছুল আৰু ব্যয়) ধাৰণ কৰিবৰ বাবে সন্মত৷ যদি, এই নিয়ম আৰু চৰ্তসমূহৰ অন্তৰ্গত মুঞ্জুৰীকৃত লাইচেঞ্চৰ নিজস্ব প্ৰকৃতিত, আপোনাক এই সেৱাসমূহ ব্যৱহাৰ কৰিবলৈ অনুমতি দিয়া হৈছে, বা এই সেৱাসমূহৰ মাধ্যমেদি প্ৰাপ্ত কৰা যিকোনো ব্যক্তিগত তথ্য প্ৰদান কৰা হ’ব, আপুনি এই নিয়ম আৰু চৰ্তসমূহৰ উপলভ্যতা আৰু বিধানসমূহক নিজা ববীয়াকৈ জনাবলৈ সন্মতি দিছে, যিখিনি এনেধৰণৰ ব্যক্তিবিশেষৰ বাবে বাধ্যতামূলক হ’ব, আৰু এই সেৱাসমূহৰ ব্যক্তিগত ব্যৱহাৰৰ ফলত হ’ব পৰা ক্ষতি, ইনডেমনিফাই বা যিকোনো বা সকলো ধৰণৰ দাবী, কাৰ্য্য, ডিমাণ্ড, মূল্য, দায়বদ্ধতা, হেৰুৱা, ক্ষতি হোৱা, ফাইন লোৱা আৰু ব্যয় কৰা (উকিলৰ মাছুল আৰু খৰচক সামৰি) সকলোখিনিৰ পৰা Samsungক ক্ষতি নকৰিব বা বচাই ৰাখিব বুলি সন্মতি জনাইছে৷
+
+8. ফ’ৰ্চ মেজিয়ৰ৷ এই সেৱাসমূহৰ নিয়ম আৰু চৰ্তাৱলীৰ অন্তৰ্গত কোনো কাৰ্য্যকাৰিতাৰ ফলত হোৱা বিফলতা বা পলমৰ বা প্ৰাকৃতিক দূৰ্ঘটনা, ফৌজাদাৰী বা সামৰিক কৰ্তৃপক্ষৰ দ্বাৰা সংঘটিত কাৰ্য, যুদ্ধ, উগ্ৰবাদ, লেবৰ ডিচপিউট, তৃতীয় পক্ষৰ দ্বাৰা প্ৰদান কৰা বস্তু বা সেৱা বা Samsungৰ কাৰণ বশত নিয়ন্ত্ৰণৰ বাবে Samsung কোনো কাৰণতে দায়বদ্ধ নহ’ব৷"</string>
+    <string name="shm_share_my_location_checkbox_text">মই মোৰ %2$s সম্পৰ্কসমূহৰ সৈতে মোৰ অৱস্থান ভাগ-বতৰা কৰিবলৈ %1$s অনুমতি দিবলৈ সন্মত হৈছো৷</string>
+    <string name="smartrelay_not_show">পুনৰাই নেদেখুৱাব</string>
+    <string name="software_update">চফ্টৱেৰ আপডেট</string>
+    <string name="ss_double_tap_any_screen">উজ্জ্বলতা আৰু ভলিউম নিয়ন্ত্ৰণসমূহ আৰু অন্য দৰকাৰী তথ্য দৰ্শন কৰিবলৈ দুটা আঙুলিৰে যিকোনো স্ক্ৰীণত দুবাৰ টিপক৷</string>
+    <string name="ss_forwarding_calls_to_gear_header">আপোনাৰ গীয়েৰলৈ কলসমূহ অগ্ৰসৰ কৰি আছে</string>
+    <string name="ss_forwarding_calls_to_gear_progress">অনুৰোধ কৰি আছে…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ছেটিংছ পঢ়ি আছে…</string>
+    <string name="ss_loading_ing_abb">লোড হৈ আছে…</string>
+    <string name="ss_mobile_data_is_disabled">"ম'বাইল ডাটা অক্ষম হৈছে। ইয়াৰ পৰিৱৰ্তে WLAN-ত সংযোগ কৰক বা ম'বাইল ডাটা সক্ষম কৰক আৰু পুনঃচেষ্টা কৰক।"</string>
+    <string name="ss_mobile_data_is_disabled2">"ম'বাইল ডাটা অক্ষম কৰা হৈছে৷ তাৎক্ষণিকভাৱে Wi-Fi নেটৱৰ্কলৈ সংযোগ কৰক বা ম'বাইল ডাটা সক্ষম কৰক আৰু পুনৰ চেষ্টা কৰক৷"</string>
+    <string name="ss_no_network_connection">নেটৱৰ্ক সংযোগ নাই</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ব্যৱহাৰকাৰীৰ হাতপুথি</string>
+    <string name="str_no">নহয় ধন্যবাদ</string>
+    <string name="str_yes">হয়</string>
+    <string name="stub_list_install">ইনষ্টল</string>
+    <string name="sw_eula_condition">মই ওপৰোক্ত চৰ্ত আৰু নিয়মসমূহ বুজি পাইছো আৰু সন্মত হৈছো।</string>
+    <string name="sw_eula_desc2">"আপোনাৰ ডিভাইচৰ ক্ষেত্ৰত দেখা পোৱা যিকোনো প্ৰকাৰৰ চফ্টৱেৰ আপডেট বিফলতাৰ ত্ৰুটি ল'গ চেমচাংক প্ৰদান কৰিবৰ বাবে আপুনি সন্মত হৈছে৷ ই চেমচাংক বিশেষকৈ চেমচাংৰ চফ্টৱেৰ আপডেট প্ৰক্ৰিয়া উন্নত কৰাত আৰু বৃদ্ধি কৰাত সহায় কৰিব আৰু মূলত ই আপোনাৰ ডিভাইচ সঠিকভাৱে আপডেট হৈ থকাত সহায় কৰিব।"</string>
+    <string name="tab_stub_list">গঢ় দিয়া</string>
+    <string name="talkback_download">ডাউনলোড</string>
+    <string name="talkback_setting">ছেটিং</string>
+    <string name="the_samsung_gear_application">Samsung Gear এপ্লিকেশ্বন</string>
+    <string name="threeg_connection">দূৰবৰ্তী সংযোগ ব্যৱহাৰ কৰক</string>
+    <string name="threeg_connection_subtitle">"আপোনাৰ Samsung Account-ৰ সৈতে ম'বাইল ডাটা বা Wi-Fi একেলগে ব্যৱহাৰ কৰি আপোনাৰ গীয়েৰলৈ ৰিম'টভাৱে সংযোগ কৰক৷"</string>
+    <string name="threeg_connection_subtitle_chn">"আপোনাৰ Samsung account-ৰ সৈতে ম'বাইল ডাটা বা WLAN একেলগে ব্যৱহাৰ কৰি আপোনাৰ গীয়েৰত দূৰৱৰ্তীভাৱে সংযোগ কৰক।"</string>
+    <string name="title_activity_clock_delete">আনইনষ্টল কৰক</string>
+    <string name="title_activity_connect_popup">সংযোগ কৰক</string>
+    <string name="title_activity_paired_watch">যোৰ কৰা ডিভাইচ</string>
+    <string name="title_alertdialog_device_name_popup">%s-ক পুনঃনাম কৰক</string>
+    <string name="title_alertdialog_disconnect_popup">সংযোগহীন কৰক</string>
+    <string name="title_dialog_pm_error">সকিয়নী</string>
+    <string name="title_dialog_uninstall">আনইনষ্টল</string>
+    <string name="title_eula">আইনী জাননী</string>
+    <string name="title_findmywatch_connect2">মোৰ গীয়েৰটো বিচাৰক</string>
+    <string name="title_findmywatch_finding">অনুসন্ধানৰত…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s-ৰ পৰা %2$s-লৈ সংযোগ কৰক</string>
+    <string name="tri_connect_warning_temporal_disconnect">"ব্লুটুথ হৈ আপোনাৰ %2$s-লৈ আপোনাৰ %1$s সংযোগ কৰিলে আপোনাৰ ম'বাইল ডিভাইচৰ পৰা আপোনাৰ %3$s অস্থায়ীভাৱে সংযোগহীন হ'ব৷ এই সংযোগ সোনকালে পুনৰাৰম্ভ হ'ব আৰু আপোনাৰ %4$s আপোনাৰ %5$s আৰু আপোনাৰ ম'বাইল ডিভাইচ দুয়োটাতে সংযোগ কৰা হ'ব৷"</string>
+    <string name="tt_install_voice_data">TTS মাত ডাটা ইনষ্টল কৰক</string>
+    <string name="tt_install_voice_data_required">আপোনাৰ গীয়েৰত অতিৰিক্ত পাঠৰ-পৰা-কথন ভাষাসমূহ ইনষ্টল কৰক৷</string>
+    <string name="tt_language">ভাষা</string>
+    <string name="tt_send_help_message">সহায়তা মেচেজ প্ৰেৰণ কৰক</string>
+    <string name="tt_tts_language_guide">"আপুনি আপোনাৰ গীয়েৰ ছেটিংছত ছেট কৰা ভাষাই হ'ল আপোনাৰ পাঠৰ-পৰা-কথন ভাষা৷ যদি আপোনাৰ ভাষাটো পাঠৰ-পৰা-কথন ইঞ্জিনে সমৰ্থন নকৰে, ইংৰাজী (সংযুক্ত যুক্তৰাষ্ট্ৰ) ব্যৱহাৰ কৰিব পাৰে৷"</string>
+    <string name="unable_to_connect_popup_message">"আপোনাৰ ম'বাইল ডিভাইচলৈ আপোনাৰ গীয়েৰ সংযোগ কৰাত বিফল হৈছে৷ পুনঃচেষ্টা কৰক৷"</string>
+    <string name="unable_to_connect_popup_title">সংযোগ বিফল হৈছে</string>
+    <string name="unable_to_lock_gear">গীয়েৰ লক কৰিবলৈ অক্ষম</string>
+    <string name="unable_to_reset_gear">গীয়েৰ পুনঃছেট কৰিবলৈ অক্ষম</string>
+    <string name="unabled_health">এই এপ্লিকেশ্বনটো খুলিবলৈ অক্ষম কাৰণ ইয়াক অক্ষম কৰা হৈছে৷</string>
+    <string name="uninstall_applications">এপ্লিকেশ্বন আনইনষ্টল কৰক</string>
+    <string name="unknown_sources_msg_new">"%1$s-ক %2$s হৈ ইনষ্টল কৰা নহ'ব৷ অজ্ঞাত উৎসসমূহৰ পৰা অহা এপ্লিকেশ্বনসমূহে আপোনাৰ ডিভাইচ আৰু ব্যক্তিগত ডাটাক আক্ৰমণ কৰাৰ ক্ষেত্ৰত অধিক সংবেদনশীল৷ এনেধৰণৰ এপ্লিকেশ্বনসমূহ ব্যৱহাৰৰ পৰা আপোনাৰ ডিভাইচৰ যিকোনো ক্ষতি বা আপোনাৰ ডাটা হেৰুৱা ক্ষেত্ৰত আপুনি যে সম্পূৰ্ণৰূপে দায়বদ্ধ, সেই ক্ষেত্ৰত আপুনি সহমত৷ অজ্ঞাত উৎসসমূহৰ পৰা এপ্লিকেশ্বনসমূহ ইনষ্টল কৰিবলৈ, সদায়ে %3$s > %4$s > %5$s লৈ যাওক আৰু %6$s সক্ষম কৰক৷ %7$s ইনষ্টল কৰিবলৈ “ঠিক” টিপক৷"</string>
+    <string name="unknown_sources_msg_new_vulnerable">"%1$s %2$s-ৰ পৰা নহয় আৰু ই আপোনাৰ গীয়েৰৰ বাবে এটা এপ অন্তৰ্ভুক্ত নকৰে। আপোনাৰ ডিভাইচ আৰু ডাটা অজ্ঞাত উৎসৰ পৰা এপ্প্‌চৰ দ্বাৰা আক্ৰমণ কৰিবলৈ অধিক যোগ্য। ইনষ্টলেশ্বন বাতিল কৰা হ'ব আৰু %3$s-ক আপোনাৰ ফোনৰ পৰা বিলোপ কৰা হ'ব।"</string>
+    <string name="unknown_sources_title">অজ্ঞাত উৎস</string>
+    <string name="update_button">আপডেট কৰক</string>
+    <string name="update_summary">আপডেটৰ বাবে পৰীক্ষা কৰক</string>
+    <string name="update_the_latest_version">আপডেট উপলব্ধ</string>
+    <string name="voice_control_subtitle">কলসমূহৰ উত্তৰ দিবলৈ বা নাকচ কৰিবলৈ আপোনাৰ গীয়েৰ ৰিং বা ভাইব্ৰেট হৈ নথকা সময়ত বিৰতিসমূহৰ সময়ত “Answer” বা “Reject” বুলি কওক।</string>
+    <string name="voicememo_link2">Samsung Privacy Policy</string>
+    <string name="watchapp_all">এপ্প্‌চ</string>
+    <string name="watchapp_noapps">কোনো এপ্লিকেশ্বন নাই</string>
+    <string name="welcome_Gear">গীয়েৰ</string>
+    <string name="welcome_samsung">চেমচাং</string>
+    <string name="widget_bt">ব্লুটুথ</string>
+    <string name="widget_fmw_refresh">সতেজকৰণ…</string>
+    <string name="wifi_only">কেৱল Wi-Fi</string>
+    <string name="wifi_only_chn">কেৱল WLAN</string>
+    <string name="wifi_only_summary">Wi-Fi নেটৱৰ্কলৈ সংযোগ হোৱাৰ সময়ত কেৱল আপডেটসমূহ ডাউনলোড কৰক৷</string>
+    <string name="wifi_only_summary_chn">WLAN হৈ সংযোগ হোৱাৰ পিছত কেৱল ডাউনলোডযোগ্য।</string>
+    <string name="email_sanitize">"এই ইমেইলৰ সমল সুৰক্ষা ব্যৱস্থাৰ কাৰণে গীয়েৰত প্ৰদৰ্শন কৰিব নোৱাৰে৷ বিশদ বিৱৰণৰ কাৰণে, আপোনাৰ ম'বাইল ডিভাইচত এই ইমেইল দৰ্শন কৰক৷"</string>
+    <string name="knox_sanitize">"KNOX ম'ড প্ৰৱিষ্ট কৰিবলৈ ইয়াত টিপক৷"</string>
+</resources>

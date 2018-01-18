@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="6.0dip" android:paddingBottom="6.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/manager_winset_1_line_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@xml/xml_listitem_selector" android:focusable="true" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <FrameLayout android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/app_icon" android:background="@drawable/apps_icon_bg_3rdparty" android:layout_width="@dimen/myapps_list_icon_area_size" android:layout_height="@dimen/myapps_list_icon_area_size" android:layout_marginLeft="@dimen/myapps_list_icon_area_left_margin">
+            <ImageView android:layout_gravity="center" android:id="@id/watchapp_icon" android:layout_width="@dimen/myapps_list_icon_area_size" android:layout_height="@dimen/myapps_list_icon_area_size" />
+            <ImageView android:layout_gravity="center" android:id="@id/watchapp_icon_downloaded" android:visibility="gone" android:layout_width="@dimen/myapps_list_icon_size" android:layout_height="@dimen/myapps_list_icon_size" />
+        </FrameLayout>
+        <TextView android:ellipsize="end" android:gravity="left" android:layout_gravity="center_vertical" android:id="@id/watchapp_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/myapps_list_icon_text_left_margin" android:layout_marginRight="@dimen/myapps_list_icon_text_right_margin" style="@style/TextView_ListDescFirstLine" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/settingLayout" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="true" android:layout_width="@dimen/myapps_list_setting_icon_area_size" android:layout_height="fill_parent" android:contentDescription="@string/menu_settings">
+        <ImageView android:background="@drawable/b2_vertical_line_divider" android:layout_width="1.0dip" android:layout_height="@dimen/myapps_list_divider_icon_size" android:layout_centerVertical="true" />
+        <ImageView android:layout_width="@dimen/myapps_list_setting_icon_width" android:layout_height="@dimen/myapps_list_setting_icon_height" android:layout_marginLeft="@dimen/myapps_list_setting_icon_text_left_margin" android:layout_marginRight="@dimen/myapps_list_setting_icon_text_right_margin" android:src="@drawable/apps_setting_icon" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <View android:focusable="true" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+</LinearLayout>

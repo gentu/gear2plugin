@@ -1,0 +1,8 @@
+Teclado Samsung y uso de un servicio de reconocimiento de voz
+1. El servicio Teclado Samsung utiliza tecnología de reconocimiento de voz como un componente del servicio. Usted reconoce que Samsung puede utilizar un servicio de reconocimiento de voz (el “Servicio de reconocimiento de voz”) de un tercero, Nuance Communications Inc. (“Nuance”), y reconoce y acepta lo siguiente en relación con el uso que haga del servicio Teclado Samsung.
+2. Acepta no enviar ninguna solicitud automatizada o grabada al servicio Teclado Samsung. 
+3. Acepta que las palabras que dicte al servicio Teclado Samsung (incluidos grabaciones de audio de esas palabras, transcripciones asociadas y archivos de registro) (“Datos de voz”) serán recopiladas por Nuance al proporcionar el Servicio de reconocimiento de voz.
+4. Consiente y acepta que, al proporcionar el Servicio de reconocimiento de voz, Nuance puede recopilar Datos de voz que tanto Nuance como sus terceros asociados pueden utilizar para ajustar, mejorar y perfeccionar (a) el Servicio de reconocimiento de voz y (b) otros productos y servicios de Nuance. 
+5. Reconoce y acepta que sus Datos de voz se pueden transferir a los Estados Unidos u otros países para su almacenamiento, procesamiento y uso por parte de Nuance y sus terceros asociados.
+6. Todos y cada uno de los Datos de voz que proporcione seguirán siendo confidenciales y se usarán de acuerdo a lo estipulado en la legislación aplicable, pero Nuance podría tener que revelarlos, en caso necesario, para cumplir con determinadas exigencias legales o reglamentarias, como una orden judicial o una agencia gubernamental, si así lo pidiese o lo autorizase la ley o un tercero que adquiriese o se fusionara con Nuance.
+

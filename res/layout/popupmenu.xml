@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/popmenu" android:background="@drawable/tw_menu_ab_dropdown_panel_holo_light" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/popup_menu_item_text_size" android:textColor="@color/normal_text_color" android:ellipsize="marquee" android:gravity="center_vertical" android:id="@id/menu_item1" android:background="@xml/xml_listitem_selector" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="53.0dip" android:minWidth="168.0dip" android:text="@string/popupmenu_search_for_new_device" android:singleLine="true" android:fontFamily="secrobotolight-regular" />
+</LinearLayout>

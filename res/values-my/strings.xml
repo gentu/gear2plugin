@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">ဖုန္းေခၚဆိုေနစဥ္ မရႏိုင္ပါ။</string>
+    <string name="actionbar_name">ဂီယာ မန္ေနဂ်ာ</string>
+    <string name="alert_full_screen">ဖန္သားျပင္ျပည့္ ေပါ့-အပ္</string>
+    <string name="alert_mini">ေပါ့-အပ္ အေသးစား</string>
+    <string name="alertdialog_backkey_popup_content">သတိေပးခ်က္</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ဤအရာက %s ႏွင့္ ခ်ိတ္ဆက္မႈကို ျဖဳတ္လိမ့္မည္။</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">သင့္ %s ကုိ မုိဘုိင္းကိရိယာမွ ခ်ိတ္ဆက္မႈ ျဖဳတ္လိမ့္မည္။ ဤကိရိယာမ်ားသုိ႔ သင္ေနာက္တစ္ၾကိမ္ ခ်ိတ္ဆက္သည့္အခါ ဘလူးတုသ္ကုိ သံုးရမည္။ ၿပီးေနာက္ ခ်ိတ္ဆက္မႈအားလံုးကုိ Remote ခ်ိတ္ဆက္မႈမွ တဆင့္ ျပဳလုပ္ႏုိင္သည္။</string>
+    <string name="alertdialog_uninstall_popup_content">တပ္ဆင္ထားမႈကုိ ျဖဳတ္ပါ</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">အလိုအေလ်ာက္ ေခၚဆိုမႈ ဆက္ပို႔ျခင္း</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">သင္ Gear ကို သင့္မိုဘိုင္းကိရိယာမွ ျဖဳတ္ထားစဥ္မွာ အလိုအေလွ်ာက္ ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ဖြင့္ပါ။ ဤအရာသည္ ကိရိယာမ်ားကို ခ်ိတ္ဆက္မိသည္အထိ သင့္မိုဘိုင္းကိရိယာမွ အဝင္ဖုန္းမ်ားကို သင့္ Gear ထံသို႔ လက္ဆင့္ကမ္းပို႔ေပးလိမ့္မည္။</string>
+    <string name="auto_update">အလုိအေလ်ာက္ အပ္ဒိတ္</string>
+    <string name="auto_update_summary">အပ္ဒိတ္အတြက္ အလိုအေလ်ာက္ စစ္ေဆးပါ။</string>
+    <string name="backing_up">ဘက္အာပ္ လုပ္ေန…</string>
+    <string name="backup_complete">အရန္သိမ္းဆည္း ၿပီးျပီ။</string>
+    <string name="bnr_backup">ဘက္အာပ္ လုပ္ေန…</string>
+    <string name="bnr_bakcup_title">အရန္</string>
+    <string name="bnr_cancel">ပယ္ဖ်က္ပါ</string>
+    <string name="bnr_canel">ပယ္ဖ်က္ပါ</string>
+    <string name="bnr_except">%1$s (%2$s မွ တပါး)</string>
+    <string name="bnr_except_autolock">အလိုလို ေသာ့</string>
+    <string name="bnr_except_remoteconnection">အေဝး ခ်ိတ္ဆက္မႈ</string>
+    <string name="bnr_except_texttemplate">စာသား ပုံစံမ်ား</string>
+    <string name="bnr_no">မဟုတ္ပါ</string>
+    <string name="bnr_ok">အုိေက</string>
+    <string name="bnr_reset_gear">ကိရိယာသစ္တစ္ခုသို႔ ခ်ိတ္ဆက္ရန္ ဂီယာကို ၎၏စက္ရံု ဆက္တင္မ်ားအတိုင္း ျပန္စီစဥ္မည္။</string>
+    <string name="bnr_reset_gear_move_setupwizard">ဂီယာကို အျပည့္အဝ ဆက္တပ္ လုပ္မထားပါ။ ဂီယာေပၚမွာ ဆက္တပ္ ဝိဇၨာအား လက္ရွိဖြင့္ထားသည္၊ သို႔ေသာ္ ဂီယာသို႔ဆက္ရန္၊ ဂီယာမန္ေနဂ်ာထဲမွ ဆက္တပ္ ဝိဇၨာကို ဤကိရိယာေပၚမွာလည္း ဖြင့္ရန္လိုအပ္သည္ါ္။</string>
+    <string name="bnr_reset_initialization">သတိျပဳရန္</string>
+    <string name="bnr_restored">ေဒတာ ျပန္ထားၿပီးပါၿပီ။</string>
+    <string name="bnr_yes">ဟုတ္ကဲ့</string>
+    <string name="bt_connected">ခ်ိတ္ဆက္ေနပါသည္</string>
+    <string name="bt_disconnected">ဆက္သြယ္ထားမႈကို ျဖတ္ေတာက္ၿပီးပါၿပီ</string>
+    <string name="bt_unpaired">တြဲမထားပါ</string>
+    <string name="button_restore">ျပန္ေဖၚထုတ္</string>
+    <string name="call">ဖုန္းေခၚမႈ</string>
+    <string name="call_check_gear_status_when_cfwd">ဖုန္းေခၚဆုိမႈ ထပ္ဆင့္ပုိ႔ လုပ္ေဆာင္ခ်က္မ်ား မုိဘုိင္းမွ Gear သုိ႔ႏွင့္ Gear မွမုိဘုိင္းသုိ႔ကုိ တျပိဳင္တည္း မဖြင့္ႏုိင္ပါ။</string>
+    <string name="call_dualsim1">SIM ကတ္ ၁</string>
+    <string name="call_dualsim1sim2">SIM ကတ္ ႏွစ္ခုစလံုး</string>
+    <string name="call_dualsim2">SIM ကတ္ ၂</string>
+    <string name="call_forwarding">ဖုန္းေခၚဆုိမႈမ်ားကုိ လက္ဆင့္ကမ္းေပးပုိ႔ေနပါသည္</string>
+    <string name="call_forwarding_agree">ကၽြႏ္ုပ္ သေဘာတူသည္။</string>
+    <string name="call_forwarding_desc">သင့္မိုဘိုင္းကိရိယာမွ အဝင္ဖုန္းမ်ားကို သင္႔ Gear သို႔ လက္ဆင့္ကမ္းေပးပို႔ပါ။</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">သင့္ မုိဘုိင္း ကိရိယာမွ Gear သုိ႔ ဖုန္း ထပ္ဆင့္ပုိ႔ျခင္းကုိ ပိတ္ရန္ ေတာင္းဆုိထားပါသည္။ သင့္မုိဘုိင္း ကြန္ယက္ႏွင့္ မုိဘုိင္း ကိရိယာ၏ အေျခအေနသည္ ရလဒ္မ်ားကုိ ထိခုိက္ႏုိင္သည္။</string>
+    <string name="call_forwarding_enable_msg">သင့္ မုိဘုိင္း ကိရိယာမွ Gear သုိ႔ ဖုန္း ထပ္ဆင့္ပုိ႔ျခင္းကုိ ဖြင့္ရန္ ေတာင္းဆုိထားပါသည္။ သင့္မုိဘုိင္း ကြန္ယက္ႏွင့္ မုိဘုိင္း ကိရိယာ၏ အေျခအေနသည္ ရလဒ္မ်ားကုိ ထိခုိက္ႏုိင္သည္။</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">သင့္မိုဘိုင္းကိရိယာမွ သင့္ Gear သို႔ ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ေလာေလာဆယ္ ပိတ္ထားပါသည္။ သင့္မိုဘိုင္းကိရိယာ၏ အဝင္ဖုန္းမ်ားကို သင့္ Gear သို႔ လက္ဆင့္ကမ္းေပးပို႔ပါမည္။ အကယ္၍ သင့္ Gear က သင္ႏွင့္အတူ မရွိလွ်င္၊ ေခၚဖုန္း လြဲသြားျခင္းမ်ိဳး မျဖစ္ေစေအာင္ ေသခ်ာေစဖို႔အတြက္ သတ္မွတ္ခ်က္မ်ားသို႔ သြားၿပီး အလိုအေလ်ာက္ ေခၚဖုန္းမ်ား လက္ဆင့္ကမ္းေပးပို႔ပါကို ပိတ္ပါ။</string>
+    <string name="call_forwarding_turning_off_notify_msg">ဗီဒီယိုေခၚဆိုမႈ မရေအာင္ တဆင့္ကမ္းေနသည္…</string>
+    <string name="call_forwarding_turning_on_notify_msg">ဗီဒီယိုေခၚဆိုမႈ ရေအာင္ တဆင့္ကမ္းေနသည္…</string>
+    <string name="call_no_gear_number">နံပါတ္မ်ား မရွိ</string>
+    <string name="call_select_dualsim_title">SIM ကတ္ ေရြးပါ</string>
+    <string name="call_voice_control">အသံ အထိန္း</string>
+    <string name="callforwarding_help_des1">သင့္ကိရိယာမ်ားကို ဘလူးတုသ္ (သို႕) Remote ခ်ိတ္ဆက္မႈမွတဆင့္ ခ်ိတ္ဆက္ထားသည့္အေပၚ မူတည္ေနေသာ ေခၚဆိုမႈတို႕ကို အလိုအေလ်ာက္ လက္ဆင့္ကမ္းေပးသြားမည့္ ကိရိယာကို ကူးေျပာင္းပါ။</string>
+    <string name="callforwarding_help_des2">သင့္အေနျဖင့္ ေရြ႕လ်ားေနၿပီး Gear တပ္ဆင္ထားကာ ၄င္းကို မိုဘိုင္း ကိရိယာသို႕ အေဝးထိမ္း ခ်ိတ္ဆက္ထားစဥ္ သင့္ Gear သို႕ ေခၚဆိုမႈမ်ားကို မိုဘိုင္း ကိရိယာမွ လက္ခံရန္ ျပဳလုပ္ပါ။</string>
+    <string name="cancel">ပယ္ဖ်က္ပါ</string>
+    <string name="cf_activated">အသက္သြင္းၿပီးပါၿပီ</string>
+    <string name="cf_deactivate_failed">ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ပိတ္ရန္ မေအာင္ျမင္ပါ။</string>
+    <string name="cf_deactivated">အသက္ဝင္မႈကို ရပ္ၿပီးပါၿပီ</string>
+    <string name="clocks_download_more_clocks">ေနာက္ထပ္ နာရီမ်ားကုိ ေဒါင္းလုပ္ လုပ္ပါ</string>
+    <string name="clocks_noti_uninstall_clock">%s ကို ေနရာခ်ထားမႈမွဖယ္ပစ္ပါ။</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s တပ္ဆင္မႈျဖဳတ္ၿပီး %2$s ကို မူလနာရီအျဖစ္ သတ္မွတ္မည္။</string>
+    <string name="clocks_title_basic_clocks">အေျခခံ နာရီမ်ား</string>
+    <string name="clocks_title_downloaded_clocks">ေဒါင္းလုတ္လုပ္ထားေသာ နာရီမ်ား</string>
+    <string name="clocks_title_style_clocks">စတိုင္ နာရီမ်ား</string>
+    <string name="clocks_uninstalled">ဖယ္ထုတ္ၿပီး</string>
+    <string name="clocks_uninstalling">ဖယ္ထုတ္ပစ္ေနပါသည္</string>
+    <string name="close">ပိတ္ပါ</string>
+    <string name="closing_samsung_gear_message">သင့္ Gear ကို ျပန္သတ္မွတ္ခဲ့ၿပီးၿပီ။ Samsung Gear အပလီေကးရွင္းက မၾကာမီမွာ ပိတ္ပါလိမ့္မည္။</string>
+    <string name="closing_samsung_gear_title">Samsung Gear အပလီေကးရွင္းကို ပိတ္ပါ</string>
+    <string name="cloud_backup_no_information">ဘယ္ေတာ့မွ</string>
+    <string name="cloud_backup_restore_backup_now">ေဒတာ အရန္သိမ္းပါ</string>
+    <string name="cloud_backup_restore_restore_now">ေဒတာ ျပန္ထားပါ</string>
+    <string name="cmw_agree">သေဘာတူသည္</string>
+    <string name="cmw_eula_agree">အထက္ပါအားလံုးကို နားလည္ၿပီး သေဘာတူပါသည္။</string>
+    <string name="cmw_for_setting">တည္ေနရာ ဝန္ေဆာင္မႈမ်ား ပိတ္ထားသည္။ ဆက္တင္မ်ားသို႔ သြားပါ။</string>
+    <string name="cmw_high_accuracy_dialog_message">အျမန္ဆံုးႏွင့္ အတိက်ဆံုး တည္ေနရာ ရွာေတြ႔ျခင္းအတြက္ တည္ေနရာ > အေနအထား ထဲတြင္ အဆင့္ျမင့္ တိက်မႈ ေရြးပါ။</string>
+    <string name="cmw_high_accuracy_dialog_title">အဆင့္ျမင့္ တိက်မႈ ေရြးပါ</string>
+    <string name="cmw_legal_content">“တည္ေနရာ မွ်ေ၀ျခင္း” ကို ဖြင့္ျခင္းျဖင့္၊ သင္အေနႏွင့္ သင္၏ မိုဘိုင္းဖုန္း (သို႔) Gear ကိရိယာ (သို႔) ၎တို႔ ႏွစ္ခုစလုံးျဖင့္ ဆက္စပ္ေနေသာ တည္ေနရာ အခ်က္အလက္ကို ကၽြႏု္ပ္၏ Gear ကိုရွာျခင္းႏွင့္ ကၽြႏု္ပ္၏ ကိရိယာ ၀န္ေဆာင္မႈတို႔အား ရွာျခင္းတို႔အတြက္ စီစဥ္ေပးရန္အလို႔ငွာ Samsung server ဆာဗာမွ တဆင့္ ေပးပို႔ရန္ လက္ခံပါသည္။ သင့္ကိရိယာ တည္ေနရာႏွင့္ ပတ္သက္ေသာ မည္သည့္ ေဒတာ (သို႔) အခ်က္အလက္ကိုမွ Samsung server ေပၚ၌ သိုေလွာင္ထားျခင္း မရွိပါ။</string>
+    <string name="cmw_legal_content1">\"%1$s ႏွင့္ %2$s\" ကို ဖြင့္ျခင္းျဖင့္၊ သင္အေနႏွင့္ သင္၏ မိုဘိုင္းဖုန္း (သို႔) Gear ကိရိယာ (သို႔) ၎တို႔ ႏွစ္ခုစလုံးျဖင့္ ဆက္စပ္ေနေသာ တည္ေနရာ အခ်က္အလက္ကို %1$s ႏွင့္ %2$s ၀န္ေဆာင္မႈအတြက္ စီစဥ္ေပးရန္အလို႔ငွာ Samsung server ဆာဗာမွ တဆင့္ ေပးပို႔ရန္ လက္ခံပါသည္။ သင့္ကိရိယာ တည္ေနရာႏွင့္ ပတ္သက္ေသာ မည္သည့္ ေဒတာ (သို႔) အခ်က္အလက္ကိုမွ Samsung server ေပၚ၌ သိုေလွာင္ထားျခင္း မရွိပါ။</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s ႏွင့္ %2$s\" ကို ဖြင့္ျခင္းျဖင့္၊ သင္အေနႏွင့္ သင္၏ မိုဘိုင္းဖုန္း (သို႔) Gear ကိရိယာ (သို႔) ၎တို႔ ႏွစ္ခုစလုံးျဖင့္ ဆက္စပ္ေနေသာ တည္ေနရာ အခ်က္အလက္ကို %2$s ၀န္ေဆာင္မႈအတြက္ စီစဥ္ေပးရန္အလို႔ငွာ Samsung server ဆာဗာမွ တဆင့္ ေပးပို႔ရန္ လက္ခံပါသည္။ သင့္ကိရိယာ တည္ေနရာႏွင့္ ပတ္သက္ေသာ မည္သည့္ ေဒတာ (သို႔) အခ်က္အလက္ကိုမွ Samsung server ေပၚ၌ သိုေလွာင္ထားျခင္း မရွိပါ။</string>
+    <string name="cmw_legal_content_2">Samsung Privacy Policy</string>
+    <string name="cmw_legal_title">ဥပေဒ အသိေပးခ်က္မ်ား</string>
+    <string name="cmw_location">တည္ေနရာ ဝန္ေဆာင္မႈမ်ား ရေစပါ</string>
+    <string name="cmw_show_on_map">ေျမပံုေပၚတြင္ ျပပါ</string>
+    <string name="color_black">အနက္</string>
+    <string name="color_blue">အျပာ</string>
+    <string name="color_brown">အညိဳေရာင္</string>
+    <string name="color_gray">မီးခုိး</string>
+    <string name="color_green">အစိမ္း</string>
+    <string name="color_light_sky_blue">ေကာင္းကင္ျပာႏုေရာင္</string>
+    <string name="color_medium_purple">ခရမ္းေရာင္အလတ္စား</string>
+    <string name="color_orange">လိေမၼာ္ေရာင္</string>
+    <string name="color_pink">ပန္းေရာင္</string>
+    <string name="color_purple">ခရမ္း</string>
+    <string name="color_red">အနီ</string>
+    <string name="color_spring_green">စိမ္းႏုေရာင္</string>
+    <string name="common_none">မရွိ</string>
+    <string name="common_off">ပိတ္</string>
+    <string name="common_on">ဖြင့္</string>
+    <string name="common_recent_apps">လတ္တေလာ အပ္မ်ား</string>
+    <string name="connect_popup_content">%သုိ႔ ခ်ိတ္ဆက္ေနပါသည္…</string>
+    <string name="connected_by_trasport_BT">ဘလူးတုသ္ မွတဆင့္ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="connected_by_trasport_SCS">အေဝးမွ ခ်ိတ္ဆက္ထားသည္</string>
+    <string name="connecting_popup_message">ဂီယာသို႔ ခ်ိတ္ဆက္ေနသည္…</string>
+    <string name="connecting_popup_title">ဂီယာသို႔ ခ်ိတ္ဆက္ပါ</string>
+    <string name="dialog_check_phone_number_msg1">ေအာက္ေဖာ္ျပပါ အခ်က္အလက္ မွန္ကန္ပါေစ :</string>
+    <string name="dialog_check_phone_number_msg2">မိုဘိုင္း ဖုန္း နံပါတ္ : %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear ဖုန္း နံပါတ္ : %s</string>
+    <string name="dialog_check_phone_number_msg4">အလိုအေလွ်က္ ဖုန္းေခၚမႈ ဆက္ပုိ႔ျခင္း ရႏိုင္ေစရန္ႏွင့္ အတည္ျပဳရန္ အိုေကကို ႏွိပ္ပါ။</string>
+    <string name="dialog_enable_remote_connection_desc">အလိုအေလွ်ာက္ ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ဖြင့္ရန္၊ Remote ခ်ိတ္ဆက္မႈကို ဖြင့္ျပီးေနာက္ ထပ္ႀကိဳးစားပါ။</string>
+    <string name="dialog_enable_remote_connection_title">Remote ခ်ိတ္ဆက္မႈကို ဖြင့္ပါ</string>
+    <string name="dialog_reverse_msg">သင့္မိုဘိုင္း ကိရိယာႏွင့္ Gear အား ဤလုပ္ေဆာင္ခ်က္ သံုးခြင့္ျပဳရန္ သင့္၏ ဝန္ေဆာင္မႈ ေပးသူအေပၚမူတည္၍ သီးျခား စာရင္းသြင္း မွာယူမႈမ်ား လိုအပ္ႏိုင္သည္။ ဤအရာသည္ ေနာက္ထပ္ ကုန္က်စရိတ္မ်ား က်သင့္ေစႏိုင္သည္။</string>
+    <string name="dialog_set_phone_number_msg">အလိုအေလ်ာက္ ေခၚဆိုမႈ ဆက္ပို႕ျခင္း ဖြင့္ရန္အတြက္ အဝင္ေခၚဆိုမႈမ်ား သင္ လက္ခံလို ဆက္ပို႕လိုသည့္ ကိရိယာမ်ား၏ ဖုန္း နံပါတ္မ်ား သတ္မွတ္ပါ။</string>
+    <string name="dialog_set_phone_number_title">အလိုအေလ်ာက္ ေခၚဆိုမႈ ဆက္ပို႔ျခင္းကို ဖြင့္ပါ</string>
+    <string name="disable_loc_text">ခြဲေ၀ေသာေနရာ ပိတ္ထားလိမ့္မည္။ ကၽြႏု္ပ္၏ Gear ကိုရွာပါ သို႔မဟုတ္ ကၽြႏု္ပ္၏ ကိရိယာကို ရွာပါ မွတဆင့္ သင့္ Gear သို႔မဟုတ္ မိုဘိုင္းကိရိယာအတြက္ ရွာေဖြရန္ တည္ေနရာအခ်က္အလက္ကို သံုးရန္မျဖစ္ႏုိင္ပါ။</string>
+    <string name="disable_loc_text_no_gps">မွ်ေ၀တည္ေနရာကို ပိတ္ပါလိမ့္မည္။ ကၽြႏု္ပ္ ကိရိယာကို ရွာပါ မွတဆင့္ သင့္မိုဘိုင္းကိရိယာကိုရွာရန္ တည္ေနရာသတင္းအခ်က္အလက္ သင္အသံုးျပဳႏိုင္မည္ မဟုတ္ပါ။</string>
+    <string name="disable_remote_connection">အေဝး ခ်ိတ္ဆက္ျခင္း အလုပ္မလုပ္ေစပါႏွင့္</string>
+    <string name="disable_remote_connection_fmm_fmd">ကၽြႏု္ပ္၏ Gear ကို ရွာပါႏွင့္ ကၽြႏု္ပ္၏ ကိရိယာကို ရွာပါ</string>
+    <string name="disable_remote_connection_receiving_blocked">မိုဘိုင္းကိရိယာမွ မက္ေဆ့ခ်္မ်ား၊ အီးေမးလ္မ်ား ႏွင့္၊ သတိေပးခ်က္မ်ားကို လက္ခံျခင္း</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">မိုဘိုင္းကိရိယာမွ အီးေမးလ္မ်ားႏွင့္ သတိေပးခ်က္မ်ားကို လက္ခံျခင္း</string>
+    <string name="disable_remote_connection_warning">Remote ခ်ိတ္ဆက္မႈကို ပိတ္ပါလိမ့္မည္။ သင္ Gear ကို သင့္မိုဘုိင္းကိရိယာသို႔ ဘလူးတုသ္မွ တဆင့္ ခ်ိတ္ဆက္သည့္အခ်ိန္ထိ ေအာက္ပါ လုပ္ေဆာင္ခ်က္မ်ားကို ရႏိုင္မည္ မဟုတ္ပါ :</string>
+    <string name="disable_share_location">တည္ေနရာ မွ်ေဝပါကို ပိတ္ပါ</string>
+    <string name="disconnect_popup_content">%s ကို ခ်ိတ္ဆက္ထားျခင္းမွ ျဖဳတ္ေနဆဲ…</string>
+    <string name="do_not_show_again">ထပ္မျပပါႏွင့္</string>
+    <string name="enable_auto_call_forwarding_msg">Gear ကို ျဖဳတ္ထားစဥ္မွာ သင့္မိုဘိုင္းကိရိယာမွ အဝင္ဖုန္းမ်ားကို သင့္ Gear သို႔ အလိုလို လက္ဆင့္ကမ္းေပးပို႔ပါ။ သင့္အတြက္ ဝန္ေဆာင္မႈ စီစဥ္ေပးသူအေပၚ မူတည္ၿပီး၊ ေနာက္ထပ္ အဖိုးအခမ်ား က်သင့္ေစႏိုင္ပါသည္။ အလိုအေလွ်က္ ဖုန္းေခၚမႈ ဆက္ပုိ႔ျခင္းကို ဖြင့္ရန္ အိုေက ႏွိပ္ပါ။</string>
+    <string name="enable_auto_call_forwarding_title">အလိုအေလွ်က္ ဖုန္းေခၚမႈ ဆက္ပုိ႔ျခင္းကို ဖြင့္ပါ</string>
+    <string name="enable_more_notifications_enable">စတင္လုပ္ေဆာင္ပါ</string>
+    <string name="enable_notification_access">အေၾကာင္းၾကားစာ ဝင္ၾကည္ခြင့္ကို ဖြင့္ျခင္း</string>
+    <string name="enable_notification_access_desc">"သင့္ထံသို႔ ပို႔လိုက္သည့္ အဆက္အသြယ္မ်ားႏွင့္ မက္ေဆ့ခ်္မ်ားကဲ့သို႔ ကိုယ္ေရး အခ်က္အလက္မ်ား ပါဝင္ေသာ သင္လက္ခံရရွိသည့္ အသိေပးခ်က္ အားလံုးကို ဤလုပ္ေဆာင္ခ်က္က ဖတ္ႏိုင္သည္။ ၄င္းသည္ ဤအသိေပးခ်က္မ်ားကုိ ျဖဳတ္ႏုိင္ (သုိ႔) ၄င္းတုိ႔ႏွင့္ ဆက္စပ္ေနေသာ လုပ္ေဆာင္ခ်က္မ်ားကုိ ေရြးႏုိင္လိမ့္မည္။
+သင့္ Gear တြင္ အသိေပးခ်က္မ်ား လက္ခံရန္ ဖြင့္ပါကုိ ႏွိပ္ၿပီး %s ကုိဖြင့္ပါ။"</string>
+    <string name="enable_share_location">တည္ေနရာ မွ်ေဝမည္ကုိ ဖြင့္ပါ</string>
+    <string name="enabled_loc">တည္ေနရာမွ်ေဝျခင္းကုိ ဖြင့္ထားသည္။</string>
+    <string name="error_enter_device_name">ကိရိယာ အမည္ ထည့္ပါ။</string>
+    <string name="error_occurred">အမွားေပၚေပါက္ေနပါသည္။</string>
+    <string name="find_my_device">ကၽြႏု္ပ္ကိရိယာကို ရွာပါ</string>
+    <string name="find_my_gear">ကၽြႏု္ပ္၏ Gear ကုိ ရွာပါ</string>
+    <string name="find_watch_btn_start">စတင္ပါ</string>
+    <string name="find_watch_btn_stop">ရပ္</string>
+    <string name="find_watch_off">သင့္ဂီယာ ရွာရန္ စတင္ပါကို ႏွိပ္ပါ။ ဂီယာက အသံတစ္ခု ျမည္ၿပီး ၎၏ ဖန္သားျပင္ ပြင့္လာလိမ့္မည္။</string>
+    <string name="find_watch_on">သင့္ဂီယာ ရွာျခင္း ရပ္ရန္ ရပ္ပါကို ႏွိပ္ပါ။ ဂီယာက ျမည္ေနေသာ အသံတစ္ခုကို ရပ္တန္႔လိမ့္မည္ ျဖစ္ၿပီး၊ ၎၏ ဖန္သားျပင္ ပိတ္သြားလိမ့္မည္။</string>
+    <string name="font_gear_name">ဂီယာ</string>
+    <string name="font_noti_uninstall_idle_font">%1$s ကိုျဖဳတ္ျပီး %2$s သို႔ မူရင္းေဖာင့္ကိုသက္ေရာက္ေစလိမ့္မည္။</string>
+    <string name="force_wifi_direct_msg">အပလီေကးရွင္းကို Wi-Fi Direct မွ တဆင့္ တပ္ဆင္ပါလိမ့္မည္။ ဤအရာသည္ သင့္လက္ရွိ Wi-Fi Direct ခ်ိတ္ဆက္မႈကုိ အဆံုးသတ္ေစလိမ့္မည္။ အကယ္၍ သင္သည္ တပ္ဆင္မႈကို ပယ္ဖ်က္ပါက၊ ၎ကို တပ္ဆင္ဖုိ႔အတြက္ ဤအပလီေကးရွင္းကို ထပ္မံ ေဒါင္းလုတ္လုပ္ရန္ လိုအပ္ပါလိမ့္မည္။</string>
+    <string name="force_wifi_direct_title">တပ္ဆင္ပါ</string>
+    <string name="force_wifi_install">တပ္ဆင္ပါ</string>
+    <string name="gear2_backup_confirm_text">သင့္ေဒတာကို ယၡဳ အရန္သိမ္းပါက မိုဘိုင္း ကိရိယာေပၚမွ လက္ရွိ ဂီယာ အရန္သိမ္း ေဒတာကို သင့္ ေနာက္ဆံုး ဂီယာ ေဒတာျဖင့္ အစားထိုးမည္။</string>
+    <string name="gear2_restore_confirm_text">သင့္ေဒတာကို ျပန္လည္ထားရွိပါက သင့္ဂီယာေပၚရွိ လက္ရွိ ေဒတာကို ဖ်က္ပစ္ၿပီး သင့္ လက္ရွိ ဂီယာ အရန္သိမ္း ေဒတာျဖင့္ အစားထိုးမည္။</string>
+    <string name="gear2_text">"သင့္ %1$s ပါဝင္မႈကို အရန္သိမ္းရန္ သင့္ကိရိယာ သိုေလွာင္ခန္းကို သံုးပါ :
+%2$s
+
+ဤပါဝင္မႈကို ယခင္က အရန္သိမ္းၿပီးျဖစ္ပါက ၎ကို %3$s သို႔ ယခု သြင္းယူႏိုင္သည္။
+
+ဖိုင္ဆိုက္အလိုက္ ၎သည္ အခ်ိန္ၾကာႏိုင္သည္။"</string>
+    <string name="gear2_text_import3">သတ္မွတ္ခ်က္မ်ား</string>
+    <string name="gear_bnr_desc">"ေအာက္ပါ %1$s ေဒတာကုိ အရန္သိမ္းရန္ သင္၏ မိုဘိုင္း ကိရိယာ သုိေလွာင္ခန္းကုိ အသံုးျပဳပါ : %2$s
+
+သင့္ %3$s ေဒတာကုိ ယခင္က အရန္သိမ္းခဲ့လွ်င္ သင့္ %4$s ထဲတြင္ ယခု ျပန္သိမ္းဆည္းႏုိင္ပါၿပီ။
+
+ဖိုင္မ်ား၏ အရြယ္အစားေပၚတြင္ မူတည္ၿပီး အခ်ိန္ အနည္းငယ္ ၾကာႏိုင္ပါသည္။"</string>
+    <string name="gear_location_popup_message">သင္၏ မိုဘိုင္းကိရိယာသည္ သင့္ Gear ကို ယခု စကင္ဖတ္ ရွာေနသည္။ ဤအရာသည္ မိနစ္မ်ားစြာ ၾကာလိမ့္မည္။ သင့္ Gear သည္ အခန္းထဲမွာရွိေနပါက ၎ကို ေနရာရွာရန္ ခက္မည္။</string>
+    <string name="gear_location_popup_title">Gear ကို ရွာျခင္း</string>
+    <string name="gear_location_text">ဂီယာ၏ တည္ေနရာ</string>
+    <string name="gear_lock_success">Gear ေသာ့ခတ္ထားသည္။</string>
+    <string name="gear_lock_text">Gear ေသာ့ပိတ္ပါ</string>
+    <string name="gear_locked">Gear ေသာ့ခတ္ထားသည္</string>
+    <string name="gear_locked_text1">Gear ေသာ့ခတ္ထားသည္။ ေသာ့ဖြင့္ရန္၊ ဘလူးတုသ္မွတဆင့္ မိုဘိုင္းကိရိယာသို ့Gear ခ်ိတ္ဆက္ပါ။</string>
+    <string name="gear_phone_number">Gear ဖုန္းနံပါတ္</string>
+    <string name="gear_phone_number_popup_desc">သင့္ မုိဘုိင္း ကိရိယာသုိ႔ ေခၚဆုိမႈအားလံုးကုိ %s ထံ ထပ္ဆင့္ပုိ႔လိမ့္မည္။</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">သင့္ Gear ကို ေသာ့ပိတ္ရန္၊ Remote ခ်ိတ္ဆက္မႈကို ဦးစြာ ဖြင့္ရမည္။</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">သင့္ Gear ကို ျပန္သတ္မွတ္ရန္၊ Remote ခ်ိတ္ဆက္မႈကို ဦးစြာ ဖြင့္ရမည္။</string>
+    <string name="gear_reset_text">Gear ျပန္သတ္မွတ္ပါ</string>
+    <string name="gear_to_mobile">Gear မွမုိဘုိင္းသုိ႔</string>
+    <string name="gear_to_mobile_des">ကိရိယာ ႏွစ္ခုတို႕အား ဘလူးတုသ္မွတဆင့္ ခ်ိတ္ဆက္ထားစဥ္ သင့္မိုဘိုင္း ကိရိယာမွ ေခၚဆိုမႈမ်ားကို သင့္ Gear မွလက္ခံရန္ ျပဳလုပ္သည္။</string>
+    <string name="gear_unable_to_locate_message">တည္ေနရာကို ရွာရန္ မေအာင္ျမင္ပါ။ ေနာက္မွ ထပ္ၾကိဳးစားပါ။</string>
+    <string name="gear_unable_to_locate_title">Gear ကုိ ေနရာမရွာႏုိင္ပါ</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">ေနာက္ခံပုံရိပ္မ်ား</string>
+    <string name="home_bg_color">အေရာင္မ်ား</string>
+    <string name="home_bg_colors_title">ရႏိုင္ေသာ အေရာင္မ်ား</string>
+    <string name="home_bg_delete_actionbar_selected">ေရြးခ်ယ္ၿပီး</string>
+    <string name="home_bg_delete_dialog_msg">နံရံကပ္စကၠဴမ်ား %d ခုကို Gear Manager ႏွင့္ သင့္ Gear မွ ဖယ္ရွားလိမ့္မည္။</string>
+    <string name="home_bg_delete_select_all">အားလုံးကုိ ေရြးပါ</string>
+    <string name="home_bg_max_more_image_toast">နံရံကပ္စကၠဴ အမ်ားဆံုး အေရအတြက္ (%d) သို႔ ေရာက္ေနၿပီ။</string>
+    <string name="home_bg_more_images">ေနာက္ထပ္ ပံုမ်ား</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear ေနာက္ခံျမင္ကြင္းမ်ားကုိ ေဒါင္းလုတ္လုပ္ေနသည္…</string>
+    <string name="home_bg_popup_wallpaper_title">ေနာက္ခံျမင္ကြင္းမ်ားကုိ ေဒါင္းလုတ္ လုပ္ပါ</string>
+    <string name="home_bg_toast_saved">သိမ္းၿပီးၿပီ</string>
+    <string name="home_bg_wallpaper">ေနာက္ခံပုံရိပ္</string>
+    <string name="home_bg_wallpapers_title">ရရွိႏုိင္ေသာ ေနာက္ခံျမင္ကြင္းမ်ား</string>
+    <string name="homelayout_apps">အပလီေကးရွင္းမ်ား</string>
+    <string name="incoming_calls_title">အဝင္ေခၚျခင္းမ်ား</string>
+    <string name="info_build_number">ေဆာ့၀ဲ ဗားရွင္း</string>
+    <string name="info_model_number">ေမာ္ဒယ္ နံပါတ္</string>
+    <string name="info_software_update">ေဆာ့ဝဲ အပ္ဒိတ္</string>
+    <string name="information_provision_agreement">သတင္းအခ်က္အလက္ ႀကိဳတင္ျပင္ဆင္စီမံထားျခင္း သေဘာတူညီမ</string>
+    <string name="information_provision_agreement_mgs">"အသံမီမိုသည္ Nuance Communications, Inc. ဟု ေခၚဆိုေသာ တတိယပါတီ ဝန္ေဆာင္မႈ ပံ့ပိုးေပးသူမွ ေထာက္ပံ့ေပးထားေသာ စကားေျပာမွတ္သားျခင္း နည္းပညာမ်ားကို အသုံးျပဳထားပါသည္။ ထုိ႔ေၾကာင့္ သင္၏အသံထြက္ သတင္းအခ်က္အလက္မ်ားကို Nuance (အေမရိကန္ျပည္ေထာင္စုမွ) လုပ္ေဆာင္ေပးထားေသာ ဆာဗာတစ္ခုထဲတြင္ ေသခ်ာစြာ သိမ္းဆည္းေပးထားပါသည္။ ထုိ႔အျပင္ အသံမီမိုအသုံးျပဳျခင္းတြင္ Nuance ၏ ေဝါဟာရမ်ားႏွင့္ အေျခအေနမ်ားကို သင္လက္ခံရန္လိုအပ္ပါသည္။
+ ဝန္ေဆာင္မႈႏွင့္ နည္းပညာမ်ား ဖြံ႕ၿဖိဳးတိုးတက္ေစရန္ ရည္ရြယ္၍ သင္၏ ထည့္သြင္းေပးေသာအသံကို အသုံးျပဳရန္ Nuance မွ အခြင့္အလမ္းမ်ားကို ေပးထားပါသည္။ Nuance ၏ တြဲဖက္မ်ားထဲသို႔ ေရွ႕တြင္ ေဖာ္ျပထားေသာ အသံထည့္သြင္းေပးမႈမ်ား ျပဳလုပ္ေပးရန္ အခြင့္အလမ္းမ်ားကိုလည္း Nuance မွ ေပးထားပါသည္။ သင္၏ထည့္သြင္းၿပီးေသာ သတင္းအခ်က္အလက္မ်ားကို ေရွ႕တြင္ ေဖာ္ျပထားေသာ ရည္ရြယ္ခ်က္မ်ား ၿပီးေျမာက္သည္အထိတိုင္ေအာင္ သိမ္းထားေပးမည္ျဖစ္ပါသည္။ အသံမီမို ဝန္ေဆာင္မႈမ်ား၏ သတင္းအခ်က္အလက္မ်ားတြင္ Samsung သီးသန္႔မူဝါဒ ႏွင့္ Nuance သီးသန္႔မူဝါဒတို႔ကို ေက်းဇူးျပဳ၍ ဖတ္ၾကည့္ပါ။
+ အထက္တြင္ေဖာ္ျပထားေသာ သင္၏သတင္းအခ်က္အလက္ ႀကိဳတင္ျပင္ဆင္စီမံခ်က္ကို သင္သေဘာမတူလွ်င္ အသံမီမိုကို အသုံးျပဳႏုိင္မည္မဟုတ္ပါ။"</string>
+    <string name="init_manage_notifications_desc">သင့္ %1$s တြင္ အသိေပးခ်က္မ်ား လက္ခံရယူလုိသည့္ အပလီေကးရွင္းမ်ားကုိ ေရြးပါ။ သင့္ %2$s ၏ ဘတၳရီပါဝါကုိ ေခြ်တာရန္ အသိေပးခ်က္ မရယူလုိသည့္ အပလီေကးရွင္းမ်ားကုိ ေရြးထားျခင္းမွ ျပန္ျဖဳတ္ပါ။</string>
+    <string name="install_in_progress">လုပ္ေနဆဲ…..</string>
+    <string name="latitude">လတၱီက်ဴဒ္</string>
+    <string name="limit_notification_desc">မိုဘိုင္းကိရိယာကို သုံးေနစဥ္မွာ Gear ေပၚ၌ သတိေပးခ်က္မ်ား ေပၚလာျခင္းမွ ပိတ္ဆီးပါ။</string>
+    <string name="limit_notification_dialog_desc">ဂီယာေပၚတြင္ အသိေပးခ်က္မ်ား ကန္႔သတ္ပါကို ရေအာင္လုပ္၍ မရႏိုင္ပါ။ သင့္မိုဘိုင္း ကိရိယာေပၚတြင္ ဖန္သားျပင္ ေသာ့ စီစဥ္မထားပါ။</string>
+    <string name="limit_notification_title">အေၾကာင္းၾကားစာကို ကန္႔သတ္ပါ</string>
+    <string name="location_info_title">တည္ေနရာကို မွ်ေဝပါ</string>
+    <string name="lock_gear_legal_text1">Gear ကုိေသာ့ခတ္ပါကုိသံုးၿပီး အခြင့္မရွိသံုးျခင္းမွ ကာကြယ္ရန္ သင့္ Gear ကုိ အေဝးမွ ေသာ့ခတ္ႏုိင္သည္။ မုိဘုိင္းကိရိယာသုိ႔ ျပန္ခ်ိတ္ဆက္ျခင္းျဖင့္ Gear ကုိ ေသာ့ဖြင့္ႏုိင္သည္။</string>
+    <string name="lock_gear_legal_text2">* သင့္ Gear၊ မုိဘုိင္းကိရိယာ (သုိ႔) ကြန္ယက္ပတ္ဝန္းက်င္၏ အေျခအေနေပၚမူတည္၍ Gear ေသာ့ခတ္ပါသည္ အလုပ္လုပ္ရန္ အခ်ိန္ၾကာႏုိင္သည္ (သုိ႔) မေအာင္ျမင္ႏုိင္ပါ။</string>
+    <string name="lock_gear_text">သင့္မိုဘိုင္းကိရိယာႏွင့္ Gear တို႔ကို ဘလူးတုသ္မွ တဆင့္ ခ်ိတ္ဆက္ေနစဥ္မွာ သင့္ Gear ကို ေသာ့ပိတ္လို႔ မရႏိုင္ပါ။</string>
+    <string name="login_to_samsung_account">Samsung account သို႔ ဆိုင္းအင္ လုပ္ပါ</string>
+    <string name="login_to_samsung_account_desc">သင့္ဂီယာေပၚမွာ အေဝး ခ်ိတ္ဆက္ျခင္း လုပ္ေစရန္၊ သင့္ Samsung account ကို ဆိုင္းအင္ လုပ္ပါ။</string>
+    <string name="login_to_samsung_account_full_desc">"ဘလူးတုမွတဆင့္ ခ်ိတ္ဆက္မထားသည့္အခါ ေအာက္ပါ အဂၤါရပ္မ်ားကို သံုးရန္ သင့္ Samsung account သုိ႔ ဝင္ေရာက္ပါ :
+- သတိေပးခ်က္မ်ားကုိ လက္ခံရရွိျခင္း
+- Remote ခ်ိတ္ဆက္မႈမွတဆင့္ အပလီေကးရွင္းမ်ားကုိ အသံုးျပဳျခင္း
+Remote ခ်ိတ္ဆက္မႈကုိ သံုးျခင္းျဖင့္ ထပ္ေဆာင္းေငြ က်သင့္ႏုိင္ပါသည္။"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">ေလာင္ဂ်ီက်ဴဒ္</string>
+    <string name="main_bt_unpaired">တြဲမထားပါ</string>
+    <string name="main_disconnected">ဆက္သြယ္ထားမႈကို ျဖတ္ေတာက္ၿပီးပါၿပီ</string>
+    <string name="manage_applications">လုပ္ငန္းသံုး ပရိုဂရမ္မ်ားကို စီမံခန္႔ခြဲပါ</string>
+    <string name="manage_notifications">အေၾကာင္းၾကားစာမ်ားကို စီမံပါ</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">ေခၚဖုန္း ထပ္ဆင့္ ပုိ႔ျခင္းသည္ အခ်ိဳ႕ေသာ %s အဝင္ဖုန္းမ်ားကို တိက်ေသာ နံပါတ္တစ္ခုသို႔ လႊဲေျပာင္းေပးေသာ ကြန္ရက္ဝန္ေဆာင္မႈ တစ္ခု ျဖစ္ပါသည္။ သင့္၏ ဝန္ေဆာင္မႈ စီစဥ္ေပးသူအေပၚ မူတည္၍၊ ဤအစီအစဥ္ကို သုံးဖို႔ သင့္ Gear အား ခြင့္ျပဳမည့္ စာရင္းသြင္းမွာယူမႈ တစ္ခုကို လိုအပ္ပါသည္။ ဤအရာက အပိုေငြမ်ား က်ခံရႏိုင္သည္။</string>
+    <string name="manual_call_forwarding_popup_desc_arg">မိုဘိုင္း ကိရိယာ</string>
+    <string name="masterapp_not_installed">သင့္ မိုဘိုင္းကိရိယာေပၚတြင္ %1$s တပ္ဆင္မထားပါ။ သင့္ဂီယာေပၚတြင္ %2$s သံုးရန္ သင့္ မိုဘိုင္းကိရိယာသို႔ %1$s ေဒါင္းလုတ္လုပ္ပါ။ သင့္ကို ေဒါင္းလုတ္ ဖန္သားျပင္သို႔ ေခၚသြားမည္။</string>
+    <string name="masterapp_not_installed_goto_deeplink">သင့္ မိုဘိုင္းကိရိယာေပၚတြင္ %1$s တပ္ဆင္မထားပါ။ သင့္ဂီယာေပၚတြင္ %2$s သံုးရန္ သင့္ မိုဘိုင္းကိရိယာသို႔ %1$s ေဒါင္းလုတ္လုပ္ပါ။ သင့္ကို ေဒါင္းလုတ္ ဖန္သားျပင္သို႔ ေခၚသြားမည္။</string>
+    <string name="masterapp_uninstalled">%1$s ကို သင့္မိုဘိုင္းကိရိယာမွ ျဖဳတ္လိုက္သည္။ သင့္ဂီယာေပၚ%2$s သံုးရန္ သင့္မိုဘိုင္းကိရိယာသို႔ %1$s ေဒါင္းလုတ္လုပ္ပါ။</string>
+    <string name="maximum_size_warning">အကၡရာ အေရအတြက္ အမ်ားဆံုးသို႔ ေရာက္ပါၿပီ။</string>
+    <string name="menu_about_device">%s အေၾကာင္း</string>
+    <string name="menu_actionbar_remove">ဖယ္</string>
+    <string name="menu_actionbar_uninstall">ျပန္ျဖဳတ္ပါ</string>
+    <string name="menu_appsandsettigns">အက္ပ္မ်ားႏွင့္ ဆက္တင္မ်ား</string>
+    <string name="menu_clock">နာရီ</string>
+    <string name="menu_display">မူလ ဖန္သားျပင္ကို တည္းျဖတ္ပါ</string>
+    <string name="menu_downloaded_font">ေဒါင္းလုတ္ထားေသာ ေဖာင့္မ်ား</string>
+    <string name="menu_filetransfertogear">ဖိုင္မ်ားကို GEAR သို႔ လႊဲေျပာင္းပါ</string>
+    <string name="menu_gallery">႐ုပ္ပုံ</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">ၾကံ့ခိုင္မႈ</string>
+    <string name="menu_help">အကူအညီ</string>
+    <string name="menu_home_screen">မူလ ဖန္သားျပင္ စတိုင္လုပ္သူ</string>
+    <string name="menu_music">ေတးဂီတ</string>
+    <string name="menu_myapp">ကြ်ႏ္ုပ္၏ အက္ပ္မ်ား</string>
+    <string name="menu_notification">သတိေပးခ်က္မ်ား</string>
+    <string name="menu_rename">အမည္ျပန္ေပး</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">သတ္မွတ္ခ်က္မ်ား</string>
+    <string name="mobile_to_gear">မုိဘုိင္းမွ Gear သုိ႔</string>
+    <string name="mobile_to_gear_des">ကိရိယာႏွစ္ခုကို အေဝးမွ ခ်ိတ္ဆက္ထားစဥ္ Gear ေပၚမွ ေခၚဆိုမႈမ်ားကို သင့္ မိုဘိုင္း ကိရိယာမွ လက္ခံရန္လုပ္ပါ။</string>
+    <string name="monotype_default_font">သတ္မွတ္ထားသည့္ ေဖာင့္</string>
+    <string name="monotype_dialog_font_applemint">ပန္းသီးပူရွိမ္း</string>
+    <string name="monotype_dialog_font_choco">Choco Cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">တင္ကာဘဲလ္</string>
+    <string name="more">ေနာက္ထပ္</string>
+    <string name="more_options">ေနာက္ထပ္ ေရြးခ်ယ္ရန္မ်ား</string>
+    <string name="multisim_title">Multi SIM</string>
+    <string name="navigate_up">အေပၚကို ေမာင္းသြားပါ</string>
+    <string name="new_notification_list">စာရင္း ျမင္ကြင္း</string>
+    <string name="new_notifications_list_desc">နာရီ၏ ဘယ္ဘက္ရွိ Gear ေပၚတြင္ လက္ခံထားေသာ အေၾကာင္းၾကားစာမ်ား၏ စာရင္းတစ္ခုကို ျပပါ။</string>
+    <string name="no_application_selected">မည္သည့္ အပလီေကးရွင္းကိုမွ ေရြးမထားပါ</string>
+    <string name="no_downloaded_applications">ေဒါင္းလုတ္လုပ္ထားေသာ အပလီေကးရွင္းမ်ား မရွိပါ</string>
+    <string name="no_of_application_selected">အပလီေကးရွင္း %d ခုကို ေရြးၿပီးပါၿပီ</string>
+    <string name="no_remote_connection_popup_msg">အလိုအေလွ်က္ ဖုန္းေခၚမႈ ဆက္ပုိ႔ျခင္းကို ဖြင့္ရန္၊ သင့္မိုဘိုင္းကိရိယာေပၚက Samsung Gear အပလီေကးရွင္းကို ဖြင့္ၿပီး Remote ခ်ိတ္ဆက္မႈကို ဖြင့္ပါ၊ ၿပီးေနာက္ ထပ္ႀကိဳးစားပါ။</string>
+    <string name="no_remote_connection_popup_title">Remote ခ်ိတ္ဆက္မႈကို ဖြင့္ပါ</string>
+    <string name="notification_type">အသိေပးခ်က္ အမ်ဳိးအစား</string>
+    <string name="notification_type_desc">သင့္ Gear မအားလပ္ေသာအခါမွာ၊ သင္၏ အေၾကာင္းၾကားစာကို ဖန္းသားျပင္ထိပ္၌ ေပါ့-အပ္ အေသးစားအျဖစ္၊ သင္ေရြးထားေသာ အထက္အရာကို ပဓာနမထားပဲ ျပသပါလိမ့္မည္။</string>
+    <string name="number_setting">နံပါတ္ သတ္မွတ္ခ်က္</string>
+    <string name="ok">အုိေက</string>
+    <string name="once">တစ္ႀကိမ္</string>
+    <string name="one_application_selected">အပလီေကးရွင္း ၁ ခုကို ေရြးၿပီးပါၿပီ</string>
+    <string name="popup_attention_email_msg">အီးေမးလ္ သတ္မွတ္ခ်က္မ်ား၌ အခ်ိဳ႕ေသာ အီးေမးလ္ အေကာင့္မ်ားကို မေရြးထားပါ။ သင့္ဂီယာေပၚရွိ ထိုအေကာင့္မ်ားမွ အေၾကာင္းၾကားစာမ်ားကို လက္ခံရန္၊ အီးေမးလ္ သတ္မွတ္ခ်က္မ်ား၌ အီးေမးလ္ အေၾကာင္းၾကားစာမ်ားကို ေရြးပါ။</string>
+    <string name="popup_attention_message_msg">သင့္ဂီယာေပၚ မက္ေဆ့ခ်္မ်ား ပို႔ရန္ႏွင့္ လက္ခံရန္ သင့္ အသင့္လုပ္ၿပီး မက္ေဆ့ခ်္လုပ္ျခင္း အက္ပ္ကို %s မွ မက္ေဆ့ခ်္လုပ္ျခင္းသို႔ ေျပာင္းလိမ့္မည္။</string>
+    <string name="popupmenu_search_for_new_device">ကိရိယာမ်ားကို စီမံပါ</string>
+    <string name="preview_message_desc">သင့္ဂီယာေပၚ အသိေပးခ်က္ ေပါ့-အပ္မ်ားထဲတြင္ အဝင္ေခၚဆိုမႈ သတိေပးခ်က္မ်ားႏွင့္ ႏိႈ္းစက္မ်ား မွအပ လက္ခံရရွိေသာ သတိေပးခ်က္မ်ား၏ ၾကိဳတင္ၾကည့္တစ္ခု ျပပါ။</string>
+    <string name="preview_message_title">မက္ေဆ့ခ်္ ၾကိဳတင္ၾကည့္ပါ</string>
+    <string name="primary">မူလမထမ</string>
+    <string name="progressdialog_please_wait">ေက်းဇူးျပဳ၍ေစာင့္ပါ….</string>
+    <string name="progressdialog_reinstalled_message">ေနရာခ်မႈ….</string>
+    <string name="progressdialog_reinstalled_popup_content">ျပန္တပ္ဆင္ပါ</string>
+    <string name="providerapp_reinstalled">%s ေကာင္းစြာ အလုပ္မလုပ္၍ ျဖဳတ္ထားသည္။ ၎ကို ယခု ျပန္တပ္ဆင္လိမ့္မည္။</string>
+    <string name="quick_tutorial_add_shortcuts">အက္ပ္၏ ၾကားျဖတ္မ်ားကို ဂီယာ၏ မူလ ဖန္သားျပင္သို႔ ေပါင္းထည့္ရန္၊ ဂီယာ ေပၚက အက္ပ္ သို႔ သြားပါ၊ အက္ပ္ သေကၤတ တစ္ခုကို ႏွိပ္ၿပီး ထိန္းကိုင္ထားပါ၊ ၿပီးေနာက္ ၎ကို ဖန္သားျပင္ ထိပ္ပိုင္းရွိ မူလ သေကၤတ ေပၚသို႔ ဆြဲယူၿပီး ခ်လိုက္ပါ။</string>
+    <string name="quick_tutorial_gear_structure">နာရီကို သင့္ Gear ပင္မ ဖန္သားျပင္၏ အဓိက စာမ်က္ႏွာတြင္ ျပထားသည္။ နာရီရွိတဲ့မ်က္နွာျပင္၏ ဘယ္ဘက္က သတိေပးခ်က္မ်ား ျပထားၿပီး ညာဘက္မွာ ေ၀့ဂ်က္ ျပထားသည္။ အသံုးျပဳသည့္ပရိုဂရမ္မ်ားကို ၾကည့္ရန္ မ်က္နွာျပင္ေအာက္ေျခမွ အေပၚဘက္သို႔ ဆြဲလိုက္ပါ။</string>
+    <string name="quick_tutorial_noti_title">%s သို႔ မိတ္ဆက္ျခင္း</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice ကို ဖြင့္ရန္၊ “Hi Gear” ဟု ေျပာပါ (သို႔) ဖန္သားျပင္ေပၚ ရွိေနစဥ္မွာ မူလကီးကို ႏွစ္ခ်က္ႏွိပ္ပါ။</string>
+    <string name="quick_tutorial_swipe_downwards">သင့္စိတ္ႀကိဳက္ အပလီေကးရွင္းကို ဖြင့္ရန္အတြက္ မူလကီးကို ႏွစ္ႀကိဳက္ဆက္ ႏွိပ္ပါ။သင့္ႀကိဳက္ အပလီေကးရွင္းကို သတ္မွတ္ခ်က္မ်ား၌ ေျပာင္းလဲႏိုင္သည္။</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">သင့္စိတ္ႀကိဳက္ အက္ပ္ ဖြင့္ရန္ ပါဝါကီးကို ႏွစ္ႀကိမ္ ႏွိပ္ပါ။ သတ္မွတ္ခ်က္မ်ားထဲတြင္ သင့္စိတ္ၾကိဳက္ အက္ပ္ ေျပာင္းႏိုင္သည္။</string>
+    <string name="quick_tutorial_to_go_back">ျပန္သြားရန္ ဖန္သားျပင္အစြန္းမွ ေအာက္သို႔ ဆြဲခ်ပါ။</string>
+    <string name="remote_connection_disabled_settings">သတ္မွတ္ခ်က္မ်ား</string>
+    <string name="remote_connection_enabled_desc">ဘလူးတုသ္ အဆက္အသြယ္ ျပီးပါက ဂီယာကို အေဝးအားျဖင့္ ခ်ိတ္ဆက္ထားမည္။</string>
+    <string name="requested">ေမတၱာရပ္ခံၿပီး</string>
+    <string name="reset_gear_legal_text1">Gear ျပန္သတ္မွတ္ပါကုိ သံုးၿပီး Gear ရွိေဒတာအားလံုးကုိ အေဝးမွ ဖ်က္ပစ္ႏုိင္သည္။ ထုိသုိ႔ဖ်က္ၿပီးေနာက္ ဖ်က္လုိက္သည့္ ေဒတာကုိ ျပန္မရယူႏုိင္ေတာ့ဘဲ ကြ်ႏု္ပ္ Gear ကုိရွာပါကုိ မသံုးႏုိင္ေတာ့ပါ။</string>
+    <string name="reset_gear_legal_text2">* သင့္ Gear၊ မုိဘုိင္းကိရိယာ (သုိ႔) ကြန္ယက္ပတ္ဝန္းက်င္၏ အေျခအေနေပၚမူတည္၍ Gear ျပန္သတ္မွတ္ပါသည္ အလုပ္လုပ္ရန္ အခ်ိန္ၾကာႏုိင္သည္ (သုိ႔) မေအာင္ျမင္ႏုိင္ပါ။</string>
+    <string name="restore_complete">ျပန္လည္ထားရွိမႈ ျပည့္စုံသည္</string>
+    <string name="restore_some_error">ျပန္ထားျခင္း မေအာင္ျမင္ပါ။ ျပန္ၾကိဳးစားပါ။</string>
+    <string name="restore_try_again">ထပ္မံၾကိဳးစားပါ။</string>
+    <string name="retrieve_dialog_desc">အပလီေကးရွင္း စာရင္းကို ျပန္ထုတ္ေနဆဲ…</string>
+    <string name="sa_error_0203_desc">အေဝး ထိန္းခ်ဳပ္မႈ ရေစရန္ Samsung account ကိုယ္တိုင္ အပ္ဒိတ္လုပ္ပါ။</string>
+    <string name="sa_error_0203_title">Samsung account အပ္ဒိတ္လုပ္ပါ</string>
+    <string name="sa_error_0301_desc">သင့္ မိုဘိုင္း ကိရိယာေပၚတြ Samsung account သင့္ ဝင္ေရာက္စဥ္ ကြန္ရက္ အမွားတစ္ခု ျဖစ္သြားသည္။</string>
+    <string name="sa_error_0301_title">လုပ္ေဆာင္ခ်က္ကို လုပ္ေစ၍မရပါ</string>
+    <string name="sa_error_0302_title">လုပ္ေဆာင္ခ်က္ကို လုပ္ေစ၍မရပါ</string>
+    <string name="sa_error_0401_desc">အမွား တစ္ခု ျဖစ္ပြားခဲ့ၿပီးၿပီ။ ထပ္ႀကိဳးစားပါ။</string>
+    <string name="sa_error_0401_title">အမွား</string>
+    <string name="safety_message_interval_10minutes">၁၀ မိနစ္တုိင္း</string>
+    <string name="safety_message_interval_20minutes">မိနစ္ ၂၀ တိုင္း</string>
+    <string name="samsung_apps_info">%2$s ကို တပ္ဆင္ထားျခင္းမွ ျဖဳတ္ေသာအခါ (သို႔) အပလီေကးရွင္း ေဒတာကို ရွင္းပစ္ေသာအခါမွာ %1$s မွ တဆင့္ ေဒါင္းလုတ္ထားခဲ့ၿပီးေသာ အပလီေကးရွင္းမ်ားကို ဖ်က္ပစ္ႏုိင္ပါသည္။ သင္ဝယ္ယူထားေသာ မွတ္တမ္းေဟာင္းရွိ %3$s ထဲမွ ဖ်က္ပစ္ခဲ့ေသာ အပလီေကးရွင္းမ်ားကို သင္ ေဒါင္းလုတ္လုပ္ႏိုင္ပါသည္။</string>
+    <string name="samsung_apps_notice">သတိျပဳရန္</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">ယခု အပ္ဒိတ္လုပ္</string>
+    <string name="screen_off">ဖန္သားျပင္ ဆက္ပိတ္ထားပါ</string>
+    <string name="screen_off_desc">၎၏ ဖန္သားျပင္ ပိတ္ထားစဥ္ သင့္ ဂီယာေပၚတြင္ အဝင္ ေခၚဆိုမႈ သတိေပးခ်က္မ်ားႏွင့္ ႏိႈ္းစက္မ်ား မွအပ အသိေပးခ်က္မ်ား လက္ခံရယူပါ။</string>
+    <string name="setting_Enable">စတင္လုပ္ေဆာင္ပါ</string>
+    <string name="setting_alpm_dialog_title">သတိ</string>
+    <string name="setting_always_off">အၿမဲပိတ္ထားပါ</string>
+    <string name="setting_always_on">အၿမဲဖြင့္ထားပါ</string>
+    <string name="setting_auto">ေအာ္တုိ</string>
+    <string name="setting_auto_lock_disable_desc">အုပ္ခ်ဳပ္သူ၊ ျမွဳပ္ႏွံျခင္း ေပၚလစီ၊ သို႔မဟုတ္ သင့္ေလ်ာ္ေသာ သိုေလွာင္ခန္းမွ ပိတ္ထားသည္။</string>
+    <string name="setting_backup_restore2">အရန္သိမ္းၿပီး ျပန္ထားပါ</string>
+    <string name="setting_basic">အေျခခံမ်ား</string>
+    <string name="setting_connections">ခ်ိတ္ဆက္မႈမ်ား</string>
+    <string name="setting_disable">ပိတ္ထားပါ</string>
+    <string name="setting_home_key_double_pressing">ႏွစ္ႀကိမ္ဆက္ႏွိပ္ရေသာ မူလကီး</string>
+    <string name="setting_language_input">ဘာသာစကားႏွင့္ ထည့္သြင္းမႈ</string>
+    <string name="setting_manage_text_templates">စာသား ပံုစံမ်ား ျပဳျပင္ပါ</string>
+    <string name="setting_mobile_network">မုိဘုိင္း ကြန္ယက္မ်ား</string>
+    <string name="setting_mobile_network_desc">ဘလူးတုသ္မွ တဆင့္ သင့္မုိဘုိင္း ကိရိယာႏွင့္ ခ်ိတ္ဆက္သည့္အခါ Gear သည္ သင့္မုိဘုိင္းကြန္ယက္မွ ခ်ိတ္ဆက္မႈ ျပဳတ္လိမ့္မည္။ ဘလူးတုသ္မွ တဆင့္ခ်ိတ္ဆက္မႈ အဆံုးသတ္သည့္အခါ Gear သည္ သင့္မုိဘုိင္း ကြန္ယက္ထံ အလုိလုိ ျပန္ခ်ိတ္ဆက္မည္။</string>
+    <string name="setting_multisim_popup_desc">သင္၏ ဝန္ေဆာင္မႈ စီစဥ္ေပးသူအေပၚ မူတည္၍၊ သီးျခား စာရင္းသြင္းမွာယူမႈတစ္ခုကို Multi SIM လုပ္ေဆာင္ခ်က္အား သုံးရန္အတြက္ သင္ လိုအပ္ေနႏိုင္ပါသည္။ Multi SIM ကို ဖြင့္ရန္ အိုေကကို ႏွိပ္ပါ။</string>
+    <string name="setting_opensource">ပြင့္လင္းေသာ ရင္းျမစ္လိုင္စင္</string>
+    <string name="setting_palm_motion">ေရႊ႕လ်ားမႈမ်ား</string>
+    <string name="setting_palm_swipe">ရိုက္ကူးရန္ ပြတ္ဆြဲပါ</string>
+    <string name="setting_palmover_desc">အဝင္ဖုန္းမ်ားႏွင့္ သတိေပးခ်က္မ်ားကို အသံေဖ်ာက္ရန္၊ (သို႔) မီဒီယာကို ရပ္တန္႔ရန္၊ ဖန္သားျပင္ပြင့္ေနစဥ္မွာ သင့္လက္ကို ဖန္သားျပင္ေပၚ တင္လိုက္ပါ။</string>
+    <string name="setting_palmswipe_desc">ဖန္သားျပင္ကို လက္ေခ်ာင္းျဖင့္ ထိထားၿပီး၊ လက္ေခ်ာင္းတစ္ျပင္လုံးႏွင့္ ပြတ္ဆြဲျခင္းျဖင့္ ဖန္သားျပင္အား ရိုက္ကူးပါ။</string>
+    <string name="setting_pause_mute">အသံတိတ္ပါ/ရပ္ဆိုင္းပါ</string>
+    <string name="setting_power_key_double_pressing">ပါဝါကီးကို ႏွစ္ခ်က္ႏွိပ္ျခင္း</string>
+    <string name="setting_restoring">ျပန္ေဖၚထုတ္ေန….</string>
+    <string name="setting_safety_b1_desc">သင့္ဂီယာႏွင့္ မိုဘိုးကိရိယာ ခ်ိတ္ဆက္ခ်ိန္မွာ၊ အကူအညီေတာင္းေသာ မက္ေဆ့ခ်္မ်ားကို ေပးပို႔ျခင္းသည္ အေရးေပၚ အေျခအေနတြင္ သင့္ကို ေထာက္ကူျပဳမည္ ျဖစ္သည္။ ၎တို႔ကို သင့္တည္ေနရာႏွင့္ အတူ အေရးေပၚ မက္ေဆ့ခ်္မ်ားကို ေပးပို႔ျခင္းျဖင့္ သင္၏ အေရးေပၚ မက္ေဆ့ခ်္ႏွင့္ ဆိုင္ေသာ အဆက္အသြယ္မ်ားကို သင့္၀န္းက်င္အေနအထားမွာ အခ်က္ျပမည္ ျဖစ္သည္။ ဤမက္ေဆ့ခ်္မ်ား ပို႔ျခင္းသည္ ေနာက္ထပ္ ေငြေပးေခ်မႈမ်ား ကုန္က်ႏိုင္ပါသည္။ အေရးေပၚ အေျခအေနတစ္ခု ကာလအတြင္းမွာ အကူအညီေတာင္းေသာ မက္ေဆ့ခ်္ ပို႔ရန္ ကို ဖြင့္ရန္အတြက္၊ ပါ၀ါကီးကို %d ႀကိမ္ ႏွိပ္ပါ။</string>
+    <string name="setting_safety_b2_desc">သင့္ဂီယာႏွင့္ မိုဘိုင္းကိရိယာ ခ်ိတ္ဆက္ၿပီးသည့္အခါ ဂီယာ ကင္မရာ သံုး၍ ပံုတစ္ပံု ရိုက္ျခင္းျဖင့္ အေရးေပၚ တစ္ရပ္တြင္ အကူအညီ မက္ေဆ့ခ်္မ်ား ပို႔ပါက သင့္ကို ကူညီသည္။ ၎က အေရးေပၚ မက္ေဆ့ခ်္မ်ားကို ပံုႏွင့္ သင့္တည္ေနရာျဖင့္ ပို႔၍ သင့္ အေရးေပၚ မက္ေဆ့ခ်္ အဆက္အသြယ္မ်ားအား သင့္ အေျခအေနကို သတိေပးသည္။ ပထမ မက္ေဆ့ခ်္တြင္ သင့္တည္ေနရာႏွင့္ ပံု ႏွစ္ခုလံုး ပါဝင္မည္။ ထို႔ေနာက္ ၾကားကာလတစ္ခု ၿပီးလွ်င္ သင့္တည္ေနရာမွ်သာ ပါဝင္သည့္ ဒုတိယ မက္ေဆ့ခ်္တစ္ခု ပို႔လိမ့္မည္။ ဤမက္ေဆ့ခ်္မ်ား ပို႔ျခင္း အပိုေငြမ်ား က်ခံရႏိုင္သည္။ အေရးေပၚ တစ္ရပ္တြင္ အကူအညီ မက္ေဆ့ခ်္မ်ားပို႔ပါကို ရေစရန္ မူလ ကီးကို %d ၾကိမ္ ႏွိပ္ပါ။</string>
+    <string name="setting_safety_b2_no_camera_desc">သင့္ဂီယာႏွင့္ မိုဘိုးကိရိယာ ခ်ိတ္ဆက္ခ်ိန္မွာ၊ အကူအညီေတာင္းေသာ မက္ေဆ့ခ်္မ်ားကို ေပးပို႔ျခင္းသည္ အေရးေပၚ အေျခအေနတြင္ သင့္ကို ေထာက္ကူျပဳမည္ ျဖစ္သည္။ ၎တို႔ကို သင့္တည္ေနရာႏွင့္ အတူ အေရးေပၚ မက္ေဆ့ခ်္မ်ားကို ေပးပို႔ျခင္းျဖင့္ သင္၏ အေရးေပၚ မက္ေဆ့ခ်္ႏွင့္ ဆိုင္ေသာ အဆက္အသြယ္မ်ားကို သင့္၀န္းက်င္အေနအထားမွာ အခ်က္ျပမည္ ျဖစ္သည္။ ဤမက္ေဆ့ခ်္မ်ား ပို႔ျခင္းသည္ ေနာက္ထပ္ ေငြေပးေခ်မႈမ်ား ကုန္က်ႏိုင္ပါသည္။ အကူအညီေတာင္းေသာ မက္ေဆ့ခ်္မ်ားကို အေရးေပၚ အေျခအေနအတြင္းမွာ ပို႔ရန္ အတြက္ ဖြင့္ထားရန္၊ မူလကီးကို %d ႀကိမ္ ဖိပါ။</string>
+    <string name="setting_safety_b3_desc1">သင္ အေရးေပၚ အေျခအေနတစ္ရပ္၌ ရွိေနခ်ိန္မွာ သင္၏ အဓိက အဆက္အသြယ္မ်ားထံ အျမန္ သတိေပးခ်က္တစ္ခု ပို႔ရန္ မူလကီးကို ၃ ခ်က္ ျမန္ျမန္ ႏွိပ္ပါ။</string>
+    <string name="setting_safety_b3_desc2">သင္၏ အဓိက အဆက္အသြယ္မ်ားက သင္၏ လက္ရွိ တည္ေနရာ အခ်က္အလက္မ်ား ပါဝင္ေသာ အေရးေပၚမက္ေဆ့ခ်္မ်ားကို ရရွိပါလိမ့္မည္။</string>
+    <string name="setting_safety_b3_desc3">ဤလုပ္ေဆာင္ခ်က္ သုံးရန္ သင့္မိုဘိုင္းကိရိယာကို သင့္ Gear သို႔ ခ်ိတ္ဆက္ပါ။</string>
+    <string name="setting_safety_list">လံုျခံဳေရး အေထာက္အကႈႈႈ</string>
+    <string name="setting_samsung_legal">Samsung legal</string>
+    <string name="setting_screen_lock">အလိုလို ေသာ့</string>
+    <string name="setting_screen_lock_desc">သင့္ Gear ကုိ ရွာေဖြရန္ ေဝးလြန္းသည့္အခါ သင့္မုိဘုိင္း ကိရိယာကုိ ေသာ့ခတ္ရန္ အလုိလုိ သတ္မွတ္ပါ။</string>
+    <string name="setting_screen_secutiry">ဖန္သားျပင္ လံုျခံဳေရး</string>
+    <string name="setting_send_emergency_picture">အေရးေပၚ ဓာတ္ပံု ပို႔ပါ</string>
+    <string name="setting_send_emergency_recording">အသံဖမ္းယူထားသည္ကို ပို႔ပါ</string>
+    <string name="setting_send_emergency_term_agree">I have read and agree to all the terms and conditions above.</string>
+    <string name="setting_send_help_message">အကူအညီ မက္ေဆ့ခ်္မ်ား ပို႔ပါ</string>
+    <string name="setting_send_terms_conditions">သတ္မွတ္ခ်က္မ်ားႏွင့္ အေျခအေနမ်ား</string>
+    <string name="setting_smart_relay">စမတ္ ရီေလး</string>
+    <string name="setting_smart_relay_desc">သင့္မိုဘိုင္း ကိရိယာကို ေကာက္၍ သင့္မိုဘိုင္း ကိရိယာေပၚတြင္ သင့္ဂီယာမွ ပါဝင္မႈကို ၾကည့္ပါ။</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">စက္စနစ္</string>
+    <string name="setting_text_to_speech_engine">စာသားမွ စကားသို႔ အင္ဂ်င္</string>
+    <string name="setting_textinput_emoticon">အီမုိတီကြန္း</string>
+    <string name="setting_textinput_keyboard">ခလုပ္ခံု</string>
+    <string name="setting_textinput_list">စာသား ျဖည့္သြင္းနည္းမ်ား</string>
+    <string name="setting_textinput_templates">တန္းပလိတ္မ်ား</string>
+    <string name="setting_try_it">ဤဟာကို ၾကိဳးစားပါ</string>
+    <string name="setting_wake_up">အႏိႈး အမူအယာ</string>
+    <string name="setting_wake_up_desc">သင့္ဂီယာ တပ္ထားေသာ လက္ကို ျမွင့္၍ ဂီယာကို ႏိႈ္းပါး</string>
+    <string name="setting_wakeupgesture">"ဂီယာ ႏိႈးရန္ ဂီယာ တပ္ဆင္ထားေသာ လက္ကို ေျမွာက္ၿပီး ဂီယာဖန္သားျပင္ကို ၾကည့္ပါ။
+
+သင္ ပက္လက္လွန္ထားစဥ္ (သို႔) လွဲေနစဥ္ ဤအစီအစဥ္ အလုပ္မလုပ္ပါ၊ ထို႔ျပင္ ၎၏ ေရြ႕လ်ားမႈ အာရံုခံ အျမဲဖြင့္ထား၍ ဂီယာ၏ ဘက္ထရီအား ပိုမိုသံုးစြဲႏိုင္သည္။"</string>
+    <string name="setting_wakeupgesture_clock">နာရီ</string>
+    <string name="setting_wakeupgesture_previous">ေနာက္ဆံုး ၾကည့္ခဲ့သည့္ ဖန္သားျပင္</string>
+    <string name="setting_wakeupgesture_screen_on">ျပထားေသာ ဖန္သားျပင္ ေရြးပါ</string>
+    <string name="settings_application_version">လုပ္ငန္းသံုးပ႐ိုဂရမ္ ဗားရွင္း</string>
+    <string name="settings_emergency_contact">မူရင္း အဆက္အသြယ္မ်ား စီမံပါ</string>
+    <string name="settings_emergency_contact_empty">မည္သည့္ အဓိက အဆက္အသြယ္မ်ားကိုမွ ေပါင္းထည့္ထာျခင္း မရွိေသးပါ။ %s ကို ဖြင့္ရန္၊ အဆက္အသြယ္မ်ားကို အဓိက အဆက္အသြယ္မ်ားသို႔ ေပါင္းထည့္ပါ။</string>
+    <string name="settings_legal_information">တရားဝင္ အခ်က္အလက္</string>
+    <string name="settings_message_interval">မက္ေဆ့ခ်္ ၾကားကာလ</string>
+    <string name="settings_not_set">သတ္မွတ္မထားပါ</string>
+    <string name="settings_security">လံုၿခဳံေရး</string>
+    <string name="settings_security_update">လံုျခံဳေရး အပ္ဒိတ္</string>
+    <string name="settings_security_update_desc">သင့္ကိရိယာ၏ လံုျခံဳေရးႏွင့္ ဝန္ေဆာင္မႈကို တိုးျမွင့္၍ ထိခိုက္ေစႏိုင္ေသာ ပါဝင္မႈမွ ၎ကို ကာကြယ္ပါ။</string>
+    <string name="settings_unknown_sources_dialog">မသိေသာ ရင္းျမစ္မ်ားမွ တပ္ဆင္ျခင္းက သင့္ကိရိယာႏွင့္ ပုဂၢိဳလ္ေရးေဒတာကို ထိခိုက္ေစႏိုင္သည္။ အိုေက ႏွိပ္ျခင္းျဖင့္ ဤအပလီေကးရွင္းမ်ား သံုးျခင္းမွ ျဖစ္ေပၚလာႏိုင္သည့္ သင့္ကိရိယာအား မည္သည့္ ထိခိုက္မႈ (သို႔) ေဒတာဆံုးရံႈးမႈမဆို သင့္တြင္သာ တာဝန္ရွိေၾကာင္း သင္ သေဘာတူသည္။</string>
+    <string name="settings_unknown_sources_subtitle">Samsung Gear Apps မွ တစ္ပါး အရင္းအျမစ္မ်ားမွ အက္ပ္မ်ားကုိ ထည့္သြင္းရန္ ခြင့္ျပဳပါ။</string>
+    <string name="share_loc_disabled">တည္ေနရာ မွ်ေဝျခင္းကုိ ပိတ္ထားသည္။</string>
+    <string name="share_location_desc">သင္၏ Gear ႏွင့္ မိုဘိုင္းကိရိယာ၏ တည္ေနရာျပ ေဒတာကို မွ်ေဝရန္အတြက္ ကၽြႏု္ပ္၏ Gear ရွာေဖြရန္ႏွင့္ ကၽြႏု္ပ္၏ ကိရိယာ ရွာေဖြရန္တို႔ကို ခြင့္ျပဳပါ။</string>
+    <string name="shm_I_agree_that_mobile_data">မိုဘိုင္း ေဒတာကို သံုးႏိုင္သည္ႏွင့္ MMS မက္ေဆ့ခ်္မ်ားကို အေရးေပၚမ်ားမွာ ပို႔မည္ကို ကြ်ႏ္ုပ္ သေဘာတူသည္။ ၎က အပိုေဆာင္းေငြမ်ား က်ႏိုင္မည္ကို ကြ်ႏ္ုပ္ နားလည္ပါသည္။</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Send Help Message] is intended to help users send notice of their approximate location and visual/auditory surroundings to the mobile phone of a chosen contact that you set in advance. It is made available only for your convenience and is not intended as, nor should it be treated as, a substitute for emergency calls to the authorities.
+
+2. [Send Help Message] (the “Services”)may not work accurately, continuously or error-free, depending on the circumstances such as network connectivity, availability of GPS/Wi-Fi information, status and/or condition of your/your chosen contact´s device, battery level and/or other circumstances which are out of Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”)´s control. The accuracy of the location information and timely delivery of the Services may be affected by your surroundings and the condition of your device and the device of your chosen contact. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error. Please note that your chosen contact must be a working mobile phone and the device must be turned on and capable of accepting text messages. Transferring your surroundings and location data may be chargeable to you depending on the fees specified by your service operator.
+
+In order for the Services to function as intended, it may be necessary to have the feature, once deployed by you, automatically turn on the GPS and Wi-Fi functions of your device. You acknowledge and agree to the automatic enabling of the GPS and Wi-Fi functions (if required), without further notice to you or consent by you.
+
+3. You acknowledge and agree not to misuse this function or use this function for any illegal purposes or to infringe on the privacy or any personal or proprietary rights of others. Use this function only in accordance with the law and only in cases of emergencies.You agree to be solely responsible for your use of this feature. Samsung shall not be liable for any outcome that may arise from your use of this feature.
+
+4. The Services are made available only for your convenience and are not intended as, nor should they be treated as, a substitute for emergency calls to the authorities. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error.
+
+5. DISCLAIMER OF WARRANTIES. YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+A. THE SERVICES ARE PROVIDED ON AN AS IS, “WITH ALL FAULTS,” AND AS AVAILABLE BASIS. YOU BEAR THE RISK OF USING THEM. SAMSUNGGIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS UNDER OR IN RELATION TO THE SERVICES. SAMSUNG EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY IMPLIED WARRANTIES FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+
+B. WITHOUT LIMITING THE FOREGOING,SAMSUNG MAKES NO REPRESENTATION OR WARRANTY THAT (i) THE SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE CONTENT OBTAINED FROM THE SERVICES, OR ANY NOTIFICATIONS OR FUNCTIONALITY OF THE SERVICES WILL BE AVAILABLE, ACCURATE, COMPLETE OR RELIABLE, (iv) THE QUALITY OF THE SERVICES OR ANY INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS OR BUGS IN THE SERVICES WILL BE CORRECTED.
+
+6. LIMITATION OF LIABILITY.
+
+A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT SAMSUNG SHALL NOT BE LIABLE UNDER A NEGLIGENCE THEORY, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY LOSS, LIABILITY, DAMAGE OR EXPENSE, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF USE OR OTHER LOSSES (EVEN IF REPAIR, REPLACEMENT OR A REFUND FOR THE SERVICES DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES ORSAMSUNG KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH LOSS, LIABILITY, DAMAGE, OR EXPENSE), DIRECTLY OR INDIRECTLY RESULTING FROM OR ARISING OUT OF: (i) CLAIMS FOR BREACH OF CONTRACT, BREACH OF WARRANTY, GUARANTEE OR CONDITION, STRICT LIABILITY, NEGLIGENCE, OR OTHER TORT TO THE EXTENT PERMITTED BY APPLICABLE LAW; (ii) YOUR USE OR YOUR INABILITY TO USE THE SERVICES, (iii) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES; (iv) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (v) STATEMENTS OR CONDUCT OF ANY THIRD PARTY; (vi) THIS AGREEMENT; (vii) INJURY TO PERSON OR PROPERTY (INCLUDING DEATH), OR (viii) ANY OTHER MATTER RELATING TO THE SERVICES OR THE CONTENT PROVIDED THROUGH THE SERVICES.
+
+B. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH SAMSUNG RELATED TO THIS AGREEMENT OR THE SERVICES SHALL BE CEASING USE OF THE SERVICES.
+
+C. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 5 AND 6 MAY NOT APPLY TO YOU.
+
+7. INDEMNIFICATION. You agree to hold harmless, indemnify and defend the Samsung from and against any claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including reasonable attorneys' fees and costs) arising out of or relating to your use of the Services or any failure by you to comply with this Agreement. If, despite the personal nature of the licenses granted to you under these terms and conditions, you allow any individual to use the Services, or provide to any individual any information received via the Services, you agree to inform such individual of the existence and provisions of these terms and conditions, which shall be binding upon such individual, and you agree to hold harmless, indemnify, and defend the Samsung from any and all claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including attorneys' fees and costs) related to such individual’s use of the Services.
+
+8. Force Majeure. The Samsung shall not be liable for any delay or failure in performance under these terms and conditions or interruption of the Services, resulting from acts of God, civil or military authority, war, acts of terrorism, labor disputes, materials or services provided by third parties, or any cause beyond the reasonable control of the Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">ကြ်ႏ္ုပ္၏ %2$s အဆက္အသြယ္မ်ားႏွင့္ မွ်ေဝမည္ကို %1$s ကို ခြင့္ျပဳရန္ သေဘာတူသည္။</string>
+    <string name="smartrelay_not_show">ထပ္မျပပါႏွင့္</string>
+    <string name="software_update">ေဆာ့ဝဲ အပ္ဒိတ္</string>
+    <string name="ss_double_tap_any_screen">ေတာက္ပမႈ၊ အသံအတိုးအက်ယ္ႏွင့္ အျခား အသံုးဝင္ေသာ အခ်က္အလက္မ်ား ၾကည့္ရန္ မည္သည့္ ဖန္သားျပင္ကိုမဆို လက္ႏွစ္ေခ်ာင္းျဖင့္ ႏွစ္ခ်က္ႏွိပ္ပါ။</string>
+    <string name="ss_forwarding_calls_to_gear_header">သင့္ဂီယာသို႔ ဖုန္းေခၚမ်ား ဆက္ပို႔ျခင္း</string>
+    <string name="ss_forwarding_calls_to_gear_progress">ေတာင္းဆုိေနပါသည္….</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ဖတ္ရန္ ဆက္တင္မ်ား..</string>
+    <string name="ss_loading_ing_abb">အခ်က္အလက္ျဖည့္သြင္းေနပါသည္</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">မိုဘိုင္းေဒတာ အလုပ္မလုပ္ေစပါ။ ၄င္းအစား Wi-Fi ကြန္ယက္သို႔ ခ်ိတ္ဆက္ပါ သို႔မဟုတ္ မိုဘိုင္းေဒတာကို အလုပ္လုပ္ေစျပီး ထပ္ၾကိဳးစားပါ</string>
+    <string name="ss_no_network_connection">ကြန္ရက္ ခ်ိတ္ဆက္မႈ မရွိပါ</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">သံုးသူ လက္စြဲ</string>
+    <string name="stub_list_install">တပ္ဆင္ပါ</string>
+    <string name="tab_stub_list">အသားေပးထားေသာ</string>
+    <string name="talkback_download">ေဒါင္းလုတ္</string>
+    <string name="talkback_setting">သတ္မွတ္ခ်က္မ်ား</string>
+    <string name="the_samsung_gear_application">Samsung Gear အပလီေကးရွင္း</string>
+    <string name="threeg_connection">Remote ထိန္းေသာ ခ်ိတ္ဆက္မႈကို သုံးပါ</string>
+    <string name="threeg_connection_subtitle">မိုဘိုင္းေဒတာ (သို႔) Wi-Fi ကို သင့္ Samsung account ႏွင့္ အတူသံုး၍ သင့္ဂီယာသို႔ အေဝးခ်ိတ္ဆက္ပါ။</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">ျပန္ျဖဳတ္ပါ</string>
+    <string name="title_activity_connect_popup">ခ်ိပ္ဆက္ပါ</string>
+    <string name="title_activity_paired_watch">တြဲခ်ိတ္ထားေသာ ကိရိယာ</string>
+    <string name="title_alertdialog_device_name_popup">%s ကို အမည္ေျပာင္းပါ</string>
+    <string name="title_alertdialog_disconnect_popup">ဆက္သြယ္ထားမႈကို ျဖတ္ေတာက္ပါ</string>
+    <string name="title_dialog_pm_error">သတိေပးခ်က္</string>
+    <string name="title_dialog_uninstall">တပ္ဆင္ထားမႈကုိ ျဖဳတ္ပါ</string>
+    <string name="title_findmywatch_connect2">ကၽြႏု္ပ္၏ဂီယာ ရွာပါ</string>
+    <string name="title_findmywatch_finding">ရွာေဖြေနပါသည္….</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s ကို %2$s သို႔ ခ်တ္ဆက္ပါ</string>
+    <string name="tri_connect_warning_temporal_disconnect">သင့္ %1$s ကို %2$s သို႕ ဘလူးတုသ္ မွတဆင့္ ခ်ိတ္ဆက္ျခင္းသည္ သင့္ %3$s ကို သင့္ မိုဘိုင္း ကိရိယာမွ ယာယီ အခ်ိတ္အဆက္ ျဖဳတ္သြားလိမ့္မည္။ ဤခ်ိတ္ဆက္မႈသည္ အခ်ိန္တိုအတြင္း ျပန္လည္စတင္သြားမည္ျဖစ္ကာ ၄င္းေနာက္တြင္ သင့္ %4$s သည္ သင့္ %5$s ႏွင့္ သင့္ မိုဘိုင္း ကိရိယာတို႕ကို ခ်ိတ္ဆက္သြားမည္ျဖစ္သည္။</string>
+    <string name="tt_install_voice_data">အသံ TTS ေဒတာ ထည့္သြင္းပါ</string>
+    <string name="tt_install_voice_data_required">သင္၏ Gear ေပၚတြင္ ေနာက္ထပ္ စာသား-မွ-စကား ဘာသာစကားမ်ားကို ထည့္သြင္းပါ။</string>
+    <string name="tt_language">ဘာသာစကား</string>
+    <string name="tt_send_help_message">အကူအညီ ေတာင္းေသာ မက္ေဆ့ခ်္မ်ား ပို႔ပါ</string>
+    <string name="tt_tts_language_guide">သင့္ စာ-မွ-စကား ဘာသာစကားသည္ သင့္ Gear သတ္မွတ္ခ်က္မ်ား တြင္ သင္ သတ္မွတ္ထားသည့္ ဘာသာစကား ျဖစ္သည္။ သင့္ ဘာသာစကားကုိ စာ-မွ-စကား အင္ဂ်င္မွ ပံ့ပုိးေပးျခင္း မရွိလွ်င္ အဂၤလိပ္ (ယူႏိုက္တက္ ကင္းဒန္း) ကုိ သံုးလိမ့္မည္။</string>
+    <string name="unable_to_connect_popup_message">သင့္ Gear ကို သင့္မိုဘိုင္းကိရိယာသို႔ ခ်ိတ္ဆက္ရန္ မေအာင္ျမင္ပါ။ ေနာက္မွ ျပန္ၾကိဳးစားပါ။</string>
+    <string name="unable_to_connect_popup_title">ခ်ိတ္ဆက္မႈ မေအာင္ျမင္ပါ</string>
+    <string name="unable_to_lock_gear">Gear ကုိ ေသာ့မခတ္ႏုိင္ပါ</string>
+    <string name="unable_to_reset_gear">Gear ျပန္မသတ္မွတ္ႏုိင္ပါ</string>
+    <string name="uninstall_applications">အပလီေကးရွင္းမ်ားကို သြင္းထားျခင္းအား ျပန္ထုတ္ပါ</string>
+    <string name="unknown_sources_msg_new">%1$s ကို %2$s မွ တဆင့္ တပ္ဆင္လိမ့္မည္ မဟုတ္ပါ။ သင့္ကိရိယာႏွင့္ ကိုယ္ေရး ေဒတာတို႔ကို အမည္မသိ ရင္းျမစ္မ်ားမွ အပလီေကးရွင္းမ်ားျဖင့္ တုိက္ခိုက္လာႏိုင္သည့္ ေနာက္ထပ္ အားနည္းခ်က္ ရွိေနပါသည္။ ဤအပလီေကးရွင္းမ်ားကို သုံးျခင္းမွ ျဖစ္ေပၚလာမည့္ သင့္ကိရိယာ ပ်က္စီးမႈတုိင္း (သို႔) ေဒတာ ေပ်ာက္ဆုံးမႈတိုင္းအတြက္ သင္ တစ္ဦးတည္းသာလွ်င္ အဓိက တာဝန္ရွိေၾကာင္း သင္ သေဘာတူပါသည္။ အမည္မသိ ရင္းျမစ္မ်ားမွ အပလီေကးရွင္းမ်ားကုိ အၿမဲတမ္း တပ္ဆင္ရန္၊ %3$s > %4$s > %5$s သို႔ သြားၿပီး %6$s ကို ဖြင့္ပါ။ %7$s ကုိ တပ္ဆင္ရန္ အိုေကကို ႏွိပ္ပါ။</string>
+    <string name="unknown_sources_title">မသိေသာ ရင္းျမစ္မ်ား</string>
+    <string name="update_summary">အပ္ဒိတ္မ်ား ရွာပါ</string>
+    <string name="voice_control_subtitle">ေခၚဖုန္းမ်ားကို ေျဖၾကားရန္ (သို႔) ပယ္ခ်ရန္၊ သင့္ Gear က ဖုန္းေခၚသံ မၾကား (သို႔) တုန္ခါမႈ မရွိစဥ္ စက္တန္႔ေနေသာ ကာလအတြင္းမွာဆိုလွ်င္၊ “ေျဖဆိုမည္” (သို႔) “ပယ္ဖ်က္မည္” ကို ေျပာပါ။</string>
+    <string name="voicememo_link1">Nuance ၏ ေဝါဟာရမ်ားႏွင့္ အေျခအေနမ်ား</string>
+    <string name="voicememo_link3">Nuance သီးသန္႔မူဝါဒ</string>
+    <string name="watchapp_all">အက္ပ္မ်ား</string>
+    <string name="watchapp_noapps">အက္ပ္မ်ား မရွိပါ</string>
+    <string name="widget_bt">ဘလူးတုသ္</string>
+    <string name="widget_fmw_refresh">ျပန္လည္ တက္ၾကြလႈပ္ရွားေစရန္ေဆာင္ရြက္ေနပါသည္</string>
+    <string name="wifi_only">Wi-Fi သာလွ်င္</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Wi-Fi ကြန္ရက္ တစ္ခုသို႔ ခ်ိတ္ဆက္ထားစဥ္ အပ္ဒိတ္မ်ားသာ ေဒါင္းလုတ္လုပ္ပါ။</string>
+    <string name="wifi_only_summary_chn">WLAN မွတဆင့္ ဆက္ထားမွသာလွ်င္ ေဒါင္းလုတ္ လုပ္၍ရမည္။</string>
+</resources>

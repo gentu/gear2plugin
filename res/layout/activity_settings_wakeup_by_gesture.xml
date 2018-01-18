@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/wakeup_image" android:background="@drawable/gesture_wake_up_img" android:layout_width="360.0dip" android:layout_height="256.0dip" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/normal_text_color" android:id="@id/wakeup_desc1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/wakeupgesture_textview_left_margin" android:layout_marginTop="@dimen/wakeupgesture_imageview_top_margin" android:layout_marginRight="@dimen/wakeupgesture_textview_right_margin" android:text="@string/setting_wakeupgesture" android:lineSpacingExtra="@dimen/fmg_reset_lock_line_spacing" />
+        <Button android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_try_it" />
+        <View android:id="@id/wakeupOptionDivider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginTop="15.0dip" android:layout_marginRight="@dimen/list_divider_side_margin" />
+        <LinearLayout android:gravity="center_vertical" android:id="@id/WatchSettingWakeupSubLinear" android:background="@xml/xml_listitem_selector" android:paddingLeft="10.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:minHeight="@dimen/manager_winset_2_line_list_item_height" android:onClick="onClickScreenOnPressing">
+            <LinearLayout android:orientation="vertical" android:paddingLeft="6.0dip" android:focusable="false" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="6.0">
+                <TextView android:id="@id/WatchSettingWakeupScreenOnTitle" android:paddingRight="12.0dip" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_wakeupgesture_screen_on" style="@style/TextView_ListDescFirstLine" />
+                <TextView android:id="@id/WatchSettingWakeupScreenOnText" android:paddingRight="10.0dip" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_wakeupgesture_clock" style="@style/TextView_ListDescSecondLine" />
+            </LinearLayout>
+        </LinearLayout>
+        <View android:id="@id/wakeupEndDivider" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+    </LinearLayout>
+</ScrollView>

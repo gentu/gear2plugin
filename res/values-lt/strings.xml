@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Pokalbio metu nepasiekiama.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Iškylantis langas visame ekrane</string>
+    <string name="alert_mini">Mažas iškylantis langas</string>
+    <string name="alertdialog_backkey_popup_content">Perspėjimas</string>
+    <string name="alertdialog_disconnect_popup_description">„Gear“ bus atjungtas. Jungdamiesi naudokite „Bluetooth“.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Dėl to bus nutrauktas jūsų ryšys su %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Jūsų „%s“ bus atjungtas nuo mobiliojo įrenginio. Kitą kartą sujungdami šiuos įrenginius turėsite naudoti „Bluetooth“. Paskui galėsite prisijungti naudodami nuotolinį ryšį.</string>
+    <string name="alertdialog_uninstall_popup_content">Pašalinti</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s neįdiegta mobiliajame įrenginyje. Norėdami naudoti %2$s „Gear“, atsisiųskite %1$s į mobilųjį įrenginį.</string>
+    <string name="attention_popup_title">Dėmesio</string>
+    <string name="auto_call_forwarding">Autom. skamb. peradr.</string>
+    <string name="auto_call_forwarding_att">Autom. skamb. peradr. į „Gear“</string>
+    <string name="auto_call_forwarding_desc">Įjungia automatinį skambučių peradresavimą, kai jūsų „Gear“ atjungtas nuo mobiliojo įrenginio. Gaunami skambučiai bus peradresuojami iš mobiliojo į „Gear“, kol abu įrenginiai bus sujungti pakartotinai.</string>
+    <string name="auto_update">Automatinis naujinimas</string>
+    <string name="auto_update_summary">Ieškoti naujinių automatiškai.</string>
+    <string name="backing_up">Kuriamos atsarginės kopijos…</string>
+    <string name="backup_complete">Kopijavimas baigtas.</string>
+    <string name="bnr_backup">Kuriamos atsarginės kopijos…</string>
+    <string name="bnr_bakcup_title">Atsarginė kopija</string>
+    <string name="bnr_cancel">Atšaukti</string>
+    <string name="bnr_canel">Atšaukti</string>
+    <string name="bnr_error_occurred">Įvyko klaida</string>
+    <string name="bnr_except">%1$s (išskyrus %2$s)</string>
+    <string name="bnr_except_autolock">Automatinis užraktas</string>
+    <string name="bnr_except_remoteconnection">Nuotolinis ryšys</string>
+    <string name="bnr_except_texttemplate">Teksto šablonai</string>
+    <string name="bnr_next">Kitas</string>
+    <string name="bnr_no">Ne</string>
+    <string name="bnr_ok">Gerai</string>
+    <string name="bnr_reset_gear">Jungiantis prie naujo įrenginio bus atkurti gamykliniai „Gear“ nustatymai.</string>
+    <string name="bnr_reset_gear_move_setupwizard">„Gear“ nustatytas nevisiškai. Šiuo metu atidarytas „Gear“ sąrankos vedlys, bet, norėdami prisijungti prie „Gear“, „Gear Manager“ sąrankos vedlį turite atidaryti ir šiame įrenginyje.</string>
+    <string name="bnr_reset_initialization">Pastaba</string>
+    <string name="bnr_restore">Atkurti</string>
+    <string name="bnr_restored">Duomenys atkurti.</string>
+    <string name="bnr_setupwizard_title2">Atsarg. kopijav. ir atkūrimas</string>
+    <string name="bnr_yes">Taip</string>
+    <string name="bt_connected">Prisijungta</string>
+    <string name="bt_disconnected">Atjungta</string>
+    <string name="bt_unpaired">Nesusieta</string>
+    <string name="button_finish">Baigti</string>
+    <string name="button_restore">Atkurti</string>
+    <string name="call">SKAMBINTI</string>
+    <string name="call_check_gear_status_when_cfwd">Skambučių peradresavimo funkcijų iš mobiliojo į „Gear“ ir iš „Gear“ į mobilųjį negalima įjungti vienu metu.</string>
+    <string name="call_dualsim1">1 SIM kortelė</string>
+    <string name="call_dualsim1sim2">Abi SIM kortelės</string>
+    <string name="call_dualsim2">2 SIM kortelė</string>
+    <string name="call_forwarding">Skamb. persiuntimas</string>
+    <string name="call_forwarding_agree">Sutinku.</string>
+    <string name="call_forwarding_desc">Į mobilųjį įrenginį gaunamus skambučius peradresuokite į „Gear“.</string>
+    <string name="call_forwarding_desc_vzw">Į telefoną gaunamus skambučius peradresuokite į „Gear“.</string>
+    <string name="call_forwarding_disable_msg">Pateiktas prašymas išjungti skambučių peradresavimą iš jūsų mobiliojo įrenginio į „Gear“. Mobiliojo tinklo ir mobiliojo įrenginio būsena gali turėti įtakos rezultatams.</string>
+    <string name="call_forwarding_enable_msg">Pateiktas prašymas įjungti skambučių peradresavimą iš jūsų mobiliojo įrenginio į „Gear“. Mobiliojo tinklo ir mobiliojo įrenginio būsena gali turėti įtakos rezultatams.</string>
+    <string name="call_forwarding_for_att_msg">"Kai „Gear“ atjungtas nuo išmaniojo telefono, į mobilųjį įrenginį gaunami skambučiai bus automatiškai peradresuojami į „Gear“.
+- Jūsų išmanusis telefonas keletą kartų suskambės, tada skambutis bus peradresuotas į „Gear“.
+- Jei neatsiliepsite į skambutį iš savojo „Gear“, skambintojas galės palikti balso pašto pranešimą, kurį galėsite išklausyti savuoju „Gear“.
+Ar norite įjungti skambučių peradresavimą dabar?"</string>
+    <string name="call_forwarding_notify_msg">Skambučių peradresavimas iš jūsų mobiliojo įrenginio į „Gear“ šiuo metu įjungtas. Gaunami skambučiai į jūsų mobilųjį įrenginį bus peradresuojami į „Gear“. Jei neturite „Gear“ su savimi, eikite į nustatymus ir išjunkite automatinį skambučių peradresavimą, kad nepraleistumėte skambučių.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Išjungiamas balso skambučių peradres…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Įjungiamas balso skambučių peradres…</string>
+    <string name="call_no_gear_number">Nėra numerių</string>
+    <string name="call_select_dualsim_title">Rinkitės SIM kortelę</string>
+    <string name="call_voice_control">Valdymas balsu</string>
+    <string name="callforwarding_help_des1">Įjunkite įrenginį, kurio skambučiai bus peradresuojami automatiškai atsižvelgiant į tai, ar įrenginiai sujungti per „Bluetooth“, ar nuotoliniu ryšiu.</string>
+    <string name="callforwarding_help_des2">Gaukite mobiliojo įrenginio skambučius „Gear“, kol judate ir nešiojate su mobiliuoju įrenginiu nuotoliniu būdu sujungtą „Gear“.</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="cf_activated">Suaktyvinta</string>
+    <string name="cf_deactivate_failed">Nepavyko išjungti skambučių peradresavimo.</string>
+    <string name="cf_deactivated">Išjungta</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Nauji laikrodžio nustatymai pritaikyti per „Gear“.</string>
+    <string name="clocks_download_more_clocks">Atsisiųsti daug. laikrod.</string>
+    <string name="clocks_noti_uninstall_clock">%s bus pašalinta.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s bus pašalinta, o %2$s nustatyta kaip numatytasis laikrodis.</string>
+    <string name="clocks_title_basic_clocks">PAGRINDINIAI LAIKRODŽIAI</string>
+    <string name="clocks_title_downloaded_clocks">ATSISIŲSTI LAIKRODŽIAI</string>
+    <string name="clocks_title_style_clocks">PRAŠMATNŪS LAIKRODŽIAI</string>
+    <string name="clocks_uninstalled">Pašalinta.</string>
+    <string name="clocks_uninstalling">Pašalinama…</string>
+    <string name="close">Uždaryti</string>
+    <string name="closing_samsung_gear_message">Jūsų „Gear“ nustatytas iš naujo. „Samsung Gear“ programa bus uždaryta.</string>
+    <string name="closing_samsung_gear_message_jpn">Jūsų „Gear“ nustatytas iš naujo. „Gear“ programa netrukus bus uždaryta.</string>
+    <string name="closing_samsung_gear_title">Uždaryti „Samsung Gear“ programą</string>
+    <string name="closing_samsung_gear_title_jpn">Uždaryti „Gear“ programą</string>
+    <string name="cloud_backup_no_information">Niekada</string>
+    <string name="cloud_backup_restore_backup_now">Atsarginė duomenų kopija</string>
+    <string name="cloud_backup_restore_restore_now">Atkurti duomenis</string>
+    <string name="cmw_agree">Sutinku</string>
+    <string name="cmw_eula_agree">Perskaičiau pirmiau nurodytas sąlygas ir nuostatas ir su jomis sutinku.</string>
+    <string name="cmw_for_setting">Vietos nustatymo paslaugos išjungtos. Eikite į nustatymus.</string>
+    <string name="cmw_high_accuracy_dialog_message">Kad vieta būtų nustatoma greitai ir tiksliai, skirtuke Vieta > Režimas pasirinkite „Didelis tikslumo lygis“.</string>
+    <string name="cmw_high_accuracy_dialog_title">Rinktis didelį tikslumą</string>
+    <string name="cmw_legal_content">Aktyvuodami „Dalintis vieta“ (Share Location) funkciją, jūs sutinkate, kad vietos duomenys, susiję su jūsų mobiliuoju telefonu ir/arba „Gear“ prietaisu būtų perduodami per „Samsung“ serverį tam, kad būtų teikiama “Surasti mano “Gear” ir Surasti mano prietaisą” („Find My Gear &amp; Find My Device“) paslauga. Jokie duomenys arba informacija apie jūsų prietaiso vietą nėra saugomi „Samsung“ serveryje.</string>
+    <string name="cmw_legal_content1">Aktyvuodami „%1$s &amp; %2$s“ funkciją, jūs sutinkate, kad vietos duomenys, susiję su jūsų mobiliuoju telefonu ir/arba „Gear“ prietaisu būtų perduodami per „Samsung“ serverį tam, kad būtų teikiama %1$s &amp; %2$s paslauga. Jokie duomenys arba informacija apie jūsų prietaiso vietą nėra saugomi „Samsung“ serveryje.</string>
+    <string name="cmw_legal_content1_no_gps">Aktyvuodami „%1$s &amp; %2$s“ funkciją, jūs sutinkate, kad vietos duomenys, susiję su jūsų mobiliuoju telefonu būtų perduodami per „Samsung“ serverį tam, kad būtų teikiama %2$s paslauga. Jokie duomenys arba informacija apie jūsų prietaiso vietą nėra saugomi „Samsung“ serveryje.</string>
+    <string name="cmw_legal_content_2">„Samsung“ privatumo politika</string>
+    <string name="cmw_legal_title">Teisinė informacija</string>
+    <string name="cmw_location">Įjungti vietos nust. paslaugas</string>
+    <string name="cmw_show_on_map">"Rodyti
+žemėlapyje"</string>
+    <string name="color_black">Juoda</string>
+    <string name="color_blue">Mėlyna</string>
+    <string name="color_brown">Ruda</string>
+    <string name="color_gray">Pilka</string>
+    <string name="color_green">Žalia</string>
+    <string name="color_light_sky_blue">Šviesiai mėlyna</string>
+    <string name="color_medium_purple">Pusiau violetinė</string>
+    <string name="color_orange">Oranžinė</string>
+    <string name="color_pink">Rausva</string>
+    <string name="color_purple">Violetinė</string>
+    <string name="color_red">Raudona</string>
+    <string name="color_spring_green">Šviesiai žalia</string>
+    <string name="common_none">Nėra</string>
+    <string name="common_off">Išjungta</string>
+    <string name="common_on">Įjungta</string>
+    <string name="common_recent_apps">Pask. progr.</string>
+    <string name="connect_popup_content">Jungiamasi prie %s…</string>
+    <string name="connected_by_trasport_BT">Prisijungta per „Bluetooth“</string>
+    <string name="connected_by_trasport_SCS">Prisijungta nuotol. būdu</string>
+    <string name="connecting_content">Jungiamasi prie „Gear“</string>
+    <string name="connecting_doc">Prisijungę prie %1$s galėsite keisti nustatymus ir diegti programas naudodami %2$s.</string>
+    <string name="connecting_popup_message">Jungiamasi prie „Gear“…</string>
+    <string name="connecting_popup_title">Jungtis prie „Gear“</string>
+    <string name="connecting_to_gear_ing">Jungiamasi prie „Gear“…</string>
+    <string name="connectingdoc">Prisijungę prie „Gear“ galėsite keisti nustatymus ir įdiegti programas naudodami „Gear Manager“.</string>
+    <string name="connection_error_dialog_message">Jūsų įrenginys nebuvo prijungtas. Bus bandoma dar kartą.</string>
+    <string name="dialog_check_phone_number_msg1">Įsitikinkite, kad toliau pateikta informacija yra teisinga:</string>
+    <string name="dialog_check_phone_number_msg2">Mobiliojo telefono numeris: %s</string>
+    <string name="dialog_check_phone_number_msg3">„Gear“ telefono numeris: %s</string>
+    <string name="dialog_check_phone_number_msg4">Bakstelėdami „Gerai“ patvirtinsite ir įjungsite automatinį skambučių peradresavimą.</string>
+    <string name="dialog_enable_remote_connection_desc">Jei norite įjungti automatinį skambučių peradresavimą, įjunkite nuotolinį ryšį ir bandykite dar kartą.</string>
+    <string name="dialog_enable_remote_connection_title">Įjungti nuotolinį ryšį</string>
+    <string name="dialog_permission_message">Neįmanoma naudoti „%s“. Bakstelėkite NUSTATYMAI, eikite į Programos informacija > Leidimai, tada suteikite nurodytus leidimus ir bandykite dar kartą:</string>
+    <string name="dialog_popup_button_cancel">Atšaukti</string>
+    <string name="dialog_reverse_msg">Atsižvelgiant į paslaugos teikėją, gali reikėti atskirų prenumeratų, kad galėtumėte naudotis šia paslauga savo mobiliajame įrenginyje ir „Gear“. Dėl to gali būti taikomi papildomi mokesčiai.</string>
+    <string name="dialog_set_phone_number_msg">Jei norite įjungti automatinį skambučių peradresavimą, nustatykite įrenginių, į kuriuos ir iš kurių norite peradresuoti skambučius, telefono numerius.</string>
+    <string name="dialog_set_phone_number_title">Įjungti automatinį skambučių peradresavimą</string>
+    <string name="disable_loc_text">Vietos bendrinimas bus išjungtas. Jūs negalėsite naudoti vietos informacijos „Gear“ ar mobiliojo paieškai naudojant „Rasti mano „Gear“ ar „Rasti mano įrenginį“ funkcijas.</string>
+    <string name="disable_loc_text_no_gps">Vietos bendrinimas bus išjungtas. Jūs negalėsite naudoti vietos informacijos mobiliojo įrenginio paieškai naudojant funkciją „Rasti mano įrenginį“.</string>
+    <string name="disable_remote_connection">Išjungti nuotolinį ryšį</string>
+    <string name="disable_remote_connection_fmm_fmd">„Rasti mano „Gear“ ir „Rasti mano įrenginį“</string>
+    <string name="disable_remote_connection_receiving_blocked">Žinučių, el. laiškų ir pranešimų gavimas iš mobiliojo įrenginio</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">El. laiškų ir pranešimų gavimas iš mobiliojo įrenginio</string>
+    <string name="disable_remote_connection_warning">Nuotolinis ryšys bus išjungtas. Toliau nurodytos funkcijos neveiks, kol „Gear“ nebus pakartotinai prijungtas prie jūsų mobiliojo įrenginio per „Bluetooth“:</string>
+    <string name="disable_share_location">Išjungti vietos bendrinimą</string>
+    <string name="disconnect_popup_content">Atsijungiama nuo %s…</string>
+    <string name="do_not_show_again">Neberodyti</string>
+    <string name="enable_auto_call_forwarding_msg">Automatiškai peradresuoja į mobil. įrenginį gaunamus skambučius į „Gear“, kai „Gear“ atjungtas. Atsižvelgiant į paslaugos teikėją, gali būti taikomi papildomi mokesčiai. Bakstelėkite „Gerai“ ir įjunkite automatinį skambučių peradresavimą.</string>
+    <string name="enable_auto_call_forwarding_title">Įj. automat. skamb. peradr.</string>
+    <string name="enable_more_notifications_enable">Įjungti</string>
+    <string name="enable_notification_access">Įgalinti prieigą prie pranešimų</string>
+    <string name="enable_notification_access_desc">"Ši funkcija galės skaityti visus jūsų gautus pranešimus, kuriuose gali būti asmeninės informacijos, pvz., adresatų ir jums siųstų žinučių. Ji taip pat galės atmesti šiuos pranešimus arba pasirinkti su jais susijusius veiksmus.
+Jei norite pranešimus gauti į „Gear“, bakstelėkite „Įjungti“, o tada įjunkite „%s“."</string>
+    <string name="enable_share_location">Įjungti vietos bendrinimą</string>
+    <string name="enabled_loc">Vietos bendrinimas įjungtas.</string>
+    <string name="error_enter_device_name">Įveskite įrenginio pavadinimą.</string>
+    <string name="error_occurred">Įvyko klaida.</string>
+    <string name="eula_i_agree">Sutinku.</string>
+    <string name="failed_tshare_msg">Skambučių peradres. neįjungtas. Nėra atsakymo iš T share</string>
+    <string name="find_my_device">Rasti mano įreng.</string>
+    <string name="find_my_gear">Rasti mano „Gear“</string>
+    <string name="find_watch_btn_start">Paleisti</string>
+    <string name="find_watch_btn_stop">Stabdyti</string>
+    <string name="find_watch_off">Norėdami rasti „Gear“ bakstelėkite „Pradėti“. „Gear“ atkurs garsą ir bus įjungtas jo ekranas.</string>
+    <string name="find_watch_on">Norėdami sustabdyti „Gear“ paiešką bakstelėkite „Stabdyti“. „Gear“ sustabdys garso atkūrimą, o ekranas bus išjungtas.</string>
+    <string name="font_gear_name">„Gear“</string>
+    <string name="font_noti_uninstall_idle_font">%1$s bus pašalinta, o jūsų „%2$s“ bus pritaikytas numatytasis šriftas.</string>
+    <string name="force_wifi_direct_msg">Programa bus įdiegta per „Wi-Fi Direct“. Dėl to bus nutrauktas dabartinis „Wi-Fi Direct“ ryšys. Jei atšauksite diegimą, norėdami įdiegti programą turėsite ją atsisiųsti dar kartą.</string>
+    <string name="force_wifi_direct_title">Įdiegti</string>
+    <string name="force_wifi_install">Įdiegti</string>
+    <string name="gear2_backup_confirm_text">Jei atsarginę duomenų kopiją sukursite dabar, dabartiniai „Gear“ atsarginės kopijos duomenys mobiliajame įrenginyje bus pakeisti naujausiais „Gear“ duomenimis.</string>
+    <string name="gear2_restore_confirm_text">Jei atkursite duomenis, esami „Gear“ duomenys bus ištrinti ir pakeisti dabartiniais „Gear“ atsarginės kopijos duomenimis.</string>
+    <string name="gear2_text">"Naudokite įrenginio atmintį atsarginei %1$s turinio kopijai sukurti:
+%2$s
+
+Jei anksčiau sukūrėte atsarginę šio turinio duomenų kopiją, dabar galite atkurti juos %3$s.
+
+Priklausomai nuo failo dydžio, tai gali šiek tiek užtrukti."</string>
+    <string name="gear2_text_import3">Nustatymai</string>
+    <string name="gear_bnr_desc">"Toliau nurodytų %1$s duomenų atsarginė kopija bus sukurta įrenginio atmintyje: %2$s
+
+Jei anksčiau sukūrėte atsarginę %3$s duomenų kopiją, dabar galite atkurti juos %4$s.
+
+Atsižvelgiant į failų dydį, tai gali šiek tiek užtrukti."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Šiuo metu jūsų mobilusis įrenginys ieško „Gear“. Tai truks keletą minučių. Jei „Gear“ yra patalpoje, jį surasti gali būti sunku.</string>
+    <string name="gear_location_popup_title">Rasti „Gear“</string>
+    <string name="gear_location_text">„Gear“ vieta</string>
+    <string name="gear_lock_success">„Gear“ užrakintas.</string>
+    <string name="gear_lock_text">Užrakinti „Gear“</string>
+    <string name="gear_locked">„Gear“ užrakintas</string>
+    <string name="gear_locked_text1">„Gear“ užrakintas. Norėdami atrakinti prijunkite „Gear“ prie mobiliojo įrenginio per „Bluetooth“.</string>
+    <string name="gear_phone_number">„Gear“ telefono numeris</string>
+    <string name="gear_phone_number_popup_desc">Visi skambučiai į jūsų mobilųjį įrenginį bus peradresuojami į „%s“.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Visi neatsakyti skambučiai į jūsų mobilųjį įrenginį bus peradresuojami į %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Jei norite užrakinti „Gear“, prieš tai turite įjungti nuotolinį ryšį.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Jei norite iš naujo nustatyti „Gear“, prieš tai turite įjungti nuotolinį ryšį.</string>
+    <string name="gear_reset_text">Iš naujo nustatyti „Gear“</string>
+    <string name="gear_to_mobile">Iš „Gear“ į mob.</string>
+    <string name="gear_to_mobile_des">Gaukite „Gear“ skambučius mobiliajame įrenginyje, kai du įrenginiai sujungti per „Bluetooth“.</string>
+    <string name="gear_unable_to_locate_message">Nepavyko rasti vietos. Bandykite dar kartą vėliau.</string>
+    <string name="gear_unable_to_locate_title">Neįmanoma surasti „Gear“</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Ekrano fonai</string>
+    <string name="home_bg_color">Spalvos</string>
+    <string name="home_bg_colors_title">GALIMOS SPALVOS</string>
+    <string name="home_bg_delete_actionbar_selected">Pasirinkta</string>
+    <string name="home_bg_delete_dialog_msg">Iš „Gear Manager“ ir jūsų „Gear“ bus pašalinta ekrano fonų: %d.</string>
+    <string name="home_bg_delete_select_all">Pasirinkti visus</string>
+    <string name="home_bg_max_more_image_toast">Pasiektas didžiausias ekrano fonų skaičius (%d).</string>
+    <string name="home_bg_more_images">Daugiau vaizdų</string>
+    <string name="home_bg_popup_wallpaper_msg">Atsisiunčiami „Gear“ ekrano fonai…</string>
+    <string name="home_bg_popup_wallpaper_title">Atsisiųsti ekrano fonų</string>
+    <string name="home_bg_toast_saved">Išsaugota.</string>
+    <string name="home_bg_wallpaper">Ekrano fonas</string>
+    <string name="home_bg_wallpapers_title">PASIEKIAMI EKRANO FONAI</string>
+    <string name="homelayout_apps">Programos</string>
+    <string name="incoming_calls_title">Gaunami skambučiai</string>
+    <string name="info_build_number">Programinės įrangos versija</string>
+    <string name="info_model_number">Modelio numeris</string>
+    <string name="info_software_update">Programų naujinim.</string>
+    <string name="information_provision_agreement">Informacijos teikimo sutartis</string>
+    <string name="information_provision_agreement_mgs">"Balso atmintinė naudoja šnekos atpažinimo technologijas, kurias teikia trečiosios šalies paslaugų tiekėja „Nuance Communications“. Todėl jūsų šnekos informacija neišvengiamai yra saugoma „Nuance“ (JAV) valdomame serveryje ir, jei norite naudoti balso atmintinę, turite sutikti su „Nuance“ sąlygomis ir taisyklėmis.
+ „Nuance“ pasilieka teisę naudoti jūsų šnekos įvesties informaciją siekdama tobulinti paslaugas ir plėtoti technologijas. „Nuance“ taip pat pasilieka teisę pateikti anksčiau minėtą šnekos įvesties informaciją „Nuance“ partneriams. Jūsų šnekos įvesties informacija yra laikoma iki tol, kol anksčiau minėti tikslai yra įgyvendinami. Daugiau informacijos apie balso atmintinės paslaugas galite rasti „Samsung“ privatumo politikoje ir „Nuance“ privatumo politikoje.
+ Balso atmintinės naudoti negalite, jei nesutinkate su anksčiau minėtomis informacijos teikimo sąlygomis."</string>
+    <string name="init_manage_notifications_desc">Pasirinkite programas, iš kurių norite gauti pranešimus į savo „%1$s“. Jei norite taupyti „%2$s“ akumuliatoriaus energiją, panaikinkite programų, kurių pranešimų nenorite gauti, žymėjimą.</string>
+    <string name="install_in_progress">Vykdoma…</string>
+    <string name="invalid_rename_character">Įvestas neleistinas simbolis. Bandykite dar kartą.</string>
+    <string name="latest_version">Įdiegta naujausia versija</string>
+    <string name="latitude">Platuma</string>
+    <string name="limit_notification_desc">Naudojantis mobiliuoju įrenginiu įspėjimų rodymas „Gear“ blokuojamas.</string>
+    <string name="limit_notification_dialog_desc">Negalima įjungti „Riboti „Gear“ pranešimus“. Mobiliajame įrenginyje ekrano užraktas nenustatytas.</string>
+    <string name="limit_notification_title">Apribojimų pranešimai</string>
+    <string name="location_info_title">Bendrinti vietą</string>
+    <string name="lock_gear_legal_text1">Naudodamiesi „Užrakinti „Gear““ funkcija, galite nuotoliniu būdu užrakinti „Gear“ prietaisą, kad prie jo negalėtų prisijungti pašaliniai vartotojai. „Gear“ prietaisą atrakinti galite iš naujo prijungdami jį prie mobiliojo įrenginio.</string>
+    <string name="lock_gear_legal_text2">* Priklausomai nuo jūsų „Gear“ prietaiso, mobiliojo įrenginio arba tinklo aplinkos būsenos, užrakinti „Gear“ funkcijos pradėjimas veikti gali užtrukti šiek tiek laiko arba ši funkcija gali iš viso neveikti.</string>
+    <string name="lock_gear_text">Neįmanoma užrakinti jūsų „Gear“, kai mobilusis įrenginys ir „Gear“ sujungti per „Bluetooth“.</string>
+    <string name="login_to_samsung_account">Junkt.prie „Samsung“ pask.</string>
+    <string name="login_to_samsung_account_desc">Jei norite „Gear“ įrenginyje įjungti nuotolinį ryšį, prisijunkite prie savo „Samsung“ paskyros.</string>
+    <string name="login_to_samsung_account_full_desc">"Prisijunkite prie Samsung pas-
+kyros ir naudokite paskesnes
+funkcijas, net neprisijungę
+per Bluetooth:
+- pranešimų gavimas
+- programų naud.nuotol.ryš.
+Naudojant nuotolinį ryšį gali-
+mi papildomi mokesčiai."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Kai nesate prisijungę prie telefono „Bluetooth“ ryšiu, „Samsung“ paskyroje naudodami mobiliuosius duomenis galėsite atlikti šiuos veiksmus:
+– Gauti žinutes, el. laiškus ir kitus pranešimus
+– Naudoti „Gear“ programas, kurioms reikalingas ryšys su jūsų telefonu, nuotoliniu ryšiu.
+
+Atkreipkite dėmesį, kad nuotolinis ryšys per jūsų „Samsung“ paskyrą naudoja jūsų duomenų planą."</string>
+    <string name="longitude">Ilguma</string>
+    <string name="main_bt_unpaired">Nesusieta</string>
+    <string name="main_disconnected">Atjungta</string>
+    <string name="manage_applications">Tvarkyti programas</string>
+    <string name="manage_notifications">Tvarkyti pranešimus</string>
+    <string name="manual_call_forwarding_for_att_msg">"Skambučiai į jūsų išmanųjį telefoną gali būti peradresuojami į „Gear“.
+– Jūsų išmanusis telefonas keletą kartų suskambės, tada skambutis bus peradresuotas į „Gear“.
+– Jei neatsiliepsite į skambutį iš savojo „Gear“, skambintojas galės palikti balso pašto pranešimą, kurį galėsite išklausyti savuoju „Gear“.
+Ar norite įjungti skambučių peradresavimą dabar?"</string>
+    <string name="manual_call_forwarding_popup_desc">Skambučių peradresavimas – tai tinklo paslauga, kuri nukreipia %s įeinančius skambučius nurodytu numeriu. Atsižvelgiant į paslaugos teikėją, gali būti būtina prenumerata, kad galėtumėte naudotis šia paslauga savo „Gear“. Dėl to gali būti taikomi papildomi mokesčiai.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobilusis įrenginys</string>
+    <string name="masterapp_not_installed">%1$s neįdiegta mobiliajame įrenginyje. Norėdami naudoti %2$s „Gear“, atsisiųskite %1$s į mobilųjį įrenginį.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s neįdiegta mobiliajame įrenginyje. Norėdami naudoti %2$s „Gear“, atsisiųskite %1$s į mobilųjį įrenginį. Būsite perkelti į atsisiuntimo ekraną.</string>
+    <string name="masterapp_uninstalled">%1$s buvo ištrinta iš mobiliojo įrenginio. Norėdami naudoti %2$s „Gear“, atsisiųskite %1$s į mobilųjį įrenginį.</string>
+    <string name="maximum_size_warning">Pasiektas didžiausias simbolių skaičius.</string>
+    <string name="menu_about_device">APIE %s</string>
+    <string name="menu_actionbar_remove">Pašalinti</string>
+    <string name="menu_actionbar_uninstall">Pašalinti</string>
+    <string name="menu_appsandsettigns">PROGRAMOS IR NUSTATYMAI</string>
+    <string name="menu_clock">Laikrodis</string>
+    <string name="menu_display">REDAGUOTI PRADŽIOS EKRANĄ</string>
+    <string name="menu_downloaded_font">ATSISIŲSTI ŠRIFTAI</string>
+    <string name="menu_filetransfertogear">PERKELTI FAILUS Į „GEAR“</string>
+    <string name="menu_gallery">Vaizdas</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Kūno rengyba</string>
+    <string name="menu_help">Žinynas</string>
+    <string name="menu_home_screen">Pradžios ekrano stilius</string>
+    <string name="menu_music">Muzika</string>
+    <string name="menu_myapp">Mano programos</string>
+    <string name="menu_notification">Pranešimai</string>
+    <string name="menu_rename">Pervardyti</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">„Gear“ programos</string>
+    <string name="menu_settings">Nustatymai</string>
+    <string name="mobile_to_gear">Iš mobil. į „Gear“</string>
+    <string name="mobile_to_gear_des">Mobiliojo įrenginio skambučius priimkite „Gear“ sujungdami šiuos du įrenginius nuotoliniu būdu.</string>
+    <string name="monotype_default_font">Numatytasis šriftas</string>
+    <string name="monotype_dialog_font_applemint">„Apple mint“</string>
+    <string name="monotype_dialog_font_choco">„Choco cooky“</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">„Tinker bell“</string>
+    <string name="more">Daugiau</string>
+    <string name="more_options">Daugiau parink.</string>
+    <string name="multisim_title">Kelios SIM kort.</string>
+    <string name="navigate_up">Pereiti aukštyn</string>
+    <string name="new_eula_error_log">Pranešti apie diagn. inf.</string>
+    <string name="new_eula_fmd2">Rasti mano įreng.</string>
+    <string name="new_eula_fmg2">Rasti mano „Gear“</string>
+    <string name="new_eula_news_briefing">Naujien. trumpai</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">„Samsung“ klaviatūra</string>
+    <string name="new_notification_list">Sąrašo rodinys</string>
+    <string name="new_notifications_list_desc">Laikrodžio kairėje rodomi į „Gear“ gauti pranešimai.</string>
+    <string name="no_application_selected">Nėra pasirinktų programų</string>
+    <string name="no_downloaded_applications">Atsiųstų programų nėra</string>
+    <string name="no_of_application_selected">Pasirinkta programų: %d</string>
+    <string name="no_remote_connection_popup_msg">Jei norite įjungti automatinį skambučių peradresavimą, mobiliajame įrenginyje atidarykite „Samsung Gear“ programą, įjunkite nuotolinį ryšį ir bandykite dar kartą.</string>
+    <string name="no_remote_connection_popup_title">Įjungti nuotolinį ryšį</string>
+    <string name="notification_type">Pranešimo tipas</string>
+    <string name="notification_type_desc">Naudojant „Gear“ pranešimai ekrano viršuje bus rodomi kaip maži iškylantieji langai nepaisant ankstesnio pasirinkimo.</string>
+    <string name="number_setting">Numerio nustatymas</string>
+    <string name="ok">Gerai</string>
+    <string name="once">Vieną kartą</string>
+    <string name="one_application_selected">Pasirinkta 1 programa</string>
+    <string name="popup_attention_email_msg">Kai kurios el. pašto paskyros nėra pasirenkamos el. pašto nustatymuose. Norėdami gauti pranešimus apie šias paskyras į „Gear“, el. pašto nustatymuose pasirinkite „El. pašto pranešimai“.</string>
+    <string name="popup_attention_message_msg">Kad galėtumėte siųsti ir gauti žinutes į „Gear“, numatytoji žinučių siuntimo programa bus pakeista iš %s į žinučių siuntimo.</string>
+    <string name="popupmenu_search_for_new_device">Tvarkyti įrenginius</string>
+    <string name="preview_message_desc">Rodo gautų pranešimų peržiūrą „Gear“ iškylančių pranešimų languose, išskyrus įspėjimus apie gaunamus skambučius ir signalus.</string>
+    <string name="preview_message_title">Peržiūrėti žinutę</string>
+    <string name="primary">Pagrindinis</string>
+    <string name="privacypolicy_fmgfmd">Aktyvuodami „%1$s &amp; %2$s“ funkciją, jūs sutinkate, kad vietos duomenys, susiję su jūsų mobiliuoju telefonu ir/arba „Gear“ prietaisu būtų perduodami per „Samsung“ serverį tam, kad būtų teikiama %1$s &amp; %2$s paslauga. Jokie duomenys arba informacija apie jūsų prietaiso vietą nėra saugomi „Samsung“ serveryje.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Aktyvuodami „%1$s &amp; %2$s“ funkciją, jūs sutinkate, kad vietos duomenys, susiję su jūsų mobiliuoju telefonu būtų perduodami per „Samsung“ serverį tam, kad būtų teikiama %2$s paslauga. Jokie duomenys arba informacija apie jūsų prietaiso vietą nėra saugomi „Samsung“ serveryje.</string>
+    <string name="privacypolicy_newsbriefing">Ši programėlė leidžia vartotojui bendrauti socialiniuose tinkluose ir internete daugybe inovatyvių būdų. Įjungus šią programėlę, paslauga sukaups informacija apie tai, kaip jus naudojate paslaugas, įskaitant, kaip matote ir naudojate turinį ir reklamas. Norėdami gauti daugiau informacijos, žiūrėkite Flipboard %1$sNaudojimo%2$s ir %3$sprivatumo politika%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">„Samsung“ privatumo politika</string>
+    <string name="progressdialog_please_wait">Palaukite…</string>
+    <string name="progressdialog_reinstalled_message">Diegiama…</string>
+    <string name="progressdialog_reinstalled_popup_content">Įdiegti vėl</string>
+    <string name="providerapp_reinstalled">%s neveikia tinkamai, todėl buvo pašalinta. Bus įdiegta dar kartą.</string>
+    <string name="quick_tutorial_add_shortcuts">Jei „Gear“ pradžios ekrane norite pridėti programų trumpinių, eikite į „Gear“ programas, tada bakstelėkite ir laikykite programos piktogramą ir nuvilkite ją į pradžios ekrano piktogramą, esančią ekrano viršuje.</string>
+    <string name="quick_tutorial_gear_structure">Laikrodis rodomas pagrindiniame „Gear“ pradžios ekrano puslapyje. Puslapiuose laikrodžio kairėje rodomi pranešimai, o dešinėje – valdikliai. Braukite į viršų nuo apatinio ekrano krašto ir peržiūrėkite programas.</string>
+    <string name="quick_tutorial_noti_title">Supažindinimas su %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Norėdami atidaryti „S Voice“ ištarkite „Hi Gear“ arba, būdami bet kuriame ekrane, du kartus paspauskite pradžios mygtuką.</string>
+    <string name="quick_tutorial_swipe_downwards">Du kartus spustelėkite pradžios mygtuką ir atidarykite mėgstamą programą. Mėgstamą programą galite pakeisti nustatymuose.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Du kartus spustelėkite įjungimo / išjungimo mygtuką ir atidarykite mėgstamą programą. Mėgstamą programą galite pakeisti nustatymuose.</string>
+    <string name="quick_tutorial_to_go_back">Norėdami grįžti atgal braukite į apačią nuo ekrano krašto.</string>
+    <string name="remote_connection_disabled_settings">Nustatymai</string>
+    <string name="remote_connection_enabled_desc">Baigus „Bluetooth“ ryšį, „Gear“ bus prijungtas nuotoliniu būdu.</string>
+    <string name="requested">Paprašyta</string>
+    <string name="reset_gear_legal_text1">Naudodamiesi „Gear“ parametrų nustatymo iš naujo funkcija (Reset Gear), galite nuotoliniu būdu ištrinti visus duomenis, esančius „Gear“ prietaise. Ištrynus duomenis, šių duomenų atkurti nebeįmanoma ir jūs nebegalite naudotis „Surasti mano „Gear“ funkcija.</string>
+    <string name="reset_gear_legal_text2">* Priklausomai nuo jūsų „Gear“ prietaiso, mobiliojo įrenginio arba tinklo aplinkos būsenos, „Gear“ parametrų nustatymo iš naujo funkcijos (Reset Gear) pradėjimas veikti gali užtrukti šiek tiek laiko arba ji gali iš viso neveikti.</string>
+    <string name="restore_complete">Atkūrimas baigtas.</string>
+    <string name="restore_some_error">Nepavyko atkurti. Bandykite vėl.</string>
+    <string name="restore_try_again">Bandyti vėl</string>
+    <string name="restore_watch_settings_content2">"Naudokite įrenginio atmintį atsarginei %1$s turinio kopijai sukurti:
+%2$s
+
+Jei anksčiau sukūrėte atsarginę šio turinio duomenų kopiją, dabar galite atkurti juos %3$s.
+
+Priklausomai nuo failo dydžio, tai gali šiek tiek užtrukti.
+
+Atsarginio kopijavimo nustatymus galite keisti skirtuke „Nustatymai“."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">NUSTATYMAI</string>
+    <string name="retrieve_dialog_desc">Gaunamas programų sąrašas…</string>
+    <string name="sa_email">El. paštas</string>
+    <string name="sa_error_0203_desc">Jei norite įjungti nuotolinį ryšį, atnaujinkite „Samsung“ paskyrą rankiniu būdu.</string>
+    <string name="sa_error_0203_title">Naujint „Samsung“ paskyrą</string>
+    <string name="sa_error_0301_desc">Jungiantis prie „Samsung“ paskyros mobiliajame įrenginyje įvyko tinklo klaida.</string>
+    <string name="sa_error_0301_title">Nepavyko įjungti funkcijos</string>
+    <string name="sa_error_0302_desc">Jungiantis prie „Samsung“ paskyros mobiliajame įrenginyje įvyko tinklo klaida.</string>
+    <string name="sa_error_0302_title">Nepavyko įjungti funkcijos</string>
+    <string name="sa_error_0401_desc">Įvyko klaida. Bandykite dar.</string>
+    <string name="sa_error_0401_title">Klaida</string>
+    <string name="safety_message_interval_10minutes">Kas 10 min.</string>
+    <string name="safety_message_interval_20minutes">Kas 20 min.</string>
+    <string name="samsung_apps_info">Per %1$s atsiųstas programas galima ištrinti tik pašalinus %2$s ar išvalius programos duomenis. Ištrintas programas galite atsisiųsti iš %3$s pirkimo istorijos.</string>
+    <string name="samsung_apps_notice">Pastaba</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Naujinti dabar</string>
+    <string name="screen_off">Laikyti ekraną išjungtą</string>
+    <string name="screen_off_desc">Gaukite pranešimus, išskyrus įspėjimus apie gaunamus skambučius ir signalus, į „Gear“, kai išjungtas ekranas.</string>
+    <string name="setting_Enable">Įjungti</string>
+    <string name="setting_alpm_dialog_title">Dėmesio</string>
+    <string name="setting_always_off">Visada išjungti</string>
+    <string name="setting_always_on">Visada įjungti</string>
+    <string name="setting_auto">Automatinis</string>
+    <string name="setting_auto_lock_disable_desc">Išjungė administratorius dėl šifravimo politikos ar kredencialų saugyklos.</string>
+    <string name="setting_backup_restore2">Atsarg. kopijav. ir atkūrimas</string>
+    <string name="setting_basic">PAGRINDINIAI</string>
+    <string name="setting_connections">RYŠIAI</string>
+    <string name="setting_disable">Išjungti</string>
+    <string name="setting_home_key_double_pressing">Dukart pasp. pradž. mygt.</string>
+    <string name="setting_language_input">KALBA IR ĮVESTIS</string>
+    <string name="setting_manage_text_templates">Redaguoti teksto šablonus</string>
+    <string name="setting_mobile_network">Mobilieji tinklai</string>
+    <string name="setting_mobile_network_desc">„Gear“ bus atjungtas nuo mobiliojo tinklo, jei jis prijungiamas prie mobiliojo įrenginio naudojant „Bluetooth“. Pasibaigus ryšiui per „Bluetooth“, „Gear“ vėl automatiškai prisijungs prie mobiliojo tinklo ryšio.</string>
+    <string name="setting_multisim_popup_desc">Priklausomai nuo paslaugos teikėjo, kelių SIM funkcijos naudojimas gali būti prenumeruojamas atskirai. Bakstelėkite „Gerai“ ir įjunkite kelių SIM funkciją.</string>
+    <string name="setting_opensource">Atvirojo kodo licencija</string>
+    <string name="setting_palm_motion">Judesiai</string>
+    <string name="setting_palm_swipe">Užfiksuoti braukiant</string>
+    <string name="setting_palmover_desc">Uždėkite ranką ant ekrano, kad nutildytumėte gaunamus skambučius ir signalus arba pristabdytumėte mediją, kai įjungtas ekranas.</string>
+    <string name="setting_palmswipe_desc">Užfiksuokite ekrano vaizdą braukdami per ekraną pirštu ir nepakeldami piršto nuo ekrano.</string>
+    <string name="setting_pause_mute">Nutildyti / pristabdyti</string>
+    <string name="setting_power_key_double_pressing">Mait.myg.spaudimas dukart</string>
+    <string name="setting_restoring">Atkuriama…</string>
+    <string name="setting_safety_b1_desc">Kai „Gear“ ir mobilusis įrenginys bus sujungti, pagalbos žinučių siuntimo funkcija padės jums įvykus nelaimei. Ji praneša pagalbos žinutės adresatams apie jūsų padėtį, išsiųsdama jiems pagalbos žinutes su jūsų buvimo vieta. Už šias žinutes gali tekti mokėti papildomai. Jei norite įjungti pagalbos žinučių siuntimą kilus pavojui, maitinimo mygtuką paspauskite %d kartus (-ų).</string>
+    <string name="setting_safety_b2_desc">Kai sujungsite „Gear“ ir mobilųjį įrenginį, pagalbos žinučių siuntimo funkcija padės kilus pavojui, nes padarys nuotrauką „Gear“ fotoaparatu. Ji praneša pagalbos žinutės adresatams apie jūsų padėtį, išsiųsdama jiems pagalbos žinutes su šia nuotrauka ir jūsų buvimo vieta. Pirmojoje žinutėje bus jūsų buvimo vieta ir vietos nuotrauka. Tada po tam tikro laiko bus išsiųsta antra žinutė tik su jūsų buvimo vieta. Už šias žinutes gali tekti mokėti papildomai. Jei norite įjungti pagalbos žinučių siuntimą kilus pavojui, pradžios mygtuką paspauskite %d kartus (-ų).</string>
+    <string name="setting_safety_b2_no_camera_desc">Kai „Gear“ ir mobilusis įrenginys bus sujungti, pagalbos žinučių siuntimo funkcija padės jums įvykus nelaimei. Ji praneša pagalbos žinutės adresatams apie jūsų padėtį, išsiųsdama jiems pagalbos žinutes su jūsų buvimo vieta. Už šias žinutes gali tekti mokėti papildomai. Jei norite įjungti pagalbos žinučių siuntimą kilus pavojui, pradžios mygtuką paspauskite %d kartus (-ų).</string>
+    <string name="setting_safety_b3_desc1">Jei jums atsitiko nelaimė, paspauskite pradžios mygtuką 3 kartus, kad jūsų pagrindiniams adresatams būtų išsiųstas įspėjimas.</string>
+    <string name="setting_safety_b3_desc2">Pagrindiniai adresatai gaus pagalbos žinutes su informacija apie dabartinę jūsų buvimo vietą.</string>
+    <string name="setting_safety_b3_desc3">Jei norite naudoti šią funkciją, prijunkite mobilųjį įrenginį prie savo „Gear“.</string>
+    <string name="setting_safety_list">Saugos priemonė</string>
+    <string name="setting_samsung_legal">„Samsung“ teisinė informacija</string>
+    <string name="setting_screen_lock">Automatinis užraktas</string>
+    <string name="setting_screen_lock_desc">Naudodami „Gear“ atrakinkite savo mobilųjį įrenginį.</string>
+    <string name="setting_screen_secutiry">EKRANO APSAUGA</string>
+    <string name="setting_send_emergency_picture">Siųsti pagalbos nuotrauką</string>
+    <string name="setting_send_emergency_recording">Siųsti garso įrašą</string>
+    <string name="setting_send_emergency_term_agree">Perskaičiau ir sutinku su visomis aukščiau išdėstytomis nuostatomis ir sąlygomis.</string>
+    <string name="setting_send_help_message">Siųsti pagalbos žinutes</string>
+    <string name="setting_send_terms_conditions">Taisyklės ir sąlygos</string>
+    <string name="setting_smart_relay">Išmanusis perdavimas</string>
+    <string name="setting_smart_relay_desc">Peržiūrėkite „Gear“ turinį mobiliajame įrenginyje pakeldami mobilųjį įrenginį.</string>
+    <string name="setting_smart_toss">Išmanusis krestelėjimas</string>
+    <string name="setting_system">SISTEMA</string>
+    <string name="setting_text_to_speech_engine">Teksto įgarsinimo funkcija</string>
+    <string name="setting_textinput_emoticon">Jaustukai</string>
+    <string name="setting_textinput_keyboard">Klaviatūra</string>
+    <string name="setting_textinput_list">Teksto įvesties metodai</string>
+    <string name="setting_textinput_templates">Šablonai</string>
+    <string name="setting_try_it">Išbandykite</string>
+    <string name="setting_wake_up">Žadinimo gestas</string>
+    <string name="setting_wake_up_desc">Pažadinkite „Gear“ pakeldami ranką, ant kurios yra „Gear“.</string>
+    <string name="setting_wakeupgesture">"Norėdami pažadinti „Gear“ pakelkite ranką, ant kurios yra „Gear“, ir žiūrėkite į „Gear“ ekraną.
+
+Ši funkcija neveikia, kai esate atsilenkę atgal arba gulite. Be to, gali būti naudojama daugiau „Gear“ akumuliatoriaus energijos, nes jo judesio jutiklis visada įjungtas."</string>
+    <string name="setting_wakeupgesture_clock">Laikrodis</string>
+    <string name="setting_wakeupgesture_previous">Vėliausiai peržiūrėtas ekranas</string>
+    <string name="setting_wakeupgesture_screen_on">Pasirinkti rodomą ekraną</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Pasirinkti rodomą ekraną</string>
+    <string name="settings">Nustatymai</string>
+    <string name="settings_application_version">Programos versija</string>
+    <string name="settings_emergency_contact">Tvarkyti pagrindinius adresatus</string>
+    <string name="settings_emergency_contact_empty">Pagrindinių adresatų nepridėta. Norėdami įjungti %s, pridėkite adresatų prie pagrindinių adresatų.</string>
+    <string name="settings_legal_information">Teisinė informacija</string>
+    <string name="settings_message_interval">Žinučių siunt. intervalas</string>
+    <string name="settings_not_set">Nenustatyta</string>
+    <string name="settings_security">Sauga</string>
+    <string name="settings_security_update">Saugos naujinys</string>
+    <string name="settings_security_update_desc">Apsaugo jūsų įrenginį nuo kenkėjiško turinio tobulinant saugą ir paslaugą.</string>
+    <string name="settings_unknown_sources_dialog">Diegimas iš nežinomų šaltinių gali pakenkti jūsų įrenginiui ir asmeniniams duomenims. Bakstelėję „Gerai“ sutiksite, kad jums tenka visa atsakomybė už bet kokius dėl tokių programų naudojimo atsiradusius įrenginio gedimus ar prarastus duomenis.</string>
+    <string name="settings_unknown_sources_subtitle">Leisti diegti programas iš nežinomų šaltinių.</string>
+    <string name="share_loc_disabled">Vietos bendrinimas išjungtas.</string>
+    <string name="share_location_desc">Leisti „Rasti mano „Gear“ ir „Rasti mano įrenginį“, kad būtų bendrinami „Gear“ ir mobiliojo įrenginio vietos duomenys.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Sutinku, kad skubiais atvejais gali būti naudojami mobilieji duomenys ir siunčiamos MMS žinutės. Suprantu, kad tokiu atveju gali būti taikomi papildomi mokesčiai.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Pagalbos pranešimo siuntimo funkcija skirta padėti naudotojui išsiųsti į pasirinkto kontakto, kurį esate įvedę iš anksto, mobilųjį telefoną pranešimą apie apytikrę buvimo vietą ir matomą / girdimą aplinką. Ši funkcija skirta tik jūsų patogumui ir nepakeičia (ir negali būti laikomos pakeičiančiomis) pagalbos skambučių ar atsakingų valstybės institucijų perspėjimų ar pranešimų apie gresiančią ar susidariusią ekstremalią situaciją, galimus padarinius, jų šalinimo priemones ir apsisaugojimo nuo ekstremalios situacijos būdus.
+
+2 Priklausomai nuo sąlygų, tokių kaip tinklo ryšys, GPS / „Wi-Fi“ informacija, jūsų ir (arba) jūsų pasirinkto kontakto įrenginio būsena ir būklė, baterijos lygis, ir/ar kitų aplinkybių, kurių „Samsung Electronics Co.“, Ltd. (t.y. „Samsung“, „mes“, „mus“, „mūsų“), negali kontroliuoti, pagalbos pranešimo siuntimo paslaugos (toliau – „Paslaugos“) gali veikti netiksliai, su nutrūkimais ar būti teikiamos su klaidomis. Buvimo vietos informacijos tikslumui ir Paslaugų teikimui laiku įtakus gali turėti jūsų aplinka, jūsų ir (arba) jūsų pasirinkto kontakto įrenginio būklė. Jeigu nėra aiškiai nustatyta ar pagal įstatymus reikalaujama kitaip, „Samsung“ atsisako suteikti bet kokias garantijas dėl Paslaugų tikslumo, nepertraukiamumo ar klaidų nebuvimo. Atkreipiame dėmesį, kad jūsų pasirinktas kontaktas turi turėti veikiantį mobilųjį telefoną, jame turi būti įjungta tekstinių pranešimų gavimo funkcija ir įrenginys turi būti naudojamas tokioje aplinkoje, kurioje nėra trukdžių priimti tekstinius pranešimus. Aplinkos ir buvimo vietos informacijos perdavimo paslauga gali būti mokama, priklausomai nuo jūsų paslaugų operatoriaus taikomo tarifų plano.
+
+Kad Paslaugos veiktų kaip numatyta, jas užsisakius ir gavus gali reikėti automatiškai įjungti jūsų įrenginio GPS ir „Wi-Fi “ funkcijas. Jūs patvirtinate ir sutinkate dėl automatinio GPS ir „Wi-Fi“ funkcijų (jei reikia) įjungimo be papildomo pranešimo ar papildomo jūsų sutikimo.
+
+3. Jūs patvirtinate ir sutinkate nesinaudoti Paslaugomis netinkamai ar neteisėtiems tikslams ir nepažeisti kitų asmenų privatumo ar asmeninių arba nuosavybės teisių ir naudoti šią funkciją tik laikantis įstatymų ir tik ekstremaliosiomis situacijomis. Jūs sutinkate būti išimtinai atsakingi už naudojimąsi Paslaugomis. „Samsung“ neatsako už jokias pasekmes, kurios gali kilti dėl naudojimosi Paslaugomis.
+
+5. GARANTIJŲ ATSISAKYMAS. JŪS AIŠKIAI SUPRANTATE IR SUTINKATE, KAD:
+ 
+A. PASLAUGOS BŪTŲ TEIKIAMOS „TOKIOS, KOKIOS YRA“, T.Y., „SU VISAIS TRŪKUMAIS“ IR „KOKIOS YRA PRIEINAMOS“. JŪS PRISIIMATE RIZIKĄ UŽ NAUDOJIMĄSI JOMIS. TIEK, KIEK SUSIJĘ SU PASLAUGOMIS, „SAMSUNG“ NESUTEIKIA JOKIŲ AIŠKIAI IŠREIKŠTŲ GARANTIJŲ, UŽTIKRINIMŲ AR SĄLYGŲ. „SAMSUNG“ AIŠKIAI ATSISAKO BET KOKIO POBŪDŽIO PAREIŠKIMŲ IR GARANTIJŲ, TIEK AIŠKIAI IŠREIKŠTŲ, TIEK NUMANOMŲ, ĮSKAITANT, TAČIAU NEAPSIRIBOJANT, VISAS NUMANOMAS GARANTIJAS DĖL PERKAMUMO, TINKAMUMO KONKREČIAM TIKLSUI IR PAŽEIDIMŲ NEBUVIMO, IR JOKIŲ NUMANOMŲ GARANTIJŲ TIEK DĖL SUTARTIES SUDARYMO, TIEK DĖL VEIKIMO.
+
+B. NEAPSIRIBODAMA TUO, KAS MINĖTA AUKŠČIAU, „SAMSUNG“ NETEIKIA JOKIŲ PAREIŠKIMŲ AR GARANTIJŲ, KAD (i) PASLAUGOS ATITIKS JŪSŲ REIKALAVIMUS, (ii) PASLAUGOS BUS TEIKIAMOS NEPERTRAUKIAMAI IR LAIKU, SAUGIOS AR BE KLAIDŲ, (iii) TURINYS, GAUTAS NAUDOJANTIS PASLAUGOMIS, BET KOKIE PRANEŠIMAI AR PASLAUGŲ FUNKCIJOS BUS PRIEINAMOS, TIKSLIOS, IŠSAMIOS AR PATIKIMAS, (iv) PASLAUGŲ AR INFORMACIJOS, AR KITOS MEDŽIAGOS, GAUTOS NAUDOJANTIS PASLAUGOMIS, KOKYBĖ ATITIKS JŪSŲ LŪKESČIUS, (v) BET KOKIOS PASLAUGŲ KLAIDOS AR TRŪKUMAI BUS IŠTAISYTI.
+
+6. ATSAKOMYBĖS APRIBOJIMAS.
+
+A. JŪS AIŠKIAI SUPRANTATE IR SUTINKATE, KAD „SAMSUNG“ NEATSAKINGA PAGAL NEATSARGUMO TEORIJĄ AR KITĄ TEISINĘ AR TEISINGUMO TEORIJĄ, ĮSKAITANT, TAČIAU NEAPSIRIBOJANT, ATSAKOMYBĘ PAGAL SUTARTĮ, DELIKTĄ AR GRIEŽTĄ ATSAKOMYBĘ UŽ BET KOKIUS TIESIOGINIUS, NETIESIOGINIUS, ATSITIKTINIUS, YPATINGUS, BAUDŽIAMUOSIUS, PASEKMINIUS AR PAMOKOMUOSIUS NUOSTOLIUS, FINANSINĘ ATSAKOMYBĘ, ŽALĄ AR IŠLAIDAS, ĮSKAITANT, TAČIAU NEAPSIRIBOJANT, PELNO, NAUDOJIMOSI AR KITUS NUOSTOLIUS (NET JEIGU REMONTAS, PAKEITIMAS AR PINIGŲ UŽ PASLAUGAS GRĄŽINIMAS VISIŠKAI NEATLYGINA JŪSŲ NUOSTOLIŲ ARBA NET JEIGU „SAMSUNG“ ŽINOJO AR TURĖJO ŽINOTI APIE GALIMYBĘ PATIRTI TOKIUS NUOSTOLIUS, FINANSINIUS ĮSIPAREIGOJIMUS, ŽALĄ AR IŠLAIDAS), TIESIOGIAI AR NETIESIOGIAI PATIRTUS AR KILUSIUS DĖL: (i) PRETENZIJŲ DĖL SUTARTIES NESILAIKYMO, GARANTIJOS NESILAIKYMO, LAIDAVIMO AR SĄLYGŲ, GRIEŽTOS ATSAKOMYBĖS, NEATSARGUMO AR KITO CIVILINĖS TEISĖS PAŽEIDIMO, KIEK LEIDŽIAMA PAGAL GALIOJANČIUS ĮSTATYMUS; (ii) JŪSŲ NAUDOJIMOSI AR NEGALĖJIMO NAUDOTIS PASLAUGOMIS, (iii) IŠLAIDŲ PAKAITINĖMS PASLAUGOMS ĮSIGYTI; (iv) NETEISĖTOS PRIEIGOS PRIE SIUNČIAMOS INFORMACIJOS AR DUOMENŲ ARBA JŲ PAKEITIMO; (v) BET KOKIOS TREČIOSIOS ŠALIES PAREIŠKIMŲ IR VEIKLOS; (vi) ŠIOS SUTARTIES; (vii) ŽMONIŲ SUŽALOJIMO AR ŽALOS TURTUI (ĮSKAITANT MIRTIES ATVEJUS)), (viii) KITŲ KLAUSIMŲ, SUSIJUSIŲ SU PASLAUGOMIS AR JOMIS NAUDOJANTIS PATEIKTU TURINIU.
+ 
+B. JEIGU SAVO NUOŽIŪRA PASITELKSITE IŠIMTINES PRIEMONES DĖL GINČŲ SU „SAMSUNG“, SUSIJUSIŲ SU ŠIA SUTARTIMI AR PASLAUGOMIS, GALIMYBĖ NAUDOTIS PASLAUGOMIS BUS APRIBOTA.
+ 
+C. KAI KURIOSE JURISDIKCIJOSE NELEIDŽIAMA NEĮTRAUKTI GARANTIJŲ ARBA APRIBOTI AR NEĮTRAUKTI ATSAKOMYBĖS UŽ ATSITIKTINIUS AR PASEKMINIUS NUOSTOLIUS. ATITINKAMAI, JUMS GALI BŪTI NETAIKOMI KAI KURIE APRIBOJIMAI, APRAŠYTI 5 IR 6 SKYRIUOSE.
+
+7. ŽALOS ATLYGINIMAS / KOMPENSAVIMAS. Jūs sutinkate nepakenkti, atlyginti / kompensuoti ir saugoti „Samsung“ nuo bet kokio pobūdžio pretenzijų / ieškinių, veiksmų, reikalavimų, išlaidų, finansinių įsipareigojimų, nuostolių, žalos, piniginių baudų ir išlaidų (įskaitant pagrįstas išlaidas advokatui), kylančių dėl arba susijusių su jūsų naudojimusi Paslaugomis ar šios Sutarties nesilaikymu. Nepaisant asmeninio jums pagal šias sąlygas suteiktų licencijų pobūdžio, jeigu jūs leidžiate bet kokiam asmeniui naudotis šiomis Paslaugomis arba pateikiate informaciją, gautą naudojantis Paslaugomis, jūs įsipareigojate informuoti tokį asmenį apie šių sąlygų, kurių asmuo privalo laikytis, egzistavimą ir sutinkate nepakenkti, atlyginti / kompensuoti ir saugoti „Samsung“ nuo visų pretenzijų / ieškinių, veiksmų, reikalavimų, finansinių įsipareigojimų, nuostolių, žalos, piniginių baudų ir išlaidų (įskaitant pagrįstas išlaidas advokatui), susijusių su tokio asmens naudojimusi Paslaugomis.
+
+8. Atsakomybę šalinančios aplinkybės (Force Majeure). „Samsung“ neatsako už jokį Paslaugų, numatytų šiose sąlygose, pavėluotą teikimą, nesuteikimą ar pertraukimą dėl nenugalimos jėgos (stichinės nelaimės), civilinių ar karo institucijų, karo, teroristinių veiksmų, darbo ginčų, trečiųjų šalių teikiamų medžiagų ar paslaugų, ar bet kokios priežasties, kurios „Samsung“ pagrįstai negali kontroliuoti."</string>
+    <string name="shm_share_my_location_checkbox_text">Sutinku leisti %1$s perduoti mano vietos duomenis %2$s adresatams.</string>
+    <string name="smartrelay_not_show">Neberodyti</string>
+    <string name="software_update">Programinės įrangos naujinys</string>
+    <string name="ss_double_tap_any_screen">Jei norite peržiūrėti šviesumo ir garsumo valdiklius bei kitą naudingą informaciją, dviem pirštais dukart bakstelėkite bet kurį ekraną.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Skambučių peradresavimas į jūsų „Gear“</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Užklausiama…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Skaitomi nustatymai…</string>
+    <string name="ss_loading_ing_abb">Įkeliama…</string>
+    <string name="ss_mobile_data_is_disabled">Mobilieji duomenys išjungti. Vietoj to prisijunkite prie WLAN arba įjunkite mobiliuosius duomenis ir bandykite dar kartą.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobiliojo telefono duomenys išjungti. Vietoj to prisijunkite prie „Wi-Fi“ tinklo arba įjunkite mobiliojo telefono duomenis ir pabandykite dar kartą</string>
+    <string name="ss_no_network_connection">Nėra tinklo ryšio</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Naudotojo vadovas</string>
+    <string name="str_no">Ne, ačiū</string>
+    <string name="str_yes">Taip</string>
+    <string name="stub_list_install">Įdiegti</string>
+    <string name="sw_eula_condition">Perskaičiau pirmiau nurodytas sąlygas ir nuostatas ir su jomis sutinku.</string>
+    <string name="sw_eula_desc2">Jūs sutinkate pateikti „Samsung“ klaidos žurnalą apie bet kokią programinės įrangos naujinimo klaidą, kilusią jūsų įrenginyje. Tai padės „Samsung“ patobulinti „Samsung“ programinės įrangos naujinimo procesą ir užtikrinti, kad jūsų įrenginys būtų tinkamai atnaujintas.</string>
+    <string name="tab_stub_list">Naujausi</string>
+    <string name="talkback_download">Atsisiųsti</string>
+    <string name="talkback_setting">Nustatymas</string>
+    <string name="the_samsung_gear_application">„Samsung Gear“ programa</string>
+    <string name="threeg_connection">Naudoti nuotolinį ryšį</string>
+    <string name="threeg_connection_subtitle">Prisijunkite prie „Gear“ nuotoliniu būdu, naudodami mobiliuosius duomenis ar „Wi-Fi“ kartu su „Samsung“ paskyra.</string>
+    <string name="threeg_connection_subtitle_chn">Prisijunkite prie „Gear“ nuotoliniu būdu, naudodami mobiliuosius duomenis arba WLAN kartu su „Samsung“ paskyra.</string>
+    <string name="title_activity_clock_delete">Pašalinti</string>
+    <string name="title_activity_connect_popup">Jungtis</string>
+    <string name="title_activity_paired_watch">Susietas įrenginys</string>
+    <string name="title_alertdialog_device_name_popup">Pervardyti „%s“</string>
+    <string name="title_alertdialog_disconnect_popup">Atsijungti</string>
+    <string name="title_dialog_pm_error">Perspėjimas</string>
+    <string name="title_dialog_uninstall">Pašalinti</string>
+    <string name="title_eula">Teisinė informacija</string>
+    <string name="title_findmywatch_connect2">Rasti mano „Gear“</string>
+    <string name="title_findmywatch_finding">Ieškoma…</string>
+    <string name="tri_connect_title_circle_to_gear">Prijungti %1$s prie %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Jei per „Bluetooth“ prijungsite %1$s prie %2$s, %3$s bus laikinai atjungtas nuo mobiliojo įrenginio. Šis ryšys bus atnaujintas netrukus, o %4$s bus prijungtas ir prie %5$s, ir prie mobiliojo įrenginio.</string>
+    <string name="tt_install_voice_data">Diegti TTS balso duomenis</string>
+    <string name="tt_install_voice_data_required">Įdiekite „Gear“ papildomas teksto įgarsinimo kalbas.</string>
+    <string name="tt_language">Kalba</string>
+    <string name="tt_send_help_message">Siųsti pagalbos žinutes</string>
+    <string name="tt_tts_language_guide">Teksto įgarsinimo kalba yra „Gear“ nustatymuose pasirinkta kalba. Jei teksto įgarsinimo funkcija nepalaiko jūsų kalbos, bus naudojama anglų k. (JK).</string>
+    <string name="unable_to_connect_popup_message">Nepavyko prijungti „Gear“ prie mobiliojo įrenginio. Bandykite dar kartą vėliau.</string>
+    <string name="unable_to_connect_popup_title">Nepavyko prisijungti</string>
+    <string name="unable_to_lock_gear">Neįmanoma užrakinti „Gear“</string>
+    <string name="unable_to_reset_gear">Neįmanoma iš naujo nustatyti „Gear“</string>
+    <string name="unabled_health">Šios programos neįmanoma atidaryti, nes ji išjungta.</string>
+    <string name="uninstall_applications">Pašalinti programas</string>
+    <string name="unknown_sources_msg_new">%1$s nebus įdiegta naudojant %2$s. Jūsų įrenginiui ir asmeniniams duomenims kils didesnis pavojus, jei naudosite programas iš nežinomų šaltinių. Sutinkate, kad jums tenka visa atsakomybė už bet kokius dėl tokių programų naudojimo atsiradusius įrenginio gedimus ar prarastus duomenis. Norėdami visada leisti diegti programas iš nežinomų šaltinių, eikite į %3$s > %4$s > %5$s ir įjunkite %6$s. Bakstelėkite „Gerai“ ir įdiekite %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s nėra iš %2$s ir jame nėra „Gear“ skirtos programos. Jūsų įrenginiui ir duomenims kils didesnis pavojus, jei naudosite programas iš nežinomų šaltinių. Diegimas bus atšauktas, o %3$s ištrinta iš telefono.</string>
+    <string name="unknown_sources_title">Nežinomi šaltiniai</string>
+    <string name="update_button">Atnaujinti</string>
+    <string name="update_summary">Patikrinkite atnaujinimus</string>
+    <string name="update_the_latest_version">Yra naujinys</string>
+    <string name="voice_control_subtitle">Pauzių metu, kai jūsų „Gear“ neskamba ir nevibruoja, ištarkite „Answer“ arba „Reject“ ir atsiliepkite arba atmeskite skambučius.</string>
+    <string name="voicememo_link1">„Nuance“ sąlygomis ir taisyklėmis</string>
+    <string name="voicememo_link2">„Samsung“ privatumo politika</string>
+    <string name="voicememo_link3">„Nuance“ privatumo politikoje</string>
+    <string name="watchapp_all">Programos</string>
+    <string name="watchapp_noapps">Nėra programų</string>
+    <string name="welcome_Gear">„Gear“</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">„Bluetooth“</string>
+    <string name="widget_fmw_refresh">Naujinama…</string>
+    <string name="wifi_only">Tik „Wi-Fi“</string>
+    <string name="wifi_only_chn">Tik WLAN</string>
+    <string name="wifi_only_summary">Atsisiųskite naujinius tik prisijungę prie „Wi-Fi“ tinklo.</string>
+    <string name="wifi_only_summary_chn">Atsisiųsti, tik kai prisijungiama per WLAN.</string>
+    <string name="email_sanitize">Šio el. laiško turinys negali būti rodomas „Gear“ saugumo sumetimais. Jei reikia daugiau informacijos, peržiūrėkite šį el. laišką mobiliajame įrenginyje.</string>
+    <string name="knox_sanitize">Bakstelėkite čia ir įjunkite KNOX režimą.</string>
+</resources>

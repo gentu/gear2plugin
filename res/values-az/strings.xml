@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Zəng zamanı mümkün deyil.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Tam ekranın ani pəncərəsi</string>
+    <string name="alert_mini">Kiçik üzən pəncərə</string>
+    <string name="alertdialog_backkey_popup_content">Xəbərdarlıq</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Bu sizin %s ilə bağlantınızı kəsəcək.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s mobil cihazınızdan ayrılacaqdır. Növbəti dəfə bu cihazlara qoşulduqda Bluetooth-dan istifadə etməlisiniz. Bundan sonra bütün bağlantılar Uzaqdan bağlantı ilə edilə bilər.</string>
+    <string name="alertdialog_uninstall_popup_content">Quraşdırılma ləğv edilsin</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">Avto zəng yönləndirməsi</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">Gear-in mobil cihazınızla əlaqəsi kəsildikdə Zəngi yönləndirilməsini avtomatik aktivləşdirin. Cihazlar yenidən qoşulmayana kimi, bu, sizin mobil cihaza daxil olan zəngləri Gear-nizə yönləndirəcəkdir.</string>
+    <string name="auto_update">Avtomatik yeniləmə</string>
+    <string name="auto_update_summary">Yeniləmələri avtomatik yoxla.</string>
+    <string name="backing_up">Ehtiyatda saxlanılır</string>
+    <string name="backup_complete">Ehtiyatda saxlanılması tamamlandı.</string>
+    <string name="bnr_backup">Ehtiyatda saxlanılır</string>
+    <string name="bnr_bakcup_title">Nüsxə</string>
+    <string name="bnr_cancel">Ləğv et</string>
+    <string name="bnr_canel">Ləğv et</string>
+    <string name="bnr_except">%1$s (%2$s-dən başqa)</string>
+    <string name="bnr_except_autolock">Avtomatik kilidləmə</string>
+    <string name="bnr_except_remoteconnection">Uzaqdan bağlantı</string>
+    <string name="bnr_except_texttemplate">Mətn nümunələri</string>
+    <string name="bnr_no">Xeyr</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Yeni cihaza qoşulmaq üçün Gear zavod parametrlərinə sıfırlanmalıdır.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear tam qurulmamışdır. Qurma ustası hazırda Gear-da açılmışdır, lakin Gear-a qoşulmaq üçün siz bu cihazda da Gear Managerdə qurma ustasını açmalısınız</string>
+    <string name="bnr_reset_initialization">Qeyd</string>
+    <string name="bnr_restored">Məlumat bərpa olundu.</string>
+    <string name="bnr_yes">Bəli</string>
+    <string name="bt_connected">Qoşulmuşdur</string>
+    <string name="bt_disconnected">əlaqəsi pozuldu</string>
+    <string name="bt_unpaired">Qoşulmayıb</string>
+    <string name="button_restore">Bərpa et</string>
+    <string name="call">ZƏNG</string>
+    <string name="call_check_gear_status_when_cfwd">Mobildən Gear-a və Gear-dan mobilə zəng yönləndirmə funksiyaları eyni anda aktivləşdirilə bilməz.</string>
+    <string name="call_dualsim1">SIM kart 1</string>
+    <string name="call_dualsim1sim2">Hər iki SIM kart</string>
+    <string name="call_dualsim2">SIM kart 2</string>
+    <string name="call_forwarding">Zəngin ötürülməsi</string>
+    <string name="call_forwarding_agree">Razıyam.</string>
+    <string name="call_forwarding_desc">Daxil olan zəngləri mobil cihazdan Gear-a yönləndir.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">Mobil cihazdan Gear-a zəng yönləndirməsini söndürmək sorğusu verilmişdir. Mobil şəbəkənizin statusu və mobil cihaz nəticələrə təsir edə bilər.</string>
+    <string name="call_forwarding_enable_msg">Mobil cihazdan Gear-a zəng yönləndirməsini yandırmaq sorğusu verilmişdir. Mobil şəbəkənizin statusu və mobil cihaz nəticələrə təsir edə bilər.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">Mobil cihazınızdan Gear-a zəng yönləndirməsi hazırda aktivdir. Mobil cihazınıza daxil olan zənglər Gear-a yönləndiriləcək. Gear-nız sizinlə deyilsə, heç bir zəngi buraxmadığınızdan əmin olmaq üçün Parametrlərə keçin və Avtomatik yönləndirməni qeyri-aktiv edin.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Səs zngi yönləndirməsi q-aktiv edilir…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Səs zəngi yönləndirməsi aktiv edilir…</string>
+    <string name="call_no_gear_number">Rəqəmlər yoxdur</string>
+    <string name="call_select_dualsim_title">SIM kartı seçin</string>
+    <string name="call_voice_control">Səs nəzarəti</string>
+    <string name="callforwarding_help_des1">Cihazın Bluetooth və ya Uzaqdan bağlantı ilə qoşulmasından asılı olmayaraq zənglərin avtomatik yönləndiriləcəyi cihaza keçin.</string>
+    <string name="callforwarding_help_des2">Hərəkət edən və ya Gear geyinən zaman və o, mobil cihazınıza uzaqdan qoşulmuş olduqda mobil cihazınıza edilən zəngləri Gear-da qəbul edin.</string>
+    <string name="cancel">Ləğv et</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Zəng yönləndirməsini söndürmək olmadı.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">Daha çox saat yüklə</string>
+    <string name="clocks_noti_uninstall_clock">%s quraşdırılması ləğv ediləcək.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s silinəcək və %2$s susmaya görə saat kimi təyin ediləcək.</string>
+    <string name="clocks_title_basic_clocks">ƏSAS SAATLAR</string>
+    <string name="clocks_title_downloaded_clocks">YÜKLƏNƏN SAATLAR</string>
+    <string name="clocks_title_style_clocks">ÜSLUB SAATLAR</string>
+    <string name="clocks_uninstalled">Quraşdırılmamışdır.</string>
+    <string name="clocks_uninstalling">Quraşdırılmanın ləğvi…</string>
+    <string name="close">Bağla</string>
+    <string name="closing_samsung_gear_message">Gear-nız sıfırlandı. Samsung Gear proqramı qısa zamanda bağlanacaq.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear proqramını bağlayın</string>
+    <string name="cloud_backup_no_information">Heç zaman</string>
+    <string name="cloud_backup_restore_backup_now">Nüsxə məlumatı</string>
+    <string name="cloud_backup_restore_restore_now">Məlumatları bərpa et</string>
+    <string name="cmw_agree">Razıyam</string>
+    <string name="cmw_eula_agree">Mən yuxarıdakı şərtləri və qaydaları başa düşürəm və onları qəbul edirəm.</string>
+    <string name="cmw_for_setting">Məkan xidmətləri qeyri-aktiv edilmişdir. Parametrlərə keç.</string>
+    <string name="cmw_high_accuracy_dialog_message">Daha sürətli və daha dəqiq yer aşkarlanması üçün Məkan > Rejim keçərək Yüksək dəqiqlik funksiyasını seçin.</string>
+    <string name="cmw_high_accuracy_dialog_title">Yüksək düzgünlük seç</string>
+    <string name="cmw_legal_content">“Məkanı Paylaş” aktivləşdirməklə siz Mənim Gear-ımı Tap və Mənim Cihazımı Tap xidmətinin təmin edilməsi üçün mobil cihazınız və/və ya Gear cihazı ilə əlaqədar məkan məlumatının Samsung serveri vasitəsilə köçürülməsi ilə razılaşırsınız. Cihazınızın yeri barədə heç bir məlumat Samsung serverində saxlanmır.</string>
+    <string name="cmw_legal_content1">\"%1$s &amp; %2$s\" aktivləşdirməklə siz %1$s &amp; %2$s xidmətinin təmin edilməsi üçün mobil cihazınız və/və ya Gear cihazı ilə əlaqədar məkan məlumatının Samsung serveri vasitəsilə köçürülməsi ilə razılaşırsınız. Cihazınızın məkanı barədə heç bir məlumat Samsung serverində saxlanmır.</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s &amp; %2$s\" aktivləşdirməklə siz %2$s xidmətinin təmin edilməsi üçün mobil cihazınızla əlaqədar məkan məlumatının Samsung serveri vasitəsilə köçürülməsi ilə razılaşırsınız. Cihazınızın məkanı barədə heç bir məlumat Samsung serverində saxlanmır.</string>
+    <string name="cmw_legal_content_2">Samsung Məxfilik Siyasəti</string>
+    <string name="cmw_legal_title">Hüquqi bildirişlər</string>
+    <string name="cmw_location">Məkan xidmətlərini aktivləşdir</string>
+    <string name="cmw_show_on_map">"Xəritədə
+göstərilsin"</string>
+    <string name="color_black">Qara</string>
+    <string name="color_blue">Mavi</string>
+    <string name="color_brown">Qəhvəyi</string>
+    <string name="color_gray">Boz</string>
+    <string name="color_green">Yaşıl</string>
+    <string name="color_light_sky_blue">Səma rəngi</string>
+    <string name="color_medium_purple">Orta bənövşəyi</string>
+    <string name="color_orange">Narıncı</string>
+    <string name="color_pink">Çəhrayı</string>
+    <string name="color_purple">Bənövşəyi</string>
+    <string name="color_red">Qırmızı</string>
+    <string name="color_spring_green">Yaz yaşılı</string>
+    <string name="common_none">Yoxdur</string>
+    <string name="common_off">Söndür</string>
+    <string name="common_on">Qoş</string>
+    <string name="common_recent_apps">Son proqr</string>
+    <string name="connect_popup_content">%s-a qoşulur…</string>
+    <string name="connected_by_trasport_BT">Bluetooth vasitəsilə qoşulub</string>
+    <string name="connected_by_trasport_SCS">Uzaqdan qoşulmuşdur</string>
+    <string name="connecting_popup_message">Gear-a bağlanır…</string>
+    <string name="connecting_popup_title">Gear-a qoşulun</string>
+    <string name="dialog_check_phone_number_msg1">Aşağıdakı məlumatın düzgün olduğundan əmin olun:</string>
+    <string name="dialog_check_phone_number_msg2">Mobil telefon nömrəsi: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear telefon nömrəsi: %s</string>
+    <string name="dialog_check_phone_number_msg4">Avtomatik zəng yönləndirməsini təsdiq və aktiv etmək üçün OK vurun.</string>
+    <string name="dialog_enable_remote_connection_desc">Avtomatik zəng yönləndirməsini yandırmaq üçün Uzaqdan Bağlantını aktivləşdirin və yenidən cəhd edin.</string>
+    <string name="dialog_enable_remote_connection_title">Uzaqdan bağlantını aktivləşdir</string>
+    <string name="dialog_reverse_msg">Xidmət təminatçınızdan asılı olaraq mobil cihazınıza və Gear-nıza bu funksiyadan istifadə etmək imkanı vermək üçün ayrıca abunəliklər tələb edilə bilər. Bu, əlavə xərclərə səbəb ola bilər.</string>
+    <string name="dialog_set_phone_number_msg">Avtomatik zəng yönləndirməsini aktiv etmək üçün daxil olan zənglərin yönləndirilməsini istədiyiniz cihazların telefon nömrələrini qurun.</string>
+    <string name="dialog_set_phone_number_title">Avtomatik zəng yönləndirməsini aktivləşdir</string>
+    <string name="disable_loc_text">Məkanın paylaşılması söndürüləcək. Siz Mənim Gear-mı Tap və ya Mənim Cihazımı Tap vasitəsilə Gear və ya mobil cihazı axtarmaq üçün məkan məlumatından istifadə edə biləcəksiniz.</string>
+    <string name="disable_loc_text_no_gps">Məkanı paylaşma qeyri-aktiv ediləcək. Siz Mənim Cihazımı Tap vasitəsilə mobil cihazınızı axtarmaq üçün məkan məlumatından istifadə edə bilməyəcəksiniz.</string>
+    <string name="disable_remote_connection">Uzaqda bağlantını söndür</string>
+    <string name="disable_remote_connection_fmm_fmd">Mənim Gearımı tap və Mənim Cihazımı tap</string>
+    <string name="disable_remote_connection_receiving_blocked">Mesajlar, e-poçtlar və bildirişlər mobil cihazda alınır</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Mobil cihazdan e-poçt və bildirişlər alınır</string>
+    <string name="disable_remote_connection_warning">Uzaqdan bağlantı söndürüləcək. Aşağıdakı funksiyalar Gear Bluetooth vasitəsilə mobil cihaza qoşulmayanadək mümkün olmayacaq:</string>
+    <string name="disable_share_location">Məkanı Paylaşmanı söndür</string>
+    <string name="disconnect_popup_content">%s ilə bağlantı kəsilir…</string>
+    <string name="do_not_show_again">Bir daha göstərmə</string>
+    <string name="enable_auto_call_forwarding_msg">Gear ayrılmış olduqda daxil olan zəngləri mobil cihazdan Gear-a avtomatik yönləndirin. Xidmət təminatçınızdan asılı olaraq, bu, əlavə xərclərə səbəb ola bilər. Avtomatik zəng yönləndirməsini aktiv etmək üçün OK vurun.</string>
+    <string name="enable_auto_call_forwarding_title">Avto zəng yönlənd aktiv et</string>
+    <string name="enable_more_notifications_enable">Qoş</string>
+    <string name="enable_notification_access">Bildiriş çıxışını aktivləşdir</string>
+    <string name="enable_notification_access_desc">"Bu funksiya əlaqələr və sizə göndərilən kontakt və mesajlar kimi şəxsi məlumat daxil ola bilən bütün bildirişləri oxuya biləcək. O, eyni zamanda bu bildirişləri rədd edə və ya onlarla bağlı əməliyyatlar seçə biləcək.
+Gear-da bildirişlər almaq üçün Aktivləşdir vurun və %s-ı aktivləşdirin."</string>
+    <string name="enable_share_location">Məkanı paylaşmağı aktivləşdir</string>
+    <string name="enabled_loc">Məkanın paylaşılması aktiv edildi.</string>
+    <string name="error_enter_device_name">Cihaz adını daxil edin.</string>
+    <string name="error_occurred">Səhv oldu.</string>
+    <string name="find_my_device">Cihazımı tap</string>
+    <string name="find_my_gear">Mənim Gear-mı tap</string>
+    <string name="find_watch_btn_start">Başla</string>
+    <string name="find_watch_btn_stop">Dayandır</string>
+    <string name="find_watch_off">Gear-ı tapmaq üçün Başla nişanına toxunun. Gear səs çıxaracaq və onun ekranı yanacaqdır</string>
+    <string name="find_watch_on">Gear axtarışını dayandırmaq üçün Dayandır vurun. Gear daha səs çıxarmayacaq və ekranı sönəcəkdir</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s-ın quraşdırılması ləğv ediləcək və standart şrift %2$s-ə tətbiq ediləcək.</string>
+    <string name="force_wifi_direct_msg">Proqram Wi-Fi Direct ilə quraşdırılacaq. Bu, sizin hazırki Wi-Fi Direct bağlantınızı bitirəcək. Quraşdırmanı ləğv etsəniz, bu proqramı quraşdırmaq üçün onu bir daha yükləməli olacaqsınız.</string>
+    <string name="force_wifi_direct_title">Yüklə</string>
+    <string name="force_wifi_install">Yüklə</string>
+    <string name="gear2_backup_confirm_text">Məlumatınızı indi nüsxələsəniz, mobil cihazda olan hazırki Gear nüsxə məlumatı ən son Gear məlumatı ilə əvəz ediləcək.</string>
+    <string name="gear2_restore_confirm_text">Məlumatınızı bərpa etsəniz, hazırda Gear-nızda olan məlumat silinəcək və hazırki gear nüsxə məlumatı ilə əvəz ediləcək.</string>
+    <string name="gear2_text">"%1$s məzmununun nüsxəsini çıxarmaq üçün cihazınızın yaddaşından istifadə edin:
+%2$s
+
+Əvvəlcədən bu məzmunun nüsxəsini çıxarmısınızsa, onu indi %3$s-də bərpa edə bilərsiniz.
+
+Faylın ölçüsündən asılı olaraq, bu bir müddət vaxt ala bilər."</string>
+    <string name="gear2_text_import3">Parametrlər</string>
+    <string name="gear_bnr_desc">"Aşağıdakı %1$s məlumatını nüsxələmək üçün mobil cihazın yaddaşından istifadə edin: %2$s
+
+Əvvəldən %3$s məlumatınızı nüsxələmisinizsə, onu indi %4$s-yə bərpa edə bilərsiniz.
+
+Faylın ölçüsündən asılı olaraq bu, bir qədər zaman ala bilər."</string>
+    <string name="gear_location_popup_message">Mobil cihazınız indi Gear-ı axtarır. Bu, bir neçə dəqiqə alacaq. Gear-ı içəridə olan zaman yerləşdirmək çətin ola bilər.</string>
+    <string name="gear_location_popup_title">Gear-ı yerləşdir</string>
+    <string name="gear_location_text">Gearın yeri</string>
+    <string name="gear_lock_success">Gear kilidləndi.</string>
+    <string name="gear_lock_text">Gear-ı kilidlə</string>
+    <string name="gear_locked">Gear kilidləndi</string>
+    <string name="gear_locked_text1">Gear kilidləndi. Kiliddən açmaq üçün Gear-ı Bluetooth vasitəsilə mobil cihaza qoşun.</string>
+    <string name="gear_phone_number">Gear telefon nömrəsi</string>
+    <string name="gear_phone_number_popup_desc">Mobil cihazınıza edilən bütün zənglər %s-a yönləndiriləcək.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Gear-ı kilidləmək üçün Uzaqdan bağlantı ilk öncə aktiv edilməlidir.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Gear-ı sıfırlamaq üçün Uzaqdan bağlantı ilk öncə aktiv edilməlidir.</string>
+    <string name="gear_reset_text">Gear-ı sıfırla</string>
+    <string name="gear_to_mobile">Gear-dan mobilə</string>
+    <string name="gear_to_mobile_des">İki cihaz Bluetooth vasitəsilə qoşulan zaman Gear-nıza edilən zəngləri mobil cihazınızda qəbul edin.</string>
+    <string name="gear_unable_to_locate_message">Məkanı tapmaq alınmadı. Daha sonra yenidən cəhd edin.</string>
+    <string name="gear_unable_to_locate_title">Gear-ı yerləşdirmək olmadı</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Divar kağızları</string>
+    <string name="home_bg_color">Rənglər</string>
+    <string name="home_bg_colors_title">MÖVCUD RƏNGLƏR</string>
+    <string name="home_bg_delete_actionbar_selected">Seçildi</string>
+    <string name="home_bg_delete_dialog_msg">%d divar kağızı Gear Manager-dən və Gear-nızdan silinəcək.</string>
+    <string name="home_bg_delete_select_all">Hamısını seç</string>
+    <string name="home_bg_max_more_image_toast">Divar kağızlarının sayı maksimuma (%d) çatıb.</string>
+    <string name="home_bg_more_images">Daha çox şəkil</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear divar kağızlarının yüklənməsi…</string>
+    <string name="home_bg_popup_wallpaper_title">Divar kağızları yüklə</string>
+    <string name="home_bg_toast_saved">Yaddaşa yazıldı.</string>
+    <string name="home_bg_wallpaper">Divar kağızı</string>
+    <string name="home_bg_wallpapers_title">MÖVCUD DİVAR KAĞIZLARI</string>
+    <string name="homelayout_apps">PROQRAMLAR</string>
+    <string name="incoming_calls_title">Gələn zənglər</string>
+    <string name="info_build_number">Proqram versiyası</string>
+    <string name="info_model_number">Model nömrəsi</string>
+    <string name="info_software_update">Proqram yeniləməsi</string>
+    <string name="information_provision_agreement">Məlumatın təmin edilməsinə dair müqavilə</string>
+    <string name="information_provision_agreement_mgs">"Voice Memo Nuance Communications, Inc. adlanan üçüncü tərəf xidmət təminatçısının təmin etdiyi səs tanınması texnologiyalarından istifadə edir. Bu səbəbdən səs məlumatlarınız Nuance-a aid serverlərdə (ABŞ) saxlanır və Voice Memo-dan istifadə sizin Nuance Şərtləri və Qaydaları ilə razılaşmanızı tələb edir.
+ Nuance sizin səs məlumatlarınızdan istifadə edərək xidmətləri yaxşılaşdırmaq və texnologiyaları inkişaf etdirmək hüququna malikdir. Nuance həmçinin yuxarıda qeyd edilən səs məlumatlarını Nuance-ın tərəfdaşlarına təqdim edə bilər. Sizin səs məlumatlarınız yuxarıda qeyd edilən məqsədlərə nail olunana kimi saxlanacaq. Voice Memo xidmətləri haqqında məlumat üçün Samsung Məxfilik Siyasətini and Nuance Məxfilik Siyasətini oxuyun.
+ Yuxarıda qeyd edilən məlumatların verilməsi ilə razı deyilsinizsə, Voice Memo xidmətlərindən istifadə etməyin."</string>
+    <string name="init_manage_notifications_desc">%1$s-dan bildiriş almasını istədiyiniz proqramları seçin. %2$s-nın batareya enerjisinə qənaət etmək üçün bildiriş almaq istəmədiyiniz proqramların seçimini ləğv edin.</string>
+    <string name="install_in_progress">İşlənilir…</string>
+    <string name="latitude">En</string>
+    <string name="limit_notification_desc">Mobil cihaz istifadə edilən zaman siqnalların Gear-da peyda olmasını blokla.</string>
+    <string name="limit_notification_dialog_desc">Gear-da Bildirişləri məhdudlaşdır funksiyasını aktivləşdirmək mümkün olmadı. Mobil cihazınızda ekran kilidi qurulmamışdır.</string>
+    <string name="limit_notification_title">Limit bildirişləri</string>
+    <string name="location_info_title">Məkanı paylaş</string>
+    <string name="lock_gear_legal_text1">Gear-ı Kilidlə funksiyasından istifadə etməklə siz səlahiyyətsiz istifadənin qarşısını almaq üçün Gear-ı uzaqdan kilidləyə bilərsiniz. Siz Gear-ı yenidən mobil cihaza qoşmaqla onu kiliddən aça bilərsiniz.</string>
+    <string name="lock_gear_legal_text2">*Gear-ın, mobil cihazın və ya şəbəkə mühitinin vəziyyətindən asılı olaraq Gear-ı Kilidlə funksiyasının işləməsi bir qədər vaxt ala və ya hətta işləməyə bilər.</string>
+    <string name="lock_gear_text">Mobil cihazınız və Gear Bluetooth vasitəsilə qoşulu olduqda Gear-ı kilidləmək olmur.</string>
+    <string name="login_to_samsung_account">Samsung hesabına daxil ol</string>
+    <string name="login_to_samsung_account_desc">Gear-a Uzaqdan bağlantını aktiv etmək üçün Samsung hesabınıza daxil olun.</string>
+    <string name="login_to_samsung_account_full_desc">"Hətta Bluetooth-la
+qoşulmadıqda aşağıdakı
+funksiyalardan istifadə etmək
+üçün Samsung hes. daxil olun:
+- Bildirişlər alınır
+- Uzaq bağl ilə proqr istifadə
+Uzaqdan istifadə əlavə
+xərclərə səbəb ola bilər."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Uzunluq</string>
+    <string name="main_bt_unpaired">Qoşulmayıb</string>
+    <string name="main_disconnected">əlaqəsi pozuldu</string>
+    <string name="manage_applications">Proqramları idarə et</string>
+    <string name="manage_notifications">Bildirişləri idarə et</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Zəng yönləndirməsi %s daxil olan zəngləri xüsusi nömrəyə yönləndirən şəbəkə xidmətidir. Xidmət təminatçınızdan asılı olaraq Gear-ın bu funksiyadan istifadə etməsinə imkan vermək üçün abunəlik tələb edilə bilər. Bu, əlavə xərclərə səbəb ola bilər.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobil cihaz</string>
+    <string name="masterapp_not_installed">Sizin mobil cihazınızda %1$s quraşdırılmamışdır. Gear-da %2$s-dən istifadə etmək üçün mobil cihazınıza %1$s yükləyin. Siz yükləmə ekranına keçəcəksiniz</string>
+    <string name="masterapp_not_installed_goto_deeplink">Sizin mobil cihazınızda %1$s quraşdırılmamışdır. Gear-da %2$s-dən istifadə etmək üçün mobil cihazınıza %1$s yükləyin. Siz yükləmə ekranına keçəcəksiniz</string>
+    <string name="masterapp_uninstalled">%1$s sizin mobil cihazınıdan silinəcəkdir. Gear-da %2$s-dan istifadə etmək üçün mobil cihazınıza %1$s yükləyin</string>
+    <string name="maximum_size_warning">Simvolların sayı maksimuma çatıb.</string>
+    <string name="menu_about_device">%s HAQQINDA</string>
+    <string name="menu_actionbar_remove">Sil</string>
+    <string name="menu_actionbar_uninstall">Quraş.ləğv et</string>
+    <string name="menu_appsandsettigns">PROQRAMLAR VƏ PARAMETRLƏR</string>
+    <string name="menu_clock">Saat</string>
+    <string name="menu_display">ƏSAS EKRANI REDAKTƏ ET</string>
+    <string name="menu_downloaded_font">YÜKLƏNMİŞ ŞRİFTLƏR</string>
+    <string name="menu_filetransfertogear">FAYLLARI GEARA KÖÇÜR</string>
+    <string name="menu_gallery">Şəkil</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitnes</string>
+    <string name="menu_help">Kömək</string>
+    <string name="menu_home_screen">Əsas ekran üslubunu quran</string>
+    <string name="menu_music">Musiqi</string>
+    <string name="menu_myapp">Proqramlarım</string>
+    <string name="menu_notification">Bildiriş səsi</string>
+    <string name="menu_rename">Adını dəyişdir</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">Parametrlər</string>
+    <string name="mobile_to_gear">Mobildən Gear-a</string>
+    <string name="mobile_to_gear_des">İki cihaz uzaqdan qoşulmuş olduqda mobil cihazınıza edilən zəngləri Gear-da alın.</string>
+    <string name="monotype_default_font">Susmaya görə şrift</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Daha çox</string>
+    <string name="more_options">Daha çox seçin</string>
+    <string name="multisim_title">Çoxsaylı SIM</string>
+    <string name="navigate_up">Yuxarı keç</string>
+    <string name="new_notification_list">Siyahı görünüşü</string>
+    <string name="new_notifications_list_desc">Gear-da qəbul edilən bildirişlər siyahısını saatın solunda göstər.</string>
+    <string name="no_application_selected">Proqram seçilməyib</string>
+    <string name="no_downloaded_applications">Yüklənmiş proqram yoxdur</string>
+    <string name="no_of_application_selected">%d proqram seçilib</string>
+    <string name="no_remote_connection_popup_msg">Avtomatik zəng yönləndirməsini aktiv etmək üçün mobil cihazınızda Samsung Gear proqramını açın və Uzaqdan bağlantını aktivləşdirin və yenidən cəhd edin.</string>
+    <string name="no_remote_connection_popup_title">Uzaqdan bağlantını aktivləşdir</string>
+    <string name="notification_type">Bildiriş növü</string>
+    <string name="notification_type_desc">Gear istifadə edilən zaman yuxarıdakı seçiminizdən asılı olayaraq bildirişləriniz ekranın yuxarısında kiçik üzən mesajlar kimi görünəcək.</string>
+    <string name="number_setting">Nömrə parametri</string>
+    <string name="ok">OK</string>
+    <string name="once">Bir dəfə</string>
+    <string name="one_application_selected">1 proqram seçilib</string>
+    <string name="popup_attention_email_msg">Bəzi epoçt hesabları Epoçt parametrlərində seçilməmişdir. Həmin hesablardan bildirişləri Gear-da almaq üçün Epoçt parametrlərindən Epoçt bildirişləri alın.</string>
+    <string name="popup_attention_message_msg">Gear-da mesaj almaq və göndərmək üçün sizin qeyd-şərtsiz mesajlaşma proqramınız %s-dan Mesajlaşmaya dəyişiləcək.</string>
+    <string name="popupmenu_search_for_new_device">Cihazları idarə et</string>
+    <string name="preview_message_desc">Gear-dakı bildiriş ani mesajlarından alınan bildirişlərlər, daxil olan zəng siqnalları və xəbərdarlıqların icmalını göstər.</string>
+    <string name="preview_message_title">Mesajın icmalına bax</string>
+    <string name="primary">İlkin</string>
+    <string name="progressdialog_please_wait">Xahiş edirik gözləyin…</string>
+    <string name="progressdialog_reinstalled_message">Yükləmə</string>
+    <string name="progressdialog_reinstalled_popup_content">Yenidən qur</string>
+    <string name="providerapp_reinstalled">%s düzgün işləmir, odur ki, o silinməlidir. İndi o yenidən quraşdırılacaqdır</string>
+    <string name="quick_tutorial_add_shortcuts">Gear əsas ekranına proqram qısayolları və ya əlavə etmək üçün Gear-da Proqramlara keçin, proqram nişanına vurub saxlayın, sonra onu ekranın yuxarısındakı əsas ekran nişanına dartıb gətirin.</string>
+    <string name="quick_tutorial_gear_structure">Saat Gear-ın əsas səhifəsində görünür. Saatdan solda olan səhifələr bildirişləri, sağda olanlar isə vidjetləri göstərir. Proqramlara baxmaq üçün ekranın aşağı küncündən yuxarı sürüşdürün.</string>
+    <string name="quick_tutorial_noti_title">%s-a giriş</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice-u açmaq üçün “Hi Gear” deyin və ya istənilən ekranda əsas ekran düyməsinə iki dəfə vurun.</string>
+    <string name="quick_tutorial_swipe_downwards">Sevimli proqramı açmaq üçün əsas ekran düyməsinə iki dəfə vurun. Parametrlərdən sevimli proqramınızı dəyişə bilərsiniz.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Sevimli proqramınızı açmaq üçün enerji düyməsinə iki dəfə vurun. Siz parametrlərdən sevimli proqramınızı dəyişə bilərsiniz.</string>
+    <string name="quick_tutorial_to_go_back">Geriyə qayıtmaq üçün ekranı aşağıya doğru sürüşdürün.</string>
+    <string name="remote_connection_disabled_settings">Parametrlər</string>
+    <string name="remote_connection_enabled_desc">Bluetooth bağlantısı bitdikdə Gear uzaqdan qoşulacaq.</string>
+    <string name="requested">Tələb edildi</string>
+    <string name="reset_gear_legal_text1">Gear-ı Sıfırla funksiyasından istifadə etməklə, siz Gear-nızdakı bütün məlumatları uzaqdan silə bilərsiniz. Bu cür silinmədən sonra silinmiş məlumat bərpa edilə bilməz və siz artıq Mənim Gear-mı Tap funksiyasından istifadə edə bilməzsiniz.</string>
+    <string name="reset_gear_legal_text2">* Gear-ın, mobil cihazın və ya şəbəkə mühitinin vəziyyətindən asılı olaraq Gear-ı sıfırla funksiyasının işləməsi bir qədər vaxt ala və ya işləməyə bilər.</string>
+    <string name="restore_complete">Bərpaetmə tamamlanmışdır.</string>
+    <string name="restore_some_error">Bərpa uğursuz oldu. Təkrar cəhd edin.</string>
+    <string name="restore_try_again">Təkrar cəhd et</string>
+    <string name="retrieve_dialog_desc">Proqram siyahısının bərpa edilməsi…</string>
+    <string name="sa_error_0203_desc">Uzaqdan bağlantını aktivləşdirmək üçün Samsung hesabını əllə yeniləyin.</string>
+    <string name="sa_error_0203_title">Samsung hesabını yenilə</string>
+    <string name="sa_error_0301_desc">Mobil cihazınızdan Samsung hesabınıza daxil olan zaman şəbəkə xətası baş verdi.</string>
+    <string name="sa_error_0301_title">Funksiyanı aktivləşd olmadı</string>
+    <string name="sa_error_0302_title">Funksiyanı aktivləşd olmadı</string>
+    <string name="sa_error_0401_desc">Səhv baş verdi. Yenidən cəhd edin.</string>
+    <string name="sa_error_0401_title">Səhv</string>
+    <string name="safety_message_interval_10minutes">Hər 10 dəqiqədən</string>
+    <string name="safety_message_interval_20minutes">Hər 20 dəqiqədə</string>
+    <string name="samsung_apps_info">%1$s ilə yüklənmiş proqramlar %2$s-ın quraşdırılması ləğv edilən zaman və ya proqram məlumatı pozulduqda silinə bilər. Siz silinmiş proqramları %3$s-də satınalma tarixçənizdən yükləyə bilərsiniz.</string>
+    <string name="samsung_apps_notice">Qeyd</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">İndi yenilə</string>
+    <string name="screen_off">Ekranı sönülü saxlayın</string>
+    <string name="screen_off_desc">Gear-da olan zaman ekranınız sönülü olduqda bildirişlər alın, daxil olan zəng siqnalları və xəbərdarlıqlar qəbul edin.</string>
+    <string name="setting_Enable">Qoş</string>
+    <string name="setting_alpm_dialog_title">Diqqət</string>
+    <string name="setting_always_off">Həmişə sönülü</string>
+    <string name="setting_always_on">Həmişə yanılı</string>
+    <string name="setting_auto">Avtomatik</string>
+    <string name="setting_auto_lock_disable_desc">İnzibatçı, şifrləmə siyasəti və ya qeydiyyat məlumatları yaddaşı tərəfindən qeyri-aktiv edilib.</string>
+    <string name="setting_backup_restore2">Ehtiyat çıxar və bərpa et</string>
+    <string name="setting_basic">ƏSASLAR</string>
+    <string name="setting_connections">BAĞLANTILAR</string>
+    <string name="setting_disable">Söndür</string>
+    <string name="setting_home_key_double_pressing">Ana ekranda iki dəfə vur</string>
+    <string name="setting_language_input">DİL VƏ DAXİLETMƏ</string>
+    <string name="setting_manage_text_templates">Mətn şablonları red edin</string>
+    <string name="setting_mobile_network">Mobil şəbəkələr</string>
+    <string name="setting_mobile_network_desc">Gear Bluetooth vasitəsilə mobil cihazınıza qoşulduqda mobil şəbəkənizdən ayrılacaq. Bluetooth vasitəsilə bağlantı bitdikdə, Gear yenidən avtomatik olaraq mobil şəbəkənizə qoşulacaq.</string>
+    <string name="setting_multisim_popup_desc">Xidmət təminatınızdan asılı olaraq sizdən Çoxsaylı SIM funksiyasından istifadə üçün ayrıca abunə tələb edilə bilər. Çoxsaylı SIM-i aktivləşdirmək üçün OK vurun.</string>
+    <string name="setting_opensource">Açıq mənbə lisenziyası</string>
+    <string name="setting_palm_motion">Hərəkətlər</string>
+    <string name="setting_palm_swipe">Çəkmək üçün sürüşdür</string>
+    <string name="setting_palmover_desc">Daxil olan zənglər və siqnalları səssizləşdirmək və ya mediaya pauza vermək üçün ekran yanılı olan zaman əlinizi ekrana yerləşdirin.</string>
+    <string name="setting_palmswipe_desc">Bütün barmağınızı ekran üzərində sürüşdürməklə və ekranla əlaqədə qalmaqla onu çəkin.</string>
+    <string name="setting_pause_mute">Səssiz/fasilə</string>
+    <string name="setting_power_key_double_pressing">Enerji düym iki dəfə sıx</string>
+    <string name="setting_restoring">Bərpa edilir…</string>
+    <string name="setting_safety_b1_desc">Gear və mobil cihaz qoşulu olduqda Yardım mesajı göndər funksiyası sizə fövqəladə hallarda yardım edir. O, fövqəladə əlaqələrinizə yeriniz barədə məlumat qeyd edilmiş fövqəladə mesaj göndərməklə, onları vəziyyətiniz barədə xəbərdar edir. Bu mesajların göndərilməsi əlavə xərclərə səbəb ola bilər. Fövqəladə hallarda Yardım mesajı göndər funksiyasını aktivləşdirmək üçün %d dəfə enerji düyməsini sıxın.</string>
+    <string name="setting_safety_b2_desc">Gear və mobil cihazınız qoşulduqda təhlükəsizlik yardımçısı Gear kamera vasitəsilə şəkil çəkməklə fövqəladə hallarda sizə kömək edir. O, sizin fövqəladə əlaqələrinizə şəkliniz və yeriniz barədə mesaj göndərməklə onları vəziyyətiniz barədə xəbərdar edir. İlk mesaj sizin yeriniz və şəklinizdən ibarət olacaq. Bir müddətdən sonra ikinci mesajda yalnız yeriniz barədə məlumat göndəriləcəkdir. Bu mesajların göndərilməsi əlavə xərclərə səbəb ola bilər. Fövqəladə hallarda Kömək mesajı göndər funksiyasını aktiv etmək üçün əsas düyməni %d dəfə sıxın.</string>
+    <string name="setting_safety_b2_no_camera_desc">Gear və mobil cihaz qoşulu olduqda Yardım mesajları göndər funksiyası sizə fövqəladə hallarda yardım edə bilər. O, yeriniz barədə qeyd olunmuş mesajları fövqəladə əlaqələrinizə göndərməklə onları vəziyyətiniz barədə məlumatlandırır. Bu mesajların göndərilməsi əlavə xərclərə səbəb ola bilər. Fövqəladə hallarda Yardım mesajları göndər funksiyasının aktivləşdirilməsi üçün %d dəfə əsas ekran düyməsini sıxın.</string>
+    <string name="setting_safety_b3_desc1">Fövqəladə vəziyyətdə olduğunuzda əsas kontaktlarınıza cəld siqnal göndərmək üçün əsas ekran düyməsinə 3 dəfə tez-tez vurun.</string>
+    <string name="setting_safety_b3_desc2">Əsas kontaktlarınız hazırki yeriniz barədə məlumat qeyd edilmiş fövqəladə mesajlar alacaq.</string>
+    <string name="setting_safety_b3_desc3">Bu funksiyadan istifadə etmək üçün mobil cihazınızı Gear-a qoşun.</string>
+    <string name="setting_safety_list">Təhlükəsizlik köməyi</string>
+    <string name="setting_samsung_legal">Samsung legal</string>
+    <string name="setting_screen_lock">Avtomatik kilidləmə</string>
+    <string name="setting_screen_lock_desc">Mobil cihazınızı elə qurun ki, Gear çox uzaqdan olduqda onu avtomatik aşkar etsin.</string>
+    <string name="setting_screen_secutiry">EKRAN TƏHLÜKƏSİZLİYİ</string>
+    <string name="setting_send_emergency_picture">Fövqəladə şəkil göndər</string>
+    <string name="setting_send_emergency_recording">Səs yazısı göndər</string>
+    <string name="setting_send_emergency_term_agree">Mən yuxarıda qeyd edilən bütün şərt və qaydaları oxumuşam və onlarla razıyam.</string>
+    <string name="setting_send_help_message">Yardım mesajları göndər</string>
+    <string name="setting_send_terms_conditions">Şərtlər</string>
+    <string name="setting_smart_relay">Smart rele</string>
+    <string name="setting_smart_relay_desc">Mobil cihazınızı qaldırmaqla Geardakı məzmuna mobil cihazınızda baxın.</string>
+    <string name="setting_smart_toss">Ağıllı izləmə</string>
+    <string name="setting_system">SİSTEM</string>
+    <string name="setting_text_to_speech_engine">Mətndən nitqə mexanizmi</string>
+    <string name="setting_textinput_emoticon">Mimika nişanları</string>
+    <string name="setting_textinput_keyboard">Klaviatura</string>
+    <string name="setting_textinput_list">Mətn daxiletmə metodları</string>
+    <string name="setting_textinput_templates">Şablonlar</string>
+    <string name="setting_try_it">Cəhd edin</string>
+    <string name="setting_wake_up">Oyanma hərəkəti</string>
+    <string name="setting_wake_up_desc">Gear olan qolunuzu qaldırmaqla Gear-ı oyadın.</string>
+    <string name="setting_wakeupgesture">"Gear-ı oyatmaq üçün Gear olan qolunuzu qaldırın və Gear-ın ekranına baxın.
+
+Bu xassə arxaya söykəndiyinizdə və ya uzandığınızda aktiv olmayacaq və hərəkət sensoru hər zaman yanılı olduğundan Gear batareyasının daha çox sərf olunmasına səbəb ola bilər"</string>
+    <string name="setting_wakeupgesture_clock">Saat</string>
+    <string name="setting_wakeupgesture_previous">Son baxılan ekran</string>
+    <string name="setting_wakeupgesture_screen_on">Görünən ekranı seçin</string>
+    <string name="settings_application_version">Proqram versiyası</string>
+    <string name="settings_emergency_contact">İlkin əlaqələri idarə et</string>
+    <string name="settings_emergency_contact_empty">Heç bir ilkin əlaqə əlavə edilmədi. %s-i aktivləşdirmək üçün əlaqələri İlkin əlaqələrə əlavə edin.</string>
+    <string name="settings_legal_information">Hüquqi məlumat</string>
+    <string name="settings_message_interval">Mesaj intervalı</string>
+    <string name="settings_not_set">Qurulmamışdır</string>
+    <string name="settings_security">Təhlükəsizlik</string>
+    <string name="settings_security_update">Təhlükəsizlik yeniləməsi</string>
+    <string name="settings_security_update_desc">Cihazınızın təhlükəsizliyini və xidmətini təkmilləşdirərək onu ziyanlı məzmundan qoruyun.</string>
+    <string name="settings_unknown_sources_dialog">Naməlum mənbədən quraşdırma cihazınıza və şəxsi məlumatınıza ziyan vura bilər. OK vurmaqla razılaşırsınız ki, bu proqramların istifadəsi nəticəsində sizin cihazınızın məruz qalacağı hər hansı zərərlərə və məlumat itkisinə görə yalnız siz məsuliyyət daşıyırsınız.</string>
+    <string name="settings_unknown_sources_subtitle">Proqramlara Samsung Gear Apps-dan fərqli mənbələrdən quraşdırılmaq imkanı verin.</string>
+    <string name="share_loc_disabled">Məkanın paylaşılması qeyri-aktiv edildi.</string>
+    <string name="share_location_desc">Gearımı Tap və Cihazımı Tap proqranlarına Gear və mobil cihazın yeri barədə məlumatı paylaşmağa icazə ver.</string>
+    <string name="shm_I_agree_that_mobile_data">Mən mobil tarifin istifadə edilə bilməsi və MMS mesajların fövqəladə hallarda göndərilə bilməsi ilə razıyam. Mən bunun əlavə xərclərə səbəb ola biləcəyini başa düşürəm.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Yardım Mesajı Göndər] funksiyası istifadəçilərə təqribi yerləri və vizual/səsli ətraf ərazi barədə məlumatı əvvəlcədən təyin edilmiş fövqəladə əlaqənin telefonuna göndərməyə yardım etmək üçün nəzərdə tutulmuşdur. O, yalnız sizin rahatlığınız üçündür və xüsusi orqanlara edilən fövqəladə zənglərin əvəzi kimi nəzərə alınmamalı və bu cür rəftar edilməməlidir.
+
+2. [Yardım Mesajı Göndər](“Xidmətlər”) şəbəkə bağlantısı, GPS/Wi-Fi məlumatının mövcudluğu, sizin/sizin fövqəladə əlaqənizin cihazının statusu və/və ya vəziyyətindən, batareya səviyyəsi və/və ya Samsung Electronics Co., Ltd şirkətinin (Samsung, biz, bizi, bizim) iradəsindən asılı olmayan vəziyyətlərdən asılı olaraq düzgün, davamlı və ya xətasız işləməyə bilər. Məkan məlumatının dəqiqliyi və Xidmətlərin vaxtında çatdırılması sizi ətraf ərazi və cihazınızın və qoşulmağı seçdiyiniz cihazının vəziyyətindən asılı ola bilər. Əksi xüsusilə qeyd edilmədiyi və ya qanunla tələb edilmədiyi halda, Samsung Xidmətlərin dəqiq, davamlı və ya xətasız işləyəcəyi ilə bağlı bütün zəmanətlərdən imtina edir. Zəhmət olmasa, nəzərə alın ki, seçdiyiniz əlaqənizin işlək mobil telefonu olmalı və cihaz yandırılmalı və mətn mesajları qəbul edə biləcək vəziyyətdə olmalıdır. Ətraf əraziniz və yeriniz barədə məlumatın ötürülməsi xidmət operatorunuz tərəfindən təyin edilmiş xidmət haqqlardan asılı olaraq ödənişli ola bilər.
+
+Xidmətlərin nəzərdə tutulduğu kimi işləməsi üçün cihazınızın GPS və Wi-Fi funksiyaları avtomatik olaraq aktivləşdirən funksiyanın olması tələb edilə bilər. Siz GPS və Wi-Fi funksiyalarının (tələb olunduqda) sizə bildirilmədən və ya icazəniz alınmadan avtomatik aktivləşdiriləcəyini bilir və bununla razılaşırsınız.
+
+3. Siz bu funksiyadan yanlış və ya qeyri-qanuni məqsədlər üçün və ya başqalarının hər hansı məxfi və ya fərdi və ya mülkiyyәt hüquqlarının pozulması üçün istifadə etməyəcəyinizlə razılaşırsınız. Bu Xidmətlərdən yalnız qanuna əsasən və yalnız fövqəladə hallarda istifadə edin.Siz Xidmətlərin istifadəsi üçün məsuliyyət daşımanızla razılaşırsınız. Samsung sizin bu funksiyadan istifadəniz səbəbindən yarana bilən hər hansı nəticələr üçün məsuliyyət daşımamalıdır.
+
+4. Xidmətlər yalnız sizin rahatlığınız üçündür və xüsusi orqanlara edilən fövqəladə zənglərin əvəzi kimi nəzərə alınmamalı və bu cür rəftar edilməməlidir. Əksi xüsusilə qeyd edilmədiyi və ya qanunla tələb edilmədiyi halda, Samsung Xidmətlərin dəqiq, davamlı və ya xətasız işləyəcəyi ilə bağlı bütün zəmanətlərdən imtina edir.
+
+5. ZƏMANƏTLƏRDƏN İMTİNA. SİZ XÜSUSİLƏ BAŞA DÜŞÜR VƏ RAZILAŞIRSINIZ Kİ:
+ 
+A. XİDMƏTLƏR OLDUĞU KİMİ, BÜTÜN XƏTALARI İLƏ VƏ MÖVCUD OLDUQDA ƏSASI İLƏ TƏMİN EDİLİR. ONLARDAN İSTİFADƏ İLƏ BAĞLI RİSKLƏRİ ÜZƏRİNİZƏ ALIRSINIZ. SAMSUNG XİDMƏTLƏRLƏ BAĞLI HEÇ BİR XÜSUSİ ZƏMANƏT, QARANTİYA VERMİR VƏ YA XİDMƏTLƏRƏ AİD ŞƏRAİTİ TƏMİN ETMİR. SAMSUNG İFADƏ EDİLƏN VƏ YA NƏZƏRDƏ TUTULAN VƏ MƏHSUL YARARLILIĞI, XÜSUSİ MƏQSƏDLƏRƏ UYĞUNLUQVƏ QIRILMAMA İLƏ VƏ TİCARƏT ƏMƏLİYYATLARININ APARILMASI VƏ YA İŞLƏMƏ FORMASI İLƏ BAĞLI HƏR HANSI NƏZƏRDƏ TUTULAN ZƏMANƏTLƏR DAXİL OLMAQLA, LAKİN BUNLARLA MƏHDUDLAŞMADAN, İSTƏNİLƏN FORMADA ZƏMANƏTDƏN İMTİNA EDİR.
+ 
+B. YUXARIDA QEYD EDİLƏNLƏRİ MƏHDUDLAŞDIRMADAN, SAMSUNG (i) XİDMƏTLƏRİN SİZİN TƏLƏBLƏRİNİZƏ CAVAB VERƏCƏYİ, (ii) XİDMƏTLƏRİN FASİLƏSİZ, VAXTINDA, TƏHLÜKƏSİZ VƏ YA XƏTASIZ İŞLƏYƏCƏYİ, (iii) XİDMƏTLƏRDƏN ƏLDƏ EDİLƏN MƏZMUNUN VƏ YA HƏR HANSI XİDMƏT BİLDİRİŞLƏRİ VƏ YA FUNKSİONALLIĞIN MÖVCUD, DƏQİQ, TAMAMLANMIŞ VƏ YA UYĞUN OLACAĞI, (iv) XİDMƏTLƏRİN VƏ YA HƏR HANSI MƏLUMATIN VƏ YA XİDMƏTLƏR VASİTƏSİLƏ ƏLDƏ ETDİYİNİZ DİGƏR MATERİALLARIN GÖZLƏNTİLƏRİNİZƏ CAVAB VERƏCƏYİ VƏ YA (v) XİDMƏTLƏRDƏ OLAN HƏR HANSI XƏTALARIN VƏ YA NASAZLIQLARIN DÜZƏLDİLƏCƏYİ İLƏ BAĞLI HEÇ BİR ZƏMANƏT VERMİR.
+
+6. ÖHDƏLİK MƏHDİDİYYƏTLƏRİ.
+
+A. SİZ BAŞA DÜŞÜR VƏ RAZILAŞIRSINIZ Kİ, SAMSUNG ETİNASIZLIQ NƏZƏRİYYƏSİ ƏSASINDA,AŞAĞIDAKILARIN BİRBAŞA VƏ YA DOLAYI TƏSİRİNDƏN YARANA BİLƏN HƏR HANSI BİRBAŞA, DOLAYI, TƏSADÜFİ, XÜSUSİ, CƏRİMƏLƏRLƏ BAĞLI İTKİLƏR VƏ MƏNFƏƏT İTKİSİ, ELƏCƏ DƏ, İSTİFADƏ ETMƏMƏ İMKANI (HƏTTA XİDMƏTLƏRLƏ BAĞLI TƏMİR, DƏYİŞMƏ VƏ YA MÜVAZİNƏT SİZİN İTKİLƏRİNİZİ TAM QARŞILAMADIQDA VƏ YA SAMSUNG BU CÜR İTKİ, ÖHDƏLİK, ZƏRƏR VƏ YA XƏRCLƏRİN MÜMKÜNLÜYÜ BARƏDƏ MƏLUMATLI OLDUĞU VƏ YA MƏLUMATLI OLMALI OLDUĞU HALLARDA BELƏ) DAXİL OLMAQLA, LAKİN BUNLARLA MƏHDUDLAŞMADAN, ARDICIL VƏ YA NÜMUNƏVİ İTKİ, ÖHDƏLİK, ZƏRƏR VƏ YA XƏRC ÜÇÜN MƏSULİYYƏT DAŞIMAMALIDIR: (i) MÜQAVİLƏNİN, ZƏMANƏTİN, QARANTİYANIN VƏ YA ŞƏRTLƏRİN POZULMASI, MÜVAZİNƏT ÖDƏMƏ ÖHDƏLİYİ, ETİNASIZLIQ VƏ YA QANUNLA İCAZƏ VERİLMƏYƏN DİGƏR HÜQUQ POZUNTUSU İDDİASI; (ii) XİDMƏTLƏRİN İSTİFADƏNİZ VƏ YA İSTİFADƏ EDƏ BİLMƏMƏNİZ, (iii) ƏVƏZLƏYİCİ XİDMƏTLƏRİN SATIN ALINMA QİYMƏTİ; (iv) MÜBADİLƏ VƏ YA MƏLUMATINIZA SƏLAHİYYƏTSİZ ÇIXIŞ VƏ YA ONLARIN DƏYİŞDİRİLMƏSİ; (v) HƏR HANSI ÜÇÜNCÜ TƏRƏFİN İDDİASI VƏ YA DAVRANIŞI; (vi) BU MÜQAVİLƏ; (vii) İNSAN VƏ YA MÜLKİYYƏTİN XƏSARƏT ALMASI (O CÜMLƏDƏN ÖLÜM) VƏ YA (viii) XİDMƏTLƏR VƏ YA XİDMƏTLƏRLƏ TƏMİN EDİLƏN MƏZMUNLA BAĞLI HƏR HANSI DİGƏR MƏSƏLƏLƏR.
+ 
+B. BU MÜQAVİLƏ VƏ YA XİDMƏTLƏRLƏ BAĞLI SAMSUNGLA APARILAN MÜBAHİSƏLƏRİN YEGANƏ VƏ XÜSUSİ HƏLLİ XİDMƏTLƏRDƏN İSTİFADƏNİ DAYANDIRMAQ OLMALIDIR.
+ 
+C. BƏZİ QANUNVERİCİLİKLƏR MÜƏYYƏN ZƏMANƏTLƏRİN İSTİSNA EDİLMƏSİNƏ VƏ YA TƏSADÜFİ VƏ YA DAVAMLI ZƏRƏRLƏ BAĞLI ÖHDƏLİYİN MƏHDUDLAŞDIRILMASI VƏ YA İSTİSNA EDİLMƏSİNƏ İCAZƏ VERMİR. MÜVAFİQ OLARAQ, YUXARIDA QEYD EDİLMİŞ 5 VƏ 6 SAYLI BƏNDLƏRDƏKİ MƏHDUDİYYƏTLƏR SİZƏ TƏTBİQ EDİLMƏYƏ BİLƏR.
+
+7. KOMPENSASİYA. Siz Samsungu Xidmətlərdən istifadəniz və ya bu Müqavilənin şərtlərinə riayət etməməniz səbəbindən yarana bilən hər hansı iddiaları, hərəkətlər, tələblər, xərclər, öhdəliklər, itkilər, zərərlər, cərimələr və ya ödənişlərdən (o cümlədən, vəkillər üçün xidmət haqqı və xərclər) mühafizə etməklə razılaşırsınız. Bu şərt və qaydalar əsasında sizə verilən lisenziyaların fərdi təbiətinə baxmayaraq, siz hər hansı şəxsə Xidmətlərdən istifadə etmək icazəsi verirsinizsə və ya Xidmətlər vasitəsilə əldə edilən hər hansı məlumatı digər şəxsə bildirirsinizsə, bu zaman siz həmin şəxsi riayət etməli olduğu bu şərt və qaydaların mövcudluğu barədə məlumatlandırmaqla və Samsungu həmin şəxsin Xidmətlərdən istifadəsi ilə bağlı iddiaları, hərəkətlər, tələblər, xərclər, öhdəliklər, itkilər, zərərlər, cərimələr və ya ödənişlərdən (o cümlədən, vəkillər üçün xidmət haqqı və xərclər) mühafizə etməklə razılaşırsınız.
+ 
+8. Fors-Major. Samsung təbiət hadisələri, mülki və ya hərbi əməliyyatlar, müharibə, terror, əmək münaqişələri, üçüncü tərəflərin təmin etdiyi material və ya xidmətlər və ya Samsungun iradəsindən asılı olmayan hər hansı səbəblərdən bu şərt və qaydalar əsasında funksionallıqda baş verən hər hansı gecikmə və ya xəta və ya Xidmətlərin dayanması üçün məsuliyyət daşımamalıdır."</string>
+    <string name="shm_share_my_location_checkbox_text">Mən %1$s-ə mənim yerimi %2$s kontaktlarımla paylaşmaq icazəsi verməyə razıyam.</string>
+    <string name="smartrelay_not_show">Bir daha göstərmə</string>
+    <string name="software_update">Proqram təminatının yenilənməsi</string>
+    <string name="ss_double_tap_any_screen">Parlaqlıq və səs nəzarətlərini və digər faydalı məlumatları görmək üçün iki barmağınızla ekranın hər hansı hissəsinə iki dəfə toxunun.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Zənglərin Gear-a yönləndirilməsi</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Tələb olunur…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Oxuma parametrləri…</string>
+    <string name="ss_loading_ing_abb">Yüklənir…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobil məlumatlar qeyri-aktivdir. Əvəzinə Wi-Fi şəbəkəsinə qoşulun və ya mobil məlumatları aktivləşdirin və yenidən cəhd edin</string>
+    <string name="ss_no_network_connection">Şəbəkə bağlantısı yoxdur</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">İstifadəçi təlimatları</string>
+    <string name="stub_list_install">Yüklə</string>
+    <string name="tab_stub_list">Funksiyalı</string>
+    <string name="talkback_download">Yüklə</string>
+    <string name="talkback_setting">Parametr</string>
+    <string name="the_samsung_gear_application">Samsung Gear proqramı</string>
+    <string name="threeg_connection">Uzaqdan bağlant. ist et</string>
+    <string name="threeg_connection_subtitle">Samsung hesabınızdan Mobil tarif və Wi-Fi-dan eyni zamanda istifadə edərək Gear-a uzaqdan qoşulun.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Quraş.ləğv et</string>
+    <string name="title_activity_connect_popup">Bağlan</string>
+    <string name="title_activity_paired_watch">Cütləşdirilmiş cihaz</string>
+    <string name="title_alertdialog_device_name_popup">%s-in adını dəyiş</string>
+    <string name="title_alertdialog_disconnect_popup">Bağlantını kəs</string>
+    <string name="title_dialog_pm_error">Xəbərdarlıq</string>
+    <string name="title_dialog_uninstall">Quraşdırılma ləğv edilsin</string>
+    <string name="title_findmywatch_connect2">Gear-ı tapın</string>
+    <string name="title_findmywatch_finding">Axtarır…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s-i %2$s-ə qoş</string>
+    <string name="tri_connect_warning_temporal_disconnect">%1$s-ın Bluetooth vasitəsilə %2$s-a qoşulması %3$s-i müvəqqəti olaraq mobil cihazınızdan ayıracaq. Bu bağlantı qısa müddətdə bərpa olunacaq və %4$s sonradan %5$s və mobil cihazınıza qoşulacaq.</string>
+    <string name="tt_install_voice_data">TTS səs məlumat quraşdır</string>
+    <string name="tt_install_voice_data_required">Gear-da əlavə mətn-nitq dilini quraşdır.</string>
+    <string name="tt_language">Dil</string>
+    <string name="tt_send_help_message">Yardım mesajları göndər</string>
+    <string name="tt_tts_language_guide">Sizin mətndən-danışığa diliniz Gear Parametrlərində qurduğunuz dildir. Diliniz mətndən-danışığa mexanizmi ilə dəstəklənmirsə ingilis (Böyük Britaniya) dilindən istifadə ediləcək.</string>
+    <string name="unable_to_connect_popup_message">Gear-ı mobil cihaza qoşmaq olmadı. Daha sonra yenidən cəhd edin.</string>
+    <string name="unable_to_connect_popup_title">Bağlantı uğursuz oldu</string>
+    <string name="unable_to_lock_gear">Gear-ı kilidləmək olmadı</string>
+    <string name="unable_to_reset_gear">Gear-ı sıfırlamaq olmadı</string>
+    <string name="uninstall_applications">Proqramları poz</string>
+    <string name="unknown_sources_msg_new">%1$s %2$s ilə quraşdırılmayacaq. Sizin cihazınız və şəxsi məlumatlarınız naməlum mənbələrdən proqramların müdaxiləsinə qarşı daha çox həssasdırlar. Siz razılaşırsınız ki, bu proqramların istifadəsi nəticəsində sizin cihazınızın məruz qalacağı hər hansı zərərlərə və məlumat itkisinə görə yalnız siz məsuliyyət daşıyırsınız. Naməlim mənbələrin proqramlarını həmişə quraşdırmaq üçün %3$s > %4$s > %5$s keçin və %6$s-ı aktivləşdirin. %7$s quraşdırmaq üçün OK vurun.</string>
+    <string name="unknown_sources_title">Naməlum mənbələr</string>
+    <string name="update_summary">Yeniliklər üçün yoxla</string>
+    <string name="voice_control_subtitle">Gear zəng çalmadıqda və ya vibrasiya etmədikdə zəngləri cavablamaq və ya rədd etmək üçün “Cavabla” və ya “Rədd et” deyin.</string>
+    <string name="voicememo_link1">Nuance Şərtləri və Qaydaları</string>
+    <string name="voicememo_link3">Nuance Məxfilik Siyasətini</string>
+    <string name="watchapp_all">Proqramlar</string>
+    <string name="watchapp_noapps">Proqram yoxdur</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Yenilənir…</string>
+    <string name="wifi_only">Ancaq Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Wi-Fi şəbəkəsinə qoşulan zaman yalnız yeniləmələri yükləyin.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

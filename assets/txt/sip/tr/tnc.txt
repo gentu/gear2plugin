@@ -1,0 +1,8 @@
+Samsung klavye ve Ses Tanıma Hizmetinin Kullanımı
+1. Samsung klavye hizmeti, çeviri hizmetinin bir bileşeni olarak ses tanıma teknolojisini kullanmaktadır. Samsung'un üçüncü bir taraf olarak Nuance Communications Inc. (“Nuance”) tarafından sağlanan bir ses tanıma hizmetinden ("Ses Tanıma Hizmeti") faydalanabileceğini onaylamakta ve Samsung klavye hizmetini kullanımınızla bağlantılı olarak aşağıda yer alanları onaylamakta ve kabul etmektesiniz.
+2. Samsung klavye hizmetine herhangi bir otomatik veya kayıtlı talebin iletilmeyeceğini kabul etmektesiniz.
+3. Samsung klavye hizmetine dikte ettiğiniz kelimelerin (söz konusu kelimelerin, ekli belgelerin ve günlük dosyalarının sesli kayıtları dahil) ("Sesli Veriler"), Ses Tanıma Hizmetini sağlama sırasında Nuance tarafından toplanacağını onaylamaktasınız.
+4. Ses Tanıma Hizmetini sağlama sırasında Nuance şirketinin, (a) Ses Tanıma Hizmetini ve (b) diğer Nuance ürünlerini ve hizmetlerini ayarlamak, geliştirmek ve iyileştirmek üzere Nuance ve onun üçüncü taraf iş ortakları tarafından kullanılabilen Sesli Verileri toplayabileceğini onaylamakta ve kabul etmektesiniz.
+5. Sesli Verilerinizin Nuance ve onun üçüncü taraf iş ortakları tarafından saklanmak, işlenmek ve kullanılmak üzere Amerika Birleşik Devletleri ve/veya başka ülkelere aktarılabildiğini onaylamakta ve kabul etmektesiniz.
+6. Sağladığınız herhangi bir ve tüm Sesli Veriler gizli tutulacak ve ilgili yasaya uygun şekilde kullanılacaktır, ancak gerekirse, bir mahkeme emri kapsamında veya yasa tarafından gerektiğinde ya da yetkilendirildiğinde bir resmi daireye veya Nuance şirketini satın alan ya da Nuance ile birleşen üçüncü bir tarafa olmak üzere, yasal veya düzenleyici gerekliliklere uymak için Nuance tarafından açıklanabilir
+

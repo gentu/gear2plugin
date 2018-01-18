@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/popup_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/textView_popuptitle" android:singleLine="true" style="@style/TextView_PopupTitle" />
+    <ScrollView android:id="@id/content_scrollview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/textView_popuptitle">
+        <LinearLayout android:orientation="vertical" android:id="@id/content_layout" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/popup_body_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:id="@id/dialogImageLayout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/samsung_account_login_image_top_margin" android:layout_centerHorizontal="true">
+                    <ImageView android:id="@id/imageView1" android:background="@drawable/manager_sign_img" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+                </LinearLayout>
+                <TextView android:textSize="15.0sp" android:id="@id/textView_message" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:layout_below="@id/dialogImageLayout" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/bottom_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal" android:id="@id/show_again_check_Linear" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin">
+                    <CheckBox android:gravity="center|left" android:id="@id/show_again_CheckBox" android:focusable="false" android:clickable="false" android:layout_width="30.0dip" android:layout_height="wrap_content" android:button="@drawable/manager_checkbox_btn" />
+                    <TextView android:textSize="19.0sp" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/tv_dnsa" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/checkbox_left_margin" android:text="@string/smartrelay_not_show" android:singleLine="true" style="@style/TextView_PopupDesc" />
+                </LinearLayout>
+                <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/popup_button_layout" android:paddingTop="18.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/popup_btn_height" android:layout_below="@id/show_again_check_Linear">
+                    <TextView android:id="@id/cancel_btn" android:text="@string/cancel" style="@style/TextView_PopupButton" />
+                    <TextView android:id="@id/ok_btn" android:layout_marginRight="8.0dip" android:text="@string/ok" style="@style/TextView_PopupButton" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

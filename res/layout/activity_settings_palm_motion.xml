@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginTop="@dimen/manager_winset_list_top_margin" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingWakeupLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_wake_up" custom:subtext="@string/setting_wake_up_desc" />
+        <include android:id="@id/viewPalmOver" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/settingPalmOverLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_pause_mute" custom:subtext="@string/setting_palm_over" />
+        <include android:id="@id/viewPalmSwipe" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/settingPalmSwipeLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_palm_swipe" custom:subtext="@string/setting_palm_swipe" />
+        <include android:id="@id/viewPalmSwipe" layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/manager_winset_dialog_list_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/settings_dialog_item_layout" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/manager_winset_dialog_list_height">
+        <RelativeLayout android:id="@id/settings_dialog_item_textview_radiobutton_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="20.0sp" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/settings_dialog_item_textview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginRight="@dimen/manager_winset_textview_margin" android:layout_toLeftOf="@id/settings_dialog_item_radiobutton_layout" android:layout_centerVertical="true" style="@style/TextView_ListDescFirstLine" />
+            <RelativeLayout android:gravity="center_vertical" android:id="@id/settings_dialog_item_radiobutton_layout" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_alignParentRight="true">
+                <RadioButton android:id="@id/settings_dialog_item_radiobutton" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/manager_radio_btn" />
+            </RelativeLayout>
+            <LinearLayout android:id="@id/settings_dialog_item_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+                <include layout="@layout/settings_items_simple_divider" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

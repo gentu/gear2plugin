@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <RelativeLayout android:id="@id/layout_delete_select_all" android:background="@drawable/manager_select_all_bg" android:focusable="true" android:visibility="visible" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/tab_layout_height">
+            <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:background="@xml/xml_selectall_selector" android:layout_width="fill_parent" android:layout_height="@dimen/tab_layout_height">
+                <CheckBox android:layout_gravity="center" android:id="@id/delete_checkbox_select_all" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_marginRight="12.0dip" android:button="@drawable/manager_checkbox_btn" />
+                <TextView android:textSize="22.0sp" android:textColor="@color/black" android:gravity="start|center" android:id="@id/delete_textview_select_all" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/home_bg_delete_select_all" android:singleLine="true" />
+            </LinearLayout>
+        </RelativeLayout>
+        <ImageView android:layout_gravity="center" android:id="@id/home_bg_wallpapers" android:layout_width="@dimen/home_bg_wallpapers_width" android:layout_height="@dimen/home_bg_wallpapers_height" android:layout_marginTop="@dimen/home_bg_wallpapers_marginTop" />
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/wallpaper_scrollview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/wallpaper_scroll_margin_top" android:layout_marginBottom="@dimen/wallpaper_scroll_margin_bottom" android:fillViewport="true">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:text="@string/home_bg_wallpapers_title" />
+                <GridView android:gravity="center" android:id="@id/gridview" android:paddingLeft="@dimen/port_wallpaper_gridview_padding" android:paddingRight="@dimen/port_wallpaper_gridview_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:verticalSpacing="@dimen/wallpaper_gridview_vertical_spacing" android:columnWidth="@dimen/home_bg_image_focus_size" android:numColumns="auto_fit" />
+            </LinearLayout>
+        </ScrollView>
+        <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+</RelativeLayout>

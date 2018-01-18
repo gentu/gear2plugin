@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Nedostupno tokom poziva.</string>
+    <string name="actionbar_name">Gear menadžer</string>
+    <string name="alert_full_screen">Iskačući prozor preko celog ekrana</string>
+    <string name="alert_mini">Mini iskačući prozor</string>
+    <string name="alertdialog_backkey_popup_content">Upozorenje</string>
+    <string name="alertdialog_disconnect_popup_description">Gear će biti isključen. Koristi Bluetooth da bi se ponovo povezao/la.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Ovo će prekinuti vezu sa %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Prekinuće se veza između %s uređaja i tvog mobilnog uređaja. Sledeći put kada budeš povezivao/la ove uređaje, moraćeš da koristiš Bluetooth. Sva povezivanja nakon toga mogu se obaviti putem Daljinske veze.</string>
+    <string name="alertdialog_uninstall_popup_content">Deinstaliraj</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s nije instaliran na tvom mobilnom uređaju. Da bi koristio/la %2$s na Gear-u, preuzmi %1$s na mobilni uređaj.</string>
+    <string name="attention_popup_title">Pažnja</string>
+    <string name="auto_call_forwarding">Autom. preus. poziva</string>
+    <string name="auto_call_forwarding_att">Autom. preusm. poziva na Gear</string>
+    <string name="auto_call_forwarding_desc">Automatski omogući Preusmeravanje poziva kada je prekinuta veza između Gear uređaja i mobilnog uređaja. To će preusmeravati dolazne pozive sa mobilnog uređaja na Gear uređaj dok se ponovo ne uspostavi veza između ovih uređaja.</string>
+    <string name="auto_update">Automatsko ažuriranje</string>
+    <string name="auto_update_summary">Automatski proveri ima li dopuna.</string>
+    <string name="backing_up">Bekapovanje…</string>
+    <string name="backup_complete">Bekap završen.</string>
+    <string name="bnr_backup">Bekapovanje…</string>
+    <string name="bnr_bakcup_title">Bekap</string>
+    <string name="bnr_cancel">Otkaži</string>
+    <string name="bnr_canel">Otkaži</string>
+    <string name="bnr_error_occurred">Nastala je greška</string>
+    <string name="bnr_except">%1$s (osim %2$s)</string>
+    <string name="bnr_except_autolock">Automatsko zaključavanje</string>
+    <string name="bnr_except_remoteconnection">Daljinska veza</string>
+    <string name="bnr_except_texttemplate">Tekst šablon</string>
+    <string name="bnr_next">Dalje</string>
+    <string name="bnr_no">Ne</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Da bi se povezao/la na novi uređaj, Gear će biti resetovan na svoja fabrička podešavanja.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear nije do kraja konfigurisan. Konfiguracioni čarobnjak je trenutno otvoren u Gear-u, ali da bi se povezao/la na Gear, moraš da otvoriš konfiguracioni čarobnjak u Gear menadžeru i na ovom uređaju.</string>
+    <string name="bnr_reset_initialization">Beleška</string>
+    <string name="bnr_restore">Vrati</string>
+    <string name="bnr_restored">Podaci su vraćeni.</string>
+    <string name="bnr_setupwizard_title2">Bekapuj i vrati</string>
+    <string name="bnr_yes">Da</string>
+    <string name="bt_connected">Povezan</string>
+    <string name="bt_disconnected">Prekinuta veza</string>
+    <string name="bt_unpaired">Neuparen</string>
+    <string name="button_finish">Završi</string>
+    <string name="button_restore">Vrati</string>
+    <string name="call">POZIV</string>
+    <string name="call_check_gear_status_when_cfwd">Funkcije za preusmeravanje poziva Sa mobilnog na Gear i Sa Gear-a na mobilni ne mogu da se omoguće istovremeno.</string>
+    <string name="call_dualsim1">SIM kartica 1</string>
+    <string name="call_dualsim1sim2">Obe SIM kartice</string>
+    <string name="call_dualsim2">SIM kartica 2</string>
+    <string name="call_forwarding">Preusmeravanje poziva</string>
+    <string name="call_forwarding_agree">Prihvatam.</string>
+    <string name="call_forwarding_desc">Preusmeri dolazne pozive sa mobilnog uređaja na Gear.</string>
+    <string name="call_forwarding_desc_vzw">Preusmeravanje dolaznih poziva koje niste prihvatili na telefonu na Gear uređaj.</string>
+    <string name="call_forwarding_disable_msg">Upućen je zahtev da se onemogući preusmeravanje poziva sa mobilnog uređaja na Gear uređaj. Status mobilne mreže i mobilnog uređaja mogu da utiču na rezultate.</string>
+    <string name="call_forwarding_enable_msg">Upućen je zahtev da se omogući preusmeravanje poziva sa mobilnog uređaja na Gear uređaj. Status mobilne mreže i mobilnog uređaja mogu da utiču na rezultate.</string>
+    <string name="call_forwarding_for_att_msg">"Kada je prekinuta veza Gear uređaja i pametnog telefona, dolazni pozivi koji su upućeni mobilnom uređaju će se automatski preusmeravati na Gear uređaj.
+- Pametni telefon će zazvoniti nekoliko puta, a zatim će se poziv preusmeriti na Gear uređaj.
+- Ukoliko ne prihvatite poziv na Gear uređaju, pozivalac može da ostavi govornu poruku koju možete da poslušate na Gear uređaju.
+Da li želite da uključite automatsko preusmeravanje poziva sada?"</string>
+    <string name="call_forwarding_notify_msg">Preusmeravanje poziva sa mobilnog uređaja na Gear trenutno je omogućeno. Dolazni pozivi koji su upućeni na mobilni uređaj će biti preusmereni na Gear. Ako nemaš Gear kod sebe, idi na Podešavanja i onemogući opciju Automatsko preusmeravanje poziva kako ne bi propustio/la nijedan poziv.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Onemoguć. prosleđivanja gov. poziva…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Omoguć. prosleđivanja govornog poziva…</string>
+    <string name="call_no_gear_number">Nema brojeva</string>
+    <string name="call_select_dualsim_title">Izaberi SIM karticu</string>
+    <string name="call_voice_control">Kontrola glasom</string>
+    <string name="callforwarding_help_des1">Prebaci na uređaj na koji će pozivi biti automatski prosleđeni, u zavisnosti od toga da li su uređaji povezani putem Bluetooth ili Daljinske veze.</string>
+    <string name="callforwarding_help_des2">Na Gear uređaju primaj pozive upućene na mobilni uređaj dok pomeraš i nosiš Gear, pri čemu je on daljinski povezan na mobilni uređaj.</string>
+    <string name="cancel">Otkaži</string>
+    <string name="cf_activated">Aktivirano</string>
+    <string name="cf_deactivate_failed">Neuspešno onemogućavanje opcije Preusmeravanje poziva.</string>
+    <string name="cf_deactivated">Deaktiviran</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Nova podešavanja sata su primenjena putem Gear uređaja.</string>
+    <string name="clocks_download_more_clocks">Preuzmi još satova</string>
+    <string name="clocks_noti_uninstall_clock">Aplikacija %s će biti deinstalirana.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s će biti deinstaliran i %2$s će biti podešen kao podrazumevani sat.</string>
+    <string name="clocks_title_basic_clocks">OSNOVNI SATOVI</string>
+    <string name="clocks_title_downloaded_clocks">PREUZETI SATOVI</string>
+    <string name="clocks_title_style_clocks">STILSKI SATOVI</string>
+    <string name="clocks_uninstalled">Deinstalirano.</string>
+    <string name="clocks_uninstalling">Deinstaliranje…</string>
+    <string name="close">Zatvori</string>
+    <string name="closing_samsung_gear_message">Gear je resetovan. Aplikacija Samsung Gear će se ubrzo zatvoriti.</string>
+    <string name="closing_samsung_gear_message_jpn">Gear uređaj je resetovan. Aplikacija Gear će se ubrzo zatvoriti.</string>
+    <string name="closing_samsung_gear_title">Zatvori aplikaciju Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Zatvorite aplikaciju Gear</string>
+    <string name="cloud_backup_no_information">Nikad</string>
+    <string name="cloud_backup_restore_backup_now">Bekap podataka</string>
+    <string name="cloud_backup_restore_restore_now">Vrati podatke</string>
+    <string name="cmw_agree">Prihvatam</string>
+    <string name="cmw_eula_agree">Razumem i prihvatam gorenavedene Uslove korišćenja.</string>
+    <string name="cmw_for_setting">Usluge lociranja su onemogućene. Idi na Podešavanja.</string>
+    <string name="cmw_high_accuracy_dialog_message">Za najbržu i najtačniju detekciju lokacije, izaberi opciju Izuzetna tačnost u folderu Lokacija > Režim.</string>
+    <string name="cmw_high_accuracy_dialog_title">Izaberi izuzetnu tačnost</string>
+    <string name="cmw_legal_content">Ako omogućite „Deljenje lokacije“, pristajete da se podaci o lokaciji koja je povezana sa vašim mobilnim telefonom i/ili uređajem Gear prenose kroz Samsung server da bi se pružala usluga Nađi moj Gear i Nađi moj uređaj. Podaci ili informacije o lokaciji vašeg uređaja se ne čuvaju na Samsung serveru.</string>
+    <string name="cmw_legal_content1">Ako omogućite „%1$s i %2$s“, potvrđujete da se podaci o lokaciji koja je povezana sa vašim mobilnim telefonom i/ili uređajem Gear prenose kroz Samsung server da bi se pružala usluga %1$s i %2$s. Podaci ili informacije o lokaciji vašeg uređaja se ne čuvaju na Samsung serveru.</string>
+    <string name="cmw_legal_content1_no_gps">Ako omogućite „%1$s i %2$s“, potvrđujete da se podaci o lokaciji koja je povezana sa vašim mobilnim telefonom i/ili uređajem Gear prenose kroz Samsung server da bi se pružala usluga %1$s i %2$s. Podaci ili informacije o lokaciji vašeg uređaja se ne čuvaju na Samsung serveru.</string>
+    <string name="cmw_legal_content_2">﻿Samsung politika privatnosti</string>
+    <string name="cmw_legal_title">Pravne napomene</string>
+    <string name="cmw_location">Omogući Usluge lociranja</string>
+    <string name="cmw_show_on_map">Prikaži na mapi</string>
+    <string name="color_black">Crna</string>
+    <string name="color_blue">Plava</string>
+    <string name="color_brown">Smeđa</string>
+    <string name="color_gray">Siva</string>
+    <string name="color_green">Zelena</string>
+    <string name="color_light_sky_blue">Svetlije neboplava</string>
+    <string name="color_medium_purple">Srednje ljubičasta</string>
+    <string name="color_orange">Narandžasta</string>
+    <string name="color_pink">Roze</string>
+    <string name="color_purple">Ljubičasta</string>
+    <string name="color_red">Crvena</string>
+    <string name="color_spring_green">Prolećno zelena</string>
+    <string name="common_none">Nema</string>
+    <string name="common_off">Isključeno</string>
+    <string name="common_on">Uključeno</string>
+    <string name="common_recent_apps">Nedavne apl.</string>
+    <string name="connect_popup_content">Povezivanje sa %s</string>
+    <string name="connected_by_trasport_BT">Uspostavljena je Bluetooth veza</string>
+    <string name="connected_by_trasport_SCS">Daljinski povezan</string>
+    <string name="connecting_content">Povezivanje na Gear</string>
+    <string name="connecting_doc">Nakon povezivanja na %1$s uređaj, možeš da promeniš njegova podešavanja i instaliraš aplikacije na njega koristeći %2$s.</string>
+    <string name="connecting_popup_message">Povezivanje na Gear…</string>
+    <string name="connecting_popup_title">Poveži se na Gear</string>
+    <string name="connecting_to_gear_ing">Povezivanje na Gear…</string>
+    <string name="connectingdoc">Nakon povezivanja na Gear, možeš da promeniš njegova podešavanja i instaliraš aplikacije na njega putem Gear menadžera.</string>
+    <string name="connection_error_dialog_message">Uređaj nije povezan. Pokušaće ponovo da se poveže.</string>
+    <string name="dialog_check_phone_number_msg1">Uveri se da su sledeće informacije ispravne:</string>
+    <string name="dialog_check_phone_number_msg2">Broj mobilnog telefona: %s</string>
+    <string name="dialog_check_phone_number_msg3">Broj telefona Gear uređaja: %s</string>
+    <string name="dialog_check_phone_number_msg4">Kucni na OK da bi potvrdio/la i omogućio/la Automatsko preusmeravanje poziva.</string>
+    <string name="dialog_enable_remote_connection_desc">Da bi omogućio/la Automatsko preusmeravanje poziva, omogući opciju Daljinska veza, a zatim pokušaj ponovo.</string>
+    <string name="dialog_enable_remote_connection_title">Omogući Daljinsku vezu</string>
+    <string name="dialog_permission_message">Nije moguće koristiti funkciju %s. Kucnite na PODEŠAVANJA, idite na Informacije o aplikaciji > Dozvole, a zatim dozvolite sledeće dozvole i pokušajte ponovo:</string>
+    <string name="dialog_popup_button_cancel">Otkaži</string>
+    <string name="dialog_reverse_msg">U zavisnosti od provajdera, možda će biti obavezne zasebne pretplate kako bi tvoj mobilni uređaj i Gear mogli da koriste ovu funkciju. To može da dovede do dodatnih troškova.</string>
+    <string name="dialog_set_phone_number_msg">Da bi omogućio/la Automatsko preusmeravanje poziva, podesi brojeve telefona uređaja sa kojih i na koje želiš da preusmeravaš dolazne pozive.</string>
+    <string name="dialog_set_phone_number_title">Omogući Automatsko preusmeravanje poziva</string>
+    <string name="disable_loc_text">Deljenje lokacije će biti onemogućeno. Nećeš moći da koristiš informacije o lokaciji za traženje Gear uređaja ili mobilnog uređaja putem funkcije Nađi moj Gear ili Nađi moj uređaj.</string>
+    <string name="disable_loc_text_no_gps">Deljenje lokacije će biti onemogućeno. Nećeš moći da koristiš informacije o lokaciji za traženje mobilnog uređaja putem funkcije Nađi moj uređaj.</string>
+    <string name="disable_remote_connection">Onemogući daljinsku vezu</string>
+    <string name="disable_remote_connection_fmm_fmd">Nađi moj Gear i Nađi moj uređaj</string>
+    <string name="disable_remote_connection_receiving_blocked">Prijem poruka, e-poruka i obaveštenja sa mobilnog uređaja</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Prijem e-poruka i obaveštenja sa mobilnog uređaja</string>
+    <string name="disable_remote_connection_warning">Daljinska veza će biti onemogućena. Sledeće funkcije neće biti dostupne dok se Gear ponovo ne poveže na mobilni uređaj putem Bluetooth veze:</string>
+    <string name="disable_share_location">Onemogući opciju Podeli lokaciju</string>
+    <string name="disconnect_popup_content">Otkačivanje %s…</string>
+    <string name="do_not_show_again">Ne prikazuj ponovo</string>
+    <string name="enable_auto_call_forwarding_msg">Automatski preusmeri dolazne pozive sa mobilnog uređaja na Gear kada je Gear isključen. U zavisnosti od tvog provajdera, to može da dovede do dodatnih troškova. Kucni na OK da bi omogućio/la Automatsko preusmeravanje poziva.</string>
+    <string name="enable_auto_call_forwarding_title">Omogući Auto. preusm. poziva</string>
+    <string name="enable_more_notifications_enable">Omogući</string>
+    <string name="enable_notification_access">Omogući Pristup obaveštenjima</string>
+    <string name="enable_notification_access_desc">"Ova funkcija će moći da čita sva obaveštenja koje primiš među kojima mogu biti i lične informacije kao što su kontakti i primljene poruke. Takođe, moći ćeš da odbaciš ova obaveštenja ili da izabereš radnje u vezi sa njima.
+Da bi primio/la obaveštenja na Gear, kucni na opciju Omogući, a zatim omogući %s."</string>
+    <string name="enable_share_location">Omogući opciju Podeli lokaciju</string>
+    <string name="enabled_loc">Opcija Podeli lokaciju je omogućena.</string>
+    <string name="error_enter_device_name">Unesi naziv uređaja.</string>
+    <string name="error_occurred">Nastala je greška.</string>
+    <string name="eula_i_agree">Prihvatam.</string>
+    <string name="failed_tshare_msg">"Nije omoguć. Preu-
+smeravanje poziva.
+T share ne odgovara."</string>
+    <string name="find_my_device">Nađi Moj uređaj</string>
+    <string name="find_my_gear">Nađi moj Gear</string>
+    <string name="find_watch_btn_start">Počni</string>
+    <string name="find_watch_btn_stop">Stop</string>
+    <string name="find_watch_off">Da bi pronašao/la Gear, kucni na Start. Gear će reprodukovati zvuk i njegov ekran će se uključiti.</string>
+    <string name="find_watch_on">Da bi zaustavio/la traženje svog Gear-a, kucni na Stop. Gear će zaustaviti reprodukovanje zvuka i njegov ekran će se isključiti.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s će biti deinstaliran/a i podrazumevana slova će biti primenjena na %2$s.</string>
+    <string name="force_wifi_direct_msg">Ova aplikacija će biti instalirana putem Wi-Fi Direct-a. Ovo će prekinuti tvoju aktuelnu Wi-Fi Direct vezu. Ukoliko otkažeš instalaciju, moraćeš ponovo da preuzmeš aplikaciju da bi je instalirao/la.</string>
+    <string name="force_wifi_direct_title">Instaliraj</string>
+    <string name="force_wifi_install">Instaliraj</string>
+    <string name="gear2_backup_confirm_text">Ako sada bekapuješ podatke, trenutni Gear bekap podaci na mobilnom uređaju će se zameniti najnovijim Gear podacima sa uređaja.</string>
+    <string name="gear2_restore_confirm_text">Ako sada vratiš podatke, trenutni Gear podaci će se izbrisati i zameniti trenutnim Gear bekap podacima.</string>
+    <string name="gear2_text">"Koristi memoriju uređaja za bekapovanje %1$s sadržaja:
+%2$s
+
+Ako si prethodno bekapovao/la ovaj sadržaj, možeš da ga vratiš odmah na %3$s.
+
+U zavisnosti od veličine fajla, to može da potraje."</string>
+    <string name="gear2_text_import3">Podešavanja</string>
+    <string name="gear_bnr_desc">"Koristi skladišnu lokaciju mobilnog uređaja za bekapovanje sledećih %1$s podataka: %2$s
+
+Ako si prethodno bekapovao/la %3$s podatke, možeš da ih vratiš odmah na %4$s.
+
+Ovo može da potraje u zavisnosti od veličine fajlova."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Mobilni uređaj sada skenira tvoj Gear. Ovo će trajati nekoliko minuta. Možda će lociranje Gear-a biti otežano ako se nalazi u zatvorenom prostoru.</string>
+    <string name="gear_location_popup_title">Lociraj Gear uređaj</string>
+    <string name="gear_location_text">Lokacija Gear-a</string>
+    <string name="gear_lock_success">Gear je zaključan.</string>
+    <string name="gear_lock_text">Zaključaj Gear</string>
+    <string name="gear_locked">Gear je zaključan</string>
+    <string name="gear_locked_text1">Gear je zaključan. Da bi ga otključao/la, poveži Gear sa mobilnim uređajem putem Bluetooth-a.</string>
+    <string name="gear_phone_number">Broj telefona Gear-a</string>
+    <string name="gear_phone_number_popup_desc">Svi pozivi koji upućeni na mobilni uređaj će biti preusmereni na %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Svi pozivi koji nisu prihvaćeni na Mobilnom uređaju će biti preusmereni na %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Da bi zaključao/la Gear, moraš prvo da omogućiš Daljinsku vezu.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Da bi resetovao/la Gear, moraš prvo da omogućiš Daljinsku vezu.</string>
+    <string name="gear_reset_text">Resetuj Gear</string>
+    <string name="gear_to_mobile">Sa Gear-a na mob.</string>
+    <string name="gear_to_mobile_des">Primi pozive koji su upućeni na Gear na mobilnom uređaju kada su ova dva uređaja povezana putem Bluetooth-a.</string>
+    <string name="gear_unable_to_locate_message">Neuspešno nalaženje lokacije. Pokušaj ponovo kasnije.</string>
+    <string name="gear_unable_to_locate_title">Nije moguće locirati Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Tapeti</string>
+    <string name="home_bg_color">Boje</string>
+    <string name="home_bg_colors_title">DOSTUPNE BOJE</string>
+    <string name="home_bg_delete_actionbar_selected">Izabrano</string>
+    <string name="home_bg_delete_dialog_msg">%d tapeti će biti uklonjeni iz Gear menadžera i tvog Gear uređaja.</string>
+    <string name="home_bg_delete_select_all">Izaberi sve</string>
+    <string name="home_bg_max_more_image_toast">Dostignut je maksimalan broj tapeta (%d).</string>
+    <string name="home_bg_more_images">Još slika</string>
+    <string name="home_bg_popup_wallpaper_msg">Preuzimanje Gear tapeta…</string>
+    <string name="home_bg_popup_wallpaper_title">Preuzimanje tapeta</string>
+    <string name="home_bg_toast_saved">Sačuvano.</string>
+    <string name="home_bg_wallpaper">Tapet</string>
+    <string name="home_bg_wallpapers_title">DOSTUPNI TAPETI</string>
+    <string name="homelayout_apps">Aplikacije</string>
+    <string name="incoming_calls_title">Dolazni pozivi</string>
+    <string name="info_build_number">Verzija softvera</string>
+    <string name="info_model_number">Broj modela</string>
+    <string name="info_software_update">Ažurir. softvera</string>
+    <string name="information_provision_agreement">Ugovor o dostavljanju informacija</string>
+    <string name="information_provision_agreement_mgs">"Govorna beleška koristi tehnologije za prepoznavanje govora koje obezbeđuje nezavisni provajder pod imenom Nuance Communications, Inc. To znači da se vaše govorne informacije neizbežno čuvaju na serveru kojim upravlja Nuance (u Sjedinjenim Državama) a za korišćenje usluge Govorna beleška morate da prihvatite Uslove korišćenja usluge kompanije Nuance.
+ Nuance zadržava pravo da koristi govorne informacije u cilju poboljšanja usluga i razvijanja tehnologija. Nuance takođe zadržava pravo obezbedi gorepomenute govorne informacije svojim partnerima. Vaše govorne informacije se čuvaju sve dok se ne ispune gorenavedeni ciljevi. Za informacije o uslugama Govorna beleška pročitajte dokument Samsung politika privatnosti i Nuance politika privatnosti.
+ Uslugu Govorna beleška ne možete koristiti ukoliko ne prihvatite obezbeđivanje informacija na gore opisan način."</string>
+    <string name="init_manage_notifications_desc">Izaberi aplikacije čija obaveštenja želiš da primaš na %1$s. Da bi sačuvao/la energiju baterije %2$s uređaja, poništi izbor aplikacija čija obaveštenja ne želiš da primaš.</string>
+    <string name="install_in_progress">U toku…</string>
+    <string name="invalid_rename_character">Unet je neispravan karakter. Pokušaj ponovo.</string>
+    <string name="latest_version">Instalirana najnovija verzija</string>
+    <string name="latitude">Geografska širina</string>
+    <string name="limit_notification_desc">Blokiraj pojavljivanje upozorenja na Gear uređaju kada se koristi mobilni uređaj.</string>
+    <string name="limit_notification_dialog_desc">Nije moguće omogućiti Ograničenje obaveštenja na Gear-u. Nijedan ekran nije podešen na mobilnom uređaju.</string>
+    <string name="limit_notification_title">Ograniči obaveštenja</string>
+    <string name="location_info_title">Podeli lokaciju</string>
+    <string name="lock_gear_legal_text1">Funkcija Zaključaj Gear vam omogućava da daljinski zaključate Gear uređaj kako biste sprečili neovlašćenu upotrebu. Gear možete da otključate tako što ćete ga ponovo povezati sa mobilnim uređajem.</string>
+    <string name="lock_gear_legal_text2">* Funkciji Zaključaj Gear može da bude potrebno određeno vreme da počne da funkcioniše ili čak može uopšte da ne funkcioniše u zavisnosti od statusa Gear uređaja, mobilnog uređaja ili mrežnog okruženja.</string>
+    <string name="lock_gear_text">Nije moguće zaključati Gear kada su tvoj mobilni uređaj i Gear povezani putem Bluetooth-a.</string>
+    <string name="login_to_samsung_account">Prijava na Samsung nalog</string>
+    <string name="login_to_samsung_account_desc">Da bi omogućio/la daljinsku vezu na Gear-u, prijavi se na Samsung nalog.</string>
+    <string name="login_to_samsung_account_full_desc">"Prijavi se na Samsung nalog da bi koristio/la sledeće funkcije čak i kada nisi povezan/a putem Bluetooth-a:
+- Prijem obaveštenja
+- Korišćenje aplikacija preko Daljinske veze
+Korišćenje Daljinske veze može dovesti do dodatnih troškova."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Kada niste povezani na telefon putem Bluetooth-a, Samsung nalog će vam dozvoliti da putem mobilnih podataka učinite sledeće:
+- Primate poruke, e-poruke i druga obaveštenja
+- Koristite aplikacije na Gear uređaju kojem je potrebna veza sa telefonom putem funkcije Daljinska veza.
+
+Imajte u vidu da daljinska veza putem Samsung naloga koristi vaš tarifni paket."</string>
+    <string name="longitude">Geografska dužina</string>
+    <string name="main_bt_unpaired">Neuparen</string>
+    <string name="main_disconnected">Prekinuta veza</string>
+    <string name="manage_applications">Upravljanje aplikacijama</string>
+    <string name="manage_notifications">Upravljanje obaveštenjima</string>
+    <string name="manual_call_forwarding_for_att_msg">"Možete da preusmerite pozive koji su upućeni vašem pametnom telefonu na Gear uređaj.
+- Pametni telefon će zazvoniti nekoliko puta, a zatim će se poziv preusmeriti na Gear uređaj.
+- Ukoliko ne prihvatite poziv na Gear uređaju, pozivalac može da ostavi govornu poruku koju možete da poslušate na Gear uređaju.
+Da li želite da omogućite preusmeravanje poziva sada?"</string>
+    <string name="manual_call_forwarding_popup_desc">Preusmeravanje poziva je mrežna usluga kojom se %s dolazni pozivi preusmeravaju na određeni broj. U zavisnosti od provajdera, možda će biti obavezna pretplata kako bi Gear mogao da koristi ovu funkciju. To može da dovede do dodatnih troškova.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobilni uređaj</string>
+    <string name="masterapp_not_installed">%1$s nije instaliran na tvom mobilnom uređaju. Da bi koristio/la %2$s na Gear-u, preuzmi %1$s na mobilni uređaj.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s nije instaliran na tvom mobilnom uređaju. Da bi koristio/la %2$s na Gear-u, preuzmi %1$s na mobilni uređaj. Otvoriće se ekran za preuzimanje.</string>
+    <string name="masterapp_uninstalled">%1$s je deinstaliran sa tvog mobilnog uređaja. Da bi koristio/la %2$s na Gear-u, preuzmi %1$s na mobilni uređaj.</string>
+    <string name="maximum_size_warning">Dostignut je maksimalan broj karaktera.</string>
+    <string name="menu_about_device">OSNOVNE INFORMACIJE O %s</string>
+    <string name="menu_actionbar_remove">Ukloni</string>
+    <string name="menu_actionbar_uninstall">Deinstaliraj</string>
+    <string name="menu_appsandsettigns">APLIKACIJE I PODEŠAVANJA</string>
+    <string name="menu_clock">Sat</string>
+    <string name="menu_display">IZMENA POČETNOG EKRANA</string>
+    <string name="menu_downloaded_font">PREUZETA SLOVA</string>
+    <string name="menu_filetransfertogear">PRENOS FAJLOVA NA GEAR</string>
+    <string name="menu_gallery">Slika</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Rekreacija</string>
+    <string name="menu_help">Pomoć</string>
+    <string name="menu_home_screen">Uređivač početnog ekrana</string>
+    <string name="menu_music">Muzika</string>
+    <string name="menu_myapp">Moje aplikacije</string>
+    <string name="menu_notification">Obaveštenja</string>
+    <string name="menu_rename">Preimenuj</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Podešavanja</string>
+    <string name="mobile_to_gear">Sa mobil. na Gear</string>
+    <string name="mobile_to_gear_des">Primi pozive koji su upućeni na mobilni uređaj na Gear kada su ova dva uređaja daljinski povezana.</string>
+    <string name="monotype_default_font">Podrazumevani font</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Još</string>
+    <string name="more_options">Još opcija</string>
+    <string name="multisim_title">Više SIM-a</string>
+    <string name="navigate_up">Kreći se nagore</string>
+    <string name="new_eula_error_log">Prijavi dijagnos. inform.</string>
+    <string name="new_eula_fmd2">Nađi Moj uređaj</string>
+    <string name="new_eula_fmg2">Nađi moj Gear</string>
+    <string name="new_eula_news_briefing">Pregled vesti</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung tastatura</string>
+    <string name="new_notification_list">Prikaz liste</string>
+    <string name="new_notifications_list_desc">Prikaži listu obaveštenja primljenih na Gear uređaju levo od sata.</string>
+    <string name="no_application_selected">Aplikacije nisu izabrane</string>
+    <string name="no_downloaded_applications">Nema preuzetih aplikacija</string>
+    <string name="no_of_application_selected">Izabrano je aplikacija: %d</string>
+    <string name="no_remote_connection_popup_msg">Da bi omogućio/la Automatsko preusmeravanje poziva, otvori aplikaciju Samsung Gear na mobilnom uređaju i omogući opciju Daljinska veza, a zatim pokušaj ponovo.</string>
+    <string name="no_remote_connection_popup_title">Omogući Daljinsku vezu</string>
+    <string name="notification_type">Tip obaveštenja</string>
+    <string name="notification_type_desc">Kada se koristi Gear, obaveštenja će se prikazivati kao mali iskačući prozori na vrhu ekrana, bez obzira na tvoj prethodni izbor.</string>
+    <string name="number_setting">Podešavanje broja</string>
+    <string name="ok">OK</string>
+    <string name="once">Jednom</string>
+    <string name="one_application_selected">1 aplikacija je izabrana</string>
+    <string name="popup_attention_email_msg">Neki nalozi e-pošte nisu označeni u Podešavanjima e-pošte. Da bi primao/la obaveštenja sa tih naloga na Gear-u, označi Obaveštenja e-poštom u Podešavanjima e-pošte.</string>
+    <string name="popup_attention_message_msg">Radi slanja i prijema poruka na tvom Gear-u podrazumevana aplikacija za poruke će biti promenjena sa %s na Poruke.</string>
+    <string name="popupmenu_search_for_new_device">Upravljanje uređajima</string>
+    <string name="preview_message_desc">Prikaži pregled primljenih obaveštenja u vidu iskačućih obaveštenja na Gear-u, ne uključujući upozorenja o dolaznim pozivima i alarme.</string>
+    <string name="preview_message_title">Pregledaj poruku</string>
+    <string name="primary">Primarni</string>
+    <string name="privacypolicy_fmgfmd">Ako omogućite „%1$s i %2$s“, potvrđujete da se podaci o lokaciji koja je povezana sa vašim mobilnim telefonom i/ili uređajem Gear prenose kroz Samsung server da bi se pružala usluga %1$s i %2$s. Podaci ili informacije o lokaciji vašeg uređaja se ne čuvaju na Samsung serveru.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Ako omogućite „%1$s i %2$s“, potvrđujete da se podaci o lokaciji koja je povezana sa vašim mobilnim telefonom i/ili uređajem Gear prenose kroz Samsung server da bi se pružala usluga %1$s i %2$s. Podaci ili informacije o lokaciji vašeg uređaja se ne čuvaju na Samsung serveru.</string>
+    <string name="privacypolicy_newsbriefing">Ova aplikacija omogućava interakciju sa društvenim medijima i Internetom na mnoge inovativne načine. Ako omogućite ovu aplikaciju, usluga će prikupljati informacije o vašem korišćenju usluga, uključujući prikazivanje sadržaja i reklama i interakciju sa njima. Više informacija potražite u dokumentima %1$sUslovi korišćenja%2$s i %3$sPolitika privatnosti%4$s za aplikaciju Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">﻿Samsung politika privatnosti</string>
+    <string name="progressdialog_please_wait">Sačekaj…</string>
+    <string name="progressdialog_reinstalled_message">Instaliranje…</string>
+    <string name="progressdialog_reinstalled_popup_content">Pon. instal.</string>
+    <string name="providerapp_reinstalled">Aplikacija %s ne funkcioniše kako treba pa je deinstalirana. Sada će se ponovo instalirati.</string>
+    <string name="quick_tutorial_add_shortcuts">Za dodavanje prečica aplikacija na početni ekran Gear-a idi u Aplikacije na Gear-u, kucni i zadrži ikonu aplikacije, a zatim je prevuci i otpusti u ikonu Počni koja se nalazi na vrhu ekrana.</string>
+    <string name="quick_tutorial_gear_structure">Sat se prikazuje na glavnoj stranici početnog ekrana Gear uređaja. Stranice koje se nalaze levo od sata prikazuju obaveštenja a one koje se nalaze desno od njega prikazuju widget-e. Prevuci prstom nagore od donje ivice ekrana da bi prikazao/la aplikacije.</string>
+    <string name="quick_tutorial_noti_title">Uvod u %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Da bi otvorio/la S Voice, kaži „Hi Gear“ ili dvaput pritisni taster Početna kada se nalaziš na nekom od ekrana.</string>
+    <string name="quick_tutorial_swipe_downwards">Dvaput pritisni taster Počni da bi otvorio/la omiljenu aplikaciju. Možeš da promeniš omiljenu aplikaciju u okviru Podešavanja.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Dvaput pritisni taster za uključivanje da bi otvorio/la omiljenu aplikaciju. Možeš da promeniš omiljenu aplikaciju u okviru Podešavanja.</string>
+    <string name="quick_tutorial_to_go_back">Prevuci ekran nadole od ivice da bi se vratio/la.</string>
+    <string name="remote_connection_disabled_settings">Podešavanja</string>
+    <string name="remote_connection_enabled_desc">Ako se prekine Bluetooth veza, Gear će se povezati daljinski.</string>
+    <string name="requested">Zatraženo</string>
+    <string name="reset_gear_legal_text1">Funkcija Resetuj Gear vam omogućava da daljinski izbrišete sve podatke sa Gear uređaja. Nakon takvog brisanja nije moguće vratiti izbrisane podatke i više ne možete da koristite funkciju Nađi moj Gear.</string>
+    <string name="reset_gear_legal_text2">* Funkciji Resetuj Gear može da bude potrebno određeno vreme da počne da funkcioniše ili čak može uopšte da ne funkcioniše u zavisnosti od statusa Gear uređaja, mobilnog uređaja ili mrežnog okruženja.</string>
+    <string name="restore_complete">Vraćanje završeno.</string>
+    <string name="restore_some_error">Neuspešno vraćanje. Pokušaj ponovo.</string>
+    <string name="restore_try_again">Probaj opet</string>
+    <string name="restore_watch_settings_content2">"Koristi memoriju uređaja za bekapovanje %1$s sadržaja:
+%2$s
+
+Ako si prethodno bekapovao/la ovaj sadržaj, možeš da ga vratiš odmah na %3$s.
+
+U zavisnosti od veličine fajla, to može da potraje.
+
+Možeš da promeniš svoja podešavanja bekapovanja u okviru Podešavanja."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">PODEŠAVANJA</string>
+    <string name="retrieve_dialog_desc">Preuzimanje liste aplikacija…</string>
+    <string name="sa_email">E-pošta</string>
+    <string name="sa_error_0203_desc">Da bi omogućio/la daljinsku vezu, ručno ažuriraj Samsung nalog.</string>
+    <string name="sa_error_0203_title">Ažuriraj Samsung nalog</string>
+    <string name="sa_error_0301_desc">Došlo je do greške na mreži prilikom prijavljivanja na tvoj Samsung nalog na mobilnom uređaju.</string>
+    <string name="sa_error_0301_title">Neuspelo omogućavanje funkcije</string>
+    <string name="sa_error_0302_desc">Došlo je do greške na mreži prilikom prijavljivanja na tvoj Samsung nalog na mobilnom uređaju.</string>
+    <string name="sa_error_0302_title">Neuspelo omogućavanje funkcije</string>
+    <string name="sa_error_0401_desc">Došlo je do greške. Pokušaj ponovo.</string>
+    <string name="sa_error_0401_title">Greška</string>
+    <string name="safety_message_interval_10minutes">Na svakih 10 minuta</string>
+    <string name="safety_message_interval_20minutes">Svakih 20 minuta</string>
+    <string name="samsung_apps_info">Aplikacije koje su preuzete putem lokacije %1$s mogu se izbrisati kada se deinstalira %2$s ili kada se obrišu podaci o aplikaciji. Izbrisane aplikacije možeš preuzeti iz istorije kupovine u okviru usluge %3$s.</string>
+    <string name="samsung_apps_notice">Beleška</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Dopuni sada</string>
+    <string name="screen_off">Neka ekran bude isključen</string>
+    <string name="screen_off_desc">Primi obaveštenja na Gear kada je njegov ekran isključen, ne uključujući upozorenja o dolaznim pozivima i alarme.</string>
+    <string name="setting_Enable">Omogući</string>
+    <string name="setting_alpm_dialog_title">Pažnja</string>
+    <string name="setting_always_off">Uvek isključeno</string>
+    <string name="setting_always_on">Uvek uključeno</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Onemogućeno od strane administratora, politike šifrovanja ili memorije uverenja.</string>
+    <string name="setting_backup_restore2">Bekapuj i vrati</string>
+    <string name="setting_basic">OSNOVE</string>
+    <string name="setting_connections">VEZE</string>
+    <string name="setting_disable">Onemogući</string>
+    <string name="setting_home_key_double_pressing">Dvaput pritisni Počni</string>
+    <string name="setting_language_input">JEZIK I UNOS</string>
+    <string name="setting_manage_text_templates">Izmeni tekstualne obrasce</string>
+    <string name="setting_mobile_network">Mobilne mreže</string>
+    <string name="setting_mobile_network_desc">Kada se Gear poveže sa tvojim mobilnim uređajem putem Bluetooth-a, prekinuće se njegova veza sa mobilnom mrežom. Kada se prekine veza sa Bluetooth-om, Gear će se automatski ponovo povezati na mobilnu mrežu.</string>
+    <string name="setting_multisim_popup_desc">U zavisnosti od tvog provajdera, možeš da zahtevaš zasebnu pretplatu da bi koristio/la funkciju Više SIM-a. Kucni na OK da bi omogućio/la funkciju Više SIM-a.</string>
+    <string name="setting_opensource">Licenca za otvoreni kod</string>
+    <string name="setting_palm_motion">Pokreti</string>
+    <string name="setting_palm_swipe">Prevuci radi snimanja</string>
+    <string name="setting_palmover_desc">Za utišavanje dolaznih poziva i alarma ili za pauziranje medija, stavi ruku na ekran dok je ekran uključen.</string>
+    <string name="setting_palmswipe_desc">Snimi ekran tako što ćeš prevući celim prstom preko njega, održavajući kontakt sa ekranom.</string>
+    <string name="setting_pause_mute">Utišaj/pauziraj</string>
+    <string name="setting_power_key_double_pressing">Dvaput pr. tast. za uklj.</string>
+    <string name="setting_restoring">Vraćanje…</string>
+    <string name="setting_safety_b1_desc">Kada su Gear i mobilni uređaj povezani, opcija Pošalji poruke za pomoć ti može pomoći u hitnim slučajevima. Ona upozorava tvoje kontakte za hitne poruke o situaciji u kojoj se nalaziš slanjem hitnih poruka sa tvojom lokacijom. Slanje ovih poruka može da dovede do dodatnih troškova. Da bi omogućio/la opciju Pošalji poruke za pomoć, pritisni taster za uključivanje %d puta.</string>
+    <string name="setting_safety_b2_desc">Kada su tvoj Gear i mobilni uređaj povezani, opcija Pošalji poruke pomoći ti pomaže u hitnim slučajevima slikanjem slike putem Gear kamere. Upozorava tvoje kontakte za hitne slučajeve slanjem hitnih poruka sa ovom slikom i tvojom lokacijom. Prva poruka će sadržati tvoju lokaciju i sliku. Zatim, nakon određenog intervala, biće poslata druga poruka koja će sadržati samo tvoju lokaciju. Slanje ovih poruka može dovesti do dodatnih troškova. Da bi omogućio/la opciju Pošalji poruke pomoći u hitnim slučajevima, pritisni početni taster %d puta.</string>
+    <string name="setting_safety_b2_no_camera_desc">Kada su Gear i mobilni uređaj povezani, opcija Pošalji poruke za pomoć ti može pomoći u hitnim slučajevima. Ona upozorava tvoje kontakte za hitne poruke o situaciji u kojoj se nalaziš slanjem hitnih poruka sa tvojom lokacijom. Slanje ovih poruka može da dovede do dodatnih troškova. Da bi omogućio/la opciju Pošalji poruke za pomoć, pritisni početni taster %d puta.</string>
+    <string name="setting_safety_b3_desc1">Brzo pritisni taster Počni 3 puta da bi poslao/la kratko upozorenje svojim primarnim kontaktima kada se nalaziš u opasnosti.</string>
+    <string name="setting_safety_b3_desc2">Tvoji primarni kontakti za hitne slučajeve će primiti poruke koje sadrže informacije o tvojoj trenutnoj lokaciji.</string>
+    <string name="setting_safety_b3_desc3">Da bi koristio/la ovu funkciju, poveži mobilni uređaj i Gear.</string>
+    <string name="setting_safety_list">Pomoć oko bezbednosti</string>
+    <string name="setting_samsung_legal">Samsung pravni tekst</string>
+    <string name="setting_screen_lock">Automatsko zaključavanje</string>
+    <string name="setting_screen_lock_desc">Koristi Gear za zaključavanje mobilnog uređaja.</string>
+    <string name="setting_screen_secutiry">ZAŠTITA EKRANA</string>
+    <string name="setting_send_emergency_picture">Poš. sliku za hitne sluč.</string>
+    <string name="setting_send_emergency_recording">Pošalji snimak zvuka</string>
+    <string name="setting_send_emergency_term_agree">Pročitao/la sam i prihvatam sve gorenavedene uslove i odredbe.</string>
+    <string name="setting_send_help_message">Pošalji poruke za pomoć</string>
+    <string name="setting_send_terms_conditions">Uslovi korišćenja</string>
+    <string name="setting_smart_relay">Pametna razmena</string>
+    <string name="setting_smart_relay_desc">Prikaži sadržaj u Gear-u na mobilnom uređaju tako što ćeš podići mobilni uređaj.</string>
+    <string name="setting_smart_toss">Smart relej</string>
+    <string name="setting_system">SISTEM</string>
+    <string name="setting_text_to_speech_engine">Mehanizam za čitanja teksta</string>
+    <string name="setting_textinput_emoticon">Emotikoni</string>
+    <string name="setting_textinput_keyboard">Tastatura</string>
+    <string name="setting_textinput_list">Načini unosa teksta</string>
+    <string name="setting_textinput_templates">Obrasci</string>
+    <string name="setting_try_it">Isprobaj</string>
+    <string name="setting_wake_up">Pokret buđenja</string>
+    <string name="setting_wake_up_desc">Probudi Gear tako što ćeš podignuti ruku na kojoj se nalazi Gear.</string>
+    <string name="setting_wakeupgesture">"Da bi probudio/la Gear, podigni ruku na kojoj se nalazi Gear i gledaj u Gear ekran.
+
+Ova funkcija ne funkcioniše kada si nagnut/a unazad ili kada ležiš i ona može da troši više Gear baterije jer je njen senzor za pokret uvek uključen."</string>
+    <string name="setting_wakeupgesture_clock">Sat</string>
+    <string name="setting_wakeupgesture_previous">Poslednji prikazani ekran</string>
+    <string name="setting_wakeupgesture_screen_on">Izaberi prikazani ekran</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Izaberi prikazani ekran</string>
+    <string name="settings">Podešavanja</string>
+    <string name="settings_application_version">Verzija aplikacije</string>
+    <string name="settings_emergency_contact">Upravljaj primarnim kontaktima</string>
+    <string name="settings_emergency_contact_empty">Primarni kontakti nisu dodati. Da bi omogućio/la %s, dodaj kontakte u Primarne kontakte.</string>
+    <string name="settings_legal_information">Pravne informacije</string>
+    <string name="settings_message_interval">Interval slanja poruke</string>
+    <string name="settings_not_set">Nije podešeno</string>
+    <string name="settings_security">Zaštita</string>
+    <string name="settings_security_update">Bezbednosna ažuriranja</string>
+    <string name="settings_security_update_desc">Zaštiti svoj uređaj od štetnog sadržaja poboljšanjem njegove bezbednosti i usluge.</string>
+    <string name="settings_unknown_sources_dialog">Instalacija aplikacija koje potiču iz nepoznatih izvora može biti štetna po uređaj i lične podatke. Kucanjem na OK prihvataš sopstvenu odgovornost za bilo kakvu štetu nanetu uređaju ili gubitak podataka koji može nastati usled korišćenja tih aplikacija.</string>
+    <string name="settings_unknown_sources_subtitle">Dozvoli instalaciju aplikacija sa nepoznatih izvora.</string>
+    <string name="share_loc_disabled">Opcija Podeli lokaciju je onemogućena.</string>
+    <string name="share_location_desc">Dozvoli da funkcije Nađi moj Gear i Nađi moj uređaj dele podatke o lokaciji Gear uređaja i mobilnog uređaja.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Prihvatam da se podaci za mobilne uređaje mogu koristiti i da se MMS poruke mogu slati u hitnim slučajevima. Razumem da to može dovesti do dodatnih troškova.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Usluga „Pošalji poruke za pomoć“ namenjena je da korisnicima pomogne oko slanja obaveštenja o svojoj približnoj lokaciji i vizuelnih/zvučnih informacija o okruženju na mobilni telefon izabranog kontakta koji ste unapred naveli. Ova usluga je dostupna isključivo za vaše potrebe i nije predviđena, niti bi je trebalo tretirati kao zamenu za pozivanje nadležnih institucija u hitnim slučajevima.
+
+2. Usluga „Pošalji poruke za pomoć“ (u nastavku teksta Usluge) možda neće raditi precizno, bez prekida ili grešaka u zavisnosti od okolnosti kao što su mrežna veza, dostupnost GPS/Wi-Fi informacija, statusa i stanja u kojem se nalazi vaš uređaj ili uređaj vašeg izabranog kontakta, nivoa napunjenosti baterije i/ili drugih okolnosti koje su izvan kontrole kompanije Samsung Electronics Co., Ltd. (u nastavku teksta kompanija Samsung, mi, nas, naš). Na preciznost informacija o lokaciji i pravovremenu isporuku Usluga može da utiče vaše okruženje i stanje vašeg uređaja ili uređaja vašeg kontakta. Osim ako nije drugačije navedeno ili naloženo zakonom, kompanija Samsung se odriče svih garancija da će Usluge raditi precizno i bez prekida i grešaka. Imajte u vidu da vaš izabrani kontakt mora posedovati ispravan mobilni telefon i da taj uređaj mora biti uključen i u mogućnosti da prima tekstualne poruke. Prenos podataka o okruženju i lokaciji može vam biti naplaćen u zavisnosti od cenovnika usluga vašeg operatera.
+
+Kako bi Usluge funkcionisale na predviđen način, potrebno je da funkciju, nakon što je aktivirate, podesite da automatski uključi GPS i Wi-Fi funkcije na vašem uređaju. Slažete se sa automatskim uključivanjem GPS i Wi-Fi funkcija (ako bude potrebno), bez naknadnog slanja obaveštenja ili traženja vašeg pristanka.
+
+3. Slažete se da nećete zloupotrebljavati ovu funkciju i da je nećete koristiti u nezakonite svrhe ili za narušavanje privatnosti odnosno kršenje ličnih ili vlasničkih i drugih prava. Koristite ovu funkciju strogo u skladu sa zakonom i samo u hitnim slučajevima.Slažete se da ste isključivo vi odgovorni za svoje korišćenje ove funkcije. Kompanija Samsung neće snositi odgovornost ni za kakve posledice koje mogu nastati kao rezultat vašeg korišćenja ove funkcije.
+
+4. Usluge su dostupne isključivo za vašu pogodnost i nisu predviđene niti bi ih trebalo tretirati kao zamenu za pozivanje nadležnih institucija u hitnim slučajevima. Osim ako nije drugačije navedeno ili naloženo zakonom, kompanija Samsung se odriče svih garancija da će Usluge raditi precizno i bez prekida i grešaka.
+
+5. ODRICANJE ODGOVORNOSTI. SHVATATE I SAGLASNI STE U SLEDEĆEM:
+ 
+A. SVE USLUGE SE OBEZBEĐUJU U VIĐENOM STANJU, SA SVIM NEDOSTACIMA I KADA BUDU DOSTUPNE. VI SNOSITE SVU ODGOVORNOST ZA NJIHOVO KORIŠĆENJE. KOMPANIJA SAMSUNG NE DAJE IZRIČITE GARANCIJE, JEMSTVA ILI USLOVE U OKVIRU ILI U VEZI SA USLUGAMA. KOMPANIJA SAMSUNG SE IZRIČITO ODRIČE SVIH IZJAVA I GARANCIJA BILO KAKVE VRSTE, BILO DA SU IZRIČITE ILI PODRAZUMEVANE OBUHVATAJUĆI, BEZ OGRANIČENJA, SVE PODRAZUMEVANE GARANCIJE ZA MOGUĆNOST PRODAJE, PODESNOSTI ZA ODREĐENU NAMENU I POŠTOVANJE ZAKONA, KAO I SVE PODRAZUMEVANE GARANCIJE U TOKU POSLOVANJA ILI PRUŽANJA USLUGA.
+
+B. NE IZUZIMAJUĆI NAVEDENO, KOMPANIJA SAMSUNG NE DAJE NIKAKVE IZJAVE NITI GARANCIJE DA ĆE (i) USLUGE ZADOVOLJITI VAŠE ZAHTEVE, (ii) USLUGE BITI NEOMETANE, BLAGOVREMENE, SIGURNE I BEZ GREŠAKA, (iii) SADRŽAJ DOBIJEN PUTEM USLUGA, KAO I OBAVEŠTENJA I FUNKCIJE USLUGA BITI DOSTUPNE, PRECIZNE, KOMPLETNE ILI POUZDANE, (iv) KVALITET USLUGA, INFORMACIJE I DRUGI MATERIJALI KOJE STE PREUZELI PUTEM USLUGA ISPUNITI VAŠA OČEKIVANJA, ODNOSNO (v) GREŠKE ILI NEPRAVILNOSTI U USLUGAMA BITI OTKLONJENE.
+
+6. OGRANIČENJE ODGOVORNOSTI.
+
+A. SHVATATE I SLAŽETE SE DA KOMPANIJA SAMSUNG NEĆE BITI ODGOVORNA POD TEORIJOM NEMARA NI ZA KAKAV DIREKTNI, INDIREKTNI, SLUČAJNI, POSEBNI, KAZNENI, POSLEDIČNI ILI PRIMERNI GUBITAK, OBAVEZU, OŠTEĆENJE ILI IZDATAK OBUHVATAJUĆI, BEZ OGRANIČENJA, GUBITAK PROFITA, GUBITAK KORISTI ILI NEKI DRUGI GUBITAK (ČAK I U SLUČAJU DA POPRAVKA, ZAMENA ILI POVRAĆAJ NOVCA ZA USLUGE NE NADOKNADI U POTPUNOSTI GUBITKE ILI DA JE KOMPANIJA SAMSUNG ZNALA ILI TREBALO DA ZNA ZA MOGUĆNOST NASTANKA TAKVIH GUBITAKA, OBAVEZA, OŠTEĆENJA ILI IZDATAKA) KOJI JE DIREKTNO ILI INDIREKTNO NASTAO KAO POSLEDICA (i) TUŽBI ZBOG KRŠENJA UGOVORA, GARANCIJE, JEMSTVA ILI USLOVA, STROGE OBAVEZE, NEMARA ILI DRUGOG DELIKTA U MERI DOZVOLJENOJ ZAKONOM; (ii) VAŠEG KORIŠĆENJA ILI VAŠE NEMOGUĆNOSTI KORIŠĆENJA USLUGA, (iii) TROŠKOVA NABAVKE USLUGA ZA ZAMENU; (iv) NEOVLAŠĆENOG PRISTUPA PRENOSIMA ILI PODACIMA ILI NJIHOVE IZMENE; (v) IZJAVA ILI OPHOĐENJA NEKOG DRUGOG DOBAVLJAČA; (vi) OVOG UGOVORA; (vii) POVREDE NANETE OSOBI ILI OŠTEĆENJA IMOVINE (UKLJUČUJUĆI I SMRT), ODNOSNO (viii) BILOG KOG DRUGOG PITANJA U VEZI SA OVIM USLUGAMA ILI SADRŽAJEM KOJI SE OBEZBEĐUJE PUTEM USLUGA.
+ 
+B. VAŠ JEDINI I ISKLJUČIVI PRAVNI LEK ZA SVAKI SPOR SA KOMPANIJOM SAMSUNG U VEZI SA OVIM UGOVOROM ILI USLUGAMA JESTE PREKID KORIŠĆENJA USLUGA.
+ 
+C. POJEDINE NADLEŽNOSTI NE DOZVOLJAVAJU IZUZIMANJE ODREĐENIH GARANCIJA ILI OGRANIČAVANJE ODNOSNO IZUZIMANJE ODGOVORNOSTI ZA SLUČAJNE ILI POSLEDIČNE ŠTETE. PREMA TOME, NEKA OD NAVEDENIH OGRANIČENJA U 5. I 6. ODELJKU MOŽDA SE NE ODNOSE NA VAS.
+
+7. ODGOVORNOST ZA ODŠTETU. Pristajete da ćete obeštetiti, braniti i smatrati nedužnom kompaniju Samsung po pitanju svih potraživanja, postupaka, zahteva, troškova, obaveza, gubitaka, oštećenja, novčanih kazni i izdataka (što obuhvata razumne nadoknade i troškove za advokatske usluge) koji proisteknu iz vašeg korišćenja Usluga ili nepoštovanja ovog Ugovora. Ako, uprkos ličnoj prirodi licenci koje su vam dodeljene u okviru ovih uslovi i odredbi dozvolite drugoj osobi da koristi ove Usluge ili pružite nekoj osobi informacije dobijene putem Usluga, slažete se da ćete tu osobu obavestiti o postojanju i primeni ovih uslova i odredbi, koje će biti obavezujuće za tu osobu i slažete se da ćete obeštetiti, braniti i smatrati nedužnom kompaniju Samsung po pitanju svih potraživanja, postupaka, zahteva, troškova, obaveza, gubitaka, oštećenja, novčanih kazni i izdataka (što obuhvata nadoknade i troškove za advokatske usluge) koji nastanu kao posledica korišćenja ovih Usluga od strane te osobe.
+
+8. Viša sila. Kompanija Samsung neće snositi odgovornost ni za kakva kašnjenja ili probleme u performansama u okviru ovih uslova i odredbi, kao ni za prekid u isporuci Usluga do kojeg je došlo usled više sile, aktivnosti civilnih ili vojnih institucija, rata, terorističkih aktivnosti, radnih sporova, materijala ili usluga dobijenih od nezavisnog dobavljača ili bilo kakvog uzroka koji je izvan razumne kontrole kompanije Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Prihvatam da dozvolim usluzi %1$s da deli moju lokaciju mojim %2$s kontaktima.</string>
+    <string name="smartrelay_not_show">Ne prikazuj ponovo</string>
+    <string name="software_update">Ažuriranje softvera</string>
+    <string name="ss_double_tap_any_screen">Dvaput kucni bilo koji ekran koristeći dva prsta da bi prikazao/la kontrole osvetljenja i jačine zvuka i druge korisne informacije.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Prosleđivanje poziva na Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Zahtevanje…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Čitanje podešavanja…</string>
+    <string name="ss_loading_ing_abb">Učitavanje…</string>
+    <string name="ss_mobile_data_is_disabled">Funkcija Mobilni podaci je onemogućena. Umesto toga, povežite se na WLAN mrežu ili omogućite mobilne podatke i pokušajte ponovo.</string>
+    <string name="ss_mobile_data_is_disabled2">Prenos podataka putem mobilne telefonije nije omogućen. Umesto toga, poveži se na Wi-Fi mrežu ili omogući prenos podataka putem mobilne telefonije i pokušaj ponovo</string>
+    <string name="ss_no_network_connection">Nema mrežne veze</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Uputstvo za upotrebu</string>
+    <string name="str_no">Neka hvala</string>
+    <string name="str_yes">Da</string>
+    <string name="stub_list_install">Instaliraj</string>
+    <string name="sw_eula_condition">Razumem i prihvatam gorenavedene Uslove korišćenja.</string>
+    <string name="sw_eula_desc2">Saglasni ste da kompaniji Samsung dostavite podatke iz evidencije grešaka koje se jave tokom bilo kog ažuriranja Softvera na Vašem uređaju. Na ovaj način ćete pomoći kompaniji Samsung da poboljša i unapredi Samsungov proces ažuriranja Softvera i na taj način Vam pomogne da uvek imate ažuriran uređaj.</string>
+    <string name="tab_stub_list">Najvažnije</string>
+    <string name="talkback_download">Preuzmi</string>
+    <string name="talkback_setting">Podešavanja</string>
+    <string name="the_samsung_gear_application">aplikacija Samsung Gear</string>
+    <string name="threeg_connection">Koristi Daljinsku vezu</string>
+    <string name="threeg_connection_subtitle">Poveži se na Gear daljinski koristeći Podatke za mobilne uređaje ili Wi-Fi zajedno sa Samsung nalogom.</string>
+    <string name="threeg_connection_subtitle_chn">Povežite se na Gear uređaj daljinski koristeći opciju Mobilni podaci ili WLAN zajedno sa Samsung nalogom.</string>
+    <string name="title_activity_clock_delete">Deinstaliraj</string>
+    <string name="title_activity_connect_popup">Poveži se</string>
+    <string name="title_activity_paired_watch">Upareni uređaj</string>
+    <string name="title_alertdialog_device_name_popup">Preimenuj %s</string>
+    <string name="title_alertdialog_disconnect_popup">Otkači</string>
+    <string name="title_dialog_pm_error">Upozorenje</string>
+    <string name="title_dialog_uninstall">Deinstaliraj</string>
+    <string name="title_eula">Pravne napomene</string>
+    <string name="title_findmywatch_connect2">Nađi moj Gear</string>
+    <string name="title_findmywatch_finding">Pretraga…</string>
+    <string name="tri_connect_title_circle_to_gear">Poveži %1$s i %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Ako povežeš %1$s i %2$s putem Bluetooth-a, privremeno ćeš prekinuti vezu između %3$s uređaja i mobilnog uređaja. Ova veza će se ponovo uspostaviti neposredno nakon što se %4$s uređaj poveže sa %5$s uređajem i mobilnim uređajem.</string>
+    <string name="tt_install_voice_data">Instaliraj govorne podatke za čitanje teksta (TTS)</string>
+    <string name="tt_install_voice_data_required">Instaliraj dodatne jezike za čitanje teksta na Gear-u.</string>
+    <string name="tt_language">Jezik</string>
+    <string name="tt_send_help_message">Pošalji poruke za pomoć</string>
+    <string name="tt_tts_language_guide">Jezik za čitanje teksta je jezik koji si podesio/la u svojim podešavanjima za Gear. Ukoliko mehanizam za čitanje teksta ne podržava tvoj jezik, koristiće se engleski (Velika Britanija).</string>
+    <string name="unable_to_connect_popup_message">Neuspešno povezivanje Gear uređaja na tvoj mobilni uređaj. Pokušaj ponovo kasnije.</string>
+    <string name="unable_to_connect_popup_title">Povezivanje neuspešno</string>
+    <string name="unable_to_lock_gear">Nije moguće zaključati Gear</string>
+    <string name="unable_to_reset_gear">Nije moguće resetovati podešavanja Gear uređaja</string>
+    <string name="unabled_health">Nije moguće otvoriti ovu aplikaciju zato što je onemogućena.</string>
+    <string name="uninstall_applications">Deinstaliraj aplikacije</string>
+    <string name="unknown_sources_msg_new">Aplikacija %1$s neće biti instalirana putem usluge %2$s. Tvoj uređaj i lični podaci su osetljiviji na napade aplikacija sa nepoznatih izvora. Prihvataš sopstvenu odgovornost za svako oštećenje uređaja ili gubitak podataka koji može biti posledica korišćenja ovih aplikacija. Za neprekidnu instalaciju aplikacija sa nepoznatih izvora idi na %3$s > %4$s > %5$s i omogući opciju %6$s. Kucni na OK za instalaciju aplikacije %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">Aplikacija %1$s ne potiče sa lokacije %2$s i ne sadrži aplikaciju za Gear. Vaš uređaj i podaci su osetljiviji na napade aplikacija koje potiču iz nepoznatih izvora. Instalacija će biti otkazana i aplikacija %3$s će biti izbrisana sa vašeg telefona.</string>
+    <string name="unknown_sources_title">Nepoznati izvori</string>
+    <string name="update_button">Ažuriraj</string>
+    <string name="update_summary">Proveri ima li dopuna</string>
+    <string name="update_the_latest_version">Dostupno je ažuriranje</string>
+    <string name="voice_control_subtitle">Da bi prihvatio/la ili odbio/la pozive, izgovori komandu „Answer“ ili „Reject“ u pauzama kada Gear ne zvoni i ne vibrira.</string>
+    <string name="voicememo_link1">Uslove korišćenja usluge kompanije Nuance</string>
+    <string name="voicememo_link2">﻿Samsung politika privatnosti</string>
+    <string name="voicememo_link3">Nuance politika privatnosti</string>
+    <string name="watchapp_all">Aplikacije</string>
+    <string name="watchapp_noapps">Nema aplikacija</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Osvežavanje…</string>
+    <string name="wifi_only">Samo Wi-Fi</string>
+    <string name="wifi_only_chn">Samo WLAN</string>
+    <string name="wifi_only_summary">Preuzmi ažuriranja samo kada se povežeš na Wi-Fi mrežu.</string>
+    <string name="wifi_only_summary_chn">Može se preuzeti samo kada se povežete putem WLAN mreže.</string>
+    <string name="email_sanitize">Sadržaj ove e-poruke ne može da se prikaže na Gear-u iz bezbednosnih razloga. Za detalje, prikaži ovu e-poruku na tvom mobilnom uređaju.</string>
+    <string name="knox_sanitize">Kucni ovde za otvaranje KNOX režima.</string>
+</resources>

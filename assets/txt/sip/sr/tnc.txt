@@ -1,0 +1,8 @@
+Samsung tastatura i korišćenje usluge prepoznavanja govora
+1. Usluga Samsung tastatura koristi tehnologiju prepoznavanja govora kao komponentu za uslugu prevođenja. Potvrđujete da Samsung može da koristi usluge prepoznavanja govora („Usluga prepoznavanja govora“) koju obezbeđuje treća strana, Nuance Communications Inc. („Nuance“), i prihvatate i saglasni ste sa sledećim u vezi sa vašim korišćenjem usluge Samsung tastatura.
+2. Saglasni ste da nećete slati automatizovane ili snimljene zahteve usluzi Samsung tastatura.
+3. Prihvatate da Nuance prikuplja reči koje diktirate usluzi Samsung tastatura (uključujući i zvučne zapise tih reči, pridružene transkripte i datoteke evidencije) („Govorni podaci“) kako bi obezbedio Uslugu prepoznavanja govora.
+4. Prihvatate i saglasni ste da u cilju pružanja Usluge prepoznavanja govora, Nuance može da prikuplja Govorne podatke i može da ih koristi, zajedno sa svojim nezavisnim partnerima, za doterivanje, pojačavanje i poboljšanje (a) Usluge prepoznavanja govora i (b) drugih Nuance proizvoda i usluga.
+5. Prihvatate i saglasni ste da se vaši Govorni podaci mogu prenositi u Sjedinjene Države i/ili druge zemlje zbog skladištenja, obrade i korišćenja koje obavlja Nuance i njeni nezavisni partneri.
+6. Bilo koji i svi delovi Govornih podataka koje dostavite ostaju privatni i koristiće se u skladu sa važećim zakonom, ali ih Nuance može otkriti ukoliko se to od njega traži, kako bi zadovoljio zakonske ili regulativne zahteve, kao u slučaju sudskog naloga, ili vladinoj agenciji ako se to traži ili odobrava zakonom ili trećoj strani koja prisvaja Nuance ili se sa njim spaja.
+

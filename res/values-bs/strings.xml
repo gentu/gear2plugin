@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">%1$s nije instaliran na vašem mobilnom uređaju. Da biste koristili %2$s na Gear uređaju, preuzmite %1$s na mobilni uređaj.</string>
+    <string name="attention_popup_title">Pažnja</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Nove postavke sata su primijenjene putem Gear uređaja.</string>
+    <string name="invalid_rename_character">Unijet je neispravan karakter. Pokušajte ponovo.</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="sa_email">E-pošta</string>
+    <string name="shealth_menu">S Health</string>
+</resources>

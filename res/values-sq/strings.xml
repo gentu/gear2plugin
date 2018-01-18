@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">S’përdoret dot gjatë telefonatës.</string>
+    <string name="actionbar_name">Menaxheri Gear</string>
+    <string name="alert_full_screen">Dritare kërcyese në gjithë ekranin</string>
+    <string name="alert_mini">Dritare kërcyese mini</string>
+    <string name="alertdialog_backkey_popup_content">Lajmërim</string>
+    <string name="alertdialog_disconnect_popup_description">Gear do të shkëputet. Përdor Bluetooth për t‘u rilidhur.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Kjo do ta mbyllë lidhjen tënde me %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">"%s do të shkëputet nga pajisja jote celulare. Herën e ardhshme që t'i lidhësh këto pajisje, duhet të përdorësh Bluetooth. Çdo lidhje që nga ajo kohë mund të bëhet përmes Lidhjes në distancë."</string>
+    <string name="alertdialog_uninstall_popup_content">Çinstalo</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">Përcjellja auto thirrje</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">"Aftëso Përcjelljen e thirrjeve automatikisht kur Gear-i yt është shkëputur nga pajisja jote celulare. Kjo do t'i përcjellë thirrjet hyrëse nga pajisja jote celulare në Gear derisa pajisjet të rilidhen."</string>
+    <string name="auto_update">Përditësim automatik</string>
+    <string name="auto_update_summary">Kontrollo automatikisht për përditësime.</string>
+    <string name="backing_up">Po arkivoj…</string>
+    <string name="backup_complete">Arkivimi përfundoi.</string>
+    <string name="bnr_backup">Po arkivoj…</string>
+    <string name="bnr_bakcup_title">Arkivim</string>
+    <string name="bnr_cancel">Anullo</string>
+    <string name="bnr_canel">Anullo</string>
+    <string name="bnr_error_occurred">Ndodhi një gabim</string>
+    <string name="bnr_except">%1$s (përveç %2$s)</string>
+    <string name="bnr_except_autolock">Bllokimi automatik</string>
+    <string name="bnr_except_remoteconnection">Lidhja në distancë</string>
+    <string name="bnr_except_texttemplate">Modele shkrimore</string>
+    <string name="bnr_next">Tjetr</string>
+    <string name="bnr_no">Jo</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">"Për t'u lidhur me një pajisje të re, Gear do të ricilësohet në cilësimet e fabrikës."</string>
+    <string name="bnr_reset_gear_move_setupwizard">"Gear nuk është konfiguruar plotësisht. Udhëzuesi i konfigurimit është hapur aktualisht në Gear, por për t'u lidhur me Gear duhet ta hapësh udhëzuesin edhe te Menaxheri Gear në këtë pajisje."</string>
+    <string name="bnr_reset_initialization">Lajm</string>
+    <string name="bnr_restore">Restauro</string>
+    <string name="bnr_restored">Të dhënat u restauruan.</string>
+    <string name="bnr_setupwizard_title2">Rezervo dhe restauro</string>
+    <string name="bnr_yes">Po</string>
+    <string name="bt_connected">Lidhur</string>
+    <string name="bt_disconnected">Shkëputur</string>
+    <string name="bt_unpaired">Paçiftuar</string>
+    <string name="button_finish">Fund</string>
+    <string name="button_restore">Rivendos</string>
+    <string name="call">THIRR</string>
+    <string name="call_check_gear_status_when_cfwd">Funksionet e përcjelljes së thirrjeve Nga celulari në Gear dhe Nga Gear-i në celular nuk mund të aftësohen njëkohësisht.</string>
+    <string name="call_dualsim1">Karta SIM 1</string>
+    <string name="call_dualsim1sim2">Të dy kartat SIM</string>
+    <string name="call_dualsim2">Karta SIM 2</string>
+    <string name="call_forwarding">Përcjellje e telefonatave</string>
+    <string name="call_forwarding_agree">Pranoj.</string>
+    <string name="call_forwarding_desc">Përcill thirrjet hyrëse nga pajisja jote celulare në Gear.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">U bë një kërkesë për ta paaftësuar përcjelljen e thirrjeve nga pajisja jote celulare te Gear-i. Statusi i rrjetit tënd celular dhe i pajisjes celulare mund të ndikojë në rezultatet.</string>
+    <string name="call_forwarding_enable_msg">U bë një kërkesë për ta aftësuar përcjelljen e thirrjeve nga pajisja jote celulare te Gear-i. Statusi i rrjetit tënd celular dhe i pajisjes celulare mund të ndikojë në rezultatet.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">"Përcjellja e thirrjeve nga pajisja jote celulare në Gear është aktualisht e aftësuar. Thirrjet hyrëse në pajisjen celulare do të përcillen në Gear. Në qoftë se nuk e ke Gear-in me vete, shko te Cilësimet dhe paaftëso Përcjelljen automatike të thirrjeve, për t'u siguruar që të mos humbësh ndonjë thirrje."</string>
+    <string name="call_forwarding_turning_off_notify_msg">Duke paaftësuar përc. thirrjes zanore…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Duke aftësuar përcj. thirrjes zanore…</string>
+    <string name="call_no_gear_number">Pa numra</string>
+    <string name="call_select_dualsim_title">Përzgjidh kartën SIM</string>
+    <string name="call_voice_control">Kontrolli zanor</string>
+    <string name="callforwarding_help_des1">Këmbeje pajisjen ku do të përcillen thirrjet automatikisht, në varësi të nëse pajisjet e tua janë lidhur me Bluetooth apo me Lidhjen në distancë.</string>
+    <string name="callforwarding_help_des2">Merr në Gear thirrje që vijnë te pajisja jote celulare kur je në lëvizje dhe po e mban Gear-in dhe ky është i lidhur në distancë me pajisjen celulare.</string>
+    <string name="cancel">Anullo</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Dështova të paaftësoj Përcjelljen e thirrjeve.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">Shkarko orë të tjera</string>
+    <string name="clocks_noti_uninstall_clock">%s do të çinstalohen.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s do të çinstalohet dhe %2$s do të cilësohet si ora e parazgjedhur.</string>
+    <string name="clocks_title_basic_clocks">ORËT BAZË</string>
+    <string name="clocks_title_downloaded_clocks">ORËT E SHKARKUARA</string>
+    <string name="clocks_title_style_clocks">ORË TË STILIZUARA</string>
+    <string name="clocks_uninstalled">Çinstaluar.</string>
+    <string name="clocks_uninstalling">Duke çinstaluar…</string>
+    <string name="close">Mbyll</string>
+    <string name="closing_samsung_gear_message">Gear-i yt u resetua. Aplikacioni Samsung Gear do të mbyllet së shpejti.</string>
+    <string name="closing_samsung_gear_message_jpn">Your Gear has been reset. The Gear application will close shortly.</string>
+    <string name="closing_samsung_gear_title">Mbylle aplikacionin Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Close Gear application</string>
+    <string name="cloud_backup_no_information">Kurrë</string>
+    <string name="cloud_backup_restore_backup_now">Rezervo të dhëna</string>
+    <string name="cloud_backup_restore_restore_now">Restauro të dhënat</string>
+    <string name="cmw_agree">Pranoj</string>
+    <string name="cmw_eula_agree">I kuptoj dhe i pranoj termat dhe kushtet më lart.</string>
+    <string name="cmw_for_setting">Shërbimet e vendndodhjes janë paaftësuar. Shko te Cilësimet.</string>
+    <string name="cmw_high_accuracy_dialog_message">Për ta pikasur sa më shpejt dhe më mirë vendndodhjen, përzgjidh Saktësi të lartë në Vendndodhja > Regjimi.</string>
+    <string name="cmw_high_accuracy_dialog_title">Përzgjidh Saktësi të lartë</string>
+    <string name="cmw_legal_content">Duke aktivizuar “Ndaj vendndodhjen”, ju pranoni se të dhënat e vendndodhjes që shoqërohen me telefonin tuaj dhe/ose pajisjen tuaj Gear do të transmetohen përmes një serveri Samsung për të mundësuar shërbimin Find My Gear dhe Find My Device. Në serverin e Samsung nuk ruhen të dhëna ose informacione rreth vendndodhjes së pajisjes suaj.</string>
+    <string name="cmw_legal_content1">Duke aktivizuar \"%1$s dhe %2$s\", ju pranoni se të dhënat e vendndodhjes që shoqërojnë telefonin tuaj celular dhe/ose pajisjen Gear do të transmetohen nëpërmjet një serveri të Samsung për të mundësuar shërbimin %1$s dhe %2$s. Në serverin e Samsung nuk ruhen të dhëna ose informacione rreth vendndodhjes së pajisjes tuaj.</string>
+    <string name="cmw_legal_content1_no_gps">Duke aktivizuar \"%1$s dhe %2$s\", ju pranoni se të dhënat e vendndodhjes që shoqërojnë telefonin tuaj celular dhe/ose pajisjen Gear do të transmetohen nëpërmjet një serveri të Samsung për të mundësuar shërbimin %1$s dhe %2$s. Në serverin e Samsung nuk ruhen të dhëna ose informacione rreth vendndodhjes së pajisjes tuaj.</string>
+    <string name="cmw_legal_content_2">﻿Politika e Privatësisë e Samsung</string>
+    <string name="cmw_legal_title">Njoftimet ligjore</string>
+    <string name="cmw_location">Aftëso shërb. e Vendndodhjes</string>
+    <string name="cmw_show_on_map">Trego në hartë</string>
+    <string name="color_black">E zezë</string>
+    <string name="color_blue">I kaltër</string>
+    <string name="color_brown">Kafe</string>
+    <string name="color_gray">Gri</string>
+    <string name="color_green">I gjelbër</string>
+    <string name="color_light_sky_blue">Bojëqielli e hapur</string>
+    <string name="color_medium_purple">Vjollcë mesatare</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Rozë</string>
+    <string name="color_purple">Vjollcë</string>
+    <string name="color_red">I kuq</string>
+    <string name="color_spring_green">E gjelbër pranverë</string>
+    <string name="common_none">Asnjë</string>
+    <string name="common_off">Fikur</string>
+    <string name="common_on">Aktiv</string>
+    <string name="common_recent_apps">App së fundi</string>
+    <string name="connect_popup_content">Duke u lidhur me %s…</string>
+    <string name="connected_by_trasport_BT">Lidhur nëpërmjet Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Lidhur në distancë</string>
+    <string name="connecting_content">Duke u lidhur me Gear</string>
+    <string name="connecting_doc">"Pasi të lidhesh me %1$s, mund t'ia ndryshosh cilësimet dhe të instalosh atje aplikacione përmes %2$s."</string>
+    <string name="connecting_popup_message">Duke u lidhur me Gear…</string>
+    <string name="connecting_popup_title">Lidhu me Gear</string>
+    <string name="connecting_to_gear_ing">Duke u lidhur me Gear…</string>
+    <string name="connectingdoc">"Pasi të lidhesh me Gear, mund t'ia ndryshosh cilësimet dhe të instalosh atje aplikacione përmes Menaxherit Gear."</string>
+    <string name="connection_error_dialog_message">Pajisja jote nuk është lidhur. Do të tentohet të lidhet sërish.</string>
+    <string name="dialog_check_phone_number_msg1">Sigurohu që informacioni i mëposhtëm është korrekt:</string>
+    <string name="dialog_check_phone_number_msg2">Numri i telefonit celular: %s</string>
+    <string name="dialog_check_phone_number_msg3">Numri i telefonit i Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Trokit mbi OK për të konfirmuar dhe aftësuar Përcjelljen auto të thirrjeve.</string>
+    <string name="dialog_enable_remote_connection_desc">Për të aftësuar Përcjelljen automatike të thirrjeve, aftëso Lidhjen në distancë, pastaj provo sërish.</string>
+    <string name="dialog_enable_remote_connection_title">Aftëso Lidhjen në distancë</string>
+    <string name="dialog_permission_message">Nuk mund të përdor %s. Trokit mbi CILËSIMET, shko te Info për app-in > Lejet, pastaj jep lejet e mëposhtme dhe provo sërish:</string>
+    <string name="dialog_popup_button_cancel">Anullo</string>
+    <string name="dialog_reverse_msg">Në varësi të ofruesit të shërbimit, mund të duhen abonime të veçanta për ta lejuar pajisjen tënde celulare dhe Gear-in që ta përdorin këtë funksionalitet. Kjo mund të sjellë shpenzime ekstra.</string>
+    <string name="dialog_set_phone_number_msg">Për të aftësuar Përcjelljen automatike të thirrjeve, cilëso numrat e telefonit të pajisjeve me të cilat dëshiron të shkëmbesh përcjellje thirrjesh.</string>
+    <string name="dialog_set_phone_number_title">Aftëso Përcjelljen auto të thirrjeve</string>
+    <string name="disable_loc_text">Përbashko vendndodhjen do të paaftësohet. Nuk do të mund të përdorësh informacionin e vendndodhjes për të kërkuar Gear-in ose pajisjen celulare nëpërmjet Gjej Gear-in ose Gjej pajisjen time.</string>
+    <string name="disable_loc_text_no_gps">Përbashko vendndodhjen do të paaftësohet. Nuk do të mund të përdorësh informacionin e vendndodhjes për të kërkuar pajisjen celulare nëpërmjet Gjej pajisjen time.</string>
+    <string name="disable_remote_connection">Paaft. Lidhj. në distancë</string>
+    <string name="disable_remote_connection_fmm_fmd">Gjej Gear-in dhe Gjej pajisjen time</string>
+    <string name="disable_remote_connection_receiving_blocked">Për të marrë mesazhe, e-postë dhe njoftime nga pajisja celulare</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Për të marrë e-postë dhe njoftime nga pajisja celulare</string>
+    <string name="disable_remote_connection_warning">Lidhja në distancë do të paaftësohet. Funksionet e mëposhtme nuk do të mund të përdoren, derisa Gear-i të lidhet me pajisjen tënde nëpërmjet Bluetooth sërish:</string>
+    <string name="disable_share_location">Paaftëso Përbashko vendndodhjen</string>
+    <string name="disconnect_popup_content">Po shkëput %s…</string>
+    <string name="do_not_show_again">Mos e shfaq më</string>
+    <string name="enable_auto_call_forwarding_msg">Përcill automatikisht thirrjet hyrëse nga pajisja jote celulare në Gear kur Gear-i është shkëputur. Në varësi të ofruesit të shërbimit, kjo mund të sjellë shpenzime ekstra. Trokit mbi OK për të aftësuar Përcjelljen automatike të thirrjeve.</string>
+    <string name="enable_auto_call_forwarding_title">Aft. Prc. auto të thirrjeve</string>
+    <string name="enable_more_notifications_enable">Aktivizo</string>
+    <string name="enable_notification_access">Aftëso Aksesin te njoftimet</string>
+    <string name="enable_notification_access_desc">"Ky funksion do të mund t'i lexojë të gjitha njoftimet që ti merr, dhe që mund të përfshijnë informacion me natyrë personale, të tillë si kontaktet dhe mesazhet që të janë dërguar. Do të jetë gjithashtu në gjendje t'i shpërfillë këto njoftime ose të përzgjedhë veprime që lidhen me to.
+Për të marrë njoftime në Gear, trokit mbi Aftëso, pastaj aftësoje %s."</string>
+    <string name="enable_share_location">Aftëso Përbashko vendndodhjen</string>
+    <string name="enabled_loc">Përbashko vendndodhjen u aftësua.</string>
+    <string name="error_enter_device_name">Fut emrin e pajisjes.</string>
+    <string name="error_occurred">Gabim.</string>
+    <string name="eula_i_agree">Pranoj.</string>
+    <string name="failed_tshare_msg">"S‘e aftësova dot
+Përcjelljen e th.
+T share s‘përgjigj."</string>
+    <string name="find_my_device">Gjej pajisjen time</string>
+    <string name="find_my_gear">Gjej Gear-in tim</string>
+    <string name="find_watch_btn_start">Fillo</string>
+    <string name="find_watch_btn_stop">Ndal</string>
+    <string name="find_watch_off">Për të gjetur Gear, trokit mbi Fillo. Gear do të luajë një tingull dhe ekrani i tij do të ndizet.</string>
+    <string name="find_watch_on">Për ta ndalur së kërkuari Gear, trokit mbi Ndal. Gear do të ndalë sinjalizimin me tingull dhe ekrani do të fiket.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s do të çinstalohet dhe fonti i parazgjedhur do të zbatohet ndaj %2$s.</string>
+    <string name="force_wifi_direct_msg">Aplikacioni do të instalohet nëpërmjet Wi-Fi Direct. Kjo do ta përfundojë lidhjen tënde të tanishme Wi-Fi Direct. Në qoftë se e anulon instalimin, do të duhet ta shkarkosh aplikacionin sërish për ta instaluar.</string>
+    <string name="force_wifi_direct_title">Instalo</string>
+    <string name="force_wifi_install">Instalo</string>
+    <string name="gear2_backup_confirm_text">Në qoftë se i rezervon të dhënat tani, të dhënat e tanishme të rezervimit Gear në pajisjen celulare do të zëvendësohen me të dhënat e tua të fundit Gear.</string>
+    <string name="gear2_restore_confirm_text">Në qoftë se i restauron të dhënat e tua, të dhënat që ke tani në Gear do të hiqen dhe zëvendësohen me të dhënat e tanishme të rezervimit Gear.</string>
+    <string name="gear2_text">"Përdor magazinën e pajisjes për të rezervuar materialet e tua %1$s:
+%2$s
+
+Në qoftë se e kishe rezervuar këtë material më parë, mund ta restaurosh te %3$s tani.
+
+Në varësi të madhësisë së skedarit, kjo mund të kërkojë kohë."</string>
+    <string name="gear2_text_import3">Cilësimet</string>
+    <string name="gear_bnr_desc">"Përdor magazinën e pajisjes sate celulare për të rezervuar të dhënat e mëposhtme %1$s: %2$s
+
+Në qoftë se i ke rezervuar më parë të dhënat e tua %3$s, mund t'i restaurosh tani në %4$s.
+
+Për këtë mund të duhet pak kohë, në varësi të madhësisë së skedarëve."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">"Pajisja jote celulare tani po skanon për Gear-in. Kjo mund të kërkojë disa minuta. Nëse Gear-i yt gjendet diku brenda mureve, mund të mos jetë e lehtë për t'u gjetur."</string>
+    <string name="gear_location_popup_title">Gjej Gear-in</string>
+    <string name="gear_location_text">Vendndodhja e Gear-it</string>
+    <string name="gear_lock_success">Gear-i u bllokua.</string>
+    <string name="gear_lock_text">Blloko Gear-in</string>
+    <string name="gear_locked">Gear-i u bllokua</string>
+    <string name="gear_locked_text1">Gear-i është bllokuar. Për ta zhbllokuar, lidhe Gear-in me pajisjen tënde celulare nëpërmjet Bluetooth.</string>
+    <string name="gear_phone_number">Numri i telefonit i Gear</string>
+    <string name="gear_phone_number_popup_desc">Të gjitha thirrjet drejt pajisjes sate celulare do të përcillen te %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Për ta bllokuar Gear-in, duhet aftësuar më parë Lidhja në distancë.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Për ta resetuar Gear-in, duhet aftësuar më parë Lidhja në distancë.</string>
+    <string name="gear_reset_text">Reseto Gear-in</string>
+    <string name="gear_to_mobile">Nga Gear-i në cel.</string>
+    <string name="gear_to_mobile_des">Merr thirrje që vijnë në Gear te pajisja jote celulare kur të dy pajisjet janë lidhur me Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Dështova ta gjej vendndodhjen. Provo sërish më vonë.</string>
+    <string name="gear_unable_to_locate_title">Nuk mund ta gjej Gear-in</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S zëri</string>
+    <string name="home_background">Letrat e murit</string>
+    <string name="home_bg_color">Ngjyrat</string>
+    <string name="home_bg_colors_title">NGJYRAT NË DISPOZICION</string>
+    <string name="home_bg_delete_actionbar_selected">Zgjedhur</string>
+    <string name="home_bg_delete_dialog_msg">%d letra muri do të hiqen nga Menaxheri Gear dhe Gear-i yt.</string>
+    <string name="home_bg_delete_select_all">Përzgjidh të gjitha</string>
+    <string name="home_bg_max_more_image_toast">U arrit numri maksimal i letrave të murit (%d).</string>
+    <string name="home_bg_more_images">Imazhe të tjera</string>
+    <string name="home_bg_popup_wallpaper_msg">Duke shkarkuar letra muri për Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">Shkarko letra muri</string>
+    <string name="home_bg_toast_saved">U ruajt.</string>
+    <string name="home_bg_wallpaper">Sfond</string>
+    <string name="home_bg_wallpapers_title">LETRAT E MURIT NË DISPOZ.</string>
+    <string name="homelayout_apps">Programe</string>
+    <string name="incoming_calls_title">Thirrjet hyrëse</string>
+    <string name="info_build_number">Versioni i programeve</string>
+    <string name="info_model_number">Numri i modelit</string>
+    <string name="info_software_update">Përditës. softueri</string>
+    <string name="information_provision_agreement">Marrëveshja e dhënies së informacionit</string>
+    <string name="information_provision_agreement_mgs">"Memoja zanore përdor teknologji të njohjes së ligjërimit të ofruar nga një palë e tretë e quajtur Nuance Communications, Inc. Prandaj informacioni juaj zanor do të ruhet në një server të përdorur prej Nuance (në Shtetet e Bashkuara) dhe përdorimi i Memos zanore kërkon që ju të pranoni Termat dhe kushtet e Nuance.
+ Nuance ruan të drejtën të përdorë materialet tuaja zanore për të përmirësuar shërbimet dhe zhvilluar teknologjinë. Nuance gjithashtu ruan të drejtën t'ia ofrojë këto të dhëna partnerëve të Nuance. Të dhënat tuaja zanore do të ruhen derisa të arrihen synimet e mësipërme. Për informacion rreth shërbimeve të Memos zanore, lutemi lexoni Politikën e privatësisë të Samsung dhe politikën e Privatësisë të Nuance.
+ Nuk mund ta përdorni Memon zanore në qoftë se nuk bini dakord me dhënien e informacionit të përshkruar më sipër."</string>
+    <string name="init_manage_notifications_desc">Përzgjidh aplikacionet nga të cilat dëshiron të marrësh njoftime në %1$s. Për të kursyer baterinë e %2$s, shpërzgjidh aplikacionet nga ku nuk dëshiron të marrësh njoftime.</string>
+    <string name="install_in_progress">Po kryhet…</string>
+    <string name="latest_version">Versioni më i fundit instaluar</string>
+    <string name="latitude">Gjerësia gjeografike</string>
+    <string name="limit_notification_desc">Mos lejo që sinjalizimet të shfaqen në Gear kur është duke u përdorur pajisja celulare.</string>
+    <string name="limit_notification_dialog_desc">Nuk mund të aftësoj Bllokimin e njoftimeve në Gear. Nuk është cilësuar bllokues ekrani në pajisjen tënde celulare.</string>
+    <string name="limit_notification_title">Kufizo njoftimet</string>
+    <string name="location_info_title">Përbashko vendndodhjen</string>
+    <string name="lock_gear_legal_text1">Duke përdorur Blloko Gear, mund të bllokosh në largësi Gear-in për të parandaluar përdorimin e paautorizuar. Mund ta zhbllokosh Gear-in duke rilidhur pajisjen celulare.</string>
+    <string name="lock_gear_legal_text2">* Blloko Gear mund të kërkojë kohë për të funksionuar ose mund të ngecë në varësi të gjendjes së Gear, pajisjes celulare ose rrjetit.</string>
+    <string name="lock_gear_text">Nuk mund ta bllokoj Gear-in kur pajisja jote celulare dhe Gear-i janë lidhur përmes Bluetooth.</string>
+    <string name="login_to_samsung_account">Lidhu me llogarinë Samsung</string>
+    <string name="login_to_samsung_account_desc">Për të aftësuar Lidhjen në distancë në Gear, lidhu me llogarinë Samsung.</string>
+    <string name="login_to_samsung_account_full_desc">"Lidhu me llogarinë Samsung për të përdorur funksionalitetet e mëposhtme edhe kur s'je lidhur me Bluetooth:
+- Të marrësh njoftime
+- Të përdorësh aplikacione përmes Lidhjes në distancë
+Lidhja në distancë mund të sjellë shpenzime ekstra."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Gjatësia gjeografike</string>
+    <string name="main_bt_unpaired">Paçiftuar</string>
+    <string name="main_disconnected">Shkëputur</string>
+    <string name="manage_applications">Menaxho aplikacionet</string>
+    <string name="manage_notifications">Menaxho njoftimet</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Përcjellja e thirrjeve është një shërbim rrjeti që devijon thirrjet hyrëse të %s drejt një numri të caktuar. Në varësi të ofruesit të shërbimit, mund të duhet abonim për ta lejuar Gear-in që ta përdorë këtë funksionalitet. Kjo mund të sjellë shpenzime ekstra.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Pajisja celulare</string>
+    <string name="masterapp_not_installed">%1$s nuk është instaluar në pajisjen tënde celulare. Për të përdorur %2$s në Gear, shkarko %1$s në pajisjen celulare.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s nuk është instaluar në pajisjen tënde celulare. Për të përdorur %2$s në Gear, shkarko %1$s në pajisjen celulare. Do të çohesh tek ekrani i shkarkimit.</string>
+    <string name="masterapp_uninstalled">%1$s u çinstalua nga pajisja jote celulare. Për të përdorur %2$s në Gear, shkarko %1$s në pajisjen celulare.</string>
+    <string name="maximum_size_warning">U arrit numri maksimal i shenjave.</string>
+    <string name="menu_about_device">RRETH %s</string>
+    <string name="menu_actionbar_remove">Hiq</string>
+    <string name="menu_actionbar_uninstall">Çinstalo</string>
+    <string name="menu_appsandsettigns">APP-ET DHE CILËSIMET</string>
+    <string name="menu_clock">Ora</string>
+    <string name="menu_display">REDAKTO EKRANIN BAZË</string>
+    <string name="menu_downloaded_font">FONTET E SHKARKUARA</string>
+    <string name="menu_filetransfertogear">TRANSFERO SKEDARË NË GEAR</string>
+    <string name="menu_gallery">Imazh</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Formë fizike</string>
+    <string name="menu_help">Ndihmë</string>
+    <string name="menu_home_screen">Stilizuesi i ekranit bazë</string>
+    <string name="menu_music">Muzika</string>
+    <string name="menu_myapp">Aplikacionet e mia</string>
+    <string name="menu_notification">Njoftimet</string>
+    <string name="menu_rename">Riemërto</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Cilësimet</string>
+    <string name="mobile_to_gear">Nga cel. në Gear</string>
+    <string name="mobile_to_gear_des">Merr në Gear thirrje që vijnë te pajisja jote celulare kur të dy pajisjet janë lidhur në distancë.</string>
+    <string name="monotype_default_font">Fonti i parazgjedhur</string>
+    <string name="monotype_dialog_font_applemint">Mente mollë</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Kumborëz</string>
+    <string name="more">Më tej</string>
+    <string name="more_options">Opsione të tjera</string>
+    <string name="multisim_title">Multi SIM</string>
+    <string name="navigate_up">Navigo lart</string>
+    <string name="new_eula_error_log">Raporto info diagnostike</string>
+    <string name="new_eula_fmd2">Gjej pajisjen time</string>
+    <string name="new_eula_fmg2">Gjej Gear-in tim</string>
+    <string name="new_eula_news_briefing">Lajmet e ditës</string>
+    <string name="new_eula_s_voice">S zëri</string>
+    <string name="new_eula_sip">Tastiera Samsung</string>
+    <string name="new_notification_list">Pamja listë</string>
+    <string name="new_notifications_list_desc">Shfaq, në krahun e majtë të orës, një listë të njoftimeve të mbërritura në Gear.</string>
+    <string name="no_application_selected">Asnjë aplikacion nuk është përzgjedhur</string>
+    <string name="no_downloaded_applications">Nuk ka aplikacione të shkarkuara</string>
+    <string name="no_of_application_selected">%d aplikacione u përzgjodhën</string>
+    <string name="no_remote_connection_popup_msg">Për të aftësuar Përcjelljen automatike të thirrjeve, hap aplikacionin Samsung Gear në pajisjen celulare dhe aftëso Lidhjen në distancë, pastaj provo sërish.</string>
+    <string name="no_remote_connection_popup_title">Aftëso Lidhjen në distancë</string>
+    <string name="notification_type">Lloji i njoftimit</string>
+    <string name="notification_type_desc">Kur Gear-i yt është në përdorim, njoftimet e tua do të afishohen si dritare të vogla kërcyese në krye të ekranit, pavarësisht prej çfarë ke përzgjedhur më lart.</string>
+    <string name="number_setting">Cilësimi i numrit</string>
+    <string name="ok">OK</string>
+    <string name="once">Një herë</string>
+    <string name="one_application_selected">1 aplikacion u përzgjodh</string>
+    <string name="popup_attention_email_msg">Disa llogari e-postare nuk janë përzgjedhur në Cilësimet e-postare. Për të marrë njoftime nga ato llogari në Gear, përzgjidh Njoftimet e-postare në Cilësimet e-postare.</string>
+    <string name="popup_attention_message_msg">Për të dërguar dhe marrë mesazhe në Gear, aplikacioni yt i parazgjedhur për mesazhim do të ndryshohet nga %s në Mesazhimi.</string>
+    <string name="popupmenu_search_for_new_device">Menaxho pajisjet</string>
+    <string name="preview_message_desc">Shfaq një parapamje të njoftimeve të marra, me përjashtim të sinjalizimeve për thirrjet hyrëse dhe alarmet, në njoftimet kërcyese në Gear.</string>
+    <string name="preview_message_title">Parashihe mesazhin</string>
+    <string name="primary">Parësore</string>
+    <string name="privacypolicy_fmgfmd">Duke aktivizuar \"%1$s dhe %2$s\", ju pranoni se të dhënat e vendndodhjes që shoqërojnë telefonin tuaj celular dhe/ose pajisjen Gear do të transmetohen nëpërmjet një serveri të Samsung për të mundësuar shërbimin %1$s dhe %2$s. Në serverin e Samsung nuk ruhen të dhëna ose informacione rreth vendndodhjes së pajisjes tuaj.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Duke aktivizuar \"%1$s dhe %2$s\", ju pranoni se të dhënat e vendndodhjes që shoqërojnë telefonin tuaj celular dhe/ose pajisjen Gear do të transmetohen nëpërmjet një serveri të Samsung për të mundësuar shërbimin %1$s dhe %2$s. Në serverin e Samsung nuk ruhen të dhëna ose informacione rreth vendndodhjes së pajisjes tuaj.</string>
+    <string name="privacypolicy_newsbriefing">Ky aplikacion u jep përdoruesve mundësinë të ndërveprojnë me median shoqërore dhe internetin në një mori mënyrash të reja. Nëse e aktivizoni këtë aplikacion, shërbimi do të mbledhë informacion rreth mënyrës se si ju përdorni shërbimet, duke përfshirë mënyrën se si shikoni dhe ndërveproni me përmbajtjen dhe reklamat. Për më shumë hollësi, ju lutemi të lexoni %1$sKushtet e Përdorimit%2$s dhe %3$sPolitikën e Privatësisë%4$s së Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">﻿Politika e Privatësisë e Samsung</string>
+    <string name="progressdialog_please_wait">Prisni…</string>
+    <string name="progressdialog_reinstalled_message">Po instaloj…</string>
+    <string name="progressdialog_reinstalled_popup_content">Ri-instalo</string>
+    <string name="providerapp_reinstalled">%s nuk punon mirë, prandaj është çinstaluar. Tani do të ri-instalohet.</string>
+    <string name="quick_tutorial_add_shortcuts">Për të shtuar shkurtore të app-eve në ekranin bazë të Gear-it, shko te App-et në Gear, trokit dhe mbaj ikonën e një app-i, pastaj zvarrite dhe lëshoje në ikonën e bazës në krye të ekranit.</string>
+    <string name="quick_tutorial_gear_structure">Ora tregohet në faqen kryesore të ekranit bazë të Gear-it. Faqet majtas orës tregojnë njoftime, ndërsa ato në të djathtë tregojnë widget-e. Rrëshqit nga poshtë lart që nga buza e poshtme e ekranit për të parë aplikacionet.</string>
+    <string name="quick_tutorial_noti_title">Hyrje në %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Për të hapur S Voice, thuaj “Hi Gear” ose shtyp tastin bazë dy herë nga cilido ekran.</string>
+    <string name="quick_tutorial_swipe_downwards">Dy-trokit në tastin bazë për të hapur aplikacionin tënd të preferuar. Mund ta ndryshosh aplikacionin tënd të preferuar që nga Cilësimet.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Dy-shtyp tastin ndezës për të hapur app-in tënd të preferuar. Mund ta ndryshosh app-in tënd të preferuar që nga Cilësimet.</string>
+    <string name="quick_tutorial_to_go_back">"Rrëshqit gishtin mbi ekran nga lart poshtë që nga buza, për t'u kthyer."</string>
+    <string name="remote_connection_disabled_settings">Cilësimet</string>
+    <string name="remote_connection_enabled_desc">Gear do të lidhet në distancë, në qoftë se shkëputet lidhja Bluetooth.</string>
+    <string name="requested">Kërkuar</string>
+    <string name="reset_gear_legal_text1">Duke përdorur Ricilëso Gear, mund të fshish plotësisht të gjitha të dhënat në Gear. Pas kësaj fshirjeje, të dhënat e fshira nuk mund të rivendosen dhe nuk mund të përdorësh më Gjej Gear-in tim.</string>
+    <string name="reset_gear_legal_text2">* Ricilëso Gear mund të kërkojë kohë për të funksionuar ose mund të ngecë në varësi të gjendjes së Gear, pajisjes celulare ose rrjetit.</string>
+    <string name="restore_complete">Rikthimi përfundoi.</string>
+    <string name="restore_some_error">Restaurimi dështoi. Provo sërish.</string>
+    <string name="restore_try_again">Provo sërish</string>
+    <string name="restore_watch_settings_content2">"Përdor magazinën e pajisjes për të rezervuar materialet e tua %1$s:
+%2$s
+
+Në qoftë se e kishe rezervuar këtë material më parë, mund ta restaurosh te %3$s tani.
+
+Në varësi të madhësisë së skedarit, kjo mund të kërkojë kohë.
+
+Mund t'i ndryshosh cilësimet e rezervimit që nga Cilësimet."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">CILËSIMET</string>
+    <string name="retrieve_dialog_desc">Duke rinxjerrë listën e aplikacioneve…</string>
+    <string name="sa_error_0203_desc">Për të aftësuar Lidhjen në distancë, përditësoje llogarinë Samsung manualisht.</string>
+    <string name="sa_error_0203_title">Përdit. llogarinë Samsung</string>
+    <string name="sa_error_0301_desc">Ndodhi një gabim rrjeti gjatë lidhjes me llogarinë tënde Samsung në pajisjen tënde celulare.</string>
+    <string name="sa_error_0301_title">Dështova të aftësoj funksionin</string>
+    <string name="sa_error_0302_desc">Ndodhi një gabim rrjeti gjatë lidhjes me llogarinë tënde Samsung në pajisjen tënde celulare.</string>
+    <string name="sa_error_0302_title">Dështova të aftësoj funksionin</string>
+    <string name="sa_error_0401_desc">Ndodhi një gabim. Provo sërish.</string>
+    <string name="sa_error_0401_title">Gabim</string>
+    <string name="safety_message_interval_10minutes">Çdo 10 minuta</string>
+    <string name="safety_message_interval_20minutes">Çdo 20 minuta</string>
+    <string name="samsung_apps_info">"Aplikacionet që janë shkarkuar përmes %1$s mund të hiqen kur të çinstalohet %2$s ose të pastrohen të dhënat e aplikacioneve. Mund t'i shkarkosh aplikacionet e hequra që nga historia e blerjeve në %3$s."</string>
+    <string name="samsung_apps_notice">Lajm</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Përditëso tani</string>
+    <string name="screen_off">Mbaje ekranin të fikur</string>
+    <string name="screen_off_desc">Merr njoftime në Gear, me përjashtim të sinjalizimeve për thirrjet hyrëse dhe alarmet, kur ekrani i tij është i fikur.</string>
+    <string name="setting_Enable">Aktivizo</string>
+    <string name="setting_alpm_dialog_title">Kujdes</string>
+    <string name="setting_always_off">Gjithnjë fikur</string>
+    <string name="setting_always_on">Gjithnjë ndezur</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Çaktivizuar nga administratori, rregullorja e enkriptimit ose memoria e kredencialeve.</string>
+    <string name="setting_backup_restore2">Rezervo dhe restauro</string>
+    <string name="setting_basic">THEMELORE</string>
+    <string name="setting_connections">LIDHJET</string>
+    <string name="setting_disable">Çaktivizo</string>
+    <string name="setting_home_key_double_pressing">Dy-shtypje e tastit bazë</string>
+    <string name="setting_language_input">GJUHA DHE FUTJA</string>
+    <string name="setting_manage_text_templates">Redakto shabllonet</string>
+    <string name="setting_mobile_network">Rrjetet celulare</string>
+    <string name="setting_mobile_network_desc">Gear-i do të shkëputet nga rrjeti yt celular, kur është i lidhur me pajisjen celulare përmes Bluetooth. Kur të shkëputet lidhja me Bluetooth, Gear-i do të lidhet prapë, automatikisht, me rrjetin tënd celular.</string>
+    <string name="setting_multisim_popup_desc">Në varësi të ofruesit të shërbimit, mund të kesh nevojë për abonim të veçantë, që të përdorësh funksionin Multi SIM. Trokit mbi OK për të aftësuar Multi SIM.</string>
+    <string name="setting_opensource">Licencë burimi të hapur</string>
+    <string name="setting_palm_motion">Lëvizjet</string>
+    <string name="setting_palm_swipe">Rrëshqit për të kapur</string>
+    <string name="setting_palmover_desc">Për të heshtuar thirrjet hyrëse dhe alarmet, ose për të vënë mediat në pauzë, vendose dorën mbi ekran kur ekrani është i ndezur.</string>
+    <string name="setting_palmswipe_desc">Kap ekranin duke rrëshqitur krejt gishtin mbi të, pa e shkëputur kontaktin me ekranin.</string>
+    <string name="setting_pause_mute">Heshto/vër në pauzë</string>
+    <string name="setting_power_key_double_pressing">Dy-shtyp. e tastit ndezës</string>
+    <string name="setting_restoring">Po rikthej…</string>
+    <string name="setting_safety_b1_desc">Kur Gear-i yt dhe pajisja celulare janë lidhur, Dërgo mesazhe ndihme mund të ndihmojë në rast urgjence. Ajo do të sinjalizojë kontaktet e tua të mesazheve të urgjencës për situatën tënde, duke u dërguar herë pas here mesazhe të urgjencës me informacion për vendndodhjen tënde. Dërgimi i këtyre mesazheve mund të kushtojë ekstra. Për të aftësuar Dërgo mesazhe ndihme gjatë një urgjence, shtyp tastin ndezës %d herë.</string>
+    <string name="setting_safety_b2_desc">Kur Gear dhe pajisja celulare janë lidhur, Dërgimi i mesazheve të ndihmës të ndihmon gjatë një urgjence, duke nxjerrë foto me kamerën e Gear. Ky funksion sinjalizon kontaktet e tua të mesazheve të urgjencës për situatën tënde, duke u dërguar mesazhe të urgjencës që përmbajnë këtë foto dhe vendndodhjen tënde. Mesazhi i parë do të përmbajë edhe vendndodhjen, edhe foton. Pastaj, pas një farë kohe, do të dërgohet një mesazh i dytë, që përmban vetëm vendndodhjen. Dërgimi i këtyre mesazheve mund të kushtojë ekstra. Për të përdorur Dërgo mesazhe të ndihmës gjatë një urgjence, shtyp tastin bazë %d herë.</string>
+    <string name="setting_safety_b2_no_camera_desc">Kur Gear-i yt dhe pajisja celulare janë lidhur, Dërgo mesazhe ndihme mund të ndihmojë në rast urgjence. Ajo do të sinjalizojë kontaktet e tua të mesazheve të urgjencës për situatën tënde, duke u dërguar herë pas here mesazhe të urgjencës me informacion për vendndodhjen tënde. Dërgimi i këtyre mesazheve mund të kushtojë ekstra. Për të aftësuar Dërgo mesazhe ndihme gjatë një urgjence, shtyp tastin bazë %d herë.</string>
+    <string name="setting_safety_b3_desc1">Shtyp tastin bazë shpejt 3 herë për të dërguar një sinjalizim të shpejtë te kontaktet e tua parësore, kur je në një situatë urgjence.</string>
+    <string name="setting_safety_b3_desc2">Kontaktet e tua parësore do të marrin mesazhe të urgjencës me informacion për vendndodhjen tënde aktuale.</string>
+    <string name="setting_safety_b3_desc3">Lidhe pajisjen tënde celulare me Gear-in për ta përdorur këtë funksion.</string>
+    <string name="setting_safety_list">Ndihma e sigurisë</string>
+    <string name="setting_samsung_legal">Ligjore Samsung</string>
+    <string name="setting_screen_lock">Bllokimi automatik</string>
+    <string name="setting_screen_lock_desc">Përdor Gear për ta bllokuar pajisjen celulare.</string>
+    <string name="setting_screen_secutiry">SIGURIA E EKRANIT</string>
+    <string name="setting_send_emergency_picture">Dërgo foto të urgjencës</string>
+    <string name="setting_send_emergency_recording">Dërgo regjistrimin zanor</string>
+    <string name="setting_send_emergency_term_agree">Kam lexuar dhe pranoj të gjitha kushtet dhe afatet më sipër.</string>
+    <string name="setting_send_help_message">Dërgo mesazhe ndihme</string>
+    <string name="setting_send_terms_conditions">Termat dhe kushtet</string>
+    <string name="setting_smart_relay">Përcjellja inteligjente</string>
+    <string name="setting_smart_relay_desc">Shih material nga Gear në pajisjen celulare, duke e marrë në dorë pajisjen celulare.</string>
+    <string name="setting_smart_toss">Përcjellje inteligjente</string>
+    <string name="setting_system">SISTEMI</string>
+    <string name="setting_text_to_speech_engine">Motori tekst-në-zë</string>
+    <string name="setting_textinput_emoticon">Ikona emocionale</string>
+    <string name="setting_textinput_keyboard">Tastiera</string>
+    <string name="setting_textinput_list">Mënyrat e futjes së tekstit</string>
+    <string name="setting_textinput_templates">Shabllonët</string>
+    <string name="setting_try_it">Provoje</string>
+    <string name="setting_wake_up">Gjesti i zgjimit</string>
+    <string name="setting_wake_up_desc">Zgjoje Gear duke ngritur krahun ku e mban Gear.</string>
+    <string name="setting_wakeupgesture">"Për ta zgjuar Gear, ngrije krahun ku po e mban Gear dhe shiko në ekranin e Gear.
+
+Ky funksionalitet nuk punon kur ti je gjysmë i shtrirë ose krejt i shtrirë, dhe mund të konsumojë më shumë bateri nga Gear, meqë do të kërkojë që sensori i tij i lëvizjeve të jetë gjithnjë aktiv."</string>
+    <string name="setting_wakeupgesture_clock">Ora</string>
+    <string name="setting_wakeupgesture_previous">Ekrani që ke parë së fundi</string>
+    <string name="setting_wakeupgesture_screen_on">Përzgj. ekranin e treguar</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Përzgj. ekranin e treguar</string>
+    <string name="settings">Cilësimet</string>
+    <string name="settings_application_version">Versioni i aplikacionit</string>
+    <string name="settings_emergency_contact">Menaxho kontaktet parësore</string>
+    <string name="settings_emergency_contact_empty">Nuk u shtuan kontakte parësore. Për të aftësuar %s, shto kontakte te Kontaktet parësore.</string>
+    <string name="settings_legal_information">Informacioni juridik</string>
+    <string name="settings_message_interval">Intervali i mesazhit</string>
+    <string name="settings_not_set">Nuk është cilësuar</string>
+    <string name="settings_security">Siguria</string>
+    <string name="settings_security_update">Përditësim i sigurisë</string>
+    <string name="settings_security_update_desc">Mbroje pajisjen nga materialet dëmtuese duke përmirësuar sigurinë e saj dhe shërbimin.</string>
+    <string name="settings_unknown_sources_dialog">Instalimi nga burime të panjohura mund të dëmtojë pajisjen dhe të dhënat e tua personale. Duke trokitur mbi OK, ti pranon se vetëm ti mban përgjegjësi për ndonjë dëm ndaj pajisjes ose humbje të dhënash që mund të shkaktohen po të përdorësh këto aplikacione.</string>
+    <string name="settings_unknown_sources_subtitle">Lejo aplikacionet të instalohen nga burime të ndryshme nga Samsung Gear Apps.</string>
+    <string name="share_loc_disabled">Përbashko vendndodhjen u paaftësua.</string>
+    <string name="share_location_desc">Lejo Gjej Gear-in tim dhe Gjej pajisjen time që të përbashkojnë të dhënat e vendndodhjes së Gear-it dhe të pajisjes celulare.</string>
+    <string name="shm_I_agree_that_mobile_data">E kuptoj se në rast urgjence mund të përdoren Të dhëna celulare dhe të dërgohen mesazhe MMS. E kuptoj edhe se kjo mund të kushtojë ekstra.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Dërgo Mesazh Ndihme] ka për qëllim që t'i ndihmojë përdoruesit të dërgojnë njoftim për vendndodhjen e tyre të përafërt dhe mjedisin pamor/dëgjimor përreth në telefonin celular të një kontakti të zgjedhur që e keni vendosur më parë. Është vënë në dispozicion vetëm për lehtësinë tuaj dhe nuk ka për qëllim, dhe as nuk duhet të trajtohet si zëvendësues për thirrje urgjence të autoriteteve.
+
+2. [Dërgo Mesazh Ndihme] (“Shërbimet”) mund të mos punojë saktë, në mënyrë të vazhdueshme ose pa gabime në varësi të rrethanave si lidhja e rrjetit, disponueshmëria e informacioneve GPS/Ëi-Fi, statusi dhe/ose gjendja e pajisjes të kontaktit tuaj të zgjedhur, niveli i baterisë dhe/ose rrethanave të tjera të cilat janë jashtë kontrollit të Samsung Electronics Co., Ltd. (“Samsung”, “ne”, “neve”, “jonë”). Saktësia e informacioneve të vendndodhjes dhe ofrimi i Shërbimeve në kohë mund të ndikohet nga ambienti përreth dhe nga gjendja e pajisjes tuaj dhe e pajisjes të kontaktit tuaj të zgjedhur. Përveç nëse është shprehur ndryshe ose kërkohet nga ligji, Samsung garanton se Shërbimet do të punojnë saktë, në mënyrë të vazhdueshme apo pa gabime. Ju lutem vini re se kontakti juaj i zgjedhur duhet të jetë një telefon celular në punë dhe pajisja duhet të jetë e ndezur dhe të jetë në gjendje të pranojë mesazhe tekst. Transferimi i të dhënave tuaja në lidhje me ambientin dhe vendndodhjen mund t'ju tarifohet në varësi të tarifave të caktuara nga operatori i shërbimit.
+
+Me qëllim që Shërbimet të funksionojnë për qëllimin e caktuar, mund të jetë e nevojshme që funksioni, pasi të vendoset nga ju, të ketë të aktivizuar automatikisht funksionet GPS dhe Wi-Fi të pajisjes. Ju e pranoni dhe jeni dakord me aktivizimin automatik të funksioneve GPS dhe Wi-Fi (nëse kërkohet), pa njoftim apo miratim të mëtejshëm nga ju.
+
+3. Ju e pranoni dhe jeni dakord të mos i keqpërdorni këtë funksion ose ta përdorni për ndonjë qëllim të jashtëligjshëm apo të shkelni privatësinë ose të drejtat personale ose të pronësisë të të tjerëve. Përdorini këtë funksion vetëm në përputhje me ligjin dhe vetëm në raste emergjencash. Ju pranoni që jeni i vetmi person përgjegjës për përdorimin e këtij funksioni. Samsung nuk do të jetë përgjegjës për asnjë pasojë që mund të lindë nga përdorimi i këtij funksioni.
+ 
+4. Shërbimet ju janë vënë në dispozicion vetëm për lehtësinë tuaj dhe nuk kanë për qëllim, dhe as duhet të trajtohen si zëvendësues për thirrjet urgjence të autoriteteve përkatëse. Përveç nëse është shprehur ndryshe ose kërkohet nga ana ligji, Samsung nuk garanton se Shërbimet do të punojnë saktë, vazhdimisht apo pa gabime.
+
+5. PERJASHTIMI I GARANCIVE. JU E KUPTONI DHE PRANONI SHPREHIMISHT SE:
+ 
+A. SHËRBIMET SIGUROHEN BAZË SIÇ JANË, “ME TË GJITHA GABIMET,” DHE SIÇ JANË TË DISPONUESHME. JU MBARTNI RREZIKUN E PËRDORIMIT TË TYRE. SAMSUNG NUK JEP ASNJË GARANCI TË SHPREHUR, GARANCI OSE KUSHT SIPAS OSE NË LIDHJE ME SHËRBIMET. SAMSUNG REFUZON SHPREHIMISHT TË GJITHA DEKLARATAT DHE GARANCITË E E ÇFARËDO LLOJI, QOFTË TË SHPREHURA APO TË NËNKUPTUARA, PËRFSHIRË POR PA U KUFIZUAR NË NDONJË GARANCIE TË NËNKUPTUAR TË TREGTUESHMËRISË, PËRSHTATSHMERISË ME NJË QËLLIM TË CAKTUAR DHE MOS-SHKELJEN, DHE ÇFARËDO GARANCIE TË NËNKUPTUAR NGA VAZDHIMI I MARRËDHËNIEVE NGA VAZHDIMI I PËRMBUSHJES SË KONTRATËS.
+
+B. PA KUFIZUAR SA MË SIPËR, SAMSUNG NUK BËN ASNJË DEKLARATË APO GARANCI SE (i) SHËRBIMET DO TË PËRMBUSHIN KËRKESAT TUAJA, (ii) SHËRBIMET DO TË JENË TË PANDËRPRERA, NË KOHËN E DUHUR, TË SIGURTA OSE PA GABIME, (iii) MATERIALET E MARRA NGA SHËRBIMET, OSE ÇFARËDO NJOFTIMI OSE FUNKSIONALITETI I SHËRBIMEVE DO TË JENË TË DISPONUESHËM, TË SAKTË, TË PLOTË OSE TË BESUESHËM (iv) CILËSIA E SHËRBIMEVE OSE E ÇDO INFORMACIONI, APO MATERIALE TË TJERA TË MARRA NGA JU PËRMES SHËRBIMEVE DO TË PËRMBUSHIN PRITSHMËRITË TUAJA, OSE (v) ÇDO GABIM OSE PROBLEM NË SHËRBIME DO TË KORRIGJOHET.
+
+6. KUFIZIMI I PËRGJEGJËSISË
+
+A. JU PRANONI DHE JENI DAKORD SHPREHIMISHT SE SAMSUNG NUK DO TË JETË PËRGJEGJËS NËN NJË TEORI NEGLIZHENCE, PËR ASNJË HUMBJE, PËRGJEGJËSI, DËMTIM OSE SHPENZIM DIREKT, INDIREKT, AKSIDENTAL, I VEÇANTË, NDËSHKUES, KONSEKUENT OSE EKZEMPLAR, PËRFSHIRË POR JO VETËM, HUMBJEN E PËRFITIMEVE, HUMBJEN E PËRDORIMIT OSE HUMBJE TË TJERA (EDHE NËSE RIPARIMI, NDËRRIMI OSE RIKOMPENSIMI PËR KËTO SHËRBIME NUK JU KOMPENSON PLOTËSISHT PËR ÇFARËDO HUMBJE OSE SAMSUNG E DINTE APO DUHEJ TA DINTE MUNDËSINË E KËSAJ HUMBJEJE, PËRGJEGJËSIE, DËMTIMI OSE SHPENZIMI), DIREKT OSE INDIREKT QË VJEN OSE LIND NGA: (i) ANKESAT PËR SHKELJEN E NJË KONTRATE, SHKELJEN E AUTORIZIMIT, GARANCISË OSE KUSHTIT, PËRGJEGJËSISË STRIKTE, NEGLIZHENCËS, OSE DËMI TJETËR DERI NË SHKALLËN E LEJUAR NGA LIGJI NË FUQI; (ii) PËRDORIMI OSE PAMUNDËSIA JUAJ PËR TË PËRDORUR SHËRBIMET, (iii) KOSTOJA E SIGURIMIT TË SHËRBIMEVE ZËVENDËSUESE; (iv) AKSESI I PAAUTORIZUAR OSE NDRYSHIMI I TRANSMETIMEVE OSE TË DHËNAVE TUAJA; (vi) KJO MARRËVESHJE; (vii) DËMTIME NDAJ PERSONAVE OSE PRONËS (PËRFSHIRË VDEKJEN), OSE (viii) ÇDO ÇËSHTJE TJETËR QË LIDHET ME SHËRBIMET OSE MATERIALET E SIGURUARA PËRMES SHËRBIMEVE.
+ 
+B. KOMPENSIMI JUAJ I VETËM DHE EKSKLUZIV PËR ÇDO ANKESË KUNDREJT SAMSUNG QË LIDHET ME KËTË MARRËVESHJE OSE ME SHËRBIMET DO TË JETË NDËRPRERJA E PËRDORIMIT TË SHËRBIMEVE.
+ 
+C. DISA JURIDIKSIONE NUK LEJOJNË PËRJASHTIMIN E DISA GARANCIVE TË CAKTUARA OSE KUFIZIMIN APO PËRJASHTIMIN E PËRGJEGJËSISË PËR DËMTIME AKSIDENTALE OSE RRJEDHIMORE. KËSHTU, DISA NGA KUFIZIMET MË SIPËR NË PJESËN 5 DHE 6 MUND TË MOS ZBATOHEN PËR JU.
+
+7. DËMSHPËRBLIMI. Ju pranoni që ta mbani të padëmtuar, ta zhdëmtoni dhe mbroni Samsung nga dhe kundrejt çdo ankese, veprimi, kërkese, kostoje, përgjegjësie, humbjeje, dëmtimi, gjobe dhe shpenzimi (përfshirë tarifat dhe kostot e arsyeshme të avokatëve) që lindin ose lidhen me përdorimin tuaj të Shërbimeve ose me çfarëdo mospajtimi nga ana juaj me këtë Marrëveshje. Nëse, përveç natyrës personale të licencave që ju janë dhënë sipas këtyre kushteve dhe afateve, ju lejoni cilindo individ të përdorë Shërbimet, ose i jepni cilitdo individi informacione të marra përmes Shërbimeve, ju pranoni ta informoni këtë individ për ekzistencën dhe sigurimin e këtyre kushteve dhe afateve, të cilat do të jenë të detyrueshme për këtë individ, dhe ju pranoni ta mbani të padëmtuar, ta zhdëmtoni dhe ta mbroni Samsung nga çfarëdo ankese, veprimi, kërkese, kostoje, përgjegjësie, humbjeje, dëmtimi, gjobe dhe shpenzimi (përfshirë tarifat dhe kostot e arsyeshme të avokatëve) që lidhen me përdorimin e Shërbimeve nga ky individ.
+
+8. Forca Madhore. Samsung nuk do të jetë përgjegjës për ndonjë vonesë ose mungesë të përmbushjes nën këto kushte dhe afate ose për ndërprerjen e Shërbimeve të cilat vijnë nga veprat e Zotit, ose nga autoriteti civil ose ushtarak, lufta, veprat e terrorizmit, konfliktet e në marrëdhëniet e punës, materialet ose shërbimet e ofruara nga palët e treta, ose çdo shkak përtej kontrollit të arsyeshëm të Samsung.
+"</string>
+    <string name="shm_share_my_location_checkbox_text">Pranoj ta lejoj %1$s që të përbashkojë vendndodhjen time me kontaktet e mia %2$s.</string>
+    <string name="smartrelay_not_show">Mos e shfaq më</string>
+    <string name="software_update">Përditësimi i programeve</string>
+    <string name="ss_double_tap_any_screen">Dy-trokit mbi cilindo ekran me dy gishta, për të parë komandat e ndriçimit dhe të volumit, dhe informacion tjetër të dobishëm.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Përcjellja e thirrjeve te Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Po kërkoj…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Përcaktime te leximit</string>
+    <string name="ss_loading_ing_abb">Po ngarkon…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Të dhënat celulare janë paaftësuar. Lidhu me rrjetin Wi-Fi ose aftëso të dhënat celulare dhe provo sërish</string>
+    <string name="ss_no_network_connection">Nuk ka lidhje me rrjetin</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">manuali i përdoruesit</string>
+    <string name="str_no">Jo, faleminderit</string>
+    <string name="str_yes">Po</string>
+    <string name="stub_list_install">Instalo</string>
+    <string name="sw_eula_condition">I kuptoj dhe i pranoj termat dhe kushtet më lart.</string>
+    <string name="sw_eula_desc2">"Ti pranon t'i dërgosh Samsung-ut të dhënat e raportit të gabimit nga çdo dështim në përditësimin e softuerit që ndodh në pajisjen tënde. Kjo do ta ndihmojë Samsung-un të përmirësojë procesin e përditësimit të softuerit Samsung dhe ta mbajë pajisjen tënde të përditësuar siç duhet."</string>
+    <string name="tab_stub_list">Trajtuar veç</string>
+    <string name="talkback_download">Shkarko</string>
+    <string name="talkback_setting">Cilësimi</string>
+    <string name="the_samsung_gear_application">aplikacioni Samsung Gear</string>
+    <string name="threeg_connection">Përdor Lidhje në distancë</string>
+    <string name="threeg_connection_subtitle">Lidhu me Gear-in tënd në distancë, duke përdorur Të dhënat celulare ose Wi-Fi së bashku me llogarinë Samsung.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Çinstalo</string>
+    <string name="title_activity_connect_popup">Lidhe</string>
+    <string name="title_activity_paired_watch">Pajisja e çiftuar</string>
+    <string name="title_alertdialog_device_name_popup">Riemërto %s</string>
+    <string name="title_alertdialog_disconnect_popup">Shkëputu</string>
+    <string name="title_dialog_pm_error">Lajmërim</string>
+    <string name="title_dialog_uninstall">Çinstalo</string>
+    <string name="title_eula">Njoftimet ligjore</string>
+    <string name="title_findmywatch_connect2">Gjej Gear-in tim</string>
+    <string name="title_findmywatch_finding">Duke kërkuar…</string>
+    <string name="tri_connect_title_circle_to_gear">Lidh %1$s me %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Kur të lidhet %1$s me %2$s përmes Bluetooth, %3$s do të shkëputet përkohësisht nga pajisja jote celulare. Kjo lidhje do të rivendoset menjëherë më pas dhe atëherë %4$s do të jetë lidhur edhe me %5$s edhe me pajisjen tënde celulare.</string>
+    <string name="tt_install_voice_data">Instalo të dhënat zanore TTS</string>
+    <string name="tt_install_voice_data_required">Instalo në Gear gjuhë të tjera tekst-në-zë.</string>
+    <string name="tt_language">Gjuha</string>
+    <string name="tt_send_help_message">Dërgo mesazhe ndihme</string>
+    <string name="tt_tts_language_guide">Gjuha jote tekst-në-zë është gjuha që ke cilësuar në Cilësimet Gear. Në qoftë se gjuha jote nuk mbështetet nga motori tekst-në-zë, do të përdoret anglishtja (Mbretëri e Bashkuar).</string>
+    <string name="unable_to_connect_popup_message">Dështova ta lidh Gear-in me pajisjen tënde celulare. Provo sërish më vonë.</string>
+    <string name="unable_to_connect_popup_title">Lidhja dështoi</string>
+    <string name="unable_to_lock_gear">Nuk mund ta bllokoj Gear-in</string>
+    <string name="unable_to_reset_gear">Nuk mund të resetoj Gear-in</string>
+    <string name="unabled_health">Nuk mund ta hap këtë aplikacion sepse është i paaftësuar.</string>
+    <string name="uninstall_applications">Çinstalo aplikacionet</string>
+    <string name="unknown_sources_msg_new">"%1$s nuk do të instalohet përmes %2$s. Pajisja jote dhe të dhënat personale janë më pak të mbrojtura ndaj sulmeve prej aplikacioneve që vijnë nga burime të panjohura. Ti e kupton se vetëm ti mban përgjegjësi për ndonjë dëm që do t'i ndodhë pajisjes ose humbje të dhënash që mund të shkaktohet nga përdorimi i këtyre aplikacioneve. Për të instaluar gjithnjë aplikacione nga burime të panjohura, shko te %3$s > %4$s > %5$s, dhe aftëso %6$s. Trokit mbi OK për të instaluar %7$s."</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s nuk është nga Samsung Gear Apps, dhe nuk përmban ndonjë app për Gear-in tënd. Pajisja dhe të dhënat e tua janë më të rrezikuara nga sulme app-esh nga burime të panjohura. Instalimi do të anulohet dhe %2$s do të çinstalohet nga telefoni.</string>
+    <string name="unknown_sources_title">Burime të panjohura</string>
+    <string name="update_button">Përditëso</string>
+    <string name="update_summary">Kontrollo për përditësime</string>
+    <string name="update_the_latest_version">Ka përditësim</string>
+    <string name="voice_control_subtitle">"Thuaj “Answer” ose “Reject”, gjatë pauzave kur Gear-i nuk po lajmëron me zile ose me dridhje, për t'iu përgjigjur thirrjeve ose për t'i refuzuar."</string>
+    <string name="voicememo_link1">Termat dhe kushtet e Nuance</string>
+    <string name="voicememo_link2">﻿Politika e Privatësisë e Samsung</string>
+    <string name="voicememo_link3">politikën e Privatësisë të Nuance</string>
+    <string name="watchapp_all">Aplikacionet</string>
+    <string name="watchapp_noapps">Asnjë aplikacion</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Duke rifreskuar…</string>
+    <string name="wifi_only">Vetëm Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Shkarko përditësime vetëm kur je lidhur me një rrjet Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+    <string name="email_sanitize">Materialet e këtij mesazhi e-postar nuk mund të afishohen në Gear për arsye sigurie. Për hollësi, shihe këtë mesazh në pajisjen tënde celulare.</string>
+    <string name="knox_sanitize">"Trokit këtu për t'u futur në regjimin KNOX."</string>
+</resources>

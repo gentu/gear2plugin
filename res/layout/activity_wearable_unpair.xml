@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:splitMotionEvents="false">
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/connect_panel" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/title_alertdialog_disconnect_popup" custom:subtext="@string/main_disconnected" />
+            <include android:id="@id/BtConnectDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/threeGSettingLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/threeg_connection" custom:subtext="@string/threeg_connection_subtitle" />
+            <include android:id="@id/networkDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/locationInfoLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/location_info_title" custom:subtext="@string/share_location_desc" />
+            <include android:id="@id/connection_layout_divider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/device_rename_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/menu_rename" custom:subtext="@string/main_disconnected" />
+            <LinearLayout android:orientation="vertical" android:id="@id/paired_toggle_menu" android:layout_width="fill_parent" android:layout_height="wrap_content" android:splitMotionEvents="false">
+                <include layout="@layout/settings_items_simple_divider" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/paired_about_gear" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/watch_information_btn_01" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/info_software_update" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/model_name" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/info_model_number" custom:subtext="@string/info_model_number" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/software_name" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/info_build_number" custom:subtext="@string/info_build_number" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

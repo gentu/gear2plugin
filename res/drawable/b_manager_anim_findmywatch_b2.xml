@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_1" />
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_2" />
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_3" />
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_4" />
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_5" />
+    <item android:duration="500" android:drawable="@drawable/b2_setupwizard_fmg_watch_active_6" />
+</animation-list>

@@ -1,0 +1,7 @@
+Haftungsausschluss<br><br>
+
+S Voice sowie die Spracherkennungs- und Sprachverarbeitungsfunktionen werden von Nuance Communications Inc. (USA) bereitgestellt. Samsung lehnt ausdrücklich jedwede Haftung im Zusammenhang mit der Spracherkennungsfunktion von S Voice und Ihrer Nutzung dieser ab. <br><br>
+
+Dienstleistungsbestimmungen der Nuance Communications Inc. (USA) <br><br>
+
+Um S Voice sowie die Spracherkennungs- und Sprachverarbeitungsfunktionen bereitzustellen, erfasst Nuance Communications Inc. („Nuance“) möglicherweise: (i) Ihre Standortdaten, (ii) Ihre Sprachdaten, (iii) Ihre gespeicherten Daten (z. B. Namen von Kontakten, Musikinformationen), (iv) Ihre Gerätedaten (z. B. eindeutige Geräte-ID, Hardware-Modell, Betriebssystemversion, Sprache) und (v) Ihre Nutzungsdaten. Nuance und seine Partner sind berechtigt, erfasste Daten (i) zur Dienstbereitstellung, (ii) zur Dienstverbesserung und (iii) für statistische Zwecke zu nutzen. Wenn Sie unten auf das Kontrollkästchen „Zustimmen“ klicken, stimmen Sie (a) den allgemeinen Geschäftsbedingungen wie in den <a href="http://www.vlingo.com/wap/samsung-sv-terms/de">Nutzungsbedingungen von Nuance</a> angegeben und (b) der Sammlung, Nutzung, Speicherung, Freigabe und Weitergabe der Daten Ihres Geräts durch Nuance und seine Partner zu den oben genannten Zwecken unter Einhaltung der Datenschutzrichtlinie von Nuance zu. Weitere Informationen zum Datenschutz finden Sie in der <a href="http://www.vlingo.com/wap/samsung-sv-privacy/de">Datenschutzrichtlinie von Nuance</a>.

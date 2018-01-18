@@ -1,0 +1,4 @@
+Aftale om informationslevering<br>
+Tjenesten Samsung-tastatur bruger stemmegenkendelsesteknologier leveret af en tredjepartsleverandør med navnet Nuance Communications Inc. Derfor er dine stemmeinformationer nødvendigvis gemt på en server, der drives af Nuance (i USA) og brug af Samsung-tastatur kræver, at du accepterer <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Vilkårene og betingelserne for Nuance</a>.
+Nuance forbeholder sig ret til at anvende til stemmeinput til forbedring af tjenester og udvikle teknologier. Nuance forbeholder sig også ret til at levere det førnævnte stemmeinput til Nuances partnere. Dine stemmeinputinformationer er gemt, indtil førnævnte mål er opnået. For oplysninger om tjenesten Samsung-tastatur bedes du læse <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuances fortrolighedspolitik</a>. 
+Du kan ikke anvende Samsung-tastatur, hvis du ikke accepterer levering af dine informationer beskrevet herover.

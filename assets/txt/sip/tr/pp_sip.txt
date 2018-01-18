@@ -1,0 +1,4 @@
+Bilgi Hazırlık Sözleşmesi<br>
+Samsung klavye Nuance Communications, Inc olarak bilinen üçüncü taraf servis sağlayıcı tarafından sağlanan ses tanıma teknolojilerini kullanır. Bu nedenle, ses bilginiz kaçınılmaz şekilde Nuance (ABD'de) tarafından çalıştırılan bir sunucuda saklanır ve Samsung klavye kullanımı <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuance Hüküm ve Koşullarını</a> kabul etmenizi gerektirir.
+Nuance ses girişinizi servisleri iyileştirmek ve teknoloji geliştirmek amacıyla kullanma hakkını saklı tutar Nuance ayrıca bahsi geçen ses girişini Nuance’ın iş ortaklarına sağlama hakkını da saklı tutar Ses girişi bilginiz bahsi geçen amaçlar elde edilene kadar saklanır. Samsung klavye servisleri hakkında daha fazla bilgi için, lütfen <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuance Gizlilik İlkesi</a>'ni okuyun.
+Bilgileriniz hakkında yukarıda tarif edilen hükmü kabul etmedikçe Samsung kalvye’yi kullanamazsınız.

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Qo‘ng‘iroq mobaynida foydalanib bo‘lmaydi.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">To‘liq ekranli qalqib chiquvchi oyna</string>
+    <string name="alert_mini">Mini qalqib chiquvchi oyna</string>
+    <string name="alertdialog_backkey_popup_content">Ogohlantirish</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Bu Sizning %s bilan ulanishingizni yakunlaydi.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s-ingiz mobil qurilmangizdan uziladi. Ushbu qurilmalarni keyingi gal ulaganingizda, Bluetooth-dan foydalanishingiz lozim. Undan so‘ng istalgan ulanish Masofaviy ulanish orqali amalga oshirilishi mumkin.</string>
+    <string name="alertdialog_uninstall_popup_content">Olib tashlash</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">Qo‘n-ni avto-yo‘naltirish</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">Gear mobil qurilmangizdan uzilgan vaqtda Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni yoqing. Bu qurilmalar qayta ulanganuniga qadar mobil qurilmangizga kiruvchi qo‘ng‘iroqlarni Gear-ingizga yo‘naltiradi.</string>
+    <string name="auto_update">Avtomatik yangilash</string>
+    <string name="auto_update_summary">Yangilashlar mavjudligini avtomatik ravishda tekshirish.</string>
+    <string name="backing_up">Arxivlanmoqda…</string>
+    <string name="backup_complete">Arxivlash tugatildi.</string>
+    <string name="bnr_backup">Arxivlanmoqda…</string>
+    <string name="bnr_bakcup_title">Arxiv</string>
+    <string name="bnr_cancel">Bekor qilish</string>
+    <string name="bnr_canel">Bekor qilish</string>
+    <string name="bnr_except">%1$s (%2$s mustasno)</string>
+    <string name="bnr_except_autolock">Avtomatik bloklash</string>
+    <string name="bnr_except_remoteconnection">Masofaviy ulanish</string>
+    <string name="bnr_except_texttemplate">Matn shablonlari</string>
+    <string name="bnr_no">Yo‘q</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Yangi qurilmaga ulanish uchun Gear ishlab chiqaruvchi parametrlariga tashlanadi.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear to‘liq o‘rnatilmagan. Ayni vaqtda o‘rnatish ustasi Gearda ochiq, lekin Gearga ulanish uchun ushbu qurilmada ham Gear Managerdagi o‘rnatish ustasini ochishingiz lozim</string>
+    <string name="bnr_reset_initialization">Eslatma</string>
+    <string name="bnr_restored">Ma’lumot tiklandi.</string>
+    <string name="bnr_yes">Ha</string>
+    <string name="bt_connected">Ulandi</string>
+    <string name="bt_disconnected">Uzilgan</string>
+    <string name="bt_unpaired">Ulanmagan</string>
+    <string name="button_restore">Qayta tiklash</string>
+    <string name="call">QO‘NG‘IROQ</string>
+    <string name="call_check_gear_status_when_cfwd">Mobildan Gear-ga va Gear-dan mobilga qo‘ng‘iroqlarni yo‘naltirish funksiyalarining har ikkalasini bir vaqtda yoqib bo‘lmaydi.</string>
+    <string name="call_dualsim1">SIM-karta 1</string>
+    <string name="call_dualsim1sim2">Har ikki SIM-karta</string>
+    <string name="call_dualsim2">SIM-karta 2</string>
+    <string name="call_forwarding">Qo‘ng‘iroqni boshqa raqamga o‘tk.</string>
+    <string name="call_forwarding_agree">Men roziman.</string>
+    <string name="call_forwarding_desc">Mobil qurilmangizga kiruvchi qo‘ng‘iroqlarni Gearingizga yo‘naltiring.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">Mobil qurilmangizdan Gear-ingizga qo‘ng‘iroqlarni yo‘naltirishni o‘chirish so‘rovi yuborildi. Mobil tarmoq va mobil qurilmangiz holati natijalarga ta’sir qilishi mumkin.</string>
+    <string name="call_forwarding_enable_msg">Mobil qurilmangizdan Gear-ingizga qo‘ng‘iroqlarni yo‘naltirishni yoqish so‘rovi yuborildi. Mobil tarmoq va mobil qurilmangiz holati natijalarga ta’sir qilishi mumkin.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">Ayni vaqtda qo‘ng‘iroqni mobil qurilmangizdan Gear-ingizga yo‘naltirish yoqilgan. Mobil qurilmangizga kiruvch iqo‘ng‘iroqlar Gear-ingizga yo‘naltiriladi. Agar yoningizda Gear-ingiz bo‘lmasa, qo‘ng‘iroqni o‘tkazib yubormaslik uchun Parametrlarga o‘ting va Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni o‘chiring.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Ov/qo‘n boshqa raqamga o‘t o‘ch-moqda…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Ov/qo‘n boshqa raqamga o‘t yoqilmoqda…</string>
+    <string name="call_no_gear_number">Raqamlar yo‘q</string>
+    <string name="call_select_dualsim_title">SIM-karta tanlang</string>
+    <string name="call_voice_control">Ovozli boshqarish</string>
+    <string name="callforwarding_help_des1">Qurilmangiz Bluetooth yoki Masofaviy ulanish orqali ulanganligiga qarab qo‘ng‘iroqlar avtomatik ravishda yo‘naltiriladigan qurilmani yoqing.</string>
+    <string name="callforwarding_help_des2">Gear-ni taqib olib yurayotganingizda va u mobil qurilmaga masofadan ulangan vaqtda mobil qurilmangizga kiruvchi qo‘ng‘iroqlarni Gear-ingizda oling.</string>
+    <string name="cancel">Bekor qilish</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Qo‘ng‘iroqni boshqa raqamga o‘tkazishni o‘chirib bo‘lmadi.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">Ko‘proq soat yuklab olish</string>
+    <string name="clocks_noti_uninstall_clock">%s olib tashlanadi.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s olib tashlanadi va %2$s birlamchi soat sifatida o‘rnatiladi.</string>
+    <string name="clocks_title_basic_clocks">ODDIY SOATLAR</string>
+    <string name="clocks_title_downloaded_clocks">YUKLAB OLINGAN SOATLAR</string>
+    <string name="clocks_title_style_clocks">ZAMONAVIY SOATLAR</string>
+    <string name="clocks_uninstalled">Olib tashlandi.</string>
+    <string name="clocks_uninstalling">Olib tashlanmoqda…</string>
+    <string name="close">Yopish</string>
+    <string name="closing_samsung_gear_message">Gear-ingiz birlamchi holatiga tashlandi. Samsung Gear ilovasi tez orada yopiladi.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear ilovasini yoping</string>
+    <string name="cloud_backup_no_information">Hech qachon</string>
+    <string name="cloud_backup_restore_backup_now">Ma’lumotni arxivlash</string>
+    <string name="cloud_backup_restore_restore_now">Ma’lumotni tiklash</string>
+    <string name="cmw_agree">Roziman</string>
+    <string name="cmw_eula_agree">"Men yuqoridagi shartlarni tushunaman va ularga o'z roziligimni bildiraman."</string>
+    <string name="cmw_for_setting">Joylashuv xizmatlari o‘chirildi. Parametrlarga o‘ting.</string>
+    <string name="cmw_high_accuracy_dialog_message">Juda tez va aniq joy aniqlanishi uchun Joylashuv > Rejimda Yuqori aniqlikni tanlang.</string>
+    <string name="cmw_high_accuracy_dialog_title">Yuqori aniqlikni tanalsh</string>
+    <string name="cmw_legal_content">“Joylashuvni maʼlum qilish“ni yoqish bilan Siz mobil telefoningiz va/yoki Gear qurilmangiz turgan joy haqidagi maʼlumotlarni Gearimni topish va Qurilmamni topish xizmatlarini koʻrsatish maqsadida Samsung serveri orqali yuborilishiga rozilik bildirasiz. Qurilmangiz turgan joy haqidagi maʼlumotlar Samsung serverida saqlanmaydi.</string>
+    <string name="cmw_legal_content1">“%1$s” va “%2$s”ni yoʻqish bilan Siz mobil telefoningiz va/yoki Gear qurilmangiz turgan joy haqidagi maʼlumotlarni “%1$s” va “%2$s” xizmatlarini koʻrsatish maqsadida Samsung serveri orqali yuborilishiga rozilik bildirasiz. Qurilmangiz turgan joy haqidagi maʻlumotlar Samsung serverida saqlanmaydi.</string>
+    <string name="cmw_legal_content1_no_gps">“%1$s” va “%2$s”ni yoʻqish bilan Siz mobil telefoningiz turgan joy haqidagi maʼlumotlarni “%2$s” xizmatlarini koʻrsatish maqsadida Samsung serveri orqali yuborilishiga rozilik bildirasiz. Qurilmangiz turgan joy haqidagi maʻlumotlar Samsung serverida saqlanmaydi.</string>
+    <string name="cmw_legal_content_2">Samsung Maxfiylik siyosati</string>
+    <string name="cmw_legal_title">Huquqiy eslatmalar</string>
+    <string name="cmw_location">Joylashuv xizmatlarini yoqish</string>
+    <string name="cmw_show_on_map">"Xaritada
+ko‘rsat"</string>
+    <string name="color_black">Qora</string>
+    <string name="color_blue">Ko‘k</string>
+    <string name="color_brown">Jigar rang</string>
+    <string name="color_gray">Kulrang</string>
+    <string name="color_green">Yashil</string>
+    <string name="color_light_sky_blue">Och moviy rang</string>
+    <string name="color_medium_purple">O‘rtacha qirmizi</string>
+    <string name="color_orange">To‘q sariq</string>
+    <string name="color_pink">Pushti</string>
+    <string name="color_purple">To‘q qirmizi</string>
+    <string name="color_red">Qizil</string>
+    <string name="color_spring_green">Bahoriy yashil</string>
+    <string name="common_none">Yo‘q</string>
+    <string name="common_off">O‘ch.</string>
+    <string name="common_on">Yoq.</string>
+    <string name="common_recent_apps">Oxirgi ilova</string>
+    <string name="connect_popup_content">%sga ulanmoqda…</string>
+    <string name="connected_by_trasport_BT">Bluetooth orqali ulangan</string>
+    <string name="connected_by_trasport_SCS">Masofadan ulangan</string>
+    <string name="connecting_popup_message">Gearga ulanmoqda…</string>
+    <string name="connecting_popup_title">Gearga ulanish</string>
+    <string name="dialog_check_phone_number_msg1">Quyidagi ma’lumot to‘g‘riligiga ishonch hosil qiling:</string>
+    <string name="dialog_check_phone_number_msg2">Mobil telefon raqami: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear telefon raqami: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tasdiqlash uchun OKga teging va Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni yoqing.</string>
+    <string name="dialog_enable_remote_connection_desc">Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni yoqish uchun Masofadan ulanishni yoqing, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="dialog_enable_remote_connection_title">Masofaviy ulanishni yoqish</string>
+    <string name="dialog_reverse_msg">Xizmat ta’minotchingizga ko‘ra, mobil qurilma va Gear-ingizga ushbu funksiyadan foydalanishga ruxsat berish uchun alohida obunalar talab qilinishi mumkin. Buning uchun qo‘shimcha to‘lov olinishi mumkin.</string>
+    <string name="dialog_set_phone_number_msg">Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni yoqish uchun kiruvchi qo‘ng‘iroqlari boshqa raqamga yo‘naltirilishini xohlagan qurilmalar telefon raqamlarini o‘rnating.</string>
+    <string name="dialog_set_phone_number_title">Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazishni yoqish</string>
+    <string name="disable_loc_text">Joylashuvni ulashish o‘chiriladi. Gear-imni topish yoki Qurilmamni topish orqali Gear yoki mobil qurilmangizni qidirish maqsadida joylashuv ma’lumotlaridan foydalana olmaysiz.</string>
+    <string name="disable_loc_text_no_gps">Joylashuvni ulashish o‘chiriladi. Mobil qurilmangizni Qurilmamni topish orqali qidirish uchun joylashuv ma’lumotlaridan foydalanish imkoniga ega bo‘lmaysiz.</string>
+    <string name="disable_remote_connection">Masofadan ulan-ni o‘chir</string>
+    <string name="disable_remote_connection_fmm_fmd">Gear-imni topish va Qurilmamni topish</string>
+    <string name="disable_remote_connection_receiving_blocked">Mobil qurilmadan xabarlar, e-pochta xabarlari va bildirishnomalarni olish</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Mobil qurilmadan e-pochta xabarlari va bildirishnomalarini olish</string>
+    <string name="disable_remote_connection_warning">Masofaviy ulanish o‘chiriladi. Gear-ingiz mobil qurilmangizga yana Bluetooth orqali ulangandan keyin quyidagi funksiyalardan foydalanish mumkin bo‘ladi:</string>
+    <string name="disable_share_location">Joylashuvni ulashishni o‘chirish</string>
+    <string name="disconnect_popup_content">%s uzilmoqda…</string>
+    <string name="do_not_show_again">Boshqa ko‘rsatilmasin</string>
+    <string name="enable_auto_call_forwarding_msg">Gear uzilganda mobil qurilmaga kiruvchi qo‘ng‘iroqlarni avtomatik Gear-ingizga yo‘naltirish. Xizmat ta’minotchingizga qarab, bu qo‘shimcha to‘lovlarga olib kelishi mumkin. Qo‘ng‘iroqni boshqa raqamga avtomatik o‘tkazish uchun OKga teging.</string>
+    <string name="enable_auto_call_forwarding_title">Qo‘n. boshqaga o‘tkaz. Yoq</string>
+    <string name="enable_more_notifications_enable">Yoqish</string>
+    <string name="enable_notification_access">Bildirishnomaga kirishni yoqish</string>
+    <string name="enable_notification_access_desc">"Ushbu funksiya kontaktlar va Sizga yuborilgan xabarlar kabi shaxsiy ma’lumotlarni o‘z ichiga oluvchi barcha bildirishnomalarni o‘qish imkoniga ega bo‘ladi. U, shuningdek, bu bildirishnomalarni o‘tkazib yuborish yoki ularga tegishli amallarni tanlash imkoniga ega bo‘ladi.
+Gear-ingizda bildirishnomalarni olish uchun Yoqishga teing, so‘ngra %sni yoqing."</string>
+    <string name="enable_share_location">Joylashuvni ulashishni yoqish</string>
+    <string name="enabled_loc">Joylashuvni ulashish yoqilgan.</string>
+    <string name="error_enter_device_name">Enter device name.</string>
+    <string name="error_occurred">Xato yuz berdi.</string>
+    <string name="find_my_device">Qurilmamni topish</string>
+    <string name="find_my_gear">Gearimni topish</string>
+    <string name="find_watch_btn_start">Boshlash</string>
+    <string name="find_watch_btn_stop">To‘xtatish</string>
+    <string name="find_watch_off">Gearingizni topish uchun Boshlashni cherting. Gear ovoz chiqaradi va uning ekrani yonadi</string>
+    <string name="find_watch_on">Gearingizni qidirishni to‘xtatish uchun To‘xtatishni bosing. Gear ovoz chiqarishni to‘xtatadi va uning ekrani o‘chadi</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s olib tashlanadi va birlamchi shrift %2$s ingizga qo‘llaniladi.</string>
+    <string name="force_wifi_direct_msg">Ilova Wi-Fi Direct orqali o‘rnatiladi. Bu Sizning joriy Wi-Fi Direct ulanishingizni tugatadi. O‘rnatishni bekor qilsangiz, ushbu ilovani o‘rnatish uchun uni qayta yuklab olishingiz lozim bo‘ladi.</string>
+    <string name="force_wifi_direct_title">O‘rnatish</string>
+    <string name="force_wifi_install">O‘rnatish</string>
+    <string name="gear2_backup_confirm_text">Agar ma’lumotlaringizni hozir arxivlasangiz, mobil qurilmadagi joriy Gear arxiv ma’lumotlari oxirgi Gear ma’lumotlari bilan almashtiriladi.</string>
+    <string name="gear2_restore_confirm_text">Ma’lumotlaringizni tiklasangiz, Gearingizdagi joriy ma’lumotlar yo‘q qilinadi va Gearingizning joriy arxiv ma’lumotlari tomonidan almashtiriladi.</string>
+    <string name="gear2_text">"%1$s tarkibingizni arxivlash uchun qurilmangiz xotirasidan foydalaning:
+%2$s
+
+Agar ushbu tarkibni avvalroq arxivlagan bo‘lsangiz, uni %3$sga tiklashingiz mumkin.
+
+Fayl hajmiga ko‘ra bu bir muncha vaqtni olishi mumkin."</string>
+    <string name="gear2_text_import3">Parametrlar</string>
+    <string name="gear_bnr_desc">"Quyidagi %1$s ma’lumotni arxivlash uchun mobil qurilmangiz xotirasidan foydalaning: %2$s
+
+Agar %3$s ma’lumotingizni oldinroq arxivlagan bo‘lsangiz, uni %4$singizga hozir tiklashingiz mumkin.
+
+Fayllar hajmiga qarab bu bir muncha vaqtni olishi mumkin."</string>
+    <string name="gear_location_popup_message">Ayni vaqtda mobil qurilmangiz Gearingizni qidirmoqda. Bu bir necha daqiqani olishi mumkin. Gearingiz bino ichida bo‘lsa, uni joylashtirish qiyin bo‘lishi mumkin.</string>
+    <string name="gear_location_popup_title">Gear joyini aniqlash</string>
+    <string name="gear_location_text">Gear joylashuvi</string>
+    <string name="gear_lock_success">Gear bloklandi.</string>
+    <string name="gear_lock_text">Gear-ni qulflash</string>
+    <string name="gear_locked">Gear bloklandi</string>
+    <string name="gear_locked_text1">Gear bloklandi. Blokdan chiqarish uchun Gear-ni mobil qurilmaga Bluetooth orqali ulang.</string>
+    <string name="gear_phone_number">Gear telefon raqami</string>
+    <string name="gear_phone_number_popup_desc">Mobil qurilmangizga kiruvchi qo‘ng‘iroqlar %sga yo‘naltiriladi.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Gear-ingizni bloklash uchun avval Masofaviy ulanish yoqilishi lozim.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Gear-ingizni tashlash uchun avval Masofaviy ulanish yoqilishi lozim.</string>
+    <string name="gear_reset_text">Gear-ni tashlash</string>
+    <string name="gear_to_mobile">Gear-dan mobilga</string>
+    <string name="gear_to_mobile_des">Ikkita qurilma Bluetooth orqali ulangan vaqtda Gear-ingizga amalga oshirilgan qo‘ng‘iroqlarni mobil qurilmangizda qabul qiling.</string>
+    <string name="gear_unable_to_locate_message">Joylashuvni topib bo‘lmadi. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="gear_unable_to_locate_title">Gearni joylashtirib bo‘lmaydi</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Fon rasmlari</string>
+    <string name="home_bg_color">Ranglar</string>
+    <string name="home_bg_colors_title">MAVJUD RANGLAR</string>
+    <string name="home_bg_delete_actionbar_selected">Selected</string>
+    <string name="home_bg_delete_dialog_msg">%dta fon rasmi Gear Manager va Gearingizdan olib tashlanadi.</string>
+    <string name="home_bg_delete_select_all">Barchasini tanlash</string>
+    <string name="home_bg_max_more_image_toast">Fon rasmlari soni maksimal miqdorga (%d) yetdi.</string>
+    <string name="home_bg_more_images">Yana tasvirlar</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear fon-rasmlari yuklab olinmoqda…</string>
+    <string name="home_bg_popup_wallpaper_title">Fon rasmlarini yuklab olish</string>
+    <string name="home_bg_toast_saved">Saqlandi.</string>
+    <string name="home_bg_wallpaper">Fon rasmi</string>
+    <string name="home_bg_wallpapers_title">MAVJUD FON RASMLARI</string>
+    <string name="homelayout_apps">ILOVALAR</string>
+    <string name="incoming_calls_title">Kirish qo‘ng‘iroqlari</string>
+    <string name="info_build_number">Dastur versiyasi</string>
+    <string name="info_model_number">Model raqami</string>
+    <string name="info_software_update">Dastur yangil-shi</string>
+    <string name="information_provision_agreement">"Ma'lumotlarni taqdim etish to'g'risidagi kelishuv"</string>
+    <string name="information_provision_agreement_mgs">"Ovozli eslatma Nuance Communications, Inc. deb ataluvchi boshqa xizmat ta'minotchisi tomonidan taqdim etilgan nutqni tanib olish xizmatidan foydaladi. Shuning uchun sizning ovozli ma'lumotlaringiz albatta Nuance (AQSh da) tomonidan boshqariladigan serverda saqlanadi va Ovozli eslatmadan foydalanish sizning Nuance shartlariga rozi bo'lishingizni talab qiladi.
+ Nuance sizning ovozli kiritmalaringizdan xizmatlarni yaxshilash va texnologiyalarni yaratish maqsadida foydalanish huquqini o'zida saqlab qoladi. Nuance yana yuqorida esga olib o'tilgan ovozli kiritmani Nuance hamkorlariga taqdim etish huquqini ham o'zida saqlab qoladi. Sizning ovoz yordamida kiritgan ma'lumotlaringiz yuqorida esga olib o'tilgan maqsadlar bajarilgunicha saqlanadi. Ovozli eslatma xizmatlari to'g'risida ko'proq ma'lumotlar olish uchun Samsung Maxfiylik siyosati va Nuance Maxfiylik siyosati-ni o'qib chiqing.
+ Agar siz yuqorida bayon qilingan ma'lumotlaringizni taqdim qilishga rozi bo'lmasangiz, Ovozli eslatmadan foydalana olmaysiz."</string>
+    <string name="init_manage_notifications_desc">%1$s-ingizda bildirishnomalarini olishni istagan ilovalarni tanlang. %2$s-ingiz batareyasi quvvatini tejash uchun bildirishnomalarini olishni istamagan ilovalardan belgini olib tashlang.</string>
+    <string name="install_in_progress">Bajarilmoqda…</string>
+    <string name="latitude">Kenglik</string>
+    <string name="limit_notification_desc">Mobil qurilma ishlatilayotgan vaqtda Gear-da signallar paydo bo‘lishini bloklang.</string>
+    <string name="limit_notification_dialog_desc">Gearingizda bildirishnomalarni cheklashni yoqib bo‘lmaydi. Mobil qurilmangizda ekran bloki o‘rnatilmagan.</string>
+    <string name="limit_notification_title">Cheklov bildirishnomalari</string>
+    <string name="location_info_title">Joylashuvni ulashish</string>
+    <string name="lock_gear_legal_text1">«Gearni qulflash» funksiyasi orqali Siz masofadan turib Gearingizni qulflab qoʻyishingiz va bu bilan Gearingizga ruxsatsiz kirishlarning oldini olishingiz mumkin. Gearning qulfini ochish uni mobil qurilmaga qayta ulash orqali amalga oshiriladi.</string>
+    <string name="lock_gear_legal_text2">* «Gearni qulflash» funksiyasining ishlashi uchun muayyan vaqt ketishi yoki ushbu funksiya Gearingiz, mobil qurilmangiz yoki tarmogʻingizning holatiga qarab ishlamay qolishi ham mumkin.</string>
+    <string name="lock_gear_text">Mobil qurilmangiz va Gear Bluetooth orqali ulangan vaqtda Gear-ingizni bloklab bo‘lmaydi.</string>
+    <string name="login_to_samsung_account">Samsung accountga kirish</string>
+    <string name="login_to_samsung_account_desc">Gearingizda Masofaviy ulanishni yoqish uchun Samsung accountingizga kiring.</string>
+    <string name="login_to_samsung_account_full_desc">"Quyidagi funksiya. Bluetooth
+orq. ulanmaganda ham foydalan.
+u-n Samsung account-ga kir:
+- Bildirishnomalar olish
+- Masofadan ulanish orqali
+ilovalardan foydalanish
+Masofadan ulanish u-n qo‘shim-
+cha to‘lovlar olinishi mumkin."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Uzunlik</string>
+    <string name="main_bt_unpaired">Ulanmagan</string>
+    <string name="main_disconnected">Uzilgan</string>
+    <string name="manage_applications">Ilovalarni boshqarish</string>
+    <string name="manage_notifications">Bildirish-larni boshqar</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Qo‘ng‘iroqni boshqaga yo‘naltirish - bu %s kiruvchi qo‘ng‘iroqlarini ko‘rsatilgan raqamga yo‘naltiruvchi tarmoq xizmati. Xizmat ta’minotchingizga ko‘ra, Gear-ingizga ushbu funksiyadan foydalanishga ruxsat berish uchun obuna talab qilinishi mumkin. Buning uchun qo‘shimcha to‘lov olinishi mumkin.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobil qurilma</string>
+    <string name="masterapp_not_installed">%1$s mobil qurilmangizda o‘rnatilmagan. Gearingizda %2$sdan foydalanish uchun %1$sni mobil qurilmangizga yuklab oling. Siz yuklab olish ekraniga o‘tasiz</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s mobil qurilmangizda o‘rnatilmagan. Gearingizda %2$sdan foydalanish uchun %1$sni mobil qurilmangizga yuklab oling. Siz yuklab olish ekraniga o‘tasiz</string>
+    <string name="masterapp_uninstalled">%1$s mobil qurilmangizdan olib tashlandi. Gearingizda %2$sdan foydalanish uchun %1$sni mobil qurilmangizga yuklab oling</string>
+    <string name="maximum_size_warning">Belgilar soni maksimal miqdorga yetdi.</string>
+    <string name="menu_about_device">%s HAQIDA</string>
+    <string name="menu_actionbar_remove">Olib tashlash</string>
+    <string name="menu_actionbar_uninstall">Olib tashlash</string>
+    <string name="menu_appsandsettigns">ILOVALAR VA PARAMETRLAR</string>
+    <string name="menu_clock">Soat</string>
+    <string name="menu_display">ASOSIY EKRANNI TAHRIRLASH</string>
+    <string name="menu_downloaded_font">YUKLAB OLINGAN SHRIFTLAR</string>
+    <string name="menu_filetransfertogear">FAYLLARNI GEAR-GA UZATISH</string>
+    <string name="menu_gallery">Tasvir</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Moslik</string>
+    <string name="menu_help">Yordam</string>
+    <string name="menu_home_screen">Ekran uslubi</string>
+    <string name="menu_music">Musiqa</string>
+    <string name="menu_myapp">Mening ilovalarim</string>
+    <string name="menu_notification">"Ma'lumotnomalar"</string>
+    <string name="menu_rename">Nom o‘zgartirish</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">Parametrlar</string>
+    <string name="mobile_to_gear">Mobildan Gear-ga</string>
+    <string name="mobile_to_gear_des">Ikki qurilma simsiz ulanganda mobil qurilmangizga kiruvchi qo‘ng‘iroqlarni Gear-da qabul qiling.</string>
+    <string name="monotype_default_font">"Birlamchi o'rnatilgan shrift"</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Shokoladli pechenye</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Ko‘proq</string>
+    <string name="more_options">Q-cha op/nsiyalar</string>
+    <string name="multisim_title">Ko‘p SIM-karta</string>
+    <string name="navigate_up">Yuqoriga navigatsiyalash</string>
+    <string name="new_notification_list">Ro‘yxat krnsh</string>
+    <string name="new_notifications_list_desc">Olingan bildirishnomalar ro‘yxatini Gearda soatning chap yonida ko‘rsatish.</string>
+    <string name="no_application_selected">Ilovalar tanlanmagan</string>
+    <string name="no_downloaded_applications">Yuklab olingan ilovalar yo‘q</string>
+    <string name="no_of_application_selected">%d ta ilova tanlangan</string>
+    <string name="no_remote_connection_popup_msg">Avtomatik qo‘ng‘iroqni boshqa raqamga o‘tkazish uchun mobil qurilmangizda Samsung Gear ilovasini oching va Masofaviy ulanishni yoqing, so‘ngra qayta urinib ko‘ring.</string>
+    <string name="no_remote_connection_popup_title">Masofaviy ulanishni yoqish</string>
+    <string name="notification_type">Bildirishnoma turi</string>
+    <string name="notification_type_desc">Gear-ingiz ishlatilayotganda, bildirishnomalaringiz ekran yuqorisidagi kichkina qalqib chiquvchi oynada ko‘rsatiladi, yuqoridagi tanlovingizdan qat’iy nazar.</string>
+    <string name="number_setting">Raqamni o‘rnatish</string>
+    <string name="ok">OK</string>
+    <string name="once">Bir marta</string>
+    <string name="one_application_selected">1 ta ilova tanlangan</string>
+    <string name="popup_attention_email_msg">Ba’zi e-pochta hisob qaydnomalari E-pochta parametrlarida tanlangan. Gearingizda o‘sha hisob qaydnomalardan bildirishnomalarni olish uchun E-pochta parametrlarida E-pochta bildirishnomalarini tanlang.</string>
+    <string name="popup_attention_message_msg">Gearingizda xabarlarni olish va yuborish uchun birlamchi xabarlar ilovangiz %sdan Xabarlarga o‘zgartiriladi.</string>
+    <string name="popupmenu_search_for_new_device">Qurilmalarni boshqarish</string>
+    <string name="preview_message_desc">Gearingizdagi bildirishnoma qalqib chiquvchi oynalarida olingan bildirishnomalarni dastlabki ko‘rinishini ko‘rsatish, kiruvchi qo‘ng‘iroqlar signallari va budilniklar bundan mustasno.</string>
+    <string name="preview_message_title">Xabarni dastlabki ko‘rib chiqish</string>
+    <string name="primary">Asosiy</string>
+    <string name="progressdialog_please_wait">Iltimos, kuting…</string>
+    <string name="progressdialog_reinstalled_message">O‘rnatilmoqda…</string>
+    <string name="progressdialog_reinstalled_popup_content">Qayta o‘rnat</string>
+    <string name="providerapp_reinstalled">%s to‘g‘ri ishlamayapti, shu sababli u olib tashlanadi. U qayta o‘rnatiladi</string>
+    <string name="quick_tutorial_add_shortcuts">Ilova yorliqlarini Gear asosiy ekraniga qo‘shish uchun Gearda Ilovalarga o‘ting, ilova ikonachasini bosib turing, so‘ngra ekran yuqorisida joylashgan asosiy ikonachada uni qo‘ying.</string>
+    <string name="quick_tutorial_gear_structure">Soat Gear-ingiz asosiy ekranining bosh sahifasida ko‘rsatiladi. Soatning chap tomonidagi sahifalar bildirishnomalarni va o‘ng tomonidagilar esa vidjetlarni ko‘rsatadi. Ilovalarni ko‘rib chiqish uchun ekranni pastki chetidan yuqoriga torting.</string>
+    <string name="quick_tutorial_noti_title">%s bilan tanishtirish</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice-ni ochish uchun “Hi Gear” deng yoki istalgan ekranda asosiy tugmani ikki marta bosing.</string>
+    <string name="quick_tutorial_swipe_downwards">Sevimli ilovangizni ochish uchun asosiy tugmani ikki marta bosing. Parametrlarda sevimli ilovangizni o‘zgartirishingiz mumkin.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Sevimli ilovangizni ochish uchun quvvat tugmasini ikki marta bosing. Parametrlarda sevimli ilovangizni o‘zgartirishingiz mumkin.</string>
+    <string name="quick_tutorial_to_go_back">Orqaga qaytish uchun ekranni pastga suring.</string>
+    <string name="remote_connection_disabled_settings">Parametrlar</string>
+    <string name="remote_connection_enabled_desc">Bluetooth ulanishi tugatilganda, Gearga masofadan ulanadi.</string>
+    <string name="requested">Talab qilindi</string>
+    <string name="reset_gear_legal_text1">"«Gearni tashlash» funksiyasi yordamida Gearingizdagi barcha ma'lumotlarni masofadan turib oʻchirib tashlashingiz mumkin. Bunday uslub bilan oʻchirib tashlangan ma'lumotlarni qayta tiklab boʻlmaydi, «Gearimni topish» funksiyasi esa ishlamay qoladi."</string>
+    <string name="reset_gear_legal_text2">* «Gearni tashlash» funksiyasining ishlashi uchun muayyan vaqt ketishi yoki ushbu funksiya Gearingiz, mobil qurilmangiz yoki tarmogʻingizning holatiga qarab ishlamay qolishi ham mumkin.</string>
+    <string name="restore_complete">Tiklash yakunlandi.</string>
+    <string name="restore_some_error">Tiklab bo‘lmadi. Qayta urinib ko‘ring.</string>
+    <string name="restore_try_again">Qayta urin.</string>
+    <string name="retrieve_dialog_desc">Ilovalar ro‘yxati olinmoqda…</string>
+    <string name="sa_error_0203_desc">Masofaviy ulanishni yoqish uchun Samsung accountni qo‘lda yangilang.</string>
+    <string name="sa_error_0203_title">Samsung accountni yangila</string>
+    <string name="sa_error_0301_desc">Mobil qurilmangizda Samsung accountingizga kirayotganingizda tarmoq xatosi yuz berdi.</string>
+    <string name="sa_error_0301_title">Funksiyani yoqib bo‘lmadi</string>
+    <string name="sa_error_0302_title">Funksiyani yoqib bo‘lmadi</string>
+    <string name="sa_error_0401_desc">Xato yuz berdi. Qayta urinib ko‘ring.</string>
+    <string name="sa_error_0401_title">Xato</string>
+    <string name="safety_message_interval_10minutes">Har 10 daqiqa</string>
+    <string name="safety_message_interval_20minutes">Har 20 daqiqada</string>
+    <string name="samsung_apps_info">%1$s orqali yuklab olingan ilovalar %2$s olib tashlanganda yoki ilova ma’lumoti tozalanganda yo‘q qilinishi mumkin. Yo‘q qilingan ilovalarni %3$sdagi xaridlar jurnalingizdan yuklab olishingiz mumkin.</string>
+    <string name="samsung_apps_notice">Eslatma</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Hozir yangilash</string>
+    <string name="screen_off">Ekranni o‘chiq saqlash</string>
+    <string name="screen_off_desc">Gearingiz ekrani o‘chiqligida bildirishnomalarni oling, kiruvchi qo‘ng‘iroq signallari va budilniklar bundan mustasno.</string>
+    <string name="setting_Enable">Yoqish</string>
+    <string name="setting_alpm_dialog_title">Diqqat</string>
+    <string name="setting_always_off">Har doim o‘ch.</string>
+    <string name="setting_always_on">Har doim yoq</string>
+    <string name="setting_auto">Avtomatik</string>
+    <string name="setting_auto_lock_disable_desc">"Ma'mur tomonidan o‘chirilgan, shifrlash siyosati yoki hisob ma'lumotlari ombori."</string>
+    <string name="setting_backup_restore2">Arxivlash va tiklash</string>
+    <string name="setting_basic">ASOSLAR</string>
+    <string name="setting_connections">ULANISHLAR</string>
+    <string name="setting_disable">O‘chirish</string>
+    <string name="setting_home_key_double_pressing">As. tugma ikki marta bos</string>
+    <string name="setting_language_input">TIL VA KIRITISH</string>
+    <string name="setting_manage_text_templates">Matn shablon. tahrirlash</string>
+    <string name="setting_mobile_network">Mobil tarmoqlar</string>
+    <string name="setting_mobile_network_desc">Gear mobil qurilmangizga Bluetooth orqali ulanganda, u mobil tarmog‘ingizdan uziladi. Bluetooth orqali ulanish tugaganda, Gear mobil qurilmangizga avtomatik ravishda qayta ulanadi.</string>
+    <string name="setting_multisim_popup_desc">Xizmat ta’minotchingizga qarab Ko‘p SIM-karta funksiyasidan foydalanish uchun Sizdan alohida obuna talab qilinishi mumkin. Ko‘p SIM-kartani yoqish uchun OKga teging.</string>
+    <string name="setting_opensource">Ochiq manba litsenziyasi</string>
+    <string name="setting_palm_motion">Harakatlar</string>
+    <string name="setting_palm_swipe">Rasmga olish u-n sur</string>
+    <string name="setting_palmover_desc">Kiruvchi qo‘ng‘iroqlarni va budilniklar ovozini o‘chirish yoki mediani to‘xtatib turish uchun ekran yoqilgan vaqtda qo‘lingizni ekran ustiga qo‘ying.</string>
+    <string name="setting_palmswipe_desc">Barmog‘ingizni uchigacha ekrandan olmagan holda yurgizing va ekranni rasmga oling.</string>
+    <string name="setting_pause_mute">Ovoz o‘chirish/pauza</string>
+    <string name="setting_power_key_double_pressing">Quvvat tgm ikki marta bos</string>
+    <string name="setting_restoring">Tiklanmoqda…</string>
+    <string name="setting_safety_b1_desc">Gear va mobil qurilmangiz ulanganda, Yordam xabarlarini yuborish Sizga favqulodda vaziyatlarda yordam beradi. U favqulodda xabarlar yuboriladigan kontaktlaringizga joriy joylashuvingiz haqidagi ma’lumotlarni yuborish orqali vaziyatingiz haqida xabar beradi. Ushbu xabarlarni yuborish uchun qo‘shimcha to‘lov olinishi mumkin. Favqulodda vaziyatlarda Yordam xabarlarini yuborishni yoqish uchun quvvat tugmasini %d marta bosing.</string>
+    <string name="setting_safety_b2_desc">Gearingiz va mobil qurilmangiz ulanganda, Yordam xabarlarini yuborish Gear kamerasi bilan rasmga olish orqali Sizga favqulodda vaziyatda yordam beradi. U favqulodda xabarlar yuboriladigan kontaktlaringizga ushbu rasm va joriy joylashuvingiz haqidagi ma’lumotlarni yuborish orqali vaziyatingiz haqida xabar beradi. Birinchi xabar joylashuvingiz va rasmga ega bo‘ladi. So‘ngra intervaldan so‘ng faqat joylashuvingizga ega ikkinchi xabar yuboriladi. Ushbu xabarlarni yuborish uchun qo‘shimcha to‘lov olinishi mumkin. Favqulodda vaziyatlarda Yordam xabarlarini yuborishni yoqish uchun asosiy tugmani %d marta bosing.</string>
+    <string name="setting_safety_b2_no_camera_desc">Gear va mobil qurilmangiz ulanganda, Yordam xabarlari yuborish Sizga favqulodda vaziyatlarda yordam beradi. U favqulodda xabarlar yuboriladigan kontaktlaringizga Sizning joylashuvingiz haqidagi ma’lumotlarni yuborish orqali vaziyatingiz haqida xabar beradi. Ushbu xabarlarni yuborish uchun qo‘shimcha to‘lov olinishi mumkin. Favqulodda vaziyat davomida Yordam xabarlari yuborishni yoqish uchun %d marta asosiy tugmani bosing.</string>
+    <string name="setting_safety_b3_desc1">Favqulodda vaziyatga tushib qolganingizda, asosiy kontaktlaringizga tezkor signal yuborish uchun asosiy tugmani 3 marta bosing.</string>
+    <string name="setting_safety_b3_desc2">Asosiy kontaktlaringiz joriy joylashuvingiz haqidagi ma’lumotlarga ega favqulodda xabarlarni oladi.</string>
+    <string name="setting_safety_b3_desc3">Ushbu funksiyadan foydalanish uchun mobil qurilmangizni Gear-ingizga ulang.</string>
+    <string name="setting_safety_list">Xavfsizlik yordamchisi</string>
+    <string name="setting_samsung_legal">Samsung qonuni</string>
+    <string name="setting_screen_lock">Avtomatik bloklash</string>
+    <string name="setting_screen_lock_desc">Gear-ingiz juda uzoqda bo‘lganda, mobil qurilmangizni avtomatik ravishda qulflaydigan qilib sozlang.</string>
+    <string name="setting_screen_secutiry">EKRAN XAVFSIZLIGI</string>
+    <string name="setting_send_emergency_picture">Favqulodda rasmni yubor</string>
+    <string name="setting_send_emergency_recording">Ovoz qaydlarini yuborish</string>
+    <string name="setting_send_emergency_term_agree">"Men yuqorida aytilgan barcha shartlarni o'qib chiqdim va ularga o'z roziligimni beryapman."</string>
+    <string name="setting_send_help_message">Yordam xabarlarini yuborish</string>
+    <string name="setting_send_terms_conditions">Talab va shartlar</string>
+    <string name="setting_smart_relay">Smart almashish</string>
+    <string name="setting_smart_relay_desc">Mobil qurilmangizni ko‘tarish orqali mobil qurilmangizda Gear tarkibini ko‘rib chiqing.</string>
+    <string name="setting_smart_toss">Smart otish</string>
+    <string name="setting_system">TIZIM</string>
+    <string name="setting_text_to_speech_engine">Matndan nutqqa mexanizmi</string>
+    <string name="setting_textinput_emoticon">Emotikonlar</string>
+    <string name="setting_textinput_keyboard">Klaviatura</string>
+    <string name="setting_textinput_list">Matn kiritish usullari</string>
+    <string name="setting_textinput_templates">Shablonlar</string>
+    <string name="setting_try_it">Urinib ko‘r</string>
+    <string name="setting_wake_up">Uyg‘otish ishorasi</string>
+    <string name="setting_wake_up_desc">Gear taqilgan qo‘lingizni ko‘tarish orqali Gearni uyg‘oting.</string>
+    <string name="setting_wakeupgesture">"Gearni uyg‘otish uchun Gear taqilgan qo‘lingizni yuqoriga ko‘taring va Gear ekraniga qarang.
+
+Ushbu funksiya orqaga suyanganingizda yoki yotganingizda ishlamasligi hamda harakat sensori har doim yoqiq turganligi sababli ko‘proq batareya quvvatini sarflashi mumkin"</string>
+    <string name="setting_wakeupgesture_clock">Soat</string>
+    <string name="setting_wakeupgesture_previous">Oxirgi ko‘rib chiqilgan ekran</string>
+    <string name="setting_wakeupgesture_screen_on">Ko‘rsat-gan ekranni tanla</string>
+    <string name="settings_application_version">Ilova versiyasi</string>
+    <string name="settings_emergency_contact">Asosiy kontaktlarni boshqarish</string>
+    <string name="settings_emergency_contact_empty">Asosiy kontaktlar qo‘shilmagan. %sni yoqish uchun Asosiy kontaktlarga kontakt qo‘shing.</string>
+    <string name="settings_legal_information">Qonuniy ma’lumot</string>
+    <string name="settings_message_interval">Xabarlar oras-gi interval</string>
+    <string name="settings_not_set">O‘rnatilmagan</string>
+    <string name="settings_security">Xavfsizlik</string>
+    <string name="settings_security_update">Xavfsizlik yangilanishi</string>
+    <string name="settings_security_update_desc">Qurilmangiz himoyasi va xizmatini takomillashtirish orqali uni zararli tarkibdan himoya qiling.</string>
+    <string name="settings_unknown_sources_dialog">Noma’lum manbalardan o‘rnatish qurilmangiz va shaxsiy ma’lumotlaringiz uchun xavfli bo‘lishi mumkin. OKni chertish orqali Siz ushbu ilovalardan foydalanish oqibatida yuzaga kelishi mumkin bo‘lgan ma’lumot yo‘qotilishi yoki qurilma nosozliklariga to‘liq javobgarlikni o‘z zimmangizga olish uchun rozilik bildirasiz.</string>
+    <string name="settings_unknown_sources_subtitle">Samsung Gear Appsdan boshqa manbalardan ham ilovalarni yuklab olish uchun ruxsat berish.</string>
+    <string name="share_loc_disabled">Joylashuvni ulashish o‘chirilgan.</string>
+    <string name="share_location_desc">Gear-imni topish va Qurilmamni topishga Gear va mobil qurilmangiz joylashuvi ma’lumotini ulashish uchun ruxsat berish.</string>
+    <string name="shm_I_agree_that_mobile_data">Men favqulodda vaziyatlarda Mobil ma’lumot ishlatilishiga va MMS xabarlar yuborilishiga roziman. Bu qo‘shimcha to‘lovga olib kelishi mumkinligini bilaman.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Yordam beringlar xabarini yuborish funksiyasi foydanaluvchilarga ular taxminan qayerda ekanligi haqidagi xabar va ularni o'rab turgan muhitni tasvirlovchi vizual/tovushli ma'lumotlarni ular avvaldan kiritib, saqlab qo'ygan tanlangan kontaktga yuborishda yordam berish uchun mo'ljallangan. Bu funksiya faqatgina sizga qulaylik yaratish maqsadida ta'minlanadi va favqulodda vaziyatlarda tegishli davlat idoralariga qo'ng'iroq qilishning o'rnini bosish uchun mo'ljallanmagan va bunday sifatda qaralmasligi lozim.
+
+2. Yordam beringlar xabarini yuborish (Xizmatlar)funksiyasi tarmoqqa ulanish sifati, GPS/Wi-Fi ma'lumotlarining mavjudligi, tanlangan kontaktingizning qurilmasining statusi va/yoki holati, telefon batareykasida mavjud quvvat darajasi va/yoki Samsung Electronics Co., Ltd. kompaniyasi (“Samsung”, “biz”, “bizga”, “bizning”) nazorat qila olmaydigan boshqa vaziyatlar kabi vaziyatlarga bog'liq bo'lgan holda to'g'ri, uzluksiz va xatosiz ishlamasligi mumkin. Siz qayerda ekanligingiz haqidagi ma'lumotlarning to'g'riligiga va Xizmatlarning o'z vaqtida yetkazib berilishiga Sizni o'rab turgan atrof-muhit hamda qurilmangizning va tanlangan kontaktingizning qurilmasining holati ta'sir ko'rsata olishi mumkin. Agar aniq ravishda quyidagining aksi izhor etilmagan yoki qonun bo'yicha talab etilmagan bo'lsa, Samsung kompaniyasi Xizmatlarning to'g'ri, uzluksiz va xatosiz ishlashiga hech qanday kafolat bermaydi. Shunga e'tibor beringki, tanlangan kontaktingiz ishlab turuvchi uyali telefon bo'lishi shart va ushbu qurilma yoqilgan va SMS xabarlarini olishga qodir bo'lishi shart. Sizni o'rab turgan atrof-muhit va qayerda ekanligingiz haqidagi ma'lumotlarni yuborish uchun Sizdan uyali aloqa operatoringiz tomonidan belgilangan xizmat haqlariga bog'liq bo'lgan holda kira olinishi mumkin.
+
+Xizmatlar mo'ljallangan tarzda ishlashi uchun ushbu funksiya, undan foydalanishni boshlaganingizdan so'ng, avtomatik ravishda qurilmangizning GPS va Wi-Fi funksiyalarini ishga tushirishi kerak bo'lishi mumkin. Siz GPS va Wi-Fi funksiyalarining avtomatik ravishda ishga tushirilishini (lozim bo'lsa) va keyinchalik bu haqda sizga boshqa hech qanday ogohlantiruv berilmasligini yoki roziligingizni berish talab etilmasligini e'tirof etib, bunga o'z roziligingizni bermoqdasiz.
+
+3. Quyidagilarni e'tirof etib, siz ushbu funksiyadan suiiste'mol qilmaslikka yoki undan hech qanday noqonuniy maqsadlarda foydalanmaslikka yoki boshqa insonlarning shaxsiy hayoti maxfiyligini yoki hech qanday shaxsiy yoki mulkiy huquqlarini buzmaslikka roziligingizni bermoqdasiz. Ushbu funksiyadan faqat qonuniy ravishda va faqat favqulodda holatlarda foydalaning.Siz ushbu jihatdan foydalanishingiz uchun faqat o'zingiz mas'uliyatli bo'lishingizga rozilik bildirmoqdasiz. Samsung ushbu jihatdan foydalanishingizdan kelib chiqishi mumkin bo'lgan oqibatlarning hech biri uchun javobgar bo'lmaydi.
+
+4. Ushbu Xizmatlar faqatgina Sizga qulaylik yaratish maqsadida ta'minlanadi va favqulodda vaziyatlarda tegishli davlat idoralariga qo'ng'iroq qilishning o'rnini bosish uchun mo'ljallanmagan va bunday sifatda qaralmasligi lozim. Agar aniq ravishda quyidagining aksi izhor etilmagan yoki qonun bo'yicha talab etilmagan bo'lsa, Samsung kompaniyasi Xizmatlarning to'g'ri, uzluksiz va xatosiz ishlashiga hech qanday kafolat bermaydi.
+ 
+5. KAFOLATLARDAN VOZ KECHISH BAYONNOMASI SIZ QUYIDAGILARNI ANIQ RAVISHDA ANGLAB, ULARGA O'Z ROZILIGINGIZNI BERMOQDASIZ:
+ 
+A. USHBU XIZMATLAR SHUNDAYLIGICHA, BARCHA NUQSONLARI BILAN BIRGA VA MAVJUDLIGICHA ASOSIDA TA'MINLANADI. ULARDAN FOYDALANISH BILAN BOG'LIQ BO'LGAN TAVAKKAL UCHUN O'ZINGIZ JAVOBGAR BO'LASIZ. SAMSUNG USHBU XIZMATLARGA VA ULAR YUZASIDAN HECH QANDAY ANIQ IFODALANGAN KAFOLATLAR, GARANTIYALAR YOKI SHARTLAR BERMAYDI. SAMSUNG KOMPANIYASI ANIQ IFODALANGAN YOKI NAZARDA TUTILGAN BO'LISHIDAN QAT'IY NAZAR BARCHA TURDAGI ISHONTIRISH VA KAFOLATLARDAN, SHU JUMLADAN, LEKIN QUYIDAGILAR BILAN CHEKLANMAGAN HOLDA, TIJORIY QIMMATGA EGALIGI, MA‘LUM MAQSAD UCHUN YAROQLILIGI VA QONUNLARNING BUZILMASLIGI HAQIDAGI NAZARDA TUTILGAN KAFOLATLARDAN HAMDA SAVDO-SOTIQ MUNOSABATLARI YOKI FOYDALANISH DAVOMIDA PAYDO BO'LADIGAN BARCHA NAZARDA TUTILGAN KAFOLATLARDAN ANIQ RAVISHDA VOZ KECHADI.
+
+B. YUQORIDA AYTILGANLARNI CHEKLAMAGAN HOLDA SAMSUNG KOMPANIYASI (i) USHBU XIZMATLAR TALABLARINGIZGA MOS KELISHINI, (ii) USHBU XIZMATLAR O'Z VAQTIDA YETKAZILIB, UZLUKSIZ, ISHONCHLI YOKI XATOSIZ ISHLASHINI, (iii) USHBU XIZMATLARDAN OLINADIGAN TARKIB, YOKI HAR QANDAY BILDIRISHNOMALAR YOKI USHBU XIZMATLARNING FUNKSIYALARI MAVJUD, TO'G'RI, TO'LIQ YOKI ISHONCHLI BO'LISHINI, (iv) SIZ USHBU XIZMATLAR ORQALI OLGAN XIZMATLARNING YOKI HAR QANDAY AXBOROTNING, YOKI BOSHQA MATERIALNING SIFATI SIZ KUTGAN DARAJADA BO'LISHINI, YOKI (v) USHBU XIZMATLARDAGI BOSHQA HAR QANDAY XATOLAR YOKI NUQSONLAR TO'G'RILANISHI HAQIDA HECH QANDAY ISHONTIRISH YOKI KAFOLAT BERMAYDI.
+
+6. MAS'ULIYATNI CHEKLASH.
+
+A. SIZ SAMSUNG KOMPANIYASI (i) SHARTNOMAGA RIOYA QILMASLIK, GARANTIYA, KAFOLAT YOKI SHART BUZILGANLIGI, SHARTSIZ MAJBURIYAT, SOVUQQONLIK, YOKI TEGISHLI QONUN BO'YICHA RUXSAT ETILGAN DARAJADAGI BOSHQA DELIKT HAQIDAGI DA'VOLAR; (ii) USHBU XIZMATLARDAN FOYDALANISHINGIZ YOKI FOYDALANA OLMASLIGINGIZ, (iii) O'RNINI BOSUVCHI XIZMATLARNI TOPISH XARAJATI; (iv) RUXSAT ETILMAGAN HOLDA SIZ YUBORGAN XABARLARINGIZGA YOKI MA'LUMOTLARINGIZGA KIRISH YOKI ULARNI O'ZGARTIRISH; (v) HAR QANDAY UCHINCHI TARAFNING BAYONNOMALARI YOKI AXLOQI; (vi) USHBU SHARTNOMA; (vii) INSONGA YOKI MULKKA YETKAZILGAN ZARAR (SHU JUMLADAN, VAFOT ETISH), YOKI (viii) USHBU XIZMATLARGA YOKI USHBU XIZMATLAR ORQALI TA'MINLANGAN TARKIBGA TAALLUQLI HAR QANDAY BOSHQA MUAMMO OQIBATIDA YOKI UNGA BOG'LIQ BO'LGAN HOLDA BEVOSITA YOKI BILVOSITA KELIB CHIQQAN HAR QANDAY BEVOSITA, BILVOSITA, TASODIFIY, MAXSUS, JAZOLOVCHI, QO'SHIMCHA YOKI IBRATLI ZIYON, MAJBURIYAT, ZARAR YOKI XARAJAT, SHU JUMLADAN, LEKIN QUYIDAGILAR BILAN CHEKLANMAGAN HOLDA, DAROMADLARDAN AYRILISH, FOYDALANISHGA YAROQLIGIDAN AYRILISH YOKI BOSHQA ZIYONLAR (XIZMATLARNI TA'MIRLASH, ALMASHTIRISH YOKI KO'RILGAN ZARAR UCHUN SIZGA BADAL TO'LANISHI SIZ KO'RGAN HAR QANDAY ZIYONINGIZNI TO'LIQ QOPLAMAGAN TAQDIRDA YOKI SAMSUNG VA/YOKI UNING LITSENZIARLARI BUNDAY ZIYON, MAJBURIYAT, ZARAR YOKI XARAJAT EHTIMOLI HAQIDA BILGAN BO'LSA HAM YOKI BILISHI KERAK BO'LGANIDA HAM) UCHUN SOVUQQONLIK HAQIDAGI QONUNLAR BO'YICHA YOKI HAR QANDAY BOSHQA HUQUQIY YOKI ADOLAT HUQUQI ME'YORLARI, SHU JUMLADAN, QUYIDAGILAR BILAN CHEKLANMAGAN HOLDA, SHARTNOMA, DELIKT YOKI SHARTSIZ MAJBURIYAT, BO'YICHA JAVOBGARLIKKA TORTILMASLIGINI ANIQ ANGLAB, BUNGA O'Z ROZILIGINGIZNI BERMOQDASIZ.
+
+B. SIZ VA SAMSUNG KOMPANIYASI O'RTASIDAGI USHBU SHARTNOMA YOKI USHBU XIZMATLARGA BOG'LIQ BO'LGAN HAR QANDAY NIZO UCHUN YAKKA VA YAGONA SUD HIMOYASI VOSITANGIZ USHBU XIZMATLARDAN FOYDALANISHNI TO'XTATISH BO'LADI.
+
+C. BA'ZI MAMLAKATLARNING QONUNLARI MA'LUM KAFOLATLARDAN VOZ KECHISHGA YOKI TASODIFIY YOKI QO'SHIMCHA ZIYON UCHUN MAJBURIYATNI CHEKLASH YOKI UNDAN VOZ KECHISHGA RUXSAT BERMAYDI. BINOBARIN, YUQORIDAGI 5- VA 6-BO'LIMLARNING BA'ZI CHEKLOVLARI SIZGA TEGISHLI BO'LMASLIGI MUMKIN.
+
+7. MAJBURIYAT VA XARAJATLARDAN OZOD QILISH. Siz Samsung kompaniyasini ushbu Xizmatlardan foydalanishingiz yoki ushbu Shartnomaga rioya qilmasligingiz oqibatida yoki bunga bog'liq bo'lgan holda yuzaga kelgan har qanday da'volar, harakatlar, talablar, chiqimlar, majburiyatlar, ziyonlar, zararlar, jarimalar va xarajatlardan (shu jumladan, advokatlarning maqbul xizmat haqlari va chiqimlaridan) saqlash, ozod qilish va himoyalashga rozilik bermoqdasiz. Agar Sizga ushbu shartnoma asosida berilgan litsenziyalarning shaxsiy bo'lishiga qaramasdan har qanday shaxsga ushbu Xizmatlardan foydalanishga ruxsat bersangiz yoki ushbu Xizmatlar orqali olingan har qanday axborot bilan har qanday shaxsni ta'minlasangiz, bunday shaxsni ushbu shartnomaning bunday shaxs tomonidan rioya qilinishi shart bo'ladigan ushbu shartnomaning mavjudligi va uning shartlari haqida xabardor qilishga hamda Samsung kompaniyasini bunday shaxsning ushbu Xizmatlardan foydalanishiga bog'liq bo'lgan har qanday da'volar, harakatlar, talablar, chiqimlar, majburiyatlar, ziyon, zarar, jarimalar va xarajatlardan (shu jumladan, advokatlarning xizmat haqlari va chiqimlaridan) saqlash, ozod qilish va himoyalashga o'z roziligingizni bermoqdasiz.
+
+8. Oldini olib bo'lmaydigan vaziyatlar (fors-major) Samsung kompaniyasi tabiiy ofatlar, fuqarolik yoki harbiy hukumat organlarining harakatlari, urush, terrorchilik harakatlari, mehnat nizolari, uchinchi taraflar tomonidan ta'minlanadigan materiallar va xizmatlar oqibatida yoki Samsung kompaniyasi yetarli darajada nazorat qila olmaydigan har qanday sababdan ushbu shartnoma shartlarini kechikib amalga oshirishi yoki amalga oshirmasligi yoki ushbu Xizmatlarning uzilishi uchun javobgar bo'lmaydi."</string>
+    <string name="shm_share_my_location_checkbox_text">Men %1$sga mening joylashuvim haqidagi ma’lumotlarni %2$s kontaktlarim bilan ulashishi imkoni berilishiga roziman.</string>
+    <string name="smartrelay_not_show">Boshqa ko‘rsatilmasin</string>
+    <string name="software_update">Dastur yangilanishi</string>
+    <string name="ss_double_tap_any_screen">Yorqinlik va ovoz balandligi nazoratlarini va boshqa foydali ma’lumotlarni ko‘rib chiqish uchun istalgan ekranga ikki marta teging.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Qo‘ng‘iroqlarni Gearingizga yo‘naltirish</string>
+    <string name="ss_forwarding_calls_to_gear_progress">So‘rov…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">O‘qish parametrlari…</string>
+    <string name="ss_loading_ing_abb">Yuklanmoqda…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobil ma’lumot o‘chirilgan. Uning o‘rniga Wi-Fi tarmoqqa ulaning yoki mobil ma’lumotni yoqing va qayta urinib ko‘ring</string>
+    <string name="ss_no_network_connection">Tarmoq ulanishi yo‘q</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Foydalanuvchi yo‘riqnomasi</string>
+    <string name="stub_list_install">O‘rnatish</string>
+    <string name="tab_stub_list">Ommabop</string>
+    <string name="talkback_download">Yuklab olish</string>
+    <string name="talkback_setting">Parametr</string>
+    <string name="the_samsung_gear_application">Samsung Gear ilovasi</string>
+    <string name="threeg_connection">Masof. ulanish. foydalan</string>
+    <string name="threeg_connection_subtitle">Mobil ma’lumot yoki Wi-Fidan Samsung account bilan birgalikda foydalanish orqali Gearingizga masofadan ulaning.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Olib tashlash</string>
+    <string name="title_activity_connect_popup">Ulanish</string>
+    <string name="title_activity_paired_watch">Bog‘langan qurilma</string>
+    <string name="title_alertdialog_device_name_popup">%s nomini o‘zgartirish</string>
+    <string name="title_alertdialog_disconnect_popup">Uzish</string>
+    <string name="title_dialog_pm_error">Ogohlantirish</string>
+    <string name="title_dialog_uninstall">Olib tashlash</string>
+    <string name="title_findmywatch_connect2">Gearimni topish</string>
+    <string name="title_findmywatch_finding">Qidirilmoqda…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s ni %2$s ga ulang</string>
+    <string name="tri_connect_warning_temporal_disconnect">%1$s ingizni %2$s ingizga Bluetooth orqali ulash %3$s ingizni mobil qurilmangizdan vaqtincha uzadi. Ushbu ulanish qisqa vaqtga to‘xtatiladi va %4$s ingiz %5$s va mobil qurilmangizning har ikkalasiga ulanadi.</string>
+    <string name="tt_install_voice_data">TTS ovoz ma’l-ni o‘rnat</string>
+    <string name="tt_install_voice_data_required">Gear-ingizda qo‘shimcha matndan-nutqqa o‘girish tillarini o‘rnating.</string>
+    <string name="tt_language">Til</string>
+    <string name="tt_send_help_message">Yordam xabarlari yuborish</string>
+    <string name="tt_tts_language_guide">Gearingiz Parametrlarida o‘rnatgan tilingiz matnni nutqqa o‘girish tilingiz hisoblanadi. Tilingiz matnni nutqqa o‘girish mexanizmi tomonidan qo‘llab-quvvatlanmaydi, Ingliz tili (Birlashgan Qirollik) ishlatiladi.</string>
+    <string name="unable_to_connect_popup_message">Gear-ingizni mobil qurilmangizga ulab bo‘lmadi. Keyinroq qayta urinib ko‘ring.</string>
+    <string name="unable_to_connect_popup_title">Ulanib bo‘lmadi</string>
+    <string name="unable_to_lock_gear">Gear-ni bloklab bo‘lmaydi</string>
+    <string name="unable_to_reset_gear">Gear-ni tashlab bo‘lmaydi</string>
+    <string name="uninstall_applications">Ilovalarni olib tashlash</string>
+    <string name="unknown_sources_msg_new">%1$s %2$s orqali o‘rnatilmaydi. Qurilma va shaxsiy ma’lumotlaringiz noma’lum manbalar tomonidan hujum qilinishi mumkin bo‘lgan qaltis joy hisoblanadi. Siz ushbu ilovani ishlatishdan yuzaga kelishi mumkin bo‘lgan ma’lumot yo‘qotilishi yoki qurilma nosozliklariga javobgar bo‘lgan yagona shaxs hisoblanasiz. Noma’lum manbalardan olingan ilovalarni har doim o‘rnatish uchun %3$s > %4$s > %5$s ga o‘ting va %6$s ni yoqing. %7$s ni o‘rnatish uchun OKga teging.</string>
+    <string name="unknown_sources_title">Noma’lum manbalar</string>
+    <string name="update_summary">Yangilanishlarni tekshirish</string>
+    <string name="voice_control_subtitle">Gear-ingiz jiringlamayotganda yoki vibratsiyalayotganda, qo‘ng‘iroqlarga javob berish yoki ularni rad etish uchun “Javob ber” yoki “Rad et” deng.</string>
+    <string name="voicememo_link1">Nuance shartlariga</string>
+    <string name="voicememo_link3">Nuance Maxfiylik siyosati</string>
+    <string name="watchapp_all">Ilovalar</string>
+    <string name="watchapp_noapps">Ilovalar yo‘q</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Yangilanmoqda…</string>
+    <string name="wifi_only">Faqat Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Wi-Fi tarmoqqa ulanganda, faqat yangilashlarni yuklab olish.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

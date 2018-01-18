@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0dip">
+            <ImageView android:layout_gravity="center" android:id="@id/mobileToGearImage" android:layout_width="250.0dip" android:layout_height="116.0dip" android:src="@drawable/forward_calls_to_gear" />
+        </LinearLayout>
+        <TextView android:textSize="19.0sp" android:linksClickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="12.0dip" android:text="@string/callforwarding_help_des1" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/gearToMobileLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/gear_to_mobile" custom:subtext="@string/gear_to_mobile_des" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/GearNumberLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/number_setting" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/HelpLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/menu_help" />
+    </LinearLayout>
+</ScrollView>

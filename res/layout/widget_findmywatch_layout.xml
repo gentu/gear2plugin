@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/find_mywatch_connect_layout" android:background="@drawable/manager_widget_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="20.0dip" android:textColor="@color/white" android:id="@id/find_mywatch_connect_find" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="13.0dip" android:layout_marginTop="12.0dip" android:text="@string/find_my_gear" />
+    <ImageView android:layout_gravity="right" android:id="@id/find_mywatch_connecting_widget_img" android:layout_width="70.0dip" android:layout_height="43.0dip" android:layout_marginTop="29.0dip" android:layout_marginRight="8.0dip" android:src="@drawable/b2_widget_default" />
+    <ImageView android:id="@id/find_mywatch__widgetbar_img" android:background="@drawable/manager_widget_off_bar" android:layout_width="167.0dip" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginTop="2.0dip" android:layout_marginRight="4.0dip" android:layout_marginBottom="4.0dip" />
+</LinearLayout>

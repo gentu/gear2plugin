@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/full_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/_scrollview" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/gear_structure" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+                <ImageView android:id="@id/help_structure" android:background="@drawable/help_structure_img" android:layout_width="330.0dip" android:layout_height="181.0dip" android:layout_marginLeft="6.0dip" android:layout_marginTop="26.0dip" android:layout_marginRight="6.0dip" android:layout_centerHorizontal="true" />
+                <TextView android:textSize="@dimen/dialog_quick_tutorial_textview_textsize" android:id="@id/help_structure_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="21.0dip" android:layout_marginTop="30.0dip" android:layout_marginRight="21.0dip" android:text="@string/quick_tutorial_gear_structure" android:layout_below="@id/help_structure" android:layout_centerHorizontal="true" style="@style/TextView_PopupDesc" />
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

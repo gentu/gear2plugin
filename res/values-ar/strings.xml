@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">لا يتوفّر أثناء المكالمة.</string>
+    <string name="actionbar_name">إدارة Gear</string>
+    <string name="alert_full_screen">إطار منبثق بملء الشاشة</string>
+    <string name="alert_mini">إطار منبثق صغير</string>
+    <string name="alertdialog_backkey_popup_content">تحذير</string>
+    <string name="alertdialog_disconnect_popup_description">سيتم قطع اتصال ساعة Gear. استخدم البلوتوث لإعادة الاتصال.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">سيؤدي ذلك إلى إنهاء اتصالك بـ ‎%s</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">سيتم قطع اتصال %s بالجهاز المحمول. في المرة القادمة التي تنشئ فيها اتصالاً بين هذين الجهازين، عليك استخدام البلوتوث. يمكن إنشاء أي اتصالات بعد ذلك عبر الاتصال عن بعد.</string>
+    <string name="alertdialog_uninstall_popup_content">إلغاء التثبيت</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">لم يتم تثبيت %1$s على جهازك المحمول. لاستخدام %2$s على الساعة Gear، قم بتنزيل %1$s على جهازك المحمول.</string>
+    <string name="attention_popup_title">انتباه</string>
+    <string name="auto_call_forwarding">إعادة توجيه المكالمة تلقائياً</string>
+    <string name="auto_call_forwarding_att">تحويل المكالمات تلقائياً إلى ساعة Gear</string>
+    <string name="auto_call_forwarding_desc">قم بتفعيل خيار إعادة توجيه المكالمة تلقائياً عندما تكون ساعة Gear غير متصلة بجهازك المحمول. سيؤدي ذلك إلى إعادة توجيه المكالمات الواردة من جهازك المحمول إلى ساعة Gear لحين إعادة اتصال الجهازين.</string>
+    <string name="auto_update">تحديث تلقائي</string>
+    <string name="auto_update_summary">‏‫البحث عن تحديثات تلقائيا.</string>
+    <string name="backing_up">جاري إنشاء النسخة الاحتياطية…</string>
+    <string name="backup_complete">تم إتمام النسخة الاحتياطية.</string>
+    <string name="bnr_backup">جاري إنشاء النسخة الاحتياطية…</string>
+    <string name="bnr_bakcup_title">نسخة احتياطية</string>
+    <string name="bnr_cancel">إلغاء</string>
+    <string name="bnr_canel">إلغاء</string>
+    <string name="bnr_error_occurred">حدث خطأ</string>
+    <string name="bnr_except">%1$s (باستثناء %2$s)</string>
+    <string name="bnr_except_autolock">قفل تلقائي</string>
+    <string name="bnr_except_remoteconnection">اتصال عن بعد</string>
+    <string name="bnr_except_texttemplate">نماذج نصية</string>
+    <string name="bnr_next">التالي</string>
+    <string name="bnr_no">لا</string>
+    <string name="bnr_ok">موافق</string>
+    <string name="bnr_reset_gear">لتوصيل جهاز جديد، ستتم إعادة ضبط الساعة Gear إلى إعدادات المصنع الافتراضية.</string>
+    <string name="bnr_reset_gear_move_setupwizard">لم يكتمل إعداد الساعة Gear. معالج الإعداد مفتوح حاليا في الساعة Gear، ولكن للاتصال بالساعة Gear، يلزم فتح معالج الإعداد في إدارة Gear على هذا الجهاز أيضا.</string>
+    <string name="bnr_reset_initialization">إشعار</string>
+    <string name="bnr_restore">استعادة</string>
+    <string name="bnr_restored">تمت استعادة البيانات.</string>
+    <string name="bnr_setupwizard_title2">نسخ احتياطي واستعادة</string>
+    <string name="bnr_yes">نعم</string>
+    <string name="bt_connected">تم الاتصال</string>
+    <string name="bt_disconnected">تم الفصل</string>
+    <string name="bt_unpaired">غير مقترن</string>
+    <string name="button_finish">إنهاء</string>
+    <string name="button_restore">استعادة</string>
+    <string name="call">اتصال</string>
+    <string name="call_check_gear_status_when_cfwd">يتعذر تفعيل وظيفتي إعادة توجيه المكالمات من الهاتف المحمول إلى ساعة Gear ومن ساعة Gear إلى الهاتف المحمول في الوقت نفسه.</string>
+    <string name="call_dualsim1">بطاقة SIM ‎١</string>
+    <string name="call_dualsim1sim2">بطاقتا SIM</string>
+    <string name="call_dualsim2">بطاقة SIM ‎٢</string>
+    <string name="call_forwarding">تحويل المكالمات</string>
+    <string name="call_forwarding_agree">أنا أوافق.</string>
+    <string name="call_forwarding_desc">أعد توجيه المكالمات الواردة من جهازك المحمول إلى ساعة Gear.</string>
+    <string name="call_forwarding_desc_vzw">قم بتحويل المكالمات الواردة التي لم يتم الرد عليها من هاتفك إلى ساعة Gear.</string>
+    <string name="call_forwarding_disable_msg">تم تقديم طلب لإلغاء تفعيل خيار إعادة توجيه المكالمات من جهازك المحمول إلى ساعة Gear. قد تؤثر حالتا شبكة هاتفك المحمول وجهازك المحمول في النتائج.</string>
+    <string name="call_forwarding_enable_msg">تم تقديم طلب لتفعيل خيار إعادة توجيه المكالمات من جهازك المحمول إلى ساعة Gear. قد تؤثر حالتا شبكة هاتفك المحمول وجهازك المحمول في النتائج.</string>
+    <string name="call_forwarding_for_att_msg">"عندما يتم قطع اتصال ساعة Gear بالهاتف الذكي، فسوف يتم تحويل المكالمات الواردة إلى الجهاز المحمول إلى ساعة Gear تلقائياً.
+- سوف يصدر الهاتف الذكي رنيناً بضع مرات وبعد ذلك سيتم تحويل المكالمة إلى ساعة Gear. 
+- إذا لم تقم بالرد على المكالمة على ساعة Gear، فقد يترك المتصل بريداً صوتياً يمكنك الاستماع إليه على ساعة Gear.
+ هل تريد تشغيل تحويل المكالمة تلقائياً الآن؟"</string>
+    <string name="call_forwarding_notify_msg">إنّ خيار إعادة توجيه المكالمات من جهازك المحمول إلى ساعة Gear هو حالياً قيد التفعيل. ستتم إعادة توجيه المكالمات الواردة على جهازك المحمول إلى ساعة Gear. إذا لم تكن ساعة Gear بحوزتك، انتقل إلى الضبط وقم بإلغاء تفعيل خيار إعادة توجيه المكالمة تلقائياً للتأكد من عدم تفويت أي مكالمة.</string>
+    <string name="call_forwarding_turning_off_notify_msg">جار إلغاء تفعيل تحويل المكالمات الصوتية…</string>
+    <string name="call_forwarding_turning_on_notify_msg">جار تفعيل تحويل المكالمات‬ الصوتية…</string>
+    <string name="call_no_gear_number">بدون أرقام</string>
+    <string name="call_select_dualsim_title">تحديد بطاقة SIM</string>
+    <string name="call_voice_control">التحكم الصوتي</string>
+    <string name="callforwarding_help_des1">بدّل الجهاز الذي سيتم تحويل المكالمات إليه تلقائياً بحسب ما إذا كانت الأجهزة متصلة عبر البلوتوث أو متصلة عن بعد.</string>
+    <string name="callforwarding_help_des2">تلقَّ مكالمات محولة إلى جهازك المحمول على ساعة Gear أثناء التنقل وارتداء ساعة Gear واتصالها عن بعد بالجهاز المحمول.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="cf_activated">تم التفعيل</string>
+    <string name="cf_deactivate_failed">فشل إلغاء تفعيل خيار إعادة توجيه المكالمة.</string>
+    <string name="cf_deactivated">تم إلغاء التفعيل</string>
+    <string name="clock_new_clock_settings_applied_via_gear">تم تطبيق ضبط الساعة الجديدة عبر ساعة Gear.</string>
+    <string name="clocks_download_more_clocks">تنزيل مزيد من الساعات</string>
+    <string name="clocks_noti_uninstall_clock">سيتم إلغاء تثبيت %s.</string>
+    <string name="clocks_noti_uninstall_idle_clock">سيتم إلغاء تثبيت ‎%1$s وتعيين ‎%2$s باعتباره الساعة الافتراضية</string>
+    <string name="clocks_title_basic_clocks">الساعات الأساسية</string>
+    <string name="clocks_title_downloaded_clocks">الساعات التي تم تنزيلها</string>
+    <string name="clocks_title_style_clocks">ساعات عصرية</string>
+    <string name="clocks_uninstalled">تم إلغاء التثبيت.</string>
+    <string name="clocks_uninstalling">جار إلغاء التثبيت…</string>
+    <string name="close">اغلاق</string>
+    <string name="closing_samsung_gear_message">تمت إعادة ضبط ساعة Gear. سيتم إغلاق تطبيق Samsung Gear بعد قليل.</string>
+    <string name="closing_samsung_gear_message_jpn">تمت إعادة ضبط Gear. سيتم إغلاق تطبيق Gear بعد قليل.</string>
+    <string name="closing_samsung_gear_title">إغلاق تطبيق Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">إغلاق تطبيق Gear</string>
+    <string name="cloud_backup_no_information">أبدا</string>
+    <string name="cloud_backup_restore_backup_now">نسخ البيانات احتياطيًا</string>
+    <string name="cloud_backup_restore_restore_now">استعادة البيانات</string>
+    <string name="cmw_agree">أوافق</string>
+    <string name="cmw_eula_agree">تفهمت البنود والشروط أعلاه ووافقت عليها.</string>
+    <string name="cmw_for_setting">لقد تم إلغاء تفعيل خدمات المواقع. انتقل إلى الضبط.</string>
+    <string name="cmw_high_accuracy_dialog_message">للحصول على أسرع وأدق اكتشاف للمواقع، حدد ”الدقة العالية“ في الموقع > الوضع.</string>
+    <string name="cmw_high_accuracy_dialog_title">تحديد الدقة العالية</string>
+    <string name="cmw_legal_content">عبر تفعيل ’’مشاركة الموقع‘‘، أنت توافق على نقل بيانات الموقع المقترنة بهاتفك المحمول و/أو جهاز Gear عبر خادم Samsung بهدف توفير خدمتي العثور على Gear والعثور على جهازي. لم يتم تخزين أي بيانات أو معلومات حول موقع جهازك على خادم Samsung.</string>
+    <string name="cmw_legal_content1">عبر تفعيل ’’%1$s و%2$s‘‘، أنت تقرُّ بأنه سيتم نقل بيانات الموقع المقترنة بهاتفك المحمول و/أو جهاز Gear عبر خادم Samsung بهدف توفير خدمتي %1$s و%2$s. لا يتم تخزين أي بيانات أو معلومات حول موقع جهازك على خادم Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">عبر تفعيل ’’%1$s و%2$s‘‘، أنت تقرُّ بأنه سيتم نقل بيانات الموقع المقترنة بهاتفك المحمول عبر خادم Samsung بهدف توفير خدمة %2$s. لا يتم تخزين أي بيانات أو معلومات حول موقع جهازك على خادم Samsung.</string>
+    <string name="cmw_legal_content_2">سياسة خصوصية Samsung</string>
+    <string name="cmw_legal_title">الإشعارات القانونية</string>
+    <string name="cmw_location">تفعيل خدمات الموقع</string>
+    <string name="cmw_show_on_map">إظهار على الخريطة</string>
+    <string name="color_black">أسود</string>
+    <string name="color_blue">أزرق</string>
+    <string name="color_brown">بني</string>
+    <string name="color_gray">رمادي</string>
+    <string name="color_green">أخضر</string>
+    <string name="color_light_sky_blue">أزرق سماوي فاتح</string>
+    <string name="color_medium_purple">أرجواني‬ متوسط</string>
+    <string name="color_orange">برتقالي</string>
+    <string name="color_pink">زهري</string>
+    <string name="color_purple">أرجواني</string>
+    <string name="color_red">أحمر</string>
+    <string name="color_spring_green">أخضر ربيعي</string>
+    <string name="common_none">لا شيء</string>
+    <string name="common_off">غير مفعل</string>
+    <string name="common_on">مفعل</string>
+    <string name="common_recent_apps">تطبيقات حديثة</string>
+    <string name="connect_popup_content">جاري الاتصال بـ %s…</string>
+    <string name="connected_by_trasport_BT">تم الاتصال عبر البلوتوث</string>
+    <string name="connected_by_trasport_SCS">تم الاتصال عن بعد</string>
+    <string name="connecting_content">يتم الاتصال بالساعة Gear</string>
+    <string name="connecting_doc">بعد الاتصال بـ %1$s، يمكنك تغيير الضبط وتثبيت التطبيقات عليها عبر %2$s.</string>
+    <string name="connecting_popup_message">جار الاتصال بـ Gear…</string>
+    <string name="connecting_popup_title">اتصال بالساعة Gear</string>
+    <string name="connecting_to_gear_ing">جار الاتصال بـ Gear…</string>
+    <string name="connectingdoc">بعد الاتصال بالساعة Gear، يمكنك تغيير إعداداتها وتثبيت التطبيقات عليها عبر إدارة Gear.</string>
+    <string name="connection_error_dialog_message">لم يتم توصيل الجهاز. سيحاول الاتصال مرة أخرى.</string>
+    <string name="dialog_check_phone_number_msg1">تأكّد من أنّ المعلومات التالية صحيحة:</string>
+    <string name="dialog_check_phone_number_msg2">رقم الهاتف المحمول: %s</string>
+    <string name="dialog_check_phone_number_msg3">رقم هاتف ساعة Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">انقر فوق ”موافق“ لتأكيد خيار تحويل المكالمة تلقائياً وتفعيله.</string>
+    <string name="dialog_enable_remote_connection_desc">لتفعيل تحويل المكالمة تلقائياً، قم بتفعيل الاتصال عن بعد، ثم أعد المحاولة.</string>
+    <string name="dialog_enable_remote_connection_title">تفعيل الاتصال عن بعد</string>
+    <string name="dialog_permission_message">يتعذر استخدام %s. انقر فوق ”الضبط“، وانتقل إلى معلومات التطبيق > الأذونات ثم اسمح بالأذونات التالية وحاول مرة أخرى:</string>
+    <string name="dialog_popup_button_cancel">إلغاء</string>
+    <string name="dialog_reverse_msg">بحسب مزود الخدمة، قد يتوجب عليك إجراء اشتراكات منفصلة للسماح لجهازك المحمول وساعة Gear باستخدام هذه الميزة. قد يترتب على ذلك فرض تكاليف إضافية.</string>
+    <string name="dialog_set_phone_number_msg">لتفعيل خيار تحويل المكالمة تلقائياً، اضبط أرقام هواتف الأجهزة التي تريد تحويل المكالمات الواردة إليها ومنها.</string>
+    <string name="dialog_set_phone_number_title">تفعيل تحويل المكالمة تلقائياً</string>
+    <string name="disable_loc_text">سيتم إلغاء تفعيل مشاركة الموقع. لن تتمكن من استخدام معلومات الموقع للبحث عن ساعة Gear أو جهازك المحمول عبر خيارَي البحث عن ساعة Gear أو بحث عن جهازي.</string>
+    <string name="disable_loc_text_no_gps">سيتم إلغاء تفعيل مشاركة الموقع. لن تتمكن من استخدام معلومات الموقع للبحث عن الجهاز المحمول عبر بحث عن جهازي.</string>
+    <string name="disable_remote_connection">إلغاء تفعيل الاتصال عن بعد</string>
+    <string name="disable_remote_connection_fmm_fmd">البحث عن ساعة Gear والبحث عن جهازي</string>
+    <string name="disable_remote_connection_receiving_blocked">تلقي الرسائل، ورسائل البريد الإلكتروني، والإشعارات من الجهاز المحمول</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">تلقي رسائل البريد الإلكتروني والإشعارات من الجهاز المحمول</string>
+    <string name="disable_remote_connection_warning">سيتم إلغاء تفعيل الاتصال عن بعد. لن تتوفر الوظائف التالية لحين اتصال ساعة Gear بجهازك المحمول عبر البلوتوث مجدداً:</string>
+    <string name="disable_share_location">إلغاء تفعيل مشاركة الموقع</string>
+    <string name="disconnect_popup_content">جار قطع اتصال %s…</string>
+    <string name="do_not_show_again">عدم العرض مرة أخرى</string>
+    <string name="enable_auto_call_forwarding_msg">قم بإعادة توجيه المكالمات الواردة من جهازك المحمول إلى ساعة Gear تلقائياً بينما تكون ساعة Gear غير متصلة. قد يترتب على ذلك فرض تكاليف إضافية وفقاً لمزود الخدمة. انقر فوق ”موافق“ لتفعيل خيار إعادة توجيه المكالمة تلقائياً.</string>
+    <string name="enable_auto_call_forwarding_title">تفعيل إعادة توجيه المكالمة تلقائياً</string>
+    <string name="enable_more_notifications_enable">تفعيل</string>
+    <string name="enable_notification_access">تفعيل الوصول إلى الإشعارات</string>
+    <string name="enable_notification_access_desc">"ستقرأ هذه الوظيفة كل الإشعارات التي تتلقاها والتي قد تتضمن معلومات شخصية مثل جهات الاتصال والرسائل التي تم إرسالها إليك. وستستبعد أيضاً هذه الإشعارات أو تحدد الإجراءات ذات الصلة بها.
+لتلقي الإشعارات على ساعة Gear، انقر فوق ”تفعيل“، ثم قم بتفعيل %s."</string>
+    <string name="enable_share_location">تفعيل مشاركة الموقع</string>
+    <string name="enabled_loc">تم تفعيل مشاركة الموقع.</string>
+    <string name="error_enter_device_name">أدخل اسم الجهاز.</string>
+    <string name="error_occurred">حدث خطأ.</string>
+    <string name="eula_i_agree">أنا أوافق.</string>
+    <string name="failed_tshare_msg">فشل تفعيل خيار تحويل المكالمة. ما من استجابة من T share.</string>
+    <string name="find_my_device">البحث عن جهازي</string>
+    <string name="find_my_gear">البحث عن ساعة Gear</string>
+    <string name="find_watch_btn_start">بدء</string>
+    <string name="find_watch_btn_stop">إيقاف</string>
+    <string name="find_watch_off">للبحث عن الساعة Gear، انقر فوق ابدأ. سوف تصدر الساعة Gear صوتا وبعدئذ يتم تشغيل شاشتها.</string>
+    <string name="find_watch_on">لإيقاف البحث عن Gear، انقر فوق ”إيقاف“. سيوقف Gear تشغيل الصوت وسيتم إيقاف تشغيل شاشته.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">سيتم إلغاء تثبيت %1$s، وسيتم تطبيق الخط الافتراضي إلى %2$s.</string>
+    <string name="force_wifi_direct_msg">سيتم تثبيت التطبيق عبر Wi-Fi مباشر. سيؤدي ذلك إلى إنهاء اتصال Wi-Fi مباشر. إذا قمت بإلغاء التثبيت، فعليك تنزيل هذا التطبيق مرة أخرى لتثبيته.</string>
+    <string name="force_wifi_direct_title">تثبيت</string>
+    <string name="force_wifi_install">تثبيت</string>
+    <string name="gear2_backup_confirm_text">في حال نسخت بياناتك احتياطيًا الآن، ستُستبدل بيانات النسخ الاحتياطي الحاليّة لـ Gear المخزّنة على الجهاز المحمول بأحدث بيانات Gear.</string>
+    <string name="gear2_restore_confirm_text">في حال قمت باستعادة بياناتك، ستُحذف البيانات المخزّنة حاليًّا على Gear وتُستبدل ببيانات النسخ الاحتياطي الحاليّة لـ Gear.</string>
+    <string name="gear2_text">"استخدم وحدة تخزين الجهاز لنسخ محتوى %1$s احتياطًيا:
+‏%2$s‏
+
+إذا نسخت مسبقًا هذا المحتوى احتياطيًّا، يمكنك استعادته إلى %3$s الآن.
+
+قد تستغرق العملية بعض الوقت بحسب حجم الملف."</string>
+    <string name="gear2_text_import3">الضبط</string>
+    <string name="gear_bnr_desc">"استخدم وحدة التخزين على جهازك المحمول لنسخ بيانات %1$s التالية احتياطياً: %2$s
+
+إذا قمت بنسخ بيانات %3$s احتياطياً سابقاً، فيمكنك استعادتها إلى %4$s الآن.
+
+قد يستغرق ذلك بعض الوقت وفقاً لحجم الملفات."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">يقوم الجهاز المحمول الآن بالمسح بحثاً عن ساعة Gear. سيستغرق ذلك بضع دقائق. قد يكون من الصعب تحديد موقع ساعة Gear إذا كانت في أماكن مغلقة.</string>
+    <string name="gear_location_popup_title">تحديد موقع ساعة Gear</string>
+    <string name="gear_location_text">موقع Gear</string>
+    <string name="gear_lock_success">تم قفل ساعة Gear.</string>
+    <string name="gear_lock_text">قفل ساعة Gear</string>
+    <string name="gear_locked">تم قفل ساعة Gear</string>
+    <string name="gear_locked_text1">تم إقفال ساعة Gear. لإلغاء القفل، قم بتوصيل ساعة Gear بالجهاز المحمول عبر البلوتوث.</string>
+    <string name="gear_phone_number">رقم هاتف ساعة Gear</string>
+    <string name="gear_phone_number_popup_desc">ستتم إعادة توجيه كل المكالمات الموجهة إلى الجهاز المحمول إلى %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">سيتم تحويل كل المكالمات التي لم يتم الرد عليها الواردة إلى الجهاز المحمول إلى %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">لإقفال ساعة Gear، يجب أولاً تفعيل الاتصال عن بعد.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">لإعادة ضبط ساعة Gear، يجب أولاً تفعيل الاتصال عن بعد.</string>
+    <string name="gear_reset_text">إعادة ضبط ساعة Gear</string>
+    <string name="gear_to_mobile">من Gear إلى الهاتف</string>
+    <string name="gear_to_mobile_des">تلقى المكالمات الموجهة إلى ساعة Gear على جهازك المحمول أثناء اتصال الجهازين عبر البلوتوث.</string>
+    <string name="gear_unable_to_locate_message">فشل العثور على الموقع. حاول مرة أخرى لاحقًا.</string>
+    <string name="gear_unable_to_locate_title">يتعذّر تحديد موقع ساعة Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">خلفيات</string>
+    <string name="home_bg_color">الألوان</string>
+    <string name="home_bg_colors_title">الألوان المتوفرة</string>
+    <string name="home_bg_delete_actionbar_selected">تم التحديد</string>
+    <string name="home_bg_delete_dialog_msg">ستتم إزالة %d من الخلفيات من إدارة Gear وساعة Gear.</string>
+    <string name="home_bg_delete_select_all">اختيار الكل</string>
+    <string name="home_bg_max_more_image_toast">تم بلوغ الحد الأقصى لعدد الخلفيات (%d).</string>
+    <string name="home_bg_more_images">صور أخرى</string>
+    <string name="home_bg_popup_wallpaper_msg">جار تنزيل خلفيات ساعة Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">تنزيل الخلفيات</string>
+    <string name="home_bg_toast_saved">تم الحفظ.</string>
+    <string name="home_bg_wallpaper">خلفية الشاشة</string>
+    <string name="home_bg_wallpapers_title">الخلفيات المتوفرة</string>
+    <string name="homelayout_apps">التطبيقات</string>
+    <string name="incoming_calls_title">المكالمات الواردة</string>
+    <string name="info_build_number">نسخة البرنامج</string>
+    <string name="info_model_number">رقم الطراز</string>
+    <string name="info_software_update">تحديث البرامج</string>
+    <string name="information_provision_agreement">اتفاقية تقديم المعلومات</string>
+    <string name="information_provision_agreement_mgs">"تستخدم مذكرة الصوت التقنيات المقدمة من موفر خدمة تابع لجهة خارجية تعرف باسم Nuance Communications, Inc. ولذلك، يتم تخزين معلومات الصوت بشكل حتمي في خادم يتم تشغيله بواسطة Nuance (في الولايات المتحدة) ويتطلب استخدام مذكرة الصوت الموافقة على بنود وشروط Nuance.
+ تحتفظ Nuance بحقها في استخدام إدخال الصوت لأغراض تحسين الخدمات وتطوير التقنيات. كذلك، تحتفظ Nuance بحقها في تقديم إدخال الصوت المذكور سابقا إلى شركاء Nuance. يتم تخزين معلومات إدخال الصوت حتى يتم تحقيق الأهداف المذكورة مسبقا. للحصول على معلومات حول خدمات مذكرة الصوت، يرجى قراءة نهج خصوصية Samsung ونهج خصوصية Nuance.
+ لا يمكنك استخدام مذكرة الصوت في حالة عدم الموافقة على تقديم المعلومات الموضحة أعلاه."</string>
+    <string name="init_manage_notifications_desc">حدد التطبيقات التي تريد استلام إشعارات منها على %1$s. لتوفير طاقة بطارية %2$s، ألغِ تحديد التطبيقات التي لا تريد استلام إشعارات منها.</string>
+    <string name="install_in_progress">جارٍ…</string>
+    <string name="invalid_rename_character">تم إدخال حرف غير صحيح. أعد المحاولة.</string>
+    <string name="latest_version">تم تثبيت أحدث إصدار</string>
+    <string name="latitude">المدى</string>
+    <string name="limit_notification_desc">قم بحظر ظهور التنبيهات على ساعة Gear بينما يكون الجهاز المحمول قيد الاستخدام.</string>
+    <string name="limit_notification_dialog_desc">يتعذر تفعيل إشعارات التقييد على ساعة Gear. لم يتم ضبط أي قفل شاشة على جهازك المحمول.</string>
+    <string name="limit_notification_title">حد الإشعارات</string>
+    <string name="location_info_title">مشاركة الموقع</string>
+    <string name="lock_gear_legal_text1">عبر استخدام قفل Gear، يمكنك قفل Gear عن بُعد لمنع الاستخدام غير المعتمد. يمكنك إلغاء قفل Gear عبر إعادة توصيله بالجهاز المحمول.</string>
+    <string name="lock_gear_legal_text2">قد تستغرق عملية قفل Gear بعض الوقت لتعمل أو حتى تفشل وفقاً لحالة Gear، أو الجهاز المحمول، أو بيئة الشبكة.</string>
+    <string name="lock_gear_text">يتعذر إقفال ساعة Gear بينما يكون الجهاز المحمول وساعة Gear متصلان عبر البلوتوث.</string>
+    <string name="login_to_samsung_account">تسجيل الدخول إلى Samsung account</string>
+    <string name="login_to_samsung_account_desc">لتفعيل الخيار اتصال عن بعد على ساعة Gear، سجّل الدخول إلى Samsung account.</string>
+    <string name="login_to_samsung_account_full_desc">"سجّل الدخول إلى Samsung account لاستخدام الميزات التالية حتى عند عدم الاتصال عبر البلوتوث:
+- جارٍ استلام الإشعارات
+- جارٍ استخدام التطبيقات عبر الاتصال عن بعد.
+قد يترتب على استخدام الاتصال عن بعد فرض رسوم إضافية."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"عندما لا تكون متصلاً بالهاتف عبر البلوتوث، فسوف يمكّنك Samsung account من القيام بما يلي عبر بيانات الهاتف المحمول:
+- تلقي الرسائل، ورسائل البريد الإلكتروني، وإشعارات أخرى
+- استخدام التطبيقات على ساعة Gear والتي تحتاج إلى اتصال بالهاتف عبر الاتصال عن بعد.
+
+لاحظ أن الاتصال عن بعد من خلال Samsung account يستخدم خطة البيانات."</string>
+    <string name="longitude">خط الطول</string>
+    <string name="main_bt_unpaired">غير مقترن</string>
+    <string name="main_disconnected">تم الفصل</string>
+    <string name="manage_applications">إدارة التطبيقات</string>
+    <string name="manage_notifications">إدارة الإشعارات</string>
+    <string name="manual_call_forwarding_for_att_msg">"يمكن تحويل المكالمات الموجهة إلى الهاتف الذكي إلى ساعة Gear.
+- سيصدر الهاتف الذكي رنيناً عدة مرات وسيتم تحويل المكالمة إلى ساعة Gear.
+- في حال عدم الرد على المكالمة على ساعة Gear، قد يترك المتّصل بريداً صوتياً يمكن الاستماع إليه على ساعة Gear.‏
+هل ترغب في تفعيل ميزة تحويل المكالمات الآن؟"</string>
+    <string name="manual_call_forwarding_popup_desc">إن إعادة توجيه المكالمة هي خدمة شبكة تقوم بتحويل المكالمات الواردة على %s إلى رقم محدد. استناداً إلى مزود الخدمة، قد يتوجب عليك الاشتراك للسماح لساعة Gear باستخدام هذه الميزة. قد يترتب على ذلك فرض تكاليف إضافية.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">الجهاز المحمول</string>
+    <string name="masterapp_not_installed">لم يتم تثبيت %1$s على جهازك المحمول. لاستخدام %2$s على الساعة Gear، قم بتنزيل %1$s على جهازك المحمول.</string>
+    <string name="masterapp_not_installed_goto_deeplink">لم يتم تثبيت %1$s على جهازك المحمول. لاستخدام %2$s على الساعة Gear، قم بتنزيل %1$s على جهازك المحمول. سيتم تحويلك إلى شاشة التنزيل‬.</string>
+    <string name="masterapp_uninstalled">تم إلغاء تثبيت %1$s من جهازك المحمول. لاستخدام %2$s على الساعة Gear، قم بتنزيل %1$s على جهازك المحمول.</string>
+    <string name="maximum_size_warning">تم بلوغ الحد الأقصى لعدد الأحرف.</string>
+    <string name="menu_about_device">حول %s</string>
+    <string name="menu_actionbar_remove">حذف</string>
+    <string name="menu_actionbar_uninstall">إلغاء التثبيت</string>
+    <string name="menu_appsandsettigns">التطبيقات والضبط</string>
+    <string name="menu_clock">الساعة</string>
+    <string name="menu_display">تعديل الشاشة الرئيسية</string>
+    <string name="menu_downloaded_font">الخطوط التي تم تنزيلها</string>
+    <string name="menu_filetransfertogear">نقل الملفات إلى ساعة GEAR</string>
+    <string name="menu_gallery">صورة</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">اللياقة</string>
+    <string name="menu_help">مساعدة</string>
+    <string name="menu_home_screen">مصمّم الشاشة الرئيسية</string>
+    <string name="menu_music">موسيقى</string>
+    <string name="menu_myapp">تطبيقاتي</string>
+    <string name="menu_notification">إشعارات</string>
+    <string name="menu_rename">تغيير الاسم</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">الضبط</string>
+    <string name="mobile_to_gear">من الهاتف إلى Gear</string>
+    <string name="mobile_to_gear_des">تلقى مكالمات موجهة إلى جهازك المحمول على ساعة Gear عندما يكون الجهازان متصلين عن بعد.</string>
+    <string name="monotype_default_font">الخط الافتراضي</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">شوكو كوكي</string>
+    <string name="monotype_dialog_font_cool">جاز هادئ</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">إكليل الجبل</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">المزيد</string>
+    <string name="more_options">مزيد من الخيارات</string>
+    <string name="multisim_title">بطاقات SIM المتعددة</string>
+    <string name="navigate_up">التنقل لأعلى</string>
+    <string name="new_eula_error_log">الإبلاغ عن معلومات التشخيص</string>
+    <string name="new_eula_fmd2">البحث عن جهازي</string>
+    <string name="new_eula_fmg2">البحث عن ساعة Gear</string>
+    <string name="new_eula_news_briefing">ملخص الأخبار</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">لوحة مفاتيح Samsung</string>
+    <string name="new_notification_list">عرض قائمة</string>
+    <string name="new_notifications_list_desc">إظهار قائمة الإشعارات التي تم تلقيها على ساعة Gear على الجهة اليسرى من الساعة.</string>
+    <string name="no_application_selected">لم يتم تحديد أي تطبيقات</string>
+    <string name="no_downloaded_applications">لم يتم تنزيل أي تطبيقات</string>
+    <string name="no_of_application_selected">تم تحديد %d من التطبيقات</string>
+    <string name="no_remote_connection_popup_msg">لتفعيل خيار إعادة توجيه المكالمة تلقائياً، افتح تطبيق Samsung Gear على جهازك المحمول وقم بتفعيل الاتصال عن بعد ثم حاول مرة أخرى.</string>
+    <string name="no_remote_connection_popup_title">تفعيل الاتصال عن بعد</string>
+    <string name="notification_type">نوع الإشعار</string>
+    <string name="notification_type_desc">أثناء استخدام ساعة Gear، سيتم عرض إشعاراتك كإطارات منبثقة صغيرة في أعلى الشاشة، وذلك بغض النظر عن التحديد أعلاه.</string>
+    <string name="number_setting">ضبط الرقم</string>
+    <string name="ok">موافق</string>
+    <string name="once">مرة واحدة</string>
+    <string name="one_application_selected">تم تحديد تطبيق واحد</string>
+    <string name="popup_attention_email_msg">إن بعض حسابات البريد الإلكتروني غير محددة في ضبط البريد الإلكتروني. لتلقي الإشعارات من هذه الحسابات على ساعة Gear، حدد ”إشعارات البريد الإلكتروني“ في ضبط البريد الإلكتروني.</string>
+    <string name="popup_attention_message_msg">لإرسال الرسائل واستلامها على Gear، سيتم تغيير تطبيق المراسلة الافتراضي من %s إلى المراسلة.</string>
+    <string name="popupmenu_search_for_new_device">إدارة الأجهزة</string>
+    <string name="preview_message_desc">عرض معاينة للإشعارات التي تم استلامها باستثناء تنبيهات المكالمات الواردة والتنبيهات في إطارات الإشعارات المنبثقة على ساعة Gear.</string>
+    <string name="preview_message_title">معاينة الرسالة</string>
+    <string name="primary">أساسي</string>
+    <string name="privacypolicy_fmgfmd">عبر تفعيل ’’%1$s و%2$s‘‘، أنت تقرُّ بأنه سيتم نقل بيانات الموقع المقترنة بهاتفك المحمول و/أو جهاز Gear عبر خادم Samsung بهدف توفير خدمتي %1$s و%2$s. لا يتم تخزين أي بيانات أو معلومات حول موقع جهازك على خادم Samsung.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">عبر تفعيل ’’%1$s و%2$s‘‘، أنت تقرُّ بأنه سيتم نقل بيانات الموقع المقترنة بهاتفك المحمول عبر خادم Samsung بهدف توفير خدمة %2$s. لا يتم تخزين أي بيانات أو معلومات حول موقع جهازك على خادم Samsung.</string>
+    <string name="privacypolicy_newsbriefing">يوفر هذا التطبيق إمكانية التفاعل مع الوسائط الاجتماعية والإنترنت عبر طرق متنوعة ومبتكرة. إذا قمت بتفعيل هذا التطبيق، ستقوم الخدمة بجمع المعلومات حول كيفية استخدامك للخدمات بما في ذلك كيفية عرضك للمحتوى والإعلانات والتفاعل معها. للحصول على مزيد من التفاصيل، يُرجى مراجعة %1$sشروط الاستخدام%2$s و%3$sسياسة الخصوصية%4$s الخاصة بـ Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">سياسة خصوصية Samsung</string>
+    <string name="progressdialog_please_wait">يرجى الانتظار …</string>
+    <string name="progressdialog_reinstalled_message">جاري التثبيت…</string>
+    <string name="progressdialog_reinstalled_popup_content">إعادة التثبيت</string>
+    <string name="providerapp_reinstalled">لا يعمل %s بطريقة صحيحة، لذا يلزم إلغاء تثبيته. ستتم إعادة تثبيته.</string>
+    <string name="quick_tutorial_add_shortcuts">لإضافة اختصارات تطبيقات إلى شاشة Gear الرئيسية، انتقل إلى التطبيقات على Gear وانقر مع الاستمرار فوق رمز ”تطبيق“، ثم اسحبه وأسقطه على رمز الشاشة الأساسية في أعلى الشاشة.</string>
+    <string name="quick_tutorial_gear_structure">تظهر الساعة على الصفحة الرئيسية من شاشة Gear الرئيسية. تُظهر الصفحات الواقعة على الجهة اليسرى من الساعة الإشعارات، وتلك الواقعة على الجهة اليمنى التطبيقات المصغرة. اسحب الشاشة نحو الأعلى من الحافة السفلية لعرض التطبيقات.</string>
+    <string name="quick_tutorial_noti_title">مقدمة عن %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">ساعة Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">لفتح S Voice، قل ”Hi Gear“ أو اضغط مرتين على مفتاح الشاشة الرئيسية من أي شاشة.</string>
+    <string name="quick_tutorial_swipe_downwards">اضغط مرتين على المفتاح الرئيسي لفتح تطبيقك المفضل. يمكنك تغيير تطبيقك المفضل في الضبط.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">اضغط مرتين على مفتاح التشغيل لفتح تطبيقك المفضل. يمكنك تغيير تطبيقك المفضل في الضبط.</string>
+    <string name="quick_tutorial_to_go_back">‏‫اسحب لأسفل الشاشة من ناحية الحافة للرجوع.</string>
+    <string name="remote_connection_disabled_settings">الضبط</string>
+    <string name="remote_connection_enabled_desc">سيتم توصيل Gear عن بعد إذا تم إنهاء اتصال البلوتوث.</string>
+    <string name="requested">تم الطلب</string>
+    <string name="reset_gear_legal_text1">عبر استخدام إعادة ضبط Gear، يمكنك حذف كل البيانات على Gear عن بُعد. بعد إجراء مثل هذا الحذف، لا يمكن استعادة البيانات المحذوفة ولا يعود بإمكانك استخدام ميزة العثور على Gear.</string>
+    <string name="reset_gear_legal_text2">قد تستغرق عملية إعادة ضبط Gear بعض الوقت لتعمل أو حتى تفشل وفقاً لحالة Gear، أو الجهاز المحمول، أو بيئة الشبكة.</string>
+    <string name="restore_complete">اكتملت الاستعادة.</string>
+    <string name="restore_some_error">فشلت الاستعادة. حاول مرة أخرى.</string>
+    <string name="restore_try_again">إعادة محاولة</string>
+    <string name="restore_watch_settings_content2">"استخدم وحدة تخزين الجهاز لنسخ محتوى %1$s احتياطًيا:
+‏%2$s‏
+
+إذا نسخت مسبقًا هذا المحتوى احتياطيًّا، يمكنك استعادته إلى %3$s الآن.
+
+قد تستغرق العملية بعض الوقت بحسب حجم الملف.
+
+ يمكنك تغيير ضبط النسخ الاحتياطي في الضبط."</string>
+    <string name="restore_watch_settings_content2_import1">ساعة Gear</string>
+    <string name="restore_watch_settings_content2_import3">الضبط</string>
+    <string name="retrieve_dialog_desc">جارٍ استرداد قائمة التطبيقات…</string>
+    <string name="sa_email">البريد الإلكتروني</string>
+    <string name="sa_error_0203_desc">لتفعيل الاتصال عن بعد، قم بتحديث Samsung account يدويًا.</string>
+    <string name="sa_error_0203_title">تحديث Samsung account</string>
+    <string name="sa_error_0301_desc">حدث خطأ في الشبكة أثناء تسجيل الدخول إلى Samsung account على جهازك المحمول.</string>
+    <string name="sa_error_0301_title">فشل تفعيل الوظيفة</string>
+    <string name="sa_error_0302_desc">حدث خطأ في الشبكة أثناء تسجيل الدخول إلى Samsung account على جهازك المحمول.</string>
+    <string name="sa_error_0302_title">فشل تفعيل الوظيفة</string>
+    <string name="sa_error_0401_desc">حدث خطأ. حاول مرة أخرى.</string>
+    <string name="sa_error_0401_title">خطأ</string>
+    <string name="safety_message_interval_10minutes">كل ١٠ دقائق</string>
+    <string name="safety_message_interval_20minutes">كل 20 دقيقة</string>
+    <string name="samsung_apps_info">يمكن حذف التطبيقات التي تم تنزيلها عبر %1$s عند إلغاء تثبيت %2$s أو عند مسح بيانات التطبيق. يمكنك تنزيل التطبيقات المحذوفة من محفوظات عملية الشراء في %3$s.</string>
+    <string name="samsung_apps_notice">إشعار</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">تحديث الآن</string>
+    <string name="screen_off">ابق الشاشة في وضع إيقاف التشغيل</string>
+    <string name="screen_off_desc">استلم الإشعارات باستثناء تنبيهات المكالمات الواردة والتنبيهات على ساعة Gear عندما تكون شاشتها متوقفة عن التشغيل.</string>
+    <string name="setting_Enable">تفعيل</string>
+    <string name="setting_alpm_dialog_title">انتباه</string>
+    <string name="setting_always_off">متوقفة عن التشغيل دائماً</string>
+    <string name="setting_always_on">قيد التشغيل دائماً</string>
+    <string name="setting_auto">تلقائي</string>
+    <string name="setting_auto_lock_disable_desc">تم إلغاء التفعيل من قبل المسؤول أو سياسة التشفير أو تخزين بيانات الاعتماد.</string>
+    <string name="setting_backup_restore2">نسخ احتياطي واستعادة</string>
+    <string name="setting_basic">الأساسيات</string>
+    <string name="setting_connections">الاتصالات</string>
+    <string name="setting_disable">تعطيل</string>
+    <string name="setting_home_key_double_pressing">اضغط مرتين على المفتاح الرئيسي</string>
+    <string name="setting_language_input">اللغة والإدخال</string>
+    <string name="setting_manage_text_templates">تعديل القوالب النصية</string>
+    <string name="setting_mobile_network">شبكات الهواتف المحمولة</string>
+    <string name="setting_mobile_network_desc">سيتم قطع اتصال ساعة Gear عن شبكة الهاتف المحمول عند اتصالها بالجهاز المحمول عبر البلوتوث. عند انتهاء الاتصال عبر البلوتوث، سيتم توصيل ساعة Gear مجدداً بشبكة الهاتف المحمول تلقائياً.</string>
+    <string name="setting_multisim_popup_desc">قد تحتاج إلى اشتراك منفصل لاستخدام وظيفة بطاقات SIM المتعددة، وذلك حسب مزوّد الخدمة لديك. انقر فوق ”موافق“ لتفعيل بطاقات SIM المتعددة.</string>
+    <string name="setting_opensource">فتح ترخيص المصدر</string>
+    <string name="setting_palm_motion">الحركات</string>
+    <string name="setting_palm_swipe">السحب للالتقاط</string>
+    <string name="setting_palmover_desc">لكتم التنبيهات والمكالمات الواردة أو إيقاف تشغيل الوسائط مؤقتاً، ضع يدك على الشاشة بينما تكون قيد التشغيل.</string>
+    <string name="setting_palmswipe_desc">التقط الشاشة عبر سحب إصبعك بالكامل عبرها، والاحتفاظ بالاتصال بها.</string>
+    <string name="setting_pause_mute">كتم/إيقاف مؤقت</string>
+    <string name="setting_power_key_double_pressing">اضغط مرتين على ‏‫مفتاح التشغيل</string>
+    <string name="setting_restoring">قيد الاستعادة…</string>
+    <string name="setting_safety_b1_desc">أثناء اتصال Gear وجهازك المحمول، يساعدك خيار إرسال رسائل مساعدة في حالة طوارئ. فهو ينبه جهات الاتصال المحددة لرسائل الطوارئ بحالتك عبر إرسال رسائل طوارئ تحتوي على موقعك. قد يترتب على إرسال هذه الرسائل فرض تكاليف إضافية. لتفعيل وظيفة إرسال رسائل مساعدة في حالة طوارئ، اضغط على مفتاح التشغيل %d من المرات.</string>
+    <string name="setting_safety_b2_desc">أثناء اتصال ساعة Gear والجهاز المحمول، تساعدك وظيفة إرسال رسائل تعليمات في حالات الطوارئ عن طريق التقاط صورة باستخدام كاميرا الساعة Gear. تقوم بتنبيه جهات الاتصال المحددة لرسائل الطوارئ بموقفك عبر رسائل طوارئ تحتوي على هذه الصورة وتحدد موقعك. ستحتوي الرسالة الأولى على كل من موقعك والصورة. ثم، بعد فاصل زمني، سيتم إرسال رسالة ثانية تحتوي على موقعك فقط. قد يترتب على إرسال هذه الرسائل فرض تكاليف إضافية. لتفعيل وظيفة إرسال رسائل تعليمات أثناء حالة الطوارئ، اضغط على المفتاح الرئيسي %d من المرات.</string>
+    <string name="setting_safety_b2_no_camera_desc">أثناء اتصال الساعة Gear بالجهاز المحمول، تساعدك وظيفة إرسال رسائل تعليمات في حالة طوارئ. تقوم بتنبيه جهات الاتصال المحددة لرسائل الطوارئ بموقفك عبر رسائل طوارئ تحتوي على موقعك. قد يترتب على إرسال هذه الرسائل فرض تكاليف إضافية. لتفعيل وظيفة إرسال رسائل تعليمات أثناء حالة الطوارئ، اضغط على المفتاح الرئيسي %d من المرات.</string>
+    <string name="setting_safety_b3_desc1">اضغط على مفتاح الشاشة الرئيسية بسرعة ثلاث مرات لإرسال تنبيه سريع إلى جهات الاتصال الأساسية عندما تكون في حالة طوارئ.</string>
+    <string name="setting_safety_b3_desc2">ستتلقى جهات اتصالك الرئيسية رسائل طوارئ تتضمن معلومات حول موقعك الحالي.</string>
+    <string name="setting_safety_b3_desc3">قم بتوصيل جهازك المحمول بساعة Gear لاستخدام هذه الوظيفة.</string>
+    <string name="setting_safety_list">مساعدة السلامة</string>
+    <string name="setting_samsung_legal">معلومات قانونية من Samsung</string>
+    <string name="setting_screen_lock">قفل تلقائي</string>
+    <string name="setting_screen_lock_desc">استخدم الساعة Gear لقفل الجهاز المحمول.</string>
+    <string name="setting_screen_secutiry">حماية الشاشة</string>
+    <string name="setting_send_emergency_picture">إرسال صورة الطوارئ</string>
+    <string name="setting_send_emergency_recording">إرسال التسجيل الصوتي</string>
+    <string name="setting_send_emergency_term_agree">لقد قرأت جميع البنود والشروط أعلاه ووافقت عليها.</string>
+    <string name="setting_send_help_message">إرسال رسائل مساعدة</string>
+    <string name="setting_send_terms_conditions">البنود والشروط</string>
+    <string name="setting_smart_relay">الترحيل الذكي</string>
+    <string name="setting_smart_relay_desc">عرض محتوى من الساعة Gear على جهازك المحمول عن طريق حمل جهازك المحمول.</string>
+    <string name="setting_smart_toss">الترحيل الذكي</string>
+    <string name="setting_system">النظام</string>
+    <string name="setting_text_to_speech_engine">محرك تحويل النص إلى حديث</string>
+    <string name="setting_textinput_emoticon">أيقونات التعبير</string>
+    <string name="setting_textinput_keyboard">لوحة مفاتيح</string>
+    <string name="setting_textinput_list">طريق إدخال النص</string>
+    <string name="setting_textinput_templates">القوالب</string>
+    <string name="setting_try_it">جرب ذلك</string>
+    <string name="setting_wake_up">إشارة التنبيه</string>
+    <string name="setting_wake_up_desc">يمكنك تنشيط الساعة Gear برفع الذراع الذي توجد الساعة Gear به.</string>
+    <string name="setting_wakeupgesture">"لتنشيط الساعة Gear، ارفع الذراع الذي توجد الساعة Gear به وانظر إلى شاشة الساعة Gear.‏
+
+لا تعمل هذه الميزة عند الاتكاء للخلف أو الاستلقاء، وقد يتم استهلاك المزيد من طاقة بطارية الساعة Gear نظرا لتشغيل مستشعر الحركة بشكل دائم."</string>
+    <string name="setting_wakeupgesture_clock">الساعة</string>
+    <string name="setting_wakeupgesture_previous">آخر شاشة تم عرضها</string>
+    <string name="setting_wakeupgesture_screen_on">تحديد الشاشة المعروضة</string>
+    <string name="setting_wakeupgesture_screen_on_ru">تحديد الشاشة المعروضة</string>
+    <string name="settings">الضبط</string>
+    <string name="settings_application_version">إصدار التطبيق</string>
+    <string name="settings_emergency_contact">إدارة جهات الاتصال الأساسية</string>
+    <string name="settings_emergency_contact_empty">لم تتم إضافة أي جهات اتصال أساسية. لتفعيل ‎%s، أضف جهات اتصال إلى جهات الاتصال الأساسية.</string>
+    <string name="settings_legal_information">معلومات قانونية</string>
+    <string name="settings_message_interval">الفاصل الزمني للرسائل</string>
+    <string name="settings_not_set">لم يتم تعيينه</string>
+    <string name="settings_security">الحماية</string>
+    <string name="settings_security_update">تحديث الحماية</string>
+    <string name="settings_security_update_desc">قم بحماية الجهاز من المحتوى الضار عبر تحسين الحماية والخدمة.</string>
+    <string name="settings_unknown_sources_dialog">قد يلحق التثبيت من مصادر غير معروفة الضرر بالجهاز والبيانات الشخصية. ومن خلال النقر فوق ”موافق“، أنت توافق على أنك المسؤول الوحيد عن أي ضرر يلحق بجهازك أو عن فقدان البيانات الذي قد ينتج عن استخدام هذه التطبيقات.</string>
+    <string name="settings_unknown_sources_subtitle">السماح بتثبيت تطبيقات من مصادر غير معروفة.</string>
+    <string name="share_loc_disabled">تم إلغاء تفعيل مشاركة الموقع.</string>
+    <string name="share_location_desc">السماح لميزتي بحث عن ساعة Gear وبحث عن الجهاز بمشاركة بيانات موقع كل من ساعة Gear وجهازك المحمول.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">أوافق على إمكانية استخدام بيانات الهاتف المحمول وإرسال رسائل الوسائط المتعددة في حالات الطوارئ. أعلم أنه قد يترتب على ذلك فرض رسوم إضافية.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. إن الهدف من وظيفة إرسال رسائل المساعدة هو إعانة المستخدمين في إرسال إشعارات بخصوص مواقعهم على وجه التقريب وصور أو أصوات لما يحيط بهم إلى الهاتف المحمول أو إلى جهة الاتصال التي قمت بتعيينها مسبقًا. تتوفر هذه الإمكانية على سبيل التيسير فقط، ولا يجب اعتبارها بديلاً عن مكالمات الطوارئ بالسلطات المسؤولة.
+
+2. قد لا تعمل وظيفة إرسال رسائل مساعدة (“الخدمات”) بدقة أو بشكل مستمر أو من دون أخطاء، وذلك اعتمادًا على ظروف كحالة اتصال الشبكة، وتوفر تغطية GPS/Wi-Fi، وحالة جهازك أو جهاز جهة الاتصال التي وقع اختيارك عليها، ومستوى البطارية، و/أو أية ظروف أخرى خارجة عن نطاق سيطرة شركة Samsung Electronics Co., Ltd.‎ ‏(“Samsung”، “نحن”).‎ قد تتأثر دقة معلومات موقعك وإرسال الخدمات في الوقت المناسب بما يحيط بك وبحالة جهازك وجهاز جهة الاتصال التي عينتها. ما لم يُنص على خلاف ذلك صراحةً أو يُطلب قانونيًا، تخلي Samsung مسؤوليتها عن أي ضمانٍ على عمل الخدمات بدقة أو بشكل مستمر أو من دون أي خطأ. يرجى العلم بأن المقصود بجهة الاتصال التي عينتها أن تكون عبارة عن هاتف محمول يعمل بشكل دائم وأن يكون مؤهلاً لقبول الرسائل النصية. قد تطالب بدفع مبلغ نظير نقل بيانات موقعك وما يحيط بك بحسب الرسوم المقررة من قِبل مشغل الخدمة.
+
+ولكي تعمل الخدمات على النحو المنشود، قد يلزم أن تعمد هذه الميزة، وما أن تقوم بنشرها، إلى تشغيل وظيفتي GPS وWi-Fi تلقائيًا على جهازك. تقر وتوافق على التفعيل التلقائي لوظيفتي GPS وWi-Fi(إذا لزم الأمر) ودون الحاجة إلى مزيد من الإشعارات أو الموافقات الأخرى بذلك.
+
+3. تقر وتوافق على عدم إساءة استخدام هذه الوظيفة أو استخدامها لأي أغراض غير قانونية أو التعدي على الخصوصية أو انتهاك أي حقوق شخصية أو ملكية للآخرين. لا تستخدم هذه الوظيفة إلا بما يتوافق مع القانون وفي حالات الطوارئ فقط. توافق على أنك المسؤول الوحيد عن استخدامك لهذه الميزة. لن تكون شركة Samsung مسؤولة عن أية نتائج تنشأ عن استخدامك لهذه الميزة.
+
+4. يتم توفير الخدمات على سبيل التيسير ولا يجب اعتبارها بديلاً عن مكالمات الطوارئ بالسلطات المسؤولة. ما لم يُنص على خلاف ذلك صراحةً أو يُطلب قانونيًا، تخلي Samsung مسؤوليتها عن أي ضمانٍ على عمل الخدمات بدقة أو بشكل مستمر أو من دون أي خطأ.
+
+5. إخلاء المسؤولية عن الضمانات. إنك تقر بفهم وتوافق صراحة على أن:
+ 
+A. يتم توفير الخدمات على اساس كما هو و“مع كل العيوب” وكما هو متوفر. أنت تتحمل المخاطر التي قد تنتج عن استخدامها. لا تقدم شركة Samsung أي ضمانات أو كفالات أو شروط صريحة في ‘طار أو في ما يتعلق بالخدمات. تخلي شركة Samsung مسؤوليتها عن أي ضمانات من أي نوع، صريحة أو ضمنية، بما في ذلك على سبيل المثال لا الحصر، الضمانات الضمنية بشأن القابلية للتسويق والملاءمة لغرض معين وعدم الانتهاك وأي ضمانات ضمنية من مجرى التعامل أو مجرى الأداء.
+
+B. بدون القيود السابقة، لا تقدّم Samsung أي ضمانات أو بيانات أو ما يضمن أنّ (أ) الخدمات ستفي بمتطلباتك (ب) الخدمات لن تتم مقاطعتها أو أنها ستكون آمنة أو خالية من الأخطاء أو أنه سيتم توفيرها في الوقت المناسب، (ج) المحتوى الذي تم الحصول عليه بواسطة الخدمات أو أي إشعارات أو وظائف متعلقة بالخدمات ستكون متوفرة أو دقيقة أو كاملة أو موثوقة، (د) جودة الخدمات أو أي معلومات أو مواد أخرى تم الحصول عليها بواسطة الخدمات سترتقي إلى توقعاتك أو (ه) سيتم تصحيح أي أخطاء في الخدمات.
+
+6. تحديد المسؤولية.
+
+A. تقر وتوافق صراحة على أنّ شركة Samsung لن تكون مسؤولة، بموجب نظرية إهمال، عن أي خسارة أو مسؤولية أو ضرر أو نفقة مباشرة أو غير مباشرة أو طارئة أو خاصة أو تأديبية أو عرضية أو تحذيرية، بما في ذلك على سبيل المثال لا الحصر، خسارة الأرباح أو فقد الاستخدام أو خسائر أخرى (حتى في حال كان الإصلاح أو الاستبدال أو استرداد للمبلغ المدفوع مقابل الخدمات لا يعوّضك بالكامل عن أي خسائر أو حتى في حال كانت Samsung على علم أو كان يجب أن تعلم بإمكانية هذه الخسارة أو المسؤولية أو الضرر أو النفقة)، نتجت بشكل مباشر أو غير مباشر عن أو حدثت بفعل. (أ) دعاوى متعلقة بخرق العقد أو خرق الكفالة أو الضمان أو الشرط أو المسؤولية الصارمة أو الإهمال أو واجب آخر إلى أقصى حد مسموح به بمقتضى القانون المعمول به، (ب) استخدامك للخدمات أو عدم قدرتك على استخدامها، (ج) كلفة الحصول على خدمات بديلة، (د) وصول غير معتمد إلى إرسالياتك أو بياناتك أو تعديلها، (ه) تصريحات أو سلوك أي جهة خارجية، (و) هذه الاتفاقية، (ز) إصابة شخص أو ملكية (بما في ذلك الموت) أو (ح) أي مسألة أخرى متعلقة بالخدمات أو المحتوى المتوفر من خلال هذه الخدمات.
+ 
+B. إنّ تعويضك الوحيد والحصري لأي نزاع مع Samsung بشأن هذه الاتفاقية أو الخدمات هو التوقف عن استخدام الخدمات.
+ 
+C. لا تسمح قوانين بعض الدول استثناء بعض الضمانات أو استثناء أو وضع قيود على المسؤولية عن الأضرار العارضة أو اللاحقة. وفقًا لذلك، قد لا تنطبق بعض قيود القسمين 5 و6 أعلاه عليك.
+
+7. التعويض. توافق على إعفاء Samsung والتعويض والدفاع عنها من وضد أي دعاوى وإجراءات وطلبات وتكاليف ومسؤوليات وخسائر وأضرار وغرامات ونفقات (بما في ذلك رد الأتعاب المعقولة للمحاماة) حدثت بفعل أو تتعلق باستخدامك للخدمات أو أي فشل من قبلك في الالتزام بهذه الاتفاقية. في حال، على الرغم من الطبيعة الشخصية للتراخيص الممنوحة إليك بموجب هذه البنود والشروط، سمحت لأي فرد باستخدام الخدمات، أو قمت بتزويد أي فرد بأي معلومات حصلت عليها عن طريق الخدمات، توافق على إعلام هذا الفرد بوجود هذه البنود والشروط وأحكامها، التي تكون ملزمة لهذا الفرد، وتوافق على إعفاء Samsung والتعويض والدفاع عنها من وضد أي دعاوى وإجراءات وطلبات وتكاليف ومسؤوليات وخسائر وأضرار وغرامات ونفقات (بما في ذلك رد الأتعاب المعقولة للمحاماة) فيما يتعلق باستخدام هذا الفرد للخدمات.
+
+8. القوة القاهرة. لن تكون شركة Samsung مسؤولة عن أي تأخير أو فشل في الأداء بموجب هذه البنود والشروط أو مقاطعة الخدمات، نتيجة ظواهر طبيعية أو سلطة مدنية أو عسكرية أو حرب أو أعمال إرهابية أو نزاعات عمالية أو مواد أو خدمات مقدمة من جهات خارجية، أو أي سبب خارج عن نطاق السيطرة المعقولة لشركة Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">أوافق على السماح لـ %1$s بمشاركة موقعي مع جهات اتصال %2$s.</string>
+    <string name="smartrelay_not_show">عدم العرض مرة أخرى</string>
+    <string name="software_update">تحديث البرنامج</string>
+    <string name="ss_double_tap_any_screen">انقر نقراً مزدوجاً بإصبعين فوق أي شاشة لعرض أدوات التحكم في مستوى الصوت والسطوع، بالإضافة إلى معلومات أخرى مفيدة.</string>
+    <string name="ss_forwarding_calls_to_gear_header">إعادة توجيه المكالمات إلى Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">الطلب جاري…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">جاري قراءة الإعدادات…</string>
+    <string name="ss_loading_ing_abb">جار التحميل…</string>
+    <string name="ss_mobile_data_is_disabled">تم إلغاء تفعيل بيانات الهاتف المحمول. بدلاً من ذلك، اتصل بشبكة WLAN أو قم بتفعيل بيانات الهاتف المحمول وحاول مرة أخرى.</string>
+    <string name="ss_mobile_data_is_disabled2">تم إلغاء تفعيل بيانات الهاتف المحمول. اتصل بشبكة Wi-Fi بدلا من ذلك أو قم بتفعيل بيانات الهاتف المحمول، ثم أعد المحاولة.</string>
+    <string name="ss_no_network_connection">ما من اتصال بالشبكة</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">دليل المستخدم</string>
+    <string name="str_no">لا شكرا</string>
+    <string name="str_yes">نعم</string>
+    <string name="stub_list_install">تثبيت</string>
+    <string name="sw_eula_condition">تفهمت البنود والشروط أعلاه ووافقت عليها.</string>
+    <string name="sw_eula_desc2">إنك توافق على تقديم بيانات سجل الخطأ الناتجة عن أي فشل لتحديث البرنامج أثناء تجربة الجهاز إلى Samsung. حيث يساعد ذلك Samsung على تحسين عملية تحديث البرنامج المقدمة من Samsung ودعمها، كما يساعدك ذلك بشكل كبير على الاحتفاظ بالجهاز محدثا.</string>
+    <string name="tab_stub_list">مميز</string>
+    <string name="talkback_download">تنزيل</string>
+    <string name="talkback_setting">الضبط</string>
+    <string name="the_samsung_gear_application">تطبيق Samsung Gear</string>
+    <string name="threeg_connection">استخدام الاتصال عن بعد</string>
+    <string name="threeg_connection_subtitle">اتصل بـ Gear عن بعد باستخدام بيانات الهاتف المحمول أو Wi-Fi مع Samsung account.</string>
+    <string name="threeg_connection_subtitle_chn">اتصل بساعة Gear عن بُعد باستخدام بيانات الهاتف المحمول أو شبكة WLAN مع Samsung account.</string>
+    <string name="title_activity_clock_delete">إلغاء التثبيت</string>
+    <string name="title_activity_connect_popup">اتصال</string>
+    <string name="title_activity_paired_watch">الجهاز المقترن</string>
+    <string name="title_alertdialog_device_name_popup">إعادة تسمية %s</string>
+    <string name="title_alertdialog_disconnect_popup">فصل</string>
+    <string name="title_dialog_pm_error">تحذير</string>
+    <string name="title_dialog_uninstall">إلغاء التثبيت</string>
+    <string name="title_eula">الإشعارات القانونية</string>
+    <string name="title_findmywatch_connect2">بحث عن ساعة Gear</string>
+    <string name="title_findmywatch_finding">قيد البحث</string>
+    <string name="tri_connect_title_circle_to_gear">توصيل %1$s بـ %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">سيؤدي إجراء اتصال بين %1$s و%2$s عبر البلوتوث إلى قطع اتصال %3$s بجهازك المحمول مؤقتاً. سيتم استئناف هذا الاتصال بعد قليل وسيتم عندها توصيل %4$s بكلا %5$s وجهازك المحمول.</string>
+    <string name="tt_install_voice_data">تثبيت بيانات صوت TTS</string>
+    <string name="tt_install_voice_data_required">ثبّت لغات تحويل النص إلى حديث إضافية على ساعة Gear.</string>
+    <string name="tt_language">اللغة</string>
+    <string name="tt_send_help_message">إرسال رسائل تعليمات</string>
+    <string name="tt_tts_language_guide">إن لغة تحويل النص إلى حديث هي اللغة التي قمت بضبطها في ضبط ساعة Gear. إذا كان محرك تحويل النص إلى حديث لا يدعم لغتك، فسيتم استخدام الإنجليزية (المملكة المتحدة).</string>
+    <string name="unable_to_connect_popup_message">فشل توصيل ساعة Gear بجهازك المحمول. حاول مرة أخرى لاحقاً.</string>
+    <string name="unable_to_connect_popup_title">فشل الاتصال</string>
+    <string name="unable_to_lock_gear">يتعذّر قفل ساعة Gear</string>
+    <string name="unable_to_reset_gear">تتعذر إعادة ضبط ساعة Gear</string>
+    <string name="unabled_health">يتعذر فتح هذا التطبيق بسبب إلغاء تفعيله.</string>
+    <string name="uninstall_applications">إلغاء تثبيت التطبيقات</string>
+    <string name="unknown_sources_msg_new">لن يتم تثبيت %1$s عبر %2$s. إن هاتفك وبياناتك الشخصية أكثر عرضة للهجوم من قبل تطبيقات من مصادر غير معروفة. أنت توافق على أنك المسؤول الوحيد عن أي ضرر يلحق بجهازك أو عن فقدان البيانات الذي قد ينتج من استخدام هذه التطبيقات. لتثبيت التطبيقات من مصادر غير معروفة بشكل دائم، انتقل إلى %3$s > ‏%4$s > ‏%5$s، وقم بتفعيل %6$s. انقر فوق ”موافق“ لتثبيت %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">لا يتوفر %1$s في %2$s الذي لا يتضمن تطبيق لساعة Gear. إن جهازك وبياناتك أكثر عرضة للهجوم من قبل تطبيقات من مصادر غير معروفة. سيتم إلغاء عملية التثبيت وسيتم حذف %3$s من هاتفك.</string>
+    <string name="unknown_sources_title">مصادر غير معروفة</string>
+    <string name="update_button">تحديث</string>
+    <string name="update_summary">مراجعة التحديثات</string>
+    <string name="update_the_latest_version">يتوفر تحديث</string>
+    <string name="voice_control_subtitle">قل ”Answer“ أو ”Reject“ للرد على المكالمات أو رفضها خلال فترات التوقف مؤقتاً أثناء عدم رنين ساعة Gear أو اهتزازها.</string>
+    <string name="voicememo_link1">بنود وشروط Nuance</string>
+    <string name="voicememo_link2">سياسة خصوصية Samsung</string>
+    <string name="voicememo_link3">نهج خصوصية Nuance</string>
+    <string name="watchapp_all">تطبيقات</string>
+    <string name="watchapp_noapps">لا توجد تطبيقات</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">البلوتوث</string>
+    <string name="widget_fmw_refresh">جاري التحديث…</string>
+    <string name="wifi_only">‏Wi-Fi فقط</string>
+    <string name="wifi_only_chn">شبكة WLAN فقط</string>
+    <string name="wifi_only_summary">تنزيل التحديثات عند الاتصال بشبكة Wi-Fi فقط.</string>
+    <string name="wifi_only_summary_chn">يمكن التنزيل فقط عند الاتصال عبر شبكة WLAN.</string>
+    <string name="email_sanitize">لا يمكن عرض محتوى هذا البريد الإلكتروني على الساعة Gear لأسباب متعلقة بالأمان. للتعرف على التفاصيل، اعرض رسالة البريد الإلكتروني هذه على جهازك المحمول.</string>
+    <string name="knox_sanitize">انقر هنا للدخول إلى وضع KNOX.</string>
+</resources>

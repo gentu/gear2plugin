@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="vertical" android:paddingLeft="@dimen/clocks_layout_left_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false">
+        <FrameLayout android:id="@id/clocks_idle_clock_image_frame" android:paddingTop="11.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/clocks_clock_frame_height">
+            <ImageView android:layout_gravity="center" android:id="@id/clocks_idle_clock_image" android:background="#ff000000" android:layout_width="@dimen/clocks_idle_clock_image_size" android:layout_height="@dimen/clocks_idle_clock_image_size" />
+        </FrameLayout>
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_below="@id/clocks_idle_clock_image_frame">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:text="@string/clocks_title_basic_clocks" />
+                <ListView android:id="@id/ListView_Basic_Clocks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:listSelector="@xml/xml_listitem_selector" android:scrollingCache="false" android:divider="@null" android:splitMotionEvents="false" />
+                <include layout="@layout/settings_items_simple_divider" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:text="@string/clocks_title_style_clocks" />
+                <ListView android:id="@id/ListView_Style_Clocks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:listSelector="@xml/xml_listitem_selector" android:scrollingCache="false" android:divider="@null" android:splitMotionEvents="false" />
+                <include android:id="@id/TextView_Downloaded_SubTitle_Divider" layout="@layout/settings_items_simple_divider" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/TextView_Downloaded_SubTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:text="@string/clocks_title_downloaded_clocks" />
+                <ListView android:id="@id/ListView_Downloaded_Clocks" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:listSelector="@xml/xml_listitem_selector" android:scrollingCache="false" android:divider="@null" android:splitMotionEvents="false" />
+                <View android:background="@drawable/manager_list_divider" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" />
+                <Button android:textSize="19.0dip" android:textColor="@color/winset_dark_description_text" android:layout_gravity="center" android:id="@id/donwload_btn_clock" android:background="@drawable/manager_winset_btn" android:layout_width="fill_parent" android:layout_height="40.0dip" android:layout_marginLeft="32.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="32.0dip" android:layout_marginBottom="12.0dip" android:text="@string/clocks_download_more_clocks" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+</RelativeLayout>

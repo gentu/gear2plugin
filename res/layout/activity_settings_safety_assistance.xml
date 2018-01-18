@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingsafetyLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_send_help_message" custom:subtext="@string/common_off" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/WatchSettingEmergencyContactLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_emergency_contact" />
+        <include layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

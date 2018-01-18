@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Pole kõne ajal saadaval.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Hüpik täisekraanil</string>
+    <string name="alert_mini">Minihüpik</string>
+    <string name="alertdialog_backkey_popup_content">Hoiatus</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">See lopetab teie uhenduse seadmega %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Teie seadme %s ühendus katkestatakse teie mobiilsideseadmega. Järgmine kord, kui ühendate need seadmed, peate kasutama Bluetooth-ühendust. Kõik pärast seda loodud ühendused saab teha kaugühenduse kaudu.</string>
+    <string name="alertdialog_uninstall_popup_content">Deinstalli</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">Automaatne kõnesuunamine</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">Automaatse kõnesuunamise aktiveerimine, kui teie seadme Gear ühendus teie mobiilsideseadmega on katkestatud. See suunab saabuvad kõned teie mobiilsideseadmest teie seadmesse Gear, kuni seadmed on taas ühendatud.</string>
+    <string name="auto_update">Automaatvärskendamine</string>
+    <string name="auto_update_summary">Kontrolli varskendusi automaatselt.</string>
+    <string name="backing_up">Varundamine…</string>
+    <string name="backup_complete">Varundamine lõpetatud.</string>
+    <string name="bnr_backup">Varundamine…</string>
+    <string name="bnr_bakcup_title">Varundus</string>
+    <string name="bnr_cancel">Tühista</string>
+    <string name="bnr_canel">Tühista</string>
+    <string name="bnr_except">%1$s (v.a %2$s)</string>
+    <string name="bnr_except_autolock">Automaatlukustus</string>
+    <string name="bnr_except_remoteconnection">Kaugühendus</string>
+    <string name="bnr_except_texttemplate">Tekstimallid</string>
+    <string name="bnr_no">Ei</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Uue seadmega uhenduse loomiseks lahtestatakse Gear tehase vaikeseadetele.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear pole täielikult seadistatud. Seadmes Gear on hetkel avatud seadistusviisard, kuid seadmega Gear ühenduse loomiseks peate avama seadistusviisardi ka selle seadme rakenduses Gear Manager.</string>
+    <string name="bnr_reset_initialization">Teavitus</string>
+    <string name="bnr_restored">Andmed on taastatud.</string>
+    <string name="bnr_yes">Jah</string>
+    <string name="bt_connected">Ühendatud</string>
+    <string name="bt_disconnected">Ühendus katkestatud</string>
+    <string name="bt_unpaired">Sidumata</string>
+    <string name="button_restore">Uuenda</string>
+    <string name="call">HELISTA</string>
+    <string name="call_check_gear_status_when_cfwd">Kõnede suunamise funktsioonid Seadmest Geari ja Gearist seadmesse ei saa olla korraga aktiveeritud.</string>
+    <string name="call_dualsim1">SIM-kaart 1</string>
+    <string name="call_dualsim1sim2">Mõlemad SIM-kaardid</string>
+    <string name="call_dualsim2">SIM-kaart 2</string>
+    <string name="call_forwarding">Kõne suunamine</string>
+    <string name="call_forwarding_agree">Nõustun.</string>
+    <string name="call_forwarding_desc">Saabuvad kõned suunatakse teie mobiilsideseadmest teie seadmesse Gear.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">On esitatud taotlus kõnede suunamise desaktiveerimiseks teie mobiilsideseadmest teie seadmesse Gear. Mobiilsidevõrgu ja mobiilsideseadme olek võivad mõjutada tulemusi.</string>
+    <string name="call_forwarding_enable_msg">On esitatud taotlus kõnede suunamise aktiveerimiseks teie mobiilsideseadmest teie seadmesse Gear. Mobiilsidevõrgu ja mobiilsideseadme olek võivad mõjutada tulemusi.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">Kõnede suunamine teie mobiilsideseadmest teie seadmesse Gear on hetkel aktiveeritud. Teie mobiilsideseadmesse saabuvad kõned edastatakse teie seadmesse Gear. Kui teil pole teie seadet Gear kaasas, avage menüü Seaded ja desaktiveerige valik Automaatne kõnesuunamine, et teil ei jääks ühelegi kõnele vastamata.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Häälkõne suunamise desaktiveerimine…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Häälkõne suunamise aktiveerimine…</string>
+    <string name="call_no_gear_number">Numbreid pole</string>
+    <string name="call_select_dualsim_title">Valige SIM-kaart</string>
+    <string name="call_voice_control">Hääljuhtimine</string>
+    <string name="callforwarding_help_des1">Saate automaatselt sisse lülitada seadme, millesse kõned suunatakse, olenevalt sellest, kas teie seadmed on ühendatud Bluetoothi või kaugühenduse kaudu.</string>
+    <string name="callforwarding_help_des2">Saate vastu võtta oma mobiilsideseadmesse tehtud kõnesid seadmes Gear, kui olete liikumas ja kannate seadet Gear, mis on mobiilsideseadmega kaugühenduse abil ühendatud.</string>
+    <string name="cancel">Tühista</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Kõnesuunamist ei saanud desaktiveerida.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">Laadi alla veel kellasid</string>
+    <string name="clocks_noti_uninstall_clock">%s desinstallitakse.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s desinstallitakse ja %2$s maaratakse vaikekellaks.</string>
+    <string name="clocks_title_basic_clocks">PÕHIKELLAD</string>
+    <string name="clocks_title_downloaded_clocks">ALLALAETUD KELLAD</string>
+    <string name="clocks_title_style_clocks">STIILIKELLAD</string>
+    <string name="clocks_uninstalled">Desinstallitud.</string>
+    <string name="clocks_uninstalling">Deinstallimine…</string>
+    <string name="close">Sulge</string>
+    <string name="closing_samsung_gear_message">Teie seade Gear on lähtestatud. Rakendus Samsung Gear suletakse peagi.</string>
+    <string name="closing_samsung_gear_title">Sulge rakendus Samsung Gear</string>
+    <string name="cloud_backup_no_information">Mitte kunagi</string>
+    <string name="cloud_backup_restore_backup_now">Varunda andmed</string>
+    <string name="cloud_backup_restore_restore_now">Taasta andmed</string>
+    <string name="cmw_agree">Nõustun</string>
+    <string name="cmw_eula_agree">Mõistan ülaltoodud tingimusi ja nõustun nendega.</string>
+    <string name="cmw_for_setting">Asukohateenused on desaktiveeritud. Avage Seaded.</string>
+    <string name="cmw_high_accuracy_dialog_message">Asukoha kiireimaks ja täpseimaks tuvastamiseks tehke menüüs Asukoht > Režiim valik Kõrge täpsus.</string>
+    <string name="cmw_high_accuracy_dialog_title">Valige Kõrge täpsus</string>
+    <string name="cmw_legal_content">Aktiveerides valiku „Jaga asukohta”, nõustute, et teie mobiiltelefoni ja/või Gear-seadmega seotud asukohateavet edastatakse läbi Samsungi serveri teenuse „Leia minu Gear ja leia minu seade” osutamiseks. Teie seadme asukohateavet ega -andmeid ei salvestata Samsungi serveris.</string>
+    <string name="cmw_legal_content1">Aktiveerides valiku „%1$s &amp; %2$s”, nõustute, et teie mobiiltelefoni ja/või Gear-seadmega seotud asukohateavet edastatakse läbi Samsungi serveri teenuse %1$s &amp; %2$s osutamiseks. Teie seadme asukohateavet ega -andmeid ei salvestata Samsungi serveris.</string>
+    <string name="cmw_legal_content1_no_gps">Aktiveerides valiku „%1$s &amp; %2$s”, nõustute, et teie mobiiltelefoniga seotud asukohateavet edastatakse läbi Samsungi serveri teenuse %2$s osutamiseks. Teie seadme asukohateavet ega -andmeid ei salvestata Samsungi serveris.</string>
+    <string name="cmw_legal_content_2">Samsungi privaatsusavaldus</string>
+    <string name="cmw_legal_title">Jur. jõuga teatised</string>
+    <string name="cmw_location">Aktiveerige asukohateenused</string>
+    <string name="cmw_show_on_map">"Näita
+kaardil"</string>
+    <string name="color_black">Must</string>
+    <string name="color_blue">Sinine</string>
+    <string name="color_brown">Pruun</string>
+    <string name="color_gray">Hall</string>
+    <string name="color_green">Roheline</string>
+    <string name="color_light_sky_blue">Hele taevasinine</string>
+    <string name="color_medium_purple">Keskmine lilla</string>
+    <string name="color_orange">Oranž</string>
+    <string name="color_pink">Roosa</string>
+    <string name="color_purple">Lilla</string>
+    <string name="color_red">Punane</string>
+    <string name="color_spring_green">Kevadroheline</string>
+    <string name="common_none">Puudub</string>
+    <string name="common_off">Väljas</string>
+    <string name="common_on">Sees</string>
+    <string name="common_recent_apps">Hilj. rak.-d</string>
+    <string name="connect_popup_content">Ühenduse loomine seadmega %s…</string>
+    <string name="connected_by_trasport_BT">Ühendatud Bluetoothi kaudu</string>
+    <string name="connected_by_trasport_SCS">Ühendatud kaugelt</string>
+    <string name="connecting_popup_message">Ühenduse loomine seadmega Gear…</string>
+    <string name="connecting_popup_title">Loo ühendus seadmega Gear</string>
+    <string name="dialog_check_phone_number_msg1">Veenduge, et järgmine teave oleks õige:</string>
+    <string name="dialog_check_phone_number_msg2">Mobiiltelefoni number: %s</string>
+    <string name="dialog_check_phone_number_msg3">Seadme Gear telefoninumber: %s</string>
+    <string name="dialog_check_phone_number_msg4">Toksake valikut OK, et kinnitada ja aktiveerida Automaatne kõnesuunamine.</string>
+    <string name="dialog_enable_remote_connection_desc">Automaatse kõnesuunamise aktiveerimiseks aktiveerige kaugühendus ja proovige siis uuesti.</string>
+    <string name="dialog_enable_remote_connection_title">Kaugühenduse aktiveerimine</string>
+    <string name="dialog_reverse_msg">Sõltuvalt teie teenusepakkujast võib vaja minna eraldi tellimust, et teie mobiilsideseade ja teie seade Gear saaksid kasutada seda funktsiooni. Sellega võivad rakenduda lisatasud.</string>
+    <string name="dialog_set_phone_number_msg">Määrake automaatse kõnesuunamise aktiveerimiseks nende seadmete telefoninumbrid, millesse ja millest soovite kõnesid suunata.</string>
+    <string name="dialog_set_phone_number_title">Automaatse kõnesuunamise aktiveerimine</string>
+    <string name="disable_loc_text">Asukoha jagamine desaktiveeritakse. Te ei saa kasutada asukohateavet oma seadme Gear või mobiilsideseadme otsimiseks teenuse Leia minu Gear või Leia minu seade kaudu.</string>
+    <string name="disable_loc_text_no_gps">Asukoha jagamine desaktiveeritakse. Te ei saa kasutada asukohateavet oma mobiilsideseadme otsimiseks teenuse Leia minu seade kaudu.</string>
+    <string name="disable_remote_connection">Desaktiveeri kaugühendus</string>
+    <string name="disable_remote_connection_fmm_fmd">Leia minu Gear ja Leia minu seade</string>
+    <string name="disable_remote_connection_receiving_blocked">Sõnumite, e-kirjade ja teavituste vastuvõtmine mobiilsideseadmest</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">E-kirjade ja teavituste vastuvõtmine mobiilsideseadmest</string>
+    <string name="disable_remote_connection_warning">Kaugühendus desaktiveeritakse. Järgmised funktsioonid ei ole saadaval, kuni teie seade Gear ei ole uuesti Bluetoothi kaudu ühendatud teie mobiilsideseadmega:</string>
+    <string name="disable_share_location">Funktsiooni Jaga asukohta desaktiveerimine</string>
+    <string name="disconnect_popup_content">Ühenduse katkestamine üksusega %s…</string>
+    <string name="do_not_show_again">Ära enam kuva</string>
+    <string name="enable_auto_call_forwarding_msg">Saabuvad kõned suunatakse mobiilsideseadmest automaatselt Geari, kui ühendus Geariga on katkestatud. Sõltuvalt teie teenusepakkujast võivad sellega rakenduda lisatasud. Toksake valikut OK, et aktiveerida automaatset kõnesuunamist.</string>
+    <string name="enable_auto_call_forwarding_title">Aktiveeri aut. Kõnesuunamine</string>
+    <string name="enable_more_notifications_enable">Luba</string>
+    <string name="enable_notification_access">Menüü Juurdepääs teavitustele aktiveerimine</string>
+    <string name="enable_notification_access_desc">"Selle funktsiooni abil on võimalik lugeda kõiki vastuvõetud teavitusi, mis sisaldavad isiklikke andmeid nagu teile saadetud kontaktid ja sõnumid. Selle abil saab ka eirata neid teavitusi või valida nendega seotud toiminguid.
+Teavituste vastuvõtmiseks seadmes Gear toksake käsku Aktiveeri ja seejärel aktiveerige rakendus %s."</string>
+    <string name="enable_share_location">Aktiveeri funktsioon Jaga asukohta</string>
+    <string name="enabled_loc">Funktsioon Jaga asukohta on aktiveeritud.</string>
+    <string name="error_enter_device_name">Sisestage seadme nimi.</string>
+    <string name="error_occurred">Ilmnes torge.</string>
+    <string name="find_my_device">Leia minu seade</string>
+    <string name="find_my_gear">Leia minu Gear</string>
+    <string name="find_watch_btn_start">Käivita</string>
+    <string name="find_watch_btn_stop">Lõpeta</string>
+    <string name="find_watch_off">Oma seadme Gear otsimiseks toksake käsku Alusta. Gear esitab heli ja selle ekraan lülitub sisse.</string>
+    <string name="find_watch_on">Oma seadme Gear otsimise lõpetamiseks toksake käsku Lõpeta. Gear lõpetab heli esitamise ja selle ekraan lülitub välja.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s desinstallitakse ja seadme %2$s jaoks rakendatakse vaikefont.</string>
+    <string name="force_wifi_direct_msg">Rakendus installitakse Wi-Fi Directi kaudu. See lõpetab teie aktiivse Wi-Fi Directi ühenduse. Kui tühistate installimise, peate rakenduse installimiseks uuesti alla laadima.</string>
+    <string name="force_wifi_direct_title">Installi</string>
+    <string name="force_wifi_install">Installi</string>
+    <string name="gear2_backup_confirm_text">Kui varundate oma andmed kohe, asendatakse teie mobiilsideseadmes hetkel olevad seadme Gear andmed teie seadme Gear uusimate andmetega.</string>
+    <string name="gear2_restore_confirm_text">Andmete taastamisel kustutatakse teie seadmes Gear hetkel olevad andmed ja asendatakse teie seadme Gear varuandmetega.</string>
+    <string name="gear2_text">"Kasutage oma seadme mälu, et varundada oma seadme %1$s sisu.
+%2$s
+
+Kui olete varem selle sisu varundanud, saate selle nüüd taastada seadmesse %3$s.
+
+Sõltuvalt faili suurusest võib see natuke aega võtta."</string>
+    <string name="gear2_text_import3">Seaded</string>
+    <string name="gear_bnr_desc">"Saate kasutada oma mobiilsideseadme mälu, et varundada järgmisi seadme %1$s andmeid: %2$s
+
+Kui olete varem varundanud oma seadme %3$s andmed, saate nüüd taastada need oma seadmesse %4$s.
+
+Sõltuvalt failide suurusest võib see võtta aega."</string>
+    <string name="gear_location_popup_message">Teie mobiilsideseade otsib nüüd teie seadet Gear. See võtab aega mitu minutit. Teie seadme Gear leidmine võib olla raske, kui see on siseruumides.</string>
+    <string name="gear_location_popup_title">Leia Gear</string>
+    <string name="gear_location_text">Seadme Gear asukoht</string>
+    <string name="gear_lock_success">Gear on lukustatud.</string>
+    <string name="gear_lock_text">Lukusta Gear</string>
+    <string name="gear_locked">Gear on lukustatud</string>
+    <string name="gear_locked_text1">Seade Gear on lukustatud. Avamiseks ühendage seade Gear mobiilsideseadmega Bluetoothi kaudu.</string>
+    <string name="gear_phone_number">Seadme Gear tel.number</string>
+    <string name="gear_phone_number_popup_desc">Kõik mobiilsideseadmesse saabuvad kõned suunatakse seadmesse %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Seadme Gear lukustamiseks peab enne olema aktiveeritud kaugühendus.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Seadme Gear lähtestamiseks peab enne olema aktiveeritud kaugühendus.</string>
+    <string name="gear_reset_text">Lähtesta Gear</string>
+    <string name="gear_to_mobile">Gearist seadmesse</string>
+    <string name="gear_to_mobile_des">Saate vastu võtta teie seadmesse Gear tehtud kõnesid oma mobiilsideseadmes, kui need kaks seadet on ühendatud Bluetoothi kaudu.</string>
+    <string name="gear_unable_to_locate_message">Asukoha leidmine nurjus. Proovige hiljem uuesti.</string>
+    <string name="gear_unable_to_locate_title">Geari asukohta ei saa määrata</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Taustpildid</string>
+    <string name="home_bg_color">Värvid</string>
+    <string name="home_bg_colors_title">SAADAOLEVAD VÄRVID</string>
+    <string name="home_bg_delete_actionbar_selected">Valitud</string>
+    <string name="home_bg_delete_dialog_msg">%d taustpilti eemaldatakse rakendusest Gear Manager ja teie seadmest Gear.</string>
+    <string name="home_bg_delete_select_all">Vali kõik</string>
+    <string name="home_bg_max_more_image_toast">Taustpiltide maksimaalne arv (%d) on saavutatud.</string>
+    <string name="home_bg_more_images">Veel pilte</string>
+    <string name="home_bg_popup_wallpaper_msg">Seadme Gear taustpiltide allalaadimine…</string>
+    <string name="home_bg_popup_wallpaper_title">Laadi taustpildid alla</string>
+    <string name="home_bg_toast_saved">Salvestatud.</string>
+    <string name="home_bg_wallpaper">Taustpilt</string>
+    <string name="home_bg_wallpapers_title">SAADAOLEVAD TAUSTPILDID</string>
+    <string name="homelayout_apps">RAKENDUSED</string>
+    <string name="incoming_calls_title">Saabuvad kõned</string>
+    <string name="info_build_number">Tarkvaraversioon</string>
+    <string name="info_model_number">Mudeli number</string>
+    <string name="info_software_update">Tarkvaravärskendus</string>
+    <string name="information_provision_agreement">Teabe jagamise nõusolek</string>
+    <string name="information_provision_agreement_mgs">"Teenuses Häälmemo kasutatakse hääletuvastustehnoloogiat kolmanda osapoole teenusepakkujalt Nuance Communications, Inc. Seetõttu salvestatakse häälteave paratamatult serveris, mida juhib Nuance (Ameerika Ühendriikides), ja teenuse Häälmemo kasutamine eeldab Nuance'i tingimustega nõustumist.
+ Nuance'il on õigus kasutada teie häälsisendit teenuste parandamise ja tehnoloogiate arendamise eesmärgil. Nuance'il on ka õigus jagada ülalmainitud häälsisendit Nuance’i partneritega. Häälsisendi teavet hoitakse alles, kuni ülalmainitud eesmärgid on saavutatud. Teavet Häälmemo teenuste kohta lugege Samsungi privaatsuseeskirjast ja Nuance'i privaatsuseeskirjast.
+ Häälmemot ei ole võimalik kasutada, kui te ei nõustu ülakirjeldatud teabe jagamise tingimustega."</string>
+    <string name="init_manage_notifications_desc">Valige rakendused, mille teavitusi soovite võtta vastu seadmes %1$s. Seadme %2$s akutoite säästmiseks tühistage rakenduste valikud, mille teavitusi te ei soovi vastu võtta.</string>
+    <string name="install_in_progress">Saatmine…</string>
+    <string name="latitude">Laiuskraad</string>
+    <string name="limit_notification_desc">Saate blokeerida mobiilsideseadme kasutamise ajal märguannete kuvamise seadmes Gear.</string>
+    <string name="limit_notification_dialog_desc">Teavituste piiramist ei saa seadmes Gear aktiveerida. Teie mobiilsideseadmes pole määratud ühtegi ekraanilukku.</string>
+    <string name="limit_notification_title">Piira teavitusi</string>
+    <string name="location_info_title">Jaga asukohta</string>
+    <string name="lock_gear_legal_text1">Kasutades valikut „Lukusta Gear” saate Geari volitamata kasutamise vältimiseks kauglukustada. Geari lahtilukustamiseks ühendage see uuesti mobiilseadmega.</string>
+    <string name="lock_gear_legal_text2">* Valiku „Lukusta Gear” toimimiseks võib Geari, mobiilseadme või võrgukeskkonna olekust tulenevalt kuluda veidi aega või võib toiming nurjuda.</string>
+    <string name="lock_gear_text">Teie seadet Gear ei saa lukustada, kui teie mobiilsideseade ja seade Gear on Bluetoothi kaudu ühendatud.</string>
+    <string name="login_to_samsung_account">Logi Samsungi kont. sisse</string>
+    <string name="login_to_samsung_account_desc">Oma seadmes Gear rakenduse Kaugühendus aktiveerimiseks logige sisse oma Samsungi kontole.</string>
+    <string name="login_to_samsung_account_full_desc">"Logige sisse Samsungi kontole,
+et kasutada järgmisi funkts.
+isegi siis, kui Bluetoothi
+kaudu pole ühendust loodud.
+- Teavituste vastuvõtmine
+- Rak. kasut. kaugüh. kaudu
+Kaugühenduse kasutamisel
+võivad rakenduda lisatasud."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Pikkuskraad</string>
+    <string name="main_bt_unpaired">Sidumata</string>
+    <string name="main_disconnected">Ühendus katkestatud</string>
+    <string name="manage_applications">Rakenduste haldamine</string>
+    <string name="manage_notifications">Halda teavitusi</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Kõnede suunamine on võrguteenus, mis suunab seadmesse %s saabuvad kõned määratletud numbrile. Sõltuvalt teenusepakkujast võidakse selle funktsiooni kasutamiseks seadmes Gear nõuda tellimust. Sellega võivad rakenduda lisatasud.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobiilsideseade</string>
+    <string name="masterapp_not_installed">%1$s pole teie mobiilsideseadmesse installitud. Rakenduse %2$s kasutamiseks oma seadmes Gear laadige %1$s alla oma mobiilsideseadmesse. Teile avaneb allalaadimisaken.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s pole teie mobiilsideseadmesse installitud. Rakenduse %2$s kasutamiseks oma seadmes Gear laadige %1$s alla oma mobiilsideseadmesse. Teile avaneb allalaadimisaken.</string>
+    <string name="masterapp_uninstalled">%1$s on teie mobiilsideseadmest desinstallitud. Rakenduse %2$s kasutamiseks oma seadmes Gear laadige %1$s alla oma mobiilsideseadmesse.</string>
+    <string name="maximum_size_warning">Tähemärkide maksimaalne arv on saavutatud.</string>
+    <string name="menu_about_device">TEAVE SEADME %s KOHTA</string>
+    <string name="menu_actionbar_remove">Eemalda</string>
+    <string name="menu_actionbar_uninstall">Desinstalli</string>
+    <string name="menu_appsandsettigns">RAKENDUSED JA SEADED</string>
+    <string name="menu_clock">Kell</string>
+    <string name="menu_display">REDIGEERI AVAEKRAANI</string>
+    <string name="menu_downloaded_font">ALLALAADITUD FONDID</string>
+    <string name="menu_filetransfertogear">FAILIDE EDASTAMINE GEARI</string>
+    <string name="menu_gallery">Pilt</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Vormisolek</string>
+    <string name="menu_help">Spikker</string>
+    <string name="menu_home_screen">Avaekraani stilist</string>
+    <string name="menu_music">Muusika</string>
+    <string name="menu_myapp">Minu rakendused</string>
+    <string name="menu_notification">Teavitused</string>
+    <string name="menu_rename">Nimeta ümber</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">Seaded</string>
+    <string name="mobile_to_gear">Seadmest Geari</string>
+    <string name="mobile_to_gear_des">Saate vastu võtta oma mobiilsideseadmesse tehtud kõnesid seadmes Gear, kui need on ühend. kaugelt.</string>
+    <string name="monotype_default_font">Vaikefont</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Veel</string>
+    <string name="more_options">"Veel
+valikuid"</string>
+    <string name="multisim_title">Mitmik-SIM</string>
+    <string name="navigate_up">Navigeeri üles</string>
+    <string name="new_notification_list">Loendivaade</string>
+    <string name="new_notifications_list_desc">Gearist vastuvõetud teavituste loend kuvatakse kellast vasakul pool.</string>
+    <string name="no_application_selected">Ühtegi rakendust pole valitud</string>
+    <string name="no_downloaded_applications">Allalaaditud rakendusi pole</string>
+    <string name="no_of_application_selected">%d rakendust on valitud</string>
+    <string name="no_remote_connection_popup_msg">Automaatseks kõnesuunamiseks avage oma mobiilsideseadmes rakendus Samsung Gear, aktiveerige kaugühendus ja seejärel proovige uuesti.</string>
+    <string name="no_remote_connection_popup_title">Kaugühenduse aktiveerimine</string>
+    <string name="notification_type">Teavituse tüüp</string>
+    <string name="notification_type_desc">Seadme Gear kasutamise ajal kuvatakse teie teavitused väikeste hüpikutena ekraani ülaservas, sõltumata teie ülalpool tehtud valikust.</string>
+    <string name="number_setting">Numbri seadistus</string>
+    <string name="ok">OK</string>
+    <string name="once">Üks kord</string>
+    <string name="one_application_selected">1 rakendus on valitud</string>
+    <string name="popup_attention_email_msg">Osasid e-posti kontosid pole menüüs E-posti seaded valitud. Oma seadmes Gear teavituste vastuvõtmiseks nendelt kontodelt tehke menüüs E-posti seaded valik E-posti teavitused.</string>
+    <string name="popup_attention_message_msg">Seadmest Gear sõnumite saatmiseks ja seal vastuvõtmiseks muudetakse teie vaikimisi sõnumirakendus %s rakenduseks Sõnumid.</string>
+    <string name="popupmenu_search_for_new_device">Halda seadmeid</string>
+    <string name="preview_message_desc">Seadme Gear teavituste hüpikus kuvatakse vastuvõetud teavituste, v.a saabuvate kõnede ja märguannete, eelvaade.</string>
+    <string name="preview_message_title">Sõnumi eelvaade</string>
+    <string name="primary">Esmane</string>
+    <string name="progressdialog_please_wait">Palun oodake…</string>
+    <string name="progressdialog_reinstalled_message">Installimine…</string>
+    <string name="progressdialog_reinstalled_popup_content">Inst. uuesti</string>
+    <string name="providerapp_reinstalled">%s ei tööta korralikult, seega on see desinstallitud. See installitakse nüüd uuesti.</string>
+    <string name="quick_tutorial_add_shortcuts">Rakenduste otseteede lisamiseks seadme Gear avaekraanile avage seadmes Gear menüü Rakendused ning toksake ja hoidke sõrme rakenduse ikoonil ja lohistage see ekraani ülaservas olevale avaekraani ikoonile.</string>
+    <string name="quick_tutorial_gear_structure">Kella kuvatakse teie seadme Gear avaekraani põhilehel. Kellast vasakul olevatel lehtedel kuvatakse teavitused ja paremal olevatel kuvatakse vidinad. Rakenduste kuvamiseks libistage ekraani allservast ülespoole.</string>
+    <string name="quick_tutorial_noti_title">Restorani %s tutvustus</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Rakenduse S Voice avamiseks öelge „Hi Gear” või vajutage ükskõik millisel ekraanil olles kaks korda avaekraani klahvi.</string>
+    <string name="quick_tutorial_swipe_downwards">Oma lemmikrakenduse avamiseks vajutage kaks korda avaekraani klahvi. Saate muuta oma lemmikrakendust menüüs Seaded.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Oma lemmikrakenduse avamiseks vajutage kaks korda toitenuppu. Oma lemmikrakendust saate muuta menüüs Seaded.</string>
+    <string name="quick_tutorial_to_go_back">Naasmiseks libistage sorme ekraani ulaservast allapoole.</string>
+    <string name="remote_connection_disabled_settings">Seaded</string>
+    <string name="remote_connection_enabled_desc">Gear ühendatakse kaugelt, kui Bluetooth-ühendus katkeb.</string>
+    <string name="requested">Taotletud</string>
+    <string name="reset_gear_legal_text1">Kasutades valikut „Lähtesta Gear” saate Gearist kõik andmed kaugkustutada. Pärast sellist kustutamist ei saa kustutatud andmeid taastada ja te ei saa enam kasutada valikut „Leia minu Gear”.</string>
+    <string name="reset_gear_legal_text2">* Valiku „Lähtesta Gear” toimimiseks võib Geari, mobiilseadme või võrgukeskkonna olekust tulenevalt kuluda veidi aega või võib toiming nurjuda.</string>
+    <string name="restore_complete">Taastamine on lõpetatud.</string>
+    <string name="restore_some_error">Taastamine nurjus. Proovige uuesti.</string>
+    <string name="restore_try_again">Proov. veel</string>
+    <string name="retrieve_dialog_desc">Rakenduste loendi toomine…</string>
+    <string name="sa_error_0203_desc">Kaugühenduse aktiveerimiseks värskendage Samsungi kontot käsitsi.</string>
+    <string name="sa_error_0203_title">Värskenda Samsungi kontot</string>
+    <string name="sa_error_0301_desc">Mobiilsideseadmes Samsungi kontole sisselogimisel ilmnes võrgutõrge.</string>
+    <string name="sa_error_0301_title">Funkts. aktiveerimine nurjus</string>
+    <string name="sa_error_0302_title">Funkts. aktiveerimine nurjus</string>
+    <string name="sa_error_0401_desc">Ilmnes tõrge. Proovige uuesti.</string>
+    <string name="sa_error_0401_title">Tõrge</string>
+    <string name="safety_message_interval_10minutes">Iga 10 minuti järel</string>
+    <string name="safety_message_interval_20minutes">Iga 20 minuti järel</string>
+    <string name="samsung_apps_info">%1$si kaudu allalaaditud rakendusi saab kustutada, kui rakendus %2$s on desinstallitud või rakenduse andmed on kustutatud. Kustutatud rakendusi saate uuesti alla laadida %3$sis oma ostude ajaloos.</string>
+    <string name="samsung_apps_notice">Teavitus</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Värskenda kohe</string>
+    <string name="screen_off">Hoia ekraani väljas</string>
+    <string name="screen_off_desc">Saate võtta vastu teavitusi, v.a saabuvate kõnede ja märguannete kohta, oma seadmes Gear, kui selle ekraan on välja lülitatud.</string>
+    <string name="setting_Enable">Luba</string>
+    <string name="setting_alpm_dialog_title">Tähelepanu!</string>
+    <string name="setting_always_off">Alati väljas</string>
+    <string name="setting_always_on">Alati sees</string>
+    <string name="setting_auto">Auto.</string>
+    <string name="setting_auto_lock_disable_desc">Desaktiveeritud administaatori poolt, krüptimispol. või volitused.</string>
+    <string name="setting_backup_restore2">Varunda ja taasta</string>
+    <string name="setting_basic">PÕHILINE</string>
+    <string name="setting_connections">ÜHENDUSED</string>
+    <string name="setting_disable">Desaktiv.</string>
+    <string name="setting_home_key_double_pressing">Avaekr. klahvi vajut. 2x</string>
+    <string name="setting_language_input">KEEL JA SISESTUS</string>
+    <string name="setting_manage_text_templates">Redigeeri tekstimalle</string>
+    <string name="setting_mobile_network">Mobiilsidevõrgud</string>
+    <string name="setting_mobile_network_desc">Seadme Gear ühendus teie mobiilsidevõrguga katkestatakse, kui see on teie mobiilsideseadmega Bluetoothi kaudu ühendatud. Kui Bluetooth-ühendus lõppeb, loob seade Gear ühenduse teie mobiilsidevõrguga automaatselt uuesti.</string>
+    <string name="setting_multisim_popup_desc">Sõltuvalt teie teenusepakkujast võidakse funktsiooni Mitmik-SIM kasutamiseks nõuda eraldi tellimust. Toksake valikut OK, et aktiveerida funktsiooni Mitmik-SIM.</string>
+    <string name="setting_opensource">Avatud lähtek. litsents</string>
+    <string name="setting_palm_motion">Liigutused</string>
+    <string name="setting_palm_swipe">Pihuga lib., et jäädv.</string>
+    <string name="setting_palmover_desc">Pange oma käsi sisselülitatud ekraanile, et vaigistada saabuvate kõnede helinat ja märguandeid või peatada meediumi.</string>
+    <string name="setting_palmswipe_desc">Ekraani jäädvustamiseks libistage terve sõrmega üle ekraani, hoides sõrme kogu aeg ekraaniga ühenduses.</string>
+    <string name="setting_pause_mute">Vaigista/peata</string>
+    <string name="setting_power_key_double_pressing">Toitenupu vaj. kaks korda</string>
+    <string name="setting_restoring">Taastamine…</string>
+    <string name="setting_safety_b1_desc">Kui teie seade Gear ja mobiilsideseade on omavahel ühendatud, aitab funktsioon Saada abisõnumeid teid hädaolukorras. See teavitab teie hädaabisõnumite kontakte teie olukorrast, saates neile hädaabisõnumid koos teie asukohaga. Nende sõnumite saatmisel võivad rakenduda lisatasud. Funktsiooni Saada abisõnumeid aktiveerimiseks hädaolukorras vajutage %d korda toitenuppu.</string>
+    <string name="setting_safety_b2_desc">Kui teie seade Gear ja mobiilsideseade on omavahel ühendatud, aitab funktsioon Saada abisõnumeid teid hädaolukorras, tehes pildid seadme Gear kaameraga. See teavitab teie hädaabisõnumite kontakte teie olukorrast, saates neile hädaabisõnumid koos pildi ja teie asukohaga. Esimene sõnum sisaldab nii teie asukohta kui ka pilti. Seejärel saadetakse teatud intervalli möödudes teine sõnum, mis sisaldab ainult teie asukohta. Nende sõnumite saatmisel võivad rakenduda lisatasud. Funktsiooni Saada abisõnumeid aktiveerimiseks hädaolukorras vajutage %d korda avaekraani klahvi.</string>
+    <string name="setting_safety_b2_no_camera_desc">Kui teie seade Gear ja mobiilsideseade on omavahel ühendatud, aitab funktsioon Saada abisõnumeid teid hädaolukorras. See teavitab teie hädaabisõnumite kontakte teie olukorrast, saates neile hädaabisõnumid koos teie asukohaga. Nende sõnumite saatmisel võivad rakenduda lisatasud. Funktsiooni Saada abisõnumeid aktiveerimiseks hädaolukorras vajutage %d korda avaekraani klahvi.</string>
+    <string name="setting_safety_b3_desc1">Kui olete hädaolukorras, vajutage kiiresti 3 korda avaekraani klahvi, et saata oma esmastele kontaktidele kiirmärguannet.</string>
+    <string name="setting_safety_b3_desc2">Teie esmastele kontaktidele saadetakse hädaabisõnumid, mis sisaldavad teavet teie praeguse asukoha kohta.</string>
+    <string name="setting_safety_b3_desc3">Selle funktsiooni kasutamiseks ühendage oma mobiilsideseade seadmega Gear.</string>
+    <string name="setting_safety_list">Ohutusabi</string>
+    <string name="setting_samsung_legal">Samsungi juriidiline teave</string>
+    <string name="setting_screen_lock">Automaatlukustus</string>
+    <string name="setting_screen_lock_desc">Saate määrata mobiilsideseadme lukustuma automaatselt, kui teie seade Gear on tuvastamiseks liiga kaugel.</string>
+    <string name="setting_screen_secutiry">EKRAANI TURVALISUS</string>
+    <string name="setting_send_emergency_picture">Saada hädaabipilt</string>
+    <string name="setting_send_emergency_recording">Saada helisalvestis</string>
+    <string name="setting_send_emergency_term_agree">Olen lugenud eelnimetatud tingimused täies mahus läbi ja nõustun nendega.</string>
+    <string name="setting_send_help_message">Saada abisõnumeid</string>
+    <string name="setting_send_terms_conditions">Tingimused</string>
+    <string name="setting_smart_relay">Nutikas edastamine</string>
+    <string name="setting_smart_relay_desc">Saate vaadata oma seadme Gear sisu oma mobiilsideseadmes, kui võtate oma mobiilsideseadme kätte.</string>
+    <string name="setting_smart_toss">Nutikas edastamine</string>
+    <string name="setting_system">SÜSTEEM</string>
+    <string name="setting_text_to_speech_engine">Funk. Tekst kõneks mootor</string>
+    <string name="setting_textinput_emoticon">Emotikonid</string>
+    <string name="setting_textinput_keyboard">Klaviatuur</string>
+    <string name="setting_textinput_list">Tekstisisestusviisid</string>
+    <string name="setting_textinput_templates">Mallid</string>
+    <string name="setting_try_it">Proovige</string>
+    <string name="setting_wake_up">Aktiveerimise käsklus</string>
+    <string name="setting_wake_up_desc">Seadme Gear aktiveerimiseks tõstke käsi, millel Gear on.</string>
+    <string name="setting_wakeupgesture">"Seadme Gear aktiveerimiseks tõstke käsi, millel Gear on, ja vaadake seadme Gear ekraani.
+
+See funktsioon ei tööta, kui nõjatute taha või lamate pikali ning võib tarbida rohkem seadme Gear akutoidet, kuna selle liikumissensor on alati sees."</string>
+    <string name="setting_wakeupgesture_clock">Kell</string>
+    <string name="setting_wakeupgesture_previous">Viimati kuvatud ekraan</string>
+    <string name="setting_wakeupgesture_screen_on">Vali kuvatud ekraan</string>
+    <string name="settings_application_version">Rakenduse versioon</string>
+    <string name="settings_emergency_contact">Halda esmaseid kontakte</string>
+    <string name="settings_emergency_contact_empty">Ühtegi esmast kontakti pole lisatud. Funktsiooni %s aktiveerimiseks lisage kontakte esmaste kontaktide hulka.</string>
+    <string name="settings_legal_information">Juriidiline teave</string>
+    <string name="settings_message_interval">Sõnumite intervall</string>
+    <string name="settings_not_set">Pole määratud</string>
+    <string name="settings_security">Turvalisus</string>
+    <string name="settings_security_update">Turvalisuse värskendus</string>
+    <string name="settings_security_update_desc">Kaitske oma seadet kahjuliku sisu eest, parandades selle turvalisust ja teenust.</string>
+    <string name="settings_unknown_sources_dialog">Tundmatust allikast installimine võib olla kahjulik teie seadmele ja isiklikele andmetele. Kui toksate valikut OK, nõustute, et olete ainuisikuliselt vastutav oma seadme kahjustuste või andmekadude eest, mis võivad kaasneda nende rakenduste kasutamisega.</string>
+    <string name="settings_unknown_sources_subtitle">Lubate installida rakendusi muudest allikatest peale Samsung Gear Appsi.</string>
+    <string name="share_loc_disabled">Funktsioon Jaga asukohta on desaktiveeritud.</string>
+    <string name="share_location_desc">Lubate funktsioonil Leia minu Gear ja Leia minu seade jagada oma seadme Gear ja mobiilsideseadme asukoha andmeid.</string>
+    <string name="shm_I_agree_that_mobile_data">Nõustun sellega, et võidakse kasutada mobiilset andmesidet ja hädaolukordades võidakse saata MMS-sõnumeid. Saan aru, et sellega võivad rakenduda lisatasud.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Abiteate saatmine] on mõeldud selleks, et aidata kasutajatel saata teade nende ligikaudse asukoha ning visuaalse/auditiivse keskkonna kohta eelnevalt kindlaks määratud valitud kontaktpunkti mobiiltelefonile. Teenused on muudetud kättesaadavaks ainult teie mugavuse huvides ega ole ette nähtud asendama asutustele tehtavaid kõnesid hädaabinumbrile, samuti ei tohiks neid sellisena käsitleda.
+
+2. [Abiteate saatmine] (edaspidi „teenused”) ei pruugi täpselt, pidevalt ja vigadeta toimida, olenevalt sellistest asjaoludest nagu võrguühendus,GPSi/Wi-Fi kättesaadavus, teie valitud kontaktipunkti seadme olek ja/või seisukord, aku tase ja/või muud asjaolud, mis on väljaspool Samsung Electronics Co., Ltd. (edaspidi „Samsung”, „meie”) kontrolli. Asukohainfo täpsust ja õigeaegset teenuste osutamist võivad mõjutada ümbritsev keskkond ning teie ja teie valitud kontaktpunkti seadme seisukord. Kui ei ole sõnaselgelt teisiti öeldud või seadusega nõutud, loobub Samsung mis tahes garantiist, et teenused toimivad täpselt, pidevalt või ilma vigadeta. Juhime tähelepanu, et teie valitud kontaktpunkt peab olema töötav mobiiltelefon ja seade peab olema sisse lülitatud ning suutma võtta vastu tekstisõnumeid. Teie ümbruskonna ja asukoha andmete ülekandmine võib olla teile tasuline olenevalt tasust, mille on kehtestanud teie teenuseosutaja.
+
+Selleks et teenused toimiksid eesmärgipäraselt, võib olla vajalik funktsioon (kui olete seda juba kord kasutanud), millega lülitatakse seadmes automaatselt sisse GPSi ja Wi-Fi funktsioonid. Te kinnitate ja nõustute, et GPSi ja Wi-Fi funktsioonide automaatse võimaldamisega (vajaduse korral), ilma et teid täiendavalt teavitataks või teie nõusolekut küsitaks.
+
+3. Te kinnitate ja nõustute, et ei kuritarvita seda funktsiooni ega kasuta seda funktsiooni ebaseaduslikel eesmärkidel või eraelu puutumatuse või teiste isiklike või varaliste õiguste rikkumiseks. Kasutage seda funktsiooni vaid seadusega kooskõlas ja ainult hädaolukorras. Te nõustute olema selle funktsiooni kasutamise eest ainuisikuliselt vastutav. Samsung ei vastuta ühegi tagajärje eest, mis võib tekkida, kui te seda funktsiooni kasutate.
+
+4. Teenused on muudetud kättesaadavaks ainult teie mugavuse huvides ega ole ette nähtud asendama asutustele tehtavaid kõnesid hädaabinumbrile, samuti ei tohiks neid sellisena käsitleda. Kui ei ole sõnaselgelt teisiti öeldud või seadusega nõutud, loobub Samsung mis tahes garantiist, et teenused toimivad täpselt, pidevalt või ilma vigadeta.
+
+5. LAHTIÜTLEMINE GARANTIIDEST. KASUTAJA ON TEADLIK JA NÕUSTUB JÄRGMISEGA:
+ 
+A. TEENUSEID OSUTATAKSE SELLISTENA „NAGU NEED ON” KOOS „KÕIGI VIGADEGA” JA NII, „NAGU NEED ON KÄTTESAADAVAD”. TEIE VASTUTATE NENDE KASUTAMISEST TEKKIVA RISKI EEST. SAMSUNG EI PAKU TEENUSTE KOHTA VÕI NENDEGA SEOSES MINGEID OTSESEID GARANTIISID EGA TINGIMUSI. SAMSUNG LOOBUB SÕNASELGELT MIS TAHES KINNITUSTEST JA GARANTIIDEST, OLGU NEED SIIS OTSESED VÕI KAUDSED, SEALHULGAS, KUID MITTE AINULT, KAUDSETEST KAUBASTATAVUSE, MINGIKS KINDLAKS OTSTARBEKS SOBIVUSE, ÕIGUSTE MITTERIKKUMISE GARANTIIDEST NING MIS TAHES VAIKIMISI ANTUD GARANTIIDEST TEHINGU VÕI TOIMIVUSE OSAS.
+
+B. ILMA ET SEE PIIRAKS EESPOOL NIMETATUT, EI VÕTA SAMSUNG VASTUTUST EGA ANNA GARANTIID, ET (i) TEENUSED VASTAVAD TEIE NÕUDMISTELE; (ii) TEENUSEID OSUTATAKSE TÕRGETETA, ÕIGEAEGSELT, TURVALISELT VÕI RIKETETA; (iii) TEENUSTEST SAADUD SISU VÕI TEENUSTE TEAVITUSED VÕI FUNKTSIOONID ON KÄTTESAADAVAD, TÄPSED, TÄIELIKUD VÕI USALDUSVÄÄRSED; (iv) TEENUSTE KVALITEET VÕI MUU MATERJAL, MIDA OLETE TEENUSTE ABIL SAANUD, VASTAVAD TEIE OOTUSTELE, VÕI (v) TEENUSTE SUUREMAD VÕI VÄIKSEMAD VEAD PARANDATAKSE.
+
+6. VASTUTUSE PIIRAMINE
+
+A. TE MÕISTATE JA NÕUSTUTE SÕNASELGELT, ET SAMSUNG EI VASTUTA HOOLETUSE TEOORIA KOHASELT MIS TAHES KAUDSE, JUHUSLIKU, ERILISE, KARISTUSLIKU, JOHTUVA VÕI HOIATAVA KAO, VASTUTUSE, KAHJU VÕI KULU EEST, SEALHULGAS, KUID MITTE AINULT, SAAMATA JÄÄNUD TULU, KASUTUSE VÕI MUUDE KADUDE EEST (ISEGI KUI PARANDUS, ASENDUS VÕI NENDE TEENUSTE HÜVITAMINE EI KOMPENSEERI TÄIEL MÄÄRAL KADUSID VÕI KUI SAMSUNG TEADIS VÕI OLEKS PIDANUD TEADMA SELLISTE KADUDE, VASTUTUSE, KAHJU VÕI KULU TEKKIMISE VÕIMALUSEST), MIS TULENES VAHETULT VÕI KAUDSELT: (i) LEPINGU, GARANTII VÕI TINGIMUSE RIKKUMISEST, RANGEST VASTUTUSEST, HOOLETUSEST VÕI MUUST RIKKUMISEST TULENEVATEST NÕUETEST KOHALDUVATE SEADUSTEGA MÄÄRATUD ULATUSES; (ii) TEENUSTE KASUTAMISEST VÕI VÕIMATUSEST NEID KASUTADA; (iii) ASENDUSTEENUSTE OSUTAMISE KULUDEST; (iv) ÜLEKANDELE VÕI ANDMETELE LUBAMATUST JUURDEPÄÄSUST VÕI NENDE MUUTMISEST; (v) MIS TAHES KOLMANDA POOLE ÜTLUSTEST VÕI TEGUDEST; (vi) KÄESOLEVAST LEPINGUST; (vii) ISIKU VIGASTAMISEST (SH SURM) VÕI VARA KAHJUSTAMISEST, VÕI (viii) MIS TAHES MUUST ASJAST, MIS ON SEOTUD TEENUSTEGA VÕI TEENUSTE PAKUTAVA SISUGA.
+ 
+B. TEIE AINUS VIIS LAHENDADA SAMSUNGIGA KÄESOLEVA LEPINGU VÕI TEENUSTE OSAS TEKKIVAID VAIDLUSI ON TEENUSTE KASUTAMISE PEATAMINE.
+ 
+C. MÕNES ÕIGUSRUUMIS EI OLE LUBATUD TEATAVAID GARANTIISID VÄLISTADA VÕI PIIRATA VÕI VÄLISTADA VASTUTUST JUHUSLIKE VÕI KAUDSETE KAHJUDE EEST. SEEGA EI PRUUGI MÕNED EESPOOL PUNKTIDES 5 JA 6 NIMETATUD PIIRANGUD TEIE PUHUL KEHTIDA.
+
+7. HÜVITUS. Te nõustute hoidma kahjutuna ja kaitsma Samsungit ning hüvitama talle mis tahes nõuete, meetmete, nõudmiste, kulude, kohustuste, kahjude, kahjustuste, trahvide ja kulutuste eest (sealhulgas mõistlikud advokaaditasud ja -kulud), mis tulenevad või on seotud teie teenuste kasutamisest või käesoleva lepingu rikkumisest teie poolt. Kui käesolevate tingimuste kohaselt teile antud litsentside isiklikust laadist hoolimata te lubate kellel tahes teenuseid kasutada või pakkuda kellele tahes teenuste kaudu saadud teavet, nõustute te seda isikut teavitama nende tingimuste olemasolust, mis on sellele isikule siduvad, ja nõustute hoidma kahjutuna ja kaitsma Samsungit ning hüvitama talle mis tahes nõuete, meetmete, nõudmiste, kulude, kohustuste, kahjude, kahjustuste, trahvide ja kulutuste eest (sealhulgas advokaaditasud ja -kulud), mis on seotud selle isiku poolt teenuste kasutamisega.
+
+8. Force Majeure. Samsung ei vastuta käesolevate tingimuste kohaselt toimivuse viibimise või rikete eest või teenuste katkemise eest, mis tulenevad vääramatust jõust, tsiviil- või sõjalisest võimust, sõjast, terroriaktidest, töövaidlustest, materjalidest või kolmandate isikute osutatavatest teenustest või mis tahes põhjusest, mis ei allu Samsungi mõistlikule kontrollile."</string>
+    <string name="shm_share_my_location_checkbox_text">Nõustun lubama rakendusel %1$s jagada minu asukohta minu üksuse %2$s kontaktidega.</string>
+    <string name="smartrelay_not_show">Ära enam kuva</string>
+    <string name="software_update">Tarkvaravärskendus</string>
+    <string name="ss_double_tap_any_screen">Toksake kahe sõrmega kaks korda ükskõik millisel ekraanil, et kuvada heleduse ja helitugevuse juhtnuppe ning muud kasulikku teavet.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Kõnede suunamine teie seadmesse Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Taotlemine…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Seadete lugemine…</string>
+    <string name="ss_loading_ing_abb">Laadimine…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobiilne andmeside on desaktiveeritud. Looge selle asemel ühendus Wi-Fi võrguga või aktiveerige mobiilne andmeside ja proovige uuesti</string>
+    <string name="ss_no_network_connection">Võrguühendus puudub</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Kasutusjuhend</string>
+    <string name="stub_list_install">Installi</string>
+    <string name="tab_stub_list">Esiletõstetud</string>
+    <string name="talkback_download">Lae alla</string>
+    <string name="talkback_setting">Seadistus</string>
+    <string name="the_samsung_gear_application">rakendus Samsung Gear</string>
+    <string name="threeg_connection">Kasuta kaugühendust</string>
+    <string name="threeg_connection_subtitle">Saate luua seadmega Gear kaugühenduse, kasutades mobiilset andmesidet või Wi-Fi ühendust koos oma Samsungi kontoga.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Desinstalli</string>
+    <string name="title_activity_connect_popup">Loo ühendus</string>
+    <string name="title_activity_paired_watch">Seotud seade</string>
+    <string name="title_alertdialog_device_name_popup">Seadme %s ümbernimetamine</string>
+    <string name="title_alertdialog_disconnect_popup">Katkesta ühendus</string>
+    <string name="title_dialog_pm_error">Hoiatus</string>
+    <string name="title_dialog_uninstall">Deinstalli</string>
+    <string name="title_findmywatch_connect2">Leia minu Gear</string>
+    <string name="title_findmywatch_finding">Otsimine…</string>
+    <string name="tri_connect_title_circle_to_gear">Seadme %1$s ühendamine seadmega %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Teie seadme %1$s ühendamine Bluetoothi kaudu teie seadmega %2$s katkestab ajutiselt ühenduse teie seadme %3$s ja teie mobiilsideseadme vahel. Ühendus taastub peagi ja siis on teie seade %4$s ühendatud nii teie seadmega %5$s kui ka teie mobiilsideseadmega.</string>
+    <string name="tt_install_voice_data">Inst. TTS-i hääleandmed</string>
+    <string name="tt_install_voice_data_required">Installige oma seadmesse Gear täiendavad funktsiooni Tekst kõneks keeled.</string>
+    <string name="tt_language">Keel</string>
+    <string name="tt_send_help_message">Saada abisõnumeid</string>
+    <string name="tt_tts_language_guide">Teie funktsiooni Tekst kõneks keeleks on keel, mille te määrasite oma seadme Gear menüüs Seaded. Kui funktsiooni Tekst kõneks mootor ei toeta teie keelt, kasutatakse inglise keelt (Ühendkuningriik).</string>
+    <string name="unable_to_connect_popup_message">Seadme Gear ühendamine teie mobiilsideseadmega nurjus. Proovige hiljem uuesti.</string>
+    <string name="unable_to_connect_popup_title">Ühendus nurjus</string>
+    <string name="unable_to_lock_gear">Seadet Gear ei saa lukustada</string>
+    <string name="unable_to_reset_gear">Seadet Gear ei saa lähtestada</string>
+    <string name="uninstall_applications">Desinstalli rakendused</string>
+    <string name="unknown_sources_msg_new">Rakendust %1$s ei installita %2$si kaudu. Teie seade ja isiklikud andmed on haavatavamad rünnakutele tundmatute allikate rakenduste poolt. Nõustute, et olete ainuisikuliselt vastutav oma seadme kahjustuste või andmekadude eest, mis võivad kaasneda nende rakenduste kasutamisega. Alati rakenduste installimiseks tundmatutest allikatest avage menüü %3$s > %4$s > %5$s ning aktiveerige %6$s. Rakenduse %7$s installimiseks toksake valikut OK.</string>
+    <string name="unknown_sources_title">Tundmatud allikad</string>
+    <string name="update_summary">Kontrolli värskendusi</string>
+    <string name="voice_control_subtitle">Öelge „Vasta” või „Keeldu” pauside ajal, kui seade Gear ei helise ega värise, et vastata kõnele või sellest keelduda.</string>
+    <string name="voicememo_link1">"Nuance'i tingimustega"</string>
+    <string name="voicememo_link3">"Nuance'i privaatsuseeskirjast"</string>
+    <string name="watchapp_all">Rakendused</string>
+    <string name="watchapp_noapps">Rakendused puuduvad</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Värskendamine…</string>
+    <string name="wifi_only">Ainult Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Värskendusi laaditakse alla ainult siis, kui on loodud ühendus Wi-Fi võrguga.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

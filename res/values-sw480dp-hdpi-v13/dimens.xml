@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FindMyPhoneButton_width">410.0dip</dimen>
+    <dimen name="noti_list_dummy_view_height">53.0dip</dimen>
+    <dimen name="eula_text_size">520.0dip</dimen>
+    <dimen name="eula_text_size_ipa">275.0dip</dimen>
+</resources>

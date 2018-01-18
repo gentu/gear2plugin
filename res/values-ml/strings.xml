@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">വിളിക്കുമ്പോള്‍ ലഭ്യമല്ല.</string>
+    <string name="actionbar_name">ഗിയര്‍ മാനേജര്‍</string>
+    <string name="alert_full_screen">പൂർണ്ണ സ്ക്രീൻ പോപ്-അപ്പ്</string>
+    <string name="alert_mini">മിനി പോപ്-അപ്പ്</string>
+    <string name="alertdialog_backkey_popup_content">മുന്നറിയിപ്പ്</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ഇത് %s-മായുള്ള നിങ്ങളുടെ കണക്ഷനെ അവസാനിപ്പിക്കും.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് നിങ്ങളുടെ %s വിച്ഛേദിക്കപ്പെടും. ഈ ഉപകരണങ്ങൾ അടുത്ത തവണ നിങ്ങൾ ബന്ധിപ്പിക്കുമ്പോൾ, നിങ്ങൾ ബ്ലൂടൂത്ത് ഉപയോഗിച്ചിരിക്കണം. അതിന് ശേഷമുള്ള ഏത് കണക്ഷനുകളും വിദൂര കണക്ഷൻ വഴി നിർവഹിക്കാവുന്നതാണ്.</string>
+    <string name="alertdialog_uninstall_popup_content">അൺഇൻസ്റ്റാളുചെയ്യുക</string>
+    <string name="app_name_samsung_gear">സാംസങ്ങ് ഗിയർ</string>
+    <string name="auto_call_forwarding">ഓട്ടോ കോൾ ഫോർവേഡിംഗ്</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് ഗിയർ വിച്ഛേദിക്കപ്പെട്ടിരിക്കുമ്പോൾ ഓട്ടോമാറ്റിക്കായി കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുക. ഉപകരണങ്ങൾ വീണ്ടും ബന്ധിപ്പിക്കുന്നത് വരെ, നിങ്ങളുടെ മൊബൈലിൽ നിന്ന് ഗിയറിലേക്ക് ഇൻകമിംഗ് കോളുകൾ ഇത് ഫോർവേഡ് ചെയ്യും.</string>
+    <string name="auto_update">സ്വയ അപ്‌ഡേറ്റ്</string>
+    <string name="auto_update_summary">അപ്‌ഡേറ്റുകള്‍ക്കായി ഓട്ടോമാറ്റിക് ആയി പരിശോധിക്കുക.</string>
+    <string name="backing_up">ബാക്കപ്പ് ചെയ്യുന്നു..</string>
+    <string name="backup_complete">ബാക്കപ്പ് പൂര്‍ത്തിയായി.</string>
+    <string name="bnr_backup">ബാക്കപ്പ് ചെയ്യുന്നു..</string>
+    <string name="bnr_bakcup_title">ബാക്കപ്പ്</string>
+    <string name="bnr_cancel">റദ്ദാക്കുക</string>
+    <string name="bnr_canel">റദ്ദാക്കുക</string>
+    <string name="bnr_except">%1$s (%2$s ഒഴികെ)</string>
+    <string name="bnr_except_autolock">ഓട്ടോ ലോക്ക്</string>
+    <string name="bnr_except_remoteconnection">റിമോട്ട് കണക്ഷൻ</string>
+    <string name="bnr_except_texttemplate">ടെക്സ്റ്റ്‌ ടെം‌പ്ലേറ്റുകള്‍</string>
+    <string name="bnr_no">ഇല്ല</string>
+    <string name="bnr_ok">ശരി</string>
+    <string name="bnr_reset_gear">ഒരു പുതിയ ഉപകരണത്തില്‍ ബന്ധിപ്പിക്കുന്നതിനായി, ഗിയർ അതിന്‍റെ ഫാക്ടറി ക്രമീകരണങ്ങളിലേക്ക് പുനഃക്രമീകരിക്കപ്പെടുന്നതാണ്.</string>
+    <string name="bnr_reset_gear_move_setupwizard">ഗിയർ മുഴുവനായും ക്രമീകരിക്കപ്പെട്ടിട്ടില്ല. നിലവില്‍, ഗിയറില്‍ സജ്ജീകരണ വിസാര്‍ഡ് തുറന്ന നിലയിലാണ്, എന്നാല്‍ ഗിയറുമായി ബന്ധിപ്പിക്കുന്നതിന് നിങ്ങള്‍ ഈ ഉപകരണത്തിലെ Gear Manager സജ്ജീകരണ വിസാര്‍ഡും തുറക്കേണ്ടതുണ്ട്.</string>
+    <string name="bnr_reset_initialization">അറിയിപ്പ്</string>
+    <string name="bnr_restored">ഡാറ്റ പുനഃസ്ഥാപിച്ചു.</string>
+    <string name="bnr_yes">അതെ</string>
+    <string name="bt_connected">ബന്ധിപ്പിച്ചു</string>
+    <string name="bt_disconnected">വിച്ഛേദിച്ചു</string>
+    <string name="bt_unpaired">പെയര്‍ ചെയ്യാത്തത്</string>
+    <string name="button_restore">റീസ്റ്റോര്‍</string>
+    <string name="call">കോൾ ചെയ്യുക</string>
+    <string name="call_check_gear_status_when_cfwd">കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രവർത്തനങ്ങളായ മൊബൈലിൽ നിന്ന് ഗിയറിലേക്ക്, ഗിയറിൽ നിന്ന് മൊബൈലിലേക്ക് എന്നിവ ഒരേ സമയം പ്രാപ്തമാക്കാനാവില്ല.</string>
+    <string name="call_dualsim1">SIM കാർഡ് 1</string>
+    <string name="call_dualsim1sim2">രണ്ട് SIM കാർഡുകളും</string>
+    <string name="call_dualsim2">SIM കാർഡ് 2</string>
+    <string name="call_forwarding">കോൾ ഫോർവേഡുചെയ്യൽ</string>
+    <string name="call_forwarding_agree">ഞാന്‍ അംഗീകരിക്കുന്നു</string>
+    <string name="call_forwarding_desc">നിങ്ങളുടെ ഇൻകമിംഗ് കോളുകളെ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് ഗിയറിലേക്ക് ഫോർവേഡ് ചെയ്യുക.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് നിങ്ങളുടെ ഗിയറിലേക്കുള്ള കോൾ ഫോർവേഡിംഗ് അപ്രാപ്തമാക്കുന്നതിന് ഒരു അഭ്യർത്ഥന നൽകിയിട്ടുണ്ട്. നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്കിന്‍റെയും മൊബൈൽ ഉപകരണത്തിന്‍റെയും അവസ്ഥ ഫലങ്ങളെ ബാധിച്ചേക്കാം.</string>
+    <string name="call_forwarding_enable_msg">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് നിങ്ങളുടെ ഗിയറിലേക്കുള്ള കോൾ ഫോർവേഡിംഗ് പ്രാപ്തമാക്കുന്നതിന് ഒരു അഭ്യർത്ഥന നൽകിയിട്ടുണ്ട്. നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്കിന്‍റെയും മൊബൈൽ ഉപകരണത്തിന്‍റെയും അവസ്ഥ ഫലങ്ങളെ ബാധിച്ചേക്കാം.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് നിങ്ങളുടെ ഗിയറിലേക്കുള്ള കോൾ ഫോർവേഡിംഗ് നിലവിൽ പ്രാപ്തമാണ്. നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള ഇൻകമിംഗ് കോളുകൾ നിങ്ങളുടെ ഗിയറിലേക്ക് ഫോർവേഡ് ചെയ്യപ്പെടുന്നതാണ്. നിങ്ങളുടെ ഗിയർ നിങ്ങളുടെ കൈവശമില്ലെങ്കിൽ, ഒരു കോളും നിങ്ങൾക്ക് നഷ്ടപ്പെടുന്നില്ലെന്ന് ഉറപ്പുവരുത്താനായി ക്രമീകരണങ്ങൾ എന്നതിലേക്ക് പോയി കോളുകൾ സ്വയം ഫോർവേഡ് ചെയ്യൽ അപ്രാപ്തമാക്കുക.</string>
+    <string name="call_forwarding_turning_off_notify_msg">ശബ്ദകോള്‍ കോള്‍ ഫോര്‍വേ അപ്രാപ്തമാ…</string>
+    <string name="call_forwarding_turning_on_notify_msg">ശബ്ദകോള്‍ കോള്‍ ഫോര്‍വേ പ്രാപ്തമാ…</string>
+    <string name="call_no_gear_number">നമ്പരുകള്‍ ഒന്നും ഇല്ല</string>
+    <string name="call_select_dualsim_title">SIM കാര്‍ഡ് തിരഞ്ഞെടുക്കുക</string>
+    <string name="call_voice_control">ശബ്‌ദ നിയന്ത്രണം</string>
+    <string name="callforwarding_help_des1">നിങ്ങളുടെ ഉപകരണങ്ങളെ ബന്ധിപ്പിച്ചിരിക്കുന്നത് ബ്ലൂടൂത്ത് അല്ലെങ്കിൽ വിദൂര കണക്ഷൻ വഴിയാണോ എന്നതിന്‍റെ അടിസ്ഥാനത്തിൽ കോളുകൾ ഓട്ടോമാറ്റിക്കായി ഫോർവേഡ് ചെയ്യപ്പെടുന്ന ഉപകരണം സ്വിച്ചുചെയ്യുക.</string>
+    <string name="callforwarding_help_des2">നിങ്ങൾ ചലിച്ചുകൊണ്ടിരിക്കുകയും ഗിയർ ധരിക്കുകയും അത് മൊബൈൽ ഉപകരണത്തിലേക്ക് വിദൂരമായി ബന്ധിപ്പിച്ചിരിക്കുകയും ചെയ്യുന്ന സമയത്ത് നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് ചെയ്യപ്പെടുന്ന കോളുകൾ നിങ്ങളുടെ ഗിയറിൽ സ്വീകരിക്കുക.</string>
+    <string name="cancel">റദ്ദാക്കുക</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">കോൾ ഫോർവേഡിംഗ് അപ്രാപ്തമാക്കുന്നത് പരാജയപ്പെട്ടു.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">കൂടുതൽ ക്ലോക്കുകൾ ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="clocks_noti_uninstall_clock">%s അണ്‍ഇന്‍സ്റ്റാള്‍ ചെയ്യപ്പെടും.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെടുകയും ഡിഫോൾട്ട് ക്ലോക്കായി %2$s ക്രമീകരിക്കപ്പെടുകയും ചെയ്യും.</string>
+    <string name="clocks_title_basic_clocks">അടിസ്ഥാന ക്ലോക്കുകൾ</string>
+    <string name="clocks_title_downloaded_clocks">ഡൗൺലോഡ് ചെയ്യപ്പെട്ട ക്ലോക്കുകൾ</string>
+    <string name="clocks_title_style_clocks">സ്റ്റൈൽ ക്ലോക്കുകൾ</string>
+    <string name="clocks_uninstalled">അണ്‍‌ഇന്‍സ്റ്റാള്‍ചെയ്തു.</string>
+    <string name="clocks_uninstalling">അണ്‍ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നു…</string>
+    <string name="close">അടയ്ക്കുക</string>
+    <string name="closing_samsung_gear_message">നിങ്ങളുടെ ഗിയർ പുനഃക്രമീകരിക്കപ്പെട്ടു. Samsung Gear ആപ്ലിക്കേഷൻ താമസിയാതെ അടയ്ക്കും.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear ആപ്ലിക്കേഷൻ അടയ്ക്കുക</string>
+    <string name="cloud_backup_no_information">ഒരിക്കലുമില്ല</string>
+    <string name="cloud_backup_restore_backup_now">ഡാറ്റ ബാക്കപ്പ് ചെയ്യുക</string>
+    <string name="cloud_backup_restore_restore_now">ഡാറ്റ പുനഃസ്ഥാപിക്കുക</string>
+    <string name="cmw_agree">ഞാന്‍ അംഗീകരിക്കുന്നു</string>
+    <string name="cmw_eula_agree">മുകളില്‍പ്പറയുന്ന ഉപാധികളും നിബന്ധനകളും ഞാന്‍ മനസിലാക്കി അംഗീകരിക്കുന്നു</string>
+    <string name="cmw_for_setting">സ്ഥാന സേവനങ്ങൾ അപ്രാപ്തമാക്കിയിരിക്കുന്നു. ക്രമീകരണങ്ങൾ എന്നതിലേക്ക് പോവുക.</string>
+    <string name="cmw_high_accuracy_dialog_message">അതിവേഗവും കിറുകൃത്യവുമായ സ്ഥാനം കണ്ടെത്തലിന്, സ്ഥാനം > മോഡ് എന്നതിൽ ഉയർന്ന കൃത്യത തിരഞ്ഞെടുക്കുക.</string>
+    <string name="cmw_high_accuracy_dialog_title">ഉയർന്ന കൃത്യത തിരഞ്ഞെടുക്കുക</string>
+    <string name="cmw_legal_content">“ലൊക്കേഷൻ പങ്കിടുക” പ്രാപ്തമാക്കുക വഴി, നിങ്ങളുടെ മൊബൈൽ ഫോണുമായി ഒപ്പം/അല്ലെങ്കിൽ ഗിയർ ഉപകരണവുമായി ബന്ധപ്പെട്ട ലൊക്കേഷൻ ഡാറ്റ, എന്റെ ഗിയർ കണ്ടെത്തുക, എന്റെ ഉപകരണം കണ്ടെത്തുക സേവനം നൽകുന്നതിനായി സാംസങ്ങ് സെർവറിലൂടെ ട്രാൻസ്മിറ്റ് ചെയ്യുമെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു. നിങ്ങളുടെ ഉപകരണ ലൊക്കേഷനെ കുറിച്ചുള്ള ഒരു ഡാറ്റയും അല്ലെങ്കിൽ വിവരങ്ങളും സാംസങ്ങ് സെർവറിൽ സൂക്ഷിക്കപ്പെടില്ല.</string>
+    <string name="cmw_legal_content1">\"%1$s &amp; %2$s\" പ്രാപ്തമാക്കുക വഴി, നിങ്ങളുടെ മൊബൈൽ ഫോണുമായി ഒപ്പം/അല്ലെങ്കിൽ ഗിയർ ഉപകരണവുമായി ബന്ധപ്പെട്ട ലൊക്കേഷൻ ഡാറ്റ, %1$s &amp; %2$s സേവനം നൽകുന്നതിനായി സാംസങ്ങ് സെർവറിലൂടെ ട്രാൻസ്മിറ്റ് ചെയ്യുമെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു. നിങ്ങളുടെ ഉപകരണ ലൊക്കേഷനെ കുറിച്ചുള്ള ഒരു ഡാറ്റയും അല്ലെങ്കിൽ വിവരങ്ങളും സാംസങ്ങ് സെർവറിൽ സൂക്ഷിക്കപ്പെടില്ല.</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s &amp; %2$s\" പ്രാപ്തമാക്കുക വഴി, നിങ്ങളുടെ മൊബൈൽ ഫോണുമായി ബന്ധപ്പെട്ട ലൊക്കേഷൻ ഡാറ്റ, %2$s സേവനം നൽകുന്നതിനായി സാംസങ്ങ് സെർവറിലൂടെ ട്രാൻസ്മിറ്റ് ചെയ്യുമെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു. നിങ്ങളുടെ ഉപകരണ ലൊക്കേഷനെ കുറിച്ചുള്ള ഒരു ഡാറ്റയും അല്ലെങ്കിൽ വിവരങ്ങളും സാംസങ്ങ് സെർവറിൽ സൂക്ഷിക്കപ്പെടില്ല.</string>
+    <string name="cmw_legal_content_2">Samsung Privacy Policy</string>
+    <string name="cmw_legal_title">നിയമപരമായ നോട്ടീസുകള്‍</string>
+    <string name="cmw_location">സ്ഥാന സേവനങ്ങള്‍ പ്രാപ്തമാക്കുക</string>
+    <string name="cmw_show_on_map">മാപ്പിൽ കാണിക്കുക</string>
+    <string name="color_black">കറുപ്പ്</string>
+    <string name="color_blue">നീല</string>
+    <string name="color_brown">തവിട്ടുനിറം</string>
+    <string name="color_gray">ചാരനിറം</string>
+    <string name="color_green">പച്ച</string>
+    <string name="color_light_sky_blue">ലൈറ്റ് സ്കൈ ബ്ലൂ</string>
+    <string name="color_medium_purple">മീഡിയം പർപ്പിൾ</string>
+    <string name="color_orange">ഓറഞ്ച്</string>
+    <string name="color_pink">പിങ്ക്</string>
+    <string name="color_purple">പർപ്പിൾ</string>
+    <string name="color_red">ചുവപ്പ്</string>
+    <string name="color_spring_green">വസന്തകാല പച്ച</string>
+    <string name="common_none">ഒന്നുമില്ല</string>
+    <string name="common_off">ഓഫ്</string>
+    <string name="common_on">ഓണ്‍</string>
+    <string name="common_recent_apps">അടുത്തിടെ ഉപയോഗിച്ച ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="connect_popup_content">%s ലേക്ക് ബന്ധിപ്പിക്കുന്നു…</string>
+    <string name="connected_by_trasport_BT">ബ്ലൂടൂത്ത് വഴി ബന്ധിപ്പിച്ചു</string>
+    <string name="connected_by_trasport_SCS">വിദൂരമായി ബന്ധിപ്പിച്ചു</string>
+    <string name="connecting_popup_message">ഗിയറിലേക്ക് ബന്ധിപ്പിക്കുന്നു…</string>
+    <string name="connecting_popup_title">ഗിയറിലേക്ക് ബന്ധിപ്പിക്കുക</string>
+    <string name="dialog_check_phone_number_msg1">ഇനിപ്പറയുന്ന വിവരങ്ങൾ കൃത്യമാണെന്ന് ഉറപ്പാക്കുക:</string>
+    <string name="dialog_check_phone_number_msg2">മൊബൈൽ ഫോൺ നമ്പർ: %s</string>
+    <string name="dialog_check_phone_number_msg3">ഗിയർ ഫോൺ നമ്പർ: %s</string>
+    <string name="dialog_check_phone_number_msg4">സ്ഥിരീകരിക്കുന്നതിനും ഓട്ടോ കോൾ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുന്നതിനും ശരി എന്നതിൽ സ്പർശിക്കുക.</string>
+    <string name="dialog_enable_remote_connection_desc">ഓട്ടോ കോൾ ഫോർവേഡ് ചെയ്യൽ പ്രാപ്തമാക്കുന്നതിന്, വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുക, തുടർന്ന് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="dialog_enable_remote_connection_title">വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുക</string>
+    <string name="dialog_reverse_msg">നിങ്ങളുടെ സേവന ദാതാവിന് അനുസൃതമായി, ഈ സവിശേഷത ഉപയോഗിക്കാൻ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തെയും ഗിയറിനെയും അനുവദിക്കുന്നതിന് വെവ്വേറെ സബ്സ്ക്രിപ്ഷനുകൾ ആവശ്യമായി വന്നേക്കാം. ഇത് അധിക നിരക്കുകൾക്ക് ഇടവരുത്തിയേക്കാം.</string>
+    <string name="dialog_set_phone_number_msg">ഓട്ടോ കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുന്നതിന്, ഇൻകമിംഗ് കോളുകൾ ഫോർവേഡ് ചെയ്യാനും സ്വീകരിക്കാനും നിങ്ങളാഗ്രഹിക്കുന്ന ഉപകരണങ്ങളുടെ ഫോൺ നമ്പറുകൾ ക്രമീകരിക്കുക.</string>
+    <string name="dialog_set_phone_number_title">ഓട്ടോ കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുക</string>
+    <string name="disable_loc_text">ലൊക്കേഷൻ പങ്കിടുക എന്നത് അപ്രാപ്തമാക്കപ്പെടും. എന്‍റെ ഗിയർ കണ്ടെത്തുക അല്ലെങ്കിൽ എന്‍റെ ഉപകരണം കണ്ടെത്തുക എന്നത് വഴി നിങ്ങളുടെ ഗിയറിനെയോ മൊബൈൽ ഉപകരണത്തെയോ തിരയുന്നതിനായി ലൊക്കേഷൻ വിവരങ്ങൾ ഉപയോഗിക്കാൻ നിങ്ങൾക്കാവില്ല.</string>
+    <string name="disable_loc_text_no_gps">ലൊക്കേഷൻ പങ്കിടുക എന്നത് അപ്രാപ്തമാക്കപ്പെടും. എന്‍റെ ഉപകരണം കണ്ടെത്തുക എന്നത് വഴി നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തെ തിരയുന്നതിനായി ലൊക്കേഷൻ വിവരങ്ങൾ ഉപയോഗിക്കാൻ നിങ്ങൾക്കാവില്ല.</string>
+    <string name="disable_remote_connection">വിദൂര കണക്ഷൻ അപ്രാപ്തമാക്കുക</string>
+    <string name="disable_remote_connection_fmm_fmd">എന്‍റെ ഗിയർ കണ്ടെത്തുക എന്നതും എന്‍റെ ഉപകരണം കണ്ടെത്തുക എന്നതും</string>
+    <string name="disable_remote_connection_receiving_blocked">മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് സന്ദേശങ്ങളും ഈമെയിലുകളും അറിയിപ്പുകളും സ്വീകരിക്കുന്നു</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് ഈമെയിലുകളും അറിയിപ്പുകളും സ്വീകരിക്കുന്നു</string>
+    <string name="disable_remote_connection_warning">വിദൂര കണക്ഷൻ അപ്രാപ്തമാക്കപ്പെടും. വീണ്ടും ബ്ലൂടൂത്ത് വഴി നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് ഗിയർ ബന്ധിപ്പിക്കുന്നത് വരെ ഇനിപ്പറയുന്ന പ്രവർത്തനങ്ങൾ ലഭ്യമായിരിക്കില്ല:</string>
+    <string name="disable_share_location">ലൊക്കേഷൻ പങ്കിടൽ അപ്രാപ്തമാക്കുക</string>
+    <string name="disconnect_popup_content">%s വിച്ഛേദിക്കുന്നു…</string>
+    <string name="do_not_show_again">ഇന്ന് വീണ്ടും കാണിക്കരുത്</string>
+    <string name="enable_auto_call_forwarding_msg">ഗിയർ വിച്ഛേദിക്കപ്പെട്ടിരിക്കുമ്പോൾ, നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്നുള്ള ഇൻകമിംഗ് കോളുകൾ, ഓട്ടോമാറ്റിക്കായി ഗിയറിലേക്ക് ഫോര്‍‌വേഡ് ചെയ്യുക. നിങ്ങളുടെ സേവന ദാതാവിനെ അടിസ്ഥാനമാക്കി, ഇത് അധിക നിരക്കുകൾക്ക് കാരണമാകാം. ഓട്ടോ കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുന്നതിന് ശരി സ്പർശിക്കുക.</string>
+    <string name="enable_auto_call_forwarding_title">ഓട്ടോ കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുക</string>
+    <string name="enable_more_notifications_enable">പ്രാപ്‌തമാക്കുക</string>
+    <string name="enable_notification_access">അറിയിപ്പ് ആക്സസ് പ്രാപ്തമാക്കുക</string>
+    <string name="enable_notification_access_desc">"നിങ്ങൾക്ക് ലഭിക്കുന്ന എല്ലാ അറിയിപ്പുകളും ഈ പ്രവർത്തനത്തിന് വായിക്കാൻ സാധിക്കും, അതിൽ വ്യക്തിഗത വിവരങ്ങളായ സമ്പർക്ക പേരുകളും നിങ്ങൾക്കയച്ച സന്ദേശങ്ങളും ഉൾപ്പെട്ടുവെന്നുവരാം. ഈ അറിയിപ്പുകൾ റദ്ദാക്കാനോ അവയുമായി ബന്ധപ്പെട്ട പ്രവൃത്തികൾ തിരഞ്ഞെടുക്കാനോ അതിന് സാധിക്കുന്നതാണ്.
+നിങ്ങളുടെ ഗിയറിൽ അറിയിപ്പുകൾ സ്വീകരിക്കുന്നതിന്, പ്രാപ്തമാക്കുക എന്നതിൽ സ്പർശിക്കുക, തുടർന്ന് %s പ്രാപ്തമാക്കുക."</string>
+    <string name="enable_share_location">സ്ഥാനം പങ്കിടൽ പ്രാപ്തമാക്കുക</string>
+    <string name="enabled_loc">ലൊക്കേഷൻ പങ്കിടൽ പ്രാപ്തമാക്കി.</string>
+    <string name="error_enter_device_name">ഉപകരണ നാമം നല്‍കുക.</string>
+    <string name="error_occurred">പിശക് സംഭവിച്ചു.</string>
+    <string name="find_my_device">എന്‍റെ ഉപകരണം കണ്ടെത്തുക</string>
+    <string name="find_my_gear">എന്‍റെ ഗിയർ കണ്ടെത്തുക</string>
+    <string name="find_watch_btn_start">ആരംഭിക്കുക</string>
+    <string name="find_watch_btn_stop">നിര്‍ത്തു.</string>
+    <string name="find_watch_off">നിങ്ങളുടെ ഗിയർ കണ്ടെത്തുന്നതിന്, ആരംഭിക്കുക എന്നതിൽ സ്പർശിക്കുക. ഗിയർ ഒരു ശബ്ദം പുറപ്പെടുവിക്കുകയും അതിന്‍റെ സ്ക്രീൻ ഓൺ ചെയ്യപ്പെടുകയും ചെയ്യും.</string>
+    <string name="find_watch_on">നിങ്ങളുടെ ഗിയർ കണ്ടെത്തുന്നത് നിർത്തുന്നതിന്, നിർത്തുക എന്നതിൽ സ്പർശിക്കുക. ഗിയർ ഒരു ശബ്ദം പുറപ്പെടുവിക്കുന്നത് നിർത്തുകയും അതിന്‍റെ സ്ക്രീൻ ഓഫ് ചെയ്യപ്പെടുകയും ചെയ്യും.</string>
+    <string name="font_gear_name">ഗിയർ</string>
+    <string name="font_noti_uninstall_idle_font">%1$s അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെടുകയും നിങ്ങളുടെ %2$s-ലേക്ക് ഡിഫോൾട്ട് ഫോണ്ട് പ്രയോഗിക്കപ്പെടുകയും ചെയ്യും.</string>
+    <string name="force_wifi_direct_msg">Wi-Fi Direct വഴി ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്യപ്പെടും. നിങ്ങളുടെ നിലവിലെ Wi-Fi Direct കണക്ഷനെ ഇത് അവസാനിപ്പിക്കും. ഇൻസ്റ്റാൾ ചെയ്യലിനെ നിങ്ങൾ റദ്ദാക്കുകയാണെങ്കിൽ, ഈ ആപ്ലിക്കേഷൻ ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് നിങ്ങളിതിനെ വീണ്ടും ഡൗൺലോഡ് ചെയ്യേണ്ടതായി വരും.</string>
+    <string name="force_wifi_direct_title">ഇന്‍‌സ്റ്റാള്‍</string>
+    <string name="force_wifi_install">ഇന്‍‌സ്റ്റാള്‍</string>
+    <string name="gear2_backup_confirm_text">നിങ്ങളുടെ ഡാറ്റ ഇപ്പോൾ നിങ്ങൾ ബാക്കപ്പ് ചെയ്യുകയാണെങ്കിൽ, മൊബൈൽ ഉപകരണത്തിലുള്ള നിലവിലെ ഗിയർ ബാക്കപ്പ് ഡാറ്റയുടെ സ്ഥാനത്ത് നിങ്ങളുടെ ഏറ്റവും പുതിയ ഗിയർ ഡാറ്റ സ്ഥാപിക്കപ്പെടും.</string>
+    <string name="gear2_restore_confirm_text">നിങ്ങളുടെ ഡാറ്റ നിങ്ങൾ പുനഃസ്ഥാപിക്കുകയാണെങ്കിൽ, നിങ്ങളുടെ ഗിയറിലുള്ള നിലവിലെ ഡാറ്റ ഇല്ലാതാക്കപ്പെടുകയും അതിന്‍റെ സ്ഥാനത്ത് നിങ്ങളുടെ ഗിയറിലുള്ള നിലവിലെ ബാക്കപ്പ് ഡാറ്റ സ്ഥാപിക്കപ്പെടുകയും ചെയ്യും.</string>
+    <string name="gear2_text">"നിങ്ങളുടെ %1$s ഉള്ളടക്കം ബാക്കപ്പ് ചെയ്യുന്നതിന് നിങ്ങളുടെ ഉപകരണ സംഭരണം ഉപയോഗിക്കുക:
+%2$s
+
+നിങ്ങൾ ഈ ഉള്ളടക്കത്തെ മുമ്പേതന്നെ ബാക്കപ്പ് ചെയ്തിട്ടുണ്ടെങ്കിൽ, ഇപ്പോൾ നിങ്ങൾക്കത് %3$s-ലേക്ക് പുനഃസ്ഥാപിക്കാവുന്നതാണ്.
+
+ഫയലിന്‍റെ വലുപ്പത്തിന് അനുസൃതമായി, അതിന് കുറച്ചുസമയം വേണ്ടിവന്നേക്കാം."</string>
+    <string name="gear2_text_import3">ക്രമീകരണങ്ങള്‍</string>
+    <string name="gear_bnr_desc">"ഇനിപ്പറയുന്ന %1$s ഡാറ്റ ബാക്കപ്പ് ചെയ്യുന്നതിന് നിങ്ങളുടെ മൊബൈൽ ഉപകരണ സംഭരണം ഉപയോഗിക്കുക: %2$s
+
+നിങ്ങളുടെ %3$s ഡാറ്റ നിങ്ങൾ മുമ്പേ ബാക്കപ്പ് ചെയ്തിട്ടുണ്ടെങ്കിൽ, ഇപ്പോൾ നിങ്ങൾക്കത് %4$s-ലേക്ക് പുനഃസ്ഥാപിക്കാവുന്നതാണ്.
+
+ഫയലുകളുടെ വലുപ്പത്തിന് അനുസൃതമായി ഇതിന് കുറച്ചുസമയമെടുത്തേക്കാം."</string>
+    <string name="gear_location_popup_message">നിങ്ങളുടെ മൊബൈൽ ഉപകരണം ഇപ്പോൾ നിങ്ങളുടെ ഗിയറിനായി സ്കാൻ ചെയ്യുകയാണ്. ഇതിന് നിരവധി മിനിറ്റുകളെടുക്കും. നിങ്ങളുടെ ഗിയർ അകംവേദികളിലാണെങ്കിൽ അതിനെ കണ്ടെത്തുക പ്രയാസമായേക്കാം.</string>
+    <string name="gear_location_popup_title">ഗിയർ കണ്ടെത്തുക</string>
+    <string name="gear_location_text">ഗിയർ സ്ഥാനം</string>
+    <string name="gear_lock_success">ഗിയർ ലോക്ക് ചെയ്തു.</string>
+    <string name="gear_lock_text">ഗിയർ ലോക്ക് ചെയ്യുക</string>
+    <string name="gear_locked">ഗിയർ ലോക്ക് ചെയ്തു</string>
+    <string name="gear_locked_text1">ഗിയർ ലോക്ക് ചെയ്തു. അൺലോക്ക് ചെയ്യാൻ, ബ്ലൂടൂത്ത് വഴി മൊബൈൽ ഉപകരണത്തിലേക്ക് ഗിയർ ബന്ധിപ്പിക്കുക.</string>
+    <string name="gear_phone_number">ഗിയർ ഫോൺ നമ്പർ</string>
+    <string name="gear_phone_number_popup_desc">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്കുള്ള എല്ലാ കോളുകളും %s-ലേക്ക് ഫോർവേഡ് ചെയ്യപ്പെടും.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">നിങ്ങളുടെ ഗിയർ ലോക്ക് ചെയ്യുന്നതിന്, വിദൂര കണക്ഷൻ ആദ്യം പ്രാപ്തമാക്കിയിരിക്കണം.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">നിങ്ങളുടെ ഗിയറിനെ പുനഃക്രമീകരിക്കുന്നതിന്, വിദൂര കണക്ഷൻ ആദ്യം പ്രാപ്തമാക്കിയിരിക്കണം.</string>
+    <string name="gear_reset_text">ഗിയർ പുനഃക്രമീകരിക്കുക</string>
+    <string name="gear_to_mobile">ഗിയറിൽ നിന്ന് മൊബൈലിലേക്ക്</string>
+    <string name="gear_to_mobile_des">ബ്ലൂടൂത്ത് വഴി രണ്ടുപകരണങ്ങളും ബന്ധിപ്പിച്ചിരിക്കുന്ന സമയത്ത് നിങ്ങളുടെ ഗിയറിലേക്ക് ചെയ്യപ്പെടുന്ന കോളുകൾ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ സ്വീകരിക്കുക.</string>
+    <string name="gear_unable_to_locate_message">സ്ഥാനം കണ്ടെത്തുന്നത് പരാജയപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="gear_unable_to_locate_title">ഗിയർ കണ്ടെത്താനാവില്ല</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">വാൾപേപ്പറുകൾ</string>
+    <string name="home_bg_color">നിറങ്ങള്‍</string>
+    <string name="home_bg_colors_title">ലഭ്യമായ നിറങ്ങൾ</string>
+    <string name="home_bg_delete_actionbar_selected">തിരഞ്ഞെടുത്തു</string>
+    <string name="home_bg_delete_dialog_msg">ഗിയർ മാനേജർ, നിങ്ങളുടെ ഗിയർ എന്നിവയിൽ നിന്ന് %d വാൾപേപ്പറുകൾ നീക്കംചെയ്യപ്പെടും.</string>
+    <string name="home_bg_delete_select_all">എല്ലാം തിരഞ്ഞെടുക്കുക</string>
+    <string name="home_bg_max_more_image_toast">വാൾപേപ്പറുകളുടെ എണ്ണം പരമാവധിയിൽ (%d) എത്തി.</string>
+    <string name="home_bg_more_images">കൂടുതൽ ഇമേജുകൾ</string>
+    <string name="home_bg_popup_wallpaper_msg">ഗിയർ വാൾപേപ്പറുകൾ ഡൗൺലോഡ് ചെയ്യുന്നു…</string>
+    <string name="home_bg_popup_wallpaper_title">വാള്‍പേപ്പറുകൾ ഡൗൺലോഡ് ചെയ്യുക</string>
+    <string name="home_bg_toast_saved">സംരക്ഷിച്ചു.</string>
+    <string name="home_bg_wallpaper">വാൾപേപ്പർ</string>
+    <string name="home_bg_wallpapers_title">ലഭ്യമായ വാൾപേപ്പറുകൾ</string>
+    <string name="homelayout_apps">ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="incoming_calls_title">ഇന്‍‌കമിംഗ് കോളുകള്‍</string>
+    <string name="info_build_number">സോഫ്റ്റ്‌വെയര്‍ പതിപ്പ്</string>
+    <string name="info_model_number">മോഡല്‍ നമ്പര്‍</string>
+    <string name="info_software_update">സോഫ്റ്റ്‌വെയര്‍ അപ്ഡേറ്റ്</string>
+    <string name="information_provision_agreement">വിവരം നൽകൽ കരാർ</string>
+    <string name="information_provision_agreement_mgs">"Nuance Communications, Inc എന്ന് വിളിക്കപ്പെടുന്ന ഒരു മൂന്നാം കക്ഷി സേവന ദാതാവാണ് ശബ്ദ മെമ്മോ ഉപയോഗിക്കുന്ന ശബ്ദം തിരിച്ചറിയൽ സാങ്കേതികവിദ്യകൾ നൽകുന്നത്. അതിനാൽ, Nuance (യുണൈറ്റഡ് സ്റ്റേറ്റ്സിൽ) പ്രവർത്തിപ്പിക്കുന്ന ഒരു സെർവറിൽ നിങ്ങളുടെ ശബ്ദ വിവരങ്ങൾ നിർബന്ധമായും സംഭരിക്കപ്പെടുന്നു, Nuance-ന്റെ വ്യവസ്ഥകളും നിബന്ധനകളും നിങ്ങൾ സമ്മതിക്കണമെന്ന് ശബ്ദ മെമ്മോയുടെ ഉപയോഗം ആവശ്യപ്പെടുന്നു.
+ സേവനങ്ങൾ മെച്ചപ്പെടുത്തുന്നതിനും സാങ്കേതികവിദ്യകൾ വികസിപ്പിച്ചെടുക്കുന്നതിനുമുള്ള ഉദ്ദേശ്യങ്ങൾക്കായി നിങ്ങളുടെ ശബ്ദ ഇൻപുട്ട് ഉപയോഗിക്കുന്നതിനുള്ള അവകാശം Nuance-ൽ നിക്ഷിപ്തമാണ്. Nuance-ന്റെ പങ്കാളികൾക്ക് മേൽപ്പറഞ്ഞ ശബ്ദ ഇൻപുട്ട് നൽകുന്നതിനുള്ള അവകാശവും Nuance-ൽ നിക്ഷിപ്തമാണ്. മേൽപ്പറഞ്ഞ ലക്ഷ്യങ്ങൾ നിറവേറുന്നത് വരെ നിങ്ങളുടെ ശബ്ദ ഇൻപുട്ട് വിവരങ്ങൾ സംഭരിക്കപ്പെടുന്നു. ശബ്ദ മെമ്മോ സേവനങ്ങളെ കുറിച്ചുള്ള കൂടുതൽ വിവരങ്ങൾക്ക് Samsung സ്വകാര്യതാ നയം, Nuance സ്വകാര്യതാ നയം എന്നിവ വായിക്കുക.
+ മുകളിൽ പറഞ്ഞ പ്രകാരം നിങ്ങളുടെ വിവരങ്ങൾ നൽകുന്നതിന് നിങ്ങൾ സമ്മതിക്കുന്നില്ലെങ്കിൽ ശബ്ദ മെമ്മോ നിങ്ങൾക്ക് ഉപയോഗിക്കാൻ കഴിയില്ല."</string>
+    <string name="init_manage_notifications_desc">നിങ്ങളുടെ %1$s-ൽ അറിയിപ്പുകൾ സ്വീകരിക്കേണ്ടത് ഏതൊക്കെ ആപ്ലിക്കേഷനുകളിൽ നിന്നാണെന്ന് തിരഞ്ഞെടുക്കുക. നിങ്ങളുടെ %2$s-ന്‍റെ ബാറ്ററി പവർ ലാഭിക്കുന്നതിന്, നിങ്ങൾ അറിയിപ്പുകൾ സ്വീകരിക്കാനാഗ്രഹിക്കാത്ത ആപ്ലിക്കേഷനുകളുടെ തിരഞ്ഞെടുപ്പ് മാറ്റുക.</string>
+    <string name="install_in_progress">പുരോഗമിക്കുന്നു…</string>
+    <string name="latitude">അക്ഷാംശരേഖ</string>
+    <string name="limit_notification_desc">മൊബൈൽ ഉപകരണം ഉപയോഗിച്ചുകൊണ്ടിരിക്കുന്ന സമയത്ത് സൂചനകൾ ഗിയറിൽ ദൃശ്യമാവുന്നത് തടയുക.</string>
+    <string name="limit_notification_dialog_desc">നിങ്ങളുടെ ഗിയറിൽ അറിയിപ്പുകൾ നിയന്ത്രിതമാക്കുക എന്നത് പ്രാപ്തമാക്കാനാവില്ല. നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ സ്ക്രീൻ ലോക്ക് ക്രമീകരിച്ചിട്ടില്ല.</string>
+    <string name="limit_notification_title">അറിയിപ്പുകൾ പരിമിതപ്പെടുത്തുക</string>
+    <string name="location_info_title">സ്ഥാനം പങ്കിടുക</string>
+    <string name="lock_gear_legal_text1">ഗിയർ ലോക്ക് ചെയ്യുക എന്നത് ഉപയോഗിക്കുന്നതുവഴി, അനധികൃത ഉപയോഗത്തെ തടയുന്നതിനായി നിങ്ങളുടെ ഗിയറിനെ വിദൂരമായി ലോക്ക് ചെയ്യാൻ നിങ്ങൾക്ക് സാധിക്കും. ഗിയറിനെ മൊബൈൽ ഉപകരണത്തിലേക്ക് വീണ്ടും ബന്ധിപ്പിച്ച് നിങ്ങൾക്കതിനെ അൺലോക്ക് ചെയ്യാം.</string>
+    <string name="lock_gear_legal_text2">* ഗിയർ ലോക്ക് ചെയ്യുക എന്നത് പ്രവർത്തിക്കാൻ സ്വൽപ്പം സമയമെടുത്തേക്കാം അല്ലെങ്കിൽ നിങ്ങളുടെ ഗിയർ, മൊബൈൽ ഉപകരണം അല്ലെങ്കിൽ നെറ്റ്‌വർക്ക് സാഹചര്യം എന്നിവയുടെ അവസ്ഥയ്ക്ക് അനുസൃതമായി പരാജയപ്പെടുക പോലും ചെയ്തേക്കാം.</string>
+    <string name="lock_gear_text">നിങ്ങളുടെ മൊബൈൽ ഉപകരണവും ഗിയറും ബ്ലൂടൂത്ത് വഴി ബന്ധിപ്പിച്ചിട്ടുള്ള സമയത്ത് നിങ്ങളുടെ ഗിയർ ലോക്കുചെയ്യാനാകില്ല.</string>
+    <string name="login_to_samsung_account">Samsung account-ലേക്ക് സൈന്‍ ഇന്‍ ചെയ്യുക</string>
+    <string name="login_to_samsung_account_desc">നിങ്ങളുടെ ഗിയറിൽ വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുന്നതിന്, നിങ്ങളുടെ Samsung account-ൽ സൈൻ ഇൻ ചെയ്യുക.</string>
+    <string name="login_to_samsung_account_full_desc">"ബ്ലൂടൂത്ത് വഴി ബന്ധിപ്പിക്കാത്തപ്പോൾ പോലും ഇനിപ്പറയുന്ന സവിശേഷതകൾ ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ Samsung account-ലേക്ക് സൈൻ ഇൻ ചെയ്യുക:
+- അറിയിപ്പുകൾ സ്വീകരിക്കൽ
+- വിദൂര കണക്ഷൻ വഴി ആപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കൽ
+വിദൂര കണക്ഷൻ ഉപയോഗിക്കുന്നത് അധിക നിരക്കുകൾക്ക് ഇടവരുത്തിയേക്കാം."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">രേഖാംശരേഖ</string>
+    <string name="main_bt_unpaired">പെയര്‍ ചെയ്യാത്തത്</string>
+    <string name="main_disconnected">വിച്ഛേദിച്ചു</string>
+    <string name="manage_applications">ആപ്ലിക്കേഷനുകള്‍ മാനേജ് ചെയ്യുക</string>
+    <string name="manage_notifications">അറിയിപ്പുകൾ മാനേജ് ചെയ്യുക</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">%s ഇൻകമിംഗ് കോളുകളെ ഒരു നിശ്ചിത നമ്പറിലേക്ക് തിരിച്ചുവിടുന്ന ഒരു നെറ്റ്‌വർക്ക് സേവനമാണ് കോൾ ഫോർവേഡിംഗ്. നിങ്ങളുടെ സേവന ദാതാവിന് അനുസൃതമായി, ഈ സവിശേഷത ഉപയോഗിക്കാൻ നിങ്ങളുടെ ഗിയറിനെ അനുവദിക്കുന്നതിന് ഒരു സബ്സ്ക്രിപ്ഷൻ ആവശ്യമായി വന്നേക്കാം. ഇത് അധിക നിരക്കുകൾക്ക് ഇടവരുത്തിയേക്കാം.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">മൊബൈല്‍ ഉപകരണം</string>
+    <string name="masterapp_not_installed">നിങ്ങളുടെ മൊബൈല്‍ ഉപകരണത്തില്‍ %1$s ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല. നിങ്ങളുടെ ഗിയറില്‍ %2$s ഉപയോഗിക്കുന്നതിന്, നിങ്ങളുടെ മൊബൈല്‍ ഉപകരണത്തിലേക്ക് %1$s ഡൗണ്‍ലോഡ് ചെയ്യുക. ഡൗണ്‍ലോഡ് സ്ക്രീനിലേക്ക് നിങ്ങള്‍ നയിക്കപ്പെടും.</string>
+    <string name="masterapp_not_installed_goto_deeplink">നിങ്ങളുടെ മൊബൈല്‍ ഉപകരണത്തില്‍ %1$s ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല. നിങ്ങളുടെ ഗിയറില്‍ %2$s ഉപയോഗിക്കുന്നതിന്, നിങ്ങളുടെ മൊബൈല്‍ ഉപകരണത്തിലേക്ക് %1$s ഡൗണ്‍ലോഡ് ചെയ്യുക. ഡൗണ്‍ലോഡ് സ്ക്രീനിലേക്ക് നിങ്ങള്‍ നയിക്കപ്പെടും.</string>
+    <string name="masterapp_uninstalled">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് %1$s അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെട്ടു. നിങ്ങളുടെ ഗിയറിൽ %2$s ഉപയോഗിക്കുന്നതിന്, നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് %1$s ഡൌൺലോഡ് ചെയ്യുക.</string>
+    <string name="maximum_size_warning">പരമാവധി എണ്ണം അക്ഷരങ്ങളിലെത്തി.</string>
+    <string name="menu_about_device">%s വിവരം</string>
+    <string name="menu_actionbar_remove">നീക്കുക</string>
+    <string name="menu_actionbar_uninstall">അണ്‍ഇന്‍സ്റ്റാള്‍ചെയ്യുക</string>
+    <string name="menu_appsandsettigns">ആപ്ലിക്കേഷനുകളും ക്രമീകരണങ്ങളും</string>
+    <string name="menu_clock">ക്ലോക്ക്</string>
+    <string name="menu_display">ഹോം സ്ക്രീൻ എഡിറ്റ് ചെയ്യുക</string>
+    <string name="menu_downloaded_font">ഡൗൺലോഡ് ചെയ്യപ്പെട്ട ഫോണ്ടുകൾ</string>
+    <string name="menu_filetransfertogear">ഗിയറിലേക്ക് ഫയലുകൾ കൈമാറുക</string>
+    <string name="menu_gallery">ഇമേജ്</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">ഫിറ്റ്നസ്</string>
+    <string name="menu_help">സഹായം</string>
+    <string name="menu_home_screen">ഹോം സ്ക്രീൻ സ്റ്റൈലർ</string>
+    <string name="menu_music">മ്യൂസിക്</string>
+    <string name="menu_myapp">എന്‍റെ ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="menu_notification">അറിയിപ്പുകള്‍</string>
+    <string name="menu_rename">പേര് മാറ്റുക</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">ക്രമീകരണങ്ങള്‍</string>
+    <string name="mobile_to_gear">മൊബൈലിൽ നിന്ന് ഗിയറിലേക്ക്</string>
+    <string name="mobile_to_gear_des">രണ്ടുപകരണങ്ങളും വിദൂരമായി ബന്ധിപ്പിച്ചിരിക്കുന്ന സമയത്ത് നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് ചെയ്യപ്പെടുന്ന കോളുകൾ ഗിയറിൽ സ്വീകരിക്കുക.</string>
+    <string name="monotype_default_font">ഡിഫോള്‍ട്ട് ഫോണ്ട്</string>
+    <string name="monotype_dialog_font_applemint">ആപ്പിള്‍ മിന്‍റ്</string>
+    <string name="monotype_dialog_font_choco">ചോക്കോ കുകി</string>
+    <string name="monotype_dialog_font_cool">കൂള്‍ ജാസ്</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">റോസ്മേരി</string>
+    <string name="monotype_dialog_font_tinkerbell">ടിങ്കര്‍ ബെല്‍</string>
+    <string name="more">കൂടുതല്‍</string>
+    <string name="more_options">കൂടുതൽ ഐച്ഛികങ്ങൾ</string>
+    <string name="multisim_title">മൾട്ടി SIM</string>
+    <string name="navigate_up">മുകളിലേക്ക് നാവിഗേറ്റ് ചെയ്യുക</string>
+    <string name="new_notification_list">പട്ടിക കാഴ്ച</string>
+    <string name="new_notifications_list_desc">ഗിയറിൽ സ്വീകരിക്കപ്പെടുന്ന അറിയിപ്പുകളുടെ ഒരു പട്ടിക ക്ലോക്കിന്‍റെ ഇടതുവശത്ത് കാണിക്കുക.</string>
+    <string name="no_application_selected">ആപ്ലിക്കേഷനുകൾ ഒന്നും തിരഞ്ഞെടുത്തിട്ടില്ല</string>
+    <string name="no_downloaded_applications">ഡൗൺലോഡ് ചെയ്യപ്പെട്ട ആപ്ലിക്കേഷനുകൾ ഒന്നുമില്ല</string>
+    <string name="no_of_application_selected">%d ആപ്ലിക്കേഷനുകളെ തിരഞ്ഞെടുത്തു</string>
+    <string name="no_remote_connection_popup_msg">ഓട്ടോ കോള്‍ ഫോര്‍‌വേഡിംഗ് പ്രാപ്തമാക്കുന്നതിന്, മൊബൈൽ ഉപകരണത്തിലെ Samsung Gear ആപ്ലിക്കേഷൻ തുറക്കുക, വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുക, തുടർന്ന് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="no_remote_connection_popup_title">വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുക</string>
+    <string name="notification_type">അറിയിപ്പ് തരം</string>
+    <string name="notification_type_desc">നിങ്ങളുടെ ഗിയർ ഉപയോഗത്തിലിരിക്കുന്ന സമയത്ത്, മുകളിലെ നിങ്ങളുടെ തിരഞ്ഞെടുപ്പ് കണക്കിലെടുക്കാതെ, നിങ്ങളുടെ അറിയിപ്പുകൾ ചെറിയ പോപ്-അപ്പുകളായി സ്ക്രീനിന്‍റെ മുകൾഭാഗത്ത് പ്രദർശിപ്പിക്കപ്പെടും.</string>
+    <string name="number_setting">നമ്പർ ക്രമീകരണം</string>
+    <string name="ok">ശരി</string>
+    <string name="once">ഒരിക്കല്‍</string>
+    <string name="one_application_selected">1 ആപ്ലിക്കേഷനെ തിരഞ്ഞെടുത്തു</string>
+    <string name="popup_attention_email_msg">ഇമെയിൽ ക്രമീകരണങ്ങളിൽ ഏതാനും ഇമെയിൽ അക്കൗണ്ടുകൾ തിരഞ്ഞെടുത്തിട്ടില്ല. അത്തരം അക്കൗണ്ടുകളിൽ നിന്നുള്ള അറിയിപ്പുകൾ നിങ്ങളുടെ ഗിയറിൽ സ്വീകരിക്കുന്നതിന്, ഇമെയിൽ ക്രമീകരണങ്ങൾ എന്നതിൽ ഇമെയിൽ അറിയിപ്പുകൾ തിരഞ്ഞെടുക്കുക.</string>
+    <string name="popup_attention_message_msg">നിങ്ങളുടെ ഗിയറില്‍ സന്ദേശങ്ങൾ അയയ്ക്കാനും സ്വീകരിക്കാനും %s-ൽ നിന്ന് നിങ്ങളുടെ ഡിഫോൾട്ട് സന്ദേശമയയ്ക്കൽ ആപ്ലിക്കേഷൻ സന്ദേശമയയ്ക്കലിലേക്ക് മാറ്റും.</string>
+    <string name="popupmenu_search_for_new_device">ഉപകരണങ്ങൾ മാനേജ് ചെയ്യുക</string>
+    <string name="preview_message_desc">ഇൻകമിംഗ് കോൾ സൂചനകൾക്കും അലാറങ്ങൾക്കും ഒഴികെയുള്ള, സ്വീകരിക്കപ്പെട്ട അറിയിപ്പുകളുടെ ഒരു പ്രിവ്യൂ നിങ്ങളുടെ ഗിയറിലെ അറിയിപ്പ് പോപ്-അപ്പുകളിൽ കാണിക്കുക.</string>
+    <string name="preview_message_title">സന്ദേശം പ്രിവ്യൂ ചെയ്യുക</string>
+    <string name="primary">പ്രാഥമിക</string>
+    <string name="progressdialog_please_wait">ദയവായി കാത്തിരിക്കുക…</string>
+    <string name="progressdialog_reinstalled_message">ഇന്‍സ്റ്റാളുചെയ്യുന്നു…</string>
+    <string name="progressdialog_reinstalled_popup_content">വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="providerapp_reinstalled">%s ശരിയായി പ്രവർത്തിക്കുന്നില്ലാത്തതിനാൽ അത് അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെട്ടു. ഇപ്പോളത് വീണ്ടും ഇൻസ്റ്റാൾ ചെയ്യപ്പെടുന്നതാണ്.</string>
+    <string name="quick_tutorial_add_shortcuts">ഗിയറിന്‍റെ ഹോം സ്ക്രീനിലേക്ക് ആപ്ലിക്കേഷൻ കുറുക്കുവഴികൾ ചേർക്കുന്നതിന്, ഗിയറിലെ ആപ്ലിക്കേഷനുകളിൽ പോവുക, ഒരു ആപ്ലിക്കേഷൻ ഐക്കൺ ടാപ്പുചെയ്ത് പിടിക്കുക, തുടർന്ന് സ്ക്രീനിന്‍റെ മുകളിലെ ഹോം ഐക്കണിൽ അത് ഇഴച്ചിടുക.</string>
+    <string name="quick_tutorial_gear_structure">നിങ്ങളുടെ ഗിയറിന്‍റെ ഹോം സ്ക്രീനിന്‍റെ പ്രധാന പേജിൽ ക്ലോക്ക് കാണിക്കുന്നു. ക്ലോക്കിന് വലതുള്ള പേജുകൾ അറിയിപ്പുകളും വലതുള്ളവ വിജറ്റുകളും കാണിക്കുന്നു. ആപ്ലിക്കേഷനുകൾ കാണാൻ, സ്ക്രീനിന്‍റെ താഴെ അരികിൽ നിന്ന് മുകളിലേക്ക് സ്വൈപ് ചെയ്യുക.</string>
+    <string name="quick_tutorial_noti_title">%s ലേക്കുള്ള ആമുഖം</string>
+    <string name="quick_tutorial_noti_title_gear">ഗിയർ S</string>
+    <string name="quick_tutorial_noti_title_gear1">ഗിയർ</string>
+    <string name="quick_tutorial_noti_title_gear2">ഗിയർ 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice തുറക്കുന്നതിന്, “Hi Gear” എന്ന് പറയുക അല്ലെങ്കിൽ ഏത് സ്ക്രീനിലായിരിക്കുന്ന സമയത്തും ഹോം കീ രണ്ടുതവണ അമർത്തുക.</string>
+    <string name="quick_tutorial_swipe_downwards">നിങ്ങളുടെ പ്രിയപ്പെട്ട ആപ്ലിക്കേഷൻ തുറക്കുന്നതിന് ഹോം കീ രണ്ടു തവണ അമർത്തുക. ക്രമീകരണങ്ങൾ എന്നതിൽ നിങ്ങളുടെ പ്രിയപ്പെട്ട ആപ്ലിക്കേഷൻ നിങ്ങൾക്ക് മാറ്റാവുന്നതാണ്.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">നിങ്ങളുടെ പ്രിയപ്പെട്ട ആപ്ലിക്കേഷൻ തുറക്കുന്നതിന് പവർ കീ രണ്ടു തവണ അമർത്തുക. ക്രമീകരണങ്ങൾ എന്നതിൽ നിങ്ങളുടെ പ്രിയപ്പെട്ട ആപ്ലിക്കേഷൻ നിങ്ങൾക്ക് മാറ്റാവുന്നതാണ്.</string>
+    <string name="quick_tutorial_to_go_back">മടങ്ങാന്‍ വക്കില്‍ നിന്ന് സ്ക്രീന്‍ താഴേക്ക് സ്വൈപ്പുചെയ്യുക.</string>
+    <string name="remote_connection_disabled_settings">ക്രമീകരണങ്ങള്‍</string>
+    <string name="remote_connection_enabled_desc">ബ്ലൂടൂത്ത് കണക്ഷൻ അവസാനിക്കുകയാണെങ്കിൽ ഗിയർ വിദൂരമായി ബന്ധിപ്പിക്കപ്പെടും.</string>
+    <string name="requested">അഭ്യര്‍ത്ഥിച്ചു</string>
+    <string name="reset_gear_legal_text1">ഗിയർ പുനഃക്രമീകരിക്കുക എന്നത് ഉപയോഗിക്കുന്നതുവഴി, നിങ്ങളുടെ ഗിയറിലുള്ള എല്ലാ ഡാറ്റയെയും വിദൂരമായി ഇല്ലാതാക്കാൻ നിങ്ങൾക്ക് സാധിക്കും. അത്തരം ഇല്ലാതാക്കലിന് ശേഷം, ഇല്ലാതാക്കപ്പെട്ട ഡാറ്റയെ പുനഃസ്ഥാപിക്കാനാവില്ല, കൂടാതെ എന്‍റെ ഗിയർ കണ്ടെത്തുക എന്നത് മേലിൽ നിങ്ങൾക്ക് ഉപയോഗിക്കാനുമാവില്ല.</string>
+    <string name="reset_gear_legal_text2">* ഗിയർ പുനഃക്രമീകരിക്കുക എന്നത് പ്രവർത്തിക്കാൻ സ്വൽപ്പം സമയമെടുത്തേക്കാം അല്ലെങ്കിൽ നിങ്ങളുടെ ഗിയർ, മൊബൈൽ ഉപകരണം അല്ലെങ്കിൽ നെറ്റ്‌വർക്ക് സാഹചര്യം എന്നിവയുടെ അവസ്ഥയ്ക്ക് അനുസൃതമായി പരാജയപ്പെടുക പോലും ചെയ്തേക്കാം.</string>
+    <string name="restore_complete">റീസ്റ്റോര്‍ പൂര്‍‌ത്തിയായി.</string>
+    <string name="restore_some_error">പുനഃസ്ഥാപിക്കല്‍ പരാജയപ്പെട്ടു. വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="restore_try_again">വീണ്ടും ശ്രമിക്കുക</string>
+    <string name="retrieve_dialog_desc">ആപ്ലിക്കേഷൻ പട്ടിക വീണ്ടെടുക്കുന്നു…</string>
+    <string name="sa_error_0203_desc">വിദൂര കണക്ഷൻ പ്രാപ്തമാക്കുന്നതിന്, Samsung account കരകൃതമായി അപ്ഡേറ്റ് ചെയ്യുക.</string>
+    <string name="sa_error_0203_title">Samsung account അപ്‌ഡേറ്റ് ചെയ്യുക</string>
+    <string name="sa_error_0301_desc">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് നിങ്ങളുടെ Samsung account-ൽ സൈൻ ഇൻ ചെയ്യുമ്പോൾ ഒരു നെറ്റ്‌വർക്ക് പിശക് സംഭവിച്ചു.</string>
+    <string name="sa_error_0301_title">പ്രവർത്തനം പ്രാപ്തമാക്കുന്നത് പരാജയപ്പെട്ടു</string>
+    <string name="sa_error_0302_title">പ്രവർത്തനം പ്രാപ്തമാക്കുന്നത് പരാജയപ്പെട്ടു</string>
+    <string name="sa_error_0401_desc">ഒരു പിശക് സംഭവിച്ചു. വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="sa_error_0401_title">പിശക്</string>
+    <string name="safety_message_interval_10minutes">ഓരോ 10 മിനിറ്റിലും</string>
+    <string name="safety_message_interval_20minutes">ഓരോ 20 മിനിറ്റിലും</string>
+    <string name="samsung_apps_info">%2$s അൺഇൻസ്റ്റാൾ ചെയ്യപ്പെടുമ്പോൾ അല്ലെങ്കിൽ ആപ്ലിക്കേഷൻ ഡാറ്റ മായ്ക്കപ്പെടുമ്പോൾ %1$s വഴി ഡൗൺലോഡ് ചെയ്യപ്പെട്ട ആപ്ലിക്കേഷനുകളെ ഇല്ലാതാക്കാവുന്നതാണ്. ഇല്ലാതാക്കപ്പെട്ട ആപ്ലിക്കേഷനുകളെ %3$s-ലെ നിങ്ങളുടെ വാങ്ങൽ ചരിത്രത്തിൽ നിന്ന് നിങ്ങൾക്ക് ഡൗൺലോഡ് ചെയ്യാവുന്നതാണ്.</string>
+    <string name="samsung_apps_notice">അറിയിപ്പ്</string>
+    <string name="samsung_gear">സാംസങ്ങ് ഗിയർ</string>
+    <string name="samsung_update">ഇപ്പോള്‍ അപ്‌ഡേറ്റുചെയ്യുക</string>
+    <string name="screen_off">സ്ക്രീൻ ഓഫായി നിലനിർത്തുക</string>
+    <string name="screen_off_desc">നിങ്ങളുടെ ഗിയറിൽ അതിന്‍റെ സിക്രീൻ ഓഫ് ചെയ്തിരിക്കുമ്പോൾ ഇൻകമിംഗ് കോൾ സൂചനകളും അലാറങ്ങളും ഒഴികെയുള്ള അറിയിപ്പുകൾ സ്വീകരിക്കുക.</string>
+    <string name="setting_Enable">പ്രാപ്‌തമാക്കുക</string>
+    <string name="setting_alpm_dialog_title">ശ്രദ്ധിക്കുക</string>
+    <string name="setting_always_off">എപ്പോഴും ഓഫ്</string>
+    <string name="setting_always_on">എപ്പോഴും ഓൺ</string>
+    <string name="setting_auto">യാന്ത്രികം</string>
+    <string name="setting_auto_lock_disable_desc">അഡ്മിന്സ്ട്രേറ്റര്‍, എന്‍ക്രിപ്ഷന്‍ പോളിസി, അഥവാ ക്രെഡന്‍ഷ്യല്‍ സ്റ്റോറേജിനാല്‍ നിഷ്ക്രിയമാക്കപ്പെട്ടു.</string>
+    <string name="setting_backup_restore2">ബാക്കപ്പും പുനഃസ്ഥാപനവും</string>
+    <string name="setting_basic">അടിസ്ഥാനങ്ങൾ</string>
+    <string name="setting_connections">കണക്ഷനുകള്‍</string>
+    <string name="setting_disable">നിഷ്ക്രിയമാക്കുക</string>
+    <string name="setting_home_key_double_pressing">ഹോം കീയിൽ രണ്ടുതവണ സ്പർശിക്കൽ</string>
+    <string name="setting_language_input">ഭാഷയും ഇൻപുട്ടും</string>
+    <string name="setting_manage_text_templates">ടെക്സ്റ്റ് ടെംപ്ലേറ്റുകൾ എഡിറ്റ് ചെയ്യുക</string>
+    <string name="setting_mobile_network">മൊബൈല്‍ നെറ്റ്‌വര്‍ക്കുകള്‍</string>
+    <string name="setting_mobile_network_desc">നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് ബ്ലൂടൂത്ത് വഴി ഗിയർ ബന്ധിപ്പിക്കപ്പെടുമ്പോൾ നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്കിൽ നിന്ന് അത് വിച്ഛേദിക്കപ്പെടും. ബ്ലൂടൂത്ത് വഴിയുള്ള കണക്ഷൻ അവസാനിക്കുമ്പോൾ, ഗിയർ ഓട്ടോമാറ്റിക്കായി നിങ്ങളുടെ മൊബൈൽ നെറ്റ്‌വർക്കിലേക്ക് വീണ്ടും ബന്ധിപ്പിക്കപ്പെടും.</string>
+    <string name="setting_multisim_popup_desc">നിങ്ങളുടെ സേവന ദാതാവിന് അനുസൃതമായി, മൾട്ടി SIM പ്രവർത്തനം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്കൊരു വേറിട്ട സബ്സ്ക്രിപ്ഷൻ ആവശ്യമായി വന്നേക്കാം. മൾട്ടി SIM പ്രാപ്തമാക്കുന്നതിന് ശരി എന്നതിൽ സ്പർശിക്കുക.</string>
+    <string name="setting_opensource">ഓപ്പണ്‍ സോഴ്സ് ലൈസന്‍സ്</string>
+    <string name="setting_palm_motion">മോഷനുകള്‍</string>
+    <string name="setting_palm_swipe">ചിത്രമെടുക്കുന്നതിന് സ്വൈപ് ചെയ്യുക</string>
+    <string name="setting_palmover_desc">ഇൻകമിംഗ് കോളുകളും അലാറങ്ങളും ശബ്ദരഹിതമാക്കുന്നതിന്, അല്ലെങ്കിൽ മീഡിയ തൽക്കാലം നിർത്തുന്നതിന്, സ്ക്രീൻ ഓൺ ആയിരിക്കുന്ന സമയത്ത് നിങ്ങളുടെ കൈ സ്ക്രീനിൽ വയ്ക്കുക.</string>
+    <string name="setting_palmswipe_desc">നിങ്ങളുടെ വിരൽ മുഴുവനായി സ്ക്രീനിൽ സ്പർശിച്ചുകൊണ്ട് അതിന് കുറുകെ സ്വൈപ് ചെയ്ത് സ്ക്രീനിന്‍റെ ചിത്രമെടുക്കുക.</string>
+    <string name="setting_pause_mute">ശബ്ദരഹിതമാക്കുക/തൽക്കാലം നിർത്തുക</string>
+    <string name="setting_power_key_double_pressing">പവർ കീ രണ്ടുതവണ അമർത്തൽ</string>
+    <string name="setting_restoring">പുനസംഭരിക്കുന്നു…</string>
+    <string name="setting_safety_b1_desc">നിങ്ങളുടെ ഗിയറും മൊബൈൽ ഉപകരണവും ബന്ധിപ്പിക്കപ്പെട്ടിരിക്കുമ്പോൾ, എമര്‍ജന്‍സി സാഹചര്യത്തിൽ നിങ്ങളെ സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക സഹായിക്കുന്നു. നിങ്ങളുടെ സ്ഥാനവുമൊത്ത് എമര്‍ജന്‍സി സന്ദേശം അയച്ചുകൊണ്ട് നിങ്ങളുടെ അവസ്ഥയെ കുറിച്ച് നിങ്ങളുടെ എമര്‍ജന്‍സി കോൺടാക്ടുകള്‍ക്ക് അലേർട്ട് നൽകുന്നു. ഈ സന്ദേശങ്ങൾ അയയ്ക്കുന്നത് അധിക നിരക്കുകൾക്ക് കാരണമാകാം. എമര്‍ജന്‍സി സാഹചര്യത്തിൽ സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക പ്രാപ്തമാക്കുന്നതിന്, പവർ കീ %d തവണ അമർത്തുക.</string>
+    <string name="setting_safety_b2_desc">നിങ്ങളുടെ ഗിയറും മൊബൈൽ ഉപകരണവും ബന്ധിപ്പിച്ചിരിക്കുന്ന സമയത്ത്, ഒരു എമര്‍ജന്‍സി സാഹചര്യത്തിൽ ഗിയർ ക്യാമറ ഉപയോഗിച്ച് ഒരു ചിത്രമെടുത്ത് സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക എന്നത് നിങ്ങളെ സഹായിക്കുന്നു. ഈ ചിത്രവും നിങ്ങളുടെ സ്ഥാനവും സഹിതമുള്ള എമര്‍ജന്‍സി സന്ദേശങ്ങൾ നിങ്ങളുടെ എമര്‍ജന്‍സി സന്ദേശ കോൺടാക്ടുകള്‍ക്കയച്ചുകൊണ്ട് അത് നിങ്ങളുടെ അവസ്ഥ അവർക്ക് ബോധ്യപ്പെടുത്തുന്നു. ആദ്യ സന്ദേശത്തിൽ നിങ്ങളുടെ സ്ഥാനം, ചിത്രം എന്നിവ രണ്ടും അടങ്ങിയിരിക്കും. തുടർന്ന് ഒരു ഇടവേളയ്ക്ക് ശേഷം, നിങ്ങളുടെ സ്ഥാനം മാത്രമടങ്ങുന്ന രണ്ടാമതൊരു സന്ദേശം അയയ്ക്കുന്നതാണ്. ഈ സന്ദേശങ്ങൾ അയയ്ക്കുന്നത് അധിക നിരക്കുകൾക്ക് ഇടവരുത്തിയേക്കാം. ഒരു എമര്‍ജന്‍സി സാഹചര്യത്തിൽ സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക എന്നത് പ്രാപ്തമാക്കുന്നതിന്, ഹോം കീ %d തവണ അമർത്തുക.</string>
+    <string name="setting_safety_b2_no_camera_desc">നിങ്ങളുടെ ഗിയറും മൊബൈൽ ഉപകരണവും ബന്ധിക്കപ്പെട്ടിരിക്കുമ്പോൾ, സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക എന്നത് നിങ്ങളെ എമര്‍ജന്‍സി സാഹചര്യത്തിൽ സഹായിക്കുന്നു. നിങ്ങളുടെ സ്ഥാനവുമൊത്തുള്ള എമര്‍ജന്‍സി സന്ദേശങ്ങൾ അയച്ചുകൊണ്ട് നിങ്ങളുടെ എമര്‍ജന്‍സി സന്ദേശ കോൺടാക്ടുകളെ നിങ്ങളുടെ അവസ്ഥയെ കുറിച്ച് ഇത് അറിയിക്കുന്നു. ഈ സന്ദേശങ്ങൾ അയയ്ക്കുന്നത് അധിക നിരക്കുകൾക്ക് കാരണമാകും. എമര്‍ജന്‍സി വേളയിൽ സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക പ്രാപ്തമാക്കുന്നതിന്, %d തവണ ഹോം കീ അമർത്തുക.</string>
+    <string name="setting_safety_b3_desc1">നിങ്ങളൊരു അടിയന്തിര ഘട്ടത്തെ അഭിമുഖീകരിക്കുമ്പോൾ നിങ്ങളുടെ പ്രാഥമിക കോൺടാക്ടുകൾക്ക് ഒരു ദ്രുത സൂചന അയയ്ക്കുന്നതിന് ഹോം കീ ദ്രുതഗതിയിൽ 3 തവണ അമർത്തുക.</string>
+    <string name="setting_safety_b3_desc2">നിങ്ങളുടെ നിലവിലെ ലൊക്കേഷനെ കുറിച്ചുള്ള വിവരങ്ങൾ അടങ്ങിയ അടിയന്തിര സന്ദേശങ്ങൾ നിങ്ങളുടെ പ്രാഥമിക കോൺടാക്ടുകൾക്ക് ലഭിക്കും.</string>
+    <string name="setting_safety_b3_desc3">ഈ പ്രവർത്തനം ഉപയോഗിക്കുന്നതിന് നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തെ നിങ്ങളുടെ ഗിയറിലേക്ക് ബന്ധിപ്പിക്കുക.</string>
+    <string name="setting_safety_list">സുരക്ഷാ സഹായം</string>
+    <string name="setting_samsung_legal">സാംസംഗ് ലീഗല്‍</string>
+    <string name="setting_screen_lock">ഓട്ടോ ലോക്ക്</string>
+    <string name="setting_screen_lock_desc">നിങ്ങളുടെ ഗിയർ കണ്ടെത്താനാവുന്നതിലും വളരെ ദൂരെയാവുമ്പോൾ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തെ ഓട്ടോമാറ്റിക്കായി ലോക്ക് ആകത്തക്കവിധം ക്രമീകരിക്കുക.</string>
+    <string name="setting_screen_secutiry">സ്ക്രീൻ സുരക്ഷ</string>
+    <string name="setting_send_emergency_picture">അത്യാഹിത ചിത്രം അയയ്ക്കുക</string>
+    <string name="setting_send_emergency_recording">സൗണ്ട് റെക്കോര്‍ഡിംഗ് അയയ്ക്കുക</string>
+    <string name="setting_send_emergency_term_agree">മുകളിലെ എല്ലാ വ്യവസ്ഥകളും നിബന്ധനകളും ഞാൻ വായിച്ചിട്ടുണ്ട്, സമ്മതിക്കുകയും ചെയ്യുന്നു.</string>
+    <string name="setting_send_help_message">സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക</string>
+    <string name="setting_send_terms_conditions">നിബന്ധനകള്‍</string>
+    <string name="setting_smart_relay">സ്മാര്‍ട്ട് റിലെ</string>
+    <string name="setting_smart_relay_desc">നിങ്ങളുടെ മൊബൈൽ ഉപകരണം എടുക്കുന്നത് വഴി നിങ്ങളുടെ ഗിയറിലെ ഉള്ളടക്കം നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ കാണുക.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">സിസ്റ്റം</string>
+    <string name="setting_text_to_speech_engine">ടെക്സ്റ്റ് ടു സ്പീച്ച് എഞ്ചിന്‍</string>
+    <string name="setting_textinput_emoticon">ഇമോട്ടിക്കോണുകള്‍‌</string>
+    <string name="setting_textinput_keyboard">കീബോര്‍ഡ്</string>
+    <string name="setting_textinput_list">ടെക്സ്റ്റ് ഇൻ‌പുട്ട് രീതികൾ</string>
+    <string name="setting_textinput_templates">ടെംപ്ലേറ്റുകൾ</string>
+    <string name="setting_try_it">ഇത് പരീക്ഷിക്കുക</string>
+    <string name="setting_wake_up">വെയ്ക്ക്-അപ് ആംഗ്യം</string>
+    <string name="setting_wake_up_desc">നിങ്ങളുടെ ഗിയർ ധരിച്ചിട്ടുള്ള കൈയുയർത്തിക്കൊണ്ട് ഗിയറിനെ ഉണർത്തുക.</string>
+    <string name="setting_wakeupgesture">"ഗിയറിനെ ഉണർത്തുന്നതിന്, ഗിയർ ധരിച്ചിട്ടുള്ള നിങ്ങളുടെ കൈയുയർത്തി ഗിയറിന്‍റെ സ്ക്രീനിലേയ്ക്ക് നോക്കുക.
+
+നിങ്ങൾ പുറകോട്ട് കുനിയുമ്പോൾ അല്ലെങ്കിൽ കിടക്കുമ്പോൾ ഈ സവിശേഷത പ്രവർത്തിക്കുകയില്ല, മാത്രമല്ല ഗിയറിന്‍റെ മോഷൻ സെൻസർ എപ്പോഴും ഓൺ ആയിരിക്കുന്നതിനാൽ അതിന്‍റെ ബാറ്ററി പവർ കൂടുതൽ വിനിയോഗിക്കപ്പെടുകയും ചെയ്തേക്കാം."</string>
+    <string name="setting_wakeupgesture_clock">ക്ലോക്ക്</string>
+    <string name="setting_wakeupgesture_previous">അവസാനം കണ്ട സ്ക്രീൻ</string>
+    <string name="setting_wakeupgesture_screen_on">കാണിച്ച സ്ക്രീൻ തിരഞ്ഞെടുക്കുക</string>
+    <string name="settings_application_version">ആപ്ലിക്കേഷന്‍ പതിപ്പ്</string>
+    <string name="settings_emergency_contact">പ്രാഥമിക കോൺടാക്ടുകളെ മാനേജ് ചെയ്യുക</string>
+    <string name="settings_emergency_contact_empty">പ്രാഥമിക സമ്പർക്കങ്ങളൊന്നും ചേർത്തിട്ടില്ല. %s പ്രാപ്തമാക്കുന്നതിന്, പ്രാഥമിക സമ്പർക്കങ്ങളിലേക്ക് കോൺടാക്ടുകള്‍ ചേർക്കുക.</string>
+    <string name="settings_legal_information">നിയമാനുസൃത വിവരം</string>
+    <string name="settings_message_interval">സന്ദേശ ഇടവേള</string>
+    <string name="settings_not_set">സജ്ജമാക്കിയിട്ടില്ല</string>
+    <string name="settings_security">സുരക്ഷ</string>
+    <string name="settings_security_update">സുരക്ഷാ അപ്‌ഡേറ്റ്</string>
+    <string name="settings_security_update_desc">നിങ്ങളുടെ ഉപകരണത്തിന്‍റെ സുരക്ഷയും സേവനവും മെച്ചപ്പെടുത്തി അതിനെ ഹാനികരമായ ഉള്ളടക്കത്തിൽ നിന്ന് സംരക്ഷിക്കുക.</string>
+    <string name="settings_unknown_sources_dialog">അജ്ഞാത സ്രോതസ്സുകളിൽ നിന്ന് ഇന്‍സ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ ഉപകരണത്തിനും വ്യക്തിഗത ഡാറ്റയ്ക്കും ഹാനികരമായേക്കാം. ശരി എന്നതിൽ സ്പർശിക്കുന്നതുവഴി, ഇത്തരം ആപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കുന്നതിന്‍റെ ഫലമായി നിങ്ങളുടെ ഉപകരണത്തിനുണ്ടാകുന്ന ഏതൊരു കോട്ടത്തിനും അല്ലെങ്കിൽ ഡാറ്റാ നഷ്ടത്തിനും ഉത്തരവാദി നിങ്ങൾ മാത്രമായിരിക്കുമെന്ന് നിങ്ങൾ സമ്മതിക്കുകയാണ്.</string>
+    <string name="settings_unknown_sources_subtitle">Samsung Gear Apps-ന് പുറത്തുള്ള സ്രോതസ്സുകളിൽ നിന്ന് ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് ആപ്ലിക്കേഷനുകളെ അനുവദിക്കുക.</string>
+    <string name="share_loc_disabled">ലൊക്കേഷൻ പങ്കിടൽ അപ്രാപ്തമാക്കി.</string>
+    <string name="share_location_desc">നിങ്ങളുടെ ഗിയറിന്‍റെയും മൊബൈൽ ഉപകരണത്തിന്‍റെയും ലൊക്കേഷൻ ഡാറ്റ പങ്കിടുന്നതിന് എന്‍റെ ഗിയറിനെ കണ്ടെത്തുക, എന്‍റെ ഉപകരണം കണ്ടെത്തുക എന്നിവയെ അനുവദിക്കുക.</string>
+    <string name="shm_I_agree_that_mobile_data">മൊബൈൽ ഡാറ്റ ഉപയോഗിക്കപ്പെട്ടേക്കുമെന്നും അടിയന്തിര ഘട്ടങ്ങളിൽ MMS അയച്ചേക്കുമെന്നും ഞാൻ സമ്മതിക്കുന്നു. അധിക നിരക്കുകൾക്ക് ഇത് വഴിവച്ചേക്കുമെന്ന് ഞാൻ മനസ്സിലാക്കുന്നു.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. ഉപയോക്താക്കൾ മുൻകൂട്ടി ക്രമീകരിച്ച ഒരു അടിയന്തര സമ്പർക്കത്തിന്റെ മൊബൈൽ ഫോണിലേക്ക് അവരുടെ ഏകദേശ സ്ഥാനവും ദൃശ്യ/ശ്രാവ്യ ചുറ്റുപാടുകളും അടങ്ങുന്ന അറിയിപ്പ് അയയ്ക്കുന്നതിന് അവരെ സഹായിക്കാൻ ഉദ്ദേശിച്ചുള്ളതാണ് സഹായ സന്ദേശം അയയ്ക്കുക എന്നത്. നിങ്ങളുടെ സൗകര്യത്തിന് മാത്രമായി ലഭ്യമാക്കപ്പെടുന്ന ഇത് അധികാരികളെ ബന്ധപ്പെടുന്നതിനുള്ള അടിയന്തിര കോളുകൾക്ക് പകരമായി ഉദ്ദേശിക്കപ്പെടാത്തതും, അങ്ങനെ പരിഗണിക്കാൻ പാടില്ലാത്തതുമാകുന്നു.
+ 
+2. നെറ്റ്‌വർക്ക് കണക്റ്റിവിറ്റി GPS/Wi-Fi വിവരങ്ങളുടെ ലഭ്യത, നിങ്ങളുടെ/നിങ്ങളുടെ സമ്പർക്കത്തിന്റെ ഉപകരണത്തിന്റെ അവസ്ഥ കൂടാതെ/അല്ലെങ്കിൽ സ്ഥിതി, ബാറ്ററി നില കൂടാതെ/അല്ലെങ്കിൽ Samsung Electronics Co., Ltd-ന്റെ (“Samsung”, “ഞങ്ങൾ”, “ഞങ്ങളെ”, “ഞങ്ങളുടെ”) നിയന്ത്രണത്തിന് പുറത്തുള്ള മറ്റ് സാഹചര്യങ്ങൾ തുടങ്ങിയ സാഹചര്യങ്ങൾ എന്നിവയെ അടിസ്ഥാനമാക്കിയാണ് സഹായ സന്ദേശം അയയ്ക്കുക (സേവനങ്ങൾ) എന്നത് പ്രവർത്തിക്കുക എന്നതിനാൽ കൃത്യമായോ തുടർച്ചയായോ ന്യൂനതകളില്ലാതെയോ ഇത് പ്രവർത്തിക്കണമെന്നില്ല. നിങ്ങളുടെ അന്തരീക്ഷം, നിങ്ങളുടെ ഉപകരണത്തിന്റെ അവസ്ഥ, നിങ്ങൾ തിരഞ്ഞെടുത്ത സമ്പർക്കത്തിന്റെ ഉപകരണം എന്നിവയെ അടിസ്ഥാനമാക്കി, സ്ഥാന വിവരങ്ങളുടെ കൃത്യതയും സേവനങ്ങളുടെ സമയാസമയത്തുള്ള ഡെലിവറിയും ബാധിക്കപ്പെടാം. മറ്റുതരത്തിൽ വ്യക്തമായി പ്രസ്താവിക്കാത്ത പക്ഷം അല്ലെങ്കിൽ നിയമപരമായ ആവശ്യകത ഇല്ലെങ്കിൽ, സേവനങ്ങൾ കൃത്യമായോ തുടർച്ചയായോ പിശകില്ലാതെയോ പ്രവർത്തിക്കുമെന്നോ ഉള്ള എല്ലാ വാറന്റികളും Samsung നിരാകരിക്കുന്നു. നിങ്ങൾ തിരഞ്ഞെടുക്കുന്ന സമ്പർക്കത്തിന്റെ കയ്യിൽ ശരിയായി പ്രവർത്തിക്കുന്ന ഒരു മൊബൈൽ ഫോൺ ഉണ്ടായിരിക്കണമെന്നും ഉപകരണം ഓണായ അവസ്ഥയിൽ ആയിരിക്കണമെന്നും ടെക്സ്റ്റ് സന്ദേശങ്ങൾ സ്വീകരിക്കുന്നതിന് ആ ഉപകരണത്തിന് ശേഷി ഉണ്ടായിരിക്കണമെന്നും ശ്രദ്ധിക്കുക. നിങ്ങളുടെ ചുറ്റുപാടും സ്ഥാനവുമായി ബന്ധപ്പെട്ട ഡാറ്റ ട്രാൻസ്ഫർ ചെയ്യുന്നതിന് നിങ്ങളുടെ സേവന ദാതാവ് നിശ്ചയിച്ചിട്ടുള്ള നിരക്കിനെ അടിസ്ഥാനമാക്കി, നിരക്ക് ഈടാക്കപ്പെട്ടേക്കാം.
+
+ഉദ്ദേശിക്കപ്പെട്ടിട്ടുള്ളത് പോലെ സേവനങ്ങൾ പ്രവർത്തിക്കുന്നതിനായി, ഈ സവിശേഷതയ്ക്ക്, നിങ്ങൾ മൊബൈലിൽ ഇത് വിന്യസിച്ച് കഴിഞ്ഞാൽ, നിങ്ങളുടെ ഉപകരണത്തിലെ GPS, Wi-Fi ഫംഗ്ഷനുകൾ സ്വപ്രേരിതമായി ഓണാക്കേണ്ടതായി വന്നേക്കാം. നിങ്ങളെ വീണ്ടും അറിയിക്കാതെയോ നിങ്ങളുടെ വീണ്ടുമുള്ള സമ്മതം കൂടാതെയോ, GPS, Wi-Fi ഫംഗ്ഷനുകൾ സ്വപ്രേരിതമായി പ്രാപ്തമാക്കപ്പെടുന്നത് നിങ്ങൾ അംഗീകരിക്കുന്നു, സമ്മതിക്കുന്നു.
+
+3. ഈ ഫംഗ്ഷൻ ദുരുപയോഗം ചെയ്യില്ലെന്നോ എന്തെങ്കിലും നിയമവിരുദ്ധമായ ഉദ്ദേശ്യങ്ങൾക്കായി ഈ ഫംഗ്ഷൻ ഉപയോഗിക്കില്ലെന്നോ മറ്റുള്ളവരുടെ സ്വകാര്യതയോ എന്തെങ്കിലും വ്യക്തിഗത അവകാശം അല്ലെങ്കിൽ ഉടമസ്ഥാവകാശം ലംഘിക്കാൻ ഉപയോഗിക്കില്ലെന്നോ നിങ്ങൾ അംഗീകരിക്കുന്നു, സമ്മതിക്കുന്നു. നിയമമനുസരിച്ചും അടിയന്തിര സാഹചര്യങ്ങളിലും മാത്രമേ ഈ പ്രവർത്തനക്ഷമത ഉപയോഗിക്കാൻ പാടുള്ളൂ. ഈ സവിശേഷത ഉപയോഗിക്കുന്നതിന്റെ പൂർണ്ണ ഉത്തരവാദിത്തം നിങ്ങൾക്കാണെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു. ഈ സവിശേഷത നിങ്ങൾ ഉപയോഗിക്കുന്നതിന്റെ ഫലമായി ഉണ്ടാകുന്ന എല്ലാ അനന്തരഫലങ്ങൾക്കും Samsung-ന് ഉത്തരവാദിത്തം ഉണ്ടായിരിക്കുന്നതല്ല.
+
+4. നിങ്ങളുടെ സൗകര്യത്തിന് മാത്രമായി ലഭ്യമാക്കപ്പെടുന്ന സേവനങ്ങൾ അധികാരികളെ ബന്ധപ്പെടുന്നതിനുള്ള അടിയന്തിര കോളുകൾക്ക് പകരമായി ഉദ്ദേശിക്കപ്പെടാത്തതും, അങ്ങനെ പരിഗണിക്കാൻ പാടില്ലാത്തതുമാകുന്നു. മറ്റുതരത്തിൽ വ്യക്തമായി പ്രസ്താവിക്കാത്ത പക്ഷം അല്ലെങ്കിൽ നിയമപരമായ ആവശ്യകത ഇല്ലെങ്കിൽ, സേവനങ്ങൾ കൃത്യമായോ തുടർച്ചയായോ പിശകില്ലാതെയോ പ്രവർത്തിക്കുമെന്നോ ഉള്ള എല്ലാ വാറന്റികളും Samsung നിരാകരിക്കുന്നു.
+
+5. വാറന്റികളുടെ നിരാകരണം. ഇനിപ്പറയുന്ന കാര്യങ്ങൾ നിങ്ങൾ വ്യക്തമായി മനസ്സിലാക്കുകയും സമ്മതിക്കുകയും ചെയ്യുന്നു:
+ 
+A. ഉള്ളതിൻ പടിയും പിശകുകൾ ഉള്ള പടി, യും “ലഭ്യമായതിൻ പടി,” യിലുമാണ് സേവനങ്ങൾ നൽകിയിരിക്കുന്നത്. ഇതുപയോഗിക്കുന്നതിന്റെ ഉത്തരവാദിത്തം നിങ്ങൾക്കാണ്. സേവനങ്ങളുമായി ബന്ധപ്പെട്ട് സേവനങ്ങൾക്ക് കീഴിലോ വ്യക്തമായ വാറന്റികളോ ഉറപ്പുകളോ നിബന്ധനകളോ SAMSUNG നൽകുന്നില്ല. വാണിജ്യപരത, എന്തെങ്കിലും തരത്തിലുള്ള ഉദ്ദേശ്യത്തിനുള്ള അനുയോജ്യത, വിശ്വസനീയത, അവകാശങ്ങളുടെ ലംഘനമില്ലായ്മ എന്നിവയുടെ സൂചിതമായ എന്തെങ്കിലും വാറന്റികൾ ഉൾപ്പെടെ, എന്നാൽ ഇവയിൽ മാത്രം പരിമിതപ്പെടുത്താതെ, വ്യക്തമായതോ സൂചിതമോ നിയമപരമോ ആയ എല്ലാ വാറന്റികളും കൈകാര്യം ചെയ്യലിൽ നിന്നുള്ളതോ പ്രകടനവുമായി ബന്ധപ്പെട്ടുള്ളതോ ആയ എല്ലാ തരത്തിലുള്ള പ്രതിനിധാനങ്ങളും വാറന്റികളും SAMSUNG വ്യക്തമായി നിരാകരിക്കുന്നു.
+
+B. മുകളിൽ പ്രസ്താവിച്ചിട്ടുള്ളത് പരിമിതപ്പെടുത്താതെ തന്നെ, (i) നിങ്ങളുടെ ആവശ്യകതകൾ സേവനങ്ങൾ നിറവേറ്റുമെന്നോ, (ii) തടസ്സമില്ലാത്തതോ കാലികമോ സുരക്ഷിതമോ പിശകില്ലാത്തതോ ആയിരിക്കും സേവനങ്ങൾ എന്നോ, (iii) സേവനത്തിൽ നിന്ന് ലഭിക്കുന്ന ഉള്ളടക്കമോ സേവനത്തിൽ നിന്നുള്ള ഏതെങ്കിലും അറിയിപ്പുകളോ സേവനത്തിന്റെ പ്രവർത്തനക്ഷമതയോ ലഭ്യമാകുമെന്നോ കൃത്യമാണെന്നോ പൂർണ്ണമാണെന്നോ വിശ്വസനീയമാകുമെന്നോ, (iv) സേവനത്തിന്റെയോ സേവനത്തിലൂടെ നിങ്ങൾ സ്വീകരിക്കുന്ന ഏതെങ്കിലും വിവരങ്ങളുടെയോ മറ്റേതെങ്കിലും മെറ്റീരിയലിന്റെയോ ഗുണ നിലവാരം നിങ്ങളുടെ ആവശ്യകതകളെ നിറവേറ്റുമെന്ന്, അല്ലെങ്കിൽ (v) സേവനങ്ങളിലെ ഏതെങ്കിലും പിശകുകളോ ബഗുകളോ പരിഹരിക്കപ്പെടുമെന്നോ SAMSUNG പ്രതിനിധാനമോ ഉറപ്പോ നൽകുന്നില്ല.
+
+6. ബാധ്യതയുടെ പരിമിതി.
+
+A. (i) കരാർ ലംഘനം, വാറന്റിയുടെയോ ഉറപ്പിന്റെയോ നിബന്ധനയുടെയോ ലംഘനം, കർശനമായ ബാധ്യത, അശ്രദ്ധ അല്ലെങ്കിൽ ബാധകമായ നിയമം അനുവദിക്കുന്നിടത്തോളമുള്ള ലംഘനം എന്നിവയ്ക്കായുള്ള ക്ലെയിമുകൾ; (ii) സേവനത്തിന്റെ നിങ്ങളുടെ ഉപയോഗം അല്ലെങ്കിൽ സേവനങ്ങൾ ഉപയോഗിക്കാനുള്ള നിങ്ങളുടെ കഴിവില്ലായ്മ; (iii) സേവനങ്ങൾക്ക് പകരം മറ്റൊന്ന് ഏർപ്പെടുത്താൻ ചെലവായ തുക; (iv) നിങ്ങളുടെ ട്രാൻസ്മിഷനുകൾ അല്ലെങ്കിൽ ഡാറ്റ എന്നിവയിലേക്കുള്ള അനധികൃത ആക്സസ് അല്ലെങ്കിൽ അവ മാറ്റുന്നത്; (v) ഏതെങ്കിലും മൂന്നാം കക്ഷിയിൽ നിന്നുള്ള പ്രസ്താവനകൾ അല്ലെങ്കിൽ പെരുമാറ്റം; (vi) ഈ കരാർ; (vii) സ്വത്തിനോ വ്യക്തിക്കോ ഉണ്ടാകുന്ന പരിക്ക് (മരണം ഉൾപ്പെടെ), അല്ലെങ്കിൽ (viii) സേവനങ്ങളുമായോ സേവനങ്ങൾ വഴി നൽകപ്പെടുന്ന ഉള്ളടക്കമോ ആയി ബന്ധപ്പെട്ട മറ്റെന്തെങ്കിലും എന്നിവയിൽ നിന്ന് ഉത്ഭവിക്കുന്ന ലാഭ നഷ്ടം, ഉപയോഗ നഷ്ടം, മറ്റ് നഷ്ടങ്ങൾ (റിപ്പെയർ, റീപ്ലെയ്സ്മെന്റ് അല്ലെങ്കിൽ എന്തെങ്കിലും നഷ്ടങ്ങൾക്കായി നിങ്ങൾക്ക് പൂർണ്ണമായി നഷ്ടപരിഹാരം നൽകാത്ത സേവനങ്ങൾക്കായുള്ള റീഫണ്ട് അല്ലെങ്കിൽ നഷ്ടം, ബാധ്യത, നാശനഷ്ടം അല്ലെങ്കിൽ ചെലവ് ഉണ്ടാകുമെന്ന് SAMSUNG-ന് അറിവുണ്ടായിരുന്നു അല്ലെങ്കിൽ അറിയണമായിരുന്നു എന്ന സാഹചര്യം എന്നിവയാണെങ്കിൽ പോലും) എന്നിവയുൾപ്പെടെ, എന്നാൽ ഇവയിൽ മാത്രം പരിമിതപ്പെടുത്താതെ, നേരിട്ടുള്ളതോ പരോക്ഷമായതോ സാന്ദർഭികമായതോ, സവിശേഷമായതോ ശിക്ഷാർഹമായതോ അനന്തരഫലമായി ഉണ്ടാകുന്നതോ അനുകരിക്കുന്നത് കൊണ്ട് ഉണ്ടാകുന്നതോ ആയ നഷ്ടം, ബാധ്യത, നാശനഷ്ടം, ചെലവ് എന്നിവയ്ക്ക് ഒരു അശ്രദ്ധാ തത്വത്തിന് കീഴിലും SAMSUNG-ന് ബാധ്യത ഉണ്ടായിരിക്കുന്നതല്ലെന്ന് നിങ്ങൾ വ്യക്തമായി മനസ്സിലാക്കുന്നു, സമ്മതിക്കുന്നു.
+ 
+B. ഈ കരാറുമായോ സേവനങ്ങളുമായോ ബന്ധപ്പെട്ട് SAMSUNG-മായുള്ള നിങ്ങളുടെ ഏതൊരു തർക്കത്തിനുമുള്ള സമ്പൂർണ്ണമായ പരിഹാരം ഈ സേവനങ്ങൾ ഉപയോഗിക്കുന്നത് അവസാനിപ്പിക്കുക എന്നതാണ്.
+ 
+C. ചില തരം വാറന്റികളുടെ ഒഴിവാക്കലോ ആകസ്മികമായ അല്ലെങ്കിൽ സാന്ദർഭികമായ നാശനഷ്ടങ്ങൾക്കായുള്ള ബാധ്യതയുടെ പരിമിതിയോ ഒഴിവാക്കലോ ചില ജൂറിസ്ഡിക്ഷനുകൾ അനുവദിക്കില്ല. അക്കാരണത്താൽ, വിഭാഗം 5, 6 എന്നിവയുടെ മുകളിലെ പരിമിതികളിൽ ചിലത് നിങ്ങൾക്ക് ബാധകമായേക്കില്ല.
+
+7. ബാധ്യതയിൽ നിന്ന് വിമുക്തമാക്കൽ. സേവനത്തിന്റെ നിങ്ങളുടെ ഉപയോഗം അല്ലെങ്കിൽ ഈ കരാർ അനുസരിച്ച് പ്രവർത്തിക്കുന്നതിൽ നിങ്ങളുടെ പരാജയം എന്നിവയിൽ നിന്ന് ഉണ്ടാകുന്നതോ ബന്ധപ്പെട്ടതോ ആയ എന്തെങ്കിലും ക്ലെയിമുകൾ, നടപടികൾ, ഡിമാൻഡുകൾ, തുകകൾ, ബാധ്യതകൾ, നഷ്ടങ്ങൾ, പിഴകൾ, ചെലവുകൾ (വക്കീലിന് നൽകേണ്ട ന്യായമായ ഫീസും തുകകളും ഉൾപ്പെടെ) എന്നിവയിൽ നിന്ന് Samsung-നെ അപായരഹിതമായി കാക്കാമെന്നും ബാധ്യതയിൽ നിന്ന് മുക്തമാക്കാമെന്നും പ്രതിരോധിക്കാമെന്നും നിങ്ങൾ സമ്മതിക്കുന്നു. നിങ്ങൾ ഏതെങ്കിലും വ്യക്തിയെ സേവനങ്ങൾ ഉപയോഗിക്കാൻ അനുവദിക്കുന്നുവെങ്കിലോ സേവനങ്ങളിലൂടെ സ്വീകരിക്കുന്ന എന്തെങ്കിലും വിവരങ്ങൾ ഏതെങ്കിലും വ്യക്തിക്ക് നിങ്ങൾ നൽകുന്നുവെങ്കിലോ, ഈ വ്യവസ്ഥകൾക്കും നിബന്ധനകൾക്കും കീഴിൽ നിങ്ങൾക്ക് നൽകപ്പെടുന്ന ലൈസൻസുകളുടെ വ്യക്തിഗത സ്വഭാവം എന്തുതന്നെ ആയാലും, ഈ വ്യവസ്ഥകളും നിബന്ധനകളും നിലവിലുണ്ടെന്നും അവയുടെ വകുപ്പുകൾ എന്തൊക്കെയാണെന്നും അത്തരം വ്യക്തികളെ അറിയിക്കുമെന്ന് നിങ്ങൾ സമ്മതിക്കുന്നു, ക്ലെയിമുകൾ, നടപടികൾ, ഡിമാൻഡുകൾ, തുകകൾ, ബാധ്യതകൾ, നഷ്ടങ്ങൾ, പിഴകൾ, ചെലവുകൾ (വക്കീലിന് നൽകേണ്ട ന്യായമായ ഫീസും തുകകളും ഉൾപ്പെടെ) എന്നിവയിൽ നിന്ന് Samsung-നെ അപായരഹിതമായി കാക്കാമെന്നും ബാധ്യതയിൽ നിന്ന് മുക്തമാക്കാമെന്നും പ്രതിരോധിക്കാമെന്നും നിങ്ങൾ സമ്മതിക്കുന്നു.
+
+8. ഫോഴ്സ് മേജൂർ. പ്രകൃതി ദുരന്തങ്ങൾ, സിവിൽ അല്ലെങ്കിൽ മിലിറ്ററി അതോറിറ്റിയുടെ പ്രവർത്തനങ്ങൾ, യുദ്ധം, ഭീകരവാദ പ്രവർത്തനം, തൊഴിൽ തർക്കങ്ങൾ, മൂന്നാം കക്ഷികൾ മുഖേനെ നൽകപ്പെടുന്ന മെറ്റീരിയലുകൾ അല്ലെങ്കിൽ സേവനങ്ങൾ അല്ലെങ്കിൽ Samsung-ന്റെ ന്യായമായ നിയന്ത്രണത്തിനും അപ്പുറത്തുള്ള എന്തെങ്കിലും കാരണം എന്നിവയാൽ പ്രകടനത്തിൽ ഉണ്ടാകുന്ന എന്തെങ്കിലും കാലതാമസം അല്ലെങ്കിൽ പരാജയം അല്ലെങ്കിൽ സേവനങ്ങളുടെ തടസ്സം എന്നിവയ്ക്ക്, ഈ വ്യവസ്ഥകൾക്കും നിബന്ധനൾക്കും കീഴിൽ, Samsung-ന് ഒരു ബാധ്യതയും ഉണ്ടായിരിക്കുന്നതല്ല."</string>
+    <string name="shm_share_my_location_checkbox_text">എന്‍റെ %2$s സമ്പർക്കങ്ങളുമായി എന്‍റെ സ്ഥാനം പങ്കിടാൻ %1$s-നെ ഞാൻ അനുവദിക്കുന്നു.</string>
+    <string name="smartrelay_not_show">ഇന്ന് വീണ്ടും കാണിക്കരുത്</string>
+    <string name="software_update">സോഫ്റ്റ്‌വെയര്‍ അപ്‌ഡേറ്റ്</string>
+    <string name="ss_double_tap_any_screen">തെളിച്ചം, വോളിയം എന്നിവയുടെ നിയന്ത്രണങ്ങളും മറ്റ് ഉപയോഗപ്രദമായ വിവരങ്ങളും കാണുന്നതിന് ഏതൊരു സ്ക്രീനിലും രണ്ട് വിരലുകളുപയോഗിച്ച് രണ്ടുതവണ സ്പർശിക്കുക.</string>
+    <string name="ss_forwarding_calls_to_gear_header">കോളുകൾ നിങ്ങളുടെ ഗിയറിലേക്ക് ഫോർവേഡ് ചെയ്യൽ</string>
+    <string name="ss_forwarding_calls_to_gear_progress">അഭ്യര്‍ത്ഥിക്കുന്നു…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ക്രമീകരണങ്ങള്‍ വായിക്കുന്നു</string>
+    <string name="ss_loading_ing_abb">ലോഡ് ചെയ്യുന്നു…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">മൊബൈല്‍ ഡാറ്റാ അപ്രാപ്തമാക്കി. പകരം Wi-Fi നെറ്റ്‌വര്‍ക്കിലേക്ക് ബന്ധിപ്പിക്കുക, അല്ലെങ്കില്‍ മൊബൈല്‍ ഡാറ്റാ പ്രാപ്തമാക്കി വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="ss_no_network_connection">നെറ്റ്‌വർക്ക് കണക്ഷൻ ഒന്നുമില്ല</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ഉപയോക്തൃ മാനുവല്‍</string>
+    <string name="stub_list_install">ഇന്‍‌സ്റ്റാള്‍</string>
+    <string name="tab_stub_list">വിശിഷ്ടമായത്</string>
+    <string name="talkback_download">ഡൗണ്‍ലോഡുചെയ്യുക</string>
+    <string name="talkback_setting">ക്രമീകരണങ്ങള്‍</string>
+    <string name="the_samsung_gear_application">Samsung Gear ആപ്ലിക്കേഷൻ</string>
+    <string name="threeg_connection">വിദൂര കണക്ഷൻ ഉപയോഗിക്കുക</string>
+    <string name="threeg_connection_subtitle">നിങ്ങളുടെ Samsung account, മൊബൈൽ ഡാറ്റയും അല്ലെങ്കിൽ Wi-Fi-യും ഒന്നിച്ച് ഉപയോഗിച്ചോ റിമോട്ടായി ഗിയർ കണക്റ്റുചെയ്യുക.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">അണ്‍ഇന്‍സ്റ്റാള്‍ചെയ്യുക</string>
+    <string name="title_activity_connect_popup">ബന്ധിപ്പിക്കുക</string>
+    <string name="title_activity_paired_watch">ബന്ധിത ഉപകരണം</string>
+    <string name="title_alertdialog_device_name_popup">%s-ന്‍റെ പേര് മാറ്റുക</string>
+    <string name="title_alertdialog_disconnect_popup">വിച്ഛേദിക്കുക</string>
+    <string name="title_dialog_pm_error">മുന്നറിയിപ്പ്</string>
+    <string name="title_dialog_uninstall">അൺഇൻസ്റ്റാളുചെയ്യുക</string>
+    <string name="title_findmywatch_connect2">എന്‍റെ ഗിയർ കണ്ടെത്തുക</string>
+    <string name="title_findmywatch_finding">തിരയുന്നു…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s-നെ %2$s ലേക്ക് ബന്ധിപ്പിക്കുക</string>
+    <string name="tri_connect_warning_temporal_disconnect">ബ്ലൂടൂത്ത് വഴി നിങ്ങളുടെ %1$s-നെ നിങ്ങളുടെ %2$s-ലേക്ക് ബന്ധിപ്പിക്കുന്നത് നിങ്ങളുടെ %3$s-നെ താൽക്കാലികമായി നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിൽ നിന്ന് വിച്ഛേദിക്കാനിടയാക്കും. ഈ കണക്ഷൻ താമസിയാതെ പുനരാരംഭിക്കും, തുടർന്ന് നിങ്ങളുടെ %5$s, നിങ്ങളുടെ മൊബൈൽ ഉപകരണം എന്നിവ രണ്ടിലേക്കും നിങ്ങളുടെ %4$s ബന്ധിപ്പിക്കപ്പെടും.</string>
+    <string name="tt_install_voice_data">TTS ശബ്ദ ഡാറ്റ ഇന്‍‌സ്റ്റാള്‍ ചെയ്യുക</string>
+    <string name="tt_install_voice_data_required">നിങ്ങളുടെ ഗിയറിൽ അധിക ടെക്സ്റ്റ്‍-ടു-സ്പീച്ച് ഭാഷകൾ ഇൻസ്റ്റാൾ ചെയ്യുക.</string>
+    <string name="tt_language">ഭാഷ</string>
+    <string name="tt_send_help_message">സഹായ സന്ദേശങ്ങൾ അയയ്ക്കുക</string>
+    <string name="tt_tts_language_guide">നിങ്ങളുടെ ഗിയർ ക്രമീകരണങ്ങളിൽ നിങ്ങൾ ക്രമീകരിച്ച ഭാഷയാണ് നിങ്ങളുടെ ടെക്സ്റ്റ്‍-ടു-സ്പീച്ച് ഭാഷ. നിങ്ങളുടെ ഭാഷയെ ടെക്സ്റ്റ്‍-ടു-സ്പീച്ച് എൻജിൻ പിന്തുണയ്ക്കുന്നില്ലെങ്കിൽ, ഇംഗ്ലീഷ് (യുണൈറ്റഡ് കിംഗ്ഡം) ഉപയോഗിക്കപ്പെടും.</string>
+    <string name="unable_to_connect_popup_message">നിങ്ങളുടെ ഗിയറിനെ നിങ്ങളുടെ മൊബൈൽ ഉപകരണത്തിലേക്ക് ബന്ധിപ്പിക്കുന്നത് പരാജയപ്പെട്ടു. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
+    <string name="unable_to_connect_popup_title">കണക്ഷന്‍ പരാജയപ്പെട്ടു</string>
+    <string name="unable_to_lock_gear">ഗിയറിനെ ലോക്ക് ചെയ്യാനാവില്ല</string>
+    <string name="unable_to_reset_gear">ഗിയർ പുനഃക്രമീകരിക്കാനാവില്ല</string>
+    <string name="uninstall_applications">ആപ്ലിക്കേഷനുകൾ അൺഇൾസ്റ്റാൾ ചെയ്യുക</string>
+    <string name="unknown_sources_msg_new">%2$s വഴി %1$s ഇൻസ്റ്റാൾ ചെയ്യപ്പെടുന്നതല്ല. നിങ്ങളുടെ ഉപകരണവും വ്യക്തിഗത ഡാറ്റയും അജ്ഞാത സ്രോതസുകളിലെ ആപ്ലിക്കേഷനുകളുടെ ആക്രമണത്തിന് വിധേയമാവാനുള്ള സാധ്യത കൂടുതലാണ്. ഇത്തരം ആപ്ലിക്കേഷനുകൾ ഉപയോഗിക്കുന്നതിന്‍റെ ഫലമായി നിങ്ങളുടെ ഉപകരണത്തിനുണ്ടാകുന്ന ഏതൊരു കോട്ടത്തിനും അല്ലെങ്കിൽ ഡാറ്റാ നഷ്ടത്തിനും ഉത്തരവാദി നിങ്ങൾ മാത്രമായിരിക്കുമെന്ന് നിങ്ങൾ സമ്മതിക്കുകയാണ്. അജ്ഞാത സ്രോതസുകളിലെ ആപ്ലിക്കേഷനുകൾ എപ്പോഴും ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന്, %3$s > %4$s > %5$s എന്നിവയിലേക്ക് പോയി %6$s പ്രാപ്തമാക്കുക. %7$s ഇൻസ്റ്റാൾ ചെയ്യുന്നതിന് ശരി എന്നതിൽ സ്പർശിക്കുക.</string>
+    <string name="unknown_sources_title">അജ്ഞാത സ്രോതസ്സുകള്‍</string>
+    <string name="update_summary">അപ്‌ഡേറ്റുകള്‍ക്കായി പരിശോധിക്കുക</string>
+    <string name="voice_control_subtitle">കോളെടുക്കാനോ നിരസിക്കാനോ നിങ്ങളുടെ ഗിയർ റിംഗ് ചെയ്യുകയോ വൈബ്രേറ്റ് ചെയ്യുകയോ ചെയ്യുന്നില്ലെങ്കിൽ തൽക്കാലം നിർത്തലുകളുടെ വേളയിൽ “Answer” അല്ലെങ്കിൽ “Reject” എന്ന് പറയുക.</string>
+    <string name="watchapp_all">ആപ്ലിക്കേഷനുകൾ</string>
+    <string name="watchapp_noapps">ആപ്സ്‍ ഒന്നും ഇല്ല</string>
+    <string name="widget_bt">ബ്ലൂടൂത്ത്</string>
+    <string name="widget_fmw_refresh">റിഫ്രെഷ് ചെയ്യുന്നു…</string>
+    <string name="wifi_only">Wi-Fi മാത്രം</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">ഒരു Wi-Fi നെറ്റ്‌വർ‍ക്കിലേക്ക് ബന്ധിപ്പിക്കുമ്പോൾ അപ്ഡേറ്റുകൾ മാത്രം ഡൗൺലോഡ് ചെയ്യുക.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

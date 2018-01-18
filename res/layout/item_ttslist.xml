@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height" android:minHeight="@dimen/myapps_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/tts_layout" android:focusable="false" android:focusableInTouchMode="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height">
+        <TextView android:gravity="start" android:layout_gravity="center_vertical" android:id="@id/tts_textview" android:layout_width="@dimen/tts_install_list_text_item_length" android:layout_height="wrap_content" android:layout_marginStart="16.0dip" style="@style/TextView_ListDescFirstLine" />
+    </LinearLayout>
+    <RelativeLayout android:layout_gravity="center_vertical" android:id="@id/tts_setting_layout" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="true" android:layout_width="@dimen/myapps_list_setting_icon_area_size" android:layout_height="@dimen/myapps_list_item_height" android:contentDescription="@string/talkback_download" android:layout_alignParentEnd="true">
+        <ImageView android:background="@drawable/manager_divider_vertical" android:layout_width="1.0dip" android:layout_height="@dimen/myapps_list_divider_icon_size" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/tts_download_icon" android:layout_width="@dimen/myapps_list_setting_icon_width" android:layout_height="@dimen/myapps_list_setting_icon_width" android:src="@drawable/setting_download" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:layout_marginStart="@dimen/myapps_list_setting_icon_text_left_margin" android:layout_marginEnd="@dimen/myapps_list_setting_icon_text_right_margin" />
+    </RelativeLayout>
+</RelativeLayout>

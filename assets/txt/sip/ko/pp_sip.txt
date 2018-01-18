@@ -1,0 +1,4 @@
+정보수집 및 제공에 대한 동의<br>
+삼성 키보드는 제3의 서비스 제공업체(Nuance Communications Inc.)를 통해서 제공되는 음성인식 기술을 사용합니다. 따라서 귀하가 입력한 음성은 불가피하게 Nuance의 서버(미국)에 저장되며, <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuance의 사용조건</a>에 따라 사용하셔야 합니다.
+Nuance는 귀하가 입력한 음성을 서비스 개선, 기술개발을 위해 사용할 수 있고 Nuance의 협력사에 제공할 수 있습니다. 귀하가 입력한 음성정보는 목적달성시까지 보관되며, <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/ko">Nuance의 privacy policy</a>에 따라 처리됩니다.
+귀하가 정보제공에 동의하지 않으실 경우 서비스를 사용하실 수 없습니다.

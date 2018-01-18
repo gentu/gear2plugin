@@ -1,0 +1,8 @@
+Samsungi klaviatuur ja kõnetuvastusteenuse kasutamine
+1. Teenuses Samsungi klaviatuur kasutatakse teenuse osana kõnetuvastustehnoloogiat. Te kinnitate, et Samsung võib kasutada kõnetuvastusteenust („Kõnetuvastusteenus”) kolmandalt osapoolelt, ettevõttelt Nuance Communications Inc. („Nuance”), ja seoses teenuse Samsungi klaviatuur kasutamisega kinnitate ja nõustute järgmisega.
+2. Nõustute, et ei esita teenusesse Samsungi klaviatuur automatiseeritud ega salvestatud päringuid.
+3. Nõustute, et Nuance kogub kõnetuvastusteenuse pakkumisel teenusesse Samsungi klaviatuur dikteeritud sõnu (sh helisalvestusi nendest sõnadest, seotud transkriptsioone ja logifaile) („Kõneandmed”).
+4. Nõustute, et kõnetuvastusteenuse pakkumisel võib Nuance koguda kõneandmeid, mida võivad kasutada Nuance ja selle kolmanda osapoole partnerid, et häälestada, täiustada ja parandada (a) kõnetuvastusteenust ja (b) teisi Nuance'i tooteid ja teenuseid.
+5. Kinnitate ja nõustuste, et teie kõneandmeid võidakse edastada Ameerika Ühendriikidesse ja/või teistesse riikidesse, et Nuance ja selle kolmanda osapoole partnerid saaksid andmeid salvestada, töödelda ja kasutada.
+6. Mis tahes ja kõik esitatud kõneandmed on konfidentsiaalsed ja neid kasutatakse vastavuses kehtivate seadustega, kuid Nuance võib neid avalikustada, kui see on vajalik, et olla vastavuses õiguslike või seadusega sätestatud nõudmistega, näiteks kohtumääruse alusel või riigiasutusele, kui seda näeb ette seadus, või kolmandale osapoolele, mis võtab üle Nuance'i või ühineb sellega.
+

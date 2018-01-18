@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/notification_scrollview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/manager_winset_list_item_top_bottom_padding" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:splitMotionEvents="false">
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/ManageLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/manage_notifications" custom:subtext="@string/manage_notifications" />
+            <include layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/GearLimitNotificationLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/limit_notification_title" custom:subtext="@string/limit_notification_desc" />
+            <include android:id="@id/GearSmartRelayDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/GearSmartRelayLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_smart_relay" custom:subtext="@string/setting_smart_relay_desc" />
+            <include android:id="@id/GearPreviewMessageDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/GearPreviewMessageLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/preview_message_title" custom:subtext="@string/preview_message_desc" />
+            <include android:id="@id/SummaryPanelDivider" android:visibility="gone" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/SummaryPanelLinear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/new_notification_list" custom:subtext="@string/new_notifications_list_desc" />
+            <include android:id="@id/AlertTypeDivider" android:visibility="gone" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/AlertTypeLinear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/notification_type" custom:subtext="@string/alert_full_screen" />
+            <include android:id="@id/GearScreenOffDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/GearScreenOffLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/screen_off" custom:subtext="@string/screen_off_desc" />
+            <include layout="@layout/settings_items_simple_divider" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

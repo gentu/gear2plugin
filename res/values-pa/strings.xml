@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">ਕਾੱਲ ਦੌਰਾਨ ਉਪਲਬਧ ਨਹੀਂ।</string>
+    <string name="actionbar_name">ਗੇਅਰ ਪ੍ਰਬੰਧਕ</string>
+    <string name="alert_full_screen">ਪੂਰਨ ਸਕ੍ਰੀਨ ਪੌਪ-ਅਪ</string>
+    <string name="alert_mini">ਮਿਨੀ ਪੌਪ-ਅਪ</string>
+    <string name="alertdialog_backkey_popup_content">ਚਿਤਾਵਨੀ</string>
+    <string name="alertdialog_disconnect_popup_description">ਗੇਅਰ ਨੂੰ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਨ ਲਈ ਬਲੂਟੁੱਥ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ਇਸ ਨਾਲ %s ਦੇ ਨਾਲ ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਖਤਮ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">ਤੁਹਾਡੇ %s ਨੂੰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਅਗਲੀ ਵਾਰ ਜਦੋਂ ਤੁਸੀਂ ਇਹਨਾਂ ਡਿਵਾਈਸਿਸ ਨੂੰ ਕਨੈਕਟ ਕਰਦੇ ਹੋ, ਤੁਹਾਨੂੰ ਬਲੂਟੁੱਥ ਦਾ ਉਪਯੋਗ ਜਰੂਰ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ। ਉਸ ਤੋਂ ਬਾਅਦ ਕੋਈ ਵੀ ਕਨੈਕਸ਼ਨਸ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਪੂਰਨ ਹੋਣਗੇ।</string>
+    <string name="alertdialog_uninstall_popup_content">ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="app_name_samsung_gear">ਸੈਮਸੰਗ ਗੇਅਰ</string>
+    <string name="auto_call_forwarding">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">ਜਦੋਂ ਤੁਹਾਡਾ ਗੇਅਰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੁੰਦਾ ਹੈ ਤਾਂ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਵੈਚਲਿਤ ਸਮਰੱਥ ਕਰੋ। ਇਹ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀਆਂ ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਨੂੰ ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਫਾਰਵਰਡ ਕਰ ਦੇਵੇਗਾ ਜਦੋਂ ਤੱਕ ਕਿ ਡਿਵਾਈਸਿਸ ਨੂੰ ਦੁਬਾਰਾ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ।</string>
+    <string name="auto_update">ਸਵੈ ਅਪਡੇਟ</string>
+    <string name="auto_update_summary">ਅਪਡੇਟਸ ਦੀ ਸਵੈਚਲਿਤ ਜਾਂਚ ਕਰੋ।</string>
+    <string name="backing_up">ਬੈਕਅਪ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="backup_complete">ਬੈਕਅਪ ਪੂਰਨ।</string>
+    <string name="bnr_backup">ਬੈਕਅਪ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="bnr_bakcup_title">ਬੈਕਅਪ</string>
+    <string name="bnr_cancel">ਰੱਦ</string>
+    <string name="bnr_canel">ਰੱਦ ਕਰੋ</string>
+    <string name="bnr_error_occurred">ਤਰੁਟੀ ਉਤਪੰਨ ਹੋਈ</string>
+    <string name="bnr_except">%1$s (%2$s ਤੋਂ ਇਲਾਵਾ)</string>
+    <string name="bnr_except_autolock">ਸਵੈ ਲੌਕ</string>
+    <string name="bnr_except_remoteconnection">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ</string>
+    <string name="bnr_except_texttemplate">ਟੈਕਸਟ ਟੈਂਪਲੇਟਸ</string>
+    <string name="bnr_next">ਅਗਲਾ</string>
+    <string name="bnr_no">ਨਹੀਂ</string>
+    <string name="bnr_ok">ਓਕੇ</string>
+    <string name="bnr_reset_gear">ਕਿਸੇ ਨਵੇਂ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ, ਗੇਅਰ ਨੂੰ ਇਸਦੀਆਂ ਫੈਕਟਰੀ ਸੈੱਟਿੰਗਸ ਤੇ ਰੀਸੈੱਟ ਕਰ ਦਿੱਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="bnr_reset_gear_move_setupwizard">ਗੇਅਰ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੈੱਟ ਨਹੀਂ ਹੈ। ਸੈੱਟਅਪ ਵਿਜ਼ਾਰਡ ਹੁਣੇ ਗੇਅਰ ਉੱਤੇ ਖੁਲ੍ਹਿਆ ਹੋਇਆ ਹੈ, ਪਰ ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਇਸ ਡਿਵਾਈਸ ਤੇ ਵੀ ਗੇਅਰ ਪ੍ਰਬੰਧਕ ਵਿੱਚ ਸੈੱਟਅਪ ਵਿਜ਼ਾਰਡ ਖੋਲ੍ਹਣਾ ਪਵੇਗਾ।</string>
+    <string name="bnr_reset_initialization">ਸੂਚਨਾ</string>
+    <string name="bnr_restore">ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="bnr_restored">ਡੈਟਾ ਪੁਨਰ ਸਥਾਪਿਤ ਹੋਇਆ।</string>
+    <string name="bnr_setupwizard_title2">ਬੈਕ ਅਪ ਅਤੇ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="bnr_yes">ਹਾਂ</string>
+    <string name="bt_connected">ਕਨੈਕਟ ਹੋਇਆ</string>
+    <string name="bt_disconnected">ਡਿਸਕਨੈਕਟ ਹੋ ਗਿਆ ਹੈ</string>
+    <string name="bt_unpaired">ਜੋੜਾ ਤੋੜਿਆ</string>
+    <string name="button_finish">ਸਮਾਪਤ</string>
+    <string name="button_restore">ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="call">ਕਾੱਲ</string>
+    <string name="call_check_gear_status_when_cfwd">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਫੰਕਸ਼ਨਸ ਮੋਬਾਈਲ ਤੋਂ ਗੇਅਰ ਅਤੇ ਗੇਅਰ ਤੋਂ ਮੋਬਾਈਲ ਨੂੰ ਇੱਕੋ ਸਮੇਂ ਤੇ ਸਮਰੱਥ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।</string>
+    <string name="call_dualsim1">SIM ਕਾਰਡ 1</string>
+    <string name="call_dualsim1sim2">ਦੋਵੇਂ SIM ਕਾਰਡਸ</string>
+    <string name="call_dualsim2">SIM ਕਾਰਡ 2</string>
+    <string name="call_forwarding">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ</string>
+    <string name="call_forwarding_agree">ਮੈਂ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="call_forwarding_desc">ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਨੂੰ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਆਪਣੇ ਗੇਅਰ ਤੇ ਫਾਰਵਰਡ ਕਰੋ।</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਤੁਹਾਡੇ ਗੇਅਰ ਤੇ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਅਸਮਰੱਥ ਕਰਨ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਗਈ ਹੈ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਸਥਿਤੀ ਪਰਿਣਾਮਾਂ ਉੱਤੇ ਪ੍ਰਭਾਵ ਪਾ ਸਕਦੀ ਹੈ।</string>
+    <string name="call_forwarding_enable_msg">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਤੁਹਾਡੇ ਗੇਅਰ ਤੇ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਗਈ ਹੈ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਸਥਿਤੀ ਪਰਿਣਾਮਾਂ ਉੱਤੇ ਪ੍ਰਭਾਵ ਪਾ ਸਕਦੀ ਹੈ।</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਮੌਜੂਦਾ ਸਮੇਂ ਸਮਰੱਥ ਕੀਤੀ ਗਈ ਹੈ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀਆਂ ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਨੂੰ ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਫਾਰਵਰਡ ਕੀਤਾ ਜਾਵੇਗਾ। ਜੇਕਰ ਤੁਹਾਡੇ ਕੋਲ ਆਪਣਾ ਗੇਅਰ ਨਹੀਂ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਕੋਈ ਕਾੱਲ ਮਿਸ ਨਾ ਕਰੋ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰਨ ਲਈ ਸੈੱਟਿੰਗਸ ਤੇ ਜਾਉ ਅਤੇ ਸਵੈ ਕਾੱਲਸ ਫਾਰਵਰਡ ਕਰੋ ਨੂੰ ਅਸਮਰੱਥ ਕਰੋ।</string>
+    <string name="call_forwarding_turning_off_notify_msg">ਵਾੱਇਸ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਅਸਮਰੱਥ ਹੋ ਰਹੀ ਹੈ…</string>
+    <string name="call_forwarding_turning_on_notify_msg">ਵਾੱਇਸ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਹੋ ਰਹੀ ਹੈ…</string>
+    <string name="call_no_gear_number">ਕੋਈ ਨੰਬਰ ਨਹੀਂ</string>
+    <string name="call_select_dualsim_title">SIM ਕਾਰਡ ਚੁਣੋ</string>
+    <string name="call_voice_control">ਵਾੱਇਸ ਨਿਯੰਤ੍ਰਣ</string>
+    <string name="callforwarding_help_des1">ਤੁਹਾਡੇ ਡਿਵਾਈਸਿਸ ਬਲੂਟੁੱਥ ਜਾਂ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਦੁਆਰਾ ਕਨੈਕਟ ਕੀਤੇ ਗਏ ਹਨ ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹੋਏ, ਉਹ ਡਿਵਾਈਸ ਸਵਿੱਚ ਕਰੋ ਜਿਸ ਤੇ ਕਾੱਲਸ ਸਵੈਚਲਿਤ ਫਾਰਵਰਡ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ।</string>
+    <string name="callforwarding_help_des2">ਤੁਹਾਡੇ ਮੂਵ ਕਰਦੇ ਸਮੇਂ, ਅਤੇ ਗੇਅਰ ਪਹਿਨਣ ਸਮੇਂ ਅਤੇ ਜਦੋਂ ਇਹ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਦੂਰਵਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ ਹੋਵੇ ਤਾਂ ਆਪਣੇ ਗੇਅਰ ਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੇ ਲਈ ਕੀਤੀਆਂ ਗਈਆਂ ਕਾੱਲਸ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ।</string>
+    <string name="cancel">ਰੱਦ</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਅਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">ਹੋਰ ਘੜੀਆਂ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="clocks_noti_uninstall_clock">%s ਅਣਸਥਾਪਿਤ ਹੋ ਜਾਵੇਗੀ।</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s ਦੀ ਸਥਾਪਨਾ ਰੱਦ ਕੀਤੀ ਜਾਵੇਗੀ ਅਤੇ %2$s ਨੂੰ ਡਿਫਾੱਲਟ ਘੜੀ ਦੇ ਰੂਪ ਵਿੱਚ ਸੈੱਟ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="clocks_title_basic_clocks">ਮੂਲ ਘੜੀਆਂ</string>
+    <string name="clocks_title_downloaded_clocks">ਡਾਉਨਲੋਡ ਕੀਤੀ ਗਈ ਘੜੀਆਂ</string>
+    <string name="clocks_title_style_clocks">ਸਟਾਈਲ ਘੜੀਆਂ</string>
+    <string name="clocks_uninstalled">ਅਣਸਥਾਪਿਤ ਕੀਤਾ।</string>
+    <string name="clocks_uninstalling">ਅਣਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="close">ਬੰਦ</string>
+    <string name="closing_samsung_gear_message">ਤੁਹਾਡੇ ਗੇਅਰ ਨੂੰ ਰੀਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ। ਸੈਮਸੰਗ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ ਜਲਦੀ ਬੰਦ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="closing_samsung_gear_message_jpn">Your Gear has been reset. The Gear application will close shortly.</string>
+    <string name="closing_samsung_gear_title">ਸੈਮਸੰਗ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਬੰਦ ਕਰੋ</string>
+    <string name="closing_samsung_gear_title_jpn">Close Gear application</string>
+    <string name="cloud_backup_no_information">ਕਦੇ ਨਹੀਂ</string>
+    <string name="cloud_backup_restore_backup_now">ਡੈਟਾ ਦਾ ਬੈਕ ਅਪ ਲਉ</string>
+    <string name="cloud_backup_restore_restore_now">ਡੈਟਾ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="cmw_agree">ਮੈਂ ਸਹਿਮਤ ਹਾਂ</string>
+    <string name="cmw_eula_agree">ਮੈਂ ਉੱਤੇ ਦਿੱਤੇ ਨਿਯਮਾਂ ਅਤੇ ਸ਼ਰਤਾਂ ਨੂੰ ਸਮਝਦਾ/ਸਮਝਦੀ ਹਾਂ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="cmw_for_setting">"ਸਥਾਨ ਸੇਵਾਵਾਂ ਅਸਮਰੱਥ ਕੀਤੀਆਂ ਗਈਆਂ ਹਨ। ਸੈੱਟਿੰਗਸ 'ਤੇ ਜਾਉ।"</string>
+    <string name="cmw_high_accuracy_dialog_message">ਸਥਾਨ ਦਾ ਸਭ ਤੋਂ ਤੇਜ਼ ਅਤੇ ਸਟੀਕ ਪਤਾ ਕਰਨ ਲਈ, ਸਥਾਨ > ਮੋਡ ਵਿੱਚ ਉੱਚ ਸਟੀਕਤਾ ਚੁਣੋ।</string>
+    <string name="cmw_high_accuracy_dialog_title">ਉੱਚ ਸਟੀਕਤਾ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="cmw_legal_content">“ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ” ਨੂੰ ਸਮਰੱਥ ਕਰਕੇ, ਤੁਸੀਂ ਸਹਿਮਤਿ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਅਤੇ/ਜਾਂ ਗੇਅਰ ਡਿਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਸਥਾਨ ਡੈਟਾ ਨੂੰ ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ ਅਤੇ ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸੈਮਸੰਗ ਸਰਵਰ ਰਾਹੀਂ ਟ੍ਰਾੰਸਮਿਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਸਥਾਨ ਬਾਰੇ ਕਿਸੇ ਜਾਣਕਾਰੀ ਜਾਂ ਕਿਸੇ ਡੈਟਾ ਨੂੰ ਸੈਮਸੰਗ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="cmw_legal_content1">\"%1$s &amp; %2$s\" ਨੂੰ ਸਮਰੱਥ ਕਰਕੇ, ਤੁਸੀਂ ਸਹਿਮਤਿ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਫੋਨ ਅਤੇ/ਜਾਂ ਗੇਅਰ ਡਿਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਸਥਾਨ ਡੈਟਾ ਨੂੰ %1$s ਅਤੇ %2$s ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸੈਮਸੰਗ ਸਰਵਰ ਰਾਹੀਂ ਟ੍ਰਾੰਸਮਿਟੇਡ ਕੀਤਾ ਜਾਵੇਗਾ।. ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਸਥਾਨ ਬਾਰੇ ਕਿਸੇ ਜਾਣਕਾਰੀ ਜਾਂ ਕਿਸੇ ਡੈਟਾ ਨੂੰ ਸੈਮਸੰਗ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s &amp; %2$s\" ਨੂੰ ਸਮਰੱਥ ਕਰਕੇ, ਤੁਸੀਂ ਸਹਿਮਤਿ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਫੋਨ ਡਿਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਸਥਾਨ ਡੈਟਾ ਨੂੰ %2$s ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸੈਮਸੰਗ ਸਰਵਰ ਰਾਹੀਂ ਟ੍ਰਾੰਸਮਿਟੇਡ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਸਥਾਨ ਬਾਰੇ ਕਿਸੇ ਜਾਣਕਾਰੀ ਜਾਂ ਕਿਸੇ ਡੈਟਾ ਨੂੰ ਸੈਮਸੰਗ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="cmw_legal_content_2">ਸੈਮਸੰਗ ਗੋਪਨਿਯਤਾ ਨੀਤੀ</string>
+    <string name="cmw_legal_title">ਕਨੂੰਨੀ ਨੋਟਿਸ</string>
+    <string name="cmw_location">ਸਥਾਨ ਸੇਵਾਵਾਂ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="cmw_show_on_map">ਮੈਪ ਤੇ ਦਿਖਾਉ</string>
+    <string name="color_black">ਕਾਲਾ</string>
+    <string name="color_blue">ਨੀਲਾ</string>
+    <string name="color_brown">ਭੂਰਾ</string>
+    <string name="color_gray">ਸਲੇਟੀ</string>
+    <string name="color_green">ਹਰਾ</string>
+    <string name="color_light_sky_blue">ਫਿੱਕਾ ਨੀਲਾ</string>
+    <string name="color_medium_purple">ਦਰਮਿਆਨਾ ਜਾਮਣੀ</string>
+    <string name="color_orange">ਸੰਤਰੀ</string>
+    <string name="color_pink">ਗੁਲਾਬੀ</string>
+    <string name="color_purple">ਜਾਮਨੀ</string>
+    <string name="color_red">ਲਾਲ</string>
+    <string name="color_spring_green">ਸਪ੍ਰਿੰਗ ਹਰਾ</string>
+    <string name="common_none">ਕੋਈ ਨਹੀਂ</string>
+    <string name="common_off">ਬੰਦ</string>
+    <string name="common_on">ਚਾਲੂ</string>
+    <string name="common_recent_apps">ਹਾਲ ਹੀ ਦੇ ਐਪਸ</string>
+    <string name="connect_popup_content">%s ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="connected_by_trasport_BT">ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਕੀਤਾ</string>
+    <string name="connected_by_trasport_SCS">ਦੂਰਵਰਤੀ ਰੂਪ ਤੋਂ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="connecting_content">ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ</string>
+    <string name="connecting_doc">ਆਪਣੇ %1$s ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਤੋਂ ਬਾਅਦ, ਤੁਸੀਂ ਉਸਦੀਆਂ ਸੈੱਟਿੰਗਸ ਬਦਲ ਸਕਦੇ ਹੋ ਅਤੇ %2$s ਰਾਹੀਂ ਉਸਦੇ ਉੱਤੇ ਅਨੁਪ੍ਰਯੋਗ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="connecting_popup_message">ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="connecting_popup_title">ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="connecting_to_gear_ing">ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="connectingdoc">ਆਪਣੇ ਗੇਅਰ ਨੂੰ ਕਨੈਕਟ ਕਰਨ ਦੇ ਬਾਅਦ, ਤੁਸੀਂ ਉਸਦੀ ਸੈੱਟਿੰਗਸ ਬਦਲ ਸਕਦੇ ਹੋ ਅਤੇ ਗੇਅਰ ਪ੍ਰਬੰਧਕ ਰਾਹੀਂ ਉਸਦੇ ਉੱਤੇ ਅਨੁਪ੍ਰਯੋਗ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="connection_error_dialog_message">ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਕਨੈਕਟ ਨਹੀਂ ਹੈ। ਇਹ ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੇਗਾ।</string>
+    <string name="dialog_check_phone_number_msg1">ਸੁਨਿਸ਼ਚਿਤ ਕਰੋ ਕਿ ਨਿਮਨ ਜਾਣਕਾਰੀ ਸਹੀ ਹੈ:</string>
+    <string name="dialog_check_phone_number_msg2">ਮੋਬਾਈਲ ਫ਼ੋਨ ਨੰਬਰ: %s</string>
+    <string name="dialog_check_phone_number_msg3">ਗੇਅਰ ਫ਼ੋਨ ਨੰਬਰ: %s</string>
+    <string name="dialog_check_phone_number_msg4">ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਓਕੇ ਟੈਪ ਕਰੋ ਅਤੇ ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰੋ।</string>
+    <string name="dialog_enable_remote_connection_desc">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਕਰੋ, ਫਿਰ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="dialog_enable_remote_connection_title">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="dialog_permission_message">%s ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। “ਸੈੱਟਿੰਗਸ” ਤੇ ਟੈਪ ਕਰੋ, ਐਪ ਜਾਣਕਾਰੀ > ਅਨੁਮਤੀਆਂ ਤੇ ਜਾਉ, ਫਿਰ ਨਿਮਨਲਿਖਤ ਅਨੁਮਤੀਆਂ ਨੂੰ ਆਗਿਆ ਦਿਉ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ:</string>
+    <string name="dialog_popup_button_cancel">ਰੱਦ</string>
+    <string name="dialog_reverse_msg">ਤੁਹਾਡੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਦੇ ਆਧਾਰ ਤੇ, ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਅਤੇ ਗੇਅਰ ਉੱਤੇ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣ ਲਈ ਅਲੱਗ ਸਬਸਕ੍ਰਿਪਸ਼ਨਸ ਲੋੜੀਂਦੀ ਹੈ। ਇਸਦੇ ਪਰਿਣਾਮ ਵਜੋਂ ਅਤਿਰਿਕਤ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।</string>
+    <string name="dialog_set_phone_number_msg">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਜਿਸ ਤੋਂ ਅਤੇ ਜਿਸ ਤੇ ਤੁਸੀਂ ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਫਾਰਵਰਡ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਉਨ੍ਹਾਂ ਡਿਵਾਈਸਿਸ ਦੇ ਫ਼ੋਨ ਨੰਬਰਾਂ ਨੂੰ ਸੈੱਟ ਕਰੋ।</string>
+    <string name="dialog_set_phone_number_title">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="disable_loc_text">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਅਸਮਰੱਥ ਹੋ ਜਾਵੇਗਾ। ਤੁਸੀਂ ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ ਜਾਂ ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ ਰਾਹੀਂ ਆਪਣੇ ਗੇਅਰ ਜਾਂ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਖੋਜ ਕਰਨ ਲਈ ਸਥਾਨ ਜਾਣਕਾਰੀ ਦਾ ਉਪਯੋਗ ਕਰਨ ਵਿੱਚ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੋਗੇ।</string>
+    <string name="disable_loc_text_no_gps">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਅਸਮਰੱਥ ਹੋ ਜਾਵੇਗਾ। ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ ਰਾਹੀਂ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਖੋਜ ਕਰਨ ਲਈ ਤੁਸੀਂ ਸਥਾਨ ਜਾਣਕਾਰੀ ਦਾ ਉਪਯੋਗ ਕਰਨ ਵਿੱਚ ਸਮਰੱਥ ਨਹੀਂ ਹੋਵੋਗੇ।</string>
+    <string name="disable_remote_connection">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਅਸਮਰੱਥ ਕਰੋ</string>
+    <string name="disable_remote_connection_fmm_fmd">ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ ਅਤੇ ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ</string>
+    <string name="disable_remote_connection_receiving_blocked">ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਸੰਦੇਸ਼, ਈਮੇਲਸ ਅਤੇ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਈਮੇਲਸ ਅਤੇ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ</string>
+    <string name="disable_remote_connection_warning">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਅਸਮਰੱਥ ਕੀਤਾ ਜਾਵੇਗਾ। ਜਦੋਂ ਤੱਕ ਤੁਹਾਡਾ ਗੇਅਰ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਦੁਬਾਰਾ ਕਨੈਕਟ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਨਿਮਨਲਿਖਤ ਫੰਕਸ਼ਨਸ ਉਪਲਬਧ ਨਹੀਂ ਹੋਣਗੇ:</string>
+    <string name="disable_share_location">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਅਸਮਰੱਥ ਕਰੋ</string>
+    <string name="disconnect_popup_content">%s ਡਿਸਕਨੈਕਟ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="do_not_show_again">ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਉ</string>
+    <string name="enable_auto_call_forwarding_msg">ਜਦੋਂ ਗੇਅਰ ਡਿਸਕਨੈਕਟ ਹੁੰਦਾ ਹੈ ਤਾਂ ਸਵੈਚਲਿਤ ਹੀ ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਨੂੰ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਆਪਣੇ ਗੇਅਰ ਤੇ ਫਾਰਵਰਡ ਕਰੋ। ਤੁਹਾਡੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਦੇ ਆਧਾਰ ਤੇ, ਇਸਦੇ ਪਰਿਣਾਮ ਵਜੋਂ ਅਤਿਰਿਕਤ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ। ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਓਕੇ ਉੱਤੇ ਟੈਪ ਕਰੋ।</string>
+    <string name="enable_auto_call_forwarding_title">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="enable_more_notifications_enable">ਸਮੱਰਥ</string>
+    <string name="enable_notification_access">ਸੂਚਨਾ ਐਕਸੈੱਸ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="enable_notification_access_desc">"ਇਹ ਫੰਕਸ਼ਨ ਤੁਹਾਡੇ ਵੱਲੋਂ ਪ੍ਰਾਪਤ ਕੀਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਸਭ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪੜ੍ਹਨ ਵਿੱਚ ਸਮਰੱਥ ਹੋਵੇਗਾ, ਜਿਸ ਵਿੱਚ ਤੁਹਾਡੀ ਵਿਅਕਤੀਗਤ ਜਾਣਕਾਰੀ ਜਿਵੇਂ ਕਿ ਸੰਪਰਕ ਜਾਂ ਤੁਹਾਨੂੰ ਭੇਜੇ ਗਏ ਸੰਦੇਸ਼ ਵੀ ਸ਼ਾਮਿਲ ਹੋ ਸਕਦੇ ਹਨ। ਇਹ ਇਹਨਾਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਖਾਰਿਜ ਕਰਨ ਦੇ ਵੀ ਯੋਗ ਹੋਵੇਗਾ ਜਾਂ ਉਹਨਾਂ ਨਾਲ ਸੰਬੰਧਿਤ ਕਾਰਜਾਂ ਨੂੰ ਚੁਣਨ ਵਿੱਚ ਸਮਰੱਥ ਹੋਵੇਗਾ।
+ਆਪਣੇ ਗੇਅਰ ਉੱਤੇ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ, ਸਮਰੱਥ ਕਰੋ ਉੱਤੇ ਟੈਪ ਕਰੋ, ਫਿਰ %s ਨੂੰ ਸਮਰੱਥ ਕਰੋ।"</string>
+    <string name="enable_share_location">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="enabled_loc">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਸਮਰੱਥ।</string>
+    <string name="error_enter_device_name">ਡਿਵਾਈਸ ਦਾਂ ਨਾਂ ਦਾਖ਼ਲ ਕਰੋ।</string>
+    <string name="error_occurred">ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ।</string>
+    <string name="eula_i_agree">ਮੈਂ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="failed_tshare_msg">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। T ਸਾਂਝਾ ਵੱਲੋਂ ਕੋਈ ਪ੍ਰਤੀਕਿਰਿਆ ਨਹੀਂ।</string>
+    <string name="find_my_device">ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ</string>
+    <string name="find_my_gear">ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ</string>
+    <string name="find_watch_btn_start">ਅਰੰਭ ਕਰੋ</string>
+    <string name="find_watch_btn_stop">ਰੋਕੋ</string>
+    <string name="find_watch_off">ਆਪਣੇ ਗੇਅਰ ਨੂੰ ਲੱਭਣ ਦੇ ਲਈ, ਸ਼ੁਰੂ ਕਰੋ ਤੇ ਟੈਪ ਕਰੋ। ਗੇਅਰ ਇੱਕ ਧੁਨੀ ਪਲੇ ਕਰੇਗਾ ਅਤੇ ਇਸਦੀ ਸਕ੍ਰੀਨ ਚਾਲੂ ਹੋ ਜਾਵੇਗੀ।</string>
+    <string name="find_watch_on">ਆਪਣੇ ਗੇਅਰ ਨੂੰ ਲੱਭਣਾ ਬੰਦ ਕਰਨ ਲਈ, ਰੋਕੋ ਟੈਪ ਕਰੋ। ਗੇਅਰ ਆਵਾਜ਼ ਪਲੇ ਕਰਨਾ ਬੰਦ ਕਰ ਦੇਵੇਗਾ ਅਤੇ ਉਸਦੀ ਸਕ੍ਰੀਨ ਬੰਦ ਹੋ ਜਾਵੇਗੀ।</string>
+    <string name="font_gear_name">ਗੇਅਰ</string>
+    <string name="font_noti_uninstall_idle_font">%1$s ਨੂੰ ਅਣਸਥਾਪਿਤ ਕੀਤਾ ਜਾਵੇਗਾ, ਅਤੇ ਤੁਹਾਡੇ %2$s ਉੱਤੇ ਡਿਫਾੱਲਟ ਫੌਂਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="force_wifi_direct_msg">ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ Wi-Fi Direct ਰਾਹੀਂ ਸਥਾਪਿਤ ਕੀਤਾ ਜਾਵੇਗਾ। ਇਸ ਨਾਲ ਤੁਹਾਡਾ ਵਰਤਮਾਨ Wi-Fi Direct ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋ ਜਾਵੇਗਾ। ਜੇਕਰ ਤੁਸੀਂ ਸਥਾਪਨਾ ਰੱਦ ਕਰਦੇ ਹੋ, ਤਾਂ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਇਸ ਨੂੰ ਦੁਬਾਰਾ ਡਾਉਨਲੋਡ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ।</string>
+    <string name="force_wifi_direct_title">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="force_wifi_install">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="gear2_backup_confirm_text">ਜੇਕਰ ਤੁਸੀਂ ਹੁਣੇ ਆਪਣੇ ਡੈਟਾ ਦਾ ਬੈਕ ਅਪ ਲੈਂਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਮੌਜੂਦਾ ਗੇਅਰ ਬੈਕਅਪ ਡੈਟਾ ਤੁਹਾਡੇ ਸਭ ਤੋਂ ਨਵੇਂ ਗੇਅਰ ਡੈਟਾ ਨਾਲ ਬਦਲ ਜਾਵੇਗਾ।</string>
+    <string name="gear2_restore_confirm_text">ਜੇਕਰ ਤੁਸੀਂ ਆਪਣੇ ਡੈਟਾ ਨੂੰ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਹੁਣੇ ਮੌਜੂਦ ਡੈਟਾ ਨੂੰ ਮਿਟਾ ਦਿੱਤਾ ਜਾਵੇਗਾ ਅਤੇ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਗੇਅਰ ਬੈਕਅਪ ਡੈਟਾ ਤੋਂ ਬਦਲ ਦਿੱਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="gear2_text">"ਆਪਣੀ %1$s ਸਮੱਗਰੀ ਦਾ ਬੈਕਅਪ ਲੈਣ ਦੇ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਸਟੋਰੇਜ ਦਾ ਉਪਯੋਗ ਕਰੋ:
+%2$s
+
+ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਇਸ ਸਮੱਗਰੀ ਦਾ ਬੈਕਅਪ ਲਿਆ ਹੋਇਆ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸਨੂੰ %3$s ਤੋਂ ਹੁਣੇ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।
+
+ਫਾਈਲ ਦੇ ਆਕਾਰ ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹੋਏ, ਇਹ ਕੁਝ ਸਮਾਂ ਲੈ ਸਕਦਾ ਹੈ।"</string>
+    <string name="gear2_text_import3">ਸੈੱਟਿੰਗਸ</string>
+    <string name="gear_bnr_desc">"ਨਿਮਨ %1$s ਡੈਟਾ ਦਾ ਬੈਕ ਅਪ ਕਰਨ ਲਈ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਸਟੋਰੇਜ ਦਾ ਉਪਯੋਗ ਕਰੋ: %2$s
+
+ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਆਪਣਾ %3$s ਡੈਟਾ ਬੈਕ ਅਪ ਕੀਤਾ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸਨੂੰ ਆਪਣੇ %4$s ਤੇ ਹੁਣ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।
+
+ਇਹ ਫਾਈਲਾਂ ਦੇ ਆਕਾਰ ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹੋਏ ਕੁਝ ਸਮਾਂ ਲੈ ਸਕਦਾ ਹੈ।"</string>
+    <string name="gear_fit">ਸੈਮਸੰਗ ਗੇਅਰ ਫਿਟ</string>
+    <string name="gear_location_popup_message">ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਹੁਣ ਤੁਹਾਡੇ ਗੇਅਰ ਲਈ ਸਕੈਨ ਕਰ ਰਿਹਾ ਹੈ। ਇਸ ਵਿੱਚ ਕੁਝ ਮਿੰਟ ਲੱਗਣਗੇ। ਜੇਕਰ ਤੁਹਾਡਾ ਗੇਅਰ ਘਰ ਦੇ ਅੰਦਰ ਹੈ ਤਾਂ ਇਸਦਾ ਪਤਾ ਲਗਾਉਣ ਵਿੱਚ ਮੁਸ਼ਕਲ ਆ ਸਕਦੀ ਹੈ।</string>
+    <string name="gear_location_popup_title">ਗੇਅਰ ਨੂੰ ਲੱਭੋ</string>
+    <string name="gear_location_text">ਗੇਅਰ ਸਥਾਨ</string>
+    <string name="gear_lock_success">ਗੇਅਰ ਲੌਕ ਹੋਇਆ।</string>
+    <string name="gear_lock_text">ਗੇਅਰ ਲੌਕ ਕਰੋ</string>
+    <string name="gear_locked">ਗੇਅਰ ਲੌਕ ਹੋਇਆ</string>
+    <string name="gear_locked_text1">ਗੇਅਰ ਲੌਕ ਹੋਇਆ। ਅਨਲੌਕ ਕਰਨ ਲਈ, ਗੇਅਰ ਨੂੰ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।</string>
+    <string name="gear_phone_number">ਗੇਅਰ ਦਾ ਫ਼ੋਨ ਨੰਬਰ</string>
+    <string name="gear_phone_number_popup_desc">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀਆਂ ਸਾਰੀਆਂ ਕਾੱਲਸ ਨੂੰ %s ਤੇ ਫਾਰਵਰਡ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">ਤੁਹਾਡੇ ਗੇਅਰ ਨੂੰ ਲੌਕ ਕਰਨ ਲਈ, ਪਹਿਲਾਂ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਜਰੂਰ ਸਮਰੱਥ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">ਤੁਹਾਡੇ ਗੇਅਰ ਨੂੰ ਰੀਸੈੱਟ ਕਰਨ ਲਈ, ਪਹਿਲਾਂ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਜਰੂਰ ਸਮਰੱਥ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ।</string>
+    <string name="gear_reset_text">ਗੇਅਰ ਰੀਸੈੱਟ ਕਰੋ</string>
+    <string name="gear_to_mobile">ਗੇਅਰ ਤੋਂ ਮੋਬਾਈਲ</string>
+    <string name="gear_to_mobile_des">ਦੋਵਾਂ ਡਿਵਾਈਸਿਸ ਦੇ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਹੋਣ ਤੇ ਆਪਣੇ ਗੇਅਰ ਤੇ ਕੀਤੀਆਂ ਗਈਆਂ ਕਾੱਲਸ ਨੂੰ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਪ੍ਰਾਪਤ ਕਰੋ।</string>
+    <string name="gear_unable_to_locate_message">ਸਥਾਨ ਲੱਭਣ ਵਿੱਚ ਅਸਫਲ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="gear_unable_to_locate_title">ਗੇਅਰ ਨੂੰ ਲੱਭਣ ਵਿੱਚ ਅਸਮਰੱਥ</string>
+    <string name="gearmanager_app_name">ਸੈਮਸੰਗ ਗੇਅਰ</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">ਵਾਲਪੇਪਰਸ</string>
+    <string name="home_bg_color">ਰੰਗ</string>
+    <string name="home_bg_colors_title">ਉਪਲਬਧ ਰੰਗ</string>
+    <string name="home_bg_delete_actionbar_selected">ਚੁਣਿਆ</string>
+    <string name="home_bg_delete_dialog_msg">ਗੇਅਰ ਪ੍ਰਬੰਧਕ ਅਤੇ ਤੁਹਾਡੇ ਗੇਅਰ ਤੋਂ %d ਵਾਲਪੇਪਰ ਹਟਾਏ ਜਾਣਗੇ।</string>
+    <string name="home_bg_delete_select_all">ਸਭ ਚੁਣੋ</string>
+    <string name="home_bg_max_more_image_toast">ਵਾਲਪੇਪਰ ਅਧਿਕਤਮ ਸੰਖਿਆ (%d) ਤੇ ਪਹੁੰਚ ਗਏ ਹਨ।</string>
+    <string name="home_bg_more_images">ਹੋਰ ਚਿੱਤਰ</string>
+    <string name="home_bg_popup_wallpaper_msg">ਗੇਅਰ ਵਾਲਪੇਪਰਸ ਡਾਉਨਲੋਡ ਹੋ ਰਹੇ ਹਨ…</string>
+    <string name="home_bg_popup_wallpaper_title">ਵਾਲਪੇਪਰਸ ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="home_bg_toast_saved">ਸੁਰੱਖਿਅਤ।</string>
+    <string name="home_bg_wallpaper">ਵਾਲਪੇਪਰ</string>
+    <string name="home_bg_wallpapers_title">ਉਪਲਬਧ ਵਾਲਪੇਪਰਸ</string>
+    <string name="homelayout_apps">ਅਨੁਪ੍ਰਯੋਗ</string>
+    <string name="incoming_calls_title">ਇਨਕਮਿੰਗ ਕਾੱਲਸ</string>
+    <string name="info_build_number">ਸੌਫਟਵੇਅਰ ਸੰਸਕਰਣ</string>
+    <string name="info_model_number">ਮਾਡਲ ਨੰਬਰ</string>
+    <string name="info_software_update">ਸੌਫਟਵੇਅਰ ਅਪਡੇਟ</string>
+    <string name="information_provision_agreement">ਜਾਣਕਾਰੀ ਦੀ ਵਿਵਸਥਾ ਦਾ ਸਮਝੌਤਾ</string>
+    <string name="information_provision_agreement_mgs">"ਆਵਾਜ਼ ਮੈਮੋ, ਇੱਕ ਤੀਜੀ ਧਿਰ ਸੇਵਾ ਪ੍ਰਦਾਤਾ, ਜਿਸਦਾ ਨਾਮ Nuance Communications, Inc. ਹੈ, ਦੁਆਰਾ ਮੁਹੱਈਆ ਕੀਤੀ ਜਾਂਦੀ ਆਵਾਜ਼ ਪਛਾਣ ਸੇਵਾ ਦੀ ਵਰਤੋਂ ਕਰਦਾ ਹੈ। ਇਸ ਲਈ ਤੁਹਾਡੀ ਆਵਾਜ਼ ਸਬੰਧੀ ਜਾਣਕਾਰੀ ਨੂੰ ਲਾਜ਼ਮੀ ਤੌਰ ਤੇ Nuance ਦੁਆਰਾ ਚਲਾਏ ਜਾਂਦੇ ਸਰਵਰ ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਜਾਂਦਾ ਹੈ (ਅਮਰੀਕਾ ਵਿੱਚ), ਅਤੇ ਆਵਾਜ਼ ਮੈਮੋ ਨੂੰ ਵਰਤਣ ਲਈ ਜ਼ਰੂਰੀ ਹੈ ਕਿ ਤੁਸੀਂ Nuance ਦੇ ਨਿਯਮਾਂ ਅਤੇ ਸ਼ਰਤਾਂ ਨਾਲ ਸਹਿਮਤ ਹੋਵੋ।
+ ਸੇਵਾਵਾਂ ਵਿੱਚ ਸੁਧਾਰ ਕਰਨ ਅਤੇ ਟੈਕਨਾਲੋਜੀਆਂ ਵਿਕਸਿਤ ਕਰਨ ਦੇ ਉਦੇਸ਼ਾਂ ਲਈ, Nuance ਤੁਹਾਡੇ ਆਵਾਜ਼ ਦਾਖਲੇ ਨੂੰ ਵਰਤਣ ਦਾ ਹੱਕ ਰਾਖਵਾਂ ਰੱਖਦਾ ਹੈ। Nuance ਉੱਪਰ ਜ਼ਿਕਰ ਕੀਤੇ ਗਏ ਆਵਾਜ਼ ਦਾਖਲੇ ਨੂੰ Nuance ਦੇ ਸਾਂਝੀਦਾਰਾਂ ਕੋਲ ਮੁਹੱਈਆ ਕਰਨ ਦਾ ਹੱਕ ਵੀ ਰਾਖਵਾਂ ਰੱਖਦਾ ਹੈ। ਜਦੋਂ ਤਕ ਉੱਪਰ ਜ਼ਿਕਰ ਕੀਤੇ ਗਏ ਟੀਚੇ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੋ ਜਾਂਦੇ, ਤੁਹਾਡੀ ਆਵਾਜ਼ ਸਬੰਧੀ ਜਾਣਕਾਰੀ ਨੂੰ ਸਟੋਰ ਕਰਕੇ ਰੱਖਿਆ ਜਾਂਦਾ ਹੈ। ਆਵਾਜ਼ ਮੈਮੋ ਸੇਵਾਵਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ Samsung ਗੁਪਤਤਾ ਨੀਤੀ ਅਤੇ Nuance ਗੁਪਤਤਾ ਨੀਤੀ ਪੜ੍ਹੋ।
+ ਜੇ ਤੁਸੀਂ ਉੱਪਰ ਵਰਣਿਤ ਕੀਤੇ ਤੁਹਾਡੇ ਜਾਣਕਾਰੀ ਲਈ ਜਾਣਕਾਰੀ ਦੀ ਵਿਵਸਥਾ ਨਾਲ ਸਹਿਮਤ ਨਹੀਂ ਹੋ ਤਾਂ ਤੁਸੀਂ ਆਵਾਜ਼ ਮੈਮੋ ਨਹੀਂ ਵਰਤ ਸਕਦੇ ਹੋ।"</string>
+    <string name="init_manage_notifications_desc">ਤੁਸੀਂ ਆਪਣੇ %1$s ਤੇ ਜਿਹਨਾਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਤੋਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ ਉਹਨਾਂ ਨੂੰ ਚੁਣੋ। ਆਪਣੇ %2$s ਦੀ ਬੈਟਰੀ ਪਾਵਰ ਬਚਾਉਣ ਲਈ, ਉਹਨਾਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੀ ਚੋਣ ਰੱਦ ਕਰੋ ਜਿਹਨਾਂ ਤੋਂ ਤੁਸੀਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ।</string>
+    <string name="install_in_progress">ਪ੍ਰਗਤੀ ਵਿੱਚ ਹੈ…</string>
+    <string name="latest_version">ਨਵੀਨਤਮ ਸੰਸਕਰਣ ਸਥਾਪਿਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="latitude">ਵਿਥਕਾਰ</string>
+    <string name="limit_notification_desc">ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਵਰਤੋਂ ਕੀਤੇ ਜਾਣ ਦੇ ਦੌਰਾਨ ਸਚੇਤਾਂ ਨੂੰ ਗੇਅਰ ਉੱਤੇ ਦਿਖਾਈ ਦੇਣ ਤੋਂ ਬਲੌਕ ਕਰੋ।</string>
+    <string name="limit_notification_dialog_desc">ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਸੂਚਨਾਵਾਂ ਨੂੰ ਪ੍ਰਤੀਬੰਧਿਤ ਕਰੋ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ। ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਕੋਈ ਸਕ੍ਰੀਨ ਲੌਕ ਸੈੱਟ ਨਹੀਂ ਹੈ।</string>
+    <string name="limit_notification_title">ਸੂਚਨਾਵਾਂ ਸੀਮਿਤ ਕਰੋ</string>
+    <string name="location_info_title">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="lock_gear_legal_text1">ਗੇਅਰ ਲੌਕ ਕਰੋ ਦਾ ਉਪਯੋਗ ਕਰਕੇ, ਤੁਸੀਂ ਅਣਅਧਿਕ੍ਰਿਤ ਉਪਯੋਗ ਨੂੰ ਰੋਕਣ ਲਈ ਦੂਰਵਰਤੀ ਤਰੀਕੇ ਨਾਲ ਆਪਣੇ ਗੇਅਰ ਨੂੰ ਲੌਕ ਕਰ ਸਕਦੇ ਹੋ। ਤੁਸੀਂ ਗੇਅਰ ਨੂੰ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਦੁਬਾਰਾ ਕਨੈਕਟ ਕਰਕੇ ਇਸਨੂੰ ਅਨਲੌਕ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="lock_gear_legal_text2">* ਤੁਹਾਡੇ ਗੇਅਰ, ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਨੈੱਟਵਰਕ ਵਾਤਾਵਰਨ ਦੀ ਸਥਿਤੀ ਦੇ ਆਧਾਰ ਤੇ, ਗੇਅਰ ਲੌਕ ਕਰੋ ਨੂੰ ਫੰਕਸ਼ਨ ਕਰਨ ਵਿੱਚ ਕੁਝ ਸਮਾਂ ਲਗ ਸਕਦਾ ਹੈ ਜਾਂ ਉਹ ਅਸਫਲ ਵੀ ਹੋ ਸਕਦਾ ਹੈ।</string>
+    <string name="lock_gear_text">ਤੁਹਾਡਾ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਅਤੇ ਗੇਅਰ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਹੋਣ ਤੇ ਤੁਹਾਡੇ ਗੇਅਰ ਨੂੰ ਲੌਕ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ।</string>
+    <string name="login_to_samsung_account">Samsung account ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ</string>
+    <string name="login_to_samsung_account_desc">ਆਪਣੇ ਗੇਅਰ ਤੇ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਕਰਨ ਦੇ ਲਈ, ਆਪਣੇ Samsung account ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।</string>
+    <string name="login_to_samsung_account_full_desc">"ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਟ ਨਾ ਹੋਣ ਤੇ ਵੀ ਨਿਮਨਲਿਖਤ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਆਪਣੇ Samsung account 'ਤੇ ਸਾਈਨ ਇਨ ਕਰੋ:
+- ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨਾ
+- ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਰਾਹੀਂ ਉਪਯੋਗ ਕਰਨਾ
+ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਦੇ ਉਪਯੋਗ ਕਰਨ ਤੇ ਵਾਧੂ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">ਲੰਬਾਕਾਰ</string>
+    <string name="main_bt_unpaired">ਜੋੜਾ ਤੋੜਿਆ</string>
+    <string name="main_disconnected">ਡਿਸਕਨੈਕਟ ਹੋਇਆ</string>
+    <string name="manage_applications">ਅਨੁਪ੍ਰਯੋਗ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="manage_notifications">ਸੂਚਨਾਵਾਂ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਇੱਕ ਨੈੱਟਵਰਕ ਸੇਵਾ ਹੈ ਜੋ %s ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਨੂੰ ਨਿਰਧਾਰਿਤ ਨੰਬਰ ਉੱਤੇ ਡਾਇਵਰਟ ਕਰਦੀ ਹੈ। ਤੁਹਾਡੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਦੇ ਆਧਾਰ ਤੇ, ਤੁਹਾਡੇ ਗੇਅਰ ਉੱਤੇ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣ ਲਈ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਲੋੜ ਹੋ ਸਕਦੀ ਹੈ। ਇਸਦੇ ਪਰਿਣਾਮ ਵਜੋਂ ਅਤਿਰਿਕਤ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।</string>
+    <string name="manual_call_forwarding_popup_desc_arg">ਮੋਬਾਈਲ ਡਿਵਾਈਸ</string>
+    <string name="masterapp_not_installed">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ %1$s ਸਥਾਪਿਤ ਨਹੀਂ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਤੇ %2$s ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੇ ਲਈ, ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ %1$s ਡਾਉਨਲੋਡ ਕਰੋ।</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ ਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤਾ ਗਿਆ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਤੇ %2$s ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੇ ਲਈ, ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ %1$s ਨੂੰ ਡਾਉਨਲੋਡ ਕਰੋ। ਤੁਹਾਨੂੰ ਡਾਉਨਲੋਡ ਸਕ੍ਰੀਨ ਤੇ ਲਿਜਾਇਆ ਜਾਵੇਗਾ।</string>
+    <string name="masterapp_uninstalled">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ %1$s ਦੀ ਅਣਸਥਾਪਿਤ ਕੀਤਾ ਗਿਆ ਹੈ। ਆਪਣੇ ਗੇਅਰ ਤੇ %2$s ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੇ ਲਈ, ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ %1$s ਡਾਉਨਲੋਡ ਕਰੋ।</string>
+    <string name="maximum_size_warning">ਵਰਣਾਂ ਦੀ ਅਧਿਕਤਮ ਸੰਖਿਆ ਪੂਰੀ ਹੋ ਗਈ ਹੈ।</string>
+    <string name="menu_about_device">%s ਦੇ ਬਾਰੇ</string>
+    <string name="menu_actionbar_remove">ਹਟਾਉ</string>
+    <string name="menu_actionbar_uninstall">ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="menu_appsandsettigns">ਐਪਸ ਅਤੇ ਸੈੱਟਿੰਗਸ</string>
+    <string name="menu_clock">ਘੜੀ</string>
+    <string name="menu_display">ਹੋਮ ਸਕ੍ਰੀਨ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="menu_downloaded_font">ਡਾਉਨਲੋਡ ਕੀਤੇ ਫੌਂਟਸ</string>
+    <string name="menu_filetransfertogear">ਫਾਈਲਾਂ ਨੂੰ ਗੇਅਰ ਉੱਤੇ ਟ੍ਰਾਂਸਫਰ ਕਰੋ</string>
+    <string name="menu_gallery">ਚਿੱਤਰ</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">ਫਿਟਨੈਸ</string>
+    <string name="menu_help">ਮਦਦ</string>
+    <string name="menu_home_screen">ਹੋਮ ਸਕ੍ਰੀਨ ਸਟਾਇਲਰ</string>
+    <string name="menu_music">ਸੰਗੀਤ</string>
+    <string name="menu_myapp">ਮੇਰੇ ਐਪਸ</string>
+    <string name="menu_notification">ਸੂਚਨਾਵਾਂ</string>
+    <string name="menu_rename">ਦੁਬਾਰਾ ਨਾਂ ਦਿਉ</string>
+    <string name="menu_samsungapps">ਸੈਮਸੰਗ ਗੇਅਰ ਐਪਸ</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">ਸੈੱਟਿੰਗਸ</string>
+    <string name="mobile_to_gear">ਮੋਬਾਈਲ ਤੋਂ ਗੇਅਰ</string>
+    <string name="mobile_to_gear_des">ਜਦੋਂ ਦੋਨੋਂ ਡਿਵਾਈਸਿਸ ਦੂਰਵਰਤੀ ਤਰੀਕੇ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤਾਂ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਕੀਤੀਆਂ ਗਈਆਂ ਕਾੱਲਸ ਨੂੰ ਆਪਣੇ ਗੇਅਰ ਉੱਤੇ ਪ੍ਰਾਪਤ ਕਰੋ।</string>
+    <string name="monotype_default_font">ਡਿਫਾੱਲਟ ਫੌਂਟ</string>
+    <string name="monotype_dialog_font_applemint">ਐਪਲ ਮਿੰਟ</string>
+    <string name="monotype_dialog_font_choco">ਚੋਕੋ ਕੂਕੀ</string>
+    <string name="monotype_dialog_font_cool">ਕੂਲ ਜੈਜ਼</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">ਰੋਜ਼ਮੈਰੀ</string>
+    <string name="monotype_dialog_font_tinkerbell">ਟਿੰਕਰ ਬੈੱਲ</string>
+    <string name="more">ਹੋਰ</string>
+    <string name="more_options">ਹੋਰ ਵਿਕਲਪ</string>
+    <string name="multisim_title">ਮਲਟੀ SIM</string>
+    <string name="navigate_up">ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ</string>
+    <string name="new_eula_error_log">ਨਿਦਾਨਿਕ ਜਾਣਕਾਰੀ ਰਿਪੋਰਟ ਕਰੋ</string>
+    <string name="new_eula_fmd2">ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ</string>
+    <string name="new_eula_fmg2">ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ</string>
+    <string name="new_eula_news_briefing">ਨਿਉਜ਼ ਬ੍ਰੀਫਿੰਗ</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">ਸੈਮਸੰਗ ਕੀਬੋਰਡ</string>
+    <string name="new_notification_list">ਸੂਚੀ ਦ੍ਰਿਸ਼</string>
+    <string name="new_notifications_list_desc">ਘੜੀ ਦੇ ਖੱਬੇ ਪਾਸੇ ਗੇਅਰ ਤੇ ਪ੍ਰਾਪਤ ਹੋਈਆਂ ਸੂਚਨਾਵਾਂ ਦੀ ਇੱਕ ਸੂਚੀ ਦਿਖਾਉ।</string>
+    <string name="no_application_selected">ਕੋਈ ਅਨੁਪ੍ਰਯੋਗ ਚੁਣਿਆ ਨਹੀਂ ਗਿਆ</string>
+    <string name="no_downloaded_applications">ਕੋਈ ਡਾਉਨਲੋਡ ਕੀਤੇ ਗਏ ਅਨੁਪ੍ਰਯੋਗ ਨਹੀਂ ਹਨ</string>
+    <string name="no_of_application_selected">%d ਅਨੁਪ੍ਰਯੋਗ ਚੁਣੇ ਗਏ</string>
+    <string name="no_remote_connection_popup_msg">ਸਵੈ ਕਾੱਲ ਫਾਰਵਰਡਿੰਗ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਸੈਮਸੰਗ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰੋ, ਫਿਰ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="no_remote_connection_popup_title">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="notification_type">ਸੂਚਨਾ ਪ੍ਰਕਾਰ</string>
+    <string name="notification_type_desc">ਗੇਅਰ ਦੇ ਉਪਯੋਗ ਵਿੱਚ ਹੋਣ ਸਮੇਂ, ਤੁਹਾਡੀ ਉੱਪਰ ਕੀਤੀ ਚੋਣ ਦੇ ਬਾਵਜੂਦ, ਤੁਹਾਡੀਆਂ ਸੂਚਨਾਵਾਂ ਨੂੰ ਛੋਟੇ ਪੌਪ-ਅਪਸ ਵਜੋਂ ਸਕ੍ਰੀਨ ਦੇ ਉੱਪਰ ਦਿਖਾਇਆ ਜਾਵੇਗਾ।</string>
+    <string name="number_setting">ਨੰਬਰ ਸੈੱਟਿੰਗ</string>
+    <string name="ok">ਓਕੇ</string>
+    <string name="once">ਇੱਕ ਵਾਰ</string>
+    <string name="one_application_selected">1 ਅਨੁਪ੍ਰਯੋਗ ਚੁਣੋ</string>
+    <string name="popup_attention_email_msg">ਈਮੇਲ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਕੁਝ ਈਮੇਲ ਖਾਤੇ ਚੁਣੇ ਨਹੀਂ ਗਏ ਹਨ। ਆਪਣੇ ਗੇਅਰ ਤੇ ਉਹਨਾਂ ਖਾਤਿਆਂ ਤੋਂ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਲਈ, ਈਮੇਲ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਈਮੇਲ ਸੂਚਨਾਵਾਂ ਚੁਣੋ।</string>
+    <string name="popup_attention_message_msg">ਆਪਣੇ ਗੇਅਰ ਤੇ ਸੰਦੇਸ਼ ਭੇਜਣ ਅਤੇ ਪ੍ਰਾਪਤ ਕਰਨ ਦੇ ਲਈ, ਤੁਹਾਡੇ ਡਿਫਾੱਲਟ ਮੈਸੇਜਿੰਗ ਐਪ ਨੂੰ %s ਤੋਂ ਮੈਸੇਜਿੰਗ ਵਿੱਚ ਬਦਲਿਆ ਜਾਵੇਗਾ।</string>
+    <string name="popupmenu_search_for_new_device">ਡਿਵਾਈਸਿਸ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="preview_message_desc">ਆਪਣੇ ਗੇਅਰ ਉੱਤੇ ਸੂਚਨਾ ਪੌਪ-ਅਪਸ ਵਿੱਚ ਇਨਕਮਿੰਗ ਕਾੱਲ ਸਚੇਤ ਅਤੇ ਅਲਾਰਮਸ ਤੋਂ ਬਿਨਾਂ, ਪ੍ਰਾਪਤ ਹੋਈਆਂ ਸੂਚਨਾਵਾਂ ਦਾ ਪੂਰਵ-ਦਰਸ਼ਨ ਦਿਖਾਉ।</string>
+    <string name="preview_message_title">ਸੰਦੇਸ਼ ਪੂਰਵ-ਦਰਸ਼ਨ ਕਰੋ</string>
+    <string name="primary">ਪ੍ਰਾਥਮਿਕ</string>
+    <string name="privacypolicy_fmgfmd">\"%1$s &amp; %2$s\" ਨੂੰ ਸਮਰੱਥ ਕਰਕੇ, ਤੁਸੀਂ ਸਹਿਮਤਿ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਫੋਨ ਅਤੇ/ਜਾਂ ਗੇਅਰ ਡਿਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਸਥਾਨ ਡੈਟਾ ਨੂੰ %1$s ਅਤੇ %2$s ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸੈਮਸੰਗ ਸਰਵਰ ਰਾਹੀਂ ਟ੍ਰਾੰਸਮਿਟੇਡ ਕੀਤਾ ਜਾਵੇਗਾ।. ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਸਥਾਨ ਬਾਰੇ ਕਿਸੇ ਜਾਣਕਾਰੀ ਜਾਂ ਕਿਸੇ ਡੈਟਾ ਨੂੰ ਸੈਮਸੰਗ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="privacypolicy_fmgfmd_no_gps">\"%1$s &amp; %2$s\" ਨੂੰ ਸਮਰੱਥ ਕਰਕੇ, ਤੁਸੀਂ ਸਹਿਮਤਿ ਦਿੰਦੇ ਹੋ ਕਿ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਫੋਨ ਡਿਵਾਈਸ ਨਾਲ ਸੰਬੰਧਿਤ ਸਥਾਨ ਡੈਟਾ ਨੂੰ %2$s ਸੇਵਾ ਪ੍ਰਦਾਨ ਕਰਨ ਲਈ ਸੈਮਸੰਗ ਸਰਵਰ ਰਾਹੀਂ ਟ੍ਰਾੰਸਮਿਟੇਡ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਸਥਾਨ ਬਾਰੇ ਕਿਸੇ ਜਾਣਕਾਰੀ ਜਾਂ ਕਿਸੇ ਡੈਟਾ ਨੂੰ ਸੈਮਸੰਗ ਸਰਵਰ ਉੱਤੇ ਸਟੋਰ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।</string>
+    <string name="privacypolicy_newsbriefing">ਇਹ ਅਨੁਪ੍ਰਯੋਗ ਉਪਯੋਗਕਰਤਾਵਾਂ ਨੂੰ ਸਮਾਜਿਕ ਮੀਡੀਆ ਅਤੇ ਇੰਟਰਨੈੱਟ ਨਾਲ ਵਿਲੱਖਣ ਤਰੀਕਿਆਂ ਵਿੱਚ ਇੰਟਰੈਕਟ ਕਰਨ ਦੀ ਯੋਗਤਾ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ। ਜੇਕਰ ਤੁਸੀਂ ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਸਮਰੱਥ ਕਰਦੇ ਹੋ, ਤਾਂ ਇਹ ਸੇਵਾ ਤੁਹਾਡੇ ਵੱਲੋਂ ਸਮੱਗਰੀ ਅਤੇ ਵਿਗਿਆਪਨਾਂ ਨੂੰ ਦੇਖਣ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਇੰਟਰੈਕਟ ਕਰਨ ਦੇ ਤਰੀਕੇ ਸਮੇਤ, ਤੁਹਾਡੇ ਦੁਆਰਾ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਦੇ ਤਰੀਕੇ ਦੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ਇਕੱਠੀ ਕਰੇਗੀ। ਹੋਰ ਵੇਰਵਿਆਂ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਫਲਿੱਪਬੋਰਡ %1$sਉਪਯੋਗ ਦੀਆਂ ਸ਼ਰਤਾਂ%2$s ਅਤੇ %3$sਗੋਪਨੀਯਤਾ ਨੀਤੀ%4$s ਦੇਖੋ।</string>
+    <string name="privacypolicy_samsung_privacy_policy">ਸੈਮਸੰਗ ਗੋਪਨਿਯਤਾ ਨੀਤੀ</string>
+    <string name="progressdialog_please_wait">ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ…</string>
+    <string name="progressdialog_reinstalled_message">ਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="progressdialog_reinstalled_popup_content">ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="providerapp_reinstalled">%s ਸਹੀ ਤਰੀਕੇ ਨਾਲ ਕੰਮ ਨਹੀਂ ਕਰ ਰਿਹਾ ਇਸ ਲਈ ਇਹ ਅਣਸਥਾਪਿਤ ਹੋ ਜਾਵੇਗਾ। ਇਹ ਹੁਣ ਪੁਨਰ ਸਥਾਪਿਤ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="quick_tutorial_add_shortcuts">ਗੇਅਰ ਦੀ ਹੋਮ ਸਕ੍ਰੀਨ ਦੇ ਲਈ ਐਪਸ ਸ਼ੌਰਟਕੱਟ ਜੋੜਨ ਦੇ ਲਈ, ਗੇਅਰ ਤੇ ਐਪਸ ਤੇ ਜਾਉ, ਇੱਕ ਐਪ ਪ੍ਰਤੀਰੂਪ ਟੈਪ ਕਰਕੇ ਰੱਖੋ, ਫਿਰ ਸਕ੍ਰੀਨ ਦੇ ਸਿਖਰ ਤੇ ਹੋਮ ਪ੍ਰਤੀਰੂਪ ਤੇ ਇਸਨੂੰ ਡ੍ਰੈਗ ਅਤੇ ਡ੍ਰੌਪ ਕਰੋ।</string>
+    <string name="quick_tutorial_gear_structure">ਘੜੀ ਨੂੰ ਤੁਹਾਡੇ ਗੇਅਰ ਦੀ ਹੋਮ ਸਕ੍ਰੀਨ ਦੇ ਮੁੱਖ ਪੰਨੇ ਤੇ ਦਿਖਾਇਆ ਜਾਂਦਾ ਹੈ। ਘੜੀ ਦੇ ਖੱਬੇ ਪਾਸੇ ਵਾਲੇ ਪੰਨੇ ਸੂਚਨਾਵਾਂ ਅਤੇ ਸੱਜੇ ਪਾਸੇ ਵਾਲੇ ਵਿੱਜੇਟਸ ਦਿਖਾਉਂਦੇ ਹਨ। ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਦੇਖਣ ਲਈ ਸਕ੍ਰੀਨ ਦੇ ਹੇਠਲੇ ਕਿਨਾਰੇ ਤੋਂ ਉੱਪਰ ਵੱਲ ਸਵਾਈਪ ਕਰੋ।</string>
+    <string name="quick_tutorial_noti_title">%s ਦੀ ਭੂਮਿਕਾ</string>
+    <string name="quick_tutorial_noti_title_gear">ਗੇਅਰ S</string>
+    <string name="quick_tutorial_noti_title_gear1">ਗੇਅਰ</string>
+    <string name="quick_tutorial_noti_title_gear2">ਗੇਅਰ 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ, “Hi Gear” ਬੋਲੋ ਜਾਂ ਕਿਸੇ ਸਕ੍ਰੀਨ ਉੱਤੇ ਹੋਮ ਬਟਨ ਨੂੰ ਦੋ ਵਾਰ ਦਬਾਉ।</string>
+    <string name="quick_tutorial_swipe_downwards">ਆਪਣਾ ਮਨਪਸੰਦ ਅਨੁਪ੍ਰਯੋਗ ਖੋਲ੍ਹਣ ਲਈ ਹੋਮ ਬਟਨ ਨੂੰ ਦੋ ਵਾਰ ਦਬਾਉ। ਤੁਸੀਂ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਆਪਣੇ ਮਨਪਸੰਦ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">ਆਪਣੇ ਮਨਪਸੰਦ ਐਪ ਨੂੰ ਖੋਲ੍ਹਣ ਦੇ ਲਈ ਪਾਵਰ ਬਟਨ ਦੋ ਬਾਰ ਦਬਾਉ। ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਤੁਸੀਂ ਆਪਣੇ ਮਨਪਸੰਦ ਐਪ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="quick_tutorial_to_go_back">ਵਾਪਸ ਜਾਣ ਲਈ ਕਿਨਾਰੇ ਤੋਂ ਹੇਠਾਂ ਦੇ ਵੱਲ ਸਕ੍ਰੀਨ ਤੇ ਸਵਾਈਪ ਕਰੋ।</string>
+    <string name="remote_connection_disabled_settings">ਸੈੱਟਿੰਗਸ</string>
+    <string name="remote_connection_enabled_desc">"ਬਲੂਟੁੱਥ ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋਣ 'ਤੇ ਗੇਅਰ ਦੂਰਵਰਤੀ ਰੂਪ ਵਿੱਚ ਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ।"</string>
+    <string name="requested">ਬੇਨਤੀ ਕੀਤੀ</string>
+    <string name="reset_gear_legal_text1">ਗੇਅਰ ਰੀਸੈੱਟ ਕਰੋ ਦਾ ਉਪਯੋਗ ਕਰਕੇ, ਤੁਸੀਂ ਗੇਅਰ ਉੱਤੇ ਸਾਰੇ ਡੈਟਾ ਨੂੰ ਦੂਰਵਰਤੀ ਤਰੀਕੇ ਨਾਲ ਮਿਟਾ ਸਕਦੇ ਹੋ। ਇਸ ਤਰਾਂ ਮਿਟਾਉਣ ਤੋਂ ਬਾਅਦ, ਮਿਟਾਏ ਗਏ ਡੈਟਾ ਨੂੰ ਪੁਨਰ ਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਅਤੇ ਹੁਣ ਤੁਸੀਂ ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ ਦਾ ਉਪਯੋਗ ਕਰਨ ਯੋਗ ਨਹੀਂ ਹੋਵੋਗੇ।</string>
+    <string name="reset_gear_legal_text2">* ਤੁਹਾਡੇ ਗੇਅਰ, ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਜਾਂ ਨੈੱਟਵਰਕ ਵਾਤਾਵਰਨ ਦੀ ਸਥਿਤੀ ਦੇ ਆਧਾਰ ਤੇ, ਗੇਅਰ ਰੀਸੈੱਟ ਕਰੋ ਨੂੰ ਫੰਕਸ਼ਨ ਕਰਨ ਵਿੱਚ ਕੁਝ ਸਮਾਂ ਲਗ ਸਕਦਾ ਹੈ ਜਾਂ ਉਹ ਅਸਫਲ ਵੀ ਹੋ ਸਕਦਾ ਹੈ।</string>
+    <string name="restore_complete">ਪੁਨਰ ਸਥਾਪਿਤ ਕਰਨਾ ਪੂਰਨ।</string>
+    <string name="restore_some_error">ਪੁਨਰ ਸਥਾਪਨਾ ਅਸਫਲ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="restore_try_again">ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ</string>
+    <string name="restore_watch_settings_content2">"ਆਪਣੀ %1$s ਸਮੱਗਰੀ ਦਾ ਬੈਕਅਪ ਲੈਣ ਦੇ ਲਈ ਆਪਣੇ ਡਿਵਾਈਸ ਸਟੋਰੇਜ ਦਾ ਉਪਯੋਗ ਕਰੋ:
+%2$s
+
+ਜੇਕਰ ਤੁਸੀਂ ਪਹਿਲਾਂ ਤੋਂ ਹੀ ਇਸ ਸਮੱਗਰੀ ਦਾ ਬੈਕਅਪ ਲਿਆ ਹੋਇਆ ਹੈ, ਤਾਂ ਤੁਸੀਂ ਇਸਨੂੰ %3$s ਤੋਂ ਹੁਣੇ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰ ਸਕਦੇ ਹੋ।
+
+ਫਾਈਲ ਦੇ ਆਕਾਰ ਤੇ ਨਿਰਭਰ ਕਰਦੇ ਹੋਏ, ਇਹ ਕੁਝ ਸਮਾਂ ਲੈ ਸਕਦਾ ਹੈ।
+
+ਤੁਸੀਂ ਆਪਣੇ ਬੈਕਅਪ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਸੈੱਟਿੰਗਸ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।"</string>
+    <string name="restore_watch_settings_content2_import1">ਗੇਅਰ</string>
+    <string name="restore_watch_settings_content2_import3">ਸੈੱਟਿੰਗਸ</string>
+    <string name="retrieve_dialog_desc">ਅਨੁਪ੍ਰਯੋਗ ਸੂਚੀ ਪ੍ਰਾਪਤ ਹੋ ਰਹੀ ਹੈ…</string>
+    <string name="sa_error_0203_desc">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, Samsung account ਨੂੰ ਮੈਨੁਅਲੀ ਅਪਡੇਟ ਕਰੋ।</string>
+    <string name="sa_error_0203_title">Samsung account ਅਪਡੇਟ ਕਰੋ</string>
+    <string name="sa_error_0301_desc">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ Samsung account ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਦੇ ਸਮੇਂ ਇਕ ਨੈੱਟਵਰਕ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ।</string>
+    <string name="sa_error_0301_title">ਫੰਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="sa_error_0302_desc">ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਉੱਤੇ ਤੁਹਾਡੇ Samsung account ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰਦੇ ਸਮੇਂ ਇਕ ਨੈੱਟਵਰਕ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ।</string>
+    <string name="sa_error_0302_title">ਫੰਕਸ਼ਨ ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="sa_error_0401_desc">ਇੱਕ ਤਰੁੱਟੀ ਉਤਪੰਨ ਹੋਈ। ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="sa_error_0401_title">ਤਰੁੱਟੀ</string>
+    <string name="safety_message_interval_10minutes">ਹਰ 10 ਮਿੰਟ</string>
+    <string name="safety_message_interval_20minutes">ਹਰ 20 ਮਿੰਟ</string>
+    <string name="samsung_apps_info">%1$s ਰਾਹੀਂ ਡਾਉਨਲੋਡ ਕੀਤੇ ਗਏ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ %2$s ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰਦੇ ਸਮੇਂ ਜਾਂ ਅਨੁਪ੍ਰਯੋਗ ਡੈਟਾ ਸਾਫ਼ ਕਰਦੇ ਸਮੇਂ ਮਿਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਮਿਟਾਏ ਗਏ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ %3$s ਵਿੱਚ ਆਪਣੇ ਖਰੀਦ ਇਤਿਹਾਸ ਤੋਂ ਡਾਉਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ।</string>
+    <string name="samsung_apps_notice">ਸੂਚਨਾ</string>
+    <string name="samsung_gear">ਸੈਮਸੰਗ ਗੇਅਰ</string>
+    <string name="samsung_update">ਹੁਣ ਅਪਡੇਟ ਕਰੋ</string>
+    <string name="screen_off">ਸਕ੍ਰੀਨ ਨੂੰ ਬੰਦ ਰੱਖੋ</string>
+    <string name="screen_off_desc">ਸਕ੍ਰੀਨ ਬੰਦ ਹੋਣ ਵੇਲੇ, ਇਨਕਮਿੰਗ ਕਾੱਲ ਸਚੇਤ ਅਤੇ ਅਲਾਰਮਸ ਨੂੰ ਛੱਡਕੇ, ਆਪਣੇ ਗੇਅਰ ਉੱਤੇ ਸੂਚਨਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ।</string>
+    <string name="setting_Enable">ਸਮੱਰਥ</string>
+    <string name="setting_alpm_dialog_title">ਧਿਆਨ ਦਿਉ</string>
+    <string name="setting_always_off">ਹਮੇਸ਼ਾ ਬੰਦ</string>
+    <string name="setting_always_on">ਹਮੇਸ਼ਾ ਚਾਲੂ</string>
+    <string name="setting_auto">ਸਵੈ</string>
+    <string name="setting_auto_lock_disable_desc">ਪ੍ਰਬੰਧਕ, ਏਨਕ੍ਰਿਪਸ਼ਨ ਨੀਤੀ, ਜਾਂ ਕ੍ਰੈਡੈਂਸ਼ਿਅਲ ਸਟੋਰੇਜ ਦੁਆਰਾ ਅਸਮਰੱਥ ਕੀਤਾ ਗਿਆ।</string>
+    <string name="setting_backup_restore2">ਬੈਕ ਅਪ ਅਤੇ ਪੁਨਰ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="setting_basic">ਮੂਲ</string>
+    <string name="setting_connections">ਕਨੈਕਸ਼ਨਸ</string>
+    <string name="setting_disable">ਅਸਮਰੱਥ ਕਰੋ</string>
+    <string name="setting_home_key_double_pressing">ਦੋ ਵਾਰ ਹੋਮ ਬਟਨ ਦਬਾਉਣਾ</string>
+    <string name="setting_language_input">ਭਾਸ਼ਾ ਅਤੇ ਇਨਪੁਟ</string>
+    <string name="setting_manage_text_templates">ਟੈਕਸਟ ਟੈਂਪਲੇਟਸ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="setting_mobile_network">ਮੋਬਾਈਲ ਨੈੱਟਵਰਕਸ</string>
+    <string name="setting_mobile_network_desc">ਜਦੋਂ ਗੇਅਰ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਹੁੰਦਾ ਹੈ ਤਾਂ ਇਸ ਨੂੰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਤੋਂ ਡਿਸਕਨੈਕਟ ਕੀਤਾ ਜਾਵੇਗਾ। ਜਦੋਂ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਕਨੈਕਸ਼ਨ ਸਮਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ ਤਾਂ, ਗੇਅਰ ਸਵੈ ਹੀ ਦੁਬਾਰਾ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ।</string>
+    <string name="setting_multisim_popup_desc">ਤੁਹਾਡੇ ਸੇਵਾ ਪ੍ਰਦਾਤਾ ਦੇ ਆਧਾਰ ਤੇ, ਮਲਟੀ SIM ਫੰਕਸ਼ਨ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਤੁਹਾਨੂੰ ਅਲੱਗ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਦੀ ਲੋੜ ਪੈ ਸਕਦੀ ਹੈ। ਮਲਟੀ SIM ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ ਓਕੇ ਉੱਤੇ ਟੈਪ ਕਰੋ।</string>
+    <string name="setting_opensource">ਓਪਨ ਸੋਰਸ ਲਾਈਸੰਸ</string>
+    <string name="setting_palm_motion">ਮੋਸ਼ਨਸ</string>
+    <string name="setting_palm_swipe">ਕੈਪਚਰ ਕਰਨ ਲਈ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="setting_palmover_desc">ਇਨਕਮਿੰਗ ਕਾੱਲਸ ਅਤੇ ਅਲਾਰਮਸ ਨੂੰ ਮਿਊਟ ਕਰਨ, ਜਾਂ ਮੀਡਿਆ ਨੂੰ ਵਿਰਾਮ ਦੇਣ ਲਈ, ਸਕ੍ਰੀਨ ਦੇ ਚਾਲੂ ਹੋਣ ਤੇ ਆਪਣੇ ਹੱਥ ਨੂੰ ਸਕ੍ਰੀਨ ਉੱਤੇ ਰੱਖੋ।</string>
+    <string name="setting_palmswipe_desc">ਸਕ੍ਰੀਨ ਦੇ ਨਾਲ ਸੰਪਰਕ ਰੱਖਦੇ ਹੋਏ, ਇਸ ਦੇ ਆਰ-ਪਾਰ ਆਪਣੀ ਪੂਰੀ ਉਂਗਲ ਨੂੰ ਸਵਾਈਪ ਕਰਦੇ ਹੋਏ ਸਕ੍ਰੀਨ ਕੈਪਚਰ ਕਰੋ।</string>
+    <string name="setting_pause_mute">ਮਿਊਟ/ਵਿਰਾਮ</string>
+    <string name="setting_power_key_double_pressing">ਪਾਵਰ ਬਟਨ ਦੋ ਵਾਰ ਦਬਾਉਣਾ</string>
+    <string name="setting_restoring">ਪੁਨਰ ਸਥਾਪਿਤ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="setting_safety_b1_desc">ਜਦੋਂ ਤੁਹਾਡਾ ਗੇਅਰ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਕਨੈਕਟ ਹੁੰਦੇ ਹਨ, ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ ਤੁਹਾਨੂੰ ਅਪਾਤਕਾਲ ਸਥਿਤੀ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਸਥਾਨ ਦੇ ਨਾਲ ਉਨ੍ਹਾਂ ਨੂੰ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਭੇਜਦੇ ਹੋਏ ਤੁਹਾਡੀ ਸਥਿਤੀ ਦੇ ਲਈ ਤੁਹਾਡੇ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਸੰਪਰਕਾਂ ਨੂੰ ਸਚੇਤ ਕਰਦਾ ਹੈ। ਇਨ੍ਹਾਂ ਸੰਦੇਸ਼ਾਂ ਨੂੰ ਭੇਜਣ ਵਿੱਚ ਅਤਿਰਿਕਤ ਖਰਚੇ ਲੱਗ ਸਕਦੇ ਹਨ। ਅਪਾਤਕਾਲ ਦੇ ਦੌਰਾਨ ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜਣਾ ਸਮਰੱਥ ਕਰਨ ਦੇ ਲਈ, %d ਵਾਰ ਪਾਵਰ ਬਟਨ ਦਬਾਉ।</string>
+    <string name="setting_safety_b2_desc">ਜਦੋਂ ਤੁਹਾਡਾ ਗੇਅਰ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਕਨੈਕਟ ਹੁੰਦੇ ਹਨ, ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ ਤੁਹਾਨੂੰ ਗੇਅਰ ਕੈਮਰਾ ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਹੋਏ ਅਪਾਤਕਾਲ ਵਿੱਚ ਤਸਵੀਰ ਲੈਣ ਦੇ ਲਈ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਹ ਉਨ੍ਹਾਂ ਨੂੰ ਇਸ ਤਸਵੀਰ ਅਤੇ ਤੁਹਾਡੇ ਸਥਾਨ ਦੇ ਨਾਲ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਭੇਜਦੇ ਹੋਏ ਤੁਹਾਡੇ ਸਥਾਨ ਦੇ ਲਈ ਤੁਹਾਡੇ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਸੰਪਰਕਾਂ ਨੂੰ ਸਚੇਤ ਦਿੰਦਾ ਹੈ। ਪਹਿਲਾ ਸੰਦੇਸ਼ ਤੁਹਾਡਾ ਸਥਾਨ ਅਤੇ ਤਸਵੀਰ ਦੋਨੋਂ ਸ਼ਾਮਲ ਕਰੇਗਾ। ਫਿਰ, ਅੰਤਰਾਲ ਦੇ ਬਾਅਦ, ਇੱਕ ਦੂਜਾ ਸੰਦੇਸ਼ ਸਿਰਫ ਤੁਹਾਡਾ ਸਥਾਨ ਸ਼ਾਮਲ ਕਰਦੇ ਹੋਏ ਭੇਜਿਆ ਜਾਵੇਗਾ। ਇਨ੍ਹਾਂ ਸੰਦੇਸ਼ਾਂ ਨੂੰ ਭੇਜਣ ਵਿੱਚ ਅਤਿਰਿਕਤ ਖਰਚੇ ਲਗ ਸਕਦੇ ਹਨ। ਅਪਾਤਕਾਲ ਦੇ ਦੌਰਾਨ ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜਣਾ ਸਮਰੱਥ ਕਰਨ ਦੇ ਲਈ, %d ਵਾਰ ਹੋਮ ਬਟਨ ਦਬਾਉ।</string>
+    <string name="setting_safety_b2_no_camera_desc">ਜਦੋਂ ਤੁਹਾਡਾ ਗੇਅਰ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਕਨੈਕਟ ਹੁੰਦੇ ਹਨ, ਤਾਂ ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ ਅਪਾਤਕਾਲ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਹ ਤੁਹਾਡੇ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਸੰਪਰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ ਸਥਾਨ ਨਾਲ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਭੇਜਕੇ ਉਹਨਾਂ ਨੂੰ ਤੁਹਾਡੀ ਸਥਿਤੀ ਪ੍ਰਤੀ ਸਚੇਤ ਕਰਦਾ ਹੈ। ਇਹ ਸੰਦੇਸ਼ ਭੇਜਣ ਦੇ ਅਤਿਰਿਕਤ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ। ਅਪਾਤਕਾਲ ਦੌਰਾਨ ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ ਸਮਰੱਥ ਕਰਨ ਲਈ, %d ਵਾਰ ਹੋਮ ਬਟਨ ਦਬਾਉ।</string>
+    <string name="setting_safety_b3_desc1">ਜਦੋਂ ਤੁਸੀਂ ਕਿਸੇ ਅਪਾਤਕਾਲ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਹੁੰਦੇ ਹੋ, ਉਸ ਸਮੇਂ ਆਪਣੇ ਪ੍ਰਾਥਮਿਕ ਸੰਪਰਕਾਂ ਨੂੰ ਤੁਰੰਤ ਸਚੇਤ ਭੇਜਣ ਲਈ ਹੋਮ ਬਟਨ 3 ਵਾਰ ਤੇਜ਼ੀ ਨਾਲ ਦਬਾਉ।</string>
+    <string name="setting_safety_b3_desc2">ਤੁਹਾਡੇ ਪ੍ਰਾਥਮਿਕ ਸੰਪਰਕਾਂ ਨੂੰ ਤੁਹਾਡੇ ਮੌਜੂਦਾ ਸਥਾਨ ਦੀ ਜਾਣਕਾਰੀ ਵਾਲੇ ਅਪਾਤਕਾਲ ਸੰਦੇਸ਼ ਪ੍ਰਾਪਤ ਹੋਣਗੇ।</string>
+    <string name="setting_safety_b3_desc3">ਇਸ ਫੰਕਸ਼ਨ ਦਾ ਉਪਯੋਗ ਕਰਨ ਲਈ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨੂੰ ਆਪਣੇ ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।</string>
+    <string name="setting_safety_list">ਸੁਰੱਖਿਆ ਸਹਾਇਤਾ</string>
+    <string name="setting_samsung_legal">ਸੈਮਸੰਗ ਕਨੂੰਨੀ</string>
+    <string name="setting_screen_lock">ਸਵੈ ਲੌਕ</string>
+    <string name="setting_screen_lock_desc">ਆਪਣਾ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਲੌਕ ਕਰਨ ਦੇ ਲਈ ਆਪਣੇ ਗੇਅਰ ਦਾ ਉਪਯੋਗ ਕਰੋ।</string>
+    <string name="setting_screen_secutiry">ਸਕ੍ਰੀਨ ਸੁਰੱਖਿਆ</string>
+    <string name="setting_send_emergency_picture">ਅਪਾਤਕਾਲ ਤਸਵੀਰ ਭੇਜੋ</string>
+    <string name="setting_send_emergency_recording">ਆਵਾਜ਼ ਦੀ ਰਿਕਾਰਡਿੰਗ ਭੇਜੋ</string>
+    <string name="setting_send_emergency_term_agree">ਮੈਂ ਉੱਤੇ ਦਿੱਤੇ ਸਾਰੇ ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ ਪੜ੍ਹ ਲਈਆਂ ਹਨ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="setting_send_help_message">ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ</string>
+    <string name="setting_send_terms_conditions">ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ</string>
+    <string name="setting_smart_relay">ਸਮਾਰਟ ਰਿਲੇ</string>
+    <string name="setting_smart_relay_desc">ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੀ ਚੋਣ ਕਰਕੇ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ ਆਪਣੇ ਗੇਅਰ ਤੋਂ ਸਮੱਗਰੀ ਦੇਖੋ।</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">ਸਿਸਟਮ</string>
+    <string name="setting_text_to_speech_engine">ਟੈਸਕਟ-ਟੂ-ਸਪੀਚ ਇੰਜਨ</string>
+    <string name="setting_textinput_emoticon">ਇਮੋਟੀਕੋਨਸ</string>
+    <string name="setting_textinput_keyboard">ਕੀਬੋਰਡ</string>
+    <string name="setting_textinput_list">ਟੈਕਸਟ ਇਨਪੁਟ ਵਿਧੀਆਂ</string>
+    <string name="setting_textinput_templates">ਟੈਂਪਲੇਟ</string>
+    <string name="setting_try_it">ਇਸਨੂੰ ਅਜ਼ਮਾਉ</string>
+    <string name="setting_wake_up">ਵੇਕ-ਅਪ ਸੰਕੇਤ</string>
+    <string name="setting_wake_up_desc">ਉਸ ਬਾਂਹ ਨੂੰ ਉੱਪਰ ਉਠਾਉਂਦੇ ਹੋਏ ਗੇਅਰ ਨੂੰ ਵੇਕ ਅਪ ਕਰੋ ਜਿਸ ਤੇ ਗੇਅਰ ਹੈ।</string>
+    <string name="setting_wakeupgesture">"ਗੇਅਰ ਨੂੰ ਵੇਕ ਅਪ ਕਰਨ ਲਈ, ਉਸ ਬਾਂਹ ਨੂੰ ਉੱਪਰ ਉਠਾਓ ਜਿਸ ਤੇ ਤੁਹਾਡਾ ਗੇਅਰ ਹੈ ਅਤੇ ਗੇਅਰ ਦੀ ਸਕ੍ਰੀਨ ਤੇ ਦੇਖੋ।
+
+ਇਹ ਵਿਸ਼ੇਸ਼ਤਾ ਤੁਹਾਡੇ ਢੋਹ ਲਾ ਕੇ ਬੈਠਣ ਜਾਂ ਲੇਟਣ ਦੀ ਸਥਿਤੀ ਵਿੱਚ ਕਾਰਜ ਨਹੀਂ ਕਰਦੀ, ਅਤੇ ਇਸਦੇ ਮੋਸ਼ਨ ਸੈਂਸਰ ਦੇ ਹਮੇਸ਼ਾ ਚਾਲੂ ਰਹਿਣ ਤੇ ਗੇਅਰ ਦੀ ਬੈਟਰੀ ਪਾਵਰ ਜ਼ਿਆਦਾ ਖਪਤ ਹੋ ਸਕਦੀ ਹੈ।"</string>
+    <string name="setting_wakeupgesture_clock">ਘੜੀ</string>
+    <string name="setting_wakeupgesture_previous">ਅੰਤਿਮ ਦੇਖੀ ਗਈ ਸਕ੍ਰੀਨ</string>
+    <string name="setting_wakeupgesture_screen_on">ਦਿਖਾਈ ਗਈ ਸਕ੍ਰੀਨ ਚੁਣੋ</string>
+    <string name="setting_wakeupgesture_screen_on_ru">ਦਿਖਾਈ ਗਈ ਸਕ੍ਰੀਨ ਚੁਣੋ</string>
+    <string name="settings">ਸੈੱਟਿੰਗਸ</string>
+    <string name="settings_application_version">ਅਨੁਪ੍ਰਯੋਗ ਸੰਸਕਰਣ</string>
+    <string name="settings_emergency_contact">ਪ੍ਰਾਥਮਿਕ ਸੰਪਰਕ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="settings_emergency_contact_empty">ਕੋਈ ਤਰਜੀਹੀ ਸੰਪਰਕ ਨਹੀਂ ਜੋੜਿਆ ਗਿਆ। %s ਨੂੰ ਸਮਰੱਥ ਕਰਨ ਲਈ, ਸੰਪਰਕਾਂ ਨੂੰ ਤਰਜੀਹੀ ਸੰਪਰਕਾਂ ਵਿੱਚ ਜੋੜੋ।</string>
+    <string name="settings_legal_information">ਕਾਨੂੰਨੀ ਜਾਣਕਾਰੀ</string>
+    <string name="settings_message_interval">ਸੰਦੇਸ਼ ਅੰਤਰਾਲ</string>
+    <string name="settings_not_set">ਸੈੱਟ ਨਹੀਂ ਕੀਤਾ</string>
+    <string name="settings_security">ਸੁਰੱਖਿਆ</string>
+    <string name="settings_security_update">ਸੁਰੱਖਿਆ ਅਪਡੇਟ</string>
+    <string name="settings_security_update_desc">ਆਪਣੇ ਡਿਵਾਈਸ ਦੀ ਸੁਰੱਖਿਆ ਅਤੇ ਸੇਵਾ ਵਿੱਚ ਸੁਧਾਰ ਕਰਕੇ ਉਸਨੂੰ ਨੁਕਸਾਨਦੇਹ ਸਮੱਗਰੀ ਤੋਂ ਸੁਰੱਖਿਅਤ ਕਰੋ।</string>
+    <string name="settings_unknown_sources_dialog">ਅਗਿਆਤ ਸਰੋਤਾਂ ਵੱਲੋਂ ਸਥਾਪਨਾ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਅਤੇ ਵਿਅਕਤੀਗਤ ਡੈਟਾ ਦੇ ਲਈ ਹਾਨੀਕਾਰਕ ਹੋ ਸਕਦੀ ਹੈ। ਓਕੇ ਤੇ ਟੈਪ ਕਰਦੇ ਹੋਏ, ਤੁਸੀਂ ਇਸਦੀ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ ਕਿ ਇਹਨਾਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦੇ ਉਪਯੋਗ ਦੁਆਰਾ ਤੁਸੀਂ ਆਪਣੇ ਡਿਵਾਈਸ ਦੇ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ ਜਾਂ ਡੈਟਾ ਦੀ ਹਾਨੀ ਦੇ ਲਈ ਪੂਰਨ ਰੂਪ ਤੋਂ ਜ਼ਿੰਮੇਵਾਰ ਹੋ।</string>
+    <string name="settings_unknown_sources_subtitle">ਸੈਮਸੰਗ ਗੇਅਰ ਐਪਸ ਤੋਂ ਇਲਾਵਾ ਹੋਰ ਸਰੋਤਾਂ ਤੋਂ ਅਨੁਪ੍ਰਯੋਗ ਸਥਾਪਿਤ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ।</string>
+    <string name="share_loc_disabled">ਸਥਾਨ ਸਾਂਝਾ ਕਰੋ ਅਸਮਰੱਥ।</string>
+    <string name="share_location_desc">ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ ਅਤੇ ਮੇਰਾ ਡਿਵਾਈਸ ਲੱਭੋ ਨੂੰ ਆਪਣੇ ਗੇਅਰ ਅਤੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦਾ ਸਥਾਨ ਡੈਟਾ ਸਾਂਝਾ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਉ।</string>
+    <string name="shm_I_agree_that_mobile_data">ਮੈਂ ਸਹਿਮਤ ਹਾਂ ਕਿ ਮੋਬਾਈਲ ਡੈਟਾ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ ਅਤੇ ਅਪਾਤਕਾਲ ਵਿੱਚ MMS ਸੰਦੇਸ਼ ਭੇਜੇ ਜਾ ਸਕਦੇ ਹਨ। ਮੈਂ ਸਮਝਦਾ/ਸਮਝਦੀ ਹਾਂ ਕਿ ਇਸਦੇ ਨਤੀਜੇ ਵਜੋਂ ਵਾਧੂ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।</string>
+    <string name="shm_new_disclaimer_msg_01">"1. ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ ਦਾ ਉਦੇਸ਼ ਆਪਣੀ ਅਨੁਮਾਨਿਤ ਥਾਂ ਅਤੇ ਆਲੇ-ਦੁਆਲੇ ਦੀ ਦ੍ਰਿਸ਼/ਆੱਡੀਓ ਜਾਣਕਾਰੀ ਨੂੰ ਪਹਿਲਾਂ ਤੋਂ ਸੈਟ ਕਿਸੇ ਚੁਣੇ ਗਏ ਸੰਪਰਕ ਦੇ ਮੋਬਾਈਲ ਫੋਨ ਤੇ ਸੂਚਨਾ ਭੇਜਣ ਵਿੱਚ ਉਪਭੋਗਤਾਵਾਂ ਦੀ ਮਦਦ ਕਰਨਾ ਹੈ। ਇਹ ਸਿਰਫ ਤੁਹਾਡੀ ਸੁਵਿਧਾ ਲਈ ਮੁਹੱਈਆ ਕਰਾਈ ਜਾਂਦੀ ਹੈ ਅਤੇ ਉਸਦਾ ਉਦੇਸ਼ ਅਧਿਕਰਣਾਂ ਨੂੰ ਅਪਾਤਕਾਲ ਦੀ ਕਾੱਲ ਦਾ ਪ੍ਰਤੀਸਥਾਪਨ ਬਣਨਾ ਨਹੀਂ ਹੈ ਅਤੇ ਨਾ ਹੀ ਉਸਨੂੰ ਪ੍ਰਤੀਸਥਾਪਨ ਮੰਨਣਾ ਚਾਹੀਦਾ ਹੈ। 
+
+2. ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ (“ਸੇਵਾਵਾਂ”) ਨੈਟਵਰਕ ਕਨੈਕਟਿਵਿਟੀ, GPS/Wi-Fi ਜਾਣਕਾਰੀ ਦੀ ਉਪਲਬਧਤਾ, ਤੁਹਾਡੀ/ਤੁਹਾਡੇ ਚੁਣੇ ਗਏ ਸੰਪਰਕ ਦੀ ਸਥਿਤੀ ਅਤੇ/ਜਾਂ ਅਵਸਥਾ, ਬੈਟਰੀ ਪੱਧਰ ਅਤੇ/ਜਾਂ ਦੂਜੀ ਅਜਿਹੀਆਂ ਸਥਿਤੀਆਂ ਜੋ Samsung Electronics Co., Ltd. (“Samsung”, “ਅਸੀਂ”, “ਸਾਨੂੰ”, “ਸਾਡੇ”) ਦੇ ਨਿਯੰਤਰਣ ਤੋਂ ਬਾਹਰ ਹੁੰਦੀਆਂ ਹਨ, ਜਿਹੀ ਸਥਿਤੀਆਂ ਦੇ ਅਧਾਰ ਤੇ ਸਹੀ ਢੰਗ ਨਾਲ, ਲਗਾਤਾਰ ਜਾਂ ਤਰੁਟੀ-ਮੁਕਤ ਤਰੀਕੇ ਤੋਂ ਕੰਮ ਨਾ ਕਰਨ। ਤੁਹਾਡੇ ਆਲੇ-ਦੁਆਲੇ ਅਤੇ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੀ ਸਥਿਤੀ ਅਤੇ ਤੁਹਾਡੇ ਚੁਣੇ ਗਏ ਸੰਪਰਕ ਦੇ ਡਿਵਾਈਸ ਨਾਲ ਥਾਂ ਜਾਣਕਾਰੀ ਦੀ ਸਟੀਕਤਾ ਅਤੇ ਸੇਵਾਵਾਂ ਦੀ ਸਮੇਂ ਸਿਰ ਡਿਲੀਵਰੀ ਪ੍ਰਭਾਵਿਤ ਹੋ ਸਕਦੀ ਹੈ। ਜਦੋਂ ਤੱਕ ਜਾਂ ਤੇ ਸਪਸ਼ਟ ਤੌਰ ਦੇ ਦੱਸਿਆ ਨਾ ਗਿਆ ਹੋਵੇ ਜਾਂ ਕਨੂੰਨੀ ਤੌਰ ਤੇ ਲਾਜ਼ਮੀ ਨਾ ਹੋਵੇ, ਉਦੋਂ ਤੱਕ Samsung ਇਸ ਗੱਲ ਦੀ ਕਿਸੇ ਵੀ ਵਾਰੰਟੀ ਦਾ ਦਾਅਵਾ ਛੱਡਦਾ ਹੈ ਕਿ ਸੇਵਾਵਾਂ ਸਹੀ ਢੰਗ ਨਾਲ, ਲਗਾਤਾਰ ਅਤੇ ਬਿਨਾ ਕਿਸੇ ਤਰੁਟੀ ਦੇ ਕੰਮ ਕਰਨਗੀਆਂ। ਕਿਰਪਾ ਕਰਕੇ ਧਿਆਨ ਦਿਉ ਕਿ ਤੁਹਾਡੇ ਚੁਣੇ ਗਏ ਸੰਪਰਕ ਕੋਲ ਇੱਕ ਚਾਲੂ ਮੋਬਾਈਲ ਫੋਨ ਹੋਣਾ ਲਾਜ਼ਮੀ ਹੈ ਅਤੇ ਡਿਵਾਈਸ ਚਾਲੂ ਅਤੇ ਪਾਠ ਸੰਦੇਸ਼ ਮੰਜ਼ੂਰ ਕਰਨ ਵਿੱਚ ਸਮਰੱਥ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ। ਤੁਹਾਡੇ ਸੇਵਾ ਆੱਪਰੇਟਰ ਵਲੋਂ ਦੱਸੇ ਸ਼ੁਲਕ ਦੇ ਅਧਾਰ ਤੇ ਤੁਹਾਡੇ ਆਲੇ-ਦੁਆਲੇ ਦੀ ਜਾਣਕਾਰੀ ਅਤੇ ਥਾਂ ਡੈਟਾ ਨੂੰ ਟ੍ਰਾਂਸਫਰ ਕਰਨ ਦੇ ਖਰਚੇ ਪੈ ਸਕਦੇ ਹਨ।
+
+ਸੇਵਾਵਾਂ ਆਪਣੇ ਉਦੇਸ਼ ਦੇ ਮੁਤਾਬਕ ਕੰਮ ਕਰਨ, ਇਸਦੇ ਲਈ ਤੁਹਾਨੂੰ ਸੁਵਿਧਾ ਮਿਲਦੇ ਹੀ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਦੇ GPS ਅਤੇ Wi-Fi ਫੰਕਸ਼ਨ ਨੂੰ ਸਵੈ-ਚਾਲਿਤ ਰੂਪ ਤੋਂ ਚਾਲੂ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੋ ਸਕਦਾ ਹੈ। ਤੁਸੀਂ ਕੋਈ ਸੂਚਨਾ ਦਿੱਤੇ ਬਿਨਾ ਜਾਂ ਤੁਹਾਡੀ ਰਜ਼ਾਮੰਦੀ ਤੋਂ ਬਿਨਾ GPS ਅਤੇ Wi-Fi ਫੰਕਸ਼ਨਾਂ (ਜੇਕਰ ਲੋਡ਼ ਹੋਵੇ) ਨੂੰ ਸਵੈ-ਚਾਲਿਤ ਰੂਪ ਤੋਂ ਸਮਰੱਥ ਕਰਨਾ ਮੰਜ਼ੂਰ ਕਰਦੇ ਹੋ ਅਤੇ ਉਸਦੇ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ।
+
+3. ਤੁਸੀਂ ਮੰਜ਼ੂਰ ਕਰਦੇ ਹੋ ਅਤੇ ਇਸਦੇ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ ਕਿ ਤੁਸੀਂ ਇਸ ਫੰਕਸ਼ਨ ਦੀ ਦੁਰਵਰਤੋਂ ਨਹੀਂ ਕਰੋਗੇ ਜਾਂ ਇਸ ਫੰਕਸ਼ਨ ਦੀ ਕਿਸੇ ਵੀ ਗੈਰ-ਕਨੂੰਨੀ ਉਦੇਸ਼ ਜਾਂ ਦੂਜਿਆਂ ਦੇ ਗੋਪਨੀਯਤਾ ਜਾਂ ਕਿਸੇ ਨਿਜੀ ਜਾਂ ਮਾਲਿਕਾਨਾ ਸੰਬੰਧੀ ਅਧਿਕਾਰਾਂ ਦੀ ਉਲੰਘਣਾ ਨਹੀਂ ਕਰੋਗੇ। ਇਸ ਫੰਕਸ਼ਨ ਦਾ ਉਪਯੋਗ ਸਿਰਫ ਕਾਨੂੰਨ ਦੇ ਅਨੁਸਾਰ ਅਤੇ ਸਿਰਫ ਆਪਾਤਕਾਲੀਨ ਸਥਿਤੀ ਵਿੱਚ ਹੀ ਕਰੋ। ਤੁਸੀਂ ਇਸ ਵਿਸ਼ੇਸ਼ਤਾ ਦੇ ਤੁਹਾਡੇ ਉਪਯੋਗ ਵਾਸਤੇ ਪੂਰੀ ਤਰ੍ਹਾਂ ਜ਼ਿੰਮੇਵਾਰ ਹੋਣ ਲਈ ਸਹਿਮਤ ਹੁੰਦੇ ਹੋ। ਇਸ ਸੁਵਿਧਾ ਦੀ ਤੁਹਾਡੇ ਵਲੋਂ ਕਿਸੇ ਵੀ ਵਰਤੋਂ ਦੇ ਕਿਸੇ ਵੀ ਨਤੀਜੇ ਲਈ Samsung ਜ਼ੁੰਮੇਵਾਰ ਨਹੀਂ ਹੋਵੇਗਾ।
+
+4. ਸੇਵਾਵਾਂ ਸਿਰਫ ਤੁਹਾਡੀ ਸੁਵਿਧਾ ਲਈ ਮੁਹੱਈਆ ਕਰਾਈ ਜਾਂਦੀਆਂ ਹਨ ਅਤੇ ਉਹਨਾਂ ਦਾ ਉਦੇਸ਼ ਅਧਿਕਰਣਾਂ ਨੂੰ ਅਪਾਤਕਾਲ ਦੀ ਕਾੱਲ ਦਾ ਪ੍ਰਤੀਸਥਾਪਨ ਬਣਨਾ ਨਹੀਂ ਹੈ ਅਤੇ ਨਾ ਹੀ ਉਹਨਾਂ ਨੂੰ ਪ੍ਰਤੀਸਥਾਪਨ ਮੰਨਣਾ ਚਾਹੀਦਾ ਹੈ। ਜਦੋਂ ਤੱਕ ਜਾਂ ਤੇ ਸਪੱਸ਼ਟ ਤੌਰ ਦੇ ਦੱਸਿਆ ਨਾ ਗਿਆ ਹੋਵੇ ਜਾਂ ਕਨੂੰਨੀ ਤੌਰ ਤੇ ਲਾਜ਼ਮੀ ਨਾ ਹੋਵੇ, ਉਦੋਂ ਤੱਕ Samsung ਇਸ ਗੱਲ ਦੀ ਕਿਸੇ ਵੀ ਵਾਰੰਟੀ ਦਾ ਦਾਅਵਾ ਛੱਡਦਾ ਹੈ ਕਿ ਸੇਵਾਵਾਂ ਸਹੀ ਢੰਗ ਨਾਲ, ਲਗਾਤਾਰ ਅਤੇ ਬਿਨਾ ਕਿਸੇ ਤਰੁਟੀ ਦੇ ਕੰਮ ਕਰਨਗੀਆਂ।
+
+5. ਵਾਰੰਟੀਆਂ ਦਾ ਦਾਅਵਾ ਤਿਆਗ। ਤੁਸੀਂ ਸਪੱਸ਼ਟ ਤੌਰ ਤੇ ਸਮਝਦੇ ਹੋ ਅਤੇ ਰਜ਼ਾਮੰਦੀ ਦਿੰਦੇ ਹੋ ਕਿ:
+ 
+A. ਸੇਵਾਵਾਂ ਜਿਵੇਂ ਹਨ ਉਸੇ ਤਰ੍ਹਾਂ, “ਸਾਰੀਆਂ ਖਰਾਬੀਆਂ ਦੇ ਨਾਲ” ਅਤੇ ਉਪਲਬਧਤਾ ਦੇ ਅਧਾਰ ਤੇ ਮੁਹੱਈਆ ਕਰਾਈ ਜਾਂਦੀਆਂ ਹਨ। ਉਹਨਾਂ ਨੂੰ ਵਰਤਣ ਦਾ ਜ਼ੋਖਿਮ ਤੁਹਾਡਾ ਹੁੰਦਾ ਹੈ। SAMSUNG ਸੇਵਾਵਾਂ ਦੇ ਅਧੀਨ ਜਾਂ ਉਹਨਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਕੋਈ ਸਪੱਸ਼ਟ ਵਾਰੰਟੀ, ਗਾਰੰਟੀ ਜਾਂ ਸ਼ਰਤਾਂ ਨਹੀਂ ਦਿੰਦਾ ਹੈ। SAMSUNG ਸਪੱਸ਼ਟ ਰੂਪ ਤੋਂ, ਸਪਸ਼ਟ ਜਾਂ ਨਿਹਿਤ, ਕਿਸੇ ਵੀ ਪ੍ਰਕਾਰ ਦੇ ਸਾਰੇ ਪ੍ਰਤੀਨਿਧੀਤਵਾਂ ਅਤੇ ਵਾਰੰਟੀਆਂ ਦਾ ਦਾਅਵਾ ਛੱਡਦਾ ਹੈ, ਜਿਹਨਾਂ ਵਿੱਚ ਵਪਾਰਤਾ ਦੀ ਕੋਈ ਵੀ ਨਿਹਿਤ ਵਾਰੰਟਿਆਂ, ਕਿਸੇ ਖਾਸ ਉਦੇਸ਼ ਲਈ ਅਨੁਕੂਲਤਾ ਅਤੇ ਗੈਰ-ਉਲੰਘਣਾ ਅਤੇ ਲੈਣ-ਦੇਣ ਦੀ ਮਿਆਦ ਜਾਂ ਪ੍ਰਦਰਸ਼ਨ ਦੀ ਮਿਆਦ ਤੋਂ ਕੋਈ ਵੀ ਨਿਹਿਤ ਵਾਰੰਟੀਆਂ ਸ਼ਾਮਲ ਹਨ, ਪਰ ਇਹਨਾਂ ਤੱਕ ਹੀ ਸੀਮਿਤ ਨਹੀਂ ਹੈ।
+
+B. ਉਪਰੋਕਤ ਨੂੰ ਸੀਮਿਤ ਕੀਤੇ ਬਿਨਾ, SAMSUNG ਇਸ ਗੱਲ ਦਾ ਕੋਈ ਪ੍ਰਤੀਨਿਧੀਤਵ ਜਾਂ ਵਾਰੰਟੀ ਨਹੀਂ ਦਿੰਦਾ ਕਿ (i) ਸੇਵਾਵਾਂ ਤੁਹਾਡੀਆਂ ਲੋੜਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨਗੀਆਂ, (ii) ਸੇਵਾਵਾਂ ਕਿਸੇ ਵੀ ਦਖਲ ਤੋਂ ਬਿਨਾ, ਸਮੇਂ ਸਿਰ, ਸੁਰੱਖਿਅਤ ਜਾਂ ਤਰੁਟੀ-ਮੁਕਤ ਹੋਣਗੀਆਂ, (iii) ਸੇਵਾਵਾਂ ਤੋਂ ਪ੍ਰਾਪਤ ਕੀਤੀ ਗਈ ਸਮਗਰੀ ਜਾਂ ਕੋਈ ਵੀ ਸੂਚਨਾਵਾਂ ਜਾਂ ਸੇਵਾਵਾਂ ਦੀ ਕਾਰਜਸ਼ੀਲਤਾ ਉਪਲਬਧ, ਸਟੀਕ, ਪੂਰੀ ਜਾਂ ਭਰੋਸੇ-ਯੋਗ ਰਹੇਗੀ, (iv) ਸੇਵਾਵਾਂ ਦੀ ਗੁਣਵੱਤਾ ਜਾਂ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਜਾਂ ਸੇਵਾਵਾਂ ਰਾਹੀਂ ਤੁਹਾਡੇ ਵਲੋਂ ਪ੍ਰਾਪਤ ਹੋਈ ਦੂਜੀ ਸਮੱਗਰੀ ਤੁਹਾਡੀ ਉਮੀਦਾਂ ਨੂੰ ਪੂਰਾ ਕਰਨਗੀਆਂ ਜਾਂ (v) ਸੇਵਾਵਾਂ ਵਿੱਚਲੀ ਕਿਸੇ ਵੀ ਤਰੁਟੀ ਜਾਂ ਬਗ ਨੂੰ ਸੁਧਾਰਿਆ ਜਾਵੇਗਾ।
+
+6. ਜ਼ੁੰਮੇਵਾਰੀ ਦੀ ਸੀਮਾ।
+
+A. ਤੁਸੀਂ ਸਪੱਸ਼ਟ ਤੌਰ ਤੇ ਸਮਝਦੇ ਹੋ ਅਤੇ ਰਜ਼ਾਮੰਦੀ ਦਿੰਦੇ ਹੋ ਕਿ SAMSUNG ਹੇਠ ਲਿੱਖਿਆਂ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਜਾਂ ਉਹਨਾਂ ਤੋਂ ਉਤਪੰਨ ਹੋਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਪ੍ਰਤੱਖ, ਅਪ੍ਰਤੱਖ, ਆਕਸਿਮਿਕ, ਖਾਸ, ਦੰਡ ਸੰਬੰਧੀ, ਪਰਿਣਾਮੀ ਜਾਂ ਆਦਰਸ਼ ਨੁਕਸਾਨ, ਦੇਣਦਾਰੀਆਂ, ਨੁਕਸਾਨ ਜਾਂ ਖਰਚੇ, ਜਿਸ ਵਿੱਚ ਲਾਭ, ਵਰਤੋਂ ਦਾ ਨੁਕਸਾਨ ਜਾਂ ਦੂਜੇ ਨੁਕਸਾਨ ਸ਼ਾਮਲ ਹਨ (ਭਾਵੇਂ ਸੁਧਾਰ, ਪ੍ਰਤੀਸਥਾਪਨਾ ਜਾਂ ਸੇਵਾਵਾਂ ਲਈ ਧਨਵਾਪਸੀ ਕਿਸੇ ਵੀ ਨੁਕਸਾਨ ਲਈ ਤੁਹਾਨੂੰ ਪੂਰਾ ਮੁਆਵਜ਼ਾ ਨਹੀਂ ਦਿੰਦਾ ਜਾਂ SAMSUNG ਨੂੰ ਅਜਿਹੇ ਨੁਕਸਾਨ, ਦੇਣਦਾਰੀਆਂ, ਨੁਕਸਾਨ ਜਾਂ ਖਰਚੇ ਬਾਰੇ ਪਤਾ ਹੋਵੇ ਜਾਂ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੋਵੇ) ਲਈ ਕਿਸੇ ਵੀ ਲਾਪਰਵਾਹੀ ਦੇ ਸਿਧਾਂਤ ਲਈ ਜ਼ੁੰਮੇਵਾਰ ਨਹੀਂ ਹੋਵੇਗਾ: (i) ਲਾਗੂ ਕਨੂੰਨ ਵਲੋਂ ਇਜ਼ਾਜਤ ਦਿੱਤੀ ਗਈ ਸੀਮਾ ਤੱਕ ਅਨੁਬੰਧ ਦੀ ਉਲੰਘਣਾ, ਵਾਰੰਟੀ ਦੀ ਉਲੰਘਣਾ, ਗਰੰਟੀ ਜਾਂ ਸ਼ਰਤ, ਸਖਤ ਦੇਣਦਾਰੀ, ਲਾਪਰਵਾਹੀ ਜਾਂ ਦੂਜੀ ਗਲਤੀ ਲਈ ਦਾਹਵੇ; (ii) ਸੇਵਾਵਾਂ ਦੀ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੋਂ ਜਾਂ ਵਰਤੋਂ ਕਰਨ ਵਿੱਚ ਤੁਹਾਡੀ ਅਸਮਰੱਥਾ, (iii) ਪ੍ਰਤੀਸਥਾਪਿਤ ਸੇਵਾਵਾਂ ਦੀ ਪ੍ਰਾਪਤੀ ਦੀ ਲਾਗਤ; (iv) ਤੁਹਾਡੇ ਸੰਚਾਰਣ ਜਾਂ ਡੈਟਾ ਤੱਕ ਗੈਰ-ਕਨੂੰਨੀ ਪਹੁੰਚ ਜਾਂ ਉਸ ਵਿੱਚ ਛੇੜਛਾੜ; (v) ਕਿਸੇ ਵੀ ਤੀਜੇ ਪੱਥ ਦੇ ਬਿਆਨ ਜਾਂ ਆਚਰਣ; (vi) ਇਹ ਅਨੁਬੰਧ; (vii) ਬੰਦੇ ਨੂੰ ਚੋਟ ਜਾਂ ਸੰਪਤੀ ਦਾ ਨੁਕਸਾਨ (ਮੌਤ ਸਮੇਤ) ਜਾਂ (viii) ਸੇਵਾਵਾਂ ਜਾਂ ਸੇਵਾਵਾਂ ਵਲੋਂ ਮੁਹੱਈਆ ਕਰਾਈ ਜਾਣ ਵਾਲੀ ਸਮੱਗਰੀ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਕੋਈ ਦੂਜਾ ਮਾਮਲਾ।
+ 
+B. ਇਸ ਅਨੁਬੰਧ ਜਾਂ ਸੇਵਾਵਾਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ SAMSUNG ਨਾਲ ਕਿਸੇ ਵੀ ਝਗਡ਼ੇ ਲਈ ਤੁਹਾਡਾ ਇੱਕਲਾ ਅਤੇ ਬੇਜੋੜ ਪ੍ਰਤੀਕਾਰ ਸੇਵਾਵਾਂ ਨੂੰ ਵਰਤਣਾ ਬੰਦ ਕਰਨਾ ਹੋਵੇਗਾ।
+ 
+C. ਕੁਝ ਅਧਿਕਾਰ-ਖੇਤਰ ਕੁਝ ਵਾਰੰਟੀਆਂ ਦੇ ਨਿਸ਼ਕਾਸਨ ਜਾਂ ਅਕਸਮਿਕ ਜਾਂ ਪਰਿਣਾਮੀ ਨੁਕਸਾਨਾਂ ਲਈ ਦੇਣਦਾਰੀ ਨੂੰ ਸੀਮਿਤ ਜਾਂ ਨਿਸ਼ਕਾਸਿਤ ਕਰਨ ਦੀ ਇਜ਼ਾਜਤ ਨਹੀਂ ਦਿੰਦੇ ਹਨ। ਉਸਦੇ ਮੁਤਾਬਕ, ਹੋ ਸਕਦਾ ਹੈ ਕਿ ਸੈਕਸ਼ਨ 5 ਅਤੇ 6 ਦੀ ਉੱਤੇ ਦਿੱਤੀ ਕੁਝ ਸੀਮਾਵਾ ਤੁਹਾਡੇ ਉੱਤੇ ਲਾਗੂ ਨਾ ਹੋਣ।
+
+7. ਮੁਆਵਜ਼ਾ। ਤੁਸੀਂ Samsung ਨੂੰ ਸੇਵਾਵਾਂ ਦੀ ਤੁਹਾਡੇ ਵਲੋਂ ਵਰਤੋਂ ਜਾਂ ਤੁਹਾਡੇ ਵਲੋਂ ਇਸ ਅਨੁਬੰਧ ਦੀ ਪਾਲਣਾ ਨਾ ਕਰਨ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਜਾਂ ਉਸਦੇ ਸੰਬੰਧ ਵਿੱਚ ਹੋਣ ਵਾਲੇ ਕਿਸੇ ਵੀ ਦਾਅਵੇ, ਕਾਰਵਾਈਂ, ਮੰਗ, ਲਾਗਤ, ਦੇਣਦਾਰੀਆਂ, ਨੁਕਸਾਨ, ਜੁਰਮਾਨੇ ਅਤੇ ਖਰਚੇ (ਜਿਹਨਾਂ ਵਿੱਚ ਉਚਿਤ ਅਟਾੱਰਨੀ ਦੇ ਸ਼ੁਲਕ ਅਤੇ ਲਾਗਤਾਂ ਸ਼ਾਮਲ ਹਨ) ਤੋਂ ਅਤੇ ਉਹਨਾਂ ਦੇ ਵਿਰੁੱਧ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਅਤੇ ਉਸਨੂੰ ਮੁਆਵਜ਼ਾ ਦੇਣ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ। ਜੇਕਰ ਇਹਨਾਂ ਕਾਅਦਿਆਂ ਅਤੇ ਸ਼ਰਤਾਂ ਦੇ ਅਧੀਨ ਤੁਹਾਨੂੰ ਦਿੱਤੇ ਗਏ ਲਾਇਸੈਂਸ ਦੀ ਨਿਜੀ ਪ੍ਰਕਿਰਤੀ ਦੇ ਬਾਵਜੂਦ, ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਬੰਦੇ ਨੂੰ ਸੇਵਾਵਾਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦਿੰਦੇ ਹੋ ਜਾਂ ਕਿਸੇ ਵੀ ਬੰਦੇ ਨੂੰ ਸੇਵਾਵਾਂ ਵਲੋਂ ਪ੍ਰਾਪਤ ਹੋਈ ਕੋਈ ਵੀ ਜਾਣਕਾਰੀ ਮੁਹਈਆ ਕਰਾਉਂਦੇ ਹੋ, ਤਾਂ ਤੁਸੀਂ ਉਸ ਬੰਦੇ ਨੂੰ ਇਹਨਾਂ ਕਾਅਦੇ ਅਤੇ ਸ਼ਰਤਾਂ ਦੀ ਮੌਜੂਦਗੀ ਅਤੇ ਪ੍ਰਾਵਧਾਨਾਂ ਬਾਰੇ ਸੂਚਿਤ ਕਰਨ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ, ਜੋ ਉਸ ਬੰਦ ਉੱਤੇ ਵੀ ਲਾਗੂ ਹੋਣਗੇ ਅਤੇ ਤੁਸੀਂ Samsung ਨੂੰ ਸੇਵਾਵਾਂ ਦੀ ਉਸ ਬੰਦੇ ਵਲੋਂ ਵਰਤੋਂ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਹੋਣ ਵਾਲੇ ਕਿਸੇ ਅਤੇ ਸਾਰੇ ਦਾਅਵਿਆਂ, ਕਾਰਵਾਈਆਂ, ਮੰਗਾਂ, ਲਾਗਤਾਂ, ਦੇਣਦਾਰੀਆਂ, ਨੁਕਸਾਨ, ਜੁਰਮਾਨਿਆਂ ਅਤੇ ਖਰਚਿਆਂ (ਜਿਹਨਾਂ ਵਿੱਚ ਉਚਿਤ ਅਟਾੱਰਨੀ ਦੇ ਸ਼ੁਲਕ ਅਤੇ ਲਾਗਤਾਂ ਸ਼ਾਮਲ ਹਨ) ਤੋਂ ਸੁਰੱਖਿਅਤ ਰੱਖਣ ਅਤੇ ਉਸਨੂੰ ਮੁਆਵਜ਼ਾ ਦੇਣ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ।
+
+8. ਹੋਣੀ। Samsung, ਰੱਬ ਦੇ ਹੁਕਮ, ਨਾਗਰਿਕ ਜਾਂ ਮਿਲੀਟਰੀ ਅਧਿਕਰਣ, ਜੰਗ, ਆਤੰਕਵਾਦ ਦੇ ਕੰਮਾਂ, ਮਜ਼ਦੂਰ ਦੇ ਝਗੜਿਆਂ, ਤੀਜੇ ਪੱਖ ਵਲੋਂ ਦਿੱਤੀ ਜਾਣ ਵਾਲੀ ਸਮੱਗਰੀਆਂ ਜਾਂ ਸੇਵਾਵਾਂ ਜਾਂ Samsung ਦੇ ਨਿਯੰਤਰਣ ਤੋਂ ਬਾਹਰਲੇ ਕਿਸੇ ਵੀ ਕਾਰਣ ਦੇ ਨਤੀਜੇ ਵਜੋਂ ਸੇਵਾਵਾਂ ਦੇ ਇਹਨਾਂ ਕਾਅਦਿਆਂ ਅਤੇ ਸ਼ਰਤਾਂ ਅਧੀਨ ਪ੍ਰਦਰਸ਼ਨ ਵਿੱਚ ਕਿਸੇ ਵੀ ਦੇਰੀ ਜਾਂ ਅਸਫਲਤਾ ਜਾਂ ਸੇਵਾਵਾਂ ਵਿੱਚ ਦਖਲ ਲਈ ਜ਼ੁੰਮੇਵਾਰ ਨਹੀਂ ਹੋਵੇਗਾ।"</string>
+    <string name="shm_share_my_location_checkbox_text">ਮੈਂ %1$s ਨੂੰ ਮੇਰੇ ਸਥਾਨ ਨੂੰ ਮੇਰੇ %2$s ਸੰਪਰਕਾਂ ਨਾਲ ਸਾਂਝਾ ਕਰਨ ਲਈ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="smartrelay_not_show">ਦੁਬਾਰਾ ਨਾ ਦਿਖਾਉ</string>
+    <string name="software_update">ਸੌਫਟਵੇਅਰ ਅਪਡੇਟ</string>
+    <string name="ss_double_tap_any_screen">ਚਮਕ ਅਤੇ ਵਾੱਲਿਊਮ ਨਿਯੰਤ੍ਰਣ ਖੋਲ੍ਹਣ ਅਤੇ ਹੋਰ ਲਾਭਦਾਇਕ ਜਾਣਕਾਰੀ ਦੇਖਣ ਦੇ ਲਈ ਕਿਸੇ ਵੀ ਸਕ੍ਰੀਨ ਨੂੰ ਦੋ ਉਂਗਲਾਂ ਨਾਲ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ।</string>
+    <string name="ss_forwarding_calls_to_gear_header">ਤੁਹਾਡੇ ਗੇਅਰ ਤੇ ਕਾੱਲਸ ਫਾਰਵਰਡ ਕਰਨਾ</string>
+    <string name="ss_forwarding_calls_to_gear_progress">ਬੇਨਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ਸੈੱਟਿੰਗਸ ਪੜ੍ਹੀਆਂ ਜਾ ਰਹੀਆਂ ਹਨ…</string>
+    <string name="ss_loading_ing_abb">ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">ਮੋਬਾਈਲ ਡੈਟਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ। Wi-Fi ਨੈੱਟਵਰਕ ਦੇ ਨਾਲ ਕਨੈਕਟ ਕਰੋ, ਜਾਂ ਮੋਬਾਈਲ ਡੈਟਾ ਸਮਰੱਥ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="ss_no_network_connection">ਕੋਈ ਨੈੱਟਵਰਕ ਕਨੈਕਸ਼ਨ ਨਹੀਂ ਹੈ</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ਉਪਯੋਗਕਰਤਾ ਮੈਨੂਅਲ</string>
+    <string name="str_no">ਜੀ ਨਹੀਂ ਧੰਨਵਾਦ</string>
+    <string name="str_yes">ਹਾਂ</string>
+    <string name="stub_list_install">ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="sw_eula_condition">ਮੈਂ ਉੱਤੇ ਦਿੱਤੇ ਨਿਯਮਾਂ ਅਤੇ ਸ਼ਰਤਾਂ ਨੂੰ ਸਮਝਦਾ/ਸਮਝਦੀ ਹਾਂ ਅਤੇ ਉਹਨਾਂ ਨਾਲ ਸਹਿਮਤ ਹਾਂ।</string>
+    <string name="sw_eula_desc2">ਤੁਸੀਂ ਸੈਮਸੰਗ ਨੂੰ ਆਪਣੇ ਡਿਵਾਈਸ ਵਲੋਂ ਅਨੁਭਵ ਕੀਤੀ ਜਾਣ ਵਾਲੀ ਕਿਸੇ ਵੀ ਸੌਫਟਵੇਅਰ ਅਪਡੇਟ ਅਸਫਲਤਾ ਤੋਂ ਤਰੁੱਟੀ ਲੌਗ ਡੈਟਾ ਮੁਹਈਆ ਕਰਾਉਣ ਲਈ ਰਜ਼ਾਮੰਦ ਹੋ। ਇਹ ਸੈਮਸੰਗ ਦੀ ਸੌਫਟਵੇਅਰ ਅਪਡੇਟ ਪ੍ਰਕਿਰਿਆ ਨੂੰ ਬੇਹਤਰ ਬਣਾਉਣ ਅਤੇ ਉਸ ਵਿੱਚ ਵਾਧਾ ਕਰਨ ਵਿੱਚ ਸੈਮਸੰਗ ਦੀ ਮਦਦ ਕਰੇਗਾ ਅਤੇ ਅਖੀਰ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਉਚਿਤ ਢੰਗ ਨਾਲ ਅਪਡੇਟ ਰੱਖਣ ਵਿੱਚ ਤੁਹਾਡੀ ਮਦਦ ਕਰੇਗਾ।</string>
+    <string name="tab_stub_list">ਵਿਸ਼ੇਸ਼</string>
+    <string name="talkback_download">ਡਾਉਨਲੋਡ ਕਰੋ</string>
+    <string name="talkback_setting">ਸੈੱਟਿੰਗ</string>
+    <string name="the_samsung_gear_application">ਸੈਮਸੰਗ ਗੇਅਰ ਅਨੁਪ੍ਰਯੋਗ</string>
+    <string name="threeg_connection">ਰਿਮੋਟ ਕਨੈਕਸ਼ਨ ਵਰਤੋ</string>
+    <string name="threeg_connection_subtitle">ਆਪਣੇ Samsung account ਦੇ ਨਾਲ ਮੋਬਾਈਲ ਡੈਟਾ ਜਾਂ Wi-Fi ਦਾ ਉਪਯੋਗ ਕਰਦੇ ਹੋਏ, ਦੂਰਵਰਤੀ ਰੂਪ ਤੋਂ ਆਪਣੇ ਗੇਅਰ ਨਾਲ ਕਨੈਕਟ ਕਰੋ।</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="title_activity_connect_popup">ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="title_activity_paired_watch">ਜੁੜੇ ਹੋਏ ਡਿਵਾਈਸ</string>
+    <string name="title_alertdialog_device_name_popup">%s ਨੂੰ ਦੁਬਾਰਾ ਨਾਂ ਦਿਉ</string>
+    <string name="title_alertdialog_disconnect_popup">ਡਿਸਕਨੈਕਟ ਕਰੋ</string>
+    <string name="title_dialog_pm_error">ਚਿਤਾਵਨੀ</string>
+    <string name="title_dialog_uninstall">ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="title_eula">ਕਨੂੰਨੀ ਸੂਚਨਾਵਾਂ</string>
+    <string name="title_findmywatch_connect2">ਮੇਰਾ ਗੇਅਰ ਲੱਭੋ</string>
+    <string name="title_findmywatch_finding">ਖੋਜ ਰਿਹਾ ਹੈ…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s ਨੂੰ %2$s ਨਾਲ ਕਨੈਕਟ ਕਰੋ</string>
+    <string name="tri_connect_warning_temporal_disconnect">"ਤੁਹਾਡੇ %1$s ਨੂੰ ਬਲੂਟੁੱਥ ਰਾਹੀਂ ਤੁਹਾਡੇ %2$s ਨਾਲ ਕਨੈਕਟ ਕਰਨ 'ਤੇ ਤੁਹਾਡਾ %3$s ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੋਂ ਅਸਥਾਈ ਰੂਪ ਤੋਂ ਡਿਸਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ। ਇਹ ਕਨੈਕਸ਼ਨ ਛੇਤੀ ਹੀ ਪੁਨਰ ਅਰੰਭ ਹੋ ਜਾਵੇਗਾ ਅਤੇ ਫਿਰ ਤੁਹਾਡਾ %4$s ਤੁਹਾਡੇ %5$s ਅਤੇ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਦੋਵਾਂ ਨਾਲ ਕਨੈਕਟ ਹੋ ਜਾਵੇਗਾ।"</string>
+    <string name="tt_install_voice_data">TTS ਵਾੱਇਸ ਡੈਟਾ ਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="tt_install_voice_data_required">ਆਪਣੇ ਗੇਅਰ ਉੱਤੇ ਅਤਿਰਿਕਤ ਟੈਕਸਟ-ਟੂ-ਸਪੀਚ ਭਾਸ਼ਾਵਾਂ ਸਥਾਪਿਤ ਕਰੋ।</string>
+    <string name="tt_language">ਭਾਸ਼ਾ</string>
+    <string name="tt_send_help_message">ਮਦਦ ਸੰਦੇਸ਼ ਭੇਜੋ</string>
+    <string name="tt_tts_language_guide">ਤੁਹਾਡੀ ਟੈਕਸਟ-ਟੂ-ਸਪੀਚ ਭਾਸ਼ਾ ਉਹ ਭਾਸ਼ਾ ਹੈ ਜੋ ਤੁਸੀਂ ਗੇਅਰ ਸੈੱਟਿੰਗਸ ਵਿੱਚ ਸੈੱਟ ਕੀਤੀ ਹੈ। ਜੇਕਰ ਤੁਹਾਡੀ ਭਾਸ਼ਾ ਟੈਕਸਟ-ਟੂ-ਸਪੀਚ ਇੰਜਨ ਦੁਆਰਾ ਸਮਰਥਿਤ ਨਹੀਂ ਹੈ, ਤਾਂ ਅੰਗ੍ਰੇਜ਼ੀ (ਯੁਨਾਈਟਡ ਕਿੰਗਡਮ) ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਵੇਗੀ।</string>
+    <string name="unable_to_connect_popup_message">ਤੁਹਾਡੇ ਗੇਅਰ ਨੂੰ ਤੁਹਾਡੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="unable_to_connect_popup_title">ਕਨੈਕਸ਼ਨ ਅਸਫਲ</string>
+    <string name="unable_to_lock_gear">ਗੇਅਰ ਨੂੰ ਲੌਕ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ</string>
+    <string name="unable_to_reset_gear">ਗੇਅਰ ਨੂੰ ਰੀਸੈੱਟ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ</string>
+    <string name="unabled_health">ਇਸ ਅਨੁਪ੍ਰਯੋਗ ਨੂੰ ਖੋਲ੍ਹਣ ਵਿੱਚ ਅਸਮਰੱਥ ਕਿਉਂਕਿ ਇਹ ਅਸਮਰੱਥ ਕੀਤੀ ਗਈ ਹੈ।</string>
+    <string name="uninstall_applications">ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਅਣਸਥਾਪਿਤ ਕਰੋ</string>
+    <string name="unknown_sources_msg_new">%1$s ਨੂੰ %2$s ਰਾਹੀਂ ਸਥਾਪਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ। ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਅਤੇ ਵਿਅਕਤੀਗਤ ਡੈਟਾ ਅਗਿਆਤ ਸਰੋਤਾਂ ਦੇ ਅਨੁਪ੍ਰਯੋਗਾਂ ਤੋਂ ਹਮਲੇ ਲਈ ਹੋਰ ਵੀ ਅਸੁਰੱਖਿਅਤ ਹੈ। ਤੁਸੀਂ ਸਹਿਮਤੀ ਦਿੰਦੇ ਹੋ ਕਿ ਜੇਕਰ ਇਹਨਾਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਦਾ ਉਪਯੋਗ ਕਰਨ ਦੇ ਪਰਿਣਾਮ ਵਜੋਂ ਤੁਹਾਨੂੰ ਡੈਟਾ ਹਾਨੀ ਅਤੇ ਡਿਵਾਈਸ ਨੂੰ ਨੁਕਸਾਨ ਹੁੰਦਾ ਹੈ ਤਾਂ ਸਿਰਫ਼ ਤੁਸੀਂ ਹੀ ਇਸ ਲਈ ਜਿੰਮੇਵਾਰ ਹੋ। ਅਗਿਆਤ ਸਰੋਤਾਂ ਤੋਂ ਅਨੁਪ੍ਰਯੋਗਾਂ ਨੂੰ ਹਮੇਸ਼ਾ ਸਥਾਪਿਤ ਕਰਨ ਲਈ, %3$s > %4$s > %5$s ਤੇ ਜਾਉ, ਅਤੇ %6$s ਨੂੰ ਸਮਰੱਥ ਕਰੋ। %7$s ਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਲਈ ਓਕੇ ਉੱਤੇ ਟੈਪ ਕਰੋ।</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s ਸੈਮਸੰਗ ਗੇਅਰ ਐਪਸ ਵੱਲੋਂ ਨਹੀਂ ਹੈ, ਅਤੇ ਇਸ ਵਿੱਚ ਤੁਹਾਡੇ ਗੇਅਰ ਲਈ ਕੋਈ ਐਪ ਸ਼ਾਮਲ ਨਹੀਂ ਹੈ। ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਅਤੇ ਡੈਟਾ ਅਗਿਆਤ ਸਰੋਤਾਂ ਦੀਆਂ ਐਪਸ ਦੁਆਰਾ ਹਮਲੇ ਤੋਂ ਬਹੁਤ ਅਸੁਰੱਖਿਅਤ ਹੈ। ਸਥਾਪਨਾ ਰੱਦ ਹੋ ਜਾਵੇਗੀ ਅਤੇ %2$s ਨੂੰ ਤੁਹਾਡੇ ਫ਼ੋਨ ਤੋਂ ਅਣਸਥਾਪਿਤ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
+    <string name="unknown_sources_title">ਅਗਿਆਤ ਸ੍ਰੋਤ</string>
+    <string name="update_button">ਅਪਡੇਟ</string>
+    <string name="update_summary">ਅਪਡੇਟਸ ਲਈ ਜਾਂਚ ਕਰੋ</string>
+    <string name="update_the_latest_version">ਅਪਡੇਟ ਉਪਲਬਧ</string>
+    <string name="voice_control_subtitle">ਜਦੋਂ ਤੁਹਾਡਾ ਗੇਅਰ ਵੱਜ ਜਾਂ ਵਾਈਬ੍ਰੇਟ ਨਹੀਂ ਕਰ ਰਿਹਾ ਹੁੰਦਾ ਹੈ, ਤਾਂ ਕਾੱਲਸ ਦਾ ਉੱਤਰ ਦੇਣ ਜਾਂ ਅਸਵੀਕਾਰ ਕਰਨ ਲਈ ਵਿਰਾਮ ਦੇ ਦੌਰਾਨ “Answer” ਜਾਂ “Reject” ਬੋਲੋ।</string>
+    <string name="voicememo_link2">ਸੈਮਸੰਗ ਗੋਪਨਿਯਤਾ ਨੀਤੀ</string>
+    <string name="watchapp_all">ਐਪਸ</string>
+    <string name="watchapp_noapps">ਕੋਈ ਐਪਸ ਨਹੀਂ</string>
+    <string name="welcome_Gear">ਗੇਅਰ</string>
+    <string name="welcome_samsung">ਸੈਮਸੰਗ</string>
+    <string name="widget_bt">ਬਲੂਟੁੱਥ</string>
+    <string name="widget_fmw_refresh">ਰਿਫ੍ਰੈਸ਼ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="wifi_only">ਸਿਰਫ Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Wi-Fi ਨੈੱਟਵਰਕ ਨਾਲ ਕਨੈਕਟ ਹੋਣ ਤੇ ਹੀ ਅਪਡੇਟਸ ਡਾਉਨਲੋਡ ਕਰੋ।</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+    <string name="email_sanitize">ਸੁਰੱਖਿਆ ਕਾਰਨਾਂ ਦੇ ਕਾਰਨ ਇਸ ਈਮੇਲ ਦੀ ਸਮੱਗਰੀ ਨੂੰ ਗੇਅਰ ਤੇ ਪ੍ਰਦਰਸ਼ਿਤ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਵੇਰਵਿਆਂ ਲਈ, ਇਸ ਈਮੇਲ ਨੂੰ ਆਪਣੇ ਮੋਬਾਈਲ ਡਿਵਾਈਸ ਤੇ ਦੇਖੋ।</string>
+    <string name="knox_sanitize">KNOX ਮੋਡ ਵਿੱਚ ਦਾਖ਼ਲ ਹੋਣ ਲਈ ਇੱਥੇ ਟੈਪ ਕਰੋ।</string>
+</resources>

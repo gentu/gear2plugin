@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:splitMotionEvents="false">
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/BackupRestoreBackupNowLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/cloud_backup_restore_backup_now" custom:subtext="@string/cloud_backup_restore_backup_now" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/BackupRestoreRestoreNowLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/cloud_backup_restore_restore_now" custom:subtext="@string/cloud_backup_restore_restore_now" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false">
+            <TextView android:textSize="@dimen/backup_restore_activity_description_textsize" android:textColor="@color/black" android:id="@id/BackupRestoreDescription" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginTop="11.0dip" android:layout_marginRight="12.0dip" android:text="@string/gear2_text" android:lineSpacingExtra="5.0dip" android:fontFamily="sans-serif-light" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

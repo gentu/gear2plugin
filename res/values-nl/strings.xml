@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Niet beschikbaar tijdens gesprek.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Pop-up volledig scherm</string>
+    <string name="alert_mini">Mini pop-up</string>
+    <string name="alertdialog_backkey_popup_content">Waarschuwing</string>
+    <string name="alertdialog_disconnect_popup_description">Verbinding met Gear wordt verbroken. Gebruik Bluetooth om opnieuw te verbinden.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Hiermee beëindigt u de verbinding met %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">De verbinding van uw %s met uw mobiele apparaat wordt verbroken. Gebruik Bluetooth als u deze apparaten de volgende keer wilt verbinden. Eventuele volgende verbindingen kunnen worden gemaakt via Verbinding op afstand.</string>
+    <string name="alertdialog_uninstall_popup_content">Verwijderen</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s is niet geïnstalleerd op uw mobiele apparaat. Als u %2$s op Gear wilt gebruiken, downloadt u %1$s op uw mobiele apparaat.</string>
+    <string name="attention_popup_title">Let op</string>
+    <string name="auto_call_forwarding">Automatisch doorschakelen</string>
+    <string name="auto_call_forwarding_att">Autom. doorschakelen naar Gear</string>
+    <string name="auto_call_forwarding_desc">Schakel Oproepen doorschakelen automatisch in als uw Gear van uw mobiele apparaat is losgekoppeld. Hiermee worden inkomende oproepen van uw mobiele apparaat doorgeschakeld naar uw Gear totdat de apparaten weer verbinding maken.</string>
+    <string name="auto_update">Automatisch bijwerken</string>
+    <string name="auto_update_summary">Automatisch controleren op updates</string>
+    <string name="backing_up">Back-up maken…</string>
+    <string name="backup_complete">Back-up voltooid.</string>
+    <string name="bnr_backup">Back-up maken…</string>
+    <string name="bnr_bakcup_title">Back-up</string>
+    <string name="bnr_cancel">Annuleer</string>
+    <string name="bnr_canel">Annul.</string>
+    <string name="bnr_error_occurred">Fout opgetreden</string>
+    <string name="bnr_except">%1$s (behalve %2$s)</string>
+    <string name="bnr_except_autolock">Automatisch vergrendelen</string>
+    <string name="bnr_except_remoteconnection">Verbinding op afstand</string>
+    <string name="bnr_except_texttemplate">Standaard sms-berichten</string>
+    <string name="bnr_next">Volgende</string>
+    <string name="bnr_no">Nee</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Als u een nieuw apparaat wilt aansluiten, wordt Gear teruggezet naar de fabrieksinstellingen.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear is niet volledig ingesteld. De instelwizard is momenteel geopend voor Gear maar als u verbinding wilt maken met Gear, moet u de instelwizard in Gear Manager ook op dit apparaat openen.</string>
+    <string name="bnr_reset_initialization">Melding</string>
+    <string name="bnr_restore">Herstellen</string>
+    <string name="bnr_restored">Gegevens hersteld.</string>
+    <string name="bnr_setupwizard_title2">Back-up en herstel</string>
+    <string name="bnr_yes">Ja</string>
+    <string name="bt_connected">Verbonden</string>
+    <string name="bt_disconnected">Verbinding verbroken</string>
+    <string name="bt_unpaired">Niet-gekoppeld</string>
+    <string name="button_finish">Voltooien</string>
+    <string name="button_restore">Herstel</string>
+    <string name="call">OPROEP</string>
+    <string name="call_check_gear_status_when_cfwd">De doorschakelfuncties Mobiel naar Gear en Gear naar mobiel kunnen niet tegelijkertijd zijn ingeschakeld.</string>
+    <string name="call_dualsim1">SIM-kaart 1</string>
+    <string name="call_dualsim1sim2">Beide SIM-kaarten</string>
+    <string name="call_dualsim2">SIM-kaart 2</string>
+    <string name="call_forwarding">Oproepen doorschakelen</string>
+    <string name="call_forwarding_agree">Ik ga akkoord.</string>
+    <string name="call_forwarding_desc">Schakel inkomende oproepen van uw mobiele apparaat door naar uw Gear.</string>
+    <string name="call_forwarding_desc_vzw">Schakel onbeantwoorde inkomende oproepen van uw telefoon door naar uw Gear.</string>
+    <string name="call_forwarding_disable_msg">Er is een verzoek gedaan om het doorschakelen van oproepen van uw mobiele apparaat naar uw Gear uit te schakelen. De status van uw mobiele netwerk en uw mobiele apparaat kan de resultaten beïnvloeden.</string>
+    <string name="call_forwarding_enable_msg">Er is een verzoek gedaan om het doorschakelen van oproepen van uw mobiele apparaat naar uw Gear in te schakelen. De status van uw mobiele netwerk en uw mobiele apparaat kan de resultaten beïnvloeden.</string>
+    <string name="call_forwarding_for_att_msg">"Als de Gear wordt losgekoppeld van de smartphone, worden inkomende oproepen op uw mobiele apparaat automatisch doorgeschakeld naar uw Gear.
+- Uw smartphone gaat een paar keer over en daarna wordt de oproep doorgeschakeld naar uw Gear.
+- Als u de oproep op uw Gear niet beantwoordt, kan de beller een voicemail achterlaten die u kunt beluisteren op uw Gear.
+Wilt u automatisch oproepen doorschakelen nu inschakelen?"</string>
+    <string name="call_forwarding_notify_msg">Oproepen doorschakelen vanaf uw mobiele apparaat naar uw Gear is momenteel ingeschakeld. Inkomende oproepen op uw mobiele apparaat worden doorgeschakeld naar uw Gear. Als u uw Gear niet bij u hebt, gaat u naar Instellingen en schakelt u Oproepen automatisch doorschakelen uit om ervoor te zorgen dat u geen oproep mist.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Spraakoproep doorschakelen uit…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Spraakoproep doorschakelen aan…</string>
+    <string name="call_no_gear_number">Geen cijfers</string>
+    <string name="call_select_dualsim_title">Selecteer SIM-kaart</string>
+    <string name="call_voice_control">Spraakopdracht</string>
+    <string name="callforwarding_help_des1">Wissel automatisch het apparaat waar oproepen naar worden doorgeschakeld, afhankelijk van het feit of uw apparaten zijn verbonden via Bluetooth of Verbinding op afstand.</string>
+    <string name="callforwarding_help_des2">Ontvang oproepen naar uw mobiele apparaat op uw Gear terwijl u beweegt en de Gear draagt en terwijl deze op afstand is verbonden met het mobiele apparaat.</string>
+    <string name="cancel">Annuleer</string>
+    <string name="cf_activated">Geactiveerd</string>
+    <string name="cf_deactivate_failed">Kan Oproepen doorschakelen niet uitschakelen.</string>
+    <string name="cf_deactivated">Uitgeschakeld</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Nieuwe klokinstellingen toegepast via Gear.</string>
+    <string name="clocks_download_more_clocks">Meer klokken downloaden</string>
+    <string name="clocks_noti_uninstall_clock">%s wordt verwijderd.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s wordt verwijderd en %2$s worden ingesteld als de standaardklok.</string>
+    <string name="clocks_title_basic_clocks">EENVOUDIGE KLOKKEN</string>
+    <string name="clocks_title_downloaded_clocks">GEDOWNLOADE KLOKKEN</string>
+    <string name="clocks_title_style_clocks">STIJL KLOKKEN</string>
+    <string name="clocks_uninstalled">Verwijderd.</string>
+    <string name="clocks_uninstalling">Verwijderen…</string>
+    <string name="close">Sluiten</string>
+    <string name="closing_samsung_gear_message">Uw Gear is gereset. De applicatie Samsung Gear wordt binnenkort gesloten.</string>
+    <string name="closing_samsung_gear_message_jpn">Uw Gear is gereset. De applicatie Gear wordt binnenkort gesloten.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear-applicatie sluiten</string>
+    <string name="closing_samsung_gear_title_jpn">Gear-applicatie sluiten</string>
+    <string name="cloud_backup_no_information">Nooit</string>
+    <string name="cloud_backup_restore_backup_now">Back-up gegevens</string>
+    <string name="cloud_backup_restore_restore_now">Gegevens herstellen</string>
+    <string name="cmw_agree">Akkoord</string>
+    <string name="cmw_eula_agree">Ik begrijp de algemene voorwaarden hierboven en ga ermee akkoord.</string>
+    <string name="cmw_for_setting">Locatieservices zijn uitgeschakeld. Ga naar Instellingen.</string>
+    <string name="cmw_high_accuracy_dialog_message">Schakel Hoge precisie in Locatie > Stand in voor de snelste en nauwkeurigste locatiedetectie.</string>
+    <string name="cmw_high_accuracy_dialog_title">Hoge precisie selecteren</string>
+    <string name="cmw_legal_content">"Door 'Locatie delen' in te schakelen, gaat u ermee akkoord dat locatiegegevens die zijn gekoppeld aan uw mobiele telefoon en/of Gear-apparaat, worden doorgegeven via een Samsung-server om de services Mijn Gear zoeken en Mijn apparaat zoeken mogelijk te maken. Er worden geen gegevens of informatie over de locatie van uw appartaat op de Samsung-server opgeslagen"</string>
+    <string name="cmw_legal_content1">Door “%1$s &amp; %2$s” in te schakelen, bevestigt u dat locatiegegevens die zijn gekoppeld aan uw mobiele telefoon en/of Gear-apparaat, worden doorgegeven via een Samsung-server om de %1$s &amp; %2$s -service mogelijk te maken. Geen gegevens of informatie over de locatie van uw apparaat worden op de Samsung-server opgeslagen.</string>
+    <string name="cmw_legal_content1_no_gps">Door “%1$s &amp; %2$s” in te schakelen, bevestigt u dat locatiegegevens die zijn gekoppeld aan uw mobiele telefoon worden doorgegeven via een Samsung-server om de %2$s-service mogelijk te maken. Geen gegevens of informatie over de locatie van uw apparaat worden op de Samsung-server opgeslagen.</string>
+    <string name="cmw_legal_content_2">Samsung ﻿Privacybeleid</string>
+    <string name="cmw_legal_title">Juridische kennisgevingen</string>
+    <string name="cmw_location">Locatieservices inschakelen</string>
+    <string name="cmw_show_on_map">Weergeven op kaart</string>
+    <string name="color_black">Zwart</string>
+    <string name="color_blue">Blauw</string>
+    <string name="color_brown">Bruin</string>
+    <string name="color_gray">Grijs</string>
+    <string name="color_green">Groen</string>
+    <string name="color_light_sky_blue">Licht hemelsblauw</string>
+    <string name="color_medium_purple">Middenpaars</string>
+    <string name="color_orange">Oranje</string>
+    <string name="color_pink">Roze</string>
+    <string name="color_purple">Paars</string>
+    <string name="color_red">Rood</string>
+    <string name="color_spring_green">Lentegroen</string>
+    <string name="common_none">Geen</string>
+    <string name="common_off">Uit</string>
+    <string name="common_on">Aan</string>
+    <string name="common_recent_apps">Recente apps</string>
+    <string name="connect_popup_content">Verbinden met %s…</string>
+    <string name="connected_by_trasport_BT">Verbonden via Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Op afstand verbonden</string>
+    <string name="connecting_content">Verbinding maken met Gear</string>
+    <string name="connecting_doc">Nadat u verbinding hebt gemaakt met uw %1$s, kunt u de instellingen ervan wijzigen en de applicaties erop installeren via %2$s.</string>
+    <string name="connecting_popup_message">Verbinding maken Gear…</string>
+    <string name="connecting_popup_title">Verbinden met Gear</string>
+    <string name="connecting_to_gear_ing">Verbinding maken Gear…</string>
+    <string name="connectingdoc">Nadat u verbinding hebt gemaakt met uw Gear, kunt u de instellingen ervan wijzigen en de applicaties erop installeren via Gear Manager.</string>
+    <string name="connection_error_dialog_message">Uw apparaat is niet aangesloten. Het probeert opnieuw verbinding te maken.</string>
+    <string name="dialog_check_phone_number_msg1">Zorg dat de volgende gegevens juist zijn:</string>
+    <string name="dialog_check_phone_number_msg2">Mobiel telefoonnummer: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear-telefoonnummer: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tik op OK om Automatisch doorschakelen te bevestigen en in te schakelen.</string>
+    <string name="dialog_enable_remote_connection_desc">Als u Automatisch doorschakelen wilt inschakelen, schakelt u Verbinding op afstand in en probeert u het opnieuw.</string>
+    <string name="dialog_enable_remote_connection_title">Verbinding op afstand inschakelen</string>
+    <string name="dialog_permission_message">Kan %s niet gebruiken. Tik op INSTELLINGEN, ga naar App-info > Machtigingen, sta de volgende machtigingen toe en probeer het opnieuw:</string>
+    <string name="dialog_popup_button_cancel">Annuleer</string>
+    <string name="dialog_reverse_msg">Afhankelijk van uw serviceprovider kunnen er aparte abonnementen voor uw mobiele apparaat en Gear nodig zijn om van deze voorziening gebruik te maken. Dit kan leiden tot extra kosten.</string>
+    <string name="dialog_set_phone_number_msg">Als u Automatisch doorschakelen wilt inschakelen, stelt u de telefoonnummers in van de apparaten waarnaar en waarvan u inkomende oproepen wilt doorschakelen.</string>
+    <string name="dialog_set_phone_number_title">Automatisch doorschakelen aan</string>
+    <string name="disable_loc_text">Locatie delen wordt uitgeschakeld. U kunt geen locatiegegevens gebruiken om te zoeken naar uw Gear en uw mobiele apparaat via Zoek mijn Gear en Zoek mijn apparaat.</string>
+    <string name="disable_loc_text_no_gps">Locatie delen wordt uitgeschakeld. U kunt geen locatiegegevens gebruiken om te zoeken naar uw mobiele apparaat via Zoek mijn apparaat.</string>
+    <string name="disable_remote_connection">Verbinding op afstand uit</string>
+    <string name="disable_remote_connection_fmm_fmd">Zoek mijn Gear en Zoek mijn apparaat</string>
+    <string name="disable_remote_connection_receiving_blocked">Berichten, e-mails en meldingen ontvangen van het mobiele apparaat</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">E-mails en meldingen ontvangen van het mobiele apparaat</string>
+    <string name="disable_remote_connection_warning">Verbinding op afstand wordt uitgeschakeld. De volgende functies zijn niet beschikbaar tot uw Gear weer met uw mobiele apparaat is verbonden via Bluetooth:</string>
+    <string name="disable_share_location">Locatie delen uitschakelen</string>
+    <string name="disconnect_popup_content">Verbinding met %s verbreken…</string>
+    <string name="do_not_show_again">Niet meer tonen</string>
+    <string name="enable_auto_call_forwarding_msg">Schakel inkomende oproepen van uw mobiele apparaat automatisch door naar uw Gear terwijl de Gear is losgekoppeld. Afhankelijk van uw serviceprovider kan dit leiden tot extra kosten. Tik op OK om Automatisch doorschakelen in te schakelen.</string>
+    <string name="enable_auto_call_forwarding_title">Autom. doorschakelen aan</string>
+    <string name="enable_more_notifications_enable">Aanzetten</string>
+    <string name="enable_notification_access">Melding toegang inschakelen</string>
+    <string name="enable_notification_access_desc">"Deze functie kan alle meldingen lezen die u ontvangt, met inbegrip van persoonlijke gegevens zoals contacten en naar u verzonden berichten. De functie kan deze meldingen ook sluiten of acties die ermee samenhangen selecteren.
+Als u meldingen wilt ontvangen op uw Gear, tikt u op Inschakelen en schakelt u %s in."</string>
+    <string name="enable_share_location">Locatie delen inschakelen</string>
+    <string name="enabled_loc">Locatie delen ingeschakeld.</string>
+    <string name="error_enter_device_name">Naam apparaat ingeven.</string>
+    <string name="error_occurred">Fout opgetreden.</string>
+    <string name="eula_i_agree">Ik ga akkoord.</string>
+    <string name="failed_tshare_msg">Oproepen doorsturen niet ingesch. Geen reactie van T share.</string>
+    <string name="find_my_device">Zoek mijn apparaat</string>
+    <string name="find_my_gear">Zoek mijn Gear</string>
+    <string name="find_watch_btn_start">Start</string>
+    <string name="find_watch_btn_stop">Stoppen</string>
+    <string name="find_watch_off">Tik op Start om Gear te zoeken. Gear speelt een geluid af en het scherm wordt ingeschakeld.</string>
+    <string name="find_watch_on">Tik op Stop om te stoppen met het zoeken naar uw Gear. Gear stopt met het afspelen van een geluid en het scherm wordt uitgeschakeld.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s wordt verwijderd en het standaardlettertype wordt toegepast op uw %2$s.</string>
+    <string name="force_wifi_direct_msg">De applicatie wordt geïnstalleerd via Wi-Fi Direct. Hierdoor wordt uw huidige Wi-Fi Direct-verbinding beëindigd. Als u de installatie annuleert, moet u deze applicatie opnieuw downloaden om deze te installeren.</string>
+    <string name="force_wifi_direct_title">Installeren</string>
+    <string name="force_wifi_install">Installeren</string>
+    <string name="gear2_backup_confirm_text">Als u nu een back-up van uw gegevens maakt, worden de huidige Gear-back-upgegevens op het mobiele apparaat vervangen door uw laatste Gear-gegevens.</string>
+    <string name="gear2_restore_confirm_text">Als u uw gegevens herstelt, worden de huidige gegevens op de Gear verwijderd en vervangen door uw huidige Gear-back-upgegevens.</string>
+    <string name="gear2_text">"Gebruik uw apparaatopslag om een back-up te maken van de inhoud van %1$s:
+%2$s
+
+Als u al eerder een back-up van deze inhoud hebt gemaakt, kunt u deze nu op %3$s herstellen.
+
+Afhankelijk van de omvang van het bestand kan dit enige tijd duren."</string>
+    <string name="gear2_text_import3">Instellingen</string>
+    <string name="gear_bnr_desc">"Gebruik de opslag van uw mobiele apparaat om een back-up te maken van de volgende %1$s-gegevens: %2$s
+
+Als u al eerder een back-up van uw %3$s-gegevens hebt gemaakt, kunt u deze nu op uw %4$s herstellen.
+
+Afhankelijk van de omvang van het bestanden kan dit enige tijd duren."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Uw mobiele apparaat zoekt nu naar uw Gear. Dit kan enkele minuten duren. Het is misschien moeilijk om uw Gear te vinden als deze binnen is.</string>
+    <string name="gear_location_popup_title">Gear zoeken</string>
+    <string name="gear_location_text">Gearlocatie</string>
+    <string name="gear_lock_success">Gear vergrendeld.</string>
+    <string name="gear_lock_text">Gear vergrendelen</string>
+    <string name="gear_locked">Gear vergrendeld</string>
+    <string name="gear_locked_text1">Gear vergrendeld. Als u wilt ontgrendelen, verbindt u uw Gear met uw mobiele apparaat via Bluetooth.</string>
+    <string name="gear_phone_number">Gear-telefoonnummer</string>
+    <string name="gear_phone_number_popup_desc">Alle oproepen naar uw mobiele apparaat worden doorgeschakeld naar %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Alle onbeantwoorde oproepen naar uw Mobiele apparaat worden doorgeschakeld naar %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Als u uw Gear wilt vergrendelen, moet Verbinding op afstand eerst worden ingeschakeld.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Als u uw Gear wilt resetten, moet Verbinding op afstand eerst worden ingeschakeld.</string>
+    <string name="gear_reset_text">Gear resetten</string>
+    <string name="gear_to_mobile">Gear naar mobiel</string>
+    <string name="gear_to_mobile_des">Ontvang oproepen naar uw Gear op uw mobiele apparaat terwijl de twee apparaten zijn verbonden via Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Kan locatie niet verwijderen. Probeer het later opnieuw.</string>
+    <string name="gear_unable_to_locate_title">Kan Gear niet vinden</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Achtergr.</string>
+    <string name="home_bg_color">Kleuren</string>
+    <string name="home_bg_colors_title">BESCHIKBARE KLEUREN</string>
+    <string name="home_bg_delete_actionbar_selected">Geselecteerd</string>
+    <string name="home_bg_delete_dialog_msg">%d achtergronden worden verwijderd uit Gear Manager en uw Gear.</string>
+    <string name="home_bg_delete_select_all">Alles selecteren</string>
+    <string name="home_bg_max_more_image_toast">Maximumaantal achtergronden (%d) bereikt.</string>
+    <string name="home_bg_more_images">Meer afbeeldingen</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear-achtergronden downloaden…</string>
+    <string name="home_bg_popup_wallpaper_title">Achtergronden downloaden</string>
+    <string name="home_bg_toast_saved">Opgeslagen.</string>
+    <string name="home_bg_wallpaper">Achtergrond</string>
+    <string name="home_bg_wallpapers_title">BESCHIKBARE ACHTERGRONDEN</string>
+    <string name="homelayout_apps">Apps</string>
+    <string name="incoming_calls_title">Inkomende oproepen</string>
+    <string name="info_build_number">Softwareversie</string>
+    <string name="info_model_number">Modelnummer</string>
+    <string name="info_software_update">Software-update</string>
+    <string name="information_provision_agreement">Overeenkomst voor leveren van informatie</string>
+    <string name="information_provision_agreement_mgs">"Spraakmemo maakt gebruik van een spraakherkenningstechnologie die wordt geleverd door een externe serviceprovider genaamd Nuance Communications Inc. Het is dus onvermijdelijk dat uw spraakgegevens worden opgeslagen in een server die wordt bediend door Nuance (in de Verenigde Staten) en dat u voor het gebruiken van Spraakmemo moet instemmen met de Algemene voorwaarden van Nuance.
+ Nuance behoudt zich het recht voor om uw spraakgegevens te gebruiken voor het verbeteren van de services en het ontwikkelen van technologieën. Nuance behoudt zich ook het recht voor om de hierboven genoemde spaakgegevens te leveren aan partners van Nuance. Uw spraakgegevens worden opgeslagen tot de hierboven vermelde doelen zijn voltooid. Voor informatie over de Spraakmemo-services leest u het Samsung Privacybeleid en het Nuance Privacybeleid.
+ U kunt Spraakmemo niet gebruiken als u niet instemt met het leveren van uw gegevens zoals hierboven is beschreven."</string>
+    <string name="init_manage_notifications_desc">Selecteer de applicaties waarvan u meldingen wilt ontvangen op uw %1$s. Als u minder batterijvoeding op uw %2$s wilt verbruiken, heft u de selectie op van applicaties waarvan u geen meldingen wilt ontvangen.</string>
+    <string name="install_in_progress">Bezig…</string>
+    <string name="invalid_rename_character">Ongeldig teken ingevoerd. Probeer het opnieuw.</string>
+    <string name="latest_version">Laatste versie geïnstalleerd</string>
+    <string name="latitude">Breedtegraad</string>
+    <string name="limit_notification_desc">Verhinder dat meldingen verschijnen op de Gear terwijl het mobiele apparaat wordt gebruikt.</string>
+    <string name="limit_notification_dialog_desc">Kan Meldingen beperken niet inschakelen op uw Gear. Er is geen schermvergrendeling ingesteld op uw mobiele apparaat.</string>
+    <string name="limit_notification_title">Meldingen beperken</string>
+    <string name="location_info_title">Locatie delen</string>
+    <string name="lock_gear_legal_text1">Met Gear vergrendelen kunt u uw Gear op afstand vergrendelen om onbevoegd gebruik te voorkomen. U ontgrendelt uw Gear door opnieuw verbinding te maken met het mobiele apparaat.</string>
+    <string name="lock_gear_legal_text2">* Gear vergrendelen kan enige tijd in beslag nemen of zelfs helemaal niet lukken afhankelijk van de status van uw Gear, mobiele apparaat of netwerkomgeving.</string>
+    <string name="lock_gear_text">Kan uw Gear niet vergrendelen terwijl uw mobiele apparaat en Gear zijn verbonden via Bluetooth.</string>
+    <string name="login_to_samsung_account">Log in bij Samsung account</string>
+    <string name="login_to_samsung_account_desc">Als u Verbinding op afstand wilt inschakelen op uw Gear, moet u inloggen bij uw Samsung account.</string>
+    <string name="login_to_samsung_account_full_desc">"Log in bij uw Samsung account om deze functies te gebruiken, zelfs als u niet verbonden bent via Bluetooth:
+- Meldingen ontvangen
+- Applicaties via Verbinding op afstand
+Verbinding op afstand gebruiken kan leiden tot extra kosten."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Als u niet met uw telefoon bent verbonden via Bluetooth, kunt u met een Samsung account het volgende doen via mobiele gegevens:
+- Berichten, e-mails en andere meldingen ontvangen
+- Applicaties op Gear ontvangen waarvoor een verbinding met uw telefoon nodig is via Verbinding op afstand.
+
+Houd er rekening mee dat Verbinding op afstand via uw Samsung account gegevenskosten met zich mee brengt."</string>
+    <string name="longitude">Lengtegraad</string>
+    <string name="main_bt_unpaired">Niet-gekoppeld</string>
+    <string name="main_disconnected">Verbinding verbroken</string>
+    <string name="manage_applications">Applicaties beheren</string>
+    <string name="manage_notifications">Meldingen beheren</string>
+    <string name="manual_call_forwarding_for_att_msg">"Oproepen voor uw smartphone kunnen worden doorgeschakeld naar uw Gear.
+- Uw smartphone gaat een paar keer over en daarna wordt de oproep doorgeschakeld naar uw Gear.
+- Als u de oproep op uw Gear niet beantwoordt, kan de beller een voicemail achterlaten die u kunt beluisteren op uw Gear.
+Wilt u oproepen doorschakelen nu inschakelen?"</string>
+    <string name="manual_call_forwarding_popup_desc">Doorschakelen is een netwerkservice waarbij %s inkomende oproepen naar een opgegeven nummer worden omgeleid. Afhankelijk van uw serviceprovider kan een speciaal abonnement voor uw Gear nodig zijn om van deze voorziening gebruik te maken. Dit kan leiden tot extra kosten.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobiel apparaat</string>
+    <string name="masterapp_not_installed">%1$s is niet geïnstalleerd op uw mobiele apparaat. Als u %2$s op Gear wilt gebruiken, downloadt u %1$s op uw mobiele apparaat.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s is niet geïnstalleerd op uw mobiele apparaat. Als u %2$s op Gear wilt gebruiken, downloadt u %1$s op uw mobiele apparaat. U gaat naar het downloadscherm.</string>
+    <string name="masterapp_uninstalled">%1$s is verwijderd van uw mobiele apparaat. Als u %2$s op Gear wilt gebruiken, downloadt u %1$s op uw mobiele apparaat.</string>
+    <string name="maximum_size_warning">Maximumaantal tekens bereikt.</string>
+    <string name="menu_about_device">OVER %s</string>
+    <string name="menu_actionbar_remove">Verwijderen</string>
+    <string name="menu_actionbar_uninstall">Verwijderen</string>
+    <string name="menu_appsandsettigns">APPS EN INSTELLINGEN</string>
+    <string name="menu_clock">Klok</string>
+    <string name="menu_display">STARTSCHERM BEWERKEN</string>
+    <string name="menu_downloaded_font">GEDOWNLOADE LETTERTYPEN</string>
+    <string name="menu_filetransfertogear">OVERDRAGEN NAAR GEAR</string>
+    <string name="menu_gallery">Afbeelding</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitness</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_home_screen">Stijl startscherm</string>
+    <string name="menu_music">Muziek</string>
+    <string name="menu_myapp">Mijn apps</string>
+    <string name="menu_notification">Meldingen</string>
+    <string name="menu_rename">Naam wijzigen</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Instellingen</string>
+    <string name="mobile_to_gear">Mobiel naar Gear</string>
+    <string name="mobile_to_gear_des">Ontvang oproepen naar mobiel apparaat op de Gear terwijl twee apparaten op afstand zijn verbonden.</string>
+    <string name="monotype_default_font">Standaardlettertype</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Meer</string>
+    <string name="more_options">Meer opties</string>
+    <string name="multisim_title">Multi-SIM</string>
+    <string name="navigate_up">Omhoog navigeren</string>
+    <string name="new_eula_error_log">Diagnose rapporteren</string>
+    <string name="new_eula_fmd2">Zoek mijn apparaat</string>
+    <string name="new_eula_fmg2">Zoek mijn Gear</string>
+    <string name="new_eula_news_briefing">Nieuws Briefing</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung-toetsenbord</string>
+    <string name="new_notification_list">Lijstweergave</string>
+    <string name="new_notifications_list_desc">Geef een lijst met ontvangen meldingen weer op de Gear aan de linkerkant van de klok.</string>
+    <string name="no_application_selected">Geen applicaties geselecteerd</string>
+    <string name="no_downloaded_applications">Geen gedownloade applicaties</string>
+    <string name="no_of_application_selected">%d applicaties geselecteerd</string>
+    <string name="no_remote_connection_popup_msg">Als u Automatisch doorschakelen wilt inschakelen, opent u de applicatie Samsung Gear op uw mobiele apparaat, schakelt u Verbinding op afstand in en probeert u het opnieuw.</string>
+    <string name="no_remote_connection_popup_title">Verbinding op afstand inschakelen</string>
+    <string name="notification_type">Meldingstype</string>
+    <string name="notification_type_desc">Terwijl uw Gear in gebruik is, worden uw meldingen als kleine pop-ups boven aan het scherm weergegeven, ongeacht de selectie hierboven.</string>
+    <string name="number_setting">Nummerinstelling</string>
+    <string name="ok">OK</string>
+    <string name="once">Eenmalig</string>
+    <string name="one_application_selected">1 applicatie geselecteerd</string>
+    <string name="popup_attention_email_msg">Bepaalde e-mailaccounts zijn niet geselecteerd in E-mailinstellingen. Als u meldingen van deze accounts op uw Gear wilt ontvangen, selecteert u E-mailmeldingen in E-mailinstellingen.</string>
+    <string name="popup_attention_message_msg">Om berichten te kunnen verzenden en ontvangen op uw Gear, wordt uw standaard berichtenapp gewijzigd van %s naar Berichten.</string>
+    <string name="popupmenu_search_for_new_device">Apparaten beheren</string>
+    <string name="preview_message_desc">Geef een voorbeeld weer van ontvangen meldingen, met uitzondering van waarschuwingen voor inkomende oproepen en alarmen, in de meldingenpop-ups op uw Gear.</string>
+    <string name="preview_message_title">Berichtvoorbeeld</string>
+    <string name="primary">Primair</string>
+    <string name="privacypolicy_fmgfmd">Door “%1$s &amp; %2$s” in te schakelen, bevestigt u dat locatiegegevens die zijn gekoppeld aan uw mobiele telefoon en/of Gear-apparaat, worden doorgegeven via een Samsung-server om de %1$s &amp; %2$s -service mogelijk te maken. Geen gegevens of informatie over de locatie van uw apparaat worden op de Samsung-server opgeslagen.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Door “%1$s &amp; %2$s” in te schakelen, bevestigt u dat locatiegegevens die zijn gekoppeld aan uw mobiele telefoon worden doorgegeven via een Samsung-server om de %2$s-service mogelijk te maken. Geen gegevens of informatie over de locatie van uw apparaat worden op de Samsung-server opgeslagen.</string>
+    <string name="privacypolicy_newsbriefing">Met deze app kunnen gebruikers op een aantal innovatieve manieren contact onderhouden via sociale media en internet. Als u deze app inschakelt, verzamelt de dienst informatie over hoe u de diensten gebruikt, inclusief hoe u content en advertenties bekijkt en hierop reageert. Voor meer informatie, raadpleeg de %1$sGebruiksvoorwaarden%2$s en het %3$sPrivacybeleid%4$s van Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung ﻿Privacybeleid</string>
+    <string name="progressdialog_please_wait">Even geduld…</string>
+    <string name="progressdialog_reinstalled_message">Installeren…</string>
+    <string name="progressdialog_reinstalled_popup_content">Opnw instal.</string>
+    <string name="providerapp_reinstalled">%s werkt niet correct en moet daarom worden verwijderd. Het wordt nu opnieuw geïnstalleerd.</string>
+    <string name="quick_tutorial_add_shortcuts">Als u sneltoetsen wilt toevoegen op het startscherm van Gear, gaat u naar Apps op de Gear, tikt u op het pictogram van een app en houdt u dit vast, en sleept u het vervolgens naar het startpictogram boven aan het scherm.</string>
+    <string name="quick_tutorial_gear_structure">"De klok wordt weergegeven op de hoofdpagina van het startscherm van uw Gear. Op de pagina's links van de klok worden meldingen weergegeven en op de pagina's rechts de widgets. Veeg omhoog vanaf de onderrand van het scherm om applicaties weer te geven."</string>
+    <string name="quick_tutorial_noti_title">Informatie over %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Als u S Voice wilt openen, zegt u “Hi Gear” of drukt u op twee keer de starttoets in een scherm.</string>
+    <string name="quick_tutorial_swipe_downwards">Druk twee keer op de starttoets om uw favoriete applicatie te openen. U kunt uw favoriete applicatie wijzigen in Instellingen.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Druk twee keer op de aan/uit-toets om uw favoriete app te openen. U kunt uw favoriete app wijzigen in Instellingen.</string>
+    <string name="quick_tutorial_to_go_back">Veeg vanaf de rand over het scherm naar beneden om terug te gaan.</string>
+    <string name="remote_connection_disabled_settings">Instellingen</string>
+    <string name="remote_connection_enabled_desc">Gear wordt op afstand verbonden als verbinding met Bluetooth wordt verbroken.</string>
+    <string name="requested">Aangevraagd</string>
+    <string name="reset_gear_legal_text1">Met Gear resetten kunt u op afstand alle gegevens op uw Gear verwijderen. Nadat gegevens zijn verwijderd, kunnen deze niet meer worden hersteld en kunt u Zoek Mijn Gear niet langer gebruiken.</string>
+    <string name="reset_gear_legal_text2">* Gear resetten kan enige tijd in beslag nemen of zelfs helemaal niet lukken afhankelijk van de status van uw Gear, mobiele apparaat of netwerkomgeving.</string>
+    <string name="restore_complete">Herstellen voltooid.</string>
+    <string name="restore_some_error">Herstellen mislukt. Probeer het opnieuw.</string>
+    <string name="restore_try_again">Opnieuw</string>
+    <string name="restore_watch_settings_content2">"Gebruik uw apparaatopslag om een back-up te maken van de inhoud van %1$s:
+%2$s
+
+Als u al eerder een back-up van deze inhoud hebt gemaakt, kunt u deze nu op %3$s herstellen.
+
+Afhankelijk van de omvang van het bestand kan dit enige tijd duren.
+
+Wijzig de back-upinstellingen in Instellingen."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">INSTELLINGEN</string>
+    <string name="retrieve_dialog_desc">Applicatielijst ophalen…</string>
+    <string name="sa_email">E-mail</string>
+    <string name="sa_error_0203_desc">Werk Samsung account handmatig bij om Verbinding op afstand in te schakelen.</string>
+    <string name="sa_error_0203_title">Samsung account bijwerken</string>
+    <string name="sa_error_0301_desc">Er heeft zich een netwerkfout voorgedaan bij het aanmelden bij uw Samsung account op uw mobiele apparaat.</string>
+    <string name="sa_error_0301_title">Kan functie niet inschakelen</string>
+    <string name="sa_error_0302_desc">Er heeft zich een netwerkfout voorgedaan bij het aanmelden bij uw Samsung account op uw mobiele apparaat.</string>
+    <string name="sa_error_0302_title">Kan functie niet inschakelen</string>
+    <string name="sa_error_0401_desc">Er is een fout opgetreden. Probeer het opnieuw.</string>
+    <string name="sa_error_0401_title">Fout</string>
+    <string name="safety_message_interval_10minutes">Om de 10 minuten</string>
+    <string name="safety_message_interval_20minutes">Om de 20 minuten</string>
+    <string name="samsung_apps_info">Applicaties die zijn gedownload via %1$s, kunnen worden verwijderd wanneer %2$s wordt verwijderd of applicatiegegevens worden gewist. U kunt verwijderde applicaties downloaden via uw inkoophistorie in %3$s.</string>
+    <string name="samsung_apps_notice">Melding</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Nu bijwerken</string>
+    <string name="screen_off">Scherm uit laten staan</string>
+    <string name="screen_off_desc">Ontvang op uw Gear meldingen, met uitzondering van waarschuwingen voor inkomende oproepen en alarmen, terwijl het scherm is uitgeschakeld.</string>
+    <string name="setting_Enable">Aanzetten</string>
+    <string name="setting_alpm_dialog_title">Let op</string>
+    <string name="setting_always_off">Altijd uit</string>
+    <string name="setting_always_on">Altijd aan</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Uitgeschakeld door beheerder, coderingsbeleid of opslag aanmeldingsgegevens.</string>
+    <string name="setting_backup_restore2">Back-up en herstel</string>
+    <string name="setting_basic">BASIS</string>
+    <string name="setting_connections">VERBINDINGEN</string>
+    <string name="setting_disable">Uitzetten</string>
+    <string name="setting_home_key_double_pressing">Tweemaal drukken op start</string>
+    <string name="setting_language_input">TAAL EN INVOER</string>
+    <string name="setting_manage_text_templates">Sjablonen bewerken</string>
+    <string name="setting_mobile_network">Mobiele netwerken</string>
+    <string name="setting_mobile_network_desc">Verbinding tussen de Gear en uw mobiele netwerk wordt verbroken, wanneer de Gear met uw mobiele apparaat wordt verbonden via Bluetooth. Wanneer de verbinding via Bluetooth wordt beëindigd, maakt de Gear automatisch opnieuw verbinding met uw mobiele netwerk.</string>
+    <string name="setting_multisim_popup_desc">Afhankelijk van uw serviceprovider kan voor het gebruiken van de functie Multi-SIM een afzonderlijk abonnement nodig zijn. Tik op OK om Multi-SIM in te schakelen.</string>
+    <string name="setting_opensource">Open bron-licentie</string>
+    <string name="setting_palm_motion">Bewegingen</string>
+    <string name="setting_palm_swipe">Vegen voor schermafb.</string>
+    <string name="setting_palmover_desc">Plaats uw hand op het scherm voor het dempen van inkomende oproepen en alarmen, of voor het pauzeren van media terwijl het scherm aan is.</string>
+    <string name="setting_palmswipe_desc">Leg het scherm vast door er met uw hele vinger over te vegen, terwijl u steeds het scherm aanraakt.</string>
+    <string name="setting_pause_mute">Dempen/pauzeren</string>
+    <string name="setting_power_key_double_pressing">Druk tweemaal op aan/uit</string>
+    <string name="setting_restoring">Herstellen…</string>
+    <string name="setting_safety_b1_desc">Wanneer uw Gear en mobiele apparaat verbinding hebben, kan SOS-berichten verzenden u in een noodgeval helpen. Het alarmeert uw contacten voor noodgevallen over uw situatie door SOS-berichten met uw locatie te verzenden. Het sturen van deze berichten kan extra kosten met zich meebrengen. Als u SOS-berichten verzenden wilt gebruiken tijdens een noodgeval, drukt u %d keer op de aan/uit-toets.</string>
+    <string name="setting_safety_b2_desc">Wanneer uw Gear en mobiele apparaat verbonden zijn, helpt SOS-berichten verzenden u in een noodgeval door een foto te nemen met de Gear-camera. Uw contacten voor alarmberichten worden gealarmeerd over uw situatie doordat ze SOS-berichten met deze foto en uw locatie ontvangen. Het eerste bericht bevat uw locatie en de foto. Vervolgens, na een interval, wordt een tweede bericht verzonden met alleen uw locatie. Voor het verzenden van deze berichten kunnen extra kosten gelden. Als u SOS-berichten verzenden wilt gebruiken tijdens een noodgeval, drukt u %d keer op de starttoets.</string>
+    <string name="setting_safety_b2_no_camera_desc">Wanneer uw Gear en mobiele apparaat verbinding hebben, kan SOS-berichten verzenden u in een noodgeval helpen. Het alarmeert uw contacten voor noodgevallen over uw situatie door SOS-berichten met uw locatie te verzenden. Het sturen van deze berichten kan extra kosten met zich meebrengen. Als u SOS-berichten verzenden wilt gebruiken tijdens een noodgeval, drukt u %d keer op de starttoets.</string>
+    <string name="setting_safety_b3_desc1">Druk 3 keer kort op de starttoets om een snelle melding te verzenden aan uw contacten noodgevallen als u zich in een noodsituatie bevindt.</string>
+    <string name="setting_safety_b3_desc2">Uw contacten voor noodgevallen ontvangen alarmberichten met informatie over uw huidige locatie.</string>
+    <string name="setting_safety_b3_desc3">Verbind uw mobiele apparaat met uw Gear om deze functie te gebruiken.</string>
+    <string name="setting_safety_list">Hulp in geval van nood</string>
+    <string name="setting_samsung_legal">Samsung juridisch</string>
+    <string name="setting_screen_lock">Automatisch vergrendelen</string>
+    <string name="setting_screen_lock_desc">Gebruik Gear om uw apparaat te vergrendelen.</string>
+    <string name="setting_screen_secutiry">SCHERMBEVEILIGING</string>
+    <string name="setting_send_emergency_picture">SOS-foto verzenden</string>
+    <string name="setting_send_emergency_recording">Geluidsopname verzenden</string>
+    <string name="setting_send_emergency_term_agree">Ik heb alle bovenstaande voorwaarden en bepalingen gelezen en ga hiermee akkoord.</string>
+    <string name="setting_send_help_message">SOS-berichten verzenden</string>
+    <string name="setting_send_terms_conditions">Algemene voorwaarden</string>
+    <string name="setting_smart_relay">Slim wisselen</string>
+    <string name="setting_smart_relay_desc">Geef inhoud van Gear weer op uw mobiele apparaat door uw mobiele apparaat op te pakken.</string>
+    <string name="setting_smart_toss">Slim wisselen</string>
+    <string name="setting_system">SYSTEEM</string>
+    <string name="setting_text_to_speech_engine">Tekst-naar-spraak-engine</string>
+    <string name="setting_textinput_emoticon">Emoticons</string>
+    <string name="setting_textinput_keyboard">Toetsenbord</string>
+    <string name="setting_textinput_list">Tekstinvoermethoden</string>
+    <string name="setting_textinput_templates">Sjablonen</string>
+    <string name="setting_try_it">Probeer het</string>
+    <string name="setting_wake_up">Wake-up gebaar</string>
+    <string name="setting_wake_up_desc">Wek Gear door de arm met Gear op te tillen.</string>
+    <string name="setting_wakeupgesture">"Als u Gear wilt wekken, tilt u de arm waar Gear om zit op en kijkt u naar het Gear-scherm.
+
+Deze functie werkt niet als u naar achter leunt of ligt, en verbruikt mogelijk meer batterijvoeding van Gear omdat de bewegingssensor altijd aan staat."</string>
+    <string name="setting_wakeupgesture_clock">Klok</string>
+    <string name="setting_wakeupgesture_previous">Laatst bekeken scherm</string>
+    <string name="setting_wakeupgesture_screen_on">Selecteer getoonde scherm</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Selecteer getoonde scherm</string>
+    <string name="settings">Instellingen</string>
+    <string name="settings_application_version">Applicatieversie</string>
+    <string name="settings_emergency_contact">Noodcontacten beheren</string>
+    <string name="settings_emergency_contact_empty">Er zijn geen contacten voor noodgevallen toegevoegd. Als u %s wilt inschakelen, voegt u contacten toe aan Contacten voor noodgevallen.</string>
+    <string name="settings_legal_information">Juridische informatie</string>
+    <string name="settings_message_interval">Interval bericht</string>
+    <string name="settings_not_set">Niet ingesteld</string>
+    <string name="settings_security">Beveiliging</string>
+    <string name="settings_security_update">Beveiligingsupdate</string>
+    <string name="settings_security_update_desc">Bescherm uw apparaat tegen schadelijke inhoud door de beveiliging en service te verbeteren.</string>
+    <string name="settings_unknown_sources_dialog">Als u installeert vanuit onbekende bronnen, kan dat schadelijk zijn voor uw apparaat en persoonlijke gegevens. Als u op OK tikt, gaat u ermee akkoord dat u als enige verantwoordelijk bent voor schade aan uw apparaat of verlies van gegevens ten gevolge van het gebruik van deze applicaties.</string>
+    <string name="settings_unknown_sources_subtitle">Installatie van apps uit onbekende bronnen toestaan.</string>
+    <string name="share_loc_disabled">Locatie delen uitgeschakeld.</string>
+    <string name="share_location_desc">Sta Zoek mijn Gear en Zoek mijn apparaat toe om locatiegegevens van uw Gear en uw mobiele apparaat te delen.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Ik ga ermee akkoord dat in noodsituaties Mobiele gegevens mogen worden gebruikt en MMS-berichten mogen worden verzonden. Ik begrijp dat dit extra kosten met zich mee kan brengen.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Help-berichten verzenden] is bedoeld om gebruikers te helpen hun bij benadering bepaalde locatie en visuele/auditieve omgeving naar de mobiele telefoon van een vooraf ingestelde contactpersoon te sturen. Het wordt uitsluitend ter beschikking gesteld voor uw gemak en is niet bedoeld als, noch mag het worden beschouwd als, een vervanging voor noodoproepen aan de autoriteiten.
+
+2. [Help-berichten verzenden] (de Services)werkt mogelijk niet altijd nauwkeurig, ononderbroken of vrij van fouten, afhankelijk van de omstandigheden zoals netwerkconnectiviteit, beschikbaarheid van GPS/ WiFi-informatie, status en/of staat van uw apparaat of het apparaat van uw gekozen contact, het batterijniveau en/of andere omstandigheden die buiten de controle van Samsung Electronics Co. , Ltd. ( Samsung, wij, ons, onze) liggen. De juistheid van de informatie over de locatie en tijdige levering van de Services kan worden beïnvloed door de omgeving en de toestand van uw apparaat en het apparaat van uw gekozen contactpersoon. Tenzij uitdrukkelijk anders vermeld of wettelijk verplicht, wijst Samsung elke garantie op een nauwkeurige, ononderbroken of foutloze werking van de Services van de hand. Houd er rekening mee dat uw contactpersoon een werkende mobiele telefoon moet bezitten en het apparaat moet zijn ingeschakeld en SMS-berichten moet kunnen ontvangen. Het overbrengen van uw omgevings- en locatiegegevens kan bij u in rekening worden gebracht. Raadpleeg hiervoorde door uw serviceprovider gespecificeerde tarieven, te vinden op de website van uw serviceprovider.
+
+Om de Services te laten functioneren zoals de bedoeling is, kan het noodzakelijk zijn dat de functie, na implementatie door u, automatisch de GPS- en WiFi-voorziening op uw apparaat inschakelt. U bevestigt en gaat akkoord met de automatische inschakeling van de GPS- en Wi-Fi-voorziening (indien nodig), zonder verdere kennisgeving aan u of toestemming door u. U kunt deze functionaliteit te allen tijde beëindigen.
+
+3. U bevestigt en gaat ermee akkoord geen misbruik van deze voorziening te maken of deze te gebruiken voor illegale doeleinden of om inbreuk te plegen op de privacy of persoonlijke of de eigendomsrechten van anderen. Gebruik deze functie alleen in overeenstemming met de wet en alleen in geval van nood. U gaat ermee akkoord dat u als enige verantwoordelijk voor het gebruik van deze functie bent. Samsung is niet aansprakelijk voor eventuele gevolgen die voortvloeien uit het gebruik van deze voorziening.
+
+4. De Services worden uitsluitend ter beschikking gesteld voor uw gemak en zijn niet bedoeld als, noch mogen ze worden beschouwd als, een vervanging van noodoproepen aan de autoriteiten. Tenzij uitdrukkelijk anders vermeld of wettelijk verplicht, wijst Samsung elke garantie op een nauwkeurige, ononderbroken of foutloze werking van de Services van de hand.
+
+5. AFWIJZING VAN GARANTIES. U BEGRIJPT EN STEMT ERMEE IN DAT:
+ 
+A. DE SERVICES WORDEN GELEVERD IN DE STAAT WAARIN ZE VERKEREN, MET ALLE EVENTUELE DEFECTEN, EN VOOR ZOVER ZE BESCHIKBAAR ZIJN. U DRAAGT DE RISICO'S VAN HET GEBRUIK ERVAN. SAMSUNG GEEFT GEEN EXPLICIETE GARANTIES OF VOORWAARDEN ONDER OF IN VERBAND MET DE SERVICES. SAMSUNG WIJST UITDRUKKELIJK ALLE GARANTIES VAN WELKE AARD DAN OOK, UITDRUKKELIJK OF IMPLICIET, VAN DE HAND, INCLUSIEF, MAAR NIET BEPERKT TOT ALLE IMPLICIETE GARANTIES VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL EN VERKLARING VAN NIET-INBREUK, EN ALLE IMPLICIETE GARANTIES VAN GEBRUIK OF PRESTATIES.
+
+B. ZONDER HET VOORGAANDE TE BEPERKEN, VERKLAART EN GARANDEERT SAMSUNG NIET DAT (i) DE SERVICES AAN UW EISEN VOLDOEN, (ii) DE SERVICES ONONDERBROKEN, TIJDIG, VEILIG OF VRIJ VAN FOUTEN ZIJN, (iii) DE VERKREGEN INHOUD VAN DE SERVICES OF EVENTUELE MELDINGEN OF DE FUNCTIONALITEIT VAN DE SERVICES BESCHIKBAAR, NAUWKEURIG, VOLLEDIG EN BETROUWBAAR ZIJN, (iv) DE KWALITEIT VAN DE SERVICES OF ENIGE INFORMATIE OF ANDER MATERIAAL DAT VIA DE SERVICES WORDT VERKREGEN AAN UW VERWACHTINGEN ZAL VOLDOEN, NOCH DAT (v) EVENTUELE FOUTEN OF BUGS IN DE SERVICES ZULLEN WORDEN GECORRIGEERD.
+
+6. BEPERKING VAN AANSPRAKELIJKHEID.
+
+A. U BEGRIJPT EN STEMT ER UITDRUKKELIJK MEE IN DAT SAMSUNG NIET AANSPRAKELIJK IS ONDER EEN NALATIGHEIDSTHEORIE VOOR ENIGE DIRECTE, INDIRECTE, INCIDENTELE, SPECIALE, PUNITIEVE OF GEVOLGSCHADE, EXEMPLAIR VERLIES, AANSPRAKELIJKHEID, SCHADE OF KOSTEN, MET INBEGRIP VAN MAAR NIET BEPERKT TOT WINSTDERVING, VERLIES VAN GEBRUIK OF ANDER VERLIES (ZELFS INDIEN REPARATIE, VERVANGING OF TERUGBETALING VAN DE SERVICES U NIET VOLLEDIG SCHADELOOSSTELT VOOR EVENTUELE VERLIEZEN OF SAMSUNG WIST OF HAD KUNNEN WETEN VAN DE MOGELIJKHEID VAN DERGELIJK VERLIES, DERGELIJKE AANSPRAKELIJKHEID, SCHADE OF KOSTEN), DIE DIRECT OF INDIRECT IS ONTSTAAN ALS GEVOLG VAN OF VOORTVLOEIEND UIT: (i) VORDERINGEN WEGENS CONTRACTBREUK, INBREUK OP DE GARANTIE, GARANDERING OF VOORWAARDE, STRIKTE AANSPRAKELIJKHEID, NALATIGHEID OF EEN ANDERE ONRECHTMATIGE DAAD VOOR ZOVER TOEGESTAAN ONDER HET TOEPASSELIJK RECHT; (ii) UW GEBRUIK OF UW ONVERMOGEN OM GEBRUIK TE KUNNEN MAKEN VAN DE SERVICES, (iii) DE KOSTEN VAN AANKOOP VAN VERVANGENDE SERVICES; (iv) ONBEVOEGDE TOEGANG TOT OF WIJZIGING VAN UW OVERDRACHTEN OF GEGEVENS; (v) UITSPRAKEN OF GEDRAG VAN EEN DERDE PARTIJ; (vi) DEZE OVEREENKOMST; (vii) LICHAMELIJK LETSEL OF SCHADE AAN EIGENDOMMEN (MET INBEGRIP VAN OVERLIJDEN), OF (viii) ANDERE AANGELEGENHEDEN MET BETREKKING TOT DE SERVICES OF DE INHOUD DIE VIA DE SERVICES WORDT VERSTREKT.
+ 
+B. UW ENIGE RECHTSMIDDEL BIJ EEN GESCHIL MET SAMSUNG MET BETREKKING TOT DEZE OVEREENKOMST OF DE SERVICES IS HET NIET LANGER GEBRUIKMAKEN VAN DE SERVICES.
+ 
+C. IN SOMMIGE RECHTSGEBIEDEN IS DE UITSLUITING VAN BEPAALDE GARANTIES OF DE BEPERKING OF UITSLUITING VAN AANSPRAKELIJKHEID VOOR INCIDENTELE SCHADE OF GEVOLGSCHADE NIET TOEGESTAAN. DAAROM IS EEN AANTAL VAN DE BOVENSTAANDE BEPERKINGEN VAN PARAGRAAF 5 EN 6 MOGELIJK NIET OP U VAN TOEPASSING.
+
+7. SCHADELOOSSTELLING. U gaat ermee akkoord om Samsung te vrijwaren van, schadeloos te stellen voor en te verdedigen tegen claims, acties, eisen, kosten, aansprakelijkheden, verliezen, schade, boetes en kosten (inclusief redelijke kosten voor juridische bijstand) die voortvloeien uit of verband houden met uw gebruik van de Services of het door u niet naleven van deze Overeenkomst. Indien u, ondanks de persoonlijke aard van de aan u onder deze voorwaarden en bepalingen verleende licenties, anderen toestaat gebruik te kunnen maken van de Services, of u anderen informatie verstrekt die u via de Services hebt ontvangen, stemt u ermee in deze personen op de hoogte te stellen van het bestaan en de bepalingen van deze voorwaarden, die voor hen bindend zijn, en u gaat ermee akkoord om Samsung te vrijwaren van, schadeloos te stellen voor en te verdedigen tegen alle claims, acties, eisen, kosten, verplichtingen, verliezen, schade, boetes en kosten (inclusief kosten voor juridische bijstand) die verband houden met het gebruik van de Services door deze personen.
+
+8. Overmacht. Samsung is niet aansprakelijk voor enige vertraging of fout in prestaties onder deze voorwaarden en bepalingen of onderbreking van de Services, die voortvloeien uit overmacht, besluiten van burgerlijke of militaire instanties, oorlog, terroristische aanslagen, arbeidsconflicten, materialen of diensten geleverd door derden, of welke oorzaak dan ook buiten de redelijke controle van Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Ik ga ermee akkoord dat %1$s mijn locatie met mijn %2$s contacten mag delen.</string>
+    <string name="smartrelay_not_show">Niet meer tonen</string>
+    <string name="software_update">Software-update</string>
+    <string name="ss_double_tap_any_screen">Tik met twee vingers twee keer op een scherm om de controls voor helderheid en volume en andere nuttige informatie weer te geven.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Oproepen doorschakelen naar uw Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Aanvragen…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Instellingen lezen…</string>
+    <string name="ss_loading_ing_abb">Laden…</string>
+    <string name="ss_mobile_data_is_disabled">Mobiele gegevens uitgeschakeld. Maak in plaats daarvan verbinding via een WLAN-netwerk of schakel mobiele gegevens in en probeer het opnieuw.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobiele gegevens uitgeschakeld. Maak in plaats daarvan verbinding via Wi-Fi-netwerk of schakel mobiele gegevens in en probeer het opnieuw.</string>
+    <string name="ss_no_network_connection">Geen netwerkverbinding</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Gebruiksaanwijzing</string>
+    <string name="str_no">Nee, bedankt</string>
+    <string name="str_yes">Ja</string>
+    <string name="stub_list_install">Installeren</string>
+    <string name="sw_eula_condition">Ik begrijp de algemene voorwaarden hierboven en ga ermee akkoord.</string>
+    <string name="sw_eula_desc2">U stemt ermee in dat u Samsung het foutenlogbestand stuurt, als Softwareupdate mislukt op uw apparaat. Dit helpt Samsung om het Softwareupdateproces van Samsung te verbeteren en heeft als voordeel voor u dat u uw apparaat op de juiste manier kunt bijwerken.</string>
+    <string name="tab_stub_list">Aanbevolen</string>
+    <string name="talkback_download">Downloaden</string>
+    <string name="talkback_setting">Instelling</string>
+    <string name="the_samsung_gear_application">de Samsung Gear-applicatie</string>
+    <string name="threeg_connection">Via Verbinding op afstand</string>
+    <string name="threeg_connection_subtitle">Maak op afstand verbinding met uw Gear, en gebruik Mobiele gegevens of Wi-Fi samen met uw Samsung account.</string>
+    <string name="threeg_connection_subtitle_chn">Maak op afstand verbinding met uw Gear, en gebruik Mobiele gegevens of WLAN samen met uw Samsung account.</string>
+    <string name="title_activity_clock_delete">Verwijderen</string>
+    <string name="title_activity_connect_popup">Verbinden</string>
+    <string name="title_activity_paired_watch">Gekoppeld apparaat</string>
+    <string name="title_alertdialog_device_name_popup">Naam %s wijzigen</string>
+    <string name="title_alertdialog_disconnect_popup">Verbreek verbinding</string>
+    <string name="title_dialog_pm_error">Waarschuwing</string>
+    <string name="title_dialog_uninstall">Verwijderen</string>
+    <string name="title_eula">Juridische kennisgevingen</string>
+    <string name="title_findmywatch_connect2">Zoek mijn Gear</string>
+    <string name="title_findmywatch_finding">Zoeken…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s verbinden met %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Als u uw %1$s via Bluetooth verbindt met uw %2$s, wordt de verbinding van uw %3$s met uw mobiele apparaat tijdelijk verbroken. Deze verbinding wordt binnenkort hervat en uw %4$s wordt vervolgens verbonden met zowel uw %5$s als uw mobiele apparaat.</string>
+    <string name="tt_install_voice_data">TTS-spraakgegevens installeren</string>
+    <string name="tt_install_voice_data_required">Installeer extra tekst-naar-spraak-talen op uw Gear.</string>
+    <string name="tt_language">Taal</string>
+    <string name="tt_send_help_message">SOS-berichten verzenden</string>
+    <string name="tt_tts_language_guide">Uw tekst-naar-spraak taal is de taal die u hebt ingesteld in uw Gear-instellingen. Als uw taal niet wordt ondersteund door de tekst-naar-spraak engine, wordt Engels (Groot-Brittannië) gebruikt.</string>
+    <string name="unable_to_connect_popup_message">Kan uw Gear niet verbinden met uw mobiele apparaat. Probeer het later opnieuw.</string>
+    <string name="unable_to_connect_popup_title">Verbinding mislukt</string>
+    <string name="unable_to_lock_gear">Kan Gear niet vergrendelen</string>
+    <string name="unable_to_reset_gear">Kan Gear niet resetten</string>
+    <string name="unabled_health">Kan deze applicatie niet openen omdat deze is uitgeschakeld.</string>
+    <string name="uninstall_applications">Applicaties verwijderen</string>
+    <string name="unknown_sources_msg_new">%1$s wordt niet geïnstalleerd via %2$s. Uw apparaat en persoonlijke gegevens zijn kwetsbaarder voor aanvallen door applicaties uit onbekende bronnen. U gaat ermee akkoord dat u als enige verantwoordelijk bent voor schade aan uw apparaat of verlies van gegevens ten gevolge van het gebruik van deze applicaties. Als u altijd applicaties uit onbekende bronnen wilt installeren, gaat u naar %3$s > %4$s > %5$s, en schakelt u %6$s in. Tik op OK om %7$s te installeren.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s is niet van %2$s en omvat geen app voor uw Gear. Uw apparaat en gegevens zijn kwetsbaarder voor aanvallen van apps uit onbekende bronnen. De installatie wordt geannuleerd en %3$s wordt verwijderd van uw telefoon.</string>
+    <string name="unknown_sources_title">Onbekende bronnen</string>
+    <string name="update_button">Downloaden</string>
+    <string name="update_summary">Controleren op updates</string>
+    <string name="update_the_latest_version">Update beschikbaar</string>
+    <string name="voice_control_subtitle">Zeg “Answer” of ”Reject” in de pauzes terwijl uw Gear niet overgaat of trilt, om oproepen aan te nemen of te weigeren.</string>
+    <string name="voicememo_link1">Algemene voorwaarden van Nuance</string>
+    <string name="voicememo_link2">Samsung ﻿Privacybeleid</string>
+    <string name="voicememo_link3">Nuance Privacybeleid</string>
+    <string name="watchapp_all">Apps</string>
+    <string name="watchapp_noapps">Geen apps</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Vernieuwen…</string>
+    <string name="wifi_only">Alleen Wi-Fi</string>
+    <string name="wifi_only_chn">Alleen WLAN</string>
+    <string name="wifi_only_summary">Updates alleen downloaden bij verbinding met een Wi-Fi-netwerk.</string>
+    <string name="wifi_only_summary_chn">Alleen downloaden bij verbinding via WLAN.</string>
+    <string name="email_sanitize">De inhoud van deze e-mail kan om veiligheidsredenen niet op de Gear worden weergegeven. Bekijk de details van deze e-mail op uw mobiele apparaat.</string>
+    <string name="knox_sanitize">Tik hier om de KNOX-stand te starten.</string>
+</resources>

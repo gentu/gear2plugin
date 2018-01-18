@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Počas hovoru nie je k dispozícii.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Kontextové okno na celej obrazovke</string>
+    <string name="alert_mini">Mini kontextové okno</string>
+    <string name="alertdialog_backkey_popup_content">Varovanie</string>
+    <string name="alertdialog_disconnect_popup_description">Gear sa odpojí. Na opätovné pripojenie použite Bluetooth.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Týmto sa ukončí pripojenie k zariadeniu %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Zariadenie %s sa odpojí od mobilného zariadenia. Pri nasledujúcom prepojení týchto zariadení musíte použiť Bluetooth. Následne môžete vykonať všetky pripojenia cez Pripojenie na diaľku.</string>
+    <string name="alertdialog_uninstall_popup_content">Odinštalovať</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">Aplikácia %1$s nie je nainštalovaná vo vašom mobilnom zariadení. Ak chcete použiť aplikáciu %2$s v hodinkách Gear, stiahnite si aplikáciu %1$s do mobilného zariadenia.</string>
+    <string name="attention_popup_title">Pozor</string>
+    <string name="auto_call_forwarding">Autom. presmerov. hovorov</string>
+    <string name="auto_call_forwarding_att">Aut. presmer. hovorov do Gearu</string>
+    <string name="auto_call_forwarding_desc">Kým bude zariadenie Gear odpojené od mobilného zariadenia, zapne sa automatické presmerovanie hovorov. Táto funkcia presmeruje prichádzajúce hovory z mobilného zariadenia do zariadenia Gear, až kým sa tieto zariadenia znova nespoja.</string>
+    <string name="auto_update">Automatická aktualizácia</string>
+    <string name="auto_update_summary">Automaticky zisťovať aktualizácie.</string>
+    <string name="backing_up">Zálohovanie…</string>
+    <string name="backup_complete">Zálohovanie je dokončené.</string>
+    <string name="bnr_backup">Zálohovanie…</string>
+    <string name="bnr_bakcup_title">Zálohovanie</string>
+    <string name="bnr_cancel">Zrušiť</string>
+    <string name="bnr_canel">Zrušiť</string>
+    <string name="bnr_error_occurred">Vyskytla sa chyba</string>
+    <string name="bnr_except">%1$s (okrem %2$s)</string>
+    <string name="bnr_except_autolock">Automatický zámok</string>
+    <string name="bnr_except_remoteconnection">Pripojenie na diaľku</string>
+    <string name="bnr_except_texttemplate">Textové šablóny</string>
+    <string name="bnr_next">Ďalší</string>
+    <string name="bnr_no">Nie</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Ak sa chcete pripojiť k novému zariadeniu, obnovia sa predvolené nastavenia hodiniek Gear od výrobcu.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Hodinky Gear nie sú úplne nastavené. Sprievodca inštaláciou je momentálne otvorený v hodinkách Gear, ale pred pripojením k hodinkám Gear musíte otvoriť sprievodcu inštaláciou aj v aplikácii Gear Manager v tomto zariadení.</string>
+    <string name="bnr_reset_initialization">Oznámenie</string>
+    <string name="bnr_restore">Obnoviť</string>
+    <string name="bnr_restored">Údaje sú obnovené.</string>
+    <string name="bnr_setupwizard_title2">Zálohovanie a obnovenie</string>
+    <string name="bnr_yes">Áno</string>
+    <string name="bt_connected">Pripojené</string>
+    <string name="bt_disconnected">Odpojené</string>
+    <string name="bt_unpaired">Nespárované</string>
+    <string name="button_finish">Dokončiť</string>
+    <string name="button_restore">Obnoviť</string>
+    <string name="call">HOVOR</string>
+    <string name="call_check_gear_status_when_cfwd">Funkcie presmerovania hovorov Z mobilu do zariadenia Gear a Zo zariadenia Gear do mobilu nemôžu byť zapnuté zároveň.</string>
+    <string name="call_dualsim1">Karta SIM 1</string>
+    <string name="call_dualsim1sim2">Obe karty SIM</string>
+    <string name="call_dualsim2">Karta SIM 2</string>
+    <string name="call_forwarding">Presmerovanie hovorov</string>
+    <string name="call_forwarding_agree">Súhlasím.</string>
+    <string name="call_forwarding_desc">Prichádzajúce hovory sa presmerujú z mobilného zariadenia do zariadenia Gear.</string>
+    <string name="call_forwarding_desc_vzw">Neodpovedané prichádzajúce hovory sa presmerujú z telefónu do zariadenia Gear.</string>
+    <string name="call_forwarding_disable_msg">Odoslala sa žiadosť o vypnutie presmerovania hovorov z mobilného zariadenia do zariadenia Gear. Na výsledky môže mať vplyv stav mobilnej siete a mobilného zariadenia.</string>
+    <string name="call_forwarding_enable_msg">Odoslala sa žiadosť o zapnutie presmerovania hovorov z mobilného zariadenia do zariadenia Gear. Na výsledky môže mať vplyv stav mobilnej siete a mobilného zariadenia.</string>
+    <string name="call_forwarding_for_att_msg">"Po odpojení zariadenia Gear od smartfónu budú hovory prichádzajúce do mobilného zariadenia automaticky presmerované do zariadenia Gear.
+- Smartfón niekoľkokrát zazvoní a hovor sa potom presmeruje do zariadenia Gear.
+- Ak neprijmete hovor pomocou zariadenia Gear, volajúci môže zanechať odkaz, ktorý si môžete vypočuť v zariadení Gear.
+Chcete teraz zapnúť automatické presmerovanie hovorov?"</string>
+    <string name="call_forwarding_notify_msg">Presmerovanie hovorov z mobilného zariadenia do zariadenia Gear je momentálne zapnuté. Hovory prichádzajúce do mobilného zariadenia sa presmerujú do zariadenia Gear. Ak nemáte zariadenie Gear so sebou, prejdite do menu Nastavenia a vypnite možnosť Automatické presmerovanie hovorov, aby ste nezmeškali žiadny hovor.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Vypína sa presmer. hlasových hovorov…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Zapína sa presmer. hlasových hovorov…</string>
+    <string name="call_no_gear_number">Žiadne čísla</string>
+    <string name="call_select_dualsim_title">Vyberte kartu SIM</string>
+    <string name="call_voice_control">Hlasové ovládanie</string>
+    <string name="callforwarding_help_des1">Zariadenie, do ktorého budú presmerované hovory, sa bude prepínať automaticky v závislosti od toho, či sú zariadenia prepojené cez Bluetooth alebo Pripojenie na diaľku.</string>
+    <string name="callforwarding_help_des2">Kým budete v pohybe s nasadeným zariadením Gear, ktoré bude prepojené na diaľku s mobilným zariadením, hovory smerované do mobilného zariadenia budete prijímať v zariadení Gear.</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="cf_activated">Aktivované</string>
+    <string name="cf_deactivate_failed">Nepodarilo sa vypnúť presmerovanie hovorov.</string>
+    <string name="cf_deactivated">Vypnuté</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Použili sa nové nastavenia hodín prostredníctvom zariadenia Gear.</string>
+    <string name="clocks_download_more_clocks">Stiahnuť ďalšie hodiny</string>
+    <string name="clocks_noti_uninstall_clock">%s sa odinštaluje.</string>
+    <string name="clocks_noti_uninstall_idle_clock">Aplikácia %1$s sa odinštaluje a aplikácia %2$s sa nastaví ako predvolené hodiny.</string>
+    <string name="clocks_title_basic_clocks">ZÁKLADNÉ HODINY</string>
+    <string name="clocks_title_downloaded_clocks">STIAHNUTÉ HODINY</string>
+    <string name="clocks_title_style_clocks">ŠTÝLOVÉ HODINY</string>
+    <string name="clocks_uninstalled">Odinštalované.</string>
+    <string name="clocks_uninstalling">Odinštaluje sa…</string>
+    <string name="close">Zavrieť</string>
+    <string name="closing_samsung_gear_message">Zariadenie Gear sa resetovalo. Aplikácia Samsung Gear sa zakrátko zavrie.</string>
+    <string name="closing_samsung_gear_message_jpn">Zariadenie Gear sa resetovalo. Aplikácia Gear sa zakrátko ukončí.</string>
+    <string name="closing_samsung_gear_title">Zavretie aplikácie Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Zavretie aplikácie Gear</string>
+    <string name="cloud_backup_no_information">Nikdy</string>
+    <string name="cloud_backup_restore_backup_now">Zálohovať údaje</string>
+    <string name="cloud_backup_restore_restore_now">Obnoviť údaje</string>
+    <string name="cmw_agree">Súhlasím</string>
+    <string name="cmw_eula_agree">Rozumiem ustanoveniam a podmienkam uvedeným vyššie a súhlasím s nimi.</string>
+    <string name="cmw_for_setting">Lokalizačné služby boli vypnuté. Prejdite na Nastavenia.</string>
+    <string name="cmw_high_accuracy_dialog_message">Na dosiahnutie najrýchlejšieho a najpresnejšieho zisťovania polohy vyberte položku Vysoká presnosť v menu Umiestnenie > Režim.</string>
+    <string name="cmw_high_accuracy_dialog_title">Vyberte vysokú presnosť</string>
+    <string name="cmw_legal_content">Zapnutím funkcie „Zdieľanie polohy“ súhlasíte s prenosom údajov o polohe z vášho mobilného telefónu a/alebo zariadenia Gear prostredníctvom servera spoločnosti Samsung na účel poskytovania služby Hľadať môj Gear a Vyhľadať moje zariadenie. Na serveri spoločnosti Samsung sa neukladajú žiadne údaje ani informácie o polohe vášho zariadenia.</string>
+    <string name="cmw_legal_content1">Zapnutím funkcie „%1$s &amp; %2$s“ súhlasíte s prenosom údajov o polohe z vášho mobilného telefónu a/alebo zariadenia Gear prostredníctvom servera spoločnosti Samsung na účel poskytovania služby %1$s &amp; %2$s. Na serveri spoločnosti Samsung sa neukladajú žiadne údaje ani informácie o polohe vášho zariadenia.</string>
+    <string name="cmw_legal_content1_no_gps">Zapnutím funkcie „%1$s &amp; %2$s“ súhlasíte s prenosom údajov o polohe z vášho mobilného telefónu prostredníctvom servera spoločnosti Samsung na účel poskytovania služby %2$s. Na serveri spoločnosti Samsung sa neukladajú žiadne údaje ani informácie o polohe vášho zariadenia.</string>
+    <string name="cmw_legal_content_2">Pravidlá ochrany osobných údajov spoločnosti Samsung</string>
+    <string name="cmw_legal_title">Právne upozornenia</string>
+    <string name="cmw_location">Zapnúť lokalizačné služby</string>
+    <string name="cmw_show_on_map">Zobraziť na mape</string>
+    <string name="color_black">Čierna</string>
+    <string name="color_blue">Modrá</string>
+    <string name="color_brown">Hnedá</string>
+    <string name="color_gray">Sivá</string>
+    <string name="color_green">Zelená</string>
+    <string name="color_light_sky_blue">Svetlá nebová modrá</string>
+    <string name="color_medium_purple">Stredná fialová</string>
+    <string name="color_orange">Oranžová</string>
+    <string name="color_pink">Ružová</string>
+    <string name="color_purple">Fialová</string>
+    <string name="color_red">Červená</string>
+    <string name="color_spring_green">Jarná zelená</string>
+    <string name="common_none">Žiadny</string>
+    <string name="common_off">Vyp.</string>
+    <string name="common_on">Zap.</string>
+    <string name="common_recent_apps">Posledné ap.</string>
+    <string name="connect_popup_content">Pripája sa k %s…</string>
+    <string name="connected_by_trasport_BT">Pripojené cez Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Pripojené na diaľku</string>
+    <string name="connecting_content">Pripája sa k hodinkám Gear</string>
+    <string name="connecting_doc">Po pripojení k zariadeniu %1$s môžete zmeniť jeho nastavenia a nainštalovať doňho aplikácie pomocou aplikácie %2$s.</string>
+    <string name="connecting_popup_message">Pripája sa k hodinkám Gear…</string>
+    <string name="connecting_popup_title">Pripojiť k hodinkám Gear</string>
+    <string name="connecting_to_gear_ing">Pripája sa k hodinkám Gear…</string>
+    <string name="connectingdoc">Po pripojení k hodinkám Gear môžete pomocou aplikácie Gear Manager meniť ich nastavenia a inštalovať do nich aplikácie.</string>
+    <string name="connection_error_dialog_message">Vaše zariadenie nebolo pripojené. Skúsi sa pripojiť znova.</string>
+    <string name="dialog_check_phone_number_msg1">Skontrolujte správnosť nasledujúcich informácií:</string>
+    <string name="dialog_check_phone_number_msg2">Telefónne číslo mobilu: %s</string>
+    <string name="dialog_check_phone_number_msg3">Telefónne číslo zariadenia Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Ťuknutím na tlačidlo OK potvrdíte a zapnete automatické presmerovanie hovorov.</string>
+    <string name="dialog_enable_remote_connection_desc">Ak chcete zapnúť Automatické presmerovanie hovorov, zapnite Pripojenie na diaľku a potom to skúste znova.</string>
+    <string name="dialog_enable_remote_connection_title">Zapnutie funkcie Pripojenie na diaľku</string>
+    <string name="dialog_permission_message">%s sa nedá použiť. Ťuknite na položku NASTAVENIA, prejdite do menu Informácie o aplikácii > Povolenia a potom udeľte nasledujúce povolenia a skúste to znova.</string>
+    <string name="dialog_popup_button_cancel">Zrušiť</string>
+    <string name="dialog_reverse_msg">V závislosti od operátora môže používanie tejto funkcie mobilným zariadením a zariadením Gear vyžadovať samostatné predplatné. To môže mať za následok ďalšie poplatky.</string>
+    <string name="dialog_set_phone_number_msg">Ak chcete zapnúť Automatické presmerovanie hovorov, nastavte telefónne čísla zariadení, do ktorých a z ktorých chcete presmerovať prichádzajúce hovory.</string>
+    <string name="dialog_set_phone_number_title">Zapnutie automatického presmerovania hovorov</string>
+    <string name="disable_loc_text">Zdieľanie polohy sa vypne. Nebudete môcť používať lokalizačné údaje na vyhľadanie zariadenia Gear alebo mobilného zariadenia prostredníctvom funkcie Hľadať moje zariadenie Gear alebo Hľadať moje zariadenie.</string>
+    <string name="disable_loc_text_no_gps">Zdieľanie polohy sa vypne. Nebudete môcť používať lokalizačné údaje na vyhľadanie mobilného zariadenia prostredníctvom funkcie Hľadať moje zariadenie.</string>
+    <string name="disable_remote_connection">Vypnúť pripoj. na diaľku</string>
+    <string name="disable_remote_connection_fmm_fmd">Hľadať moje zariadenie Gear a Hľadať moje zariadenie</string>
+    <string name="disable_remote_connection_receiving_blocked">Prijímanie správ, e-mailov a oznámení z mobilného zariadenia</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Prijímanie e-mailov a oznámení z mobilného zariadenia</string>
+    <string name="disable_remote_connection_warning">Pripojenie na diaľku sa vypne. Kým sa zariadenie Gear nepripojí znova k mobilnému zariadeniu cez Bluetooth, nebudú k dispozícii nasledujúce funkcie:</string>
+    <string name="disable_share_location">Vypnutie zdieľania polohy</string>
+    <string name="disconnect_popup_content">Odpája sa %s…</string>
+    <string name="do_not_show_again">Nezobrazovať znova</string>
+    <string name="enable_auto_call_forwarding_msg">Kým je zariadenie Gear odpojené, prichádzajúce hovory sa autom. presmerujú z mobil. zariadenia do zariad. Gear. V závislosti od operátora to môže mať za následok ďalšie poplatky. Ťuknutím na tlačidlo OK zapnete autom. presmerovanie hovorov.</string>
+    <string name="enable_auto_call_forwarding_title">Zapnúť aut. presmer. hovorov</string>
+    <string name="enable_more_notifications_enable">Povoliť</string>
+    <string name="enable_notification_access">Povolenie prístupu k oznámeniam</string>
+    <string name="enable_notification_access_desc">"Táto funkcia bude môcť čítať všetky vaše prijaté oznámenia, ktoré môžu obsahovať osobné údaje, ako napríklad kontakty a správy odoslané pre vás. Tiež bude môcť odmietnuť tieto oznámenia alebo vybrať akcie súvisiace s nimi.
+Ak chcete prijímať oznámenia v zariadení Gear, ťuknite na tlačidlo Zapnúť a potom zapnite funkciu %s."</string>
+    <string name="enable_share_location">Zapnúť zdieľanie polohy</string>
+    <string name="enabled_loc">Zdieľanie polohy je zapnuté.</string>
+    <string name="error_enter_device_name">Zadajte názov zariadenia.</string>
+    <string name="error_occurred">Vyskytla sa chyba.</string>
+    <string name="eula_i_agree">Súhlasím.</string>
+    <string name="failed_tshare_msg">"Nedá sa zapnúť
+presmerov. hovorov.
+T share neodpovedá."</string>
+    <string name="find_my_device">Hľadať mobil</string>
+    <string name="find_my_gear">Hľadať Gear</string>
+    <string name="find_watch_btn_start">Štart</string>
+    <string name="find_watch_btn_stop">Stop</string>
+    <string name="find_watch_off">Ak chcete vyhľadať vaše hodinky Gear, ťuknite na tlačidlo Štart. Hodinky Gear budú prehrávať zvuk a zapne sa ich obrazovka.</string>
+    <string name="find_watch_on">Ak chcete zastaviť vyhľadávanie hodiniek Gear, ťuknite na tlačidlo Stop. Hodinky Gear prestanú prehrávať zvuk a vypne sa ich obrazovka.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s sa odinštaluje a pre %2$s sa použije predvolené písmo.</string>
+    <string name="force_wifi_direct_msg">Aplikácia sa nainštaluje cez Wi-Fi Direct. Tým sa ukončí aktuálne pripojenie Wi-Fi Direct. Ak zrušíte inštaláciu tejto aplikácie, pred jej opätovným inštalovaním si ju budete musieť znova stiahnuť.</string>
+    <string name="force_wifi_direct_title">Inštalovať</string>
+    <string name="force_wifi_install">Inštalovať</string>
+    <string name="gear2_backup_confirm_text">Ak teraz zálohujete údaje, aktuálne záložné údaje hodiniek Gear v mobilnom zariadení sa nahradia najnovšími údajmi z hodiniek Gear.</string>
+    <string name="gear2_restore_confirm_text">Ak obnovíte údaje, aktuálne údaje v hodinkách Gear sa odstránia a nahradia sa aktuálnymi záložnými údajmi hodiniek Gear.</string>
+    <string name="gear2_text">"Zálohujte obsah zariadenia %1$s do úložného priestoru vášho zariadenia:
+%2$s
+
+Ak ste už tento obsah zálohovali, môžete ho teraz obnoviť do zariadenia %3$s.
+
+V závislosti od veľkosti súboru to môže chvíľu trvať."</string>
+    <string name="gear2_text_import3">Nastavenia</string>
+    <string name="gear_bnr_desc">"Do úložiska mobilného zariadenia môžete zálohovať nasledujúce údaje zariadenia %1$s: %2$s
+
+Ak ste už predtým zálohovali údaje vášho zariadenia %3$s, môžete ich teraz obnoviť do zariadenia %4$s.
+
+Môže to trvať určitú dobu v závislosti od veľkosti súborov."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Mobilné zariadenie teraz vyhľadáva zariadenie Gear. Bude to trvať niekoľko minút. Ak je zariadenie Gear v interiéri, môže byť problém ho vyhľadať.</string>
+    <string name="gear_location_popup_title">Lokalizovať Gear</string>
+    <string name="gear_location_text">Umiestnenie hodiniek Gear</string>
+    <string name="gear_lock_success">Zariadenie Gear je zamknuté.</string>
+    <string name="gear_lock_text">Zamknúť Gear</string>
+    <string name="gear_locked">Zariadenie Gear je zamknuté</string>
+    <string name="gear_locked_text1">Zariadenie Gear je zamknuté. Ak ho chcete odomknúť, pripojte zariadenie Gear k mobilnému zariadeniu cez Bluetooth.</string>
+    <string name="gear_phone_number">Tel. číslo v Gear</string>
+    <string name="gear_phone_number_popup_desc">Všetky hovory prichádzajúce do mobilného zariadenia sa presmerujú do zariadenia %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Všetky neodpovedané hovory prichádzajúce do mobilného zariadenia sa presmerujú do zariadenia %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Ak chcete zamknúť zariadenie Gear, musíte najprv zapnúť Pripojenie na diaľku.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Ak chcete resetovať zariadenie Gear, musíte najprv zapnúť Pripojenie na diaľku.</string>
+    <string name="gear_reset_text">Resetovať Gear</string>
+    <string name="gear_to_mobile">Z Gear do mobilu</string>
+    <string name="gear_to_mobile_des">Hovory smerované do zariadenia Gear budete prijímať v mobilnom zariadení, kým budú tieto dve zariadenia prepojené cez Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Nepodarilo sa nájsť umiestnenie. Skúste to znova neskôr.</string>
+    <string name="gear_unable_to_locate_title">Gear sa nedá nájsť</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Tapety</string>
+    <string name="home_bg_color">Farby</string>
+    <string name="home_bg_colors_title">DOSTUPNÉ FARBY</string>
+    <string name="home_bg_delete_actionbar_selected">Vybraté</string>
+    <string name="home_bg_delete_dialog_msg">Vykoná sa odstránenie %d tapiet z aplikácie Gear Manager a hodiniek Gear.</string>
+    <string name="home_bg_delete_select_all">Vybrať všetky</string>
+    <string name="home_bg_max_more_image_toast">Dosiahol sa maximálny počet tapiet (%d).</string>
+    <string name="home_bg_more_images">Ďalšie obrázky</string>
+    <string name="home_bg_popup_wallpaper_msg">Sťahujú sa tapety zariadenia Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">Sťahovanie tapiet</string>
+    <string name="home_bg_toast_saved">Uložené.</string>
+    <string name="home_bg_wallpaper">Tapeta</string>
+    <string name="home_bg_wallpapers_title">DOSTUPNÉ TAPETY</string>
+    <string name="homelayout_apps">Aplikácie</string>
+    <string name="incoming_calls_title">Prichádzajúce hovory</string>
+    <string name="info_build_number">Verzia softvéru</string>
+    <string name="info_model_number">Číslo modelu</string>
+    <string name="info_software_update">Aktualiz. softvéru</string>
+    <string name="information_provision_agreement">Zmluva o poskytovaní informácií</string>
+    <string name="information_provision_agreement_mgs">"Služba Hlasová pripomienka používa technológie rozpoznávania hlasu od iného poskytovateľa, ktorým je spoločnosť Nuance Communications, Inc. Z tohto dôvodu sa vaše hlasové informácie nevyhnutne ukladajú na server prevádzkovaný spoločnosťou Nuance (v Spojených štátoch amerických) a používanie služby Hlasová pripomienka vyžaduje, aby ste odsúhlasili ustanovenia a podmienky poskytovania služby Nuance.
+ Spoločnosť Nuance si vyhradzuje právo používať váš hlasový vstup na účely zlepšenia služieb a vývoja technológií. Spoločnosť Nuance si tiež vyhradzuje právo poskytovať vyššie uvedený hlasový vstup partnerom spoločnosti Nuance. Informácie o vašom hlasovom vstupe budú uložené dovtedy, kým sa nesplnia vyššie uvedené ciele. Informácie o službe Hlasová pripomienka si môžete prečítať v politike ochrany osobných údajov spoločnosti Samsung a v politike ochrany osobných údajov spoločnosti Nuance.
+ Ak nesúhlasíte s poskytovaním vašich informácií, ako je to popísané vyššie, službu Hlasová pripomienka nemôžete používať."</string>
+    <string name="init_manage_notifications_desc">Vyberte aplikácie, z ktorých chcete prijímať oznámenia v zariadení %1$s. Zrušte výber aplikácií, z ktorých nechcete prijímať oznámenia, aby sa šetrila energia batérie zariadenia %2$s.</string>
+    <string name="install_in_progress">Vykonávanie…</string>
+    <string name="invalid_rename_character">Zadali ste neplatný znak. Skúste to znova.</string>
+    <string name="latest_version">Nainštalovaná najnovšia verzia</string>
+    <string name="latitude">Zemepisná šírka</string>
+    <string name="limit_notification_desc">Počas používania mobilného zariadenia sa bude blokovať zobrazovanie upozornení na zariadení Gear.</string>
+    <string name="limit_notification_dialog_desc">Možnosť Obmedziť oznámenia na hodinkách Gear sa nedá zapnúť. V mobilnom zariadení nie je nastavený žiadny zámok obrazovky.</string>
+    <string name="limit_notification_title">Obmedziť oznámenia</string>
+    <string name="location_info_title">Zdieľať umiestnenie</string>
+    <string name="lock_gear_legal_text1">Pomocou funkcie „Uzamknúť hodinky Gear“ môžete na diaľku uzamknúť svoje hodinky Gear, aby ste zabránili neoprávnenému používaniu. Hodinky Gear môžete odomknúť opätovným pripojením k mobilnému zariadeniu.</string>
+    <string name="lock_gear_legal_text2">* Funkcia „Uzamknúť hodinky Gear“ môže nejaký čas trvať alebo dokonca zlyhať v závislosti od stavu vašich hodiniek Gear, mobilného zariadenia alebo siete.</string>
+    <string name="lock_gear_text">Zariadenie Gear sa nedá zamknúť, kým je mobilné zariadenie prepojené so zariadením Gear cez Bluetooth.</string>
+    <string name="login_to_samsung_account">Prihl. sa do konta Samsung</string>
+    <string name="login_to_samsung_account_desc">Ak chcete zapnúť možnosť Pripojenie na diaľku v hodinkách Gear, prihláste sa do konta Samsung.</string>
+    <string name="login_to_samsung_account_full_desc">"Pred použitím nasledujúcich funkcií sa musíte prihlásiť do konta Samsung, aj keď zariad. nie je pripojené cez Bluetooth:
+- prijímanie oznámení,
+- používanie aplikácií cez Pripojenie na diaľku.
+Používanie pripojenia na diaľku môže spôsobiť ďalšie poplatky."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Keď nie ste pripojení k telefónu cez Bluetooth, konto Samsung vám umožní vykonávať cez mobilné dátové pripojenie nasledujúce činnosti:
+- Prijímanie správ, e-mailov a iných oznámení
+- Používanie aplikácií v zariadení Gear, ktoré potrebujú pripojenie k telefónu cez Pripojenie na diaľku.
+
+Pripojenie na diaľku prostredníctvom vášho konta Samsung používa váš dátový program."</string>
+    <string name="longitude">Zemepisná dĺžka</string>
+    <string name="main_bt_unpaired">Nespárované</string>
+    <string name="main_disconnected">Odpojené</string>
+    <string name="manage_applications">Spravovať aplikácie</string>
+    <string name="manage_notifications">Spravovať oznámenia</string>
+    <string name="manual_call_forwarding_for_att_msg">"Hovory prijaté do smartfónu môžete presmerovať do zariadenia Gear.
+- Smartfón niekoľkokrát zazvoní a hovor sa potom presmeruje do zariadenia Gear.
+- Ak neprijmete hovor pomocou zariadenia Gear, volajúci môže zanechať odkaz, ktorý si môžete vypočuť v zariadení Gear.
+Chcete teraz zapnúť presmerovanie hovorov?"</string>
+    <string name="manual_call_forwarding_popup_desc">Presmerovanie hovorov je služba siete, ktorá vykonáva presmerovanie prichádzajúcich hovorov pre %s na zadané číslo. V závislosti od operátora môže používanie tejto funkcie zariadením Gear vyžadovať predplatné. To môže mať za následok ďalšie poplatky.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobilné zariadenie</string>
+    <string name="masterapp_not_installed">Aplikácia %1$s nie je nainštalovaná vo vašom mobilnom zariadení. Ak chcete použiť aplikáciu %2$s v hodinkách Gear, stiahnite si aplikáciu %1$s do mobilného zariadenia.</string>
+    <string name="masterapp_not_installed_goto_deeplink">Aplikácia %1$s nie je nainštalovaná vo vašom mobilnom zariadení. Ak chcete použiť aplikáciu %2$s v hodinkách Gear, stiahnite si aplikáciu %1$s do mobilného zariadenia. Prejdete na sťahovaciu obrazovku.</string>
+    <string name="masterapp_uninstalled">Aplikácia %1$s bola odinštalovaná z vášho mobilného zariadenia. Ak chcete použiť aplikáciu %2$s v hodinkách Gear, stiahnite si aplikáciu %1$s do mobilného zariadenia.</string>
+    <string name="maximum_size_warning">Dosiahol sa maximálny počet znakov.</string>
+    <string name="menu_about_device">INFORMÁCIE O ZARIADENÍ %s</string>
+    <string name="menu_actionbar_remove">Odstrániť</string>
+    <string name="menu_actionbar_uninstall">Odinštalovať</string>
+    <string name="menu_appsandsettigns">APLIKÁCIE A NASTAVENIA</string>
+    <string name="menu_clock">Hodiny</string>
+    <string name="menu_display">ÚPRAVA DOMOV. OBRAZOVKY</string>
+    <string name="menu_downloaded_font">STIAHNUTÉ PÍSMA</string>
+    <string name="menu_filetransfertogear">PRENOS SÚBOROV DO GEAR</string>
+    <string name="menu_gallery">Obrázok</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitnes</string>
+    <string name="menu_help">Pomocník</string>
+    <string name="menu_home_screen">Štýly domovskej obrazovky</string>
+    <string name="menu_music">Hudba</string>
+    <string name="menu_myapp">Moje aplikácie</string>
+    <string name="menu_notification">Oznámenia</string>
+    <string name="menu_rename">Premenovať</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Nastavenia</string>
+    <string name="mobile_to_gear">Z mobilu do Gear</string>
+    <string name="mobile_to_gear_des">Hovory smerované do mobilu budete prijímať v zar. Gear, kým budú tieto zariad. prepoj. na diaľku.</string>
+    <string name="monotype_default_font">Predvolené písmo</string>
+    <string name="monotype_dialog_font_applemint">Mäta</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker Bell</string>
+    <string name="more">Ďalšie</string>
+    <string name="more_options">Ďalšie možnosti</string>
+    <string name="multisim_title">Viacnásobná SIM</string>
+    <string name="navigate_up">Navigovať nahor</string>
+    <string name="new_eula_error_log">Diagnostikovať</string>
+    <string name="new_eula_fmd2">Hľadať mobil</string>
+    <string name="new_eula_fmg2">Hľadať Gear</string>
+    <string name="new_eula_news_briefing">Magazín</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Klávesnica Samsung</string>
+    <string name="new_notification_list">Zobraz. zoznamu</string>
+    <string name="new_notifications_list_desc">Vľavo od hodín sa zobrazí zoznam oznámení prijatých na zariadení Gear.</string>
+    <string name="no_application_selected">Žiadne vybraté aplikácie</string>
+    <string name="no_downloaded_applications">Žiadne stiahnuté aplikácie</string>
+    <string name="no_of_application_selected">Vybraté aplikácie: %d</string>
+    <string name="no_remote_connection_popup_msg">Ak chcete zapnúť Automatické presmerovanie hovorov, otvorte aplikáciu Samsung Gear v mobilnom zariadení, zapnite možnosť Pripojenie na diaľku a potom to skúste znova.</string>
+    <string name="no_remote_connection_popup_title">Zapnutie funkcie Pripojenie na diaľku</string>
+    <string name="notification_type">Typ oznámenia</string>
+    <string name="notification_type_desc">Kým sa používa zariadenie Gear, oznámenia sa budú zobrazovať ako malé kontextové okná v hornej časti obrazovky, bez ohľadu na nastavenie zvolené vyššie.</string>
+    <string name="number_setting">Nastavenie čísla</string>
+    <string name="ok">OK</string>
+    <string name="once">Raz</string>
+    <string name="one_application_selected">1 vybratá aplikácia</string>
+    <string name="popup_attention_email_msg">Niektoré e-mailové kontá nie sú vybraté v menu Nastavenia e-mailu. Ak chcete prijímať oznámenia z týchto kont na hodinkách Gear, vyberte položku E-mailové oznámenia v menu Nastavenia e-mailu.</string>
+    <string name="popup_attention_message_msg">Ak chcete odosielať a prijímať správy na hodinkách Gear, predvolená aplikácia komunikácie prostredníctvom správ sa zmení z aplikácie %s na aplikáciu Správy.</string>
+    <string name="popupmenu_search_for_new_device">Spravovanie zariadení</string>
+    <string name="preview_message_desc">Na hodinkách Gear sa budú zobrazovať v oznamovacích kontextových oknách ukážky prijatých oznámení s výnimkou budíkov a upozornení na prichádzajúce hovory.</string>
+    <string name="preview_message_title">Zobraziť ukážku správy</string>
+    <string name="primary">Hlavná</string>
+    <string name="privacypolicy_fmgfmd">Zapnutím funkcie „%1$s &amp; %2$s“ súhlasíte s prenosom údajov o polohe z vášho mobilného telefónu a/alebo zariadenia Gear prostredníctvom servera spoločnosti Samsung na účel poskytovania služby %1$s &amp; %2$s. Na serveri spoločnosti Samsung sa neukladajú žiadne údaje ani informácie o polohe vášho zariadenia.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Zapnutím funkcie „%1$s &amp; %2$s“ súhlasíte s prenosom údajov o polohe z vášho mobilného telefónu prostredníctvom servera spoločnosti Samsung na účel poskytovania služby %2$s. Na serveri spoločnosti Samsung sa neukladajú žiadne údaje ani informácie o polohe vášho zariadenia.</string>
+    <string name="privacypolicy_newsbriefing">Pomocou tejto aplikácie môžu užívatelia využiť množstvo inovatívnych spôsobov komunikácie so sociálnymi sieťami a internetom. Pokiaľ povolíte túto aplikáciu, služba bude zhromažďovať informácie o tom, akým spôsobom používate služby, a to vrátane vášho prehliadania a interakcie s obsahom a reklamami. Ďalšie podrobnosti nájdete v časti Flipboard %1$sPodmienky použitia%2$s a %3$sZásady ochrany osobných údajov%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Pravidlá ochrany osobných údajov spoločnosti Samsung</string>
+    <string name="progressdialog_please_wait">Čakajte prosím…</string>
+    <string name="progressdialog_reinstalled_message">Inštaluje sa…</string>
+    <string name="progressdialog_reinstalled_popup_content">Preinštalov.</string>
+    <string name="providerapp_reinstalled">Aplikácia %s nefungovala správne, preto bola odinštalovaná. Teraz sa preinštaluje.</string>
+    <string name="quick_tutorial_add_shortcuts">Ak chcete pridať na domovskú obrazovku hodiniek Gear odkazy na aplikácie, prejdite na menu Aplikácie v hodinkách Gear, ťuknite na ikonu niektorej aplikácie a podržte ju a potom ju uchopte a presuňte na ikonu domovskej obrazovky v hornej časti obrazovky.</string>
+    <string name="quick_tutorial_gear_structure">Na hlavnej stránke domovskej obrazovky zariadenia Gear sa zobrazujú hodiny. Na stránkach vľavo od hodín sa zobrazujú oznámenia a na stránkach vpravo sa zobrazujú miniaplikácie. Potiahnutím nahor z dolného okraja obrazovky môžete zobraziť aplikácie.</string>
+    <string name="quick_tutorial_noti_title">%s – úvodné informácie</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Ak chcete otvoriť aplikáciu S Voice, vyslovte príkaz „Hi Gear“ alebo dvakrát stlačte tlačidlo domovskej obrazovky na ľubovoľnej obrazovke.</string>
+    <string name="quick_tutorial_swipe_downwards">Dvojitým stlačením tlačidla domovskej obrazovky môžete otvoriť vašu obľúbenú aplikáciu. Obľúbenú aplikáciu môžete zmeniť v časti Nastavenia.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Dvojitým stlačením tlačidla napájania môžete otvoriť vašu obľúbenú aplikáciu. Obľúbenú aplikáciu môžete zmeniť v menu Nastavenia.</string>
+    <string name="quick_tutorial_to_go_back">Potiahnutím po obrazovke smerom nadol od okraja sa môžete vrátiť späť.</string>
+    <string name="remote_connection_disabled_settings">Nastavenia</string>
+    <string name="remote_connection_enabled_desc">Ak sa ukončí spojenie Bluetooth, hodinky Gear sa pripoja na diaľku.</string>
+    <string name="requested">Vyžiadané</string>
+    <string name="reset_gear_legal_text1">Pomocou funkcie Resetovať hodinky Gear môžete na diaľku vymazať všetky údaje zo svojich hodiniek Gear. Po takomto vymazaní nie je možné vymazané údaje obnoviť a už nebudete môcť používať funkciu Hľadať moje hodinky Gear.</string>
+    <string name="reset_gear_legal_text2">*Funkcia „Resetovať hodinky Gear“ môže nejaký čas trvať alebo dokonca zlyhať v závislosti od stavu vašich hodiniek Gear, mobilného zariadenia alebo siete.</string>
+    <string name="restore_complete">Obnovenie dokončené.</string>
+    <string name="restore_some_error">Obnovenie zlyhalo. Skúste to znova.</string>
+    <string name="restore_try_again">Skúste znova</string>
+    <string name="restore_watch_settings_content2">"Zálohujte obsah zariadenia %1$s do úložného priestoru vášho zariadenia:
+%2$s
+
+Ak ste už tento obsah zálohovali, môžete ho teraz obnoviť do zariadenia %3$s.
+
+V závislosti od veľkosti súboru to môže chvíľu trvať.
+
+Nastavenia zálohovania môžete zmeniť v časti Nastavenia."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">NASTAVENIA</string>
+    <string name="retrieve_dialog_desc">Načítava sa zoznam aplikácií…</string>
+    <string name="sa_email">E-mail</string>
+    <string name="sa_error_0203_desc">Ak chcete zapnúť funkciu Pripojenie na diaľku, manuálne aktualizujte konto Samsung.</string>
+    <string name="sa_error_0203_title">Aktualiz. konto Samsung</string>
+    <string name="sa_error_0301_desc">Počas prihlasovania do konta Samsung v mobilnom zariadení sa vyskytla chyba siete.</string>
+    <string name="sa_error_0301_title">Nepodarilo sa zapnúť funkciu</string>
+    <string name="sa_error_0302_desc">Počas prihlasovania do konta Samsung v mobilnom zariadení sa vyskytla chyba siete.</string>
+    <string name="sa_error_0302_title">Nepodarilo sa zapnúť funkciu</string>
+    <string name="sa_error_0401_desc">Vyskytla sa chyba. Skúste to znova.</string>
+    <string name="sa_error_0401_title">Chyba</string>
+    <string name="safety_message_interval_10minutes">Každých 10 minút</string>
+    <string name="safety_message_interval_20minutes">Každých 20 minút</string>
+    <string name="samsung_apps_info">Pri odinštalovaní aplikácie %2$s alebo vymazaní údajov tejto aplikácie sa môžu odstrániť aplikácie stiahnuté z obchodu %1$s. Odstránené aplikácie si môžete stiahnuť na stránke histórie nákupov v obchode %3$s.</string>
+    <string name="samsung_apps_notice">Oznámenie</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Aktualizovať teraz</string>
+    <string name="screen_off">Nechať vypnutú obrazovku</string>
+    <string name="screen_off_desc">Na hodinkách Gear sa budú počas vypnutia ich obrazovky prijímať oznámenia s výnimkou budíkov a upozornení na prichádzajúce hovory.</string>
+    <string name="setting_Enable">Povoliť</string>
+    <string name="setting_alpm_dialog_title">Pozor</string>
+    <string name="setting_always_off">Vždy vypnuté</string>
+    <string name="setting_always_on">Vždy zapnuté</string>
+    <string name="setting_auto">Automatický</string>
+    <string name="setting_auto_lock_disable_desc">Zakázal to správca, politika šifrovania alebo ukladací priestor poverení.</string>
+    <string name="setting_backup_restore2">Zálohovanie a obnovenie</string>
+    <string name="setting_basic">ZÁKLADY</string>
+    <string name="setting_connections">PRIPOJENIA</string>
+    <string name="setting_disable">Vypnúť</string>
+    <string name="setting_home_key_double_pressing">2x stlač. tlač. dom. obr.</string>
+    <string name="setting_language_input">JAZYK A VSTUP</string>
+    <string name="setting_manage_text_templates">Upraviť textové šablóny</string>
+    <string name="setting_mobile_network">Mobilné siete</string>
+    <string name="setting_mobile_network_desc">Keď sa zariadenie Gear pripojí k mobilnému zariadeniu cez Bluetooth, odpojí sa od mobilnej siete. Keď sa pripojenie cez Bluetooth ukončí, zariadenie Gear sa automaticky znova pripojí k mobilnej sieti.</string>
+    <string name="setting_multisim_popup_desc">V závislosti od vášho sieťového operátora sa môže vyžadovať samostatné predplatné na používanie funkcie viacerých kariet SIM. Ťuknutím na tlačidlo OK zapnete funkciu viacerých kariet SIM.</string>
+    <string name="setting_opensource">Licencia na otv. zdr. kód</string>
+    <string name="setting_palm_motion">Pohyby</string>
+    <string name="setting_palm_swipe">Snímať potiahnutím</string>
+    <string name="setting_palmover_desc">Ak chcete stíšiť prichádzajúce hovory a budíky alebo pozastaviť médiá, pri zapnutej obrazovke položte ruku na obrazovku.</string>
+    <string name="setting_palmswipe_desc">Potiahnutím celého prsta naprieč obrazovkou pri udržiavaní kontaktu s obrazovkou môžete vytvoriť snímku obrazovky.</string>
+    <string name="setting_pause_mute">Stíšiť/Pauza</string>
+    <string name="setting_power_key_double_pressing">Dvoj. stlač. tlač. napáj.</string>
+    <string name="setting_restoring">Obnovenie…</string>
+    <string name="setting_safety_b1_desc">Keď sú hodinky Gear prepojené s mobilným zariadením, funkcia odosielania správ so žiadosťou o pomoc vám pomôže v tiesni. Bude upozorňovať vaše kontakty pre tiesňové správy na vašu situáciu tak, že im bude odosielať tiesňové správy s informáciami o vašej polohe. Odosielanie týchto správ môže mať za následok ďalšie poplatky. Ak chcete zapnúť odosielanie správ so žiadosťou o pomoc v tiesňovej situácii, %d-krát stlačte tlačidlo napájania.</string>
+    <string name="setting_safety_b2_desc">Keď sú hodinky Gear prepojené s mobilným zariadením, funkcia odosielania správ so žiadosťou o pomoc vám pomôže v tiesni nasnímaním fotografie pomocou fotoaparátu hodiniek Gear. Bude upozorňovať vaše kontakty pre tiesňové správy na vašu situáciu tak, že im bude odosielať tiesňové správy s touto fotografiou a s informáciami o vašej polohe. Prvá správa bude obsahovať informácie o vašej polohe a fotografiu. Potom sa po určitej dobe odošle druhá správa obsahujúca už iba informácie o vašej polohe. Odosielanie týchto správ môže mať za následok ďalšie poplatky. Ak chcete zapnúť odosielanie správ so žiadosťou o pomoc v tiesňovej situácii, %d-krát stlačte tlačidlo domovskej obrazovky.</string>
+    <string name="setting_safety_b2_no_camera_desc">Keď sú hodinky Gear prepojené s mobilným zariadením, funkcia odosielania správ so žiadosťou o pomoc vám pomôže v tiesni. Bude upozorňovať vaše kontakty pre tiesňové správy na vašu situáciu tak, že im bude odosielať tiesňové správy s informáciami o vašej polohe. Odosielanie týchto správ môže mať za následok ďalšie poplatky. Ak chcete zapnúť odosielanie správ so žiadosťou o pomoc v tiesňovej situácii, %d-krát stlačte tlačidlo domovskej obrazovky.</string>
+    <string name="setting_safety_b3_desc1">Keď budete v tiesňovej situácii, rýchlym stlačením tlačidla domovskej obrazovky 3-krát za sebou môžete odoslať rýchle upozornenie hlavným kontaktom.</string>
+    <string name="setting_safety_b3_desc2">Vaše hlavné kontakty budú dostávať tiesňové správy s informáciami o vašej aktuálnej polohe.</string>
+    <string name="setting_safety_b3_desc3">Pred použitím tejto funkcie pripojte mobilné zariadenie k zariadeniu Gear.</string>
+    <string name="setting_safety_list">Bezpečnostná pomoc</string>
+    <string name="setting_samsung_legal">Právne vyhlásenie spoločnosti Samsung</string>
+    <string name="setting_screen_lock">Automatický zámok</string>
+    <string name="setting_screen_lock_desc">Zamknutie mobilného zariadenia pomocou hodiniek Gear.</string>
+    <string name="setting_screen_secutiry">ZABEZPEČENIE OBRAZOVKY</string>
+    <string name="setting_send_emergency_picture">Odoslať tiesňovú fotogr.</string>
+    <string name="setting_send_emergency_recording">Odoslať zvukovú nahrávku</string>
+    <string name="setting_send_emergency_term_agree">Všetky vyššie uvedené podmienky som si prečítal a súhlasím s nimi.</string>
+    <string name="setting_send_help_message">Odosielanie správ so žiadosťou o pomoc</string>
+    <string name="setting_send_terms_conditions">Ustanovenia a podmienky</string>
+    <string name="setting_smart_relay">Inteligentný prenos</string>
+    <string name="setting_smart_relay_desc">Po zdvihnutí mobilného zariadenia sa zobrazí obsah z hodiniek Gear na mobilnom zariadení.</string>
+    <string name="setting_smart_toss">Inteligentné prepínanie</string>
+    <string name="setting_system">SYSTÉM</string>
+    <string name="setting_text_to_speech_engine">Nástroj prevodu textu na reč</string>
+    <string name="setting_textinput_emoticon">Emotikony</string>
+    <string name="setting_textinput_keyboard">Klávesnica</string>
+    <string name="setting_textinput_list">Metódy zadávania textu</string>
+    <string name="setting_textinput_templates">Šablóny</string>
+    <string name="setting_try_it">Skúste si to</string>
+    <string name="setting_wake_up">Budiace gesto</string>
+    <string name="setting_wake_up_desc">Prebudenie hodiniek Gear zdvihnutím ruky s hodinkami Gear.</string>
+    <string name="setting_wakeupgesture">"Ak chcete prebudiť hodinky Gear, zdvihnite ruku, na ktorej máte hodinky Gear, a pozrite sa na obrazovku hodiniek Gear.
+
+Táto funkcia nefunguje, keď sa zakláňate alebo keď ležíte a môže spotrebúvať viac energie z batérie hodiniek Gear, pretože ich pohybový snímač je vždy zapnutý."</string>
+    <string name="setting_wakeupgesture_clock">Hodiny</string>
+    <string name="setting_wakeupgesture_previous">Naposledy zobrazená obrazovka</string>
+    <string name="setting_wakeupgesture_screen_on">Vybrať zobraz. Obrazovku</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Vybrať zobraz. Obrazovku</string>
+    <string name="settings">Nastavenia</string>
+    <string name="settings_application_version">Verzia aplikácie</string>
+    <string name="settings_emergency_contact">Spravovať hlavné kontakty</string>
+    <string name="settings_emergency_contact_empty">Neboli pridané žiadne hlavné kontakty. Ak chcete zapnúť funkciu %s, pridajte kontakty medzi hlavné kontakty.</string>
+    <string name="settings_legal_information">Právne informácie</string>
+    <string name="settings_message_interval">Interval správ</string>
+    <string name="settings_not_set">Nenastavené</string>
+    <string name="settings_security">Zabezpečenie</string>
+    <string name="settings_security_update">Aktualizácia zabezpečenia</string>
+    <string name="settings_security_update_desc">Chráňte vaše zariadenie pred škodlivým obsahom zlepšením jeho zabezpečenia a služieb.</string>
+    <string name="settings_unknown_sources_dialog">Inštalácia z neznámych zdrojov môže byť škodlivá pre vaše zariadenie a osobné údaje. Ťuknutím na tlačidlo OK súhlasíte, že nesiete výhradnú zodpovednosť za akékoľvek možné poškodenie zariadenia alebo možnú stratu údajov v dôsledku používania týchto aplikácií.</string>
+    <string name="settings_unknown_sources_subtitle">﻿Povoliť inštaláciu aplikácií z neznámych zdrojov</string>
+    <string name="share_loc_disabled">Zdieľanie polohy je vypnuté.</string>
+    <string name="share_location_desc">Funkciám Hľadať moje zariadenie Gear a Hľadať moje zariadenie sa povolí zdieľanie údajov o polohe vášho zariadenia Gear a mobilného zariadenia.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Súhlasím s tým, že v tiesňových situáciách sa môže používať mobilné dátové pripojenie a môžu sa odosielať správy MMS. Uvedomujem si, že to môže mať za následok ďalšie poplatky.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Služba Odosielanie správ so žiadosťou o pomoc je učená na pomoc používateľom odosielať oznámenia o ich približnej polohe a vizuálny alebo zvukový záznam ich okolia na mobilný telefón vopred určeného vybraného kontaktu. Služba je k dispozícii len pre vaše pohodlie a nefunguje, ani sa nesmie chápať ako náhrada za tiesňové volanie záchranných zložiek.
+
+2. Odosielanie správ so žiadosťou o pomoc („Služby“) nemusí fungovať presne, neustále alebo bezchybne, v závislosti od okolností, ako sú sieťové pripojenie, dostupnosť signálu GPS/Wi-Fi, stav, úroveň batérie vášho zariadenia alebo zariadenia vášho vybratého kontaktu a iných okolností mimo kontroly spoločnosti Samsung Electronics Co. Ltd. („Samsung“, „my“, „nás“, „naše“). Na presnosť údajov o polohe a včasné doručenie údajov Služieb môže mať vplyv vaše okolie a stav vášho zariadenia a zariadenia vášho vybratého kontaktu. Ak nie je výslovne uvedené alebo zákonom požadované inak, spoločnosť Samsung odmieta akúkoľvek záruku, že Služby budú fungovať presne, neustále alebo bezchybne. Berte na vedomie, že mobilný telefón vášho vybratého kontaktu musí byť funkčný, zapnutý a schopný prijímať správy. Prenos údajov o vašej polohe môže byť spoplatnený v závislosti od poplatkov stanovených vaším poskytovateľom telekomunikačných služieb.
+
+Ak majú Služby fungovať správne, je po ich inštalácii potrebné povoliť tejto funkcii automaticky zapnúť funkcie GPS a Wi-Fi vášho zariadenia. Beriete na vedomie a súhlasíte, že (v prípade potreby) automatické aktivovanie funkcií GPS a Wi-Fi na vašom zariadení prebehne bez ďalšieho upozornenia alebo žiadosti o súhlas.
+
+3. Beriete na vedomie a súhlasíte, že túto funkciu nebudete zneužívať ani využívať na protizákonné účely či na narušovanie súkromia resp. porušovanie osobných alebo majetkových práv iných. Túto funkciu smiete využívať len v súlade so zákonom a iba v tiesňových situáciách. Súhlasíte s tým, že preberáte výlučnú zodpovednosť za vaše používanie tejto funkcie. Spoločnosť Samsung nenesie zodpovednosť za prípadné dôsledky používania tejto funkcie.
+
+4. Služby sú k dispozícii len pre vaše pohodlie a nefungujú, ani sa nesmú chápať ako náhrada za tiesňové volanie záchranných zložiek. Ak nie je výslovne uvedené alebo zákonom požadované inak, spoločnosť Samsung odmieta akúkoľvek záruku, že Služby budú fungovať presne, neustále alebo bezchybne.
+
+5. ODMIETNUTIE ZÁRUKY. PREJAVUJETE VÝSLOVNÝ SÚHLAS S NASLEDUJÚCIM:
+ 
+A. SLUŽBY SÚ POSKYTOVANÉ „AKO SÚ“, „S PRÍPADNÝMI CHYBAMI“ A „AKO SÚ DOSTUPNÉ“. RIZIKO SPOJENÉ S ICH POUŽÍVANÍM NESIETE VY. SPOLOČNOSŤ SAMSUNG VÝSLOVNE NEPOSKYTUJE ŽIADNE ZÁRUKY, RUĆENIE ANI PODMIENKY SPOJENÉ SO SLUŽBAMI. SPOLOČNOSŤ SAMSUNG VÝSLOVNE ODMIETA VŠETKY VYHLÁSENIA A ZÁRUKY AKÉHOKOĽVEK DRUHU, EXPLICITNÉ ALEBO IMPLICITNÉ, VRÁTANE ALE BEZ OBMEDZENIA NA VŠETKY IMPLICITNÉ ZÁRUKY PREDAJNOSTI, VHODNOSTI NA KONKRÉTNY ÚČEL A NEPORUŠENIA PRAVIDIEL A VŠETKY IMPLICITNÉ ZÁRUKY V PRIEBEHU PREDAJA ALEBO POUŽÍVANIA.
+
+B. BEZ OBMEDZENIA VYŠŠIE UVEDENÝCH PODMIENOK SPOLOČNOSŤ SAMSUNG NEDÁVA ŽIADNE VYHLÁSENIE ANI ZÁRUKU, ŽE (i) SLUŽBY BUDÚ SPĹŇAŤ VAŠE POŽIADAVKY, (ii) SLUŽBY BUDÚ NEPRERUŠENÉ, POSKYTOVANÉ NAČAS, BEZPEČNÉ ALEBO BEZCHYBNÉ, (iii) OBSAH ZÍSKANÝ PROSTREDNÍCTVOM SLUŽIEB ALEBO AKÉKOĽVEK OZNÁMENIA A FUNKCIE SLUŽIEB BUDÚ DOSTUPNÉ, PRESNÉ, ÚPLNÉ ALEBO SPOĽAHLIVÉ, (iv) KVALITA SLUŽIEB A INFORMÁCIÍ ALEBO INÉHO MATERIÁLU ZÍSKANÉHO PROSTREDNÍCTVOM SLUŽIEB BUDE SPĹŇAŤ VAŠE OČAKÁVANIA ALEBO (v) AKÉKOĽVEK PORUCHY A CHYBY SLUŽIEB BUDÚ OPRAVENÉ.
+
+6. OBMEDZENIE ZODPOVEDNOSTI
+
+A. VÝSLOVNE VYJADRUJETE POROZUMENIE A SÚHLASÍTE, ŽE SPOLOČNOSŤ SAMSUNG NENESIE ZODPOVEDNOSŤ V PRÍPADE NEDBANLIVOSTI ZA AKÉKOĽVEK PRIAME, NEPRIAME, NÁHODNÉ, ŠPECIÁLNE, REPRESÍVNE, NÁSLEDNÉ ALEBO PRÍKLADNÉ STRATY, ZODPOVEDNOSŤ A NÁKLADY, VRÁTANE ALE BEZ OBMEDZENIA NA STRATU ZISKOV, STRATU MOŽNOSTI POUŽÍVANIA ALEBO INÉ STRATY (ANI V PRÍPADE, KEĎ OPRAVA, NÁHRADA ALEBO PREPLATENIE SLUŽIEB ÚPLNE NEKOMPENZUJE STRATY ALEBO SI SPOLOČNOSŤ SAMSUNG BOLA ALEBO MALA BYŤ VEDOMÁ MOŽNOSTI TAKEJTO STRATY, ZODPOVEDNOSTI, ŚKODY ALEBO NÁKLADOV), PRIAMO ALEBO NEPRIAMO VYPLÝVAJÚCICH Z: (i) TVRDENÍ O PORUŠENÍ ZMLUVY, ZÁRUKY, GARANCIE ALEBO PODMIENKY, ABSOLÚTNEJ ZODPOVEDNOSTI, NEDBANLIVOSTI ALEBO INÉHO ÚMYSELNÉHO PORUŠENIA PODMIENOK DO MIERY POVOLENEJ RELEVANTNÝM ZÁKONOM; (ii) VÁŠHO POUŽÍVANIA ALEBO NEMOŽNOSTI POUŽÍVAŤ SLUŽBY, (iii) NÁKLADOV NA SPOROSTREDKOVANIE NÁHRADNÝCH SLUŽIEB; (iv) NEPOVOLENÉHO PRÍSTUPU ALEBO ZMENY PRENOSOV ALEBO ÚDAJOV; (v) VYJADRENIA ALEBO KONANIA AKEJKOĽVEK TRETEJ STRANY; (vi) TEJTO ZMLUVY; (vii) ZRANENIA OSOBY ALEBO POŠKODENIA MAJETKU (VRÁTANE SMRTI) ALEBO (viii) AKÝCHKOĽVEK INÝCH OKOLNOSTÍ TÝKAJÚCICH SA SLUŽIEB ALEBO OBSAHU, KTORÝ SA POSKYTUJE PROSTREDNÍCTVOM TÝCHTO SLUŽIEB.
+ 
+B. JEDINOU A VÝHRADNOU NÁPRAVOU VŠETKÝCH SPOROV SO SPOLOČNOSŤOU SAMSUNG, KTORÉ SÚ SPOJENÉ S TOUTO ZMLUVOU ALEBO SLUŽBAMI, JE ZASTAVENIE POUŽÍVANIA SLUŽIEB.
+ 
+C. NIEKTORÉ JURISDIKCIE NEPOVOĽUJÚ VYLÚČENIE NIEKTORÝCH ZÁRUK ALEBO OBMEDZENÍ ALEBO VYLÚČENIE ZODPOVEDNOSTI ZA NÁHODNÉ ALEBO NÁSLEDNÉ ŠKODY. PRETO PRE VÁS NIEKTORÉ Z VYŠŠIE OPÍSANÝCH OBMEDZENÍ V ČASTI 5 A 6 NEMUSIA PLATIŤ.
+
+7. NÁHRADA ŚKODY. Súhlasíte, že spoločnosť Samsung nenesie vinu, budú jej nahradené škody alebo bude chránená proti všetkým sťažnostiam, postupom, požiadavkám, nákladom, zodpovednosti, stratám, škodám, pokutám a výdavkom (vrátane nákladov na právnych zástupcov), ktoré vzniknú v dôsledku alebo v spojení s vaším používaním Služieb alebo akéhokoľvek porušenia tejto Zmluvy z vašej strany. Ak aj napriek osobnému charakteru licencií, ktoré sú vám udelené podľa týchto podmienok a pravidiel, umožníte inej osobe používať Služby alebo poskytnete iným osobám informácie, ktoré získate prostredníctvom Služieb, súhlasíte, že túto osobu budete informovať o existencii a plnení týchto podmienok a pravidiel, ktoré budú záväzné aj pre túto osobu, a súhlasíte s tým, že spoločnosť Samsung nenesie vinu, budú jej nahradené škody a bude chránená proti všetkým sťažnostiam, postupom, požiadavkám, nákladom, zodpovednosti, stratám, škodám, pokutám a výdavkom (vrátane nákladov na právnych zástupcov) spojených s použitím Služieb touto osobou.
+
+8. Force Majeure / Vyššia moc
+
+Spoločnosť Samsung nenesie zodpovednosť za omeškanie alebo poruchy fungovania podľa týchto podmienok a pravidiel alebo prerušenia funkčnosti Služieb, ktoré vyplývajú z konania vyššej moci, vzniknú v dôsledku občianskych alebo vojenských nepokojov, vojny, teroristických útokov, pracovných sporov, materiálov alebo služieb poskytovaných tretími stranami alebo príčiny, ktorú spoločnosť Samsung nemá pod kontrolou."</string>
+    <string name="shm_share_my_location_checkbox_text">Súhlasím s tým, aby aplikácia %1$s mohla zdieľať informácie o mojej polohe s mojimi %2$s kontaktmi.</string>
+    <string name="smartrelay_not_show">Nezobrazovať znova</string>
+    <string name="software_update">Aktualizácia softvéru</string>
+    <string name="ss_double_tap_any_screen">Dvojitým ťuknutím dvomi prstami na ľubovoľnú obrazovku môžete zobraziť ovládacie prvky jasu a hlasitosti a ďalšie užitočné informácie.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Presmerovanie hovorov do hodiniek Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Vyžadovanie…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Načítavajú sa nastavenia…</string>
+    <string name="ss_loading_ing_abb">Načítava sa…</string>
+    <string name="ss_mobile_data_is_disabled">Mobilné dátové pripojenie je vypnuté. Pripojte sa namiesto toho k sieti WLAN alebo zapnite mobilné dátové pripojenie a skúste to znova.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobilné dátové pripojenie je vypnuté. Pripojte sa namiesto toho k sieti Wi-Fi alebo zapnite mobilné dátové pripojenie a skúste to znova</string>
+    <string name="ss_no_network_connection">Žiadne sieťové pripojenie</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Používateľská príručka</string>
+    <string name="str_no">Nie, ďakujem</string>
+    <string name="str_yes">Áno</string>
+    <string name="stub_list_install">Inštalovať</string>
+    <string name="sw_eula_condition">Rozumiem ustanoveniam a podmienkam uvedeným vyššie a súhlasím s nimi.</string>
+    <string name="sw_eula_desc2">Súhlasíte, že poskytnete spoločnosti Samsung údaje z denníka chýb v prípade ľubovoľného zlyhania aktualizácie softvéru vášho zariadenia. To pomôže spoločnosti Samsung zlepšiť a zdokonaliť proces aktualizácie softvéru od spoločnosti Samsung a v konečnom dôsledku vám to pomôže uchovávať vaše zariadenie správne aktualizované.</string>
+    <string name="tab_stub_list">Odporúčané</string>
+    <string name="talkback_download">Stiahnuť</string>
+    <string name="talkback_setting">Nastavenie</string>
+    <string name="the_samsung_gear_application">aplikácia Samsung Gear</string>
+    <string name="threeg_connection">Použiť pripoj. na diaľku</string>
+    <string name="threeg_connection_subtitle">Pripojte sa k hodinkám Gear na diaľku pomocou mobilného dátového pripojenia alebo Wi-Fi spolu s kontom Samsung.</string>
+    <string name="threeg_connection_subtitle_chn">Pripojte sa k zariadeniu Gear na diaľku pomocou mobilného dátového pripojenia alebo siete WLAN spolu s kontom Samsung.</string>
+    <string name="title_activity_clock_delete">Odinštalovať</string>
+    <string name="title_activity_connect_popup">Pripojiť</string>
+    <string name="title_activity_paired_watch">Spárované zariadenie</string>
+    <string name="title_alertdialog_device_name_popup">Premenovať %s</string>
+    <string name="title_alertdialog_disconnect_popup">Odpojiť</string>
+    <string name="title_dialog_pm_error">Varovanie</string>
+    <string name="title_dialog_uninstall">Odinštalovať</string>
+    <string name="title_eula">Právne upozornenia</string>
+    <string name="title_findmywatch_connect2">Hľadať moje hodinky Gear</string>
+    <string name="title_findmywatch_finding">Hľadanie…</string>
+    <string name="tri_connect_title_circle_to_gear">Pripojenie zariadenia %1$s k zariadeniu %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Pripojením zariadenia %1$s k zariadeniu %2$s cez Bluetooth sa dočasne odpojí zariadenie %3$s od mobilného zariadenia. Toto pripojenie sa zakrátko obnoví a zariadenie %4$s sa pripojí k zariadeniu %5$s aj k mobilnému zariadeniu.</string>
+    <string name="tt_install_voice_data">Inštalovať hlasové údaje TTS</string>
+    <string name="tt_install_voice_data_required">Do zariadenia Gear sa nainštalujú ďalšie jazyky funkcie prevodu textu na reč.</string>
+    <string name="tt_language">Jazyk</string>
+    <string name="tt_send_help_message">Odos. správ žiad. o pomoc</string>
+    <string name="tt_tts_language_guide">Ako jazyk prevodu textu na reč sa používa jazyk nastavený v nastaveniach hodiniek Gear. Ak nástroj prevodu textu na reč nepodporuje váš jazyk, bude sa používať angličtina (britská).</string>
+    <string name="unable_to_connect_popup_message">Nepodarilo sa pripojiť zariadenie Gear k mobilnému zariadeniu. Skúste to znova neskôr.</string>
+    <string name="unable_to_connect_popup_title">Pripojenie zlyhalo</string>
+    <string name="unable_to_lock_gear">Gear sa nedá zamknúť</string>
+    <string name="unable_to_reset_gear">Gear sa nedá resetovať</string>
+    <string name="unabled_health">Táto aplikácia sa nedá otvoriť, pretože je zakázaná.</string>
+    <string name="uninstall_applications">Odinštalovať aplikácie</string>
+    <string name="unknown_sources_msg_new">Aplikácia %1$s sa nebude inštalovať prostredníctvom obchodu %2$s. Vaše zariadenie a osobné údaje sú viac ohrozené útokmi prostredníctvom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete výhradnú zodpovednosť za akékoľvek možné poškodenie vášho zariadenia alebo možnú stratu údajov v dôsledku používania týchto aplikácií. Ak chcete vždy inštalovať aplikácie z neznámych zdrojov, prejdite do menu %3$s > %4$s > %5$s a zapnite možnosť %6$s. Ťuknutím na tlačidlo OK nainštalujete aplikáciu %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s nepochádza zo služby %2$s a neobsahuje aplikáciu pre vaše zariadenie Gear. Vaše zariadenie a údaje sú viac ohrozené útokmi prostredníctvom aplikácií z neznámych zdrojov. Inštalácia sa zruší a %3$s sa odstráni z telefónu.</string>
+    <string name="unknown_sources_title">Neznáme zdroje</string>
+    <string name="update_button">Aktualizovať</string>
+    <string name="update_summary">Skontrolovať aktualizácie</string>
+    <string name="update_the_latest_version">K dispozícii je aktualizácia</string>
+    <string name="voice_control_subtitle">Vyslovením príkazov „Answer“ alebo „Reject“ počas páuz, keď zariadenie Gear nezvoní ani nevibruje, môžete prijať alebo odmietnuť hovory.</string>
+    <string name="voicememo_link1">ustanovenia a podmienky poskytovania služby Nuance</string>
+    <string name="voicememo_link2">Pravidlá ochrany osobných údajov spoločnosti Samsung</string>
+    <string name="voicememo_link3">politike ochrany osobných údajov spoločnosti Nuance</string>
+    <string name="watchapp_all">Aplikácie</string>
+    <string name="watchapp_noapps">Žiadne aplikácie</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Obnovuje sa…</string>
+    <string name="wifi_only">Iba Wi-Fi</string>
+    <string name="wifi_only_chn">Iba WLAN</string>
+    <string name="wifi_only_summary">Aktualizácie sa budú sťahovať iba pri pripojení k sieti Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Dá sa stiahnuť iba pri pripojení cez sieť WLAN.</string>
+    <string name="email_sanitize">Z bezpečnostných dôvodov nemožno zobraziť obsah tohto e-mailu na hodinkách Gear. Podrobnosti zobrazíte otvorením tohto e-mailu v mobilnom zariadení.</string>
+    <string name="knox_sanitize">Ťuknutím sem vstúpite do režimu KNOX.</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="27.0dip" android:layout_marginBottom="15.0dip">
+            <ImageView android:layout_gravity="center" android:layout_width="fill_parent" android:layout_height="230.0dip" android:layout_marginLeft="28.0dip" android:layout_marginRight="28.0dip" android:src="@drawable/foward_call_to_gear_img" />
+            <TextView android:textSize="18.0sp" android:textColor="@color/winset_dark_description_text" android:gravity="left" android:id="@id/imageDescTextView" android:paddingLeft="16.0dip" android:paddingTop="30.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forwarding_desc" android:lineSpacingExtra="2.0dip" style="@style/RobotoTextViewStyle" />
+        </LinearLayout>
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextWithCheckboxItem android:id="@id/autoCallforwardLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_Enable" />
+        <include android:id="@id/autoCallforwardDivider" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/callforwardActivateLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_Enable" />
+        <include android:id="@id/callforwardActivateDivider" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/callforwardDeactivateLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_disable" />
+        <include android:id="@id/callforwardDeactivateDivider" layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/GearNumberLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/number_setting" custom:subtext="@string/call_no_gear_number" />
+        <include android:id="@id/GearNumberDivider" layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

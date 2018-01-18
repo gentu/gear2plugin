@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:gravity="center_vertical" android:id="@id/textView_popuptitle" android:paddingLeft="25.0dip" android:singleLine="true" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle">
+        <TextView android:textSize="19.0sp" android:id="@id/textView_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="22.0dip" android:layout_marginBottom="22.0dip" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_below="@id/textView_message">
+            <Button android:id="@id/btn_cancel" android:layout_width="0.0dip" android:layout_height="52.0dip" android:text="@string/bnr_cancel" android:layout_weight="1.0" style="@style/PopupButton" />
+            <View android:id="@id/btn_divider" android:background="@drawable/manager_buttonbarbutton_selector_default_line" android:layout_width="1.0dip" android:layout_height="52.0dip" />
+            <Button android:id="@id/btn_ok" android:layout_width="0.0dip" android:layout_height="52.0dip" android:text="@string/bnr_ok" android:layout_weight="1.0" style="@style/PopupButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

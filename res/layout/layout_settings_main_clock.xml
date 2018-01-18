@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:splitMotionEvents="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/clocks_setting_clock_frame_height">
+        <ImageView android:layout_gravity="center" android:id="@id/settings_app_image" android:layout_width="@dimen/clocks_setting_clock_image_size" android:layout_height="@dimen/clocks_setting_clock_image_size" />
+    </FrameLayout>
+    <ListView android:id="@id/list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@xml/xml_listitem_selector" android:divider="@null" android:splitMotionEvents="false" />
+</LinearLayout>

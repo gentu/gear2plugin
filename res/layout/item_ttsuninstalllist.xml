@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height" android:minHeight="@dimen/myapps_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:background="@xml/xml_listitem_selector" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toLeftOf="@id/tts_uninstall_button_area" android:layout_centerVertical="true">
+        <TextView android:ellipsize="end" android:gravity="left" android:id="@id/tts_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/myapps_list_icon_text_left_margin" style="@style/TextView_ListDescFirstLine" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/tts_uninstall_button_area" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="true" android:layout_width="@dimen/myapps_list_setting_icon_area_size" android:layout_height="fill_parent" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/menu_settings">
+        <ImageView android:id="@id/tts_uninstall_image" android:background="@drawable/manager_minus_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/myapps_list_setting_icon_text_left_margin" android:layout_marginRight="@dimen/myapps_list_setting_icon_text_right_margin" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <View android:focusable="true" android:layout_width="1.0dip" android:layout_height="fill_parent" />
+</RelativeLayout>

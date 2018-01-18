@@ -1,0 +1,4 @@
+Samningur um upplýsingamiðlun<br>
+Samsung-lyklaborð notast við raddkennslatækni frá þriðja aðila sem kallast Nuance Communications, Inc. Af þeim sökum eru raddupplýsingar þínar óumflýjanlega vistaðar á netþjóni sem Nuance rekur (í Bandaríkjunum) og notkun Samsung-lyklaborðs krefst þess að þú samþykkir <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">skilmála Nuance</a>.
+Nuance áskilur sér rétt til að nota raddupptökur þínar í þeim tilgangi að bæta þjónustuna og þróa nýja tækni. Nuance áskilur sér einnig rétt til að veita samstarfsaðilum Nuance aðgang að fyrrgreindum raddupptökum. Raddupptökuupplýsingar þínar verða geymdar þangað til fyrrgreindum markmiðum hefur verið náð. Upplýsingar um þjónustuna Samsung-lyklaborð fást í <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">persónuverndarstefnu Nuance</a>. 
+Þú getur ekki notað Samsung-lyklaborð ef þú samþykkir ekki þá upplýsingamiðlun sem lýst er hér að ofan.

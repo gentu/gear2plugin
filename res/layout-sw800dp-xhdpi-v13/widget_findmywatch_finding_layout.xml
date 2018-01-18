@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/find_mywatch_connect_layout" android:layout_width="194.0dip" android:layout_height="180.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/BmanagerWidget_layout" android:background="@drawable/manager_widget_bg" android:layout_width="194.0dip" android:layout_height="180.0dip">
+        <TextView android:textSize="20.0dip" android:textColor="@color/widget_finding" android:gravity="bottom" android:id="@id/find_mywatch_connect_find" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="12.0dip" android:text="@string/title_findmywatch_finding" android:shadowDy="1.0" android:layout_alignParentTop="true" android:fontFamily="sans-serif" />
+        <ImageView android:id="@id/find_mywatch_connecting_widget_img" android:layout_width="105.0dip" android:layout_height="70.0dip" android:layout_marginRight="12.0dip" android:layout_above="@id/find_mywatch__widgetbar_img" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/find_mywatch__widgetbar_img" android:background="@drawable/manager_widget_on_bar" android:layout_width="176.0dip" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <ImageView android:background="@drawable/manager_widget_shadow" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

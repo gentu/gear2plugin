@@ -1,0 +1,5 @@
+Contratto per la fornitura di informazioni<br>
+Tastiera Samsung utilizza una tecnologia di riconoscimento vocale di un fornitore di servizi di terze parti denominato Nuance Communications, Inc. Le informazioni vocali dell'utente, pertanto, vengono inevitabilmente archiviate su un server gestito da Nuance (negli Stati Uniti) e l'uso del servizio Tastiera Samsung prevede che l'utente approvi i <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Termini e condizioni di Nuance</a>.
+Nuance si riserva il diritto di utilizzare l'input vocale dell'utente per il miglioramento dei servizi e lo sviluppo di tecnologie. Nuance si riserva inoltre il diritto di fornire il suddetto input vocale ai propri partner. Le informazioni relative all'input vocale restano archiviate fino al raggiungimento dei suddetti obiettivi. Per informazioni sui servizi Tastiera Samsung, leggere l' <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Informativa sulla privacy di Nuance</a>. 
+Non è possibile utilizzare Tastiera Samsung se non si acconsente alla fornitura delle informazioni descritte in precedenza.
+

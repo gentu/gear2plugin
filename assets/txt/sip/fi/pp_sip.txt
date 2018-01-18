@@ -1,0 +1,4 @@
+Tietojen luovutussopimus<br>
+Samsung-näppäimistö käyttää kolmannen osapuolen, Nuance Communications Inc:n, tuottamaa puheentunnistuspalvelua. Siksi puhetiedot tallennetaan väistämättä Nuancen ylläpitämälle palvelimelle (Yhdysvalloissa), ja Samsung-näppäimistön käyttäminen edellyttää, että hyväksyt <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuancen käyttöehdot</a>.
+Nuance pidättää itsellään oikeuden käyttää puhetietojasi palveluiden parantamiseen ja tekniikoiden kehittämiseen. Nuance pidättää itsellään oikeuden myös luovuttaa edellä mainitut puhetiedot Nuancen kumppaneille. Puhetietoja säilytetään, kunnes edellä mainitut tavoitteet on saavutettu. Tietoja Samsung-näppäimistö-palveluista saat <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuancen tietosuojakäytännöstä</a>.
+Samsung-näppäimistöä ei voi käyttää, jos et suostu edellä kuvattuun tietojen luovuttamiseen.

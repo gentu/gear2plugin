@@ -1,0 +1,8 @@
+Tipkovnica Samsung in uporaba storitve prepoznavanja govora
+1. Storitev Tipkovnica Samsung uporablja tehnologijo za prepoznavanje govora kot del storitve. Strinjate se, da lahko Samsung uporabi storitev prepoznavanja govora (»storitev prepoznavanja govora«), ki jo zagotavlja drug ponudnik, podjetje Nuance Communications Inc. (»Nuance«), ter potrjujete in se strinjate z naslednjimi določili v povezavi z uporabo storitve Tipkovnica Samsung.
+2. Strinjate se, da v storitev Tipkovnica Samsung ne boste pošiljali kakršnih koli samodejnih ali posnetih zahtev.
+3. Strinjate se, da podjetje Nuance zbira besede, ki jih narekujete v storitev Tipkovnica Samsung (vključno z zvočnimi posnetki teh besed, povezanimi transkripcijami in dnevniškimi datotekami) (»podatki o govoru«), in jih uporablja za zagotavljanje storitve prepoznavanja govora.
+4. Potrjujete in strinjate se, da lahko podjetje Nuance pri zagotavljanju storitve prepoznavanja govora zbira podatke o govoru, ki jih lahko podjetje Nuance in njegovi zunanji partnerji uporabijo za izboljšanje (a) storitve prepoznavanja govora in (b) drugih izdelkov in storitev podjetja Nuance.
+5. Potrjujete in strinjate se, da se lahko podatke o govoru prenese v ZDA in/ali druge države, kjer jih podjetje Nuance in njegovi zunanji partnerji shranjujejo, obdelujejo in uporabljajo.
+6. Vsi podatki o govoru, ki jih posredujete, bodo ostali zaupni in bodo uporabljeni v skladu z veljavnim zakonom, vendar jih podjetje Nuance lahko razkrije, če je to potrebno za skladnost s pravnimi ali predpisanimi zahtevami, kot je odločba sodišča, ali so lahko razkriti državnim organom, če tako zahteva ali dovoljuje zakon, ali drugim ponudnikom, ki sodelujejo s podjetjem Nuance.
+

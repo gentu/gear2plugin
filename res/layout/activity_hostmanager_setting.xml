@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:splitMotionEvents="false">
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_basic" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingPowerLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_home_key_double_pressing" custom:subtext="@string/common_none" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingPalmMotionLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_palm_motion" />
+            <include android:id="@id/mobileNetworkDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/threeGSettingConnectionTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_connections" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/mobileNetworkLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_mobile_network" custom:subtext="@string/setting_auto" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/threeGSettingLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/threeg_connection" custom:subtext="@string/threeg_connection_subtitle" />
+            <include android:id="@id/VoiceControlCategoryDivider" layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/VoiceControlCategory" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/CallForWardingLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/call_forwarding" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextWithCheckboxItem android:id="@id/CallMultiSimLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/multisim_title" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/WatchSettingsCallsControl" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/call_voice_control" custom:subtext="@string/voice_control_subtitle" />
+            <LinearLayout android:orientation="vertical" android:id="@id/setting_applications_category_parent" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include layout="@layout/settings_items_simple_divider" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/homelayout_apps" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/manage_applications_linear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/manage_applications" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/uninstall_applications_linear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/uninstall_applications" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/setting_security_category_parent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include layout="@layout/settings_items_simple_divider" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/WatchSettingScreenLockSubTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_screen_secutiry" />
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/WatchSettingScreenLockLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_screen_lock" custom:subtext="@string/setting_screen_lock_desc" />
+            </LinearLayout>
+            <include layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/SettingTextinputCategory" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_language_input" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingTextinputLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/setting_textinput_list" custom:subtext="@string/setting_textinput_templates" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/WatchSettingTextmanageLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_manage_text_templates" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/TTSLinear2" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/tt_install_voice_data" custom:subtext="@string/tt_install_voice_data_required" />
+            <include layout="@layout/settings_items_simple_divider" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_system" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/WatchSettingsAccountBackup" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_backup_restore2" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/SafetyAssistanceLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_safety_list" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingAboutLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_security" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingLegalInformationLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings_legal_information" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/WatchSettingsGearManagerVersion" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:text="@string/settings_application_version" custom:subtext="@string/settings_application_version" />
+        </LinearLayout>
+    </ScrollView>
+    <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

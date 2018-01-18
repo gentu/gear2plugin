@@ -1,0 +1,8 @@
+Samsung keyboard and Use of a Speech Recognition Service
+1. The Samsung keyboard service uses speech recognition technology as a component of the service. You acknowledge that Samsung may utilise a speech recognition service (the “Speech Recognition Service”) provided by a third party, Nuance Communications Inc. (“Nuance”), and you acknowledge and agree to the following in connection with your use of the Samsung keyboard service.
+2. You agree not to submit any automated or recorded requests to the Samsung keyboard service.
+3. You acknowledge that the words you dictate to the Samsung keyboard service (including audio recordings of such words, associated transcriptions and log files) (“Speech Data”) will be collected by Nuance in providing the Speech Recognition Service.
+4. You consent and agree that in providing the Speech Recognition Service, Nuance may collect Speech Data which may be used by Nuance and its third party partners to tune, enhance and improve (a) the Speech Recognition Service and (b) other Nuance products and services.
+5. You acknowledge and agree that your Speech Data may be transferred to the United States and/or other countries for storage, processing and use by Nuance and its third party partners.
+6. Any and all Speech Data that you provide will remain confidential and will be used in accordance with applicable law but may be disclosed by Nuance, if so required, to meet legal or regulatory requirements, such as under a court order or to a government agency if required or authorised by law, or to a third party which acquires or merges with Nuance.
+

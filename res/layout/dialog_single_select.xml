@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/textView_popuptitle" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:id="@id/single_select_dialog" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle">
+        <ListView android:scrollbarStyle="outsideOverlay" android:id="@id/listview_single_select" android:animationCache="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:listSelector="@xml/xml_listitem_selector" android:scrollingCache="false" android:divider="@null" android:layout_above="@id/btn_cancel" android:smoothScrollbar="true" android:paddingStart="24.0dip" android:paddingEnd="24.0dip" />
+        <TextView android:id="@id/btn_cancel" android:paddingBottom="15.0dip" android:layout_marginTop="15.0dip" android:text="@string/cancel" android:layout_above="@id/invisibleview" android:layout_marginEnd="8.0dip" android:layout_alignParentEnd="true" style="@style/TextView_PopupButton" />
+        <View android:id="@id/invisibleview" android:focusable="false" android:visibility="invisible" android:clickable="false" android:layout_width="15.0dip" android:layout_height="15.0dip" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+</RelativeLayout>

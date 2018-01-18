@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.samsung.accessory.wmanager" package="com.samsung.android.gear2plugin" platformBuildVersionCode="24" platformBuildVersionName="7.0">
+    <permission android:name="com.samsung.accessory.permission.ACCESS_CALLBACK" android:protectionLevel="signature"/>
+    <permission android:name="com.samsung.android.gear2plugin.provider.Settings.READ" android:protectionLevel="normal"/>
+    <permission android:name="com.samsung.android.gear2plugin.provider.Settings.WRITE" android:protectionLevel="normal"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.CONTROL_WEARABLE_STATUS"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER"/>
+    <uses-permission android:name="com.samsung.android.hostmanager.permission.WRITE_APP_REGISTRY"/>
+    <uses-permission android:name="com.samsung.android.uhm.framework.appregistry.BaseContentProvider.provider.READ"/>
+    <uses-permission android:name="com.samsung.android.uhm.framework.appregistry.BaseContentProvider.provider.WRITE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.INSTALL_PACKAGES"/>
+    <uses-permission android:name="android.permission.DELETE_PACKAGES"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESSORY_FRAMEWORK_ADMIN"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="msaw.permission.DIAG"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="com.android.email.permission.ACCESS_PROVIDER"/>
+    <uses-permission android:name="com.samsung.android.email.permission.ACCESS_PROVIDER"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.REMOVE_TASKS"/>
+    <uses-permission android:name="com.samsung.accessory.permission.ACCESS_CALLBACK"/>
+    <uses-permission android:name="com.samsung.contacts.permission.EMERGENCY_SOS_MESSAGE"/>
+    <uses-permission android:name="android.permission.READ_PROFILE"/>
+    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG"/>
+    <uses-permission android:name="android.permission.SEND_SMS"/>
+    <uses-permission android:name="android.permission.READ_SMS"/>
+    <uses-permission android:name="android.permission.RECEIVE_WAP_PUSH"/>
+    <uses-permission android:name="android.permission.RECEIVE_MMS"/>
+    <uses-permission android:name="android.permission.READ_CELL_BROADCASTS"/>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="com.android.voicemail.permission.ADD_VOICEMAIL"/>
+    <uses-permission android:name="android.permission.USE_SIP"/>
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+    <uses-permission android:name="android.permission.ACCESS_KEYGUARD_SECURE_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"/>
+    <meta-data android:name="android.support.VERSION" android:value="26.0.0-alpha1"/>
+    <application android:allowBackup="true" android:hardwareAccelerated="false" android:icon="@drawable/gear_manager" android:label="@string/app_name" android:largeHeap="false" android:name="com.samsung.android.gear2plugin.HostManagerApplication" android:resizeableActivity="false" android:supportsRtl="true" android:theme="@style/WManagerActionBarTheme">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.gear2plugin.activity.HMLaunchActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:resizeableActivity="false" android:screenOrientation="portrait" android:theme="@style/WManagerActionBarThemeTransparent">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.STEALTH_MODE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:label="@string/app_name" android:launchMode="singleTask" android:name="com.samsung.android.gear2plugin.activity.HMMainFragmentActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:resizeableActivity="false" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SetupWizardConnectActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerActionBarThemeTransparent"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SetupWizardEULAActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SetupWizardNewEULAActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:label="@string/app_name" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SetupWizardRestoreWatchSettingsActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme"/>
+        <activity android:exported="true" android:label="@string/app_name" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SetupWizardPrivacyPolicyActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme"/>
+        <activity android:exported="false" android:label="@string/app_name" android:name="com.samsung.android.gear2plugin.activity.setupwizard.SASamsungKeyboardPolicyInfoActivity" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme">
+            <intent-filter>
+                <data android:host="samsung_keyboard_nuanceinfo" android:scheme="privacypolicy-activity"/>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+            </intent-filter>
+        </activity>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:name="com.samsung.android.gear2plugin.activity.setupwizard.DummyClassForReset" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:theme="@style/WManagerSetupWizardTheme"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:name="com.samsung.android.gear2plugin.activity.HMSecondFragmentActivity" android:resizeableActivity="false" android:screenOrientation="portrait" android:windowSoftInputMode="adjustNothing"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="false" android:name="com.samsung.android.gear2plugin.activity.SimpleFragmentActivity" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER" android:screenOrientation="portrait" android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.action.SIMPLE_FRAGMENT"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <receiver android:exported="true" android:name="com.samsung.android.uhm.framework.appregistry.receiver.GenericPluginAppBroadcastReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.uhm.request.package.information"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.uhm.framework.appregistry.receiver.DataClearAppBroadcastReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_DATA_CLEARED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:label="@string/find_my_gear" android:name="com.samsung.android.gear2plugin.activity.findwearable.FindMyWearableWidgetProvider" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.android.app.watchmanager.widget.SAPCONNECT"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.SAPDISCONNECT"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.START"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.STOP"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.DISCONNECTED_STATE"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.SEARCHING"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.fromfindmywatchmenu.START"/>
+                <action android:name="com.samsung.android.app.watchmanager.widget.fromfindmywatchmenu.STOP"/>
+            </intent-filter>
+            <meta-data android:name="android.appwidget.provider" android:resource="@xml/xml_findmywatch_widget"/>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|orientation" android:label="@string/tab_stub_list" android:name="com.samsung.android.gear2plugin.activity.stub.HMStubList" android:screenOrientation="portrait"/>
+        <activity android:configChanges="keyboardHidden|screenSize" android:launchMode="singleInstance" android:name="com.samsung.android.gear2plugin.commonui.UnknownSourceInstallDialog" android:screenOrientation="portrait" android:theme="@style/Theme.PMDialog"/>
+        <activity android:configChanges="keyboardHidden|screenSize" android:launchMode="singleInstance" android:name="com.samsung.android.gear2plugin.activity.ForceWifiDirectInstallDialog" android:screenOrientation="portrait" android:theme="@style/Theme.PMDialog"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.gear2plugin.activity.ReinstallDialogActivity" android:screenOrientation="portrait" android:theme="@style/Theme.PMDialog"/>
+        <activity android:configChanges="keyboardHidden|screenSize" android:launchMode="singleInstance" android:name="com.samsung.android.gear2plugin.activity.MasterAppDialogActivity" android:screenOrientation="portrait" android:theme="@android:style/Theme.Holo.Dialog"/>
+        <activity android:configChanges="keyboardHidden|screenSize" android:excludeFromRecents="true" android:launchMode="singleInstance" android:name="com.samsung.android.gear2plugin.activity.CallForwardNotificationActivity" android:screenOrientation="portrait" android:theme="@style/Theme.DialogActivity"/>
+        <receiver android:name="com.samsung.android.gear2plugin.receiver.CallForwardNotiReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="UHM.ACTION_SHOW_CF_NOTIFICATION"/>
+                <action android:name="UHM.ACTION_SHOW_CF_ENABLE_ARS_NOTIFICATION"/>
+                <action android:name="UHM.ACTION_SHOW_CF_DISABLE_ARS_NOTIFICATION"/>
+                <action android:name="UHM.ACTION_CF_AUTO_DISABLE_FAILED"/>
+                <action android:name="UHM.ACTION_SHOW_FAILED_TSHARE_NOTIFICATION"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.gear2plugin.receiver.MasterAppNotiReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_MASTER_APP_INSTALL_NOTI"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_MASTER_APP_UNINSTALLED_NOTI"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_COMPANION_APP_INSTALL_NOTI"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.HMUnknownSourceShowAlertReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.SHOW_UNKNOWN_SOURCE_ALERT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.WifiDirectNotiReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.SHOW_FORCE_WIFI_DIRECT_INSTALL_DIALOG"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.PMUninstallStatusReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.WEARABLE_PACKAGE_UNINSTALL_STATUS"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="false" android:name="com.samsung.android.gear2plugin.activity.findwearable.HMFindMyWearableWidgetService" android:permission="com.samsung.android.hostmanager.permission.CONTROL_WEARABLE_STATUS"/>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.PMErrorNotiReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_INSTALL_FAIL_B_SIDE"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_INSTALL_FAIL_CONNECTION_LOST"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_INSTALL_FAIL_NO_CONNECTION"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_UNINSTALL_FAIL_NO_CONNECTION"/>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_UNINSTALL_FAIL_CONNECTION_LOST"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.samsung.android.gear2plugin.activity.HMLocaleChangeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.LOCALE_CHANGED"/>
+                <action android:name="com.samsung.android.plugin.ACTION_PLUGIN_CHANGE_NOTI"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboardHidden|screenSize" android:launchMode="singleInstance" android:name="com.samsung.android.gear2plugin.activity.PMErrorNotiActivity" android:screenOrientation="portrait" android:theme="@style/Theme.PMDialog"/>
+        <receiver android:exported="false" android:name="com.samsung.android.gear2plugin.receiver.Gear2PluginReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.SettingLauncherReceiver">
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_LAUNCH_SETTING"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.samsung.android.gear2plugin.ACTION_LAUNCH_TTS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.samsung.android.gear2plugin.receiver.QConnectReceiver" android:permission="com.samsung.android.hostmanager.permission.ACCESS_UNIFIED_HOST_MANAGER">
+            <intent-filter>
+                <action android:name="com.samsung.android.wearable.launchactivity"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.samsung.android.gear2plugin" android:exported="true" android:grantUriPermissions="true" android:name="com.samsung.android.gear2plugin.provider.GearSettingsProvider" android:readPermission="com.samsung.android.gear2plugin.provider.Settings.READ" android:writePermission="com.samsung.android.gear2plugin.provider.Settings.WRITE"/>
+        <meta-data android:name="android.nfc.disable_beam_default" android:value="true"/>
+        <meta-data android:name="support.feature.findmygear" android:value="true"/>
+        <meta-data android:name="com.samsung.android.keepalive.density" android:value="true"/>
+        <meta-data android:name="android.max_aspect" android:value="2.1"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.uhm.framework.ui.base.BaseActivity"/>
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:name="com.samsung.android.uhm.framework.ui.base.GeneralActivity"/>
+        <meta-data android:name="SPDE.build.signature" android:value="unknown/unofficial/release/none"/>
+        <meta-data android:name="SPDE.env.version" android:value="2.1.3/G24.2.16/24.2.9"/>
+    </application>
+</manifest>

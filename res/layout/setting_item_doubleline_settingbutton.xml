@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/layouttextview" android:background="@xml/xml_listitem_selector" android:paddingTop="@dimen/manager_winset_list_item_top_bottom_padding" android:paddingBottom="@dimen/manager_winset_list_item_top_bottom_padding" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/manager_winset_2_line_list_item_height" android:layout_toLeftOf="@id/layoutsettingicon" android:layout_centerVertical="true">
+        <TextView android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="12.0dip" style="@style/TextView_ListDescFirstLine" />
+        <TextView android:id="@id/text1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="12.0dip" android:minHeight="18.0dip" style="@style/TextView_ListDescSecondLine" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/layoutsettingicon" android:background="@xml/xml_listitem_selector" android:focusable="true" android:layout_width="@dimen/clocks_setting_icon_area_width" android:layout_height="@dimen/clocks_setting_doubleline_item_height" android:layout_marginRight="@dimen/clocks_list_section_divide_right_margin" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@string/talkback_setting">
+        <ImageView android:id="@id/clocks_settings_line" android:background="@drawable/b2_vertical_line_divider" android:layout_width="1.0dip" android:layout_height="@dimen/myapps_list_divider_icon_size" android:layout_centerVertical="true" />
+        <ImageView android:layout_width="@dimen/clocks_setting_icon_width" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/clocks_setting_icon_left_margin" android:layout_marginRight="@dimen/clocks_setting_icon_right_margin" android:src="@drawable/apps_setting_icon" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

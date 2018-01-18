@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/myapps_list_layout_left_margin" android:layout_marginRight="@dimen/myapps_list_layout_right_margin" android:splitMotionEvents="false">
+        <ListView android:id="@id/tts_listview" android:layout_width="fill_parent" android:layout_height="fill_parent" android:divider="@drawable/manager_list_divider" android:splitMotionEvents="false" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

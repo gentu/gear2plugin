@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height" android:minHeight="@dimen/myapps_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/layoutfontsuninstall" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/fonts_uninstallable_item_image" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" />
+        <TextView android:textSize="21.0dip" android:textColor="@color/normal_text_color" android:ellipsize="end" android:gravity="left" android:layout_gravity="center_vertical" android:id="@id/fonts_uninstallable_item_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="11.0dip" android:layout_marginRight="12.0dip" android:layout_marginBottom="1.0dip" android:maxLines="1" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/font_uninstall_button_area" android:background="@xml/xml_listitem_selector" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="12.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/fonts_uninstall" android:background="@drawable/manager_minus_btn" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:contentDescription="@string/menu_settings" />
+    </RelativeLayout>
+</RelativeLayout>

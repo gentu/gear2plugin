@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/init_heading_linear" android:background="@color/l_os_actionbar_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="134.0dip">
+        <TextView android:textSize="32.0dip" android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="start|bottom|center" android:id="@id/textView1" android:layout_width="fill_parent" android:layout_height="82.0dip" android:layout_marginLeft="17.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="17.0dip" android:text="@string/manage_notifications" android:fontFamily="sans-serif" />
+    </LinearLayout>
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/notification_manage_scrollview" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/selectallrelative" android:background="@drawable/manager_select_all_bg" android:layout_width="fill_parent" android:layout_height="@dimen/tab_layout_height">
+                <LinearLayout android:gravity="center_vertical" android:id="@id/selectAllLinear" android:background="@xml/xml_selectall_selector" android:focusable="true" android:layout_width="fill_parent" android:layout_height="@dimen/tab_layout_height">
+                    <TextView android:ellipsize="end" android:gravity="start|center" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="@dimen/noti_checkbox_right_padding" android:text="@string/home_bg_delete_select_all" android:singleLine="true" android:layout_weight="1.0" style="@style/TextView_NotiListCategory" />
+                    <CheckBox android:id="@id/selectAllCheckBox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="4.0dip" android:layout_marginRight="@dimen/noti_checkbox_right_padding" android:button="@drawable/manager_checkbox_btn" />
+                </LinearLayout>
+            </RelativeLayout>
+            <TextView android:textSize="@dimen/Notification_oobe_description" android:textColor="@color/black" android:gravity="bottom" android:id="@id/description_textview" android:background="@color/background" android:paddingLeft="16.0dip" android:paddingTop="@dimen/noti_explanation_top_bottom_margin" android:paddingRight="16.0dip" android:paddingBottom="@dimen/noti_explanation_top_bottom_margin" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/init_manage_notifications_desc" android:lineSpacingExtra="2.0dip" android:fontFamily="secrobotolight-regular" />
+            <View android:id="@id/description_textview_divider" android:background="@drawable/manager_list_divider" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <LinearLayout android:orientation="vertical" android:id="@id/notificationLinear" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <ListView android:id="@id/NotificationsAppsList" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@drawable/manager_list_divider" android:dividerHeight="1.0dip" android:splitMotionEvents="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <View android:id="@id/dividerView" android:background="#ffd1cac2" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="3.0px" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/buttonlinear" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="46.0dip">
+        <ImageView android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+        <View android:background="#ffcccccc" android:visibility="visible" android:layout_width="1.0dip" android:layout_height="29.0dip" />
+        <RelativeLayout android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <Button android:textSize="17.0dip" android:textColor="@color/normal_text_color" android:gravity="center" android:id="@id/buttonOK" android:background="@xml/xml_listitem_selector" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/bnr_ok" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:fontFamily="secrobotolight-regular" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

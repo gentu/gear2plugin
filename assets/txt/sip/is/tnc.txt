@@ -1,0 +1,8 @@
+Samsung-lyklaborð og notkun raddkennslaþjónustu
+1. Raddkennslatækni er hluti af þjónustunni Samsung-lyklaborð.  Þú staðfestir að Samsung er heimilt að nota raddkennslaþjónustu („raddkennslaþjónustan“) sem veitt er af þriðja aðila, Nuance Communications Inc. („Nuance“), og þú staðfestir og samþykkir eftirfarandi í tengslum við notkun þína á þjónustunni Samsung-lyklaborð.
+2. Þú samþykkir að senda ekki inn sjálfvirkar beiðnir, eða beiðnir sem teknar hafa verið upp, til þjónustunnar Samsung-lyklaborð.  
+3. Þú samþykkir að því sem þú lest inn fyrir þjónustuna Samsung-lyklaborð (þ.m.t. hljóðupptökur, tengdar hljóðritanir og notkunarskrár) („raddgögn“) verður safnað saman af Nuance þegar raddkennslaþjónustan er veitt.
+4. Þú samþykkir að sem veitanda raddkennslaþjónustunnar er Nuance heimilt að safna saman raddgögnum og nota þau gögn ásamt þriðju aðilum til að stilla og bæta (a) raddkennslaþjónustuna og (b) aðrar vörur og þjónustur Nuance.
+5. Þú staðfestir og samþykkir að heimilt er að flytja raddgögnin þín til Bandaríkjanna og/eða annarra landa til geymslu og vinnslu og er Nuance og þriðju aðilum heimilt að nota gögnin.
+6. Öll raddgögn sem þú veitir eru trúnaðargögn og verða notuð í samræmi við gildandi lög en Nuance er heimilt að birta þau, sé þess krafist, til að uppfylla lagalegar kröfur, t.d. samkvæmt dómsúrskurði. Nuance má afhenda gögnin opinberum stofnunum, sé það heimilt samkvæmt lögum, eða þriðja aðila sem sameinast Nuance.
+

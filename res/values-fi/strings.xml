@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Ei saatavilla puhelun aikana.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Koko näytön ponnahdusikkuna</string>
+    <string name="alert_mini">Pienoisponnahdusikkuna</string>
+    <string name="alertdialog_backkey_popup_content">Varoitus</string>
+    <string name="alertdialog_disconnect_popup_description">Gearin yhteys katkaistaan. Käytä yhteyden muodostamiseen Bluetoothia.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Yhteys katkaistaan laitteeseen %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%sin yhteys mobiililaitteeseen katkaistaan. Sinun on käytettävä Bluetoothia, kun yhdistät nämä laitteet seuraavan kerran. Tämän jälkeen yhteys voidaan muodostaa Etäyhteys-toiminnolla.</string>
+    <string name="alertdialog_uninstall_popup_content">Poista asennus</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">Sovellusta %1$s ei ole asennettu mobiililaitteeseen. Jos haluat käyttää sovellusta %2$s Gearissa, lataa %1$s mobiililaitteeseen.</string>
+    <string name="attention_popup_title">Huomio</string>
+    <string name="auto_call_forwarding">Autom. soitonsiirto</string>
+    <string name="auto_call_forwarding_att">Autom. soitonsiirto Geariin</string>
+    <string name="auto_call_forwarding_desc">Ota soitonsiirto automaattisesti käyttöön, kun Gearin yhteys mobiililaitteeseen on katkaistu. Tällöin saapuvat puhelut siirretään mobiililaitteesta Geariin, kunnes laitteiden välinen yhteys on muodostettu uudelleen.</string>
+    <string name="auto_update">Automaattinen päivitys</string>
+    <string name="auto_update_summary">Hae päivityksiä automaattisesti.</string>
+    <string name="backing_up">Varmuuskopioidaan…</string>
+    <string name="backup_complete">Varmuuskopiointi valmis.</string>
+    <string name="bnr_backup">Varmuuskopioidaan…</string>
+    <string name="bnr_bakcup_title">Varm.kop.</string>
+    <string name="bnr_cancel">Peruuta</string>
+    <string name="bnr_canel">Peruuta</string>
+    <string name="bnr_error_occurred">Tapahtui virhe</string>
+    <string name="bnr_except">%1$s (paitsi %2$s)</string>
+    <string name="bnr_except_autolock">Automaattinen lukitus</string>
+    <string name="bnr_except_remoteconnection">Etäyhteys</string>
+    <string name="bnr_except_texttemplate">Tekstimallit</string>
+    <string name="bnr_next">Seur.</string>
+    <string name="bnr_no">Ei</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Gearin tehdasasetukset palautetaan uuden laitteen yhdistämistä varten.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gearia ei ole määritetty kokonaan. Ohjattu määritystoiminto on avattuna Gearissa, mutta yhteyden muodostamiseksi Geariin sinun on avattava Gear Managerin ohjattu määritystoiminto myös tässä laitteessa.</string>
+    <string name="bnr_reset_initialization">Ilmoitus</string>
+    <string name="bnr_restore">Palauta</string>
+    <string name="bnr_restored">Tiedot palautettu.</string>
+    <string name="bnr_setupwizard_title2">Varmuuskopioi ja palauta</string>
+    <string name="bnr_yes">Kyllä</string>
+    <string name="bt_connected">Yhdistetty</string>
+    <string name="bt_disconnected">Yhteys katkaistu</string>
+    <string name="bt_unpaired">Ei pariliitosta</string>
+    <string name="button_finish">Valmis</string>
+    <string name="button_restore">Palauta</string>
+    <string name="call">SOITA</string>
+    <string name="call_check_gear_status_when_cfwd">Mobiililaitteesta Geariin- ja Gearista mobiililaitteeseen -soitonsiirtotoimintoja ei voi käyttää samaan aikaan.</string>
+    <string name="call_dualsim1">SIM-kortti 1</string>
+    <string name="call_dualsim1sim2">Molemmat SIM-kortit</string>
+    <string name="call_dualsim2">SIM-kortti 2</string>
+    <string name="call_forwarding">Puhelunsiirto</string>
+    <string name="call_forwarding_agree">Hyväksyn.</string>
+    <string name="call_forwarding_desc">Siirrä saapuvat puhelut mobiililaitteesta Geariin.</string>
+    <string name="call_forwarding_desc_vzw">Siirrä vastaamattomat saapuvat puhelut puhelimesta Geariin.</string>
+    <string name="call_forwarding_disable_msg">Esitetty pyyntö poistaa soitonsiirto mobiililaitteesta Geariin käytöstä. Matkapuhelinverkon ja mobiililaitteen tila voivat vaikuttaa lopputulokseen.</string>
+    <string name="call_forwarding_enable_msg">Esitetty pyyntö ottaa soitonsiirto mobiililaitteesta Geariin käyttöön. Matkapuhelinverkon ja mobiililaitteen tila voivat vaikuttaa lopputulokseen.</string>
+    <string name="call_forwarding_for_att_msg">"Kun Gearin yhteys älypuhelimeen katkaistaan, mobiililaitteeseen saapuvat puhelut siirretään automaattisesti Geariin.
+- Älypuhelin soi muutaman kerran, ja sitten puhelu siirretään Geariin.
+- Jos et vastaa puheluun Gearilla, soittaja voi jättää vastaajaviestin, jonka voit kuunnella Gearilla.
+Haluatko ottaa automaattisen soitonsiirron käyttöön nyt?"</string>
+    <string name="call_forwarding_notify_msg">Soitonsiirto mobiililaitteesta Geariin on tällä hetkellä käytössä. Mobiililaitteeseen saapuvat puhelut siirretään Geariin. Jos Gear ei ole mukanasi, valitse Asetukset ja poista Automaattinen soitonsiirto -toiminto käytöstä, jotta sinulta ei jää puheluita vastaamatta.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Äänipuh. siirto poistetaan käytöstä…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Äänipuhelun siirto otetaan käyttöön…</string>
+    <string name="call_no_gear_number">Ei numeroita</string>
+    <string name="call_select_dualsim_title">Valitse SIM-kortti</string>
+    <string name="call_voice_control">Puheohjaus</string>
+    <string name="callforwarding_help_des1">Vaihda laite, johon puhelut siirretään automaattisesti, sen mukaan, onko laitteet yhdistetty Bluetoothilla tai Etäyhteys-toiminnolla.</string>
+    <string name="callforwarding_help_des2">Vastaanota mobiililaitteeseen soitetut puhelut Gearilla, kun olet liikkeellä, käytät Gearia ja Gearista on muodostettu etäyhteys mobiililaitteeseen.</string>
+    <string name="cancel">Peruuta</string>
+    <string name="cf_activated">Aktivoitu</string>
+    <string name="cf_deactivate_failed">Soitonsiirron poistaminen käytöstä epäonnistui.</string>
+    <string name="cf_deactivated">Poistettu käytöstä</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Uudet kellon asetukset otettu Gearilla käyttöön.</string>
+    <string name="clocks_download_more_clocks">Lataa lisää kelloja</string>
+    <string name="clocks_noti_uninstall_clock">Sovelluksen %s asennus poistetaan.</string>
+    <string name="clocks_noti_uninstall_idle_clock">Sovelluksen %1$s asennus poistetaan ja oletuskelloksi asetetaan %2$s.</string>
+    <string name="clocks_title_basic_clocks">PERUSKELLOT</string>
+    <string name="clocks_title_downloaded_clocks">LADATUT KELLOT</string>
+    <string name="clocks_title_style_clocks">TYYLIKELLOT</string>
+    <string name="clocks_uninstalled">Asennus poistettu.</string>
+    <string name="clocks_uninstalling">Asennusta poistetaan…</string>
+    <string name="close">Sulje</string>
+    <string name="closing_samsung_gear_message">Gearin asetukset on palautettu. Samsung Gear -sovellus suljetaan pian.</string>
+    <string name="closing_samsung_gear_message_jpn">Gearin asetukset on palautettu. Gear-sovellus suljetaan pian.</string>
+    <string name="closing_samsung_gear_title">Sulje Samsung Gear -sovellus</string>
+    <string name="closing_samsung_gear_title_jpn">Sulje Gear-sovellus</string>
+    <string name="cloud_backup_no_information">Ei koskaan</string>
+    <string name="cloud_backup_restore_backup_now">Varmuuskopioi tiedot</string>
+    <string name="cloud_backup_restore_restore_now">Palauta tiedot</string>
+    <string name="cmw_agree">Hyväksyn</string>
+    <string name="cmw_eula_agree">Ymmärrän ja hyväksyn yllä olevat ehdot.</string>
+    <string name="cmw_for_setting">Sijaintipalvelut on poistettu käytöstä. Siirry Asetukset-kohtaan.</string>
+    <string name="cmw_high_accuracy_dialog_message">Valitse Sijainti > Tila -kohdassa Suuri tarkkuus, jotta sijainti tunnistetaan nopeimmalla ja tarkimmalla tavalla.</string>
+    <string name="cmw_high_accuracy_dialog_title">Valitse Suuri tarkkuus</string>
+    <string name="cmw_legal_content">Ottamalla käyttöön sijainninjakamisen hyväksyt sen, että matkapuhelimeesi ja/tai Gear-laitteeseesi liittyvät sijaintitiedot lähetetään Samsungin palvelimen kautta, jotta voimme tarjota Etsi Gearini- ja Etsi laitteeni -palvelun. Samsungin palvelimeen ei tallenneta tietoja laitteen sijainnista.</string>
+    <string name="cmw_legal_content1">Ottamalla käyttöön palvelun %1$s &amp; %2$s hyväksyt sen, että matkapuhelimeesi ja/tai Gear-laitteeseesi liittyviä paikkatietoja lähetetään Samsungin palvelimen kautta, jotta %1$s &amp; %2$s -palvelu voidaan tarjota. Samsungin palvelimelle ei tallenneta tietoja laitteen sijainnista.</string>
+    <string name="cmw_legal_content1_no_gps">Ottamalla käyttöön palvelun %1$s &amp; %2$s hyväksyt sen, että matkapuhelimeesi liittyviä paikkatietoja lähetetään Samsungin palvelimen kautta, jotta %2$s -palvelu voidaan tarjota. Samsungin palvelimelle ei tallenneta tietoja laitteen sijainnista.</string>
+    <string name="cmw_legal_content_2">﻿Samsungin tietosuojakäytäntö</string>
+    <string name="cmw_legal_title">Lakisääteiset ilmoitukset</string>
+    <string name="cmw_location">Ota sijaintipalvelut käyttöön</string>
+    <string name="cmw_show_on_map">Näytä kartalla</string>
+    <string name="color_black">Musta</string>
+    <string name="color_blue">Sininen</string>
+    <string name="color_brown">Ruskea</string>
+    <string name="color_gray">Harmaa</string>
+    <string name="color_green">Vihreä</string>
+    <string name="color_light_sky_blue">Vaalea taivaansininen</string>
+    <string name="color_medium_purple">Keskitumma violetti</string>
+    <string name="color_orange">Oranssi</string>
+    <string name="color_pink">Vaaleanpunainen</string>
+    <string name="color_purple">Violetti</string>
+    <string name="color_red">Punainen</string>
+    <string name="color_spring_green">Keväänvihreä</string>
+    <string name="common_none">Ei mitään</string>
+    <string name="common_off">Pois päältä</string>
+    <string name="common_on">Päällä</string>
+    <string name="common_recent_apps">Viim. sov.</string>
+    <string name="connect_popup_content">Yhdistetään kohteeseen %s…</string>
+    <string name="connected_by_trasport_BT">Yhdistetty Bluetoothilla</string>
+    <string name="connected_by_trasport_SCS">Yhdistetty etäältä</string>
+    <string name="connecting_content">Yhdistetään Geariin</string>
+    <string name="connecting_doc">Kun olet muodostanut yhteyden %1$siin, voit muuttaa sen asetuksia ja asentaa siihen sovelluksia %2$sin kautta.</string>
+    <string name="connecting_popup_message">Yhdistetään Geariin…</string>
+    <string name="connecting_popup_title">Yhdistä Geariin</string>
+    <string name="connecting_to_gear_ing">Yhdistetään Geariin…</string>
+    <string name="connectingdoc">Kun olet muodostanut yhteyden Geariin, voit muuttaa sen asetuksia ja asentaa siihen sovelluksia Gear Managerin kautta.</string>
+    <string name="connection_error_dialog_message">Laitetta ei ole yhdistetty. Se yrittää muodostaa yhteyden uudelleen.</string>
+    <string name="dialog_check_phone_number_msg1">Varmista, että seuraavat tiedot on annettu oikein:</string>
+    <string name="dialog_check_phone_number_msg2">Matkapuhelinnumero: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gearin puhelinnumero: %s</string>
+    <string name="dialog_check_phone_number_msg4">Vahvista tiedot ja ota automaattinen soitonsiirto käyttöön napauttamalla OK.</string>
+    <string name="dialog_enable_remote_connection_desc">Jos haluat ottaa Automaattinen soitonsiirto -toiminnon käyttöön, ota Etäyhteys-toiminto käyttöön ja yritä sitten uudelleen.</string>
+    <string name="dialog_enable_remote_connection_title">Ota Etäyhteys käyttöön</string>
+    <string name="dialog_permission_message">Sovellusta %s ei voi käyttää. Napauta ASETUKSET, valitse Sovelluksen tiedot > Käyttöoikeudet, myönnä seuraavat oikeudet ja yritä uudelleen:</string>
+    <string name="dialog_popup_button_cancel">Peruuta</string>
+    <string name="dialog_reverse_msg">Jotkin palveluntarjoajat voivat vaatia erillisen tilauksen, ennen kuin mobiililaite ja Gear pystyvät käyttämään tätä toimintoa. Tämä voi johtaa lisämaksuihin.</string>
+    <string name="dialog_set_phone_number_msg">Jos haluat ottaa Automaattinen soitonsiirto -toiminnon käyttöön, määritä niiden laitteiden puhelinnumerot, joihin haluat siirtää saapuvat puhelut ja joista haluat vastaanottaa ne.</string>
+    <string name="dialog_set_phone_number_title">Ota automaattinen soitonsiirto käyttöön</string>
+    <string name="disable_loc_text">Jaa sijainti -toiminto poistetaan käytöstä. Et voi käyttää sijaintitietoja Gearin tai mobiililaitteen hakemiseen Etsi Gearini- tai Etsi laitteeni -toiminnolla.</string>
+    <string name="disable_loc_text_no_gps">Jaa sijainti -toiminto poistetaan käytöstä. Et voi käyttää sijaintitietoja mobiililaitteen hakemiseen Etsi laitteeni -toiminnolla.</string>
+    <string name="disable_remote_connection">Poista etäyhteys käytöstä</string>
+    <string name="disable_remote_connection_fmm_fmd">Etsi Gearini ja Etsi laitteeni</string>
+    <string name="disable_remote_connection_receiving_blocked">Viestien, sähköpostiviestien ja ilmoitusten vastaanottaminen mobiililaitteesta</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Sähköpostiviestien ja ilmoitusten vastaanottaminen mobiililaitteesta</string>
+    <string name="disable_remote_connection_warning">Etäyhteys-toiminto poistetaan käytöstä. Seuraavat toiminnot eivät ole käytettävissä, ennen kuin Gear yhdistetään taas Bluetoothilla mobiililaitteeseen:</string>
+    <string name="disable_share_location">Poista sijainnin jako käytöstä</string>
+    <string name="disconnect_popup_content">Katkaistaan %s…</string>
+    <string name="do_not_show_again">Älä näytä uudelleen</string>
+    <string name="enable_auto_call_forwarding_msg">Siirrä saapuvat puhelut automaattisesti mobiililaitteesta Geariin, kun Gearin yhteys on katkaistu. Joillakin palveluntarjoajilla tämä voi johtaa lisämaksuihin. Ota Automaattinen soitonsiirto -toiminto käyttöön napauttamalla OK.</string>
+    <string name="enable_auto_call_forwarding_title">Ota Autom. soitonsiirto k.</string>
+    <string name="enable_more_notifications_enable">Päälle</string>
+    <string name="enable_notification_access">Ota Ilmoitusten käyttö käyttöön</string>
+    <string name="enable_notification_access_desc">"Tämä toiminto pystyy lukemaan kaikki vastaanottamasi ilmoitukset, joissa voi olla henkilökohtaisia tietoja, kuten yhteystietoja ja sinulle lähetettyjä viestejä. Se pystyy myös hylkäämään nämä ilmoitukset tai valitsemaan niihin liittyviä toimintoja.
+Jos haluat vastaanottaa Gearilla ilmoituksia, napauta Ota käyttöön ja ota sitten %s käyttöön."</string>
+    <string name="enable_share_location">Ota sijainnin jako käyttöön</string>
+    <string name="enabled_loc">Sijainnin jako käytössä.</string>
+    <string name="error_enter_device_name">Anna laitteen nimi.</string>
+    <string name="error_occurred">Tapahtui virhe.</string>
+    <string name="eula_i_agree">Hyväksyn.</string>
+    <string name="failed_tshare_msg">"Soitonsiirron käyt-
+töönotto epäonn.
+T share ei vastaa."</string>
+    <string name="find_my_device">Etsi laitteeni</string>
+    <string name="find_my_gear">Etsi Gearini</string>
+    <string name="find_watch_btn_start">Käynnistä</string>
+    <string name="find_watch_btn_stop">Lopeta</string>
+    <string name="find_watch_off">Löydät oman Gearisi napauttamalla Käynnistä. Gear antaa äänimerkin ja käynnistää näytön.</string>
+    <string name="find_watch_on">Voit lopettaa Gearisi etsinnän napauttamalla Pysäytä. Gear lopettaa äänimerkin ja sammuttaa näytön.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">Kirjasimen %1$s asennus poistetaan, ja %2$sissa käytetään oletuskirjasinta.</string>
+    <string name="force_wifi_direct_msg">Sovellus asennetaan Wi-Fi Direct -yhteyden kautta. Nykyinen Wi-Fi Direct -yhteytesi katkaistaan. Jos peruutat asennuksen, sinun on ladattava tämä sovellus uudelleen asennusta varten.</string>
+    <string name="force_wifi_direct_title">Asenna</string>
+    <string name="force_wifi_install">Asenna</string>
+    <string name="gear2_backup_confirm_text">Jos varmuuskopioit tiedot nyt, mobiililaitteessa olevat Gearin nykyiset varmuuskopiotiedot korvataan Gearin uusimmilla tiedoilla.</string>
+    <string name="gear2_restore_confirm_text">Jos palautat tiedot, Gearissa olevat tiedot poistetaan ja korvataan Gearin nykyisillä varmuuskopiotiedoilla.</string>
+    <string name="gear2_text">"Käytä laitteen tallennustilaa laitteessa %1$s olevan sisällön varmuuskopiointiin:
+%2$s
+
+Jos olet aikaisemmin varmuuskopioinut tämän sisällön, voit palauttaa sen laitteeseen %3$s nyt.
+
+Tiedoston koon mukaan tämä voi kestää jonkin aikaa."</string>
+    <string name="gear2_text_import3">Asetukset</string>
+    <string name="gear_bnr_desc">"Käytä mobiililaitteen tallennustilaa seuraavien %1$sin tietojen varmuuskopiointiin: %2$s
+
+Jos olet aikaisemmin varmuuskopioinut %3$sin tiedot, voit palauttaa ne %4$siin nyt.
+
+Tämä voi tiedostojen koon mukaan kestää jonkin aikaa."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Mobiililaitteesi hakee nyt Gearia. Tämä kestää useita minuutteja. Gearin löytäminen voi olla hankalaa, jos se on sisätiloissa.</string>
+    <string name="gear_location_popup_title">Etsi Gear</string>
+    <string name="gear_location_text">Gearin sijainti</string>
+    <string name="gear_lock_success">Gear lukittu.</string>
+    <string name="gear_lock_text">Lukitse Gear</string>
+    <string name="gear_locked">Gear lukittu</string>
+    <string name="gear_locked_text1">Gear lukittu. Voit poistaa lukituksen yhdistämällä Gearin Bluetoothilla mobiililaitteeseen.</string>
+    <string name="gear_phone_number">Gearin puhelinnumero</string>
+    <string name="gear_phone_number_popup_desc">Kaikki mobiililaitteeseen saapuvat puhelut siirretään numeroon %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Kaikki mobiililaitteen vastaamattomat puhelut siirretään numeroon %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Jos haluat lukita Gearin, Etäyhteys-toiminto on ensin otettava käyttöön.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Jos haluat palauttaa Gearin asetukset, Etäyhteys-toiminto on ensin otettava käyttöön.</string>
+    <string name="gear_reset_text">Palauta Gear</string>
+    <string name="gear_to_mobile">Gearista matkapuh.</string>
+    <string name="gear_to_mobile_des">Vastaanota Geariin soitettuja puheluita mobiililaitteella, kun laitteet on yhdistetty toisiinsa Bluetoothilla.</string>
+    <string name="gear_unable_to_locate_message">Sijaintia ei löydy. Yritä myöhemmin uudelleen.</string>
+    <string name="gear_unable_to_locate_title">Gearia ei löydy</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Taustakuvat</string>
+    <string name="home_bg_color">Värit</string>
+    <string name="home_bg_colors_title">KÄYTETT. OLEVAT VÄRIT</string>
+    <string name="home_bg_delete_actionbar_selected">Valittu</string>
+    <string name="home_bg_delete_dialog_msg">Gear Managerista ja Gearista poistetaan %d taustakuvaa.</string>
+    <string name="home_bg_delete_select_all">Valitse kaikki</string>
+    <string name="home_bg_max_more_image_toast">Taustakuvien enimmäismäärä (%d) on saavutettu.</string>
+    <string name="home_bg_more_images">Lisää kuvia</string>
+    <string name="home_bg_popup_wallpaper_msg">Ladataan Gearin taustakuvia…</string>
+    <string name="home_bg_popup_wallpaper_title">Lataa taustakuvia</string>
+    <string name="home_bg_toast_saved">Tallennettu.</string>
+    <string name="home_bg_wallpaper">Taustakuva</string>
+    <string name="home_bg_wallpapers_title">KÄYT. OLEVAT TAUSTAKUVAT</string>
+    <string name="homelayout_apps">Sovellukset</string>
+    <string name="incoming_calls_title">Saapuvat puhelut</string>
+    <string name="info_build_number">Ohjelmistoversio</string>
+    <string name="info_model_number">Mallinumero</string>
+    <string name="info_software_update">Ohjelmistopäivitys</string>
+    <string name="information_provision_agreement">Tietojen luovutussopimus</string>
+    <string name="information_provision_agreement_mgs">"Voice Memo käyttää kolmannen osapuolen, Nuance Communications Inc:n, tuottamaa puheentunnistuspalvelua. Siksi puhetiedot tallennetaan väistämättä Nuancen ylläpitämälle palvelimelle (Yhdysvalloissa), ja Voice Memon käyttäminen edellyttää, että hyväksyt Nuancen käyttöehdot.
+ Nuance pidättää itsellään oikeuden käyttää puhetietojasi palveluiden parantamiseen ja tekniikoiden kehittämiseen. Nuance pidättää itsellään oikeuden myös luovuttaa edellä mainitut puhetiedot Nuancen kumppaneille. Puhetietoja säilytetään, kunnes edellä mainitut tavoitteet on saavutettu. Tietoja Voice Memo -palveluista saat Samsungin tietosuojakäytännöstä ja Nuancen tietosuojakäytännöstä.
+ Voice Memoa ei voi käyttää, jos et suostu edellä kuvattuun tietojen luovuttamiseen."</string>
+    <string name="init_manage_notifications_desc">Valitse sovellukset, joista haluat vastaanottaa ilmoituksia %1$silla. Voit säästää %2$sin akkuvirtaa poistamalla sellaiset sovellukset käytöstä, joista et halua saada ilmoituksia.</string>
+    <string name="install_in_progress">Kesken…</string>
+    <string name="invalid_rename_character">Annettu virheellinen merkki. Yritä uudelleen.</string>
+    <string name="latest_version">Uusin versio asennettu</string>
+    <string name="latitude">Leveysaste</string>
+    <string name="limit_notification_desc">Estä hälytyksiä ilmestymästä Geariin, kun mobiililaite on käytössä.</string>
+    <string name="limit_notification_dialog_desc">Ilmoitusten estoa ei voi ottaa Gearissa käyttöön. Näytön lukitusta ei ole otettu mobiililaitteessa käyttöön.</string>
+    <string name="limit_notification_title">Rajoita ilmoituksia</string>
+    <string name="location_info_title">Jaa sijainti</string>
+    <string name="lock_gear_legal_text1">Voit estää Gearisi luvattoman käytön etälukitsemalla laitteen Lukitse Gear -toiminnolla. Gearin lukitus voidaan avata yhdistämällä Gear uudelleen mobiililaitteeseen.</string>
+    <string name="lock_gear_legal_text2">* Lukitse Gear -toiminto ei välttämättä toimi heti. Toiminto voi myös epäonnistua Gearisi, mobiililaitteesi tai verkkoympäristösi tilasta riippuen.</string>
+    <string name="lock_gear_text">Gearia ei voi lukita, kun mobiililaite ja Gear on yhdistetty Bluetoothilla.</string>
+    <string name="login_to_samsung_account">Kirjaudu Samsung-tilille</string>
+    <string name="login_to_samsung_account_desc">Jos haluat ottaa etäyhteyden Gearissa käyttöön, kirjaudu Samsung-tilillesi.</string>
+    <string name="login_to_samsung_account_full_desc">"Kirjaudu Samsung-tilillesi, jotta voit käyttää seuraavia toimintoja myös ilman Bluetooth-yhteyttä:
+- Ilmoitusten vastaanottaminen
+- Sovellusten käyttäminen etäyhteyden kautta
+Etäyhteyden käytöstä voi aiheutua lisämaksuja."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Kun et ole yhteydessä puhelimeesi Bluetooth-yhteyden välityksellä, Samsung-tilin avulla voit suorittaa seuraavat asiat käyttämällä mobiilidataa:
+- vastaanottaa viestejä, sähköpostiviestejä ja muita ilmoituksia
+- käyttää Gearilla sovelluksia, joiden on muodostettava yhteys puhelimeen Etäyhteys-toiminnolla.
+
+Huomaa, että etäyhteyden muodostaminen Samsung-tilisi kautta käyttää datakiintiötäsi."</string>
+    <string name="longitude">Pituusaste</string>
+    <string name="main_bt_unpaired">Ei pariliitosta</string>
+    <string name="main_disconnected">Yhteys katkaistu</string>
+    <string name="manage_applications">Hallitse sovelluksia</string>
+    <string name="manage_notifications">Ilmoitusten hallinta</string>
+    <string name="manual_call_forwarding_for_att_msg">"Älypuhelimeen soitetut puhelut voidaan siirtää Geariin:
+- Älypuhelin soi muutaman kerran, ja sitten puhelu siirretään Geariin.
+- Jos et vastaa puheluun Gearilla, soittaja voi jättää vastaajaviestin, jonka voit kuunnella Gearilla.
+Haluatko ottaa soitonsiirron käyttöön nyt?"</string>
+    <string name="manual_call_forwarding_popup_desc">Soitonsiirto on verkkopalvelu, joka kääntää laitteesta %s saapuvat puhelut tiettyyn numeroon. Jotkin palveluntarjoajat voivat vaatia tilauksen, ennen kuin Gear pystyy käyttämään tätä toimintoa. Tämä voi johtaa lisämaksuihin.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobiililaite</string>
+    <string name="masterapp_not_installed">Sovellusta %1$s ei ole asennettu mobiililaitteeseen. Jos haluat käyttää sovellusta %2$s Gearissa, lataa %1$s mobiililaitteeseen.</string>
+    <string name="masterapp_not_installed_goto_deeplink">Sovellusta %1$s ei ole asennettu mobiililaitteeseen. Jos haluat käyttää sovellusta %2$s Gearissa, lataa %1$s mobiililaitteeseen. Siirrytään latausnäyttöön.</string>
+    <string name="masterapp_uninstalled">Sovelluksen %1$s asennus on poistettu laitteesta. Jos haluat käyttää sovellusta %2$s Gearissa, lataa %1$s mobiililaitteeseen.</string>
+    <string name="maximum_size_warning">Merkkien enimmäismäärä on saavutettu.</string>
+    <string name="menu_about_device">TIETOJA %s -SOVELLUKSESTA</string>
+    <string name="menu_actionbar_remove">Poista</string>
+    <string name="menu_actionbar_uninstall">Poista asennus</string>
+    <string name="menu_appsandsettigns">SOVELLUKSET JA ASETUKSET</string>
+    <string name="menu_clock">Kello</string>
+    <string name="menu_display">MUOKKAA ALKUNÄYTTÖÄ</string>
+    <string name="menu_downloaded_font">LADATUT KIRJASIMET</string>
+    <string name="menu_filetransfertogear">SIIRRÄ TIEDOSTOT GEARIIN</string>
+    <string name="menu_gallery">Kuva</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Kuntoilu</string>
+    <string name="menu_help">Ohje</string>
+    <string name="menu_home_screen">Alkunäytön tyylin muokk.</string>
+    <string name="menu_music">Musiikki</string>
+    <string name="menu_myapp">Omat sovellukset</string>
+    <string name="menu_notification">Ilmoitukset</string>
+    <string name="menu_rename">Nimeä uudelleen</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="mobile_to_gear">Matkapuh. Geariin</string>
+    <string name="mobile_to_gear_des">Vastaanota mobiililaitteeseen soitettuja puheluita Gearilla, kun laitteet on yhdistetty etäältä.</string>
+    <string name="monotype_default_font">Oletusfontti</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Lisää</string>
+    <string name="more_options">Lisää aset.</string>
+    <string name="multisim_title">Multi-SIM</string>
+    <string name="navigate_up">Siirry ylös kohteeseen</string>
+    <string name="new_eula_error_log">Ilmoita vianmäär.tiedot</string>
+    <string name="new_eula_fmd2">Etsi laitteeni</string>
+    <string name="new_eula_fmg2">Etsi Gearini</string>
+    <string name="new_eula_news_briefing">Uutistiedotus</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung-näppäimistö</string>
+    <string name="new_notification_list">Luettelonäkymä</string>
+    <string name="new_notifications_list_desc">Näytä Gearilla vastaanotettujen ilmoitusten luettelo kellon vasemmalla puolella.</string>
+    <string name="no_application_selected">Sovelluksia ei ole valittu</string>
+    <string name="no_downloaded_applications">Ei ladattuja sovelluksia</string>
+    <string name="no_of_application_selected">%d sovellusta valittu</string>
+    <string name="no_remote_connection_popup_msg">Jos haluat ottaa Automaattinen soitonsiirto -toiminnon käyttöön, avaa Samsung Gear -sovellus mobiililaitteessa, ota Etäyhteys-toiminto käyttöön ja yritä uudelleen.</string>
+    <string name="no_remote_connection_popup_title">Ota Etäyhteys käyttöön</string>
+    <string name="notification_type">Ilmoituksen tyyppi</string>
+    <string name="notification_type_desc">Kun Gear on käytössä, ilmoitukset näytetään pieninä ponnahdusikkunoina näytön yläosassa edelliseen valintaan katsomatta.</string>
+    <string name="number_setting">Numeroasetus</string>
+    <string name="ok">OK</string>
+    <string name="once">Kerran</string>
+    <string name="one_application_selected">1 sovellus valittu</string>
+    <string name="popup_attention_email_msg">Joitakin sähköpostitilejä ei ole valittu Sähköpostiasetukset-kohdassa. Jos haluat saada ilmoituksia kyseisiltä Gearin tileiltä, valitse Sähköpostiasetukset-kohdasta Sähköposti-ilmoitukset.</string>
+    <string name="popup_attention_message_msg">Jos haluat lähettää ja vastaanottaa viestejä Gearilla, sovelluksen %s tilalle vaihdetaan oletusviestintäsovellukseksi Viestintä.</string>
+    <string name="popupmenu_search_for_new_device">Laitteiden hallinta</string>
+    <string name="preview_message_desc">Näytä saapuvien puheluiden hälytyksiä ja herätyksiä lukuun ottamatta vastaanotettujen ilmoitusten esikatselukuva Gearin ilmoitusponnahdusikkunoissa.</string>
+    <string name="preview_message_title">Viestin esikatselu</string>
+    <string name="primary">Ensisijainen</string>
+    <string name="privacypolicy_fmgfmd">Ottamalla käyttöön palvelun %1$s &amp; %2$s hyväksyt sen, että matkapuhelimeesi ja/tai Gear-laitteeseesi liittyviä paikkatietoja lähetetään Samsungin palvelimen kautta, jotta %1$s &amp; %2$s -palvelu voidaan tarjota. Samsungin palvelimelle ei tallenneta tietoja laitteen sijainnista.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Ottamalla käyttöön palvelun %1$s &amp; %2$s hyväksyt sen, että matkapuhelimeesi liittyviä paikkatietoja lähetetään Samsungin palvelimen kautta, jotta %2$s -palvelu voidaan tarjota. Samsungin palvelimelle ei tallenneta tietoja laitteen sijainnista.</string>
+    <string name="privacypolicy_newsbriefing">Tämän sovelluksen avulla käyttäjät voivat vuorovaikuttaa sosiaalisessa mediassa ja Internetissä monipuolisesti ja innovatiivisesti. Jos otat sovelluksen käyttöön, palvelu kerää tietoja palveluiden käyttötavoistasi, esimerkiksi siitä, miten tarkastelet sisältöä ja mainoksia ja millaista vuorovaikutusta siitä syntyy. Katso lisätietoja Flipboardin %1$skäyttöehdoista%2$s ja %3$stietosuojakäytännöstä%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">﻿Samsungin tietosuojakäytäntö</string>
+    <string name="progressdialog_please_wait">Ole hyvä ja odota…</string>
+    <string name="progressdialog_reinstalled_message">Asennetaan…</string>
+    <string name="progressdialog_reinstalled_popup_content">Asenna uud.</string>
+    <string name="providerapp_reinstalled">%s ei toimi oikein, joten sen asennus on poistettu. Se asennetaan nyt uudelleen.</string>
+    <string name="quick_tutorial_add_shortcuts">Jos haluat lisätä pikakuvakkeita Gearin alkunäyttöön, siirry Gearissa Sovellukset-kohtaan, paina sovelluksen kuvaketta jonkin aikaa ja vedä ja pudota se näytön yläosassa olevan alkunäytön kuvakkeen päälle.</string>
+    <string name="quick_tutorial_gear_structure">Kello näytetään Gearin alkunäytön pääsivulla. Kellon vasemmalla puolella olevilla sivuilla näkyvät ilmoitukset ja sen oikealla puolella olevilla sivuilla näkyvät pienoisohjelmat. Voit näyttää sovellukset pyyhkäisemällä näytön alareunasta ylöspäin.</string>
+    <string name="quick_tutorial_noti_title">%s: esittely</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Voit avata S Voicen sanomalla ”Hi Gear” tai painamalla kotinäppäintä missä tahansa näytössä kaksi kertaa.</string>
+    <string name="quick_tutorial_swipe_downwards">Avaa suosikkisovelluksesi painamalla kotinäppäintä kaksi kertaa. Voit muuttaa suosikkisovelluksiasi Asetukset-kohdassa.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Avaa suosikkisovelluksesi painamalla virtanäppäintä kaksi kertaa. Voit muuttaa suosikkisovelluksiasi Asetukset-kohdassa.</string>
+    <string name="quick_tutorial_to_go_back">Voit palata pyyhkäisemällä näyttöä reunasta alaspäin.</string>
+    <string name="remote_connection_disabled_settings">Asetukset</string>
+    <string name="remote_connection_enabled_desc">Gear yhdistetään Bluetooth-yhteyden katketessa etäältä.</string>
+    <string name="requested">Pyydetty</string>
+    <string name="reset_gear_legal_text1">Voit poistaa kaikki tiedot Gearistasi etänä Tyhjennä Gear -toiminnolla. Tietojen poistamisen jälkeen tietoja ei voi enää palauttaa, etkä voi enää käyttää Etsi Gearini -toimintoa.</string>
+    <string name="reset_gear_legal_text2">* Tyhjennä Gear -toiminto ei välttämättä toimi heti. Toiminto voi myös epäonnistua Gearisi, mobiililaitteesi tai verkkoympäristösi tilasta riippuen.</string>
+    <string name="restore_complete">Palautus valmis</string>
+    <string name="restore_some_error">Palautus epäonnistui. Yritä uudelleen.</string>
+    <string name="restore_try_again">Yritä uud.</string>
+    <string name="restore_watch_settings_content2">"Käytä laitteen tallennustilaa laitteessa %1$s olevan sisällön varmuuskopiointiin:
+%2$s
+
+Jos olet aikaisemmin varmuuskopioinut tämän sisällön, voit palauttaa sen laitteeseen %3$s nyt.
+
+iedoston koon mukaan tämä voi kestää jonkin aikaa.
+
+Voit muuttaa varmuuskopiointiasetuksia Asetukset-kohdassa."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">ASETUKSET</string>
+    <string name="retrieve_dialog_desc">Haetaan sovellusluetteloa…</string>
+    <string name="sa_email">Sähköposti</string>
+    <string name="sa_error_0203_desc">Päivitä Samsung-tili manuaalisesti etäyhteyden ottamiseksi käyttöön.</string>
+    <string name="sa_error_0203_title">Päivitä Samsung-tili</string>
+    <string name="sa_error_0301_desc">Mobiililaitteesta Samsung-tilille kirjauduttaessa tapahtui verkkovirhe.</string>
+    <string name="sa_error_0301_title">Toimintoa ei voi käyttää</string>
+    <string name="sa_error_0302_desc">Mobiililaitteesta Samsung-tilille kirjauduttaessa tapahtui verkkovirhe.</string>
+    <string name="sa_error_0302_title">Toimintoa ei voi käyttää</string>
+    <string name="sa_error_0401_desc">Tapahtui virhe. Yritä uudelleen.</string>
+    <string name="sa_error_0401_title">Virhe</string>
+    <string name="safety_message_interval_10minutes">10 minuutin välein</string>
+    <string name="safety_message_interval_20minutes">20 minuutin välein</string>
+    <string name="samsung_apps_info">%1$sin kautta ladatut sovellukset voidaan poistaa, kun %2$sin asennus poistetaan tai sovellustiedot poistetaan. Voit ladata poistetut sovellukset %3$sin ostohistoriasta.</string>
+    <string name="samsung_apps_notice">Ilmoitus</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Päivitä nyt</string>
+    <string name="screen_off">Pidä näyttö sammutettuna</string>
+    <string name="screen_off_desc">Vastaanota saapuvien puheluiden hälytyksiä ja herätyksiä lukuun ottamatta ilmoituksia, kun Gearin näyttö on sammutettuna.</string>
+    <string name="setting_Enable">Päälle</string>
+    <string name="setting_alpm_dialog_title">Huomio</string>
+    <string name="setting_always_off">Aina pois</string>
+    <string name="setting_always_on">Aina päällä</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Järjestelmänvalvoja, salauskäytäntö tai valtuustietosäilö poistanut käytöstä.</string>
+    <string name="setting_backup_restore2">Varmuuskopioi ja palauta</string>
+    <string name="setting_basic">PERUSTEET</string>
+    <string name="setting_connections">YHTEYDET</string>
+    <string name="setting_disable">Ei käyt.</string>
+    <string name="setting_home_key_double_pressing">Kotinäpp. kaksoispain.</string>
+    <string name="setting_language_input">KIELI JA SYÖTTÖ</string>
+    <string name="setting_manage_text_templates">Muokkaa tekstimalleja</string>
+    <string name="setting_mobile_network">Matkapuhelinverkot</string>
+    <string name="setting_mobile_network_desc">Gearin yhteys matkapuhelinverkkoon katkaistaan, kun se on yhteydessä mobiililaitteeseen Bluetoothilla. Kun Bluetooth-yhteys katkaistaan, Gear muodostaa taas automaattisesti yhteyden matkapuhelinverkkoon.</string>
+    <string name="setting_multisim_popup_desc">Joillakin palveluntarjoajilla Multi-SIM-toiminnon käyttäminen voi edellyttää erillistä tilausta. Ota Multi-SIM-toiminto käyttöön napauttamalla OK.</string>
+    <string name="setting_opensource">Avoimen lähdek. lisenssi</string>
+    <string name="setting_palm_motion">Liikkeet</string>
+    <string name="setting_palm_swipe">Kuvaa pyyhkäisemällä</string>
+    <string name="setting_palmover_desc">Voit mykistää saapuvat puhelut ja hälytykset tai keskeyttää mediatiedostojen toiston näytön ollessa käytössä asettamalla kätesi näytön päälle.</string>
+    <string name="setting_palmswipe_desc">Ota näyttökuva pyyhkäisemällä koko sormellasi näytön halki, koskettamalla näyttöä koko ajan.</string>
+    <string name="setting_pause_mute">Mykistä/keskeytä</string>
+    <string name="setting_power_key_double_pressing">Virtan. kaksoispainallus</string>
+    <string name="setting_restoring">Palautetaan…</string>
+    <string name="setting_safety_b1_desc">Kun Gear ja mobiililaite on yhdistetty, Lähetä hätäviestejä -toiminto auttaa sinua hätätilanteessa. Se ilmoittaa tilanteestasi hätäviestiyhteyshenkilöille lähettämällä heille sijaintitietosi sisältäviä hätäviestejä. Näiden viestien lähettäminen voi aiheuttaa lisämaksuja. Voit ottaa Lähetä hätäviestejä -toiminnon hätätilanteessa käyttöön painamalla virtanäppäintä %d kertaa.</string>
+    <string name="setting_safety_b2_desc">Kun Gear ja mobiililaite on yhdistetty, Lähetä hätäviestejä -toiminto auttaa sinua hätätilanteessa ottamalla kuvan Gearin kameralla. Se ilmoittaa tilanteestasi hätäviestiyhteyshenkilöille lähettämällä heille tämän kuvan sisältäviä hätäviestejä yhdessä sijaintitietojesi kanssa. Ensimmäinen viesti sisältää sekä sijainnin että kuvan. Jonkin ajan kuluttua lähetetään toinen viesti, joka sisältää vain sijainnin. Näiden viestien lähettäminen voi aiheuttaa lisämaksuja. Voit ottaa Lähetä hätäviestejä -toiminnon hätätilanteessa käyttöön painamalla kotinäppäintä %d kertaa.</string>
+    <string name="setting_safety_b2_no_camera_desc">Kun Gear ja mobiililaite on yhdistetty, Lähetä hätäviestejä -toiminto auttaa sinua hätätilanteessa. Se ilmoittaa tilanteestasi hätäviestiyhteyshenkilöille lähettämällä heille sijaintitietosi sisältäviä hätäviestejä. Näiden viestien lähettäminen voi aiheuttaa lisämaksuja. Voit ottaa Lähetä hätäviestejä -toiminnon hätätilanteessa käyttöön painamalla kotinäppäintä %d kertaa.</string>
+    <string name="setting_safety_b3_desc1">Jos olet hätätilanteessa, lähetä ensisijaisille yhteyshenkilöille hätäviesti painamalla kotinäppäintä kolme kertaa nopeasti peräkkäin.</string>
+    <string name="setting_safety_b3_desc2">Ensisijaiset yhteyshenkilöt saavat nykyisen sijaintisi tiedot sisältäviä hätäviestejä.</string>
+    <string name="setting_safety_b3_desc3">Yhdistä mobiililaite Geariin tämän toiminnon käyttöä varten.</string>
+    <string name="setting_safety_list">Turvallisuustuki</string>
+    <string name="setting_samsung_legal">Samsungin lakisääteiset tiedot</string>
+    <string name="setting_screen_lock">Automaattinen lukitus</string>
+    <string name="setting_screen_lock_desc">Lukitse mobiililaite Gearin avulla.</string>
+    <string name="setting_screen_secutiry">NÄYTÖN SUOJAUS</string>
+    <string name="setting_send_emergency_picture">Lähetä hätäkuva</string>
+    <string name="setting_send_emergency_recording">Lähetä äänitallenne</string>
+    <string name="setting_send_emergency_term_agree">Olen lukenut ja hyväksyn edellä kuvatut käyttöehdot.</string>
+    <string name="setting_send_help_message">Lähetä hätäviestejä</string>
+    <string name="setting_send_terms_conditions">Käyttöehdot</string>
+    <string name="setting_smart_relay">Älykäs edelleenvälitys</string>
+    <string name="setting_smart_relay_desc">Nosta mobiililaite Gearissa olevan sisällön näyttämiseksi mobiililaitteessa.</string>
+    <string name="setting_smart_toss">Älykäs heitto</string>
+    <string name="setting_system">JÄRJESTELMÄ</string>
+    <string name="setting_text_to_speech_engine">Teksti puheeksi -moduuli</string>
+    <string name="setting_textinput_emoticon">Hymiöt</string>
+    <string name="setting_textinput_keyboard">Näppäimistö</string>
+    <string name="setting_textinput_list">Tekstin syöttötavat</string>
+    <string name="setting_textinput_templates">Mallit</string>
+    <string name="setting_try_it">Kokeile</string>
+    <string name="setting_wake_up">Aktivointiele</string>
+    <string name="setting_wake_up_desc">Aktivoi Gear nostamalla käsivartesi, jossa Gear on.</string>
+    <string name="setting_wakeupgesture">"Jos haluat aktivoida Gearin, nosta käsivartesi, jossa Gear on, ja katso Gearin näyttöä.
+
+Tämä toiminto ei toimi, kun nojaat taaksepäin tai makaat selälläsi, ja se voi kuluttaa tavallista enemmän Gearin virtaa, sillä liiketunnistin on aina käytössä."</string>
+    <string name="setting_wakeupgesture_clock">Kello</string>
+    <string name="setting_wakeupgesture_previous">Viimeksi katsottu näyttö</string>
+    <string name="setting_wakeupgesture_screen_on">Valitse avattu näyttö</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Valitse avattu näyttö</string>
+    <string name="settings">Asetukset</string>
+    <string name="settings_application_version">Sovellusversio</string>
+    <string name="settings_emergency_contact">Hallitse ensisij. yhteyshenk.</string>
+    <string name="settings_emergency_contact_empty">Ensisijaisia yhteyshenkilöitä ei ole lisätty. Jos haluat ottaa %s -toiminnon käyttöön, lisää yhteyshenkilöitä Ensisijaiset yhteyshenkilöt -kohtaan.</string>
+    <string name="settings_legal_information">Lakisääteiset tiedot</string>
+    <string name="settings_message_interval">Viestien aikaväli</string>
+    <string name="settings_not_set">Ei asetettu</string>
+    <string name="settings_security">Turvallisuus</string>
+    <string name="settings_security_update">Suojauspäivitys</string>
+    <string name="settings_security_update_desc">Suojaa laitettasi haitallisilta sisällöiltä parantamalla sen suojausta ja palvelua.</string>
+    <string name="settings_unknown_sources_dialog">Asentaminen tuntemattomista lähteistä voi vahingoittaa laitetta ja henkilökohtaisia tietoja. Napauttamalla OK hyväksyt, että olet yksin vastuussa laitteelle aiheutuvista vahingoista tai tietojen menettämisestä, joita näiden sovellusten käyttö voi aiheuttaa.</string>
+    <string name="settings_unknown_sources_subtitle">Salli sovellusten asennus tuntemattomista lähteistä.</string>
+    <string name="share_loc_disabled">Sijainnin jako poistettu käytöstä.</string>
+    <string name="share_location_desc">Anna Etsi Gearini- ja Etsi laitteeni -toimintojen jakaa Gearin ja mobiililaitteen sijaintitiedot.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Hyväksyn, että hätätilanteissa voidaan käyttää mobiilidataa ja lähettää multimediaviestejä. Ymmärrän, että tästä voi aiheutua lisämaksuja.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Lähetä avunpyyntöviesti -toiminto on käyttäjien aputoiminto, joka lähettää ilmoituksen käyttäjän likimääräisestä sijainnista sekä ympäristön kuva- ja äänitietoja etukäteen määritetyn valitun yhteyshenkilön matkapuhelimeen. Toiminto on lisätoiminto, eikä sitä ole tarkoitettu korvaamaan hätäpuheluita viranomaisille.
+
+2. Lähetä avunpyyntöviesti -toiminto (Palvelut) ei ehkä toimi tarkasti, jatkuvasti tai virheettömästi riippuen verkkoyhteydestä, GPS- ja Wi-Fi-tietojen saatavuudesta ja/tai sinun/valitun yhteyshenkilön laitteesta, akun varauksesta ja/tai muista olosuhteista, joihin Samsung Electronics Co., Ltd. (Samsung, me) ei voi vaikuttaa. Ympäristön, oman laitteesi ja valitun yhteyshenkilön laitteen tila saattavat vaikuttaa Palvelujen sijaintitietojen tarkkuuteen ja tietojen lähetysnopeuteen. Ellei toisin mainita tai ellei laki niin vaadi, Samsung irtisanoutuu kaikista Palveluihin liittyvistä takuista ja sitoumuksista koskien Palveluiden tarkkuutta ja keskeytymätöntä ja virheetöntä toimivuutta. Valitulla yhteyshenkilöllä on oltava toimiva matkapuhelin, laitteen on oltava käynnissä ja laitteessa on oltava tekstiviestiominaisuus. Sijaintitietojen välittämisestä saatetaan periä erillinen maksu palveluntarjoajan määrittämien hintojen mukaan.
+
+Palvelujen toiminta käyttötarkoituksen mukaisesti saattaa edellyttää, että käyttäjän laitteessa on käytössä automaattinen GPS- ja Wi-Fi-yhteys. Hyväksyt sen, että GPS- ja Wi-Fi-toiminnot tulevat tarvittaessa automaattisesti käyttöön laitteessasi ilman erillistä ilmoitusta tai suostumustasi.
+
+3. Sitoudut siihen, että et käytä toimintoa väärin tai mihinkään laittomiin tarkoituksiin tai loukkaa muiden henkilöiden yksityisyyttä tai oikeuksia. Toimintoa on käytettävä lain mukaisesti ja ainoastaan hätätilanteessa. Suostut ottamaan yksinomaisen vastuun toiminnon käytöstä. Samsung ei vastaa mistään toiminnon käytöstä mahdollisesti aiheutuvista seurauksista.
+
+4. Palvelut on tarkoitettu vain täydentäviksi sovelluksiksi, eikä niitä ei ole tarkoitettu korvaamaan hätäpuheluita viranomaisille. Ellei toisin mainita tai ellei laki niin vaadi, Samsung irtisanoutuu kaikista Palveluihin liittyvistä takuista ja sitoumuksista koskien Palveluiden tarkkuutta ja keskeytymätöntä ja virheetöntä toimivuutta.
+
+5. VASTUUVAPAUSLAUSEKE. YMMÄRRÄT JA HYVÄKSYT, ETTÄ:
+ 
+A. PALVELUT TARJOTAAN SELLAISINA KUIN NE OVAT, KAIKKINE VIKOINEEN JA SITEN KUIN NE KULLOINKIN OVAT SAATAVILLA. KÄYTÄT NIITÄ OMALLA VASTUULLASI. SAMSUNG JA SEN LISENSSINANTAJAT EIVÄT MYÖNNÄ NIMENOMAISIA TAKUITA TAI SITOUMUKSIA PALVELUIDEN OSANA TAI NIIHIN LIITTYEN. SAMSUNG JA SEN LISENSSINANTAJAT SANOUTUVAT NIMENOMAISESTI IRTI KAIKISTA NIMENOMAISISTA TAI EPÄSUORISTA SITOUMUKSISTA JA TAKUISTA, MUKAAN LUKIEN KAIKKI TAKUUT JA SITOUMUKSET, JOTKA KOSKEVAT MYYNTIKELPOISUUTTA, SOVELTUVUUTTA TIETTYYN TARKOITUKSEEN TAI TOISTEN OIKEUKSIEN RIKKOMATTOMUUTTA, SEKÄ KAIKKI KAUPPA- TAI TOIMINTATAPAAN PERUSTUVAT TAKUUT JA SITOUMUKSET.
+
+B. EDELLÄ MAINITTUA RAJOITTAMATTA SAMSUNG JA SEN LISENSSINANTAJAT EIVÄT ANNA TAKUUTA TAI SITOUMUSTA SIITÄ, ETTÄ (i) PALVELUT VASTAAVAT VAATIMUKSIASI, (ii) PALVELUT OVAT HÄIRIÖTTÖMIÄ, NOPEITA, TURVALLISIA TAI VIRHEETTÖMIÄ, (iii) PALVELUISTA SAATU SISÄLTÖ TAI MIKÄÄN PALVELUIDEN ILMOITUS TAI TOIMINTO ON SAATAVILLA, TARKKA, TÄYDELLINEN TAI LUOTETTAVA, (iv) PALVELUIDEN TAI MINKÄÄN NIIDEN KAUTTA SAATUJEN TIETOJEN TAI MUUN AINEISTON LAATU VASTAA ODOTUKSIASI TAI (v) MITÄÄN PALVELUISSA OLEVIA VIRHEITÄ TAI VIKOJA KORJATTAISIIN.
+
+6. VASTUUNRAJOITUS.
+
+A. YMMÄRRÄT JA ANNAT NIMENOMAISEN HYVÄKSYNTÄSI SILLE, ETTÄ SAMSUNG JA SEN LISENSSINANTAJAT EIVÄT OLE VASTUUSSA TUOTTAMUKSEN TAI MINKÄÄN MUUN JURIDISEN TAI OIKEUDENMUKAISUUSPERIAATTEEN MUKAISESTI, MUKAAN LUKIEN SOPIMUS-, SOPIMUKSEN ULKOINEN JA ANKARA VASTUU, MISTÄÄN VÄLITTÖMÄSTÄ, VÄLILLISESTÄ, SATUNNAISESTA, ERITYISESTÄ, PUNITIIVISESTA, EPÄSUORASTA TAI RANGAISTUKSEN LUONTOISEEN KORVAUKSEEN OIKEUTTAVASTA TAPPIOSTA, MENETYKSESTÄ, VAHINGOSTA TAI KULUSTA, MUKAAN LUKIEN SAAMATTA JÄÄNYT VOITTO, KÄYTTÖMAHDOLLISUUDEN MENETYS TAI MUUT VAHINOT (SIINÄKÄÄN TAPAUKSESSA, ETTÄ PALVELUIDEN KORJAUS, KORVAAMINEN TAI TAKAISINMAKSU EI KOKONAAN KATA VAHINKOA TAI SAMSUNG JA/TAI SEN LISENSSINANTAJAT TIESIVÄT TAI SAMSUNGIN JA/TAI SEN LISENSSINANTAJIEN OLISI PITÄNYT TIETÄÄ KYSEISEN TAPPION, MENETYKSEN, VAHINGON TAI KULUN MAHDOLLISUUDESTA), JOKA SEURAA TAI AIHEUTUU SUORAAN TAI EPÄSUORAAN: (i) KORVAUSVAATIMUKSISTA SOPIMUSRIKKOMUKSEN, TAKUUN TAI SITOUMUKSEN RIKKOMISEN VUOKSI, ANKARAN VASTUUN, TUOTTAMUSVASTUUN TAI MUUN VASTUUPERUSTEEN VUOKSI SOVELLETTAVAN LAIN MUKAISESTI; (ii) PALVELUIDEN KÄYTÖSTÄ TAI KYVYTTÖMYYDESTÄ KÄYTTÄÄ PALVELUITA, (iii) KORVAAVIEN PALVELUIDEN HANKINTAKUSTANNUKSISTA; (iv) LÄHETYSTEN TAI TIETOJEN LUVATTOMASTA KÄYTÖSTÄ TAI MUUTTAMISESTA; (v) MINKÄ TAHANSA KOLMANNEN OSAPUOLEN ILMOITUKSISTA TAI KÄYTTÄYTYMISESTÄ; (vi) TÄSTÄ SOPIMUKSESTA; (vii) HENKILÖ- TAI OMAISUUSVAHINGOISTA (MUKAAN LUKIEN KUOLEMA) TAI (viii) MISTÄ TAHANSA PALVELUIHIN TAI PALVELUIDEN KAUTTA TOIMITETTUUN SISÄLTÖÖN LIITTYVÄSTÄ SEIKASTA.
+
+B. AINOA JA YKSINOMAINEN OIKEUSKEINOSI MIHIN TAHANSA SAMSUNGIN TAI SEN LISENSSINANTAJIEN KANSSA SYNTYNEESEEN KIISTAAN, JOKA LIITTYY TÄHÄN SOPIMUKSEEN TAI PALVELUIHIN, ON LAKATA KÄYTTÄMÄSTÄ PALVELUITA.
+
+C. JOTKIN LAINKÄYTTÖALUEET EIVÄT SALLI TIETTYJEN TAKUIDEN TAI SITOUMUSTEN POIS JÄTTÄMISTÄ TAI VASTUUNRAJOITUSTA VÄLITTÖMIEN TAI VÄLILLISTEN VAHINKOJEN OSALTA. NÄIN OLLEN KAIKKI KOHDISSA 5 JA 6 MAINITUT RAJOITUKSET EIVÄT VÄLTTÄMÄTTÄ KOSKE SINUA.
+
+7. KORVAUSVELVOLLISUUS. Sitoudut puolustamaan Samsungia ja sen lisenssinantajia, korvaamaan niille aiheutuneet vahingot ja olemaan ryhtymättä niitä vastaan oikeustoimiin koskien kaikkia sellaisia vaateita, kanteita, vaatimuksia, kustannuksia, vastuita, tappioita, sakkoja ja kuluja (mukaan lukien kohtuulliset asianajopalkkiot ja -kustannukset), jotka liittyvät siihen tai johtuvat siitä, että olet käyttänyt Palveluita tai et ole noudattanut tätä sopimusta. Jos näiden käyttöehtojen mukaisesti sinulle myönnettyjen käyttöoikeuksien henkilökohtaisesta luonteesta huolimatta annat jonkun henkilön käyttää Palveluita tai annat kenelle tahansa henkilölle mitä tahansa Palveluiden kautta saatuja tietoja, sitoudut ilmoittamaan kyseiselle henkilölle näiden käyttöehtojen olemassaolosta ja määräyksistä, jotka sitovat kyseistä henkilöä, ja sitoudut puolustamaan Samsungia ja sen lisenssinantajia, korvaamaan niille aiheutuneet vahingot ja olemaan ryhtymättä niitä vastaan oikeustoimiin koskien kaikkia sellaisia vaateita, kanteita, vaatimuksia, kustannuksia, vastuita, tappioita, sakkoja tai kuluja vastaan (mukaan lukien kohtuulliset asianajopalkkiot ja -kustannukset), jotka liittyvät kyseisen henkilön Palveluiden käyttämiseen.
+
+8. Ylivoimainen este. Samsung ei ole vastuussa mistään näiden käyttöehtojen mukaisen käytön viivästymisestä tai häiriöstä tai Palveluiden keskeytymisestä, kun sen aiheuttaa tapahtuma, kuten siviili- tai sotilasviranomaisen toimenpide, sota, terrorismiteot, työtaistelut, kolmansien osapuolien tarjoamat aineistot tai palvelut tai mikä tahansa syy, joka ei ole kohtuudella Samsungin vaikutusmahdollisuuksien puitteissa."</string>
+    <string name="shm_share_my_location_checkbox_text">Hyväksyn, että %1$s jakaa sijaintitietoni yhteyshenkilöiden kanssa, joiden tyyppi on %2$s.</string>
+    <string name="smartrelay_not_show">Älä näytä uudelleen</string>
+    <string name="software_update">Ohjelmistopäivitys</string>
+    <string name="ss_double_tap_any_screen">Voit näyttää kirkkauden ja äänenvoimakkuuden säätimet sekä muita hyödyllisiä tietoja kaksoisnapauttamalla näyttöä kahdella sormella.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Puheluiden siirtäminen Geariin</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Pyydetään…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Luetaan asetuksia…</string>
+    <string name="ss_loading_ing_abb">Ladataan…</string>
+    <string name="ss_mobile_data_is_disabled">Mobiilidata on poistettu käytöstä. Muodosta sen sijaan yhteys WLAN-verkon kautta tai ota mobiilidata käyttöön ja yritä uudelleen.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobiilidata on poistettu käytöstä. Muodosta sen sijaan yhteys Wi-Fi-verkon kautta tai ota mobiilidata käyttöön ja yritä uudelleen.</string>
+    <string name="ss_no_network_connection">Ei verkkoyhteyttä</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Käyttöopas</string>
+    <string name="str_no">Ei, kiitos</string>
+    <string name="str_yes">Kyllä</string>
+    <string name="stub_list_install">Asenna</string>
+    <string name="sw_eula_condition">Ymmärrän ja hyväksyn yllä olevat ehdot.</string>
+    <string name="sw_eula_desc2">Suostut luovuttamaan Samsungille laitteen epäonnistuneiden ohjelmistopäivitysten virhelokeissa olevat tiedot. Tämä auttaa Samsungia kehittämään ja parantamaan Samsungin ohjelmistopäivitysprosessia ja siten pitämään laitteen asianmukaisesti ajan tasalla.</string>
+    <string name="tab_stub_list">Suositukset</string>
+    <string name="talkback_download">Lataa</string>
+    <string name="talkback_setting">Asetus</string>
+    <string name="the_samsung_gear_application">Samsung Gear -sovellus</string>
+    <string name="threeg_connection">Käytä Etäyhteys-toimintoa</string>
+    <string name="threeg_connection_subtitle">Muodosta Geariin etäyhteys käyttämällä mobiilidataa tai Wi-Fi-toimintoa yhdessä Samsung-tilisi kanssa.</string>
+    <string name="threeg_connection_subtitle_chn">Muodosta Geariin etäyhteys käyttämällä mobiilidataa tai WLAN-toimintoa yhdessä Samsung-tilisi kanssa.</string>
+    <string name="title_activity_clock_delete">Poista asennus</string>
+    <string name="title_activity_connect_popup">Yhdistä</string>
+    <string name="title_activity_paired_watch">Pariksi liitetty laite</string>
+    <string name="title_alertdialog_device_name_popup">Nimeä %s uudelleen</string>
+    <string name="title_alertdialog_disconnect_popup">Katkaise</string>
+    <string name="title_dialog_pm_error">Varoitus</string>
+    <string name="title_dialog_uninstall">Poista asennus</string>
+    <string name="title_eula">Lakisääteiset ilmoitukset</string>
+    <string name="title_findmywatch_connect2">Etsi Gearini</string>
+    <string name="title_findmywatch_finding">Etsitään…</string>
+    <string name="tri_connect_title_circle_to_gear">Yhdistä %1$s laitteeseen %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Jos yhdistät laitteen %1$s laitteeseen %2$s Bluetoothilla, laitteen %3$s yhteys mobiililaitteeseen katkaistaan tilapäisesti. Yhteys palautetaan pian, minkä jälkeen %4$s yhdistetään sekä laitteeseen %5$s että mobiililaitteeseen.</string>
+    <string name="tt_install_voice_data">Asenna TTS-äänitiedot</string>
+    <string name="tt_install_voice_data_required">Asenna Geariin muita teksti puheeksi -kieliä.</string>
+    <string name="tt_language">Kieli</string>
+    <string name="tt_send_help_message">Lähetä hätäviestejä</string>
+    <string name="tt_tts_language_guide">Teksti puheeksi -kielenä käytetään Gearin asetuksissa määritettyä kieltä. Jos teksti puheeksi -moduuli ei tue kyseistä kieltä, kieleksi valitaan englanti (Iso-Britannia).</string>
+    <string name="unable_to_connect_popup_message">Gearin yhdistäminen mobiililaitteeseen epäonnistui. Yritä myöhemmin uudelleen.</string>
+    <string name="unable_to_connect_popup_title">Yhdistäminen epäonnistui</string>
+    <string name="unable_to_lock_gear">Gearia ei voi lukita</string>
+    <string name="unable_to_reset_gear">Gearin asetuksia ei voi palauttaa</string>
+    <string name="unabled_health">Tätä sovellusta ei voi avata, sillä se on poistettu käytöstä.</string>
+    <string name="uninstall_applications">Poista sovellusten asennus</string>
+    <string name="unknown_sources_msg_new">Sovellusta %1$s ei asenneta %2$sin kautta. Laite ja henkilökohtaiset tiedot ovat tavallista haavoittuvampia tuntemattomasta lähteestä peräisin olevien sovellusten hyökkäyksille. Hyväksyt, että olet yksin vastuussa laitteelle aiheutuvista vahingoista tai tietojen menettämisestä, joita näiden sovellusten käyttö voi aiheuttaa. Jos haluat aina asentaa tuntemattomista lähteistä peräisin olevat sovellukset, valitse %3$s > %4$s > %5$s ja ota %6$s käyttöön. Asenna %7$s napauttamalla OK.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s ei ole peräisin %2$sista, eikä se sisällä Geariin tarkoitettua sovellusta. Laite ja tiedot ovat tavallista haavoittuvampia tuntemattomista lähteistä peräisin olevien sovellusten hyökkäyksille. Asennus peruutetaan ja sovellus %3$s poistetaan puhelimesta.</string>
+    <string name="unknown_sources_title">Tuntemattomat lähteet</string>
+    <string name="update_button">Päivitä</string>
+    <string name="update_summary">Tarkista päivitykset</string>
+    <string name="update_the_latest_version">Päivitys saatavilla</string>
+    <string name="voice_control_subtitle">Vastaa puheluihin tai hylkää ne sanomalla taukojen aikana ”Answer” tai ”Reject”, kun Gear ei soi tai värise.</string>
+    <string name="voicememo_link1">Nuancen käyttöehdot</string>
+    <string name="voicememo_link2">﻿Samsungin tietosuojakäytäntö</string>
+    <string name="voicememo_link3">Nuancen tietosuojakäytännöstä</string>
+    <string name="watchapp_all">Sovellukset</string>
+    <string name="watchapp_noapps">Sovelluksia ei ole</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Päivitetään…</string>
+    <string name="wifi_only">Vain Wi-Fi</string>
+    <string name="wifi_only_chn">Vain WLAN</string>
+    <string name="wifi_only_summary">Lataa päivityksiä vain silloin, kun olet yhteydessä Wi-Fi-verkkoon.</string>
+    <string name="wifi_only_summary_chn">Ladattavissa vain silloin, kun WLAN-yhteys on muodostettu.</string>
+    <string name="email_sanitize">Turvallisuussyistä tämän sähköpostiviestin sisältöä ei voi näyttää Gearissa. Lisätietoja saat katsomalla tämän sähköpostiviestin mobiililaitteessa.</string>
+    <string name="knox_sanitize">Siirry KNOX-tilaan napauttamalla tätä.</string>
+</resources>

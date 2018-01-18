@@ -1,0 +1,7 @@
+주의사항<br><br>
+
+S Voice 음성인식기능은 Nuance Communications Inc.(미국)가 제공합니다. 따라서 삼성은 S Voice 음성인식 >및 자연어 처리기능에서 발생하는 문제에 대하여 아무런 법적 책임이 없습니다. <br><br>
+
+Nuance 이용약관 및 고지<br><br>
+
+Nuance는 S Voice 음성인식 및 자연어 처리기능을 제공하기 위해 귀하의 위치, 음성, 단말 내 저장된 정보(연락처/음악리스트 등), 디바이스 정보(ID, 모델명, OS, 언어), 사용정보를 수집합니다. 수집된 정보는 서비스 제공/개>발/통계 목적으로 활용되며 Nuance의 제휴사에 제공될 수 있습니다. <a href="http://www.vlingo.com/wap/samsung-sv-terms/ko">Nuance 이용약관</a>에 동의하시겠습니까? 개인정보에 관한 자세한 사항은 <a href="http://www.vlingo.com/wap/samsung-sv-privacy/ko">Nuance Privacy Policy</a>를 참조하세요.

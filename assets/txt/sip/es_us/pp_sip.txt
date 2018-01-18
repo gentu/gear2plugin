@@ -1,0 +1,5 @@
+Acuerdo de suministro de información<br>
+El Teclado Samsung utiliza tecnologías de reconocimiento de voz proporcionadas por un tercero, Nuance Communications Inc. Por tanto, su información de voz se almacenará sin excepción alguna en un servidor propiedad de Nuance (en los Estados Unidos). El uso del Teclado Samsung implica la aceptación de los <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Términos y condiciones de Nuance</a>.
+Nuance se reserva el derecho a utilizar sus entradas de voz para mejorar servicios y desarrollar tecnologías. Nuance también se reserva el derecho a proporcionar dichas entradas de voz a sus socios. La información de sus entradas de voz se almacenará hasta que se cumplan los objetivos anteriormente mencionados. Para obtener información de los servicios del Teclado Samsung, lea la <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Política de privacidad de Nuance</a>. 
+No podrá usar el Teclado Samsung si no está de acuerdo con el suministro de la información que se describe en los párrafos precedentes.
+

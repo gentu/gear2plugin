@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_samsung_gear">Gear Manager</string>
+    <string name="closing_samsung_gear_message">Your Gear has been reset. The Gear Manager application will close shortly.</string>
+    <string name="closing_samsung_gear_title">Close Gear Manager application</string>
+    <string name="cmw_legal_content_2">Privacy Policy</string>
+    <string name="login_to_samsung_account_desc">To enable Remote connection on your Gear, sign in to your Galaxy account.</string>
+    <string name="login_to_samsung_account_full_desc">"Sign in to your Galaxy account to use the following features even when not connected via Bluetooth:
+- Receiving notifications
+- Using applications via Remote connection
+Using Remote connection may result in additional charges."</string>
+    <string name="menu_samsung_health">S Health</string>
+    <string name="menu_samsungapps">Galaxy Apps</string>
+    <string name="new_eula_sip">Galaxy keyboard</string>
+    <string name="no_remote_connection_popup_msg">To enable Auto call forwarding, open the Gear application on your mobile device and enable Remote connection, then try again.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Privacy Policy</string>
+    <string name="sa_error_0203_desc">To enable Remote connection, update Galaxy account manually.</string>
+    <string name="sa_error_0203_title">Update Galaxy account</string>
+    <string name="sa_error_0302_desc">A network error occurred while signing in to your Galaxy account on your mobile device.</string>
+    <string name="samsung_gear">Gear Manager</string>
+    <string name="setting_samsung_legal">Galaxy Legal notice</string>
+    <string name="the_samsung_gear_application">the Gear application</string>
+    <string name="threeg_connection_subtitle">Connect to your Gear remotely, using Mobile data or Wi-Fi together with your Galaxy account.</string>
+    <string name="voicememo_link2">Privacy Policy</string>
+    <string name="general_app_name_for_reinstall">The Gear application</string>
+</resources>

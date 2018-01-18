@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:custom="http://schemas.android.com/apk/res/com.samsung.android.gear2plugin">
+    <TextView android:gravity="center_vertical" android:id="@id/popup_title_textview" android:paddingLeft="@dimen/popup_left_right_margin" android:text="@string/enable_auto_call_forwarding_title" style="@style/TextView_PopupTitle" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/scroll_popup_layout" android:layout_width="fill_parent" android:layout_height="0.0dip" android:maxHeight="458.0dip" android:layout_weight="1.0">
+            <RelativeLayout android:id="@id/popup_message_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <LinearLayout android:orientation="vertical" android:id="@id/layout_mobileToGearImage" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_marginBottom="4.0dip">
+                    <ImageView android:layout_gravity="center" android:id="@id/mobileToGearImage" android:layout_width="250.0dip" android:layout_height="116.0dip" android:src="@drawable/forward_calls_to_gear" />
+                </LinearLayout>
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextItem android:id="@id/mobileToGearLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="2.0dip" android:layout_below="@id/layout_mobileToGearImage" custom:text="@string/mobile_to_gear" custom:subtext="@string/mobile_to_gear_des" />
+                <View android:id="@id/settings_items_simple_divider_1" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/mobileToGearLayout" />
+                <LinearLayout android:orientation="vertical" android:id="@id/layout_gearToMobileImage" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:layout_marginBottom="4.0dip" android:layout_below="@id/settings_items_simple_divider_1">
+                    <ImageView android:layout_gravity="center" android:id="@id/gearToMobileImage" android:layout_width="250.0dip" android:layout_height="116.0dip" android:src="@drawable/forward_calls_to_gear_1" />
+                </LinearLayout>
+                <com.samsung.android.gear2plugin.activity.setting.items.SettingDoubleTextWithCheckboxItem android:id="@id/gearToMobileLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/layout_gearToMobileImage" custom:text="@string/gear_to_mobile" custom:subtext="@string/gear_to_mobile_des" />
+                <View android:id="@id/settings_items_simple_divider_2" android:background="@drawable/manager_list_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/gearToMobileLayout" />
+                <TextView android:textSize="19.0sp" android:linksClickable="true" android:id="@id/popup_message_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="6.0dip" android:text="@string/dialog_reverse_msg" android:layout_below="@id/settings_items_simple_divider_2" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+                <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/checkbox_textview_layout" android:focusable="true" android:clickable="true" android:layout_width="wrap_content" android:layout_height="65.0dip" android:layout_below="@id/popup_message_textview" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin">
+                    <CheckBox android:gravity="left" android:id="@id/do_not_show_again_checkbox" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/manager_checkbox_btn" />
+                    <TextView android:textSize="19.0sp" android:layout_gravity="center_vertical" android:id="@id/do_not_show_again_textview" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/checkbox_left_margin" android:text="@string/do_not_show_again" android:singleLine="true" style="@style/TextView_PopupDesc" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/popup_button_layout" android:paddingTop="24.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/popup_btn_height" android:layout_below="@id/popup_body_layout">
+            <TextView android:id="@id/cancel_btn" android:text="@string/cancel" style="@style/TextView_PopupButton" />
+            <TextView android:id="@id/ok_btn" android:layout_marginRight="8.0dip" android:text="@string/ok" style="@style/TextView_PopupButton" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">ඔබගේ උපාංගය මත %1$s ස්ථාපනය වී නොමැත. ඔබගේ ගියරය මත %2$s භාවිතා කිරීමට, ඔබගේ ජංගම උපාංගය වෙත %1$s බාගන්න.</string>
+    <string name="attention_popup_title">අවධානය යොමු කරන්න</string>
+    <string name="clock_new_clock_settings_applied_via_gear">ගියර් හරහා යොදන ලද නව ඔරලෝසු සැකසුම්.</string>
+    <string name="invalid_rename_character">වලංගු නොවූ අනුලකුණ ඇතුළු කරන ලදී. නැවත උත්සාහ කරන්න.</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="sa_email">ඊමේල්</string>
+    <string name="shealth_menu">S Health</string>
+</resources>

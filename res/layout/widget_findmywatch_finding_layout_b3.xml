@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/find_mywatch_connect_layout" android:background="@drawable/manager_widget_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/fmg_text_textsize" android:textColor="@color/widget_finding" android:id="@id/find_mywatch_connect_find" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fmg_text_marginleft" android:layout_marginTop="@dimen/fmg_text_margintop" android:text="@string/title_findmywatch_finding" />
+    <LinearLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fmg_linear_marginleft" android:layout_marginTop="@dimen/fmg_linear_margintop" android:layout_marginRight="@dimen/fmg_linear_marginright">
+        <ImageView android:id="@id/find_mywatch_connecting_widget_img_default" android:layout_width="@dimen/fmg_imageview_width" android:layout_height="@dimen/fmg_imageview_height" android:src="@drawable/widget_finding_animation" />
+        <ImageView android:id="@id/find_mywatch_connecting_widget_img" android:layout_width="@dimen/fmg_imageview2_width" android:layout_height="@dimen/fmg_imageview2_height" />
+    </LinearLayout>
+    <ImageView android:id="@id/find_mywatch__widgetbar_img" android:background="@drawable/manager_widget_on_bar" android:layout_width="@dimen/fmg_img_widgetbar_width" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/fmg_img_widgetbar_marginleft" android:layout_marginTop="@dimen/fmg_img_widgetbar_margintop" android:layout_marginRight="@dimen/fmg_img_widgetbar_marginright" android:layout_marginBottom="@dimen/fmg_img_widgetbar_marginbottom" />
+</LinearLayout>

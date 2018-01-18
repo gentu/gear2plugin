@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/notification_alerttype_item" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:ellipsize="end" android:gravity="start" android:layout_gravity="center_vertical" android:id="@id/single_select_item_title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_weight="1.0" android:layout_marginStart="@dimen/manager_winset_textview_margin" style="@style/TextView_NotiListCategory" />
+    <RadioButton android:layout_gravity="center_vertical" android:id="@id/single_select_item_radiobutton" android:focusable="false" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:button="@drawable/manager_radio_btn" android:paddingEnd="16.0dip" android:layout_marginStart="@dimen/myapps_list_icon_left_margin" />
+</LinearLayout>

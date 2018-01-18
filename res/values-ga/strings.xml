@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Níl sé ar fáil i rith glao.</string>
+    <string name="actionbar_name">Bainisteoir Gear</string>
+    <string name="alert_full_screen">Mír aníos lánscáileáin</string>
+    <string name="alert_mini">Mionmhír aníos</string>
+    <string name="alertdialog_backkey_popup_content">Rabhadh</string>
+    <string name="alertdialog_disconnect_popup_description">Dínascfar an Gear. Úsáid Bluetooth le hathnascadh.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Cuirfidh seo deireadh le do nasc le %s</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Dínascfar do %s ó do ghléas móibíleach. Ní mór duit Bluetooth a úsáid an chéad uair eile a nascfaidh tú na gléasanna seo. Is féidir aon nasc ina dhiaidh sin a dhéanamh trí Cian-nascadh.</string>
+    <string name="alertdialog_uninstall_popup_content">Díshuiteáil</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">Níl %1$s suiteáilte ar do ghléas móibíleach. Le %2$s a úsáid ar do Gear, íoslódáil %1$s chuig do ghléas móibíleach.</string>
+    <string name="attention_popup_title">Aire</string>
+    <string name="auto_call_forwarding">Uathchur ar aghaidh</string>
+    <string name="auto_call_forwarding_att">Uathchuir ar aghaidh go Gear</string>
+    <string name="auto_call_forwarding_desc">Cumasaigh Cur glaonna ar aghaidh go huathoibríoch nuair a bhíonn do Gear dínasctha ó do ghléas móibíleach. Leis seo, cuirfear glaonna isteach ar aghaidh ó do ghléas móibíleach chuig do Gear go dtí go n-athnascfar na gléis.</string>
+    <string name="auto_update">Uath-nuashonraigh</string>
+    <string name="auto_update_summary">Cuardaigh le haghaidh nuashonruithe go huathoibríoch</string>
+    <string name="backing_up">Cóip chultaca á déanamh…</string>
+    <string name="backup_complete">Cóip chúltaca déanta.</string>
+    <string name="bnr_backup">Cóip chultaca á déanamh…</string>
+    <string name="bnr_bakcup_title">Cúltaca</string>
+    <string name="bnr_cancel">Cealaigh</string>
+    <string name="bnr_canel">Cuir ar ceal</string>
+    <string name="bnr_error_occurred">Tharla earráid</string>
+    <string name="bnr_except">%1$s (ach amháin %2$s)</string>
+    <string name="bnr_except_autolock">Uathghlasáil</string>
+    <string name="bnr_except_remoteconnection">Cian-nascadh</string>
+    <string name="bnr_except_texttemplate">Teimpléid téacs</string>
+    <string name="bnr_next">Aghdh</string>
+    <string name="bnr_no">Ná déan</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Le nascadh le gléas nua, fillfear Gear ar na socruithe monarchan</string>
+    <string name="bnr_reset_gear_move_setupwizard">Níl Gear socraithe go hiomlán. Tá an draoi socraithe oscailte ar Gear faoi láthair, ach le nascadh le Gear, beidh ort an draoi socraithe a oscailt sa Bhainisteoir Gear ar an ngléas seo chomh maith.</string>
+    <string name="bnr_reset_initialization">Fógra</string>
+    <string name="bnr_restore">Aischuir</string>
+    <string name="bnr_restored">Sonraí aischurtha.</string>
+    <string name="bnr_setupwizard_title2">"Déan cóip chúltaca 's aischuir"</string>
+    <string name="bnr_yes">Déan é</string>
+    <string name="bt_connected">Nasctha</string>
+    <string name="bt_disconnected">Dínasctha</string>
+    <string name="bt_unpaired">Díphéireáilte</string>
+    <string name="button_finish">Críochnaigh</string>
+    <string name="button_restore">Aischuir</string>
+    <string name="call">GLAOIGH</string>
+    <string name="call_check_gear_status_when_cfwd">Ní féidir na feidhmeanna curtha ar aghaidh glaonna Fón póca go Gear agus Gear go fón póca a chumasú ag an am céanna.</string>
+    <string name="call_dualsim1">Cárta SIM 1</string>
+    <string name="call_dualsim1sim2">An dá chárta SIM</string>
+    <string name="call_dualsim2">Cárta SIM 2</string>
+    <string name="call_forwarding">Seoladh ar aghaidh glaonna</string>
+    <string name="call_forwarding_agree">Aontaím.</string>
+    <string name="call_forwarding_desc">Cuir glaonna isteach ar aghaidh ó do ghléas móibíleach chuig do Gear.</string>
+    <string name="call_forwarding_desc_vzw">"Cuir glaonna isteach gan freagairt ar aghaidh ó d'fhón chuig do Gear."</string>
+    <string name="call_forwarding_disable_msg">Tá iarratas déanta le Cur ar aghaidh glaonna ó do ghléas móibíleach chuig do Gear a dhíchumasú. Is féidir go rachaidh stádas do líonra mhóibíligh agus do ghléis mhóibíligh i bhfeidhm ar na torthaí.</string>
+    <string name="call_forwarding_enable_msg">Tá iarratas déanta le Cur ar aghaidh glaonna ó do ghléas móibíleach chuig do Gear a chumasú. Is féidir go rachaidh stádas do líonra mhóibíligh agus do ghléis mhóibíligh i bhfeidhm ar na torthaí.</string>
+    <string name="call_forwarding_for_att_msg">"Nuair a dhínasctar an Gear ó d'fhón cliste, cuirfear glaonna isteach ar an ngléas móibíleach ar aghaidh chuig do Gear go huathoibríoch.
+- Buailfear d'fhón cliste cúpla uair agus ansin cuirfear an glao ar aghaidh chuig do Gear.
+- Mura bhfreagraíonn tú an glao ar do Gear, beidh an glaoiteoir in ann glórphost a fhágáil, rud a mbeidh tú in ann éisteacht leis ar do Gear.
+An mian leat Uathchur ar aghaidh glaonna a chasadh air anois?"</string>
+    <string name="call_forwarding_notify_msg">Tá Cur ar aghaidh glaonna ó do ghléas móibíleach chuig do Gear cumasaithe faoi láthair. Cuirfear glaonna isteach ar do ghléas móibíleach ar aghaidh chuig do Gear. Mura bhfuil do Gear leat, gabh chuig Socruithe agus díchumasaigh Uathchur ar aghaidh glaonna lena chinntiú nach gcaillfidh tú glao.</string>
+    <string name="call_forwarding_turning_off_notify_msg">S. ar aghaidh glaonna gutha á dhíchumasú…</string>
+    <string name="call_forwarding_turning_on_notify_msg">S. ar aghaidh glaonna gutha á chumasú…</string>
+    <string name="call_no_gear_number">Níl uimhir ann</string>
+    <string name="call_select_dualsim_title">Roghn. cárta SIM</string>
+    <string name="call_voice_control">Rialú gutha</string>
+    <string name="callforwarding_help_des1">Aistrigh an gléas a gcuirfear glaonna ar aghaidh chuige go huathoibríoch, ag brath ar cibé acu atá do ghléasanna nasctha trí Bluetooth nó trí Chian-nascadh.</string>
+    <string name="callforwarding_help_des2">Faigh glaonna a chuirtear ar do ghléas móibíleach ar do Gear agus tú i mbun gluaiseachta agus an Gear, atá cian-nasctha leis an ngléas móibíleach, á chaitheamh agat.</string>
+    <string name="cancel">Cealaigh</string>
+    <string name="cf_activated">Gníomhachtaithe</string>
+    <string name="cf_deactivate_failed">Theip ar dhíchumasú Cur ar aghaidh glaonna.</string>
+    <string name="cf_deactivated">Díghníomhachtaithe</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Socruithe nua cloig curtha i bhfeidhm trí Gear.</string>
+    <string name="clocks_download_more_clocks">Íoslódáil tuilleadh clog</string>
+    <string name="clocks_noti_uninstall_clock">Díshuiteálfar %s</string>
+    <string name="clocks_noti_uninstall_idle_clock">Díshuiteálfar %1$s agus socrófar %2$s mar an gclog réamhshocraithe</string>
+    <string name="clocks_title_basic_clocks">CLOIG BHUNÚSACHA</string>
+    <string name="clocks_title_downloaded_clocks">CLOIG ÍOSLÓDÁILTE</string>
+    <string name="clocks_title_style_clocks">CLOIG STÍLE</string>
+    <string name="clocks_uninstalled">Díshuiteáilte.</string>
+    <string name="clocks_uninstalling">Ag díshuiteáil…</string>
+    <string name="close">Dún</string>
+    <string name="closing_samsung_gear_message">Tá do Gear athshocraithe. Dúnfar an feidhmchlár Samsung Gear go luath.</string>
+    <string name="closing_samsung_gear_message_jpn">Tá do Gear athshocraithe. Dúnfar an feidhmchlár Gear go luath.</string>
+    <string name="closing_samsung_gear_title">Dún feidhmchlár Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Dún an feidhmchlár Gear</string>
+    <string name="cloud_backup_no_information">Choíche</string>
+    <string name="cloud_backup_restore_backup_now">Cúltacaigh sonraí</string>
+    <string name="cloud_backup_restore_restore_now">Aischuir sonraí</string>
+    <string name="cmw_agree">Aontaím</string>
+    <string name="cmw_eula_agree">Tuigim na téarmaí agus na coinníollacha thuas agus aontaím leo.</string>
+    <string name="cmw_for_setting">Seirbhísí suímh díchumasaithe. Téigh chuig Socruithe.</string>
+    <string name="cmw_high_accuracy_dialog_message">Chun an suíomh a bhrath ar an dóigh is tapa agus is cruinne, roghnaigh Ardchruinneas i Suíomh > Mód.</string>
+    <string name="cmw_high_accuracy_dialog_title">Roghnaigh Ardchruinneas</string>
+    <string name="cmw_legal_content">"Trí “Comhroinn Suíomh“a chumasú, aontaíonn tú go ndéanfar sonraí suímh a bhaineann le d'fhón móibíleach agus/nó do ghléas Gear a tharchur ar fhreastalaí de chuid Samsung d'fhonn an tseirbhís Aimsigh mo Gear &amp; Aimsigh mo Ghléas a chur ar fáil. Ní dhéantar aon sonraí ná faisnéis mar gheall ar shuíomh do ghléis a stóráil ar fhreastalaí Samsung."</string>
+    <string name="cmw_legal_content1">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the %1$s &amp; %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content1_no_gps">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone will be transmitted through a Samsung server in order to provide the %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content_2">Beartas Príobháideachta Samsung</string>
+    <string name="cmw_legal_title">Fógraí dlíthiúla</string>
+    <string name="cmw_location">Cumasaigh Seirbhísí suímh</string>
+    <string name="cmw_show_on_map">Taispeáin ar léarscáil</string>
+    <string name="color_black">Dubh</string>
+    <string name="color_blue">Gorm</string>
+    <string name="color_brown">Donn</string>
+    <string name="color_gray">Liath</string>
+    <string name="color_green">Glas</string>
+    <string name="color_light_sky_blue">Spéirghorm geal</string>
+    <string name="color_medium_purple">Meánchorcra</string>
+    <string name="color_orange">Flannbhuí</string>
+    <string name="color_pink">Bándearg</string>
+    <string name="color_purple">Corcra</string>
+    <string name="color_red">Dearg</string>
+    <string name="color_spring_green">Glas an Earraigh</string>
+    <string name="common_none">Dada</string>
+    <string name="common_off">As</string>
+    <string name="common_on">Air</string>
+    <string name="common_recent_apps">"F'chláir le déanaí"</string>
+    <string name="connect_popup_content">Ag nascadh le %s…</string>
+    <string name="connected_by_trasport_BT">Nasctha le Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Nasctha go cianda</string>
+    <string name="connecting_content">Ag nascadh le Gear</string>
+    <string name="connecting_doc">Tar éis duit do %1$s a nascadh, is féidir leat a shocruithe a athrú agus feidhmchláir a shuiteáil air le %2$s.</string>
+    <string name="connecting_popup_message">Ag nascadh le Gear…</string>
+    <string name="connecting_popup_title">Nasc le Gear</string>
+    <string name="connecting_to_gear_ing">Ag nascadh le Gear…</string>
+    <string name="connectingdoc">Tar éis duit nascadh le do Gear, is féidir leat a shocruithe a athrú agus feidhmchláir a shuiteáil air le Bainisteoir Gear</string>
+    <string name="connection_error_dialog_message">Níor nascadh do ghléas. Triail é a nascadh arís.</string>
+    <string name="dialog_check_phone_number_msg1">Cinntigh go bhfuil an fhaisnéis seo a leanas i gceart:</string>
+    <string name="dialog_check_phone_number_msg2">Uimhir fóin phóca: %s</string>
+    <string name="dialog_check_phone_number_msg3">Uimhir fóin an Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tapáil OK le deimhniú agus le hUathchur ar aghaidh glaonna a chumasú.</string>
+    <string name="dialog_enable_remote_connection_desc">Le hUathchur ar aghaidh glaonna a chumasú, cumasaigh Cian-nascadh, ansin triail arís.</string>
+    <string name="dialog_enable_remote_connection_title">Cumasaigh Cian-nascadh</string>
+    <string name="dialog_permission_message">Ní féidir %s a úsáid. Tapáil SOCRUITHE, gabh chuig Faisnéis feidhmchláir > Ceadanna, ansin ceadaigh na ceadanna seo a leanas agus triail arís:</string>
+    <string name="dialog_popup_button_cancel">Cealaigh</string>
+    <string name="dialog_reverse_msg">Ag brath ar do sholáthraí seirbhíse, is féidir go mbeidh síntiúis ar leith de dhíth le ceadú do do ghléas móibíleach agus do do Gear an ghné seo a úsáid. Is féidir go ngearrfar táillí breise air seo.</string>
+    <string name="dialog_set_phone_number_msg">Le hUathchur ar aghaidh glaonna a chumasú, socraigh uimhreacha fóin na ngléasanna ar mian leat glaonna isteach a chur ar aghaidh chucu agus uathu.</string>
+    <string name="dialog_set_phone_number_title">Cumasaigh Uathchur ar aghaidh glaonna</string>
+    <string name="disable_loc_text">Díchumasófar Comhroinn suíomh. Ní bheidh tú in ann faisnéis faoi do shuíomh a úsáid le cuardach le haghaidh do Gear ná do ghléis mhóibíligh trí Aimsigh Mo Gear nó trí Aimsigh Mo Ghléas.</string>
+    <string name="disable_loc_text_no_gps">Díchumasófar Comhroinn suíomh. Ní bheidh tú in ann faisnéis faoi do shuíomh a úsáid le cuardach le haghaidh do ghléis mhóibíligh trí Aimsigh Mo Ghléas.</string>
+    <string name="disable_remote_connection">Díchumasaigh Cian-nascadh</string>
+    <string name="disable_remote_connection_fmm_fmd">Aimsigh mo Gear agus Aimsigh mo Ghléas</string>
+    <string name="disable_remote_connection_receiving_blocked">Teachtaireachtaí, r-phoist, agus fógraí a fháil ón ngléas móibíleach</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">R-phoist agus fógraí a fháil ón ngléas móibíleach</string>
+    <string name="disable_remote_connection_warning">Díchumasófar Cian-nascadh. Ní bheidh na feidhmeanna seo a leanas ar fáil go dtí go mbeidh do Gear nasctha le do ghléas móibíleach arís trí Bluetooth:</string>
+    <string name="disable_share_location">Díchumasaigh Comhroinn suíomh</string>
+    <string name="disconnect_popup_content">Ag dínascadh %s…</string>
+    <string name="do_not_show_again">Ná taispeáin arís</string>
+    <string name="enable_auto_call_forwarding_msg">Cuir glaonna isteach ar agh. ó do ghléas móibíleach chuig do Gear go huathoibríoch nuair a bhíonn an Gear dínasctha. Ag brath ar do sholáthraí, is féidir go ngearrfar táillí breise dá bharr. Tapáil OK le hUathchur ar agh. a chumasú.</string>
+    <string name="enable_auto_call_forwarding_title">Cumasaigh Uathchur ar agh.</string>
+    <string name="enable_more_notifications_enable">Cumasaigh</string>
+    <string name="enable_notification_access">Cumasaigh Rochtain ar fhógraí</string>
+    <string name="enable_notification_access_desc">"Beidh an fheidhm seo in ann na fógraí go léir a fhaigheann tú a léamh, inar féidir go mbeidh faisnéis phearsanta amhail teagmhálaithe agus teachtaireachtaí a seoladh chugat. Beidh sí in ann na fógraí sin a ruaigeadh nó gníomhartha a bhaineann leo a roghnú freisin.
+Le fógraí a fháil ar do Gear, tapáil Cumasaigh, ansin cumasaigh %s."</string>
+    <string name="enable_share_location">Cumasaigh Comhroinn suíomh</string>
+    <string name="enabled_loc">Comhroinnt suímh cumasaithe.</string>
+    <string name="error_enter_device_name">Iontráil ainm an ghléis</string>
+    <string name="error_occurred">Tharla earráid</string>
+    <string name="eula_i_agree">Aontaím.</string>
+    <string name="failed_tshare_msg">"Theip ar chumasú
+C. ar agh. glaonna.
+Dada ó T share."</string>
+    <string name="find_my_device">Aimsigh Mo ghléas</string>
+    <string name="find_my_gear">Aimsigh mo Gear</string>
+    <string name="find_watch_btn_start">Tosaigh</string>
+    <string name="find_watch_btn_stop">Stop</string>
+    <string name="find_watch_off">Le do Gear a aimsiú, tapáil Tosaigh. Seinnfidh Gear fuaim agus casfar a scáileán air.</string>
+    <string name="find_watch_on">Le haimsiú do Gear a scor, tapáil Scoir. Scoirfear seinm fuaime ar Gear agus casfar a scáileán as.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">Díshuiteálfar %1$s, agus cuirfear an cló réamhshocraithe i bhfeidhm ar do %2$s.</string>
+    <string name="force_wifi_direct_msg">Suiteálfar an feidhmchlár le Wi-Fi Direct. Scoirfear do nasc Wi-Fi Direct leis seo. Má chuireann tú an tsuiteáil ar ceal, beidh ort an feidhmchlár seo a íoslódáil arís lena shuiteáil.</string>
+    <string name="force_wifi_direct_title">Suiteáil</string>
+    <string name="force_wifi_install">Suiteáil</string>
+    <string name="gear2_backup_confirm_text">Má dhéanann tú cóip chúltaca de do shonraí anois, cuirfear do shonraí Gear is déanaí in ionad na sonraí cúltaca reatha Gear ar an ngléas móibíleach.</string>
+    <string name="gear2_restore_confirm_text">Má dhéanann tú do shonraí a aischur, scriosfar na sonraí ar do Gear faoi láthair agus cuirfear do shonraí cúltaca Gear reatha ina n-ionad.</string>
+    <string name="gear2_text">"Úsáid stóras do ghléis le cóip chúltaca a dhéanamh de d'inneachar %1$s:
+%2$s
+
+Má tá cóip chúltaca de do chuntas déanta agat cheana, is féidir leat í a aischur ar %3$s anois.
+
+Is féidir go mbeidh roinnt ama i gceist ag brath ar mhéid an chomhaid.."</string>
+    <string name="gear2_text_import3">Socruithe</string>
+    <string name="gear_bnr_desc">"Úsáid stóras do ghléis mhóibíligh le cóip chúltaca a dhéanamh de na sonraí %1$s seo a leanas: %2$s
+
+Má tá cóip chúltaca de do shonraí %3$s déanta agat cheana, is féidir leat iad a aischur chuig do %4$s anois.
+
+Is féidir go dtógfaidh sé seo roinnt ama ag brath ar mhéid na gcomhad."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Tá do ghléas móibíleach ag scanadh le haghaidh do Gear anois. Tógfaidh sé seo roinnt nóiméad. Is féidir go mbeidh sé deacair do Gear a aimsiú má tá sé taobh istigh.</string>
+    <string name="gear_location_popup_title">Aimsigh Gear</string>
+    <string name="gear_location_text">Suíomh Gear</string>
+    <string name="gear_lock_success">Gear glasáilte.</string>
+    <string name="gear_lock_text">Glasáil Gear</string>
+    <string name="gear_locked">Gear glasáilte</string>
+    <string name="gear_locked_text1">Gear glasáilte. Lena dhíghlasáil, nasc an Gear le do ghléas móibíleach trí Bluetooth.</string>
+    <string name="gear_phone_number">Uimhir fóin an Gear</string>
+    <string name="gear_phone_number_popup_desc">Cuirfear gach glao ar do ghléas móibíleach ar aghaidh chuig %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Cuirfear gach glao nach bhfreagraítear ar do Ghléas móibíleach ar aghaidh chuig %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Le do Gear a ghlasáil, ní mór Cian-nascadh a chumasú ar dtús.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Le do Gear a athshocrú, ní mór Cian-nascadh a chumasú ar dtús.</string>
+    <string name="gear_reset_text">Athshocraigh Gear</string>
+    <string name="gear_to_mobile">Gear go fón póca</string>
+    <string name="gear_to_mobile_des">Faigh glaonna a chuirtear ar do Gear ar do ghléas móibíleach agus an dá ghléas nasctha le chéile trí Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Theip ar aimsiú suímh. Triail arís ar ball.</string>
+    <string name="gear_unable_to_locate_title">Ní féidir Gear a aimsiú</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Cúlbhrait</string>
+    <string name="home_bg_color">Dathanna</string>
+    <string name="home_bg_colors_title">DATHANNA ATÁ AR FÁIL</string>
+    <string name="home_bg_delete_actionbar_selected">Roghnaithe</string>
+    <string name="home_bg_delete_dialog_msg">Bainfear %d cúlbhrat ó Bhainisteoir Gear agus ó do Gear.</string>
+    <string name="home_bg_delete_select_all">Roghnaigh gach</string>
+    <string name="home_bg_max_more_image_toast">Uaslíon na gcúlbhrat (%d) bainte amach.</string>
+    <string name="home_bg_more_images">Tuilleadh íomhánna</string>
+    <string name="home_bg_popup_wallpaper_msg">Cúlbhrait Gear á n-íoslódáil…</string>
+    <string name="home_bg_popup_wallpaper_title">Íoslódáil cúlbhrait</string>
+    <string name="home_bg_toast_saved">Sábháilte.</string>
+    <string name="home_bg_wallpaper">Cúlbhrat</string>
+    <string name="home_bg_wallpapers_title">CÚLBHRAIT ATÁ AR FÁIL</string>
+    <string name="homelayout_apps">Feidhmchláir</string>
+    <string name="incoming_calls_title">Glaonna isteach</string>
+    <string name="info_build_number">Leagan bogearraí</string>
+    <string name="info_model_number">Uimhir na samhla</string>
+    <string name="info_software_update">Nuashonrú bogearraí</string>
+    <string name="information_provision_agreement">Comhaontú Soláthair Faisnéise</string>
+    <string name="information_provision_agreement_mgs">"Úsáideann Meabhrán Gutha teicneolaíochtaí aitheanta gutha arna soláthar ag seirbhís tríú páirtí darbh ainm Nuance Communications, Inc. Dá bhrí sin, tá sé dosheachanta go stórálfar d'fhaisnéis ghutha ar fhreastalaí arna fheidhmiú ag Nuance (sna Stáit Aontaithe), agus má úsáideann tú Meabhrán Gutha ní mór duit aontú le Téarmaí agus Coinníollacha Nuance.
+ Forchoimeádann Nuance an ceart d'ionchur gutha a úsáid ar mhaithe le seirbhísí a fheabhsú agus teicneolaíochtaí a fhorbairt. Forchoimeádann Nuance an ceart fosta an t-ionchur gutha réamhluaite sin a sholáthar do rannpháirtithe Nuance. Stóráiltear d'fhaisnéis ionchuir ghutha go dtí go mbeidh na cuspóirí réamhluaite bainte amach. D'fhaisnéis ar sheirbhísí Mheabhrán Gutha, léigh Beartas Príobháideachta Samsung agus Beartas Príobháideachta Nuance.
+ Ní féidir leat Meabhrán Gutha a úsáid mura n-aontaíonn tú le d'fhaisnéis mar atá sonraithe thuas a sholáthar."</string>
+    <string name="init_manage_notifications_desc">Roghnaigh na feidhmchláir ar mian leat fógraí a fháil uathu ar do %1$s. Le cumhacht ceallra do %2$s a choigilt, díroghnaigh feidhmchláir nach mian leat fógraí a fháil uathu.</string>
+    <string name="install_in_progress">Ar bun…</string>
+    <string name="invalid_rename_character">Carachtar neamhbhailí iontráilte. Triail arís.</string>
+    <string name="latest_version">Leagan is déanaí suiteáilte</string>
+    <string name="latitude">Leithead</string>
+    <string name="limit_notification_desc">Cuir bac ar fholáirimh a thaispeáint ar an Gear agus an gléas móibíleach á úsáid.</string>
+    <string name="limit_notification_dialog_desc">Ní féidir Cuir srian ar fhógraí ar do Gear a chumasú. Níl glas scáileáin socraithe ar do ghléas móibíleach.</string>
+    <string name="limit_notification_title">Cuir teorainn ar fhógraí</string>
+    <string name="location_info_title">Comhroinn suíomh</string>
+    <string name="lock_gear_legal_text1">Trí Glasáil Gear a úsáid, is féidir leat do Gear a ghlasáil go cianda chun úsáid neamhúdaraithe a chosc. Is féidir leat an Gear a dhíghlasáil ach é a athnascadh leis an ngléas móibíleach.</string>
+    <string name="lock_gear_legal_text2">* Is féidir go dtógfadh sé roinnt ama ar Glasáil Gear feidhmiú, nó is féidir go dteipfeadh air, ag brath ar staid do Gear, do ghléis mhóibíligh nó do thimpeallachta líonra.</string>
+    <string name="lock_gear_text">Ní féidir do Gear a ghlasáil agus do ghléas móibíleach nasctha le do Gear trí Bluetooth.</string>
+    <string name="login_to_samsung_account">Sínigh ist. cuntas Samsung</string>
+    <string name="login_to_samsung_account_desc">Le Cian-nascadh a chumasú ar do Gear, sínigh isteach i do chuntas Samsung.</string>
+    <string name="login_to_samsung_account_full_desc">"Sínigh isteach le do chuntas Samsung leis na gnéithe seo a leanas a úsáid fiú nuair nach mbítear nasctha trí Bluetooth:
+- Fógraí a fháil
+- Feidhmchláir a úsáid trí Chian-nasc
+Is féidir go ngearrfar táillí breise ar úsáid Cian-nasc."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Nuair nach bhfuil tú nasctha le d'fhón trí Bluetooth, cuirfidh cuntas Samsung ar do chumas an méid seo a leanas a dhéanamh trí shonraí móibíleacha:
+- Teachtaireachtaí, r-phoist, agus fógraí eile a fháil
+- Feidhmchláir ar an Gear a úsáid a bhfuil nasc le d'fhón trí Chian-nascadh de dhíth orthu.
+
+Tabhair do d'aire go n-úsáidfear do phlean sonraí i gcomhair Cian-nascadh trí do chuntas Samsung."</string>
+    <string name="longitude">Domhanfad</string>
+    <string name="main_bt_unpaired">Díphéireáilte</string>
+    <string name="main_disconnected">Dínasctha</string>
+    <string name="manage_applications">Bainistigh feidhmchláir</string>
+    <string name="manage_notifications">Bainistigh fógraí</string>
+    <string name="manual_call_forwarding_for_att_msg">"Is féidir glaonna a chuirtear ar d'fhón cliste a chur ar aghaidh chuig do Gear.
+- Buailfear d'fhón cliste cúpla uair agus ansin cuirfear an glao ar aghaidh chuig do Gear.
+- Mura bhfreagraíonn tú an glao ar do Gear, beidh an glaoiteoir in ann glórphost a fhágáil, rud a mbeidh tú in ann éisteacht leis ar do Gear.
+An mian leat Cuir ar aghaidh glaonna a chumasú anois?"</string>
+    <string name="manual_call_forwarding_popup_desc">Seirbhís líonra is ea Cur ar aghaidh glaonna, rud a chuireann glaonna isteach ar an %s ar aghaidh chuig uimhir shonraithe. Ag brath ar do sholáthraí seirbhíse, is féidir go mbeidh síntiús ag teastáil le ceadú do do Gear an ghné seo a úsáid. Is féidir go ngearrfar táillí breise dá bharr seo.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Gléas móibíleach</string>
+    <string name="masterapp_not_installed">Níl %1$s suiteáilte ar do ghléas móibíleach. Le %2$s a úsáid ar do Gear, íoslódáil %1$s chuig do ghléas móibíleach.</string>
+    <string name="masterapp_not_installed_goto_deeplink">Níl %1$s suiteáilte ar do ghléas móibíleach. Le %2$s a úsáid ar do Gear, íoslódáil %1$s chuig do ghléas móibíleach. Tógfar chuig an scáileán íoslódála thú.</string>
+    <string name="masterapp_uninstalled">Díshuiteáladh %1$s ó do ghléas móibíleach. Le %2$s a úsáid ar do Gear, íoslódáil %1$s chuig do ghléas móibíleach.</string>
+    <string name="maximum_size_warning">Uaslíon na gcarachtar bainte amach.</string>
+    <string name="menu_about_device">EOLAS FAOI %s</string>
+    <string name="menu_actionbar_remove">Bain</string>
+    <string name="menu_actionbar_uninstall">Díshuiteáil</string>
+    <string name="menu_appsandsettigns">F.CHLÁIR AGUS SOCRUITHE</string>
+    <string name="menu_clock">Clog</string>
+    <string name="menu_display">CUIR SCÁIL. BAILE IN EAG.</string>
+    <string name="menu_downloaded_font">CLÓNNA ÍOSLÓDÁILTE</string>
+    <string name="menu_filetransfertogear">AISTRIGH COMHAID GO GEAR</string>
+    <string name="menu_gallery">Íomhá</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Aclaíocht</string>
+    <string name="menu_help">Cuidiú</string>
+    <string name="menu_home_screen">Stíl an scáileáin bhaile</string>
+    <string name="menu_music">Ceol</string>
+    <string name="menu_myapp">M’fheidhmchláir</string>
+    <string name="menu_notification">Fógraí</string>
+    <string name="menu_rename">Athainmnigh</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Socruithe</string>
+    <string name="mobile_to_gear">Fón póca go Gear</string>
+    <string name="mobile_to_gear_des">Faigh glaonna a chuirtear ar do ghléas móib. ar an Gear agus an dá ghléas cian-nasctha le chéile.</string>
+    <string name="monotype_default_font">Cló réamhshocraithe</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Snag snasta</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Tuilleadh</string>
+    <string name="more_options">Roghanna eile</string>
+    <string name="multisim_title">Il-SIM</string>
+    <string name="navigate_up">Déan nascleanúint thuas</string>
+    <string name="new_eula_error_log">Tuairiscigh faisnéis</string>
+    <string name="new_eula_fmd2">Aimsigh Mo ghléas</string>
+    <string name="new_eula_fmg2">Aimsigh mo Gear</string>
+    <string name="new_eula_news_briefing">Fais. Nuachta</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Eochairchlár Samsung</string>
+    <string name="new_notification_list">Amharc liostaí</string>
+    <string name="new_notifications_list_desc">Taispeáin liosta na bhfógraí a fuarthas ar an Gear ar an taobh clé den chlog.</string>
+    <string name="no_application_selected">Níl feidhmchláir roghnaithe ann</string>
+    <string name="no_downloaded_applications">Níl feidhmchláir íoslódáilte ann</string>
+    <string name="no_of_application_selected">%d feidhmchlár roghnaithe</string>
+    <string name="no_remote_connection_popup_msg">Le hUathchur ar aghaidh glaonna a chumasú, oscail an feidhmchlár Samsung Gear ar do ghléas móibíleach agus cumasaigh Cian-nascadh, ansin triail arís.</string>
+    <string name="no_remote_connection_popup_title">Cumasaigh Cian-nascadh</string>
+    <string name="notification_type">Cineál fógra</string>
+    <string name="notification_type_desc">"Agus do Gear in úsáid, taispeánfar d'fhógraí mar mhíreanna aníos beaga ar bharr an scáileáin, beag beann ar do roghnú thuas."</string>
+    <string name="number_setting">Socrú uimhreach</string>
+    <string name="ok">OK</string>
+    <string name="once">Uair amháin</string>
+    <string name="one_application_selected">1 fheidhmchlár roghnaithe</string>
+    <string name="popup_attention_email_msg">Níl roinnt cuntas r-phoist roghnaithe sna socruithe R-phoist. Le fógraí a fháil ó na cuntais sin ar do Gear, roghnaigh Fógraí r-phoist i Socruithe r-phoist.</string>
+    <string name="popup_attention_message_msg">"Le teachtaireachtaí a sheoladh agus a fháil ar do Gear, athrófar d'fheidhmchlár Cur teachtaireachtaí réamhshocraithe ó %s chuig Cur teachtaireachtaí."</string>
+    <string name="popupmenu_search_for_new_device">Bainistigh gléasanna</string>
+    <string name="preview_message_desc">Taispeán réamhamharc ar fhógraí a fuarthas, seachas foláirimh maidir le glao isteach agus aláraim, sna míreanna aníos fógraí ar do Gear.</string>
+    <string name="preview_message_title">Réamhamharc ar theachtaireacht</string>
+    <string name="primary">Príomh</string>
+    <string name="privacypolicy_fmgfmd">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the %1$s &amp; %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone will be transmitted through a Samsung server in order to provide the %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="privacypolicy_newsbriefing">Cuireann an feidhmchlár seo ar chumas úsáideoirí idirghníomhú leis na meáin shóisialta agus leis an Idirlíon ar shlite nuálacha éagsúla. Má chumasaíonn tú an feidhmchlár seo, baileoidh an tseirbhís faisnéis faoin tslí ina n-úsáideann tú na seirbhísí, lena n-áirítear an tslí ina n-amharcann tú ar inneachar agus ar fhógraí agus an idirghníomhaíocht idir tusa agus iad. Gheofar tuilleadh sonraí ach féachaint ar Théarmaí Úsáide %1$s agus ar%2$sBheartas Príobháideachta%3$sFlipboard%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Beartas Príobháideachta Samsung</string>
+    <string name="progressdialog_please_wait">Fan go fóill…</string>
+    <string name="progressdialog_reinstalled_message">Ag suiteáil…</string>
+    <string name="progressdialog_reinstalled_popup_content">Athshuiteáil</string>
+    <string name="providerapp_reinstalled">Ní oibríonn %s i gceart agus mar sin díshuiteáladh é. Athshuiteálfar anois é.</string>
+    <string name="quick_tutorial_add_shortcuts">Le haicearraí feidhmchláir a chur le scáileán baile Gear, gabh chuig Feidhmchláir ar an Gear, tapáil agus coinnigh íocón feidhmchláir, ansin tarraing agus scaoil ar an íocón baile ag barr an scáileáin é.</string>
+    <string name="quick_tutorial_gear_structure">Taispeántar an clog ar phríomhleathanach scáileán baile do Gear. Taispeántar fógraí ar na leathanaigh ar an taobh clé den chlog agus taispeántar giuirléidí ar na leathanaigh ar an taobh deas. Svaidhpeáil suas ó bhunimeall an scáileáin le hamharc ar fheidhmchláir.</string>
+    <string name="quick_tutorial_noti_title">Réamhfhaisnéis faoi %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Le S Voice a oscailt, abair “Hi Gear” nó brúigh an eochair bhaile faoi dhó agus tú ar aon scáileán.</string>
+    <string name="quick_tutorial_swipe_downwards">Débhrúigh an eochair Bhaile leis an bhfeidhmchlár ceanáin a oscailt. Is féidir leat an feidhmchlár ceanáin a athrú i Socruithe.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">"Débhrúigh an chumhachteochair le d'fheidhmchlár ceanáin a oscailt. Is féidir leat an feidhmchlár ceanáin a athrú i Socruithe."</string>
+    <string name="quick_tutorial_to_go_back">Svaidhpeáil an scáileán síos ón imeall le dul siar</string>
+    <string name="remote_connection_disabled_settings">Socruithe</string>
+    <string name="remote_connection_enabled_desc">Nascfar an Gear go cianda má scoirfear an nasc Bluetooth.</string>
+    <string name="requested">Iarrtha</string>
+    <string name="reset_gear_legal_text1">Trí Athshocraigh Gear a úsáid, is féidir gach sonraí ar do Gear a scriosadh go cianda. Tar éis iad a scriosadh, ní féidir na sonraí scriosta a chur ar ais, agus ní bheidh tú in ann Aimsigh mo Gear a úsáid níos mó.</string>
+    <string name="reset_gear_legal_text2">* Is féidir go dtógfadh sé roinnt ama ar Athshocraigh Gear feidhmiú nó is féidir go dteipfeadh air, ag brath ar staid do Gear, do ghléis mhóibíligh nó do thimpeallachta líonra.</string>
+    <string name="restore_complete">Aischurtha.</string>
+    <string name="restore_some_error">Theip ar aschur. Triail arís.</string>
+    <string name="restore_try_again">Triail arís</string>
+    <string name="restore_watch_settings_content2">"Úsáid stóras do ghléis le cóip chúltaca a dhéanamh de d'inneachar %1$s:
+%2$s
+
+Má tá cóip chúltaca de do chuntas déanta agat cheana, is féidir leat í a aischur ar %3$s anois.
+
+Is féidir go mbeidh roinnt ama i gceist ag brath ar mhéid an chomhaid.
+
+Is féidir leat do shocruithe cúltaca a athrú i Socruithe."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">SOCRUITHE</string>
+    <string name="retrieve_dialog_desc">Liosta feidhmchlár á fháil…</string>
+    <string name="sa_email">R-phost</string>
+    <string name="sa_error_0203_desc">Le Cian-nascadh a chumasú, nuashonraigh cuntas Samsung de láimh.</string>
+    <string name="sa_error_0203_title">Nuashon. cuntas Samsung</string>
+    <string name="sa_error_0301_desc">Tharla earráid líonra le linn síniú isteach i do chuntas Samsung ar do ghléas móibíleach.</string>
+    <string name="sa_error_0301_title">Theip ar chumasú na feidhme</string>
+    <string name="sa_error_0302_desc">Tharla earráid líonra le linn síniú isteach i do chuntas Samsung ar do ghléas móibíleach.</string>
+    <string name="sa_error_0302_title">Theip ar chumasú na feidhme</string>
+    <string name="sa_error_0401_desc">Tharla earráid. Triail arís.</string>
+    <string name="sa_error_0401_title">Earráid</string>
+    <string name="safety_message_interval_10minutes">Gach 10 nóiméad</string>
+    <string name="safety_message_interval_20minutes">Gach 20 nóiméad</string>
+    <string name="samsung_apps_info">Is féidir feidhmchláir a íoslódáladh trí %1$s a scriosadh nuair a dhíshuiteáiltear %2$s nó nuair a ghlantar sonraí an fheidhmchláir. Is féidir leat feidhmchláir a scriosadh a íoslódáil ó stair do cheannachán in %3$s.</string>
+    <string name="samsung_apps_notice">Fógra</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Nuashonraigh anois</string>
+    <string name="screen_off">Coinnigh an scáileán as</string>
+    <string name="screen_off_desc">Faigh fógraí, seachas foláirimh maidir le glao isteach agus aláraim, ar do Gear nuair atá an scáileán casta as.</string>
+    <string name="setting_Enable">Cumasaigh</string>
+    <string name="setting_alpm_dialog_title">Aire</string>
+    <string name="setting_always_off">As i gcónaí</string>
+    <string name="setting_always_on">Air i gcónaí</string>
+    <string name="setting_auto">Uath-</string>
+    <string name="setting_auto_lock_disable_desc">Díchumasaithe ag riarthóir, beartas criptiúcháin nó stóras faisnéis aitheantais.</string>
+    <string name="setting_backup_restore2">"Déan cóip chúltaca 's aischuir"</string>
+    <string name="setting_basic">RUDAÍ BUNÚSACHA</string>
+    <string name="setting_connections">NAISC</string>
+    <string name="setting_disable">Díchumasú</string>
+    <string name="setting_home_key_double_pressing">Eochair bhaile a dhébhrú</string>
+    <string name="setting_language_input">TEANGA AGUS IONCHUR</string>
+    <string name="setting_manage_text_templates">Cuir teimpléid in eagar</string>
+    <string name="setting_mobile_network">Líonraí móibíleacha</string>
+    <string name="setting_mobile_network_desc">Dínascfar an Gear ó do líonra móibíleach ar a nascadh le do ghléas móibíleach trí Bluetooth. Nuair a scoirfear an nasc trí Bluetooth, nascfar do Gear le do líonra móibíleach arís go huathoibríoch.</string>
+    <string name="setting_multisim_popup_desc">Ag brath ar do sholáthraí seirbhíse, is féidir go mbeidh síntiús ar leith ag teastáil uait leis an bhfeidhm Multi SIM a úsáid. Tapáil OK chun Multi SIM a chumasú.</string>
+    <string name="setting_opensource">Ceadúnas foinse oscailte</string>
+    <string name="setting_palm_motion">Gluaisní</string>
+    <string name="setting_palm_swipe">Svaidhpeáil le gabháil</string>
+    <string name="setting_palmover_desc">Le glaonna isteach agus aláraim a bhalbhú, nó le meáin a chur ar sos, leag do lámh ar an scáileán agus an scáileán casta air.</string>
+    <string name="setting_palmswipe_desc">Svaidhpeáil do mhéar iomlán trasna an scáileáin lena ghabháil, ag coinneáil i dtadhall leis an scáileán.</string>
+    <string name="setting_pause_mute">Cuir ar sos/balbhaigh</string>
+    <string name="setting_power_key_double_pressing">Cumhachteochair a dhébhrú</string>
+    <string name="setting_restoring">Ag cur ar ais…</string>
+    <string name="setting_safety_b1_desc">Nuair atá do Gear agus do ghléas móibíleach nasctha, tá Seol teachtaireachtaí cúnaimh ina chuidiú leat in gcás éigeandála. Tugann sé foláireamh do do theagmhálaithe éigeandála maidir le do chás trí theachtaireachtaí éigeandála a sheoladh chucu ina gcuimsítear do shuíomh. Is féidir go ngearrfar táillí breise ar sheoladh na dteachtaireachtaí sin. Le Seol teachtaireachtaí cúnaimh a chumasú le linn éigeandála, brúigh an chumhachteochair faoi %d.</string>
+    <string name="setting_safety_b2_desc">Nuair atá do Gear agus do ghléas móibíleach nasctha, tá teachtaireachtaí Seol cúnamh ina chuidiú leat i gcás éigeandála trí phictiúr a ghlacadh le ceamara Gear. Tugtar foláireamh do do theagmhálaithe teachtaireachta éigeandála maidir le do chás trí theachtaireachtaí éigeandála a sheoladh chucu in éineacht leis an bpictiúr seo agus le do shuíomh. Beidh do shuíomh agus an pictiúr araon sa chéad teachtaireacht. Ansin, tar éis tamaill, seolfar dara teachtaireacht agus do shuíomh amháin ann. Is féidir go ngearrfar táillí breise ar sheoladh na dteachtaireachtaí sin. Le teachtaireachtaí Seol cúnamh a chumasú le linn éigeandála, brúigh an eochair bhaile faoi %d.</string>
+    <string name="setting_safety_b2_no_camera_desc">Nuair a bhíonn do Gear agus gléas móibíleach nasctha, tá teachtaireachtaí Seol cabhair ina chuidiú leat i gcás éigeandála. Tugann sé foláireamh do do theagmhálaithe teachtaireachta éigeandála trí theachtaireachtaí éigeandála, agus áit do shuímh, a sheoladh chucu. Is féidir go ngearrfar táillí breise ar sheoladh na dteachtaireachtaí sin. Chun teachtaireachtaí Seol cabhair a chumasú le linn éigeandála, brúigh an eochair bhaile %d uair.</string>
+    <string name="setting_safety_b3_desc1">Brúigh an eochair bhaile go tapa faoi 3 chun mearfholáireamh a sheoladh chuig do phríomhtheagmhálaithe agus tú i gcás éigeandála.</string>
+    <string name="setting_safety_b3_desc2">Gheobhaidh do phríomhtheagmhálaithe teachtaireachtaí éigeandála ina mbeidh faisnéis faoi do shuíomh reatha.</string>
+    <string name="setting_safety_b3_desc3">Nasc do ghléas móibíleach le do Gear leis an bhfeidhm seo a úsáid.</string>
+    <string name="setting_safety_list">Cúnamh sábháilteachta</string>
+    <string name="setting_samsung_legal">Samsung dlí</string>
+    <string name="setting_screen_lock">Uathghlasáil</string>
+    <string name="setting_screen_lock_desc">Úsáid do Gear le do ghléas móibíleach a ghlasáil.</string>
+    <string name="setting_screen_secutiry">SLÁNDÁIL SCÁILEÁIN</string>
+    <string name="setting_send_emergency_picture">Seol pictiúr éigeandála</string>
+    <string name="setting_send_emergency_recording">Seol taifeadadh fuaime</string>
+    <string name="setting_send_emergency_term_agree">Tá gach téarma agus coinníoll thuas léite agam agus aontaím leo.</string>
+    <string name="setting_send_help_message">Seol teachtaireachtaí cabhracha</string>
+    <string name="setting_send_terms_conditions">Téarmaí agus coinníollacha</string>
+    <string name="setting_smart_relay">Rialaí cliste</string>
+    <string name="setting_smart_relay_desc">Amharc ar inneachar ó do Gear ar do ghléas móibíleach trí do ghléas móibíleach a thógáil.</string>
+    <string name="setting_smart_toss">Rialaí cliste</string>
+    <string name="setting_system">CÓRAS</string>
+    <string name="setting_text_to_speech_engine">Inneall téacs-go-teanga</string>
+    <string name="setting_textinput_emoticon">Straoiseoga</string>
+    <string name="setting_textinput_keyboard">Eochairchlár</string>
+    <string name="setting_textinput_list">Modhanna ionchuir téacs</string>
+    <string name="setting_textinput_templates">Teimpléid</string>
+    <string name="setting_try_it">Triail é</string>
+    <string name="setting_wake_up">Gluaisne múscailte</string>
+    <string name="setting_wake_up_desc">Múscail Gear tríd an lámh ar a bhfuil do Gear a ardú.</string>
+    <string name="setting_wakeupgesture">"Le Gear a mhúscailt, ardaigh an lámh ar a bhfuil do Gear agus amharc ar scáileán Gear.
+
+Ní fheidhmíonn an ghné seo nuair atá tú ag claonadh siar nó i do luí, agus is féidir go n-ídeodh sé tuilleadh chumhacht ceallra Gear mar bíonn an braiteoir gluaisne ar siúl i gcónaí."</string>
+    <string name="setting_wakeupgesture_clock">Clog</string>
+    <string name="setting_wakeupgesture_previous">An scáileán deireanach a n-amharcadh air</string>
+    <string name="setting_wakeupgesture_screen_on">Roghn. scáil. le taispnt.</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Roghn. scáil. le taispnt.</string>
+    <string name="settings">Socruithe</string>
+    <string name="settings_application_version">Leagan den fheidhmchlár</string>
+    <string name="settings_emergency_contact">Bainistigh príomh-theagmhál.</string>
+    <string name="settings_emergency_contact_empty">Níor cuireadh aon phríomhtheagmhálaithe leis. Chun %s a chumasú, cuir teagmhálaithe le Príomhtheagmhálaithe.</string>
+    <string name="settings_legal_information">Faisnéis dlí</string>
+    <string name="settings_message_interval">Eatramh teachtaireachtaí</string>
+    <string name="settings_not_set">Neamhshocraithe</string>
+    <string name="settings_security">Slándáil</string>
+    <string name="settings_security_update">Nuashonrú slándála</string>
+    <string name="settings_security_update_desc">Cosain do ghléas ó inneachar díobhálach trína shlándáil agus a sheirbhís a fheabhsú.</string>
+    <string name="settings_unknown_sources_dialog">Féadfar díobháil a dhéanamh do do ghléas agus do shonraí pearsana trí íoslódáil as foinsí anaithnide. Trí thapáil OK, aontaíonn tú gur tú féin amháin atá freagrach as aon damáiste do do ghléas nó cailliúint sonraí a d’fhéadfadh tarlú de thoradh ar na feidhmchláir seo a úsáid.</string>
+    <string name="settings_unknown_sources_subtitle">Ceadaigh suiteáil feidhmchlár ó fhoinsí anaithnid</string>
+    <string name="share_loc_disabled">Comhroinnt suímh díchumasaithe.</string>
+    <string name="share_location_desc">Ceadaigh d’Aimsigh Mo Gear agus d’Aimsigh Mo Ghléas sonraí suímh do Gear agus do ghléis mhóibíligh a chomhroinnt.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Aontaím gur féidir Sonraí móibíleacha a úsáid agus teachtaireachtaí MMS a sheoladh in éigeandáil. Tuigim gur féidir go ngearrfar táillí breise mar thoradh air sin.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Send help message is intended to help users send notice of their approximate location and visual/auditory surroundings to the mobile phone of a chosen contact that you set in advance. It is made available only for your convenience and is not intended as, nor should it be treated as, a substitute for emergency calls to the authorities.
+
+2. [Send Help Message] (the “Services”)may not work accurately, continuously or error-free, depending on the circumstances such as network connectivity, availability of GPS/Wi-Fi information, status and/or condition of your/your chosen contact´s device, battery level and/or other circumstances which are out of Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”)´s control. The accuracy of the location information and timely delivery of the Services may be affected by your surroundings and the condition of your device and the device of your chosen contact. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error. Please note that your chosen contact must be a working mobile phone and the device must be turned on and capable of accepting text messages. Transferring your surroundings and location data may be chargeable to you depending on the fees specified by your service operator.
+
+In order for the Services to function as intended, it may be necessary to have the feature, once deployed by you, automatically turn on the GPS and Wi-Fi functions of your device. You acknowledge and agree to the automatic enabling of the GPS and Wi-Fi functions (if required), without further notice to you or consent by you.
+
+3. You acknowledge and agree not to misuse this function or use this function for any illegal purposes or to infringe on the privacy or any personal or proprietary rights of others. Use this function only in accordance with the law and only in cases of emergencies.You agree to be solely responsible for your use of this feature. Samsung shall not be liable for any outcome that may arise from your use of this feature.
+
+4. The Services are made available only for your convenience and are not intended as, nor should they be treated as, a substitute for emergency calls to the authorities. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error.
+
+5. DISCLAIMER OF WARRANTIES. YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+ 
+A. THE SERVICES ARE PROVIDED ON AN AS IS, “WITH ALL FAULTS” AND AS AVAILABLE BASIS. YOU BEAR THE RISK OF USING THEM. SAMSUNG GIVES NO EXPRESS WARRANTIES, GUARANTEES OR CONDITIONS UNDER OR IN RELATION TO THE SERVICES. SAMSUNG EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY IMPLIED WARRANTIES FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+
+B. WITHOUT LIMITING THE FOREGOING, SAMSUNG MAKES NO REPRESENTATION OR WARRANTY THAT (i) THE SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE OR ERROR-FREE, (iii) THE CONTENT OBTAINED FROM THE SERVICES, OR ANY NOTIFICATIONS OR FUNCTIONALITY OF THE SERVICES WILL BE AVAILABLE, ACCURATE, COMPLETE OR RELIABLE, (iv) THE QUALITY OF THE SERVICES OR ANY INFORMATION OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS OR BUGS IN THE SERVICES WILL BE CORRECTED.
+
+6. LIMITATION OF LIABILITY.
+
+A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT SAMSUNG SHALL NOT BE LIABLE UNDER A NEGLIGENCE THEORY, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY LOSS, LIABILITY, DAMAGE OR EXPENSE, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF USE OR OTHER LOSSES (EVEN IF REPAIR, REPLACEMENT OR A REFUND FOR THE SERVICES DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES OR SAMSUNG KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH LOSS, LIABILITY, DAMAGE OR EXPENSE), DIRECTLY OR INDIRECTLY RESULTING FROM OR ARISING OUT OF: (i) CLAIMS FOR BREACH OF CONTRACT, BREACH OF WARRANTY, GUARANTEE OR CONDITION, STRICT LIABILITY, NEGLIGENCE OR OTHER TORT TO THE EXTENT PERMITTED BY APPLICABLE LAW; (ii) YOUR USE OR YOUR INABILITY TO USE THE SERVICES, (iii) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES; (iv) UNAUTHORISED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (v) STATEMENTS OR CONDUCT OF ANY THIRD PARTY; (vi) THIS AGREEMENT; (vii) INJURY TO PERSON OR PROPERTY (INCLUDING DEATH); OR (viii) ANY OTHER MATTERS RELATING TO THE SERVICES OR THE CONTENT PROVIDED THROUGH THE SERVICES.
+ 
+B. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH SAMSUNG RELATED TO THIS AGREEMENT OR THE SERVICES SHALL BE CEASING USE OF THE SERVICES.
+ 
+C. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 5 AND 6 MAY NOT APPLY TO YOU.
+
+7. INDEMNIFICATION. You agree to hold harmless, indemnify and defend Samsung from and against any claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including reasonable legal fees and costs) arising out of or relating to your use of the Services or any failure by you to comply with this Agreement. If, despite the personal nature of the licences granted to you under these terms and conditions, you allow any individual to use the Services or provide to any individual any information received via the Services, you agree to inform such individual of the existence and provisions of these terms and conditions, which shall be binding upon such individual, and you agree to hold harmless, indemnify and defend Samsung from any and all claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including legal fees and costs) related to such individual’s use of the Services.
+
+8. Force Majeure. Samsung shall not be liable for any delay or failure in performance under these terms and conditions or interruption of the Services resulting from acts of God, civil or military authority, war, acts of terrorism, labour disputes, materials or services provided by third parties, or any cause beyond the reasonable control of Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Aontaím cead a thabhairt do %1$s mo shuíomh a chomhroinnt le mo theagmhálaithe %2$s.</string>
+    <string name="smartrelay_not_show">Ná taispeáin arís</string>
+    <string name="software_update">Nuashonrú bogearraí</string>
+    <string name="ss_double_tap_any_screen">Déthapáil scáileán ar bith le dhá mhéar le hamharc ar na rialuithe gile agus airde, agus ar fhaisnéis áisiúil eile.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Glaonna a chur ar aghaidh chuig do Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Ag iarraidh…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Socruithe á léamh…</string>
+    <string name="ss_loading_ing_abb">Ag lódáil…</string>
+    <string name="ss_mobile_data_is_disabled">Tá Sonraí móibíleacha díchumasaithe. Nasc le WLAN ina ionad sin, nó cumasaigh sonraí móibíleacha agus triail arís.</string>
+    <string name="ss_mobile_data_is_disabled2">Tá sonraí móibíleacha díchumasaithe. Nasc le líonra Wi-Fi, nó cumasaigh sonraí móibíleacha agus triail arís é.</string>
+    <string name="ss_no_network_connection">Níl nasc líonra ann</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Lámhleabhar úsáideora</string>
+    <string name="str_no">Ná déan, grma</string>
+    <string name="str_yes">Déan é</string>
+    <string name="stub_list_install">Suiteáil</string>
+    <string name="sw_eula_condition">Tuigim na téarmaí agus na coinníollacha thuas agus aontaím leo.</string>
+    <string name="sw_eula_desc2">Aontaíonn tú sonraí log earráide a sholáthar do Samsung ó aon teip ar nuashonrú bogearraí ar ghléas de do chuid. Cabhróidh sin le Samsung próiseas nuashonraithe bogearraí Samsung a fheabhsú agus cabhróidh sé leatsa do ghléas a choimeád chun dáta i gcónaí.</string>
+    <string name="tab_stub_list">Faoi thrácht</string>
+    <string name="talkback_download">Íoslódáil</string>
+    <string name="talkback_setting">Socrú</string>
+    <string name="the_samsung_gear_application">feidhmchlár Samsung Gear</string>
+    <string name="threeg_connection">Úsáid Cian-nasc</string>
+    <string name="threeg_connection_subtitle">Nasc le do Gear go cianda, ag úsáid Sonraí móibíleacha nó Wi-Fi i dteannta le do chuntas Samsung.</string>
+    <string name="threeg_connection_subtitle_chn">Nasc le do Gear go cianda, trí Shonraí móibíleacha nó WLAN, mar aon le do chuntas Samsung.</string>
+    <string name="title_activity_clock_delete">Díshuiteáil</string>
+    <string name="title_activity_connect_popup">Nasc</string>
+    <string name="title_activity_paired_watch">Gléas péireáilte</string>
+    <string name="title_alertdialog_device_name_popup">Athainmnigh %s</string>
+    <string name="title_alertdialog_disconnect_popup">Dínasc</string>
+    <string name="title_dialog_pm_error">Rabhadh</string>
+    <string name="title_dialog_uninstall">Díshuiteáil</string>
+    <string name="title_eula">Fógraí dlí</string>
+    <string name="title_findmywatch_connect2">Aimsigh mo Gear</string>
+    <string name="title_findmywatch_finding">Ag cuardach…</string>
+    <string name="tri_connect_title_circle_to_gear">Nasc %1$s le %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Ar nascadh do %1$s le do %2$s trí Bluetooth, dínascfar do %3$s ó do ghléas móibíleach go sealadach. Atosófar ar an nasc seo go luath agus ansin beidh do %4$s nasctha le do %5$s agus le do ghléas móibíleach araon.</string>
+    <string name="tt_install_voice_data">Suiteáil sonraí gutha TTS</string>
+    <string name="tt_install_voice_data_required">Suiteáil teangacha téacs-go-teanga breise ar do Gear.</string>
+    <string name="tt_language">Teanga</string>
+    <string name="tt_send_help_message">Tchtaí. Seol cabhair</string>
+    <string name="tt_tts_language_guide">Is é do theanga téacs go teanga an teanga a shocraíonn tú i Socruithe Gear. Mura bhfuil taca san inneall téacs-go-teanga do do theanga féin, úsáidfear Béarla (an Ríocht Aontaithe).</string>
+    <string name="unable_to_connect_popup_message">Theip ar nascadh do Gear le do ghléas móibíleach. Triail arís ar ball.</string>
+    <string name="unable_to_connect_popup_title">Teip naisc</string>
+    <string name="unable_to_lock_gear">Ní féidir Gear a ghlasáil</string>
+    <string name="unable_to_reset_gear">Ní féidir an Gear a athshocrú</string>
+    <string name="unabled_health">Ní féidir an feidhmchlár seo a oscailt toisc é a bheith díchumasaithe.</string>
+    <string name="uninstall_applications">Díshuiteáil feidhmchláir</string>
+    <string name="unknown_sources_msg_new">Ní shuiteálfar %1$s trí %2$s. Tá do ghléas agus do shonraí pearsanta i mbaol ionsaithe níos mó ó fheidhmchláir as foinsí anaithnid. Aontaíonn tú gur tú féin amháin atá freagrach as damáiste ar bith a dhéantar do do ghléas nó as caillteanas sonraí is féidir a tharlú de thoradh ar na feidhmchláir sin a úsáid. Le feidhmchláir as foinsí anaithnid a shuiteáil i gcónaí, gabh chuig %3$s > %4$s > %5$s, agus cumasaigh %6$s. Tapáil OK le %7$s a shuiteáil.</string>
+    <string name="unknown_sources_msg_new_vulnerable">"Ní ó %2$s é %1$s, agus ní áirítear feidhmchlár do do Gear leis. Is mó an baol go ndéanfadh feidhmchláir ó fhoinsí anaithnide ionsaí ar do ghléas agus ar do chuid sonraí. Cuirfear an tsuiteáil ar ceal agus scriosfar %3$s ó d'fhón."</string>
+    <string name="unknown_sources_title">Foinsí anaithnid</string>
+    <string name="update_button">Nuashonraigh</string>
+    <string name="update_summary">Cuardaigh le haghaidh nuashonraithe</string>
+    <string name="update_the_latest_version">Nuashonrú ar fáil</string>
+    <string name="voice_control_subtitle">Abair “Answer” nó “Reject”, le linn na sosanna nuair nach bhfuil do Gear ag bualadh nó ag creathadh, le glaonna a fhreagairt nó le diúltú dóibh.</string>
+    <string name="voicememo_link1">Téarmaí agus Coinníollacha Nuance</string>
+    <string name="voicememo_link2">Beartas Príobháideachta Samsung</string>
+    <string name="voicememo_link3">Beartas Príobháideachta Nuance</string>
+    <string name="watchapp_all">Feidhmchláir</string>
+    <string name="watchapp_noapps">Níl feidhmchláir ann</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Ag athnuachan…</string>
+    <string name="wifi_only">Wi-Fi amháin</string>
+    <string name="wifi_only_chn">WLAN amháin</string>
+    <string name="wifi_only_summary">Ná híoslódáil nuashonruithe ach ar nascadh le líonra Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Ní féidir é a íoslódáil ach amháin nuair atáthar nasctha trí WLAN.</string>
+    <string name="email_sanitize">Ní féidir inneachar an r-phoist seo a thaispeáint ar Gear ar chúiseanna slándála. Amharc ar an r-phost seo ar do ghléas móibíleach le sonraí a fheiceáil</string>
+    <string name="knox_sanitize">Tapáil anseo le dul isteach i Mód KNOX</string>
+</resources>

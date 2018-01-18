@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">कॉल दरम्यान अनुपलब्ध.</string>
+    <string name="actionbar_name">गिअर व्‍यवस्‍थापक</string>
+    <string name="alert_full_screen">पूर्ण स्क्रीन पॉप-अप</string>
+    <string name="alert_mini">लघु पॉप-अप</string>
+    <string name="alertdialog_backkey_popup_content">धोक्याचा इशारा</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">%s सह आपले कनेक्शन हे समाप्त करेल.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">आपल्‍या मोबाईल उपकरणावरून आपले %s डिस्‍कनेक्‍ट करण्‍यात येईल. पुढच्‍या वेळी आपण ही उपकरणे कनेक्‍ट केल्‍यावर, आपण ब्‍लुटूथ वापरणे आवश्‍यक आहे. त्‍या नंतरची सर्व देये रिमोट कनेक्‍शने केली जातील.</string>
+    <string name="alertdialog_uninstall_popup_content">अनइन्स्टॉल करा.</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">स्‍वयं कॉल अग्रेषित करणे</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">आपल्‍या मोबाईल उपकरणावरून आपला गिअर डिस्‍कनेक्‍ट केलेला असताना कॉल अग्रेषित करणे स्‍वयंचलितपणे सक्षम करा. उपकरणे पुन्‍हा कनेक्‍ट होईपर्यंत हे आपल्‍या मोबाईल उपकरणावरून आपल्‍या गिअरवर इनकमिंग कॉल्‍स अग्रेषित करेल.</string>
+    <string name="auto_update">स्वयंचलित अद्ययावत</string>
+    <string name="auto_update_summary">स्वयंचलित पणे अद्ययावतसाठी तपासा.</string>
+    <string name="backing_up">बॅकअप घेत आहे…</string>
+    <string name="backup_complete">बॅकलाइट पूर्ण.</string>
+    <string name="bnr_backup">बॅकअप घेत आहे…</string>
+    <string name="bnr_bakcup_title">बॅकअप</string>
+    <string name="bnr_cancel">रद्द</string>
+    <string name="bnr_canel">रद्द</string>
+    <string name="bnr_except">%1$s (%2$s व्यतिरिक्त)</string>
+    <string name="bnr_except_autolock">स्‍वयं लॉक</string>
+    <string name="bnr_except_remoteconnection">रिमोट कनेक्‍शन</string>
+    <string name="bnr_except_texttemplate">मजकूर टेम्पलेट्स</string>
+    <string name="bnr_no">नाही</string>
+    <string name="bnr_ok">ठीक</string>
+    <string name="bnr_reset_gear">नवीन उपकरणाला कनेक्‍ट करण्‍यासाठी, गिअर ह्‍याच्‍या फॅक्‍टरी सेटिंग्सवर पुन्हा मांडणी करण्‍यात येईल.</string>
+    <string name="bnr_reset_gear_move_setupwizard">गिअर पूर्णपणे सेट केलेला नाहीये. सेटअप विझार्ड सध्‍या गिअरवर खुले आहे, परंतु गिअरशी कनेक्‍ट आहे, आपण गिअर व्‍यवस्‍थापकामध्‍ये ह्या व्हिडिओवर सुद्धा सेटअप विझार्ड खुले करणे आवश्‍यक आहे.</string>
+    <string name="bnr_reset_initialization">सूचना</string>
+    <string name="bnr_restored">डेटा पूर्वस्थित केला.</string>
+    <string name="bnr_yes">होय</string>
+    <string name="bt_connected">कनेक्‍ट झाले</string>
+    <string name="bt_disconnected">खंडित केले</string>
+    <string name="bt_unpaired">अनपेअर केलेली</string>
+    <string name="button_restore">पूर्वस्थित करा</string>
+    <string name="call">कॉल</string>
+    <string name="call_check_gear_status_when_cfwd">कॉल अग्रेषण फंक्‍शन्‍स मोबाईल ते गिअर आणि गिअर ते मोबाईल एकाच वेळी सक्षम करू शकत नाही.</string>
+    <string name="call_dualsim1">SIM कार्ड 1</string>
+    <string name="call_dualsim1sim2">दोन्ही SIM कार्ड्स</string>
+    <string name="call_dualsim2">SIM कार्ड 2</string>
+    <string name="call_forwarding">कॉल अग्रेषित होत आहे</string>
+    <string name="call_forwarding_agree">मी सहमत.</string>
+    <string name="call_forwarding_desc">आपल्‍या गिअरवर आपल्‍या मोबाईल उपकरणावरून इनकमिंग कॉल्‍स अग्रेषित करा.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">आपल्‍या मोबाईल उपकरणावरून आपल्‍या गिअरवर कॉल अग्रेषण अक्षम करण्‍याची विनंती करण्‍यात आली आहे. आपल्‍या मोबाईल नेटवर्क आणि मोबाईल उपकरणाच्या स्थितीचा निकालांवर परिणाम होऊ शकतो.</string>
+    <string name="call_forwarding_enable_msg">आपल्‍या मोबाईल उपकरणावरून आपल्‍या गिअरवर कॉल अग्रेषण सक्षम करण्‍याची विनंती करण्‍यात आली आहे. आपल्‍या मोबाईल नेटवर्क आणि मोबाईल उपकरणाच्या स्थितीचा निकालांवर परिणाम होऊ शकतो.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">आपल्‍या मोबाईल उपकरणावरून आपल्‍या गिअरवर कॉल अग्रेषित करणे सध्‍या सक्षम आहे. आपल्‍या मोबाईल उपकरणावरील इनकमिंग कॉल्‍स आपल्‍या गिअरवर अग्रेषित करण्‍यात येतील. आपला गिअर आपल्‍याबरोबर नसल्‍यास, सेटिंग्‍सवर जा आणि आपण कॉल सोडले नसल्‍याची खात्री करण्‍यासाठी सेटिंग्‍स वर जा आणि स्‍वयं कॉल्‍स अग्रेषित करणे अक्षम करा.</string>
+    <string name="call_forwarding_turning_off_notify_msg">व्हॉईस कॉल अग्रेषित अक्षम करत आहे…</string>
+    <string name="call_forwarding_turning_on_notify_msg">व्हॉईस कॉल अग्रेषित सक्षम करत आहे…</string>
+    <string name="call_no_gear_number">क्रमांक नाही</string>
+    <string name="call_select_dualsim_title">SIM कार्ड निवडा</string>
+    <string name="call_voice_control">आवाज नियंत्रण</string>
+    <string name="callforwarding_help_des1">उपकरण स्विच करा जे कॉल्‍स स्‍वयंचलितपणे अग्रेषित करण्‍यात येतील, आपली उपकरणे ब्‍लुटूथ किंवा रिमोट कनेक्‍शनद्वारे कनेक्‍ट आहेत किंवा नाही ह्यावर आधारित आहे.</string>
+    <string name="callforwarding_help_des2">आपण हलताना आणि गिअर घातले असताना आणि हे दूरस्‍थपणे मोबाईल उपकरणाशी कनेक्‍ट असताना आपल्‍या मोबाईल उपकरणावर केलेले कॉल्‍स प्राप्‍त करा.</string>
+    <string name="cancel">रद्द</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">कॉल अग्रेषित करणे अक्षम करण्यात अयशस्वी झाले.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">अधिक घड्याळे डाउनलोड करा</string>
+    <string name="clocks_noti_uninstall_clock">%s अनइन्स्टॉल केले जाईल.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s अन्‍इन्‍स्‍टॉल करण्‍यात येईल आणि %2$s डिफॉल्‍ट घड्याळ म्‍हणून सेट करण्‍यात येईल.</string>
+    <string name="clocks_title_basic_clocks">मुलभूत घड्याळे</string>
+    <string name="clocks_title_downloaded_clocks">डाउनलोड केलेली घड्याळे</string>
+    <string name="clocks_title_style_clocks">शैली घड्याळे</string>
+    <string name="clocks_uninstalled">अनइन्स्टॉल केलेले.</string>
+    <string name="clocks_uninstalling">अनइन्स्टॉल करत आहे…</string>
+    <string name="close">बंद</string>
+    <string name="closing_samsung_gear_message">आपल्‍या गिअरची पुन्‍हा मांडणी करण्‍यात आली आहे. Samsung Gear अनुप्रयोग थोड्याच वेळात बंद होईल.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear अनुप्रयोग बंद करा</string>
+    <string name="cloud_backup_no_information">कधी नाही</string>
+    <string name="cloud_backup_restore_backup_now">बॅक अप डेटा</string>
+    <string name="cloud_backup_restore_restore_now">डेटा पुन: स्थापित करा</string>
+    <string name="cmw_agree">मी सहमत</string>
+    <string name="cmw_eula_agree">मला वरील शर्ती आणि अटी समजल्‍या आहेत आणि सहमत आहे.</string>
+    <string name="cmw_for_setting">स्‍थान सेवा अक्षम करण्‍यात आल्‍या आहेत. सेटिंग्स वर जा.</string>
+    <string name="cmw_high_accuracy_dialog_message">अधिक जलद आणि अधिक योग्‍य स्‍थान शोधासाठी, स्‍थान > मोड मध्‍ये उच्‍च अचूकता निवडा.</string>
+    <string name="cmw_high_accuracy_dialog_title">उच्च अचूकता निवडा</string>
+    <string name="cmw_legal_content">“स्थान सामायिक करा” सक्षम करून, आपण सहमत आहात की आपल्या मोबाईल फोनशी/ गिअर उपकरणाशी संबंधित स्थान डेटा माझे गिअर शोधा आणि माझे उपकरण शोधा सेवेसाठी Samsung सर्व्हर द्वारे स्थानांतरित केले जाईल. आपल्या स्थाना संबंधित कोणताही डेटा किंवा माहिती Samsung सर्व्हरवर संग्रहित नाही.</string>
+    <string name="cmw_legal_content1">\"%1$s &amp; %2$s\" सक्षम करून, आपण सहमत आहात की आपल्या मोबाईल फोनशी/गिअर उपकरणाशी संबंधित स्थान डेटा %1$s &amp; %2$s सेवा पुरवण्यासाठी Samsung सर्व्हर द्वारे स्थानांतरित केला जाईल. आपल्या स्थाना संबंधित कोणताही डेटा किंवा माहिती Samsung सर्व्हरवर संग्रहित नाही.</string>
+    <string name="cmw_legal_content1_no_gps">\"%1$s &amp; %2$s\" सक्षम करून, आपण सहमत आहात की आपल्या मोबाईल फोनशी संबंधित स्थान डेटा %2$s सेवा पुरवण्यासाठी Samsung सर्व्हर द्वारे स्थानांतरित केला जाईल. आपल्या स्थाना संबंधित कोणताही डेटा किंवा माहिती Samsung सर्व्हरवर संग्रहित नाही.</string>
+    <string name="cmw_legal_content_2">सॅमसंग गोपनियता धोरणा</string>
+    <string name="cmw_legal_title">कायदेशीर सूचना</string>
+    <string name="cmw_location">स्‍थान सेवा सक्षम करा</string>
+    <string name="cmw_show_on_map">नकाशावर दर्शवा</string>
+    <string name="color_black">काळा</string>
+    <string name="color_blue">निळा</string>
+    <string name="color_brown">बदामी</string>
+    <string name="color_gray">ग्रे</string>
+    <string name="color_green">हिरवा</string>
+    <string name="color_light_sky_blue">सौम्‍य आकाशी निळा</string>
+    <string name="color_medium_purple">मध्‍यम जांभळा</string>
+    <string name="color_orange">नारंगी</string>
+    <string name="color_pink">गुलाबी</string>
+    <string name="color_purple">जांभळा</string>
+    <string name="color_red">लाल</string>
+    <string name="color_spring_green">वसंत हिरवा</string>
+    <string name="common_none">काही नाही</string>
+    <string name="common_off">बंद</string>
+    <string name="common_on">चालू</string>
+    <string name="common_recent_apps">अलीकडील अनुप्रयोग</string>
+    <string name="connect_popup_content">%s ला जोडत आहे…</string>
+    <string name="connected_by_trasport_BT">ब्लुटूथद्वारे कनेक्ट केलेले</string>
+    <string name="connected_by_trasport_SCS">दूरस्थपणे कनेक्ट केले</string>
+    <string name="connecting_popup_message">गिअरशी कनेक्‍ट करत आहे…</string>
+    <string name="connecting_popup_title">गिअरशी कनेक्‍ट करा</string>
+    <string name="dialog_check_phone_number_msg1">खात्री करा की खालील माहिती योग्‍य आहे:</string>
+    <string name="dialog_check_phone_number_msg2">मोबाईल फोन नंबर: %s</string>
+    <string name="dialog_check_phone_number_msg3">गिअर फोन नंबर: %s</string>
+    <string name="dialog_check_phone_number_msg4">पुष्‍टी करण्‍यासाठी आणि स्‍वयं कॉल अग्रेषित करणे सक्षम करण्‍यासाठी ठीक टॅप करा.</string>
+    <string name="dialog_enable_remote_connection_desc">स्‍वयं कॉल अग्रेषित करणे सक्षम करण्‍यासाठी, रिमोट कनेक्‍शन सक्षम करा, नंतर पुन्‍हा प्रयत्‍न करा.</string>
+    <string name="dialog_enable_remote_connection_title">रिमोट कनेक्‍शन सक्षम करा</string>
+    <string name="dialog_reverse_msg">आपल्या सेवा प्रदात्यानुसार, आपल्या मोबाईल उपकरण आणि गिअरला हे वैशिष्ट्य वापरण्याची अनुमती देण्यासाठी भिन्न सदस्यत्वाची आवश्यकता असू शकते. ह्याच्‍या परिणामस्‍वरूप कदाचित अतिरिक्‍त शुल्‍क लागू शकतील.</string>
+    <string name="dialog_set_phone_number_msg">स्‍वयं कॉल अग्रेषित करणे सक्षम करण्‍यासाठी, आपण ज्‍यांना आणि ज्‍यांच्‍याकडून इनकमिंग कॉल्‍स अग्रेषित करू इच्छित आहात त्‍या उपकरणांचे फोन नंबर्स सेट करा.</string>
+    <string name="dialog_set_phone_number_title">स्‍वयं कॉल अग्रेषित करणे सक्षम करा</string>
+    <string name="disable_loc_text">स्‍थान सामायिक करा अक्षम करण्‍यात येईल. माझे गिअर शोधा किंवा माझे उपकरण शोधाद्वारे आपले गिअर किंवा मोबाईल उपकरण शोधण्‍याकरिता आपण स्‍थान माहिती वापरण्यास सक्षम नसाल.</string>
+    <string name="disable_loc_text_no_gps">स्‍थान सामायिक करणे अक्षम करण्‍यात येईल. माझे उपकरण शोधाद्वारे आपले मोबाईल उपकरण शोधण्‍याकरिता आपण स्‍थान माहिती वापरण्यास सक्षम नसाल.</string>
+    <string name="disable_remote_connection">रिमोट कनेक्‍शन अक्षम करा</string>
+    <string name="disable_remote_connection_fmm_fmd">माझे गिअर शोधा आणि माझे उपकरण शोधा</string>
+    <string name="disable_remote_connection_receiving_blocked">मोबाईल उपकरणावरून संदेश, ईमेल्‍स आणि अधिसूचना प्राप्‍त करणे</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">मोबाईल उपकरणावरून ईमेल्स आणि अधिसूचना प्राप्‍त करणे</string>
+    <string name="disable_remote_connection_warning">रिमोट कनेक्‍शन अक्षम करण्‍यात येईल. खालील फंक्‍शन्‍स उपलब्‍ध होणार नाही जोपर्यंत आपला गिअर ब्‍लुटूथद्वारे पुन्‍हा आपल्‍या मोबाईल उपकरणाशी कनेक्‍ट होत नाहीत:</string>
+    <string name="disable_share_location">स्‍थान सामायिक करा अक्षम करा</string>
+    <string name="disconnect_popup_content">%s डिस्कनेक्ट करत आहे…</string>
+    <string name="do_not_show_again">पुन्हा दर्शवू नका</string>
+    <string name="enable_auto_call_forwarding_msg">गिअर डिस्‍कनेक्‍ट असताना आपल्‍या मोबाईल उपकरणावरून आपल्‍या गिअरवर स्‍वयंचलितपणे इनकमिंग कॉल्‍स अग्रेषित करा. आपल्‍या सेवा प्रदात्‍यावर आधारित, ह्याच्‍या परिणामस्‍वरूप अतिरिक्‍त शुल्‍क लागू शकते. स्‍वयं कॉल अग्रेषित करणे सक्षम करण्‍यासाठी ठीक टॅप करा.</string>
+    <string name="enable_auto_call_forwarding_title">स्‍वयं कॉल अग्रेषित करणे सक्षम करा</string>
+    <string name="enable_more_notifications_enable">सक्रिय</string>
+    <string name="enable_notification_access">अधिसूचना ऍक्सेस सक्षम करा</string>
+    <string name="enable_notification_access_desc">"हे फंक्शन आपण प्राप्त केलेल्या सर्व अधिसूचना वाचण्यासाठी सक्षम असेल, ज्यात संपर्क आणि आपल्याला पाठवलेल्‍या संदेशांसारख्‍या व्यक्तिगत माहितीचा समावेश असू शकतो. हे या अधिसूचना डिसमिस करण्यासाठी देखील किंवा त्यांच्याशी संबंधित क्रिया निवडण्यासाठी सक्षम असेल.
+आपल्या गिअरवर अधिसूचना प्राप्त करण्यासाठी, सक्षम करा टॅप करा, नंतर %s सक्षम करा."</string>
+    <string name="enable_share_location">शेअर स्‍थान सक्षम करा</string>
+    <string name="enabled_loc">शेअर स्‍थान सक्षम केले.</string>
+    <string name="error_enter_device_name">उपकरण नाव घाला.</string>
+    <string name="error_occurred">त्रुटी आली.</string>
+    <string name="find_my_device">माझे उपकरण शोधा</string>
+    <string name="find_my_gear">माझे गिअर शोधा</string>
+    <string name="find_watch_btn_start">सुरु करा</string>
+    <string name="find_watch_btn_stop">थांबा</string>
+    <string name="find_watch_off">आपला गिअर शोधण्‍यासाठी, प्रारंभ टॅप करा. गिअर ध्‍वनी प्‍ले करेल आणि ह्याची स्‍क्रीन चालू होईल.</string>
+    <string name="find_watch_on">आपले गिअर शोधणे थांबवण्‍यासाठी, थांबा टॅप करा. गिअर ध्‍वनी प्‍ले करणे थांबवेल आणि ह्याची स्‍क्रीन बंद होईल.</string>
+    <string name="font_gear_name">गिअर</string>
+    <string name="font_noti_uninstall_idle_font">%1$s अनइन्‍स्‍टॉल करण्‍यात येईल आणि डिफॉल्‍ट फॉंट आपल्‍या %2$s वर लागू करण्‍यात येईल.</string>
+    <string name="force_wifi_direct_msg">Wi-Fi Direct द्वारे अनुप्रयोग इन्स्टॉल केले जातील. हे आपले सद्य Wi-Fi Direct कनेक्शन समाप्त करेल. आपण इनस्टॉलेशन रद्द केल्यास, ते इन्स्टॉल करण्यासाठी हा अनुप्रयोग डाउनलोड करणे आवश्यक आहे.</string>
+    <string name="force_wifi_direct_title">इनस्टॉल</string>
+    <string name="force_wifi_install">इनस्टॉल</string>
+    <string name="gear2_backup_confirm_text">आपण आपल्या डेटाचा आता बॅकअप घेतल्यास, मोबाईल उपकरणावरील सद्य गिअर बॅकअप डेटा हा आपल्या नवीनतम गिअर डेटाशी बदलला जाईल.</string>
+    <string name="gear2_restore_confirm_text">आपण आपला डेटा पूर्वस्थित केल्यास, सध्या आपल्या गिअरवर असलेला डेटा हटवला जाईल आणि आपल्या सद्य गिअर बॅकअप डेटा द्वारे बदलला जाईल.</string>
+    <string name="gear2_text">"आपला उपकरण संग्रह आपल्‍या %1$s सामग्रीचा बॅक अप घेण्‍यासाठी वापरा:
+%2$s
+
+जर आपण ह्याआधी ह्या सामग्रीचा बॅक अप घेतला असेल, तर आपण हे %3$s वर आता पूर्वस्थित करू शकता.
+
+फाइलच्‍या आकारावर आधारित, हे काही वेळ घेऊ शकते."</string>
+    <string name="gear2_text_import3">सेटिंग्स</string>
+    <string name="gear_bnr_desc">"खालील %1$s डेटाचा बॅक अप घेण्‍यासाठी आपला मोबाईल उपकरण संग्रह वापरा: %2$s
+
+आपण ह्याआधी आपल्‍या %3$s डेटाचा बॅक अप घेतला असल्‍यास, आपण हे आपल्‍या %4$s वर आता पूर्वस्थित करू शकता.
+
+फाइल्‍सच्‍या आकारावर आधारित ह्याला काही वेळ लागू शकतो."</string>
+    <string name="gear_location_popup_message">आपले मोबाईल उपकरण आता आपल्‍या गिअरसाठी स्‍कॅन होत आहे. ह्याला काही मिनिटे लागतील. हे आतील असल्‍यास आपला गिअर प्रदर्शित करणे कदाचित कठीण होऊ शकते.</string>
+    <string name="gear_location_popup_title">गिअर प्रदर्शित करा</string>
+    <string name="gear_location_text">गिअर स्थान</string>
+    <string name="gear_lock_success">गिअर लॉक केले.</string>
+    <string name="gear_lock_text">गिअर लॉक करा</string>
+    <string name="gear_locked">गिअर लॉक केले</string>
+    <string name="gear_locked_text1">गिअर लॉक केले. अनलॉक करण्‍यासाठी, गिअर ब्‍लुटूथद्वारे मोबाईल उपकरणाशी कनेक्‍ट करा.</string>
+    <string name="gear_phone_number">गिअर फोन नंबर</string>
+    <string name="gear_phone_number_popup_desc">आपल्‍या मोबाईल उपकरणावरील सर्व कॉल्‍स %s वर अग्रेषित करण्‍यात येतील.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">आपले गिअर लॉक करण्‍यासाठी, प्रथम रिमोट कनेक्‍शन सक्षम असणे आवश्‍यक आहे.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">आपल्‍या गिअरची पुन्‍हा मांडणी करण्‍यासाठी, प्रथम रिमोट कनेक्‍शन सक्षम असणे आवश्‍यक आहे.</string>
+    <string name="gear_reset_text">गिअरची पुन्हा मांडणी करा</string>
+    <string name="gear_to_mobile">गिअरवरून मोबाईल वर</string>
+    <string name="gear_to_mobile_des">दोन उपकरणे ब्लुटूथद्वारे कनेक्ट केलेली असताना आपल्या गिअरवर केलेले कॉल्स आपल्या मोबाईल उपकरणावर प्राप्त करा.</string>
+    <string name="gear_unable_to_locate_message">स्थान शोधण्यात अयशस्वी. नंतर पुन्‍हा प्रयत्‍न करा.</string>
+    <string name="gear_unable_to_locate_title">गिअर प्रदर्शित करण्‍यात अक्षम</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">वॉलपेपर्स</string>
+    <string name="home_bg_color">रंग</string>
+    <string name="home_bg_colors_title">उपलब्‍ध रंग</string>
+    <string name="home_bg_delete_actionbar_selected">निवडलेले</string>
+    <string name="home_bg_delete_dialog_msg">%d वॉलपेपर्स आपल्‍या गिअर व्‍यवस्‍थापक आणि आपल्‍या गिअर वरून काढून टाकण्‍यात येतील.</string>
+    <string name="home_bg_delete_select_all">सर्व निवडा</string>
+    <string name="home_bg_max_more_image_toast">वॉलपेपर्सची कमाल (%d) संख्या गाठली.</string>
+    <string name="home_bg_more_images">अधिक प्रतिमा</string>
+    <string name="home_bg_popup_wallpaper_msg">गिअर वॉलपेपर्स डाउनलोड करत आहे…</string>
+    <string name="home_bg_popup_wallpaper_title">वॉलपेपर्स डाउनलोड करा</string>
+    <string name="home_bg_toast_saved">जतन केले.</string>
+    <string name="home_bg_wallpaper">वॉलपेपर</string>
+    <string name="home_bg_wallpapers_title">उपलब्‍ध वॉलपेपर्स</string>
+    <string name="homelayout_apps">अनुप्रयोग</string>
+    <string name="incoming_calls_title">इनकमिंग कॉल्स</string>
+    <string name="info_build_number">सॉफ्टवेअर आवृत्ती</string>
+    <string name="info_model_number">मॉडेल क्रमांक</string>
+    <string name="info_software_update">सॉफ्टवेयर अद्ययावत</string>
+    <string name="information_provision_agreement">माहिती प्राविधान करार</string>
+    <string name="information_provision_agreement_mgs">"आवाज मेमो Nuance कम्युनिकेशन्स, इन्क. नावाच्या तृतीय पक्ष सेवा पुरवठादाराद्वारे पुरविलेल्या भाषण ओळख तंत्रज्ञानाचा वापर करते. म्हणुन आपली आवाज माहिती अटळपणे Nuance द्वारा संचालित एका सर्व्हरमध्ये साठविली जाते(संयुक्त संस्थानांमध्ये) आणि आवाज मेमो वापरण्यासाठी आवश्यक आहे की आपण Nuance च्या अटी व शर्तींशी सहमत असावे.
+ सेवांमध्ये सुधारणा करणे आणि तंत्रज्ञाने विकसित करण्याहेतूंस्तव आपल्या आवाज निविष्टी वापरण्याचा अधिकार Nuance राखुन ठेवते. उपरोक्त आवाज निविष्टी Nuance च्या भागीदारांना पुरविण्याचा अधिकारदेखिल Nuance राखुन ठेवते. उपरोक्त उद्दिष्ट्ये साधली जाईपर्यंत आपल्या आवाज निविष्टीची माहिती साठविली जाते. आवाज मेमो सेवेविषयी अधिक माहितीसाठी कृपया Samsung गोपनीयता धोरण आणि Nuance गोपनीयता धोरण वाचा.
+ जर आपण उपरोक्त आपल्या माहितीच्या प्राविधानाशी सहमत नसाल तर आपण आवाज मेमो सेवा वापरू शकत नाही."</string>
+    <string name="init_manage_notifications_desc">आपल्या %1$s वर आपण जिथून अधिसूचना प्राप्त करू इच्छिता असे अनुप्रयोग निवडा. आपल्या %2$s ची बॅटरी पॉवर बचत करण्यासाठी, आपल्याला ज्या अनुप्रयोगांकडून अधिसूचना नको आहेत अशा अनुप्रयोगांची निवड रद्द करा.</string>
+    <string name="install_in_progress">प्रगतीवर…</string>
+    <string name="latitude">अक्षांश</string>
+    <string name="limit_notification_desc">मोबाईल उपकरण वापरले जात असताना सतर्कता गिअरवर दिसून येण्यापासून अवरोधित करा.</string>
+    <string name="limit_notification_dialog_desc">आपल्या गिअरवर अधिसूचना प्रतिबंधित करा सक्षम करण्यात अक्षम. आपल्या मोबाईल उपकरणा वर कोणताही स्क्रीन लॉक सेट केलेला नाही.</string>
+    <string name="limit_notification_title">मर्यादा अधिसूचना</string>
+    <string name="location_info_title">स्थान शेअर करणे</string>
+    <string name="lock_gear_legal_text1">गिअर लॉक करा वापरून, अनधिकृत वापर प्रतिबंधित करण्यासाठी आपण आपला गिअर दूरस्थपणे लॉक करू शकता. आपला गिअर मोबाईल उपकरणाशी पुन्हा-कनेक्ट करून आपण गिअर अनलॉक करू शकता.</string>
+    <string name="lock_gear_legal_text2">* गिअर पुन्हा सेट कराला कार्य करण्यासाठी काही वेळ लागू शकतो किंवा तो आपल्या गिअर, मोबाईल उपकरण किंवा नेटवर्क परिस्थितीच्या स्थितीनुसार अयशस्वी देखील होऊ शकतो.</string>
+    <string name="lock_gear_text">आपले मोबाईल उपकरण आणि गिअर ब्‍लुटूथद्वारे कनेक्ट केलेले असताना आपले गिअर लॉक करण्यात अक्षम.</string>
+    <string name="login_to_samsung_account">Samsung account मध्ये साइन इन करा</string>
+    <string name="login_to_samsung_account_desc">आपल्‍या गिअर वर रिमोट कनेक्‍शन सक्षम करण्‍यासाठी, आपल्‍या Samsung account मध्‍ये साइन इन करा.</string>
+    <string name="login_to_samsung_account_full_desc">"ब्‍लुटूथद्वारे कनेक्‍ट नसताना देखील खालील वैशिष्‍ट्ये वापरण्‍यासाठी आपल्‍या Samsung account वर साइन इन करा:
+- अधिसूचना प्राप्‍त करणे
+- दूरस्‍थ कनेक्‍शनद्वारे अनुप्रयोग वापरणे
+दूरस्‍थ कनेक्‍शन वापरल्‍याच्‍या परिणामस्‍वरूप अतिरिक्‍त शुल्‍क लागू शकते."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">रेखांश</string>
+    <string name="main_bt_unpaired">अनपेअर केलेली</string>
+    <string name="main_disconnected">खंडित केले</string>
+    <string name="manage_applications">अनुप्रयोग व्यवस्थापित करा</string>
+    <string name="manage_notifications">अधिसूचना व्‍यवस्‍थापित करा</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">कॉल अग्रेषित करणे ही एक नेटवर्क सेवा आहे जी %s इनकमिंग कॉल्स निर्दिष्ट केलेल्या क्रमांकावर वळवते. आपल्या सेवा प्रदात्यावर आधारित, आपल्या गिअरला हे वैशिष्ट्य वापरण्याची अनुमती देण्यासाठी कदाचित सदस्यत्वाची आवश्यकता असू शकते. ह्याच्‍या परिणामस्‍वरूप कदाचित अतिरिक्‍त शुल्‍क लागू शकतील.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">मोबाईल उपकरण</string>
+    <string name="masterapp_not_installed">%1$s आपल्‍या मोबाईल उपकरणावर इन्‍स्‍टॉल केलेले नाही. आपल्‍या गिअरवर %2$s वापरण्‍यासाठी, आपल्‍या मोबाईल उपकरणावर %1$s डाउनलोड करा. आपल्‍याला डाउनलोड स्‍क्रीनवर नेण्‍यात येईल.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s आपल्‍या मोबाईल उपकरणावर इन्‍स्‍टॉल केलेले नाही. आपल्‍या गिअरवर %2$s वापरण्‍यासाठी, आपल्‍या मोबाईल उपकरणावर %1$s डाउनलोड करा. आपल्‍याला डाउनलोड स्‍क्रीनवर नेण्‍यात येईल.</string>
+    <string name="masterapp_uninstalled">आपल्‍या मोबाईल उपकरणावरून %1$s अन्‍इन्‍स्‍टॉल करण्‍यात आले आहे. आपल्‍या गिअरवर %2$s वापरण्‍यासाठी, आपल्‍या मोबाईल उपकरणावर %1$s डाउनलोड करा.</string>
+    <string name="maximum_size_warning">वर्णांची अधिकतम संख्या गाठली.</string>
+    <string name="menu_about_device">%s विषयी</string>
+    <string name="menu_actionbar_remove">काढून टाका</string>
+    <string name="menu_actionbar_uninstall">अनइंस्टॉल</string>
+    <string name="menu_appsandsettigns">अनुप्रयोग आणि सेटिंग्स</string>
+    <string name="menu_clock">घड्याळ</string>
+    <string name="menu_display">मुख्‍य स्‍क्रीन संपादित करा</string>
+    <string name="menu_downloaded_font">डाउनलोड केलेले फाँट्स</string>
+    <string name="menu_filetransfertogear">गिअरवर फाइल्‍सचे स्‍थानांतरण करा</string>
+    <string name="menu_gallery">प्रतिमा</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">आरोग्‍य</string>
+    <string name="menu_help">मदत</string>
+    <string name="menu_home_screen">मुख्‍य स्‍क्रीन स्टायलर</string>
+    <string name="menu_music">संगीत</string>
+    <string name="menu_myapp">माझे ऍप्स</string>
+    <string name="menu_notification">अधिसूचना</string>
+    <string name="menu_rename">नाव बदला</string>
+    <string name="menu_samsungapps">सॅमसंग गेअर एप्स</string>
+    <string name="menu_settings">सेटिंग्स</string>
+    <string name="mobile_to_gear">मोबाईलवरून गिअर वर</string>
+    <string name="mobile_to_gear_des">दोन उपकरणे दूरस्थपणे कनेक्ट केलेली असताना आपल्या मोबाईल उपकरणावर केलेले कॉल्स गिअरवर प्राप्त करा.</string>
+    <string name="monotype_default_font">डिफॉल्ट फाँट</string>
+    <string name="monotype_dialog_font_applemint">एप्पल मिंट</string>
+    <string name="monotype_dialog_font_choco">चोको कुकी</string>
+    <string name="monotype_dialog_font_cool">कूल जॉझ</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">रोझमॅरी</string>
+    <string name="monotype_dialog_font_tinkerbell">टिंकर बेल</string>
+    <string name="more">अधिक</string>
+    <string name="more_options">अधिक पर्याय</string>
+    <string name="multisim_title">मल्टि SIM</string>
+    <string name="navigate_up">वरती नेव्हिगेट करा</string>
+    <string name="new_notification_list">यादी दृश्य</string>
+    <string name="new_notifications_list_desc">घड्याळाच्या डावीकडे गिअरवर प्राप्त झालेल्या अधिसूचनांची यादी दर्शवा.</string>
+    <string name="no_application_selected">कोणतेही अनुप्रयोग निवडलेले नाहीत</string>
+    <string name="no_downloaded_applications">कोणतेही अनुप्रयोग डाउनलोड केलेले नाहीत</string>
+    <string name="no_of_application_selected">%d अनुप्रयोग निवडले</string>
+    <string name="no_remote_connection_popup_msg">स्‍वयं कॉल अग्रेषित करणे सक्षम करण्‍यासाठी, आपल्‍या मोबाईल उपकरणावर Samsung Gear अनुप्रयोग उघडा आणि रिमोट कनेक्‍शन सक्षम करा, नंतर पुन्‍हा प्रयत्‍न करा.</string>
+    <string name="no_remote_connection_popup_title">रिमोट कनेक्‍शन सक्षम करा</string>
+    <string name="notification_type">अधिसूचना प्रकार</string>
+    <string name="notification_type_desc">आपले गिअर वापरात असताना, आपल्या वरील निवडीचा विचार न करता अधिसूचना स्क्रीनच्या शीर्षावर लहान पॉप-अप्स म्हणून दर्शवल्या जातील.</string>
+    <string name="number_setting">क्रमांक सेटिंग</string>
+    <string name="ok">ठीक</string>
+    <string name="once">एकदा</string>
+    <string name="one_application_selected">1 अनुप्रयोग निवडला</string>
+    <string name="popup_attention_email_msg">काही ईमेल खाती ईमेल सेटिंग्‍समध्‍ये निवडलेली नाहीत. आपल्‍या गिअर वर त्‍या खात्‍यांमधून अधिसूचना प्राप्‍त करण्‍यासाठी, ईमेल सेटिंग्‍समध्‍ये ईमेल अधिसूचना निवडा.</string>
+    <string name="popup_attention_message_msg">आपल्‍या गिअरवर संदेश पाठवण्‍यासाठी आणि प्राप्‍त करण्‍यासाठी, आपले डिफॉल्‍ट संदेश प्रेषण अनुप्रयोग %s ते संदेश प्रेषणावर बदलेल.</string>
+    <string name="popupmenu_search_for_new_device">उपकरणे व्‍यवस्‍थापित करा</string>
+    <string name="preview_message_desc">आपल्या गिअर वरील अधिसूचना पॉप-अप्स मध्ये इनकमिंग कॉल अलर्ट्स आणि अलार्म व्यतिरिक्त, प्राप्त केलेल्या अधिसूचनांचे पूर्वावलोकन दर्शवा.</string>
+    <string name="preview_message_title">संदेश पू्र्वावलोकन</string>
+    <string name="primary">प्राथमिक</string>
+    <string name="progressdialog_please_wait">कृपया वाट पहा.</string>
+    <string name="progressdialog_reinstalled_message">स्थापना चालू…</string>
+    <string name="progressdialog_reinstalled_popup_content">पुन्‍हा इन्‍स्‍टॉल करा</string>
+    <string name="providerapp_reinstalled">%s योग्‍यपणे काम करत नाही ज्‍यामुळे हे अन्‍इन्‍स्‍टॉल केले गेले आहे. हे आता पुन्‍हा इन्‍स्‍टॉल करण्‍यात येईल.</string>
+    <string name="quick_tutorial_add_shortcuts">गिअरच्‍या मुख्‍य स्‍क्रीन वर अनुप्रयोग शॉर्टकट्स किंवा विजेट्स जोडण्‍यासाठी, गिअर वरील अनुप्रयोगांवर जा, अनुप्रयोग आयकॉन टॅप आणि होल्‍ड करा, नंतर स्‍क्रीनच्‍या शीर्षस्‍थानी होम आयकॉन वर हे ड्रॅग आणि ड्रॉप करा.</string>
+    <string name="quick_tutorial_gear_structure">आपल्‍या गिअरच्‍या मुख्‍य स्‍क्रीनवरील मुख्‍य पृष्‍ठावर घड्याळ दर्शवले आहे. घड्याळाच्‍या डावीकडील पृष्‍ठे अधिसूचना आणि उजवीकडील विजेट्स दर्शवतात. अनुप्रयोग पाहण्‍यासाठी स्‍क्रीनच्‍या तळाच्‍या कडेपासून वरच्‍या दिशेने स्‍वाइप करा.</string>
+    <string name="quick_tutorial_noti_title">%s परिचय</string>
+    <string name="quick_tutorial_noti_title_gear">गिअर S</string>
+    <string name="quick_tutorial_noti_title_gear1">गिअर</string>
+    <string name="quick_tutorial_noti_title_gear2">गिअर 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice उघडण्यासाठी, “Hi Gear” म्हणा किंवा कोणत्याही स्क्रीनवर असताना होम की दोनदा दाबा.</string>
+    <string name="quick_tutorial_swipe_downwards">आपल्‍या पसंतीचे अनुप्रयोग उघडण्‍यासाठी होम कळ दोनदा दाबा. आपण आपले पसंतीचे अनुप्रयोग सेटिंग्‍स मध्‍ये बदलू शकता.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">आपले पसंतीचे अनुप्रयोग उघडण्‍यासाठी पॉवर की दोनदा दाबा. आपण सेटिंग्‍स मध्‍ये आपले पसंतीचे अनुप्रयोग बदलू शकता.</string>
+    <string name="quick_tutorial_to_go_back">मागे जाण्‍यासाठी कडेपासून खालच्‍या दिशेने स्‍क्रीन स्‍वाइप करा.</string>
+    <string name="remote_connection_disabled_settings">सेटिंग्स</string>
+    <string name="remote_connection_enabled_desc">जर ब्लुटूथ कनेक्शन समाप्त झाले तर गिअर दूरस्थपणे कनेक्ट होईल.</string>
+    <string name="requested">विनंती केलेले</string>
+    <string name="reset_gear_legal_text1">गिअर पुन्हा सेट करा वापरून, आपण आपल्या गिअरवरील सर्व डेटा दूरस्‍थपणे हटवू शकता. अशा प्रकारे हटवल्यानंतर, हटवलेला डेटा पूर्वस्थित करू शकत नाही आणि आपण यापुढे माझे गिअर शोधा वापरू शकत नाही.</string>
+    <string name="reset_gear_legal_text2">* गिअर पुन्हा सेट कराला कार्य करण्यासाठी काही वेळ लागू शकतो किंवा तो आपल्या गिअरच्या स्थितीनुसार अयशस्वी देखील होऊ शकतो.</string>
+    <string name="restore_complete">पुन्हासंग्रह पूर्ण.</string>
+    <string name="restore_some_error">पुनर्स्थापना अयशस्वी झाली. पुन्हा प्रयत्न.</string>
+    <string name="restore_try_again">पुन. प्रयत्न</string>
+    <string name="retrieve_dialog_desc">अनुप्रयोग यादी पुनर्प्राप्त करीत आहे…</string>
+    <string name="sa_error_0203_desc">रिमोट कनेक्शन सक्षम करण्यासाठी, Samsung account मॅन्युअली अद्यावत करा.</string>
+    <string name="sa_error_0203_title">Samsung account अद्ययावत करा</string>
+    <string name="sa_error_0301_desc">आपल्या मोबाईल उपकरणावरील आपल्या Samsung account मध्ये साइन इन करताना नेटवर्क त्रुटी आली.</string>
+    <string name="sa_error_0301_title">फंक्शन सक्षम करण्यात अयशस्वी</string>
+    <string name="sa_error_0302_title">फंक्शन सक्षम करण्यात अयशस्वी</string>
+    <string name="sa_error_0401_desc">त्रुटी आली. पुन्हा प्रयत्न करा.</string>
+    <string name="sa_error_0401_title">त्रुटी</string>
+    <string name="safety_message_interval_10minutes">दर 10 मिनिटांनी</string>
+    <string name="safety_message_interval_20minutes">प्रत्येक 20 मिनिटांनी</string>
+    <string name="samsung_apps_info">%1$s द्वारे डाउनलोड केलेले अनुप्रयोग %2$s अनइन्स्टॉल केलेले असताना किंवा अनुप्रयोग डेटा साफ केलेला असताना हटवले जाऊ शकतात. आपण %3$s मध्ये आपल्या खरेदी इतिहासामधून हटवलेले अनुप्रयोग डाउनलोड करू शकता.</string>
+    <string name="samsung_apps_notice">सूचना</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">आता अद्ययावत करायचे</string>
+    <string name="screen_off">स्क्रीन बंद ठेवा</string>
+    <string name="screen_off_desc">त्याची स्क्रीन बंद केलेली असताना आपल्या गिअरवर इनकमिंग कॉल अलर्ट्स आणि अलार्म्स व्यतिरिक्त अधिसूचना प्राप्त करा.</string>
+    <string name="setting_Enable">सक्रिय</string>
+    <string name="setting_alpm_dialog_title">लक्ष द्या</string>
+    <string name="setting_always_off">नेहमी बंद</string>
+    <string name="setting_always_on">नेहमी चालू</string>
+    <string name="setting_auto">स्वंय</string>
+    <string name="setting_auto_lock_disable_desc">प्रशासक, एन्क्रिप्शन धोरणा, किंवा अधिकारपत्रे स्टोरेज द्वारे अक्षम झाले.</string>
+    <string name="setting_backup_restore2">बॅकअप आणि पूर्वस्थित करा</string>
+    <string name="setting_basic">मूलभूत</string>
+    <string name="setting_connections">कनेक्शन्स</string>
+    <string name="setting_disable">अक्षम</string>
+    <string name="setting_home_key_double_pressing">होम कळ दोनदा दाबत आहे</string>
+    <string name="setting_language_input">भाषा आणि निविष्ट</string>
+    <string name="setting_manage_text_templates">मजकूर टेम्पलेटस संपादित करा</string>
+    <string name="setting_mobile_network">मोबाईल नेटवर्क्स</string>
+    <string name="setting_mobile_network_desc">आपले गिअर आपल्या मोबाईल उपकरणाशी ब्लुटूथद्वारे कनेक्ट केलेले असताना ते आपल्या मोबाईल नेटवर्कमधून डिस्कनेक्ट होईल. जेव्हा ब्लुटूथद्वारे कनेक्शन समाप्त होईल, तेव्हा गिअर आपल्या मोबाईल नेटवर्कशी पुन्हा स्वयंचलितपणे कनेक्ट होईल.</string>
+    <string name="setting_multisim_popup_desc">आपल्या सेवा प्रदात्यावर आधारित, आपल्याला बहु SIM फंक्शन वापरण्यासाठी वेगळ्या सदस्यत्वाची गरज भासू शकते. मल्टि SIM सक्षम करण्यासाठी ठीक टॅप करा.</string>
+    <string name="setting_opensource">खुला स्रोत परवाना</string>
+    <string name="setting_palm_motion">मोशन्स</string>
+    <string name="setting_palm_swipe">कॅप्चर करण्यासाठी स्वाइप करा</string>
+    <string name="setting_palmover_desc">इनकमिंग कॉल्स आणि अलार्म्स मूक करण्यासाठी किंवा मिडियाला विराम देण्यासाठी, स्क्रीन चालू असताना आपला हात स्क्रीनवर ठेवा.</string>
+    <string name="setting_palmswipe_desc">आपले पूर्ण बोट स्क्रीन भोवती स्पाइप करून, ते स्क्रीनच्या संपर्कात ठेऊन, स्क्रीन कॅप्चर करा.</string>
+    <string name="setting_pause_mute">मूक/विराम</string>
+    <string name="setting_power_key_double_pressing">पॉवर कळ दोनदा दाबत आहे</string>
+    <string name="setting_restoring">पुन:संग्रहित करीत आहे…</string>
+    <string name="setting_safety_b1_desc">आपले गिअर आणि मोबाईल उपकरण कनेक्‍ट असताना, मदत संदेश पाठवा आपल्‍याला आपात्‍काळामध्‍ये मदत करते. हे आपल्‍या परि‍स्थितीवर आपल्‍या आपात्‍कालीन संदेश संपर्कांना आपल्‍या स्‍थानासह आपात्‍कालीन संदेश पाठवून अलर्ट करते. हे संदेश पाठवण्या मुळे अतिरिक्त शुल्क लागू शकेल. आपात्‍काळा दरम्‍यान मदत संदेश पाठवा सक्षम करण्‍यासाठी, %d वेळा पॉवर कळ दाबा.</string>
+    <string name="setting_safety_b2_desc">जेव्‍हा आपले गिअर आणि मोबाईल उपकरण कनेक्‍ट असेल, तेव्हा मदत संदेश पाठवा आपल्याला गिअर कॅमेरा वापरून चित्रे घेऊन आपात्‍काळात मदत करतो. ह्या चित्र आणि आपल्‍या स्‍थानासह त्‍यांना आपात्‍कालीन संदेश पाठवून हे आपल्‍या आपात्‍कालीन संदेश संपर्कांना आपल्‍या परिस्थितीवर अलर्ट करतात. प्रथम संदेशामध्‍ये आपले स्‍थान आणि चित्र दोन्‍हींचा समावेश असेल. नंतर, मध्‍यांतरानंतर, केवळ आपले स्‍थान असलेला दुसरा संदेश पाठवण्‍यात येईल. हे संदेश पाठवण्या मुळे अतिरिक्त शुल्क लागू शकेल. आपातकाळा दरम्यान मदत संदेश पाठवा सक्षम करण्यासाठी, होम कळ %d वेळा दाबा.</string>
+    <string name="setting_safety_b2_no_camera_desc">आपले गिअर आणि मोबाईल उपकरण कनेक्‍ट असताना, मदत संदेश पाठवा आपल्‍याला आपात्‍काळामध्‍ये मदत करते. हे आपल्‍या परि‍स्थितीवर आपल्‍या आपात्‍कालीन संदेश संपर्कांना आपल्‍या स्‍थानासह आपात्‍कालीन संदेश पाठवून अलर्ट करते. हे संदेश पाठवण्या मुळे अतिरिक्त शुल्क लागू शकेल. आपात्‍काळा दरम्‍यान मदत संदेश पाठवा सक्षम करण्‍यासाठी, होम कळ %d वेळा दाबा.</string>
+    <string name="setting_safety_b3_desc1">आपण आपात्कालीन परिस्थितीमध्ये असताना आपल्या प्राथमिक संपर्कांवर त्वरित सतर्क पाठवण्यासाठी होम की त्वरित 3 वेळा दाबा.</string>
+    <string name="setting_safety_b3_desc2">आपले प्राथमिक संपर्क आपल्‍या वर्तमान स्‍थानाविषयी माहिती समाविष्‍ट असलेले आपात्‍कालीन संदेश प्राप्‍त करतील.</string>
+    <string name="setting_safety_b3_desc3">हे फंक्शन वापरण्यासाठी आपले मोबाईल उपकरण आपल्या गिअरशी कनेक्ट करा.</string>
+    <string name="setting_safety_list">सुरक्षित सहाय्य</string>
+    <string name="setting_samsung_legal">सॅमसंग कायदेशीर</string>
+    <string name="setting_screen_lock">स्‍वयं लॉक</string>
+    <string name="setting_screen_lock_desc">आपला गिअर शोधण्‍यासाठी खूपच लांब असताना स्‍वयंचलितपणे आपले मोबाईल उपकरण लॉक करा वर सेट करा.</string>
+    <string name="setting_screen_secutiry">स्क्रीन सुरक्षा</string>
+    <string name="setting_send_emergency_picture">आपात्‍कालीन चित्र पाठवा</string>
+    <string name="setting_send_emergency_recording">ध्वनी रेकॉर्डिंग पाठवा</string>
+    <string name="setting_send_emergency_term_agree">मी वरील सर्व अटी आणि शर्ती वाचल्या आहेत आणि सहमत आहे.</string>
+    <string name="setting_send_help_message">मदत संदेश पाठवा</string>
+    <string name="setting_send_terms_conditions">अटी आणि शर्ती</string>
+    <string name="setting_smart_relay">स्मार्ट रिले</string>
+    <string name="setting_smart_relay_desc">आपले मोबाईल उपकरण उचलून आपल्‍या मोबाईल उपकरणा वर आपल्‍या गिअरवरून सामग्री पहा.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">सिस्‍टम</string>
+    <string name="setting_text_to_speech_engine">मजकूर-टू-स्पीच इंजिन</string>
+    <string name="setting_textinput_emoticon">इमोटीकॉन्स</string>
+    <string name="setting_textinput_keyboard">कीबोर्ड</string>
+    <string name="setting_textinput_list">मजकूर निविष्ट पद्धती</string>
+    <string name="setting_textinput_templates">नमुने</string>
+    <string name="setting_try_it">वापरून पाहा</string>
+    <string name="setting_wake_up">वेक-अप हावभाव</string>
+    <string name="setting_wake_up_desc">आपले गिअर चालू आहे असे हात उंचावून गिअर वेक अप करा.</string>
+    <string name="setting_wakeupgesture">"गिअर वेकअप करण्‍यासाठी, हात उचला की आपला गिअर चालू आहे आणि स्‍क्रीनच्‍या गिअरकडे पहा.
+
+आपण जेव्‍हा पाठीवर झोपलेले किंवा खाली लोळत असाल तेव्‍हा हे वैशिष्‍ट्य काम करणार नाही, आणि गिअर बॅटरी पॉवर अधिक खर्च होईल कारण ह्याचे मोशन सेंसर नेहमी चालू असते."</string>
+    <string name="setting_wakeupgesture_clock">घड्याळ</string>
+    <string name="setting_wakeupgesture_previous">शेवटी पाहिलेली स्‍क्रीन</string>
+    <string name="setting_wakeupgesture_screen_on">दर्शवलेली स्‍क्रीन निवडा</string>
+    <string name="settings_application_version">अनुप्रयोग आवृत्ती</string>
+    <string name="settings_emergency_contact">प्राथमिक संपर्क व्यवस्थापित करा</string>
+    <string name="settings_emergency_contact_empty">कोणतीही प्राथमिक संपर्के जोडली नाहीत. %s सक्षम करण्‍यासाठी, प्राथमिक संपर्कांवर संपर्के जोडा.</string>
+    <string name="settings_legal_information">कायदेशीर माहिती</string>
+    <string name="settings_message_interval">संदेश मध्यंतर</string>
+    <string name="settings_not_set">सेट नाही</string>
+    <string name="settings_security">सुरक्षितता</string>
+    <string name="settings_security_update">सुरक्षा अद्ययावत</string>
+    <string name="settings_security_update_desc">ह्याची सुरक्षितता आणि सेवा सुधारून घातक सामग्री पासून आपले उपकरण संरक्षित करा.</string>
+    <string name="settings_unknown_sources_dialog">अज्ञात स्त्रोतांकडून इन्‍स्‍टॉल केल्‍याने कदाचित आपले उपकरण आणि वैयक्तिक डेटाला घातक असू शकते. ठीक टॅप करून, आपण सहमत आहात की आपण आपल्‍या उपकरणाच्‍या कोणत्‍याही नुकसानासाठी आणि डेटा नुकसानासाठी एकटे जबाबदार आहात जे हे अनुप्रयोग वापरण्‍याच्‍या परिणामस्‍वरूप झालेले असते.</string>
+    <string name="settings_unknown_sources_subtitle">अनुप्रयोगांना सॅमसंग गेअर एप्स व्यतिरिक्त इतर स्त्रोतांमधून इन्स्टॉल होण्याची अनुमती द्या.</string>
+    <string name="share_loc_disabled">शेअर स्‍थान अक्षम केले.</string>
+    <string name="share_location_desc">माझा गिअर शोधा आणि माझे उपकरण शोधा ला आपला गिअर आणि मोबाईल उपकरणाचा स्थान डेटा सामायिक करण्याची अनुमती द्या.</string>
+    <string name="shm_I_agree_that_mobile_data">मला मान्य आहे की आणीबाणीमध्ये मोबाईल डेटा वापरला जाऊ शकतो व MMS संदेश पाठवले जाऊ शकतात. मला समजते की ह्याच्या परिणामी अतिरिक्त शुल्क लागू शकते.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. मदत संदेश पाठवाचा उद्देश प्रयोक्‍त्‍यांना त्यांच्या अंदाजे स्‍थानाची नोटिस पाठविणे आणि आधीपासूनच निवडलेल्‍या संपर्कांच्‍या मोबाईल उपकरणावर दृश्य परिसराला मदत करण्याचा आहे. हे केवळ आपल्‍या सुविधेसाठी आहे आणि प्राधिकरणांवर आपात्‍कालीन कॉल्‍ससाठी पर्यायी म्‍हणून वागवले जाण्‍याचा उद्देश्‍य नाही ना तो वागवला गेला पाहिजे.
+
+2. मदत संदेश पाठवा (“सेवा”) अचूकपणे, सतत किंवा त्रुटी-मुक्‍त काम करणार नाही, जे नेटवर्क कनेक्टिव्हिटी, GPS/Wi-Fi माहितीची उपलब्‍धता, स्थिती आणि/किंवा आपली/आपल्‍या संपर्काच्‍या उपकरणाची स्थिती, बॅटरी स्‍तर आणि/किंवा अन्‍य परिस्थिती ज्‍या Samsung Electronics Co., Ltd. (“Samsung”, “आम्‍ही”, “आपण”, “आपले”) च्‍या नियंत्रणाच्‍या बाहेर आहेत अशा सारख्‍या परिस्थितींवर अवलंबून आहे. स्‍थान माहितीची योग्‍यता आणि सेव वेळेवर पोहोचविणे कदाचित आपला परिसर तसेच आपल्‍या उपकरणाच्‍या स्थिती आणि आपल्‍या आपात्‍कालीन संपर्काद्वारे प्रभावित होऊ शकते. जोपर्यंत अन्‍यथा स्‍पष्‍टपणे उल्‍लेखित किंवा कायदेशीरपणे आवश्‍यक असल्‍याशिवाय, Samsung कोणतीही वॉरंटी जी सेवा योग्‍यपणे, सतत किंवा कोणत्‍याही त्रुटीशिवाय कार्य करते तिचा अस्‍वीकार करते. कृपया नोंद घ्या की आपला निवडलेला संपर्क कार्यरत मोबाईल फोन असणे आवश्यक आहे आणि उपकरण चालू केलेला असणे आणि मजकूर संदेश प्राप्त करण्यास सक्षम असणे आवश्यक आहे. आपला परिसर आणि स्थान डेटाचे स्थानांतरण हे आपल्या सेवा प्रदात्याने निर्दिष्ट केलेल्या वर आधारित आकारण्यायोग्य असू शकते.
+
+सेवेसाठीच्‍या फंक्‍शनच्‍या अनुषंगाने, एकदा आपल्‍याद्वारे निश्चित केल्‍यानंतर, कदाचित विशिष्ट केलेले असणे गरजेचे आहे, आपल्‍या उपकरणाचे स्‍वयंचलितरित्‍या GPS आणि Wi-Fi फंक्‍शन्‍स् चालू करा. आपण आपल्या उपकरणावरील GPS आणि Wi-Fi फंक्शन्सचे (आवश्‍यक असल्‍यास) स्वयंचलित सक्रियकरण, आपल्याला पुढील कोणत्‍याही सूचना किंवा आपल्याद्वारे संमतीशिवाय मान्य केल्‍या आहेत.
+
+3. आपण ह्या फंक्‍शनचा गैरवापर किंवा ह्या फंक्‍शनचा कोणताही बेकायदेशीर उद्देशासाठीचा वापर किंवा कोणतीही गोपनीयता किंवा कोणतीही वैयक्तिक किंवा इतरांच्‍या मालमत्‍ता हक्‍कांचे उल्‍लंघन करत नाही हे मान्‍य केले आहे आणि सहमत आहात. हे फंक्‍शन केवळ कायद्याच्‍या अनुषंगाने आणि केवळ आपात्‍कालीन परिस्थितीमध्‍ये वापरा.आपण ह्या वैशिष्‍ट्याच्‍या आपल्‍या वापरासाठी एकटे सहमत आहात. Samsung कोणतेही निष्कर्ष जे आपण हे वैशिष्‍ट्य वापरण्‍यापासून व्‍युत्‍पन्‍न झालेली असल्यास जबाबदार नसेल.
+
+4. सेवा आपल्या सोयीसाठी उपलब्ध केल्‍या आहेत आणि अधिकार्‍यांना आपात्कालीन कॉल्स करण्‍याच्‍या उद्देशासाठी नाहीत तसेच हे त्‍याकरिता आहेत असे मानू नये. जोपर्यंत अन्‍यथा स्‍पष्‍टपणे उल्‍लेखित किंवा कायदेशीरपणे आवश्‍यक असल्‍याशिवाय, Samsung कोणतीही वॉरंटी जी सेवा योग्‍यपणे, सतत किंवा कोणत्‍याही त्रुटीशिवाय कार्य करते तिचा अस्‍वीकार करते.
+
+5. हमी अस्‍वीकरण. आपल्‍याला स्‍पष्‍टपणे समजले आहे आणि सहमत आहात की:
+ 
+A. सेवा ह्या जशाच्‍या तशा, “सर्व चुकांसह,” आणि उपलब्‍धतीनुसार प्रदान करण्‍यात आल्‍या आहेत. आपण त्‍यांना वापरण्‍याचा धोका सहन कराल. SAMSUNG कोणत्‍याही सेवांशी संबंधित किंवा अंतर्गत व्‍यक्‍त वॉरंटीज, हमी किंवा अटी देत नाही. SAMSUNG व्‍यक्‍तपणे सर्व मध्यस्थी आणि कोणत्‍याही प्रकारच्‍या वॉरंटीजची, व्‍यक्‍त किंवा निहित, मिळून, परंतु वापरातून किंवा कामगिरीमधून कोणत्‍याही व्यापारीतेस निहित हमी, विशिष्‍ट उद्देशासाठीचे फिटनेस आणि उल्‍लंघना-शिवाय आणि कोणतीही निहित वॉरंटीजशी मर्यादित नसलेल्‍याचा अस्वीकार करते.
+
+B. मागील मर्यादित न करता, SAMSUNG कोणत्‍याही प्रकारचे प्रतिनिधित्‍व करत नाही किंवा वॉरंटी देत नाही जी (i) सेवा आपल्‍या आवश्‍यकतांची पूर्तता करेल, (ii) सेवा खंडीत न होणारी, वेळेवर, सुरक्षित किंवा त्रुटी-मुक्त असेल, (iii) सेवेपासून मिळालेली सामग्री किंवा कोणत्‍याही अधिसूचना किंवा सेवांची कार्यशीलता योग्‍य, पूर्ण किंवा विश्‍वसनीय उपलब्‍ध होईल, (iv) सेवांचा दर्जा किंवा कोणतीही माहिती किंवा सेवेमार्फत मिळालेली अन्‍य सामग्री आपल्‍या अपेक्षांची पूर्तता करेल, किंवा (v) सेवांमधील कोणत्‍याही त्रुटी किंवा चूका योग्‍य केल्‍या जातील.
+
+6. दायित्वाची मर्यादा.
+
+A. आपल्‍याला स्‍पष्‍टपणे समजले आहे आणि सहमत आहात की SAMSUNG निष्काळजीपणा सिद्धांतांर्गत, कोणत्‍याही प्रत्‍यक्ष, अप्रत्‍यक्ष, प्रासंगिक, खास, दंडात्‍मक, परिणामस्वरुप किंवा उदाहरणस्वरुप हानी, उत्‍तरदायित्‍व, नुकसान किंवा खर्च, मिळून परंतु मर्यादित नसून, नफ्याचे नुकसान, वापराचे नुकसान किंवा अन्‍य नुकसान (जरी दुरूस्‍ती, बदली किंवा कोणतेही नुकसान किंवा SAMSUNG ज्ञात किंवा नुकसान, दायित्‍व, हानी किंवा खर्चासारख्‍या ज्ञात शक्‍यता आपल्‍याला पूर्णपणे भरपाई न मिळालेल्‍या सेवासाठींचा परतावा), प्रत्‍यक्ष किंवा अप्रत्‍यक्षपणे कडून किंवा च्‍याकडून व्‍युत्‍पन्‍न: (i) संविदाभंग, हमी निष्‍काळजीपणा, हमी किंवा स्थिती, कठोर दायित्‍व, निष्‍काळजीपणा किंवा लागू कायद्याद्वारे काही प्रमाणात परवानगी असलेले अन्‍य दिवाणी गुन्‍ह्यांसाठी; (ii) आपला सेवा वापरासाठीचा वापर किंवा आपली अक्षमता, (iii) बदली सेवेची प्रापण किंमत; (iv) आपले ट्रान्समिशन किंवा डेटामध्‍ये अनधिकृत प्रवेश किंवा बदल; (v) तृतीय पक्षाचे कोणतेही वाक्‍य किंवा आचार; (vi) हा करार; (vii) व्‍यक्ति किंवा मालमत्तेची हानि (मृत्‍यू सहित), किंवा (viii) सेवा किंवा सेवांमार्फत प्रदान करण्‍यात आलेल्‍या सामग्रीशी संबंधित कोणतेही अन्‍य गोष्‍टींसाठी जबाबदार नसेल.
+ 
+B. आपली स्‍वत:ची आणि विशिष्‍ट उपाययोजना SAMSUNG शी संबंधित कोणत्‍याही वादविवादासाठी ह्या करारामध्‍ये किंवा सेवामध्‍ये सेवांचा वापर बंद करेल.
+ 
+C. काही अधिकार क्षेत्रे विशिष्‍ट वॉरंटीजचा बहिष्‍कार किंवा मर्यादा किंवा दायीत्‍वाच्‍या प्रवेश नकारासाठीच्‍या प्रासंगिक किंवा परिणामस्वरुप नुकसानासाठी अनुमती देत नाहीत. त्‍यानुसार, विभाग ५ आणि ६ च्‍या काही उपरोक्‍त मर्यादा आपल्‍याला लागू नसतील.
+
+7. नुकसान भरपाई. आपण हानिरहित, बचावाची तरतूद आणि बचावापासून आणि आपल्‍या सेवांच्‍या वापराशी संबंधित किंवा त्‍यापासून आलेल्‍या कोणतेही हक्‍क, क्रियाशीलता, मागण्‍या, किंमती, दायित्‍व, नुकसान, दंड आणि खर्चाच्‍या विरोधात (वकीलाच्या वाजवी फी आणि खर्चा सह मिळून) किंवा ह्या करारासह आपल्‍याद्वारे झालेल्‍या कोणत्‍याही अयशस्‍वीतेसह Samsung सोबत राहण्‍याचे मान्‍य केले आहे. जर, वैयक्तिक स्‍वभावा व्‍यतिरिक्‍त आपल्‍याला परवाना ह्या अटी आणि शर्तींतर्गत मान्‍य करण्‍यात आला, तर आपण कोणत्‍याही वैयक्तिक सेवा वापरण्‍यासाठी किंवा सेवांद्वारे प्राप्‍त झालेली कोणतीही वैयक्तिक माहिती प्रदान करण्‍यासाठी अनुमत असाल, आपण ह्या अटी आणि शर्तींचे अस्तित्‍व आणि तरतुदींचे असे वैयक्तिक माहिती पुरविण्‍यासाठी सहमत आहात, जी अशा वैयक्तिक तेशी बांधिल असेल आणि आपण हानिरहित, बचावाची तरतूद आणि बचावापासून आणि आपल्‍या सेवांच्‍या वापराशी संबंधित किंवा त्‍यापासून आलेल्‍या कोणतेही हक्‍क, क्रियाशीलता, मागण्‍या, किंमती, दायीत्‍व, नुकसान, दंड आणि खर्चाच्‍या विरोधात (वकीलाच्या वाजवी फी आणि खर्चा सह मिळून) किंवा ह्या करारासह आपल्‍याद्वारे झालेल्‍या कोणत्‍याही अयशस्‍वीतेसह Samsung सोबत राहण्‍याचे मान्‍य केले आहे.
+
+8. उत्‍तम शक्‍ती. Samsung कोणत्‍याही परफॉरमन्‍समध्‍ये ह्या अटी आणि शर्ती किंवा सेवांचा खंड ह्या अंतर्गत उशीर किंवा अयशस्‍वीतेसाठी, देवाचे कायदे, नागरी किंवा लष्करी प्राधिकारी, युद्ध, तृतीय पक्षाद्वारे प्रदान दहशतवाद, कामगार विवाद, साहित्य किंवा सेवा कायदे, किंवा Samsung वाजवी आवाक्याबाहेरील कोणत्याही कारण परिणामी जबाबदार नसेल."</string>
+    <string name="shm_share_my_location_checkbox_text">माझे स्थान माझ्या %2$s संपर्कांसह शेअर करण्यास %1$s ला अनुमती देणे मला मान्य आहे.</string>
+    <string name="smartrelay_not_show">पुन्हा दर्शवू नका</string>
+    <string name="software_update">सॉफ्टवेयर अद्ययावत</string>
+    <string name="ss_double_tap_any_screen">चमक आणि आवाज नियंत्रणे आणि अन्‍य उपयुक्‍त माहिती पाहण्‍यासाठी दोन बोटांनी कोणतीही स्‍क्रीन दोनदा टॅप करा.</string>
+    <string name="ss_forwarding_calls_to_gear_header">आपल्‍या गिअरवर कॉल्‍स अग्रेषित करणे</string>
+    <string name="ss_forwarding_calls_to_gear_progress">विनंती करीत आहे…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">सेटिंग्स वाचत आहे…</string>
+    <string name="ss_loading_ing_abb">लोड करीत आहे…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">मोबाईल डेटा अक्षम केला. त्याऐवजी Wi-Fi नेटवर्कशी कनेक्ट करा, किंवा मोबाईल डेटा सक्षम करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="ss_no_network_connection">नेटवर्क कनेक्शन नाही</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">प्रयोक्ता मॅन्युअल</string>
+    <string name="stub_list_install">इनस्टॉल</string>
+    <string name="tab_stub_list">फीचर्ड</string>
+    <string name="talkback_download">डाउनलोड</string>
+    <string name="talkback_setting">सेटिंग</string>
+    <string name="the_samsung_gear_application">Samsung Gear अनुप्रयोग</string>
+    <string name="threeg_connection">रिमोट कनेक्‍शन वापरा</string>
+    <string name="threeg_connection_subtitle">आपल्या Samsung account सह मोबाईल डेटा किंवा Wi-Fi एकत्रित वापरून, आपल्या गिअरशी दूरस्थपणे कनेक्ट करा.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">अनइंस्टॉल</string>
+    <string name="title_activity_connect_popup">कनेक्ट करा</string>
+    <string name="title_activity_paired_watch">पेअर केलेले उपकरण</string>
+    <string name="title_alertdialog_device_name_popup">%s चे नाव बदला</string>
+    <string name="title_alertdialog_disconnect_popup">डिस्कनेक्ट करा</string>
+    <string name="title_dialog_pm_error">धोक्याचा इशारा</string>
+    <string name="title_dialog_uninstall">अनइन्स्टॉल करा.</string>
+    <string name="title_findmywatch_connect2">माझे गिअर शोधा</string>
+    <string name="title_findmywatch_finding">शोधत आहे…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s हे %2$s शी कनेक्ट करा</string>
+    <string name="tri_connect_warning_temporal_disconnect">ब्लुटूथद्वारे आपले %1$s आपल्या %2$s शी कनेक्ट केल्याने आपल्या मोबाईल उपकरणावरून %3$s तात्पुरते डिस्कनेक्ट केले जाईल. हे कनेक्शन थोड्याच वेळात पुन्हा सुरू होईल आणि आपला %4$s आपल्या %5$s आणि आपल्या मोबाईल उपकरण दोन्हीशी कनेक्ट केले जाईल.</string>
+    <string name="tt_install_voice_data">TTS आवाज डेटा इन्‍स्‍टॉल करा</string>
+    <string name="tt_install_voice_data_required">आपल्‍या गिअरवर अतिरिक्‍त मजकूर-ते-भाषण भाषा इन्‍स्‍टॉल करा.</string>
+    <string name="tt_language">भाषा</string>
+    <string name="tt_send_help_message">मदत संदेश पाठवा</string>
+    <string name="tt_tts_language_guide">आपली मजकूर-ते-उच्चार भाषा अशी भाषा आहे जी आपण आपल्या गिअर सेटिंग्समध्ये सेट केली आहे. जर आपली भाषा मजकूर-ते-उच्चारद्वारे समर्थित नसेल, तर इंग्रजी (युनाइटेड किंग्डम) वापरली जाईल.</string>
+    <string name="unable_to_connect_popup_message">आपले गिअर आपल्या मोबाईल उपकरणाशी कनेक्ट करण्यात अयशस्‍वी झाले. नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="unable_to_connect_popup_title">कनेक्शन अयशस्वी</string>
+    <string name="unable_to_lock_gear">गिअर लॉक करण्यात अक्षम</string>
+    <string name="unable_to_reset_gear">गिअरची पुन्‍हा मांडणी करण्‍यात अक्षम</string>
+    <string name="uninstall_applications">अनुप्रयोग अनइन्स्टॉल करा</string>
+    <string name="unknown_sources_msg_new">%1$s हे %2$s द्वारे इन्‍स्‍टॉल केले जाणार नाही. आपले उपकरण आणि व्यक्तिगत डेटा अज्ञात स्त्रोतांकडून अनुप्रयोगां द्वारे हल्ला होण्यास अधिक असुरक्षित आहे. आपण सहमत आहात की ह्या अनुप्रयोगांच्या वापराच्या परिणामस्वरूप आपल्या उपकरणाला होणाऱ्या कोणत्याही नुकसानास किंवा डेटा आपण संपूर्णत: जबाबदार आहात. अज्ञात स्त्रोतांकडून नेहमी अनुप्रयोग इन्‍स्‍टॉल करण्यासाठी, %3$s > %4$s > %5$s वर जा आणि %6$s सक्षम करा. %7$s इन्‍स्‍टॉल करण्यासाठी ठीक टॅप करा.</string>
+    <string name="unknown_sources_title">अज्ञात स्रोत</string>
+    <string name="update_summary">अद्ययावतासाठी तपासा</string>
+    <string name="voice_control_subtitle">आपले गिअर कॉल्‍सचे उत्‍तर देण्‍यासाठी किंवा नाकारण्‍यासाठी वाजत नसताना किंवा कंपन करत नसताना विरामांदरम्‍यान “Answer” किंवा “Reject” म्‍हणा.</string>
+    <string name="watchapp_all">अनुप्रयोग</string>
+    <string name="watchapp_noapps">ऍप्स नाही</string>
+    <string name="widget_bt">ब्लुटूथ</string>
+    <string name="widget_fmw_refresh">रिफ्रेश करीत आहे…</string>
+    <string name="wifi_only">केवळ Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Wi-Fi नेटवर्कशी कनेक्‍ट असताना केवळ अद्यतने डाउनलोड करा.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>

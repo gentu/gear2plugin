@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/manager_winset_1_line_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/apps_icon_bg_3rdparty" android:layout_width="wrap_content" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip">
+        <ImageView android:layout_gravity="center" android:id="@id/stublist_icon" android:layout_width="@dimen/list_icon_size" android:layout_height="@dimen/list_icon_size" />
+    </FrameLayout>
+    <TextView android:textSize="21.0dip" android:textColor="@color/normal_text_color" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:id="@id/stublist_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:layout_weight="1.0" />
+    <Button android:textSize="21.0dip" android:textColor="@color/normal_text_color" android:layout_gravity="center_vertical" android:id="@id/stub_install" android:background="@drawable/manager_winset_btn" android:layout_width="98.0dip" android:layout_height="41.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="12.0dip" android:text="@string/stub_list_install" />
+</LinearLayout>

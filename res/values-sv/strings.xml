@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Inte tillgänglig under samtal.</string>
+    <string name="actionbar_name">Gear-hanterare</string>
+    <string name="alert_full_screen">Helskärms-popup</string>
+    <string name="alert_mini">Mini-popup</string>
+    <string name="alertdialog_backkey_popup_content">Varning</string>
+    <string name="alertdialog_disconnect_popup_description">Gear kopplas från. Återanslut med Bluetooth.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Det här avslutar anslutningen med %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Din %s kopplas bort från den mobila enheten. Nästa gång du ansluter dessa enheter måste du använda Bluetooth. Alla anslutningar efter det kan göras via Fjärranslutning.</string>
+    <string name="alertdialog_uninstall_popup_content">Avinstallera</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s har inte installerats på din mobila enhet. Om du vill använda %2$s för Gear hämtar du %1$s till din mobila enhet.</string>
+    <string name="attention_popup_title">Obs!</string>
+    <string name="auto_call_forwarding">Autovidarekoppling</string>
+    <string name="auto_call_forwarding_att">Autovidarekoppling till Gear</string>
+    <string name="auto_call_forwarding_desc">Aktivera samtalsvidarekoppling automatiskt när Gear är bortkopplad från den mobila enheten. Det leder till att inkommande samtal vidarekopplas från den mobila enheten till Gear tills enheterna kopplas ihop igen.</string>
+    <string name="auto_update">Automatisk uppdatering</string>
+    <string name="auto_update_summary">Sök efter uppdateringar automatiskt.</string>
+    <string name="backing_up">Säkerhetskopierar…</string>
+    <string name="backup_complete">Säkerhetskopiering slutförd.</string>
+    <string name="bnr_backup">Säkerhetskopierar…</string>
+    <string name="bnr_bakcup_title">Säkerhetskopiering</string>
+    <string name="bnr_cancel">Avbryt</string>
+    <string name="bnr_canel">Avbryt</string>
+    <string name="bnr_error_occurred">Fel har inträffat</string>
+    <string name="bnr_except">%1$s (förutom %2$s)</string>
+    <string name="bnr_except_autolock">Automatiskt lås</string>
+    <string name="bnr_except_remoteconnection">Fjärranslutning</string>
+    <string name="bnr_except_texttemplate">Textmallar</string>
+    <string name="bnr_next">Nästa</string>
+    <string name="bnr_no">Nej</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">För att ansluta till en ny enhet kommer Gear att återställas till fabriksinställningarna.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear är inte helt konfigurerat. Installationsguiden är öppen i Gear, men för att ansluta till Gear måste du även öppna installationsguiden i Gear-hanterare på den här enheten.</string>
+    <string name="bnr_reset_initialization">Nyheter</string>
+    <string name="bnr_restore">Återställ</string>
+    <string name="bnr_restored">Data har återställts.</string>
+    <string name="bnr_setupwizard_title2">Säkerhetskopiera och återställ</string>
+    <string name="bnr_yes">Ja</string>
+    <string name="bt_connected">Ansluten</string>
+    <string name="bt_disconnected">Frånkopplad</string>
+    <string name="bt_unpaired">Ej sammankopplad</string>
+    <string name="button_finish">Avsluta</string>
+    <string name="button_restore">Återställ</string>
+    <string name="call">RING</string>
+    <string name="call_check_gear_status_when_cfwd">Samtalsvidarekoppling från Mobil till Gear kan inte vara aktiverat samtidigt som samtalsvidarekoppling från Gear till mobil.</string>
+    <string name="call_dualsim1">SIM-kort 1</string>
+    <string name="call_dualsim1sim2">Båda SIM-korten</string>
+    <string name="call_dualsim2">SIM-kort 2</string>
+    <string name="call_forwarding">Vidarekoppling av samtal</string>
+    <string name="call_forwarding_agree">Jag godkänner.</string>
+    <string name="call_forwarding_desc">Vidarekoppla inkommande samtal från den mobila enheten till din Gear.</string>
+    <string name="call_forwarding_desc_vzw">Vidarekoppla obesvarade inkommande samtal från din telefon till din Gear.</string>
+    <string name="call_forwarding_disable_msg">Inaktivering av samtalsvidarekopplingen från den mobila enheten till Gear har begärts. Statusen på mobilnätet och den mobila enheten kan påverka resultaten.</string>
+    <string name="call_forwarding_enable_msg">Aktivering av samtalsvidarekoppling från den mobila enheten till din Gear har begärts. Statusen på mobilnätet och den mobila enheten kan påverka resultaten.</string>
+    <string name="call_forwarding_for_att_msg">"När Gear är bortkopplad från din smartphone vidarebefordras inkommande samtal till den mobila enheten automatisk till Gear.
+– Din smartphone ringer några signaler och sedan vidarekopplas samtalet till din Gear.
+– Om du inte svarar på samtalet på din Gear kan den som ringer lämna ett röstmeddelande som du kan avlyssna på din Gear.
+Vill du slå på vidarekoppling av samtal nu?"</string>
+    <string name="call_forwarding_notify_msg">Vidarekoppling av samtal från din mobila enhet till din Gear är aktiv. Inkommande samtal till den mobila enheten vidarekopplas till din Gear. Om du inte har Gear med dig öppnar du Inställningar och inaktiverar den automatiska vidarekopplingen så behöver du inte missa några samtal.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Inaktiverar vidarekopp. av röstsamtal…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Aktiverar vidarekopp. av röstsamtal…</string>
+    <string name="call_no_gear_number">Inga nummer</string>
+    <string name="call_select_dualsim_title">Välj SIM-kort</string>
+    <string name="call_voice_control">Röststyrning</string>
+    <string name="callforwarding_help_des1">Växla enheten som samtal vidarekopplas till automatiskt beroende på om enheterna är anslutna via Bluetooth eller Fjärranslutning.</string>
+    <string name="callforwarding_help_des2">Ta emot samtal till din mobila enhet på din Gear när du rör dig och bär Gear och när Gear är fjärransluten till den mobila enheten.</string>
+    <string name="cancel">Avbryt</string>
+    <string name="cf_activated">Aktiverat</string>
+    <string name="cf_deactivate_failed">Det gick inte att inaktivera samtalsvidarekoppling.</string>
+    <string name="cf_deactivated">Inaktiverat</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Nya klockinställningar tillämpas via Gear.</string>
+    <string name="clocks_download_more_clocks">Hämta fler klockor</string>
+    <string name="clocks_noti_uninstall_clock">%s kommer att avinstalleras.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s kommer att avinstalleras och %2$s ställas in som standardklocka.</string>
+    <string name="clocks_title_basic_clocks">GRUNDLÄGGANDE KLOCKOR</string>
+    <string name="clocks_title_downloaded_clocks">HÄMTADE KLOCKOR</string>
+    <string name="clocks_title_style_clocks">STILKLOCKOR</string>
+    <string name="clocks_uninstalled">Avinstallerat.</string>
+    <string name="clocks_uninstalling">Avinstallerar…</string>
+    <string name="close">Stäng</string>
+    <string name="closing_samsung_gear_message">Din Gear har återställts. Samsung Gear-programmet stängs snart.</string>
+    <string name="closing_samsung_gear_message_jpn">Din Gear har återställts. Gear-programmet stängs snart.</string>
+    <string name="closing_samsung_gear_title">Stäng Samsung Gear-programmet</string>
+    <string name="closing_samsung_gear_title_jpn">Stäng Gear-programmet</string>
+    <string name="cloud_backup_no_information">Aldrig</string>
+    <string name="cloud_backup_restore_backup_now">Säkerhetskopiera data</string>
+    <string name="cloud_backup_restore_restore_now">Återställ data</string>
+    <string name="cmw_agree">Acceptera</string>
+    <string name="cmw_eula_agree">Jag förstår och samtycker till villkoren ovan.</string>
+    <string name="cmw_for_setting">Platstjänster har inaktiverats. Gå till Inställningar.</string>
+    <string name="cmw_high_accuracy_dialog_message">Välj Hög precision i Plats > Läge för den snabbaste och mest precisa platsdetekteringen.</string>
+    <string name="cmw_high_accuracy_dialog_title">Välj Hög precision</string>
+    <string name="cmw_legal_content">Genom att aktivera “Dela plats” samtycker du till att platsdata som är kopplade till din mobiltelefon och/eller Gear-enhet skickas via en Samsung-server till tjänsten Hitta min Gear &amp; Hitta min enhet Device. Inga platsdata eller -information om enheten lagras på Samsung-servern.</string>
+    <string name="cmw_legal_content1">Genom att aktivera ”%1$s &amp; %2$s” samtycker du till att platsdata som är kopplade till din mobiltelefon och/eller Gear-enhet skickas via en Samsung-server för att tillhandahålla tjänsten %1$s &amp; %2$s. Inga platsdata eller -information om enheten lagras på Samsung-servern.</string>
+    <string name="cmw_legal_content1_no_gps">Genom att aktivera ”%1$s &amp; %2$s” samtycker du till att platsdata som är kopplade till din mobiltelefon skickas via en Samsung-server för att tillhandahålla tjänsten %1$s &amp; %2$s. Inga platsdata eller -information om enheten lagras på Samsung-servern.</string>
+    <string name="cmw_legal_content_2">﻿Samsung sekretesspolicy</string>
+    <string name="cmw_legal_title">Juridiska meddelanden</string>
+    <string name="cmw_location">Aktivera platstjänster</string>
+    <string name="cmw_show_on_map">Visa på karta</string>
+    <string name="color_black">Svart</string>
+    <string name="color_blue">Blå</string>
+    <string name="color_brown">Brun</string>
+    <string name="color_gray">Grå</string>
+    <string name="color_green">Grön</string>
+    <string name="color_light_sky_blue">Ljus himmelsblå</string>
+    <string name="color_medium_purple">Mellanlila</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Rosa</string>
+    <string name="color_purple">Lila</string>
+    <string name="color_red">Röd</string>
+    <string name="color_spring_green">Vårgrön</string>
+    <string name="common_none">Ingen</string>
+    <string name="common_off">Av</string>
+    <string name="common_on">På</string>
+    <string name="common_recent_apps">Senaste prog</string>
+    <string name="connect_popup_content">Ansluter till %s…</string>
+    <string name="connected_by_trasport_BT">Ansluten via Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Fjärransluten</string>
+    <string name="connecting_content">Ansluta till Gear</string>
+    <string name="connecting_doc">När du har anslutit till %1$s kan du ändra inställningarna och installera program på det via %2$s.</string>
+    <string name="connecting_popup_message">Ansluter till Gear …</string>
+    <string name="connecting_popup_title">Anslut till Gear</string>
+    <string name="connecting_to_gear_ing">Ansluter till Gear …</string>
+    <string name="connectingdoc">När du anslutit till Gear kan du ändra inställningarna för Gear och installera program på det via Gear-hanterare.</string>
+    <string name="connection_error_dialog_message">Din enhet har inte anslutits. Den kommer att försöka ansluta igen.</string>
+    <string name="dialog_check_phone_number_msg1">Se till att följande information är korrekt:</string>
+    <string name="dialog_check_phone_number_msg2">Mobiltelefonnummer: %s</string>
+    <string name="dialog_check_phone_number_msg3">Telefonnummer till Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tryck på OK för att bekräfta och aktivera Autovidarekoppling.</string>
+    <string name="dialog_enable_remote_connection_desc">Om du vill aktivera Autovidarekoppling aktiverar du Fjärranslutning och försöker sedan igen.</string>
+    <string name="dialog_enable_remote_connection_title">Aktivera fjärranslutning</string>
+    <string name="dialog_permission_message">Det går inte att använda %s. Tryck på INSTÄLLNINGAR, gå till Programinformation > Behörigheter och tillåt sedan följande behörigheter innan du försöker igen:</string>
+    <string name="dialog_popup_button_cancel">Avbryt</string>
+    <string name="dialog_reverse_msg">Beroende på din operatör kan det krävas separata abonnemang för att den här funktionen ska kunna användas på den mobila enheten och din Gear. Detta kan medföra extra avgifter.</string>
+    <string name="dialog_set_phone_number_msg">Aktivera Autovidarekoppling genom att ange telefonnumren till enheterna som du vill vidarekoppla inkommande samtal till och från.</string>
+    <string name="dialog_set_phone_number_title">Aktivera Autovidarekoppling</string>
+    <string name="disable_loc_text">Dela plats inaktiveras. Du kan inte använda platsinformation för att söka efter din Gear eller den mobila enheten med Hitta min Gear eller Hitta min enhet.</string>
+    <string name="disable_loc_text_no_gps">Dela plats inaktiveras. Du kan inte använda platsinformation för att söka efter den mobila enheten med Hitta min enhet.</string>
+    <string name="disable_remote_connection">Inaktivera Fjärranslutn.</string>
+    <string name="disable_remote_connection_fmm_fmd">Hitta min Gear och Hitta min enhet</string>
+    <string name="disable_remote_connection_receiving_blocked">Ta emot meddelanden, e-post och aviseringar från den mobila enheten</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Ta emot e-post och aviseringar från den mobila enheten</string>
+    <string name="disable_remote_connection_warning">Fjärranslutning inaktiveras. Följande funktioner är inte tillgängliga förrän din Gear ansluts till den mobila enheten via Bluetooth igen:</string>
+    <string name="disable_share_location">Inaktivera platsdelning</string>
+    <string name="disconnect_popup_content">Kopplar från %s…</string>
+    <string name="do_not_show_again">Visa inte igen</string>
+    <string name="enable_auto_call_forwarding_msg">Vidarekoppla automatiskt inkommande samtal från den mobila enheten till din Gear när Gear är bortkopplad. Detta kan medföra ytterligare avgifter, beroende på operatör. Tryck på OK om du vill aktivera Autovidarekoppling.</string>
+    <string name="enable_auto_call_forwarding_title">Aktivera autovidarekoppling</string>
+    <string name="enable_more_notifications_enable">Aktivera</string>
+    <string name="enable_notification_access">Aktivera Åtkomst till aviseringar</string>
+    <string name="enable_notification_access_desc">"Med den här funktionen kan du läsa alla aviseringar du tar emot. Det kan vara personlig information som kontakter och meddelanden som har skickats till dig. Du kan också avvisa de här aviseringarna eller välja åtgärder som relaterar till dem.
+Om du vill ta emot aviseringar på din Gear trycker du på Aktivera och aktiverar sedan %s."</string>
+    <string name="enable_share_location">Aktivera platsdelning</string>
+    <string name="enabled_loc">Platsdelning har aktiverats.</string>
+    <string name="error_enter_device_name">Ange enhetens namn.</string>
+    <string name="error_occurred">Fel har inträffat.</string>
+    <string name="eula_i_agree">Jag godkänner.</string>
+    <string name="failed_tshare_msg">"Kan inte aktivera
+samtalsvid.koppl.
+T share svarar inte."</string>
+    <string name="find_my_device">Hitta min mobila enhet</string>
+    <string name="find_my_gear">Hitta min Gear</string>
+    <string name="find_watch_btn_start">Starta</string>
+    <string name="find_watch_btn_stop">Stopp</string>
+    <string name="find_watch_off">Visa Gear genom att trycka på Start. Gear spelar upp ett ljud och skärmen slås på.</string>
+    <string name="find_watch_on">Sluta visa Gear genom att trycka på Stopp. Gear slutar att spela upp ljudet och skärmen slås av.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s avinstalleras och standardteckensnittet används på din %2$s.</string>
+    <string name="force_wifi_direct_msg">Programmet installeras via Wi-Fi Direct. Då stoppas din nuvarande Wi-Fi Direct-anslutning. Om du avbryter installationen måste du hämta programmet igen för att installera det.</string>
+    <string name="force_wifi_direct_title">Installera</string>
+    <string name="force_wifi_install">Installera</string>
+    <string name="gear2_backup_confirm_text">Om du säkerhetskopierar dina data nu kommer befintlig Gear-säkerhetskopieringsdata på den mobila enheten att ersättas med dina senaste Gear-data.</string>
+    <string name="gear2_restore_confirm_text">Om du återställer dina data kommer befintliga Gear-data på enheten att tas bort och ersättas utav din befintliga Gear-säkerhetskopieringsdata.</string>
+    <string name="gear2_text">"Använd din enhetslagring för att säkerhetskopiera ditt %1$s-innehåll:
+%2$s
+
+Om du har säkerhetskopierat det här innehållet tidigare kan du återställa det till %3$s nu.
+
+Beroende på hur stor filen är kan det ta en stund."</string>
+    <string name="gear2_text_import3">Inställningar</string>
+    <string name="gear_bnr_desc">"Använd lagringsutrymmet i din mobila enhet för säkerhetskopiering av följande %1$s-data: %2$s
+
+Om du har säkerhetskopierat dina %3$s-data tidigare kan du återställa dem på %4$s nu.
+
+Detta kan ta lite tid, beroende på filernas storlek."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Din mobila enhet söker nu efter din Gear. Detta kan ta flera minuter. Det kan vara svårt att hitta din Gear om den är inomhus.</string>
+    <string name="gear_location_popup_title">Sök efter Gear</string>
+    <string name="gear_location_text">Gear-plats</string>
+    <string name="gear_lock_success">Gear har låsts.</string>
+    <string name="gear_lock_text">Lås Gear</string>
+    <string name="gear_locked">Gear har låsts</string>
+    <string name="gear_locked_text1">Gear har låsts. Om du vill låsa upp din Gear ansluter du den till den mobila enheten via Bluetooth.</string>
+    <string name="gear_phone_number">Telefonnummer till Gear</string>
+    <string name="gear_phone_number_popup_desc">Alla samtal till den mobila enheten vidarekopplas till %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Alla obesvarade samtal till den mobila enheten vidarekopplas till %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Innan du kan låsa din Gear måste Fjärranslutning aktiveras.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Innan du kan återställa din Gear måste Fjärranslutning aktiveras.</string>
+    <string name="gear_reset_text">Återställ Gear</string>
+    <string name="gear_to_mobile">Gear till mobil</string>
+    <string name="gear_to_mobile_des">Ta emot samtal till din Gear på din mobila enhet när de två enheterna är anslutna till varandra via Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Det gick inte att hitta plats. Försök igen senare.</string>
+    <string name="gear_unable_to_locate_title">Kan inte hitta Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Bakgrunder</string>
+    <string name="home_bg_color">Färger</string>
+    <string name="home_bg_colors_title">TILLGÄNGLIGA FÄRGER</string>
+    <string name="home_bg_delete_actionbar_selected">Markerade</string>
+    <string name="home_bg_delete_dialog_msg">%d bakgrunder tas bort från Gear-hanteraren och din Gear.</string>
+    <string name="home_bg_delete_select_all">Välj alla</string>
+    <string name="home_bg_max_more_image_toast">Högsta antal bakgrunder (%d) har uppnåtts.</string>
+    <string name="home_bg_more_images">Fler bilder</string>
+    <string name="home_bg_popup_wallpaper_msg">Hämtar bakgrunder till Gear …</string>
+    <string name="home_bg_popup_wallpaper_title">Hämta bakgrunder</string>
+    <string name="home_bg_toast_saved">Sparad.</string>
+    <string name="home_bg_wallpaper">Bakgrund</string>
+    <string name="home_bg_wallpapers_title">TILLGÄNGLIGA BAKGRUNDER</string>
+    <string name="homelayout_apps">Program</string>
+    <string name="incoming_calls_title">Inkommande samtal</string>
+    <string name="info_build_number">Programvaruversion</string>
+    <string name="info_model_number">Modellnummer</string>
+    <string name="info_software_update">Program-varuuppd.</string>
+    <string name="information_provision_agreement">Informationsleveransavtal</string>
+    <string name="information_provision_agreement_mgs">"Röstmemo använder talidentifieringsteknik som tillhandahålls av en tredjepartsleverantör, Nuance Communications, Inc. Därför måste din röstinformation sparas i en server som hanteras av Nuance (i USA), om du vill använda Röstmemo måste du därför acceptera Nuances villkor.
+ Nuance förbehåller sig rätten att använda dina röstinmatningar för att förbättra tjänsterna och utveckla tekniker. Nuance förbehåller sig även rätten att leverera tidigare nämnda röstinmatningar till Nuances partners. Din röstinmatningsinformation lagras tills tidigare nämnda objektiv har uppnåtts. Information om Röstmemotjänsten finns i Samsungs Sekretesspolicy och Nuances Sekretesspolicy.
+ Du kan inte använda Röstmemo om du inte accepterar leveransen av din information så som beskrivs ovan."</string>
+    <string name="init_manage_notifications_desc">Välj de program som du vill ta emot aviseringar från på din %1$s. Avmarkera program som du inte vill ta emot aviseringar från så sparar du batteriström på din %2$s.</string>
+    <string name="install_in_progress">Pågår…</string>
+    <string name="invalid_rename_character">Ett ogiltigt tecken har angivits. Försök igen.</string>
+    <string name="latest_version">Senaste versionen installerad</string>
+    <string name="latitude">Latitud</string>
+    <string name="limit_notification_desc">Blockera bevakningar från att visas på Gear när den mobila enheten används.</string>
+    <string name="limit_notification_dialog_desc">Det går inte att aktivera Begränsa aviseringar på din Gear. Inget skärmlås har ställts in på din mobila enhet.</string>
+    <string name="limit_notification_title">Begränsa aviseringar</string>
+    <string name="location_info_title">Dela plats</string>
+    <string name="lock_gear_legal_text1">Med hjälp av Lås Gear kan du låsa din Gear genom fjärrstyrning för att förhindra obehörig användning. Du kan låsa upp Gear genom att återansluta den till den mobila enheten.</string>
+    <string name="lock_gear_legal_text2">* Det kan ta en stund innan Lås Gear fungerar, och det kanske inte fungerar alls, beroende på skicket på din Gear, din mobila enhet eller nätverksmiljön.</string>
+    <string name="lock_gear_text">Det går inte att låsa din Gear medan din mobila enhet och Gear är kopplade till varandra via Bluetooth.</string>
+    <string name="login_to_samsung_account">Logga in i Samsung account</string>
+    <string name="login_to_samsung_account_desc">Logga in på ditt Samsung account för att aktivera Fjärranslutning på din Gear.</string>
+    <string name="login_to_samsung_account_full_desc">"Logga in på ditt Samsung account om du vill använda följande funktioner när du inte är ansluten via Bluetooth:
+- Ta emot aviseringar
+- Använda program via Fjärranslutning
+Användning av Fjärranslutning kan medföra ytterligare avgifter."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"När du inte är ansluten till telefonen via Bluetooth kan du göra det följande via mobildata med ett Samsung account:
+– Ta emot meddelanden, e-post och andra aviseringar
+– Använda program på Gear som kräver en anslutning till din telefon via Fjärranslutning.
+
+Observera att ditt avtal används av fjärranslutningen via ditt Samsung account."</string>
+    <string name="longitude">Longitud</string>
+    <string name="main_bt_unpaired">Ej sammankopplad</string>
+    <string name="main_disconnected">Frånkopplad</string>
+    <string name="manage_applications">Hantera program</string>
+    <string name="manage_notifications">Hantera aviseringar</string>
+    <string name="manual_call_forwarding_for_att_msg">"Samtal som anländer till din smartphone kan vidarekopplas till din Gear:
+– Din smartphone ringer några signaler och sedan vidarekopplas samtalet till din Gear.
+– Om du inte svarar på samtalet på din Gear kan den som ringer lämna ett röstmeddelande som du kan avlyssna på din Gear.
+Vill du aktivera vidarekoppling av samtal nu?"</string>
+    <string name="manual_call_forwarding_popup_desc">Samtalsvidarekoppling är en nättjänst som dirigerar %s inkommande samtal till ett angivet nummer. Beroende på din operatör kan det krävas ett abonnemang för att den här funktionen ska kunna användas på din Gear. Detta kan medföra extra avgifter.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobil enhet</string>
+    <string name="masterapp_not_installed">%1$s har inte installerats på din mobila enhet. Om du vill använda %2$s för Gear hämtar du %1$s till din mobila enhet.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s har inte installerats på din mobila enhet. Om du vill använda %2$s för Gear hämtar du %1$s till din mobila enhet. Du kommer att flyttas till hämtningsskärmen.</string>
+    <string name="masterapp_uninstalled">%1$s har avinstallerats från din mobila enhet. Om du vill använda %2$s för Gear hämtar du %1$s till din mobila enhet.</string>
+    <string name="maximum_size_warning">Högsta antal tecken har uppnåtts.</string>
+    <string name="menu_about_device">OM %s</string>
+    <string name="menu_actionbar_remove">Ta bort</string>
+    <string name="menu_actionbar_uninstall">Avinstallera</string>
+    <string name="menu_appsandsettigns">PROGRAM OCH INSTÄLLNINGAR</string>
+    <string name="menu_clock">Klocka</string>
+    <string name="menu_display">REDIGERA HEMSKÄRM</string>
+    <string name="menu_downloaded_font">HÄMTADE TECKENSNITT</string>
+    <string name="menu_filetransfertogear">ÖVERFÖR FILER TILL GEAR</string>
+    <string name="menu_gallery">Bild</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitness</string>
+    <string name="menu_help">Hjälp</string>
+    <string name="menu_home_screen">Hemskärmsstilar</string>
+    <string name="menu_music">Musik</string>
+    <string name="menu_myapp">Mina program</string>
+    <string name="menu_notification">Aviseringar</string>
+    <string name="menu_rename">Byt namn</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Inställningar</string>
+    <string name="mobile_to_gear">Mobil till Gear</string>
+    <string name="mobile_to_gear_des">Ta emot samtal till din mobila enhet på din Gear när de två enheterna är fjärranslutna.</string>
+    <string name="monotype_default_font">Standardteckensnitt</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Mer</string>
+    <string name="more_options">Fler al-ternativ</string>
+    <string name="multisim_title">Flera SIM-kort</string>
+    <string name="navigate_up">Navigera upp</string>
+    <string name="new_eula_error_log">Rapportera diagnosinfo</string>
+    <string name="new_eula_fmd2">Hitta min mobila enhet</string>
+    <string name="new_eula_fmg2">Hitta min Gear</string>
+    <string name="new_eula_news_briefing">Aktuellt</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung-tangentbord</string>
+    <string name="new_notification_list">Listvy</string>
+    <string name="new_notifications_list_desc">Visa en lista med aviseringar som har tagits emot på Gear till vänster om klockan.</string>
+    <string name="no_application_selected">Inga valda program</string>
+    <string name="no_downloaded_applications">Inga hämtade program</string>
+    <string name="no_of_application_selected">%d valda program</string>
+    <string name="no_remote_connection_popup_msg">Om du vill aktivera Autovidarekoppling öppnar du programmet Samsung Gear på den mobila enheten och aktiverar Fjärranslutning. Försök sedan igen.</string>
+    <string name="no_remote_connection_popup_title">Aktivera fjärranslutning</string>
+    <string name="notification_type">Aviseringstyp</string>
+    <string name="notification_type_desc">När du använder Gear visas dina aviseringar som små popup-fönster högst upp på skärmen, oavsett vad du väljer ovan.</string>
+    <string name="number_setting">Nummerinställning</string>
+    <string name="ok">OK</string>
+    <string name="once">En gång</string>
+    <string name="one_application_selected">1 valt program</string>
+    <string name="popup_attention_email_msg">Vissa e-postkonton är inte markerade i E-postinställningar. Om du vill kunna ta emot meddelanden från dessa på din Gear väljer du Meddelanden om ny e-post i E-postinställningar.</string>
+    <string name="popup_attention_message_msg">För att skicka och ta emot meddelanden på din Gear kommer standardprogrammet för meddelanden att ändras från %s till Meddelandehantering.</string>
+    <string name="popupmenu_search_for_new_device">Hantera enheter</string>
+    <string name="preview_message_desc">Visa en förhandsvisning av mottagna aviseringar, förutom för aviseringar om inkommande samtal och alarm, i popup-fönstret för aviseringar på din Gear.</string>
+    <string name="preview_message_title">Förhandsgranska meddelande</string>
+    <string name="primary">Primär</string>
+    <string name="privacypolicy_fmgfmd">Genom att aktivera ”%1$s &amp; %2$s” samtycker du till att platsdata som är kopplade till din mobiltelefon och/eller Gear-enhet skickas via en Samsung-server för att tillhandahålla tjänsten %1$s &amp; %2$s. Inga platsdata eller -information om enheten lagras på Samsung-servern.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Genom att aktivera ”%1$s &amp; %2$s” samtycker du till att platsdata som är kopplade till din mobiltelefon skickas via en Samsung-server för att tillhandahålla tjänsten %1$s &amp; %2$s. Inga platsdata eller -information om enheten lagras på Samsung-servern.</string>
+    <string name="privacypolicy_newsbriefing">Med den här appen kan användaren använda sociala medier och internet på många nya sätt. Om du aktiverar appen samlar tjänsten in information om hur du använder tjänsterna, inklusive hur du visar och interagerar med innehåll och annonser. Mer information finns i Flipboards %1$sanvändarvillkor%2$s och %3$ssekretesspolicy%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">﻿Samsung sekretesspolicy</string>
+    <string name="progressdialog_please_wait">Var god vänta…</string>
+    <string name="progressdialog_reinstalled_message">Installerar…</string>
+    <string name="progressdialog_reinstalled_popup_content">Install. om</string>
+    <string name="providerapp_reinstalled">%s fungerar inte korrekt så det har avinstallerats. Det kommer nu att installeras om.</string>
+    <string name="quick_tutorial_add_shortcuts">Om du vill lägga till programgenvägar på Gears hemskärm ska du gå till Program på Gear, trycka på en programikon, hålla den nedtryckt, dra den och släppa den på hemikonen högst upp på skärmen.</string>
+    <string name="quick_tutorial_gear_structure">Klockan visas på huvudsidan på hemskärmen i din Gear. På sidorna till vänster om klockan visas aviseringar och på sidorna till höger visas widgetar. Svep uppåt från nederkanten på skärmen om du vill visa program.</string>
+    <string name="quick_tutorial_noti_title">Introduktion till %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Om du vill öppna S Voice säger du ”Hi Gear” eller trycker på hemknappen två gånger på en valfri skärm.</string>
+    <string name="quick_tutorial_swipe_downwards">Dubbeltryck på hemknappen för att öppna dina favoritprogram. Du kan ändra dina favoritprogram i Inställningar.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Dubbeltryck på strömknappen för att öppna dina favoritprogram. Du kan ändra dina favoritprogram i Inställningar.</string>
+    <string name="quick_tutorial_to_go_back">Svep nedåt från kanten på skärmen för att gå tillbaka.</string>
+    <string name="remote_connection_disabled_settings">Inställningar</string>
+    <string name="remote_connection_enabled_desc">Gear fjärransluts om Bluetooth-anslutningen upphör.</string>
+    <string name="requested">Begärt</string>
+    <string name="reset_gear_legal_text1">Med hjälp av Återställa Gear kan du ta bort all data från din Gear genom fjärrstyrning. Efter borttagningen går det inte att återställa borttagen data, och du kan inte längre använda Hitta min Gear.</string>
+    <string name="reset_gear_legal_text2">* Det kan ta en stund innan Återställa Gear fungerar, och det kanske inte fungerar alls, beroende på skicket på din Gear, din mobila enhet eller nätverksmiljön.</string>
+    <string name="restore_complete">Återställningen har genomförts.</string>
+    <string name="restore_some_error">Återställningen misslyckades. Försök igen.</string>
+    <string name="restore_try_again">Försök igen</string>
+    <string name="restore_watch_settings_content2">"Använd din enhetslagring för att säkerhetskopiera ditt %1$s-innehåll:
+%2$s
+
+Om du har säkerhetskopierat det här innehållet tidigare kan du återställa det till %3$s nu.
+
+Beroende på hur stor filen är kan det ta en stund.
+
+Du kan ändra dina säkerhetskopieringsinställningar i Inställningar."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">INSTÄLLNINGAR</string>
+    <string name="retrieve_dialog_desc">Hämtar programlistan …</string>
+    <string name="sa_email">E-post</string>
+    <string name="sa_error_0203_desc">Uppdatera Samsung account manuellt för att aktivera Fjärranslutning.</string>
+    <string name="sa_error_0203_title">Uppdatera Samsung account</string>
+    <string name="sa_error_0301_desc">Ett nätverksfel inträffade när du loggade in på ditt Samsung account på din mobila enhet.</string>
+    <string name="sa_error_0301_title">Kunde inte aktivera funktionen</string>
+    <string name="sa_error_0302_desc">Ett nätverksfel inträffade när du loggade in på ditt Samsung account på din mobila enhet.</string>
+    <string name="sa_error_0302_title">Kunde inte aktivera funktionen</string>
+    <string name="sa_error_0401_desc">Ett fel har inträffat. Försök igen.</string>
+    <string name="sa_error_0401_title">Fel</string>
+    <string name="safety_message_interval_10minutes">Var tionde minut</string>
+    <string name="safety_message_interval_20minutes">Var 20:e minut</string>
+    <string name="samsung_apps_info">Program som har hämtats via %1$s kan tas bort när %2$s har avinstallerats eller programdata har rensats. Du kan hämta borttagna program från din köphistorik i %3$s.</string>
+    <string name="samsung_apps_notice">Nyheter</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Uppdatera nu</string>
+    <string name="screen_off">Håll skärmen av</string>
+    <string name="screen_off_desc">Ta emot aviseringar, förutom aviseringar om inkommande samtal och alarm, på din Gear medan skärmen är av.</string>
+    <string name="setting_Enable">Aktivera</string>
+    <string name="setting_alpm_dialog_title">Obs!</string>
+    <string name="setting_always_off">Alltid av</string>
+    <string name="setting_always_on">Alltid på</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Inaktiverad av administratör, krypteringspolicy eller uppgiftslagring.</string>
+    <string name="setting_backup_restore2">Säkerhetskopiera och återställ</string>
+    <string name="setting_basic">GRUNDLÄGGANDE</string>
+    <string name="setting_connections">ANSLUTNINGAR</string>
+    <string name="setting_disable">Inaktivera</string>
+    <string name="setting_home_key_double_pressing">Dubbeltryck på hemknappen</string>
+    <string name="setting_language_input">SPRÅK OCH INMATNING</string>
+    <string name="setting_manage_text_templates">Redigera textmallar</string>
+    <string name="setting_mobile_network">Mobilnätverk</string>
+    <string name="setting_mobile_network_desc">Gear kopplas bort från mobilnätet när den är ansluten till din mobila enhet via Bluetooth. När anslutningen till Bluetooth upphör ansluts Gear automatiskt till mobilnätet igen.</string>
+    <string name="setting_multisim_popup_desc">Beroende på tjänsteleverantör kan du behöva ett separat abonnemang för att använda funktionen Flera SIM-kort. Tryck på OK om du vill aktivera Flera SIM-kort.</string>
+    <string name="setting_opensource">Licens för öppen källkod</string>
+    <string name="setting_palm_motion">Rörelser</string>
+    <string name="setting_palm_swipe">Svep f. att registrera</string>
+    <string name="setting_palmover_desc">Om du vill tysta inkommande samtal och alarm, eller pausa media, lägger du handen på skärmen när skärmen är på.</string>
+    <string name="setting_palmswipe_desc">Ta en skärmbild genom att dra hela ditt finger över den, i kontakt med skärmen.</string>
+    <string name="setting_pause_mute">Tysta/pausa</string>
+    <string name="setting_power_key_double_pressing">Dubbeltrycka på strömkn.</string>
+    <string name="setting_restoring">Återställer…</string>
+    <string name="setting_safety_b1_desc">När din Gear och din mobila enhet är anslutna hjälper Skicka hjälpmeddelanden dig i nödlägen. Det meddelar dina nödkontakter om din situation och skickar nödmeddelanden om din plats. Att skicka dem kan leda till extra avgifter. För att aktivera Skicka hjälpmeddelanden i nödläge trycker du på strömknappen %d gånger.</string>
+    <string name="setting_safety_b2_desc">När Gear är anslutet till den mobila enheten kan Skicka hjälpmeddelanden hjälpa dig i en nödsituation genom att ta en bild med Gear-kameran. Den informerar dina kontakter om nödsituationen genom att skicka dem nödmeddelanden med bilden och din position. Det första meddelandet innehåller både din position och bilden. Efter en stund skickas ett andra meddelande med endast information om din position. Att skicka dessa meddelanden kan resultera i extra avgifter. Om du vill aktivera Skicka hjälpmeddelanden i en nödsituation, trycker du på hemknappen %d gånger.</string>
+    <string name="setting_safety_b2_no_camera_desc">När Gear och den mobila enheten är anslutna hjälper Skicka hjälpmeddelanden i nödlägen. Det meddelar dina nödkontakter om din situation och skickar nödmeddelanden om din plats. Att skicka de här dem kan leda till extra avgifter. För att aktivera Skicka hjälpmeddelanden i nödläge trycker du på hemknappen %d gånger.</string>
+    <string name="setting_safety_b3_desc1">Tryck på hemknappen snabbt 3 gånger om du vill skicka ett snabbalarm till dina primära kontakter när du befinner dig i ett nödläge.</string>
+    <string name="setting_safety_b3_desc2">Dina primära nödkontakter får nödmeddelanden med information om var du befinner dig.</string>
+    <string name="setting_safety_b3_desc3">Ansluta den mobila enheten till din Gear om du vill använda den här funktionen.</string>
+    <string name="setting_safety_list">Säkerhetshjälp</string>
+    <string name="setting_samsung_legal">Juridiskt meddelande från Samsung</string>
+    <string name="setting_screen_lock">Automatiskt lås</string>
+    <string name="setting_screen_lock_desc">Använd Gear för att låsa den mobila enheten.</string>
+    <string name="setting_screen_secutiry">SKÄRMSÄKERHET</string>
+    <string name="setting_send_emergency_picture">Skicka nödbild</string>
+    <string name="setting_send_emergency_recording">Skicka ljudinspelning</string>
+    <string name="setting_send_emergency_term_agree">Jag har läst och godkänner alla villkoren ovan.</string>
+    <string name="setting_send_help_message">Skicka hjälpmeddelanden</string>
+    <string name="setting_send_terms_conditions">Villkor</string>
+    <string name="setting_smart_relay">Smart vidarebefordran</string>
+    <string name="setting_smart_relay_desc">Visa innehåll från Gear på din mobila enhet genom att lyfta upp din mobila enhet.</string>
+    <string name="setting_smart_toss">Smart vidarebefordran</string>
+    <string name="setting_system">SYSTEM</string>
+    <string name="setting_text_to_speech_engine">Text-till-tal-motor</string>
+    <string name="setting_textinput_emoticon">Uttrycksikoner</string>
+    <string name="setting_textinput_keyboard">Tangentbord</string>
+    <string name="setting_textinput_list">Textinmatningsmetoder</string>
+    <string name="setting_textinput_templates">Mallar</string>
+    <string name="setting_try_it">Testa</string>
+    <string name="setting_wake_up">Väckningsgest</string>
+    <string name="setting_wake_up_desc">Väck Gear genom att lyfta armen som du bär Gear på.</string>
+    <string name="setting_wakeupgesture">"Om du vill väcka Gear lyfter du armen som du bär Gear på och tittar på Gears skärm.
+
+Den här funktionen fungerar inte om du lutar dig bakåt eller ligger ner, och kan förbruka mer av Gears batteriström eftersom rörelsesensorn alltid är på."</string>
+    <string name="setting_wakeupgesture_clock">Klocka</string>
+    <string name="setting_wakeupgesture_previous">Senast visade skärmen</string>
+    <string name="setting_wakeupgesture_screen_on">Välj den skärm som visas</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Välj den skärm som visas</string>
+    <string name="settings">Inställningar</string>
+    <string name="settings_application_version">Programversion</string>
+    <string name="settings_emergency_contact">Hantera primära kontakter</string>
+    <string name="settings_emergency_contact_empty">Inga primära kontakter har lagts till. För att aktivera %s måste kontakter läggas till i Primära kontakter.</string>
+    <string name="settings_legal_information">Juridisk information</string>
+    <string name="settings_message_interval">Meddelandeintervall</string>
+    <string name="settings_not_set">Inte inställt</string>
+    <string name="settings_security">Säkerhet</string>
+    <string name="settings_security_update">Säkerhetsuppdatering</string>
+    <string name="settings_security_update_desc">Skydda enheten från skadligt innehåll genom att förbättra säkerheten och tjänsten.</string>
+    <string name="settings_unknown_sources_dialog">Att installera från okända källor kan vara skadligt för din enhet och dina personliga data. Genom att trycka på OK samtycker du till att du ensam är ansvarig för skador som uppstår på din enhet eller förlorad information som kan bero på användning av dessa program.</string>
+    <string name="settings_unknown_sources_subtitle">Tillåt programinstallationer från okända källor.</string>
+    <string name="share_loc_disabled">Platsdelning har inaktiverats.</string>
+    <string name="share_location_desc">Tillåt Hitta min Gear och Hitta min enhet om du vill dela platsdata mellan din Gear och din mobila enhet.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Jag godkänner att Mobildata kan användas och att MMS-meddeladen kan sändas i nödfall. Jag förstår att detta kan leda till extra kostnader.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Skicka hjälpmeddelande] är avsedd till att hjälpa användare att skicka meddelanden om deras ungefärliga plats och visuell/auditiv omgivning till mobiltelefonen för en vald kontakt som du angivit i förväg. Det har bara gjorts tillgängligt för din bekvämlighet och är inte avsedd som, eller ska behandlas som en ersättning för nödsamtal till myndigheterna.
+ 
+2. [Skicka hjälpmeddelande] (Tjänsterna) kanske inte fungerar korrekt, kontinuerligt eller felfritt, beroende på omständigheter såsom nätverksanslutning, GPS/Wi-Fi informationens tillgänglighet, status och/eller tillståndet på din/dina kontakters enhet, batterinivå och/eller andra omständigheter som är utanför Samsung Electronics Co., Ltd. (“Samsung”, “vi”, “oss”, “vår”) kontroll. Exaktheten av platsinformationen och leverans av Tjänsterna i rätt tid kan påverkas av din omgivning och av din enhets tillstånd och av tillståndet på dina valda kontakters enheter. Om det inte annars uttryckligen anges eller krävs enligt lag, så friskriver sig Samsung från alla garantier att Tjänsterna kommer att fungera korrekt, kontinuerligt eller felfritt. Notera att din valda kontakt måste vara en fungerande mobiltelefon och att enheten måste vara påsatt och kapabel att acceptera textmeddelanden. Att överföra din omgivnings -och lokaliseringsuppgifter kan vara avgiftsbelagd för dig, beroende på avgifterna som är specificerade av din tjänsteleverantör.
+
+För att tjänsterna ska fungera som avsett kan det vara nödvändigt att låta funktionen, då den har utnyttjats av dig, automatiskt slå på din enhets GPS -och Wi-Fi-funktioner. Du bekräftar och samtycker till den automatiska aktiveringen av GPS -och Wi-Fi-funktionerna (om det krävs), utan föregående meddelande till dig eller samtycke av dig.
+
+3. Du bekräftar och samtycker till den automatiska aktiveringen av GPS -och Wi-Fi-funktionerna (om det krävs), utan föregående meddelande till dig eller samtycke av dig. Använd denna funktion endast i enlighet med lagen och endast i nödsituationer. Du samtycker till att vara ensam ansvarig för din användning av denna funktion. Samsung ska inte hållas ansvarig för eventuella resultats som kan uppstå av din användning av denna funktion.
+
+4. Tjänsterna är tillgängliga bara för din bekvämlighet och är inte avsedda som, eller ska behandlas som en ersättning för nödsamtal till myndigheterna. Om det inte annars uttryckligen anges eller krävs enligt lag, så friskriver sig Samsung från alla garantier att Tjänsterna kommer att fungera korrekt, kontinuerligt eller felfritt.
+
+5. GARANTIFRISKRIVNING. DU FÖRSTÅR OCH SAMTYCKER TILL:
+ 
+A. TJÄNSTERNA TILLHANDAHÅLLS I BEFINTILIGT SKICK. DU ANVÄNDER TJÄNSTERNA PÅ EGEN RISK. VARKEN SAMSUNG ELLER DESS LICENSGIVARE LÄMNAR NÅGRA UTTRYCKLIGA GARANTIER, ELLER VILLKOR VAD AVSER TJÄNSTERNA. SAMSUNG OCH DESS LICENSGIVARE FRÅNSÄGER SIG UTTRYCKLIGEN ALLA GARANTIER, SÅVÄL DIREKTA SOM INDIREKTA, INKLUSIVE, MEN INTE BEGRÄNSAT TILL UNDERFÖRSTÅDDA GARANTIER OM SÄLJBARHET, LÄMPLIGHET FÖR VISST ÄNDAMÅL ELLER ATT TJÄNSTERNA INTE GÖR INTRÅNG I NÅGON ANNANS RÄTTIGHETER, SAMT ALLA GARANTIER SOM UPPKOMMER INOM RAMEN FÖR HANTERING AV ELLER ANVÄNDANDET AV TJÄNSTERNA.
+
+B. UTAN ATT BEGRÄNSA OVAN, LÄMNAR SAMSUNG OCH DESS LICENSGIVARE INGA GARANTIER (i) ATT TJÄNSTERNA KOMMER ATT UPPFYLLA DINA KRAV, (ii) ATT TJÄNSTERNA KOMMER VARA KONTINUERLIGA, OAVBRUTNA, FELFRIA, I TID ELLER SÄKRA, (iii) ATT RESULTATET AV ANVÄNDANDET AV TJÄNSTERNA, ELLER DESS MEDDELANDEN ELLER FUNKTIONALITET KOMMER ATT VARA TILLGÄNGLIGA, KORREKTA ELLER TILLFÖRLITLIGA, (iv) ATT TJÄNSTERNAS KVALITET ELLER INFORMATION, ELLER ANNAT MATERIAL SOM ERHÅLLS GENOM TJÄNSTERNA KOMMER ATT UPPFYLLA DINA FÖRVÄNTNINGAR, ELLER (v) ATT ALLA FEL OCH DEFEKTER I TJÄNSTERNA KOMMER ATT KORRIGERAS.
+
+6. ANSVARSBEGRÄNSNING.
+
+A. DU FÖRSTÅR OCH SAMTYCKER TILL ATT VARKEN SAMSUNG ELLER DESS LICENSGIVARE UNDER NÅGRA OMSTÄNDIGHETER KAN HÅLLAS ANSVARIG INFÖR DIG ELLER NÅGON ANNAN FÖR, DIREKTA ELLER INDIREKTA SKADOR ELLER FÖRLUSTER, FÖLJDSKADOR OCH KOSTNADER, INKLUSIVE MEN INTE BEGRÄNSAT TILL UTEBLIVEN VINST, FÖRLUST AV ANVÄNDNING ELLER ANDRA FÖRLUSTER (ÄVEN OM REPARATION, ERSÄTTNING ELLER ÅTERBETALNING FÖR TJÄNSTERNA INTE HELT KOMPENSERAR DIG FÖR EVENTUELLA FÖRLUSTER ELLER ATT SAMSUNG OCH/ELLER DESS LICENSGIVARE KÄNDE TILL ELLER BORDE HA KÄNT TILL MÖJLIGHETEN AV EN SÅDAN FÖRLUST, ANSVAR, SKADA ELLER KOSTNAD), SOM UPPKOMMER DIREKT ELLER INDIREKT TILL FÖLJD AV: (i) KRAV PÅ GRUND AV AVTALS- ELLER GARANTIBROTT, GARANTI ELLER VILLKOR, STRIKT ANSVAR, FÖRSUMLIGHET ELLER ANNAT SKADESTÅND TILL DEN UTSTRÄCKNING SOM TILLÅTS AV GÄLLANDE LAG (ii) DIN ANVÄNDNING ELLER DIN OFÖRMÅGA ATT ANVÄNDA TJÄNSTERNA, (iii) KOSTNADEN FÖR ANSKAFFNING AV ERSÄTTNINGSTJÄNSTER (iv) OBEHÖRIG TILLGÅNG TILL ELLER ÄNDRING AV DINA ÖVERFÖRINGAR ELLER UPPGIFTER (v) UTTALANDEN ELLER UPPFÖRANDE AV EN TREDJE PART (vi) DETTA AVTAL (vii) SKADA PÅ PERSON ELLER EGENDOM (INKLUSIVE DÖDSFALL), ELLER (viii) NÅGOT ANNAT SOM ÄR RELATERAT TILL TJÄNSTERNA ELLER INNEHÅLLET SOM TILLHANDAHÅLLS GENOM TJÄNSTERNA.
+
+ B. DIN ENDA GOTTGÖRELSE VID EN TVIST MED SAMSUNG ELLER DESS LICENSGIVARE SOM ÄR RELATERAD TILL DETTA AVTAL ELLER TJÄNSTERNA ÄR ATT UPPHÖRA ATT ANVÄNDA TJÄNSTERNA.
+
+ C. VISSA LÄNDER FÖRBJUDER UNDANTAG FRÅN VISSA GARANTIER ELLER BEGRÄNSNING ELLER UNDANTAG FRÅN ANSVAR FÖR DIREKTA ELLER INDIREKTA SKADOR. FÖLJAKTLIGEN KAN NÅGRA AV DE OVANNÄMNDA BEGRÄNSNINGARNA I AVSNITT 6 OCH 7 INTE GÄLLA FÖR DIG.
+
+7. SKADEERSÄTTNING. Du samtycker till att hålla skadeslös, gottgöra och försvara Samsung och dess Licensgivare från och mot alla anspråk, handlingar, krav, kostnader, skulder, förluster, skador, böter och utgifter (inklusive rimliga advokatarvoden och kostnader) som uppstår ur eller som är relaterade tilldin användning av Tjänsterna eller din underlåtenhet att följa detta avtal. Om du trots att aktuella licenser som har upplåtits under dessa villkor är personliga tillåter en tredje person att använda Tjänsterna, eller om du tillhandahåller någon information som du har fått genom Tjänsterna till någon tredje person, samtycker du att informera dessa personer om förekomsten av dessa villkor samt så åtar du dig att tillhandahålla nämnda personer dessa villkor, vilka ska vara bindande för en sådan person och du samtycker till att hålla skadeslös, gottgöra och försvara Samsung och dess licensgivare från och mot alla anspråk, handlingar, krav, kostnader, skulder, förluster, skador, böter och utgifter (inklusive rimliga advokatarvoden och kostnader) som uppstår i samband med sådana personers användning av Tjänsterna.
+
+8. Force Majeure. Samsung kan inte hållas ansvarig för eventuella förseningar eller prestandafel under dessa villkor eller avbrott av Tjänsterna, till följd av naturkatastrofer, myndighetsingripanden, krig, terrordåd, arbetskonflikter, material eller tjänster som levereras av tredje part, eller någon orsak utanför Samsungs rimliga kontroll av."</string>
+    <string name="shm_share_my_location_checkbox_text">Jag godkänner att %1$s delar min position med mina %2$s-kontakter.</string>
+    <string name="smartrelay_not_show">Visa inte igen</string>
+    <string name="software_update">Programvaruuppdatering</string>
+    <string name="ss_double_tap_any_screen">Dubbeltryck på valfri skärm med två fingrar om du vill visa reglage för ljusstyrka och volym och annan praktisk information.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Vidarekoppla samtal till din Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Begäran skickas…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Läser inställningar…</string>
+    <string name="ss_loading_ing_abb">Laddar…</string>
+    <string name="ss_mobile_data_is_disabled">Mobildata har inaktiverats. Anslut till ett WLAN-nätverk istället eller aktivera mobildata och gör ett nytt försök.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobildata har inaktiverats. Anslut till ett Wi-Fi-nätverk istället eller aktivera mobildata och gör ett nytt försök.</string>
+    <string name="ss_no_network_connection">Ingen nätverksanslutning</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Bruksanvisning</string>
+    <string name="str_no">Nej tack</string>
+    <string name="str_yes">Ja</string>
+    <string name="stub_list_install">Installera</string>
+    <string name="sw_eula_condition">Jag förstår och samtycker till villkoren ovan.</string>
+    <string name="sw_eula_desc2">Du samtycker till att lämna felloggningsdata från misslyckade programvaruuppdateringar med enheten till Samsung. Detta kommer att hjälpa Samsung att förbättra Samsungs programvaruuppdateringsprocess vilket hjälper dig att enklare uppdatera din enhet.</string>
+    <string name="tab_stub_list">Aktuellt</string>
+    <string name="talkback_download">Hämta</string>
+    <string name="talkback_setting">Inställning</string>
+    <string name="the_samsung_gear_application">Samsung Gear-programmet</string>
+    <string name="threeg_connection">Använd fjärranslutning</string>
+    <string name="threeg_connection_subtitle">Fjärranslut till din Gear med Mobildata eller Wi-Fi och ditt Samsung account.</string>
+    <string name="threeg_connection_subtitle_chn">Fjärranslut till din Gear med Mobildata eller WLAN och ditt Samsung account.</string>
+    <string name="title_activity_clock_delete">Avinstallera</string>
+    <string name="title_activity_connect_popup">Anslut</string>
+    <string name="title_activity_paired_watch">Sammankopplad enhet</string>
+    <string name="title_alertdialog_device_name_popup">Byt namn på %s</string>
+    <string name="title_alertdialog_disconnect_popup">Frånkoppla</string>
+    <string name="title_dialog_pm_error">Varning</string>
+    <string name="title_dialog_uninstall">Avinstallera</string>
+    <string name="title_eula">Juridiska meddelanden</string>
+    <string name="title_findmywatch_connect2">Hitta min Gear</string>
+    <string name="title_findmywatch_finding">Söker…</string>
+    <string name="tri_connect_title_circle_to_gear">Anslut %1$s till %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">När du ansluter %1$s till %2$s via Bluetooth kopplas %3$s tillfälligt bort från den mobila enheten. Anslutningen återupptas snart och din %4$s är sedan ansluten till både %5$s och den mobila enheten.</string>
+    <string name="tt_install_voice_data">Installera TTS-röstdata</string>
+    <string name="tt_install_voice_data_required">Installera ytterligare text-till-tal-språk på din Gear.</string>
+    <string name="tt_language">Språk</string>
+    <string name="tt_send_help_message">Skicka hjälpmeddelande</string>
+    <string name="tt_tts_language_guide">Ditt text-till-tal-språk är språket som du anger i dina Gear-inställningar. Om ditt språk inte stöds av text-till-tal-motorn kommer engelska (Storbritannien) att användas.</string>
+    <string name="unable_to_connect_popup_message">Det gick inte att ansluta din Gear till den mobila enheten. Försök igen senare.</string>
+    <string name="unable_to_connect_popup_title">Anslutningen misslyckades</string>
+    <string name="unable_to_lock_gear">Det går inte att låsa Gear</string>
+    <string name="unable_to_reset_gear">Det går inte att återställa Gear</string>
+    <string name="unabled_health">Det går inte att öppna programmet på grund av att det är inaktiverat.</string>
+    <string name="uninstall_applications">Avinstallera program</string>
+    <string name="unknown_sources_msg_new">%1$s installeras inte via %2$s. Din enhet och personliga information är mer sårbara för attacker från okända källor. Du samtycker till att du ensam är ansvarig för skador som uppstår på din enhet eller förlorad information som kan bero på användning av dessa program. Om du alltid vill installera program från okända källor går du till %3$s > %4$s > %5$s och aktiverar %6$s. Tryck på OK så installeras %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s kommer inte från %2$s och innehåller inte något program för Gear. Enheten och dina uppgifter blir mer sårbara om du installerar program från okända källor. Installationen avbryts och %3$s kommer att tas bort från telefonen.</string>
+    <string name="unknown_sources_title">Okända källor</string>
+    <string name="update_button">Uppdatera</string>
+    <string name="update_summary">Sök efter uppdateringar</string>
+    <string name="update_the_latest_version">Det finns en uppdatering</string>
+    <string name="voice_control_subtitle">Säg ”Answer” eller ”Reject” under pauserna när din Gear inte ringer eller vibrerar för att besvara eller avvisa samtal.</string>
+    <string name="voicememo_link1">Nuances villkor</string>
+    <string name="voicememo_link2">﻿Samsung sekretesspolicy</string>
+    <string name="voicememo_link3">Nuances Sekretesspolicy</string>
+    <string name="watchapp_all">Program</string>
+    <string name="watchapp_noapps">Inga program</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Uppdaterar…</string>
+    <string name="wifi_only">Endast Wi-Fi</string>
+    <string name="wifi_only_chn">Endast WLAN</string>
+    <string name="wifi_only_summary">Hämta endast uppdateringar vid anslutning till Wi-Fi-nätverk.</string>
+    <string name="wifi_only_summary_chn">Kan endast hämtas vid WLAN-anslutning.</string>
+    <string name="email_sanitize">Innehållet i det här e-postmeddelandet kan inte visas på Gear på grund av säkerhetsskäl. Visa det här e-postmeddelandet på din mobila enhet för mer information.</string>
+    <string name="knox_sanitize">Tryck för att öppna KNOX-läget.</string>
+</resources>

@@ -1,0 +1,9 @@
+ Samsung-Tastatur und Nutzung eines Stimmerkennungsservices
+1. Der Samsung-Tastatur-Service verwendet eine Spracherkennungstechnologie als Bestandteil des Services. Sie bestätigen, dass Samsung einen von einem Drittanbieter, Nuance Communications Inc. (“Nuance”), bereitgestellten Spracherkennungsservice (den “Spracherkennungsservice”) verwenden darf und Sie sind in Bezug auf die Nutzung des Samsung-Tastatur-Services mit folgenden Bedingungen einverstanden.
+2. Sie erklären sich damit einverstanden, keine automatisierten oder aufgezeichneten Anfragen an den Samsung-Tastatur-Service zu senden.  
+3. Sie erklären sich damit einverstanden, dass die von Ihnen für den Samsung-Tastatur-Service diktierten Wörter (einschließlich Audioaufnahmen solcher Wörter, dazugehörige Transkriptionen und Protokolldateien) (“Sprachdaten”) bei der Erbringung des Spracherkennungsservices von Nuance gesammelt werden.
+4. Sie erklären sich damit einverstanden, dass Nuance bei der Bereitstellung des Spracherkennungsservices Sprachdaten sammeln darf, die von Nuance und dessen dritten Partnern verwendet werden können, um (a) den Spracherkennungsservice und (b) andere Produkte und Services von Nuance zu verbessern und zu erweitern.  
+5. Sie bestätigen und erklären sich damit einverstanden, dass Ihre Sprachdaten möglicherweise an die Vereinigten Staaten und/oder andere Länder zur Speicherung, Verarbeitung und Nutzung durch Nuance und dessen dritte Partner.
+6. Sämtliche von Ihnen bereitgestellten Sprachdaten werden vertraulich behandelt und gemäß geltendem Recht verwendet. Sie dürfen jedoch von Nuance, sofern erforderlich, durch einen Gerichtsbeschluss oder gegenüber einer Regierungsbehörde offengelegt werden, um ggf. gesetzliche oder behördliche Anforderungen zu erfüllen, bzw. gegenüber einem Dritten, der Nuance übernimmt oder mit Nuance fusioniert.
+ 
+

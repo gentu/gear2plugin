@@ -1,0 +1,8 @@
+„Samsung“ klaviatūra ir šnekos atpažinimo paslaugos naudojimas
+1. „Samsung“ klaviatūros paslauga naudoja šnekos atpažinimo technologiją kaip paslaugos dalį. Jūs sutinkate, kad „Samsung“ gali naudoti šnekos atpažinimo paslaugą („Šnekos atpažinimo paslauga“), kurią teikia trečioji šalis, įmonė „Nuance Communications“ („Nuance“), ir naudodami „Samsung“ klaviatūros paslaugą pripažįstate toliau nurodytas sąlygas ir su jomis sutinkate.
+2. Jūs sutinkate nepateikti jokių automatizuotų arba įrašytų užklausų „Samsung“ klaviatūros paslaugai.
+3. Jūs sutinkate, kad žodžius, kuriuos diktuosite „Samsung“ klaviatūros paslaugai (įskaitant ir tokių žodžių garso įrašus, transkripciją ir žurnalo failus) („Šnekos duomenys“), surinks „Nuance“, kad galėtų teikti šnekos atpažinimo paslaugą.
+4. Jūs sutinkate, kad siekdama suteikti šnekos atpažinimo paslaugą „Nuance“ gali rinkti šnekos duomenis, kuriuos „Nuance“ ir jos trečiosios šalies partneriai galės naudoti, kad reguliuotų, gerintų ir tobulintų a) šnekos atpažinimo paslaugą ir b) kitus „Nuance“ produktus ir paslaugas.
+5. Jūs pripažįstate ir sutinkate, kad šnekos duomenys gali būti persiųsti į JAV ir (arba) kitas šalis ir ten saugomi, apdorojami ir naudojami „Nuance“ ir jos trečiųjų šalių partnerių.
+6. Bet kurie ir visi jūsų pateikti šnekos duomenys išliks konfidencialūs ir bus naudojami laikantis atitinkamų įstatymų, tačiau „Nuance“ gali juos atskleisti, jei to prireiktų siekiant įgyvendinti teisinius arba reguliavimo reikalavimus, pvz., pagal teismo nutartį arba jei to reikalauja įstatymas arba trečioji šalis, kuri nori įsigyti arba susijungti su „Nuance“.
+

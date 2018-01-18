@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_name">গিয়ার পরিচালক</string>
+    <string name="bt_connected">সংযুক্ত</string>
+    <string name="bt_disconnected">সংযোগ বিচ্ছিন্ন</string>
+    <string name="bt_unpaired">জোড় মুক্ত করা হয়েছে</string>
+    <string name="navigate_up">নেভিগেট আপ</string>
+</resources>

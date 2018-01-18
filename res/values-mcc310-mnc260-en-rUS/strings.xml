@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="disable_share_location">Disable Share location</string>
+    <string name="limit_notification_dialog_desc">Unable to enable Restrict notifications on your Gear. No screen lock is set on your mobile device.</string>
+    <string name="login_to_samsung_account_desc">To enable Remote connection on your Gear, sign in to your Samsung account.</string>
+    <string name="login_to_samsung_account_full_desc">When your Gear is not connected to your mobile device via Bluetooth, you must sign in to your Samsung account to receive notifications and use applications that require a connection. This may result in additional charges.</string>
+    <string name="setting_auto_lock_disable_desc">Disabled by administrator, encryption policy, or credential storage.</string>
+    <string name="setting_safety_b1_desc">When your Gear and mobile device are connected, Send help messages helps you in an emergency. It alerts your emergency message contacts to your situation by sending them emergency messages with your location. Sending these messages may result in additional charges. To enable Send help messages during an emergency, press the power key %d times.</string>
+    <string name="setting_safety_b2_desc">When your Gear and mobile device are connected, Send help messages helps you in an emergency by taking a picture using the Gear camera. It alerts your emergency message contacts to your situation by sending them emergency messages with this picture and your location. The first message will contain both your location and the picture. Then, after an interval, a second message will be sent containing only your location. Sending these messages may result in additional charges. To enable Send help messages during an emergency, press the home key %d times.</string>
+    <string name="settings_emergency_contact_empty">No primary contacts have been added. To enable %s, add contacts to Primary contacts.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobile data disabled. Connect to Wi-Fi network or enable mobile data and try again.</string>
+</resources>

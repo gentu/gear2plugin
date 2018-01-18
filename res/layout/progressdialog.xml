@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/textview_title" android:text="@string/button_restore" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:id="@id/layout_description" android:background="@drawable/manager_dialog_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textview_title">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="19.0sp" android:textColor="@color/dialog_desc" android:id="@id/tv1" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="22.0dip" android:layout_marginRight="20.0dip" android:layout_alignParentStart="true" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/progress_percentage" android:id="@id/tvper" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:layout_marginRight="20.0dip" android:layout_below="@id/tv1" android:layout_alignEnd="@id/progressbar_layout" />
+        <LinearLayout android:id="@id/progressbar_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/tvper" android:layout_alignParentLeft="true">
+            <ProgressBar android:id="@id/progressBar1" android:layout_width="fill_parent" android:layout_height="6.0dip" android:layout_marginTop="6.0dip" android:max="100" android:progressDrawable="@drawable/b2_manager_progress" android:layout_marginStart="20.0dip" android:layout_marginEnd="20.0dip" style="?android:attr/progressBarStyleHorizontal" />
+            <TextView android:id="@id/textViewBottom" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="34.0dip" android:layout_below="@id/progressBar1" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Unavailable during call</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Full screen pop-up</string>
+    <string name="alert_mini">Mini pop-up</string>
+    <string name="alertdialog_backkey_popup_content">Warning</string>
+    <string name="alertdialog_disconnect_popup_description">Gear will be disconnected. Use Bluetooth to reconnect.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">This will end your connection with %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Your %s will be disconnected from your mobile device. The next time you connect these devices, you must use Bluetooth. Any connections after that can be done via Remote connection.</string>
+    <string name="alertdialog_uninstall_popup_content">Uninstall</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s is not installed on your mobile device. To use %2$s on your Gear, download %1$s to your mobile device.</string>
+    <string name="attention_popup_title">Attention</string>
+    <string name="auto_call_forwarding">Auto call forwarding</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">Enable Call forwarding automatically while your Gear is disconnected from your mobile device. This will forward incoming calls from your mobile device to your Gear until the devices are reconnected.</string>
+    <string name="auto_update">Auto update</string>
+    <string name="auto_update_summary">Check for updates automatically</string>
+    <string name="backing_up">Backing Up …</string>
+    <string name="backup_complete">Backup completed.</string>
+    <string name="bnr_backup">Backing up…</string>
+    <string name="bnr_bakcup_title">Backup</string>
+    <string name="bnr_cancel">Cancel</string>
+    <string name="bnr_canel">Cancel</string>
+    <string name="bnr_error_occurred">Error occurred</string>
+    <string name="bnr_except">%1$s (except %2$s)</string>
+    <string name="bnr_except_autolock">Auto lock</string>
+    <string name="bnr_except_remoteconnection">Remote connection</string>
+    <string name="bnr_except_texttemplate">Text templates</string>
+    <string name="bnr_next">Next</string>
+    <string name="bnr_no">No</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">To connect to a new device, the Gear will be reset to its factory settings.</string>
+    <string name="bnr_reset_gear_move_setupwizard">The Gear is not fully set up. The setup wizard is currently open on the Gear, but to connect to the Gear, you need to open the setup wizard in Gear Manager on this device too.</string>
+    <string name="bnr_reset_initialization">Notice</string>
+    <string name="bnr_restore">Restore</string>
+    <string name="bnr_restored">Data restored.</string>
+    <string name="bnr_setupwizard_title2">Back up and restore</string>
+    <string name="bnr_yes">Yes</string>
+    <string name="bt_connected">Connected</string>
+    <string name="bt_disconnected">Disconnected</string>
+    <string name="bt_unpaired">Unpaired</string>
+    <string name="button_finish">Finish</string>
+    <string name="button_restore">Restore</string>
+    <string name="call">CALL</string>
+    <string name="call_check_gear_status_when_cfwd">The call forwarding functions Mobile to Gear and Gear to mobile cannot be enabled at the same time.</string>
+    <string name="call_dualsim1">SIM card 1</string>
+    <string name="call_dualsim1sim2">Both SIM cards</string>
+    <string name="call_dualsim2">SIM card 2</string>
+    <string name="call_forwarding">Call forwarding</string>
+    <string name="call_forwarding_agree">I agree.</string>
+    <string name="call_forwarding_desc">Forward incoming calls from your mobile device to your Gear.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">A request has been made to disable call forwarding from your mobile device to your Gear. The status of your mobile network and mobile device may affect the results.</string>
+    <string name="call_forwarding_enable_msg">A request has been made to enable call forwarding from your mobile device to your Gear. The status of your mobile network and mobile device may affect the results.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">Call forwarding from your mobile device to your Gear is currently enabled. Incoming calls to your mobile device will be forwarded to your Gear. If you do not have your Gear with you, go to Settings and disable Auto forward calls to make sure you do not miss a call.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Disabling voice call forwarding...</string>
+    <string name="call_forwarding_turning_on_notify_msg">Enabling voice call forwarding...</string>
+    <string name="call_no_gear_number">No numbers</string>
+    <string name="call_select_dualsim_title">Select SIM card</string>
+    <string name="call_voice_control">Voice control</string>
+    <string name="callforwarding_help_des1">Switch the device that calls will be forwarded to automatically, depending on whether your devices are connected via Bluetooth or Remote connection.</string>
+    <string name="callforwarding_help_des2">Receive calls made to your mobile device on your Gear while you are moving and wearing the Gear and it is remotely connected to the mobile device.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Failed to disable Call forwarding.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clock_new_clock_settings_applied_via_gear">New clock settings applied via Gear.</string>
+    <string name="clocks_download_more_clocks">Download more clocks</string>
+    <string name="clocks_noti_uninstall_clock">%s will be uninstalled.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s will be uninstalled and %2$s will be set as the default clock.</string>
+    <string name="clocks_title_basic_clocks">BASIC CLOCKS</string>
+    <string name="clocks_title_downloaded_clocks">DOWNLOADED CLOCKS</string>
+    <string name="clocks_title_style_clocks">STYLE CLOCKS</string>
+    <string name="clocks_uninstalled">Uninstalled.</string>
+    <string name="clocks_uninstalling">Uninstalling…</string>
+    <string name="close">Close</string>
+    <string name="closing_samsung_gear_message">Your Gear has been reset. The Samsung Gear application will close shortly.</string>
+    <string name="closing_samsung_gear_message_jpn">Your Gear has been reset. The Gear application will close shortly.</string>
+    <string name="closing_samsung_gear_title">Close Samsung Gear application</string>
+    <string name="closing_samsung_gear_title_jpn">Close Gear application</string>
+    <string name="cloud_backup_no_information">Never</string>
+    <string name="cloud_backup_restore_backup_now">Back up data</string>
+    <string name="cloud_backup_restore_restore_now">Restore data</string>
+    <string name="cmw_agree">I Agree</string>
+    <string name="cmw_eula_agree">I understand and agree to the Terms and Conditions above.</string>
+    <string name="cmw_for_setting">Location Services have been disabled. Go to settings.</string>
+    <string name="cmw_high_accuracy_dialog_message">For the fastest and most accurate location detection, select High accuracy in Location > Mode.</string>
+    <string name="cmw_high_accuracy_dialog_title">Select High accuracy</string>
+    <string name="cmw_legal_content">By enabling “Share Location”, you agree that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the Find My Gear &amp; Find My Device service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content1">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the %1$s &amp; %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content1_no_gps">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone will be transmitted through a Samsung server in order to provide the %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content_2">Samsung Privacy Policy</string>
+    <string name="cmw_legal_title">Legal notices</string>
+    <string name="cmw_location">Enable location services</string>
+    <string name="cmw_show_on_map">Show on map</string>
+    <string name="color_black">Black</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_brown">Brown</string>
+    <string name="color_gray">Grey</string>
+    <string name="color_green">Green</string>
+    <string name="color_light_sky_blue">Light sky blue</string>
+    <string name="color_medium_purple">Medium purple</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_pink">Pink</string>
+    <string name="color_purple">Purple</string>
+    <string name="color_red">Red</string>
+    <string name="color_spring_green">Spring green</string>
+    <string name="common_none">None</string>
+    <string name="common_off">Off</string>
+    <string name="common_on">On</string>
+    <string name="common_recent_apps">Recent apps</string>
+    <string name="connect_popup_content">Connecting to %s...</string>
+    <string name="connected_by_trasport_BT">Connected via Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Connected remotely</string>
+    <string name="connecting_content">Connecting to Gear</string>
+    <string name="connecting_doc">After connecting to your %1$s, you can change its settings and install applications on it via %2$s.</string>
+    <string name="connecting_popup_message">Connecting to Gear...</string>
+    <string name="connecting_popup_title">Connect to Gear</string>
+    <string name="connecting_to_gear_ing">Connecting to Gear...</string>
+    <string name="connectingdoc">After connecting to your Gear, you can change its settings and install applications on it via Gear Manager</string>
+    <string name="connection_error_dialog_message">Your device has not been connected. It will try to connect again.</string>
+    <string name="dialog_check_phone_number_msg1">Make sure that the following information is correct:</string>
+    <string name="dialog_check_phone_number_msg2">Mobile phone number: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear phone number: %s</string>
+    <string name="dialog_check_phone_number_msg4">Tap OK to confirm and enable Auto call forwarding.</string>
+    <string name="dialog_enable_remote_connection_desc">To enable Auto call forwarding, enable Remote connection, then try again.</string>
+    <string name="dialog_enable_remote_connection_title">Enable Remote connection</string>
+    <string name="dialog_permission_message">Unable to use %s. Tap SETTINGS, go to App info > Permissions, then allow the following permissions and try again:</string>
+    <string name="dialog_popup_button_cancel">Cancel</string>
+    <string name="dialog_reverse_msg">Depending on your service provider, separate subscriptions may be required to allow your mobile device and Gear to use this feature. This may result in additional charges.</string>
+    <string name="dialog_set_phone_number_msg">To enable Auto call forwarding, set the phone numbers of the devices that you want to forward incoming calls to and from.</string>
+    <string name="dialog_set_phone_number_title">Enable Auto call forwarding</string>
+    <string name="disable_loc_text">Share location will be disabled. You will not be able to use location information to search for your Gear or mobile device via Find My Gear or Find My Device.</string>
+    <string name="disable_loc_text_no_gps">Share location will be disabled. You will not be able to use location information to search for your mobile device via Find My Device.</string>
+    <string name="disable_remote_connection">Disable Remote connection</string>
+    <string name="disable_remote_connection_fmm_fmd">Find My Gear and Find My Device</string>
+    <string name="disable_remote_connection_receiving_blocked">Receiving messages, emails, and notifications from the mobile device</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Receiving emails and notifications from the mobile device</string>
+    <string name="disable_remote_connection_warning">Remote connection will be disabled. The following functions will not be available until your Gear is connected to your mobile device via Bluetooth again:</string>
+    <string name="disable_share_location">Disable Share location</string>
+    <string name="disconnect_popup_content">Disconnecting %s</string>
+    <string name="do_not_show_again">Do not show again</string>
+    <string name="enable_auto_call_forwarding_msg">Forward incoming calls from your mobile device to your Gear automatically while the Gear is disconnected. Depending on your service provider, this may result in additional charges. Tap OK to enable Auto call forwarding.</string>
+    <string name="enable_auto_call_forwarding_title">Enable Auto call forwarding</string>
+    <string name="enable_more_notifications_enable">Enable</string>
+    <string name="enable_notification_access">Enable Notification access</string>
+    <string name="enable_notification_access_desc">"This function will be able to read all the notifications you receive, which may include personal information such as contacts and messages sent to you. It will also be able to dismiss these notifications or select actions related to them.
+To receive notifications on your Gear, tap Enable, then enable %s."</string>
+    <string name="enable_share_location">Enable Share location</string>
+    <string name="enabled_loc">Share location enabled.</string>
+    <string name="error_enter_device_name">Enter device name.</string>
+    <string name="error_occurred">Error occurred.</string>
+    <string name="eula_i_agree">I agree.</string>
+    <string name="failed_tshare_msg">Failed to enable Call forwarding. No response from T share.</string>
+    <string name="find_my_device">Find My Device</string>
+    <string name="find_my_gear">Find My Gear</string>
+    <string name="find_watch_btn_start">Start</string>
+    <string name="find_watch_btn_stop">Stop</string>
+    <string name="find_watch_off">To find your Gear, tap Start.The Gear will play a sound and its screen will be turned on.</string>
+    <string name="find_watch_on">To stop finding your Gear, tap Stop. The Gear will stop playing a sound and its screen will be turned off.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s will be uninstalled, and the default font will be applied to your %2$s.</string>
+    <string name="force_wifi_direct_msg">The application will be installed via Wi-Fi Direct. This will end your current Wi-Fi Direct connection. If you cancel the installation, you will need to download this application again to install it.</string>
+    <string name="force_wifi_direct_title">Install</string>
+    <string name="force_wifi_install">Install</string>
+    <string name="gear2_backup_confirm_text">If you back up your data now, the current Gear backup data on the mobile device will be replaced by your latest Gear data.</string>
+    <string name="gear2_restore_confirm_text">If you restore your data, the data currently on your Gear will be deleted and replaced by your current Gear backup data.</string>
+    <string name="gear2_text">"Use your device storage to back up your %1$s content:
+%2$s
+
+If you previously backed up this content, you can restore it to %3$s now.
+
+Depending on the size of the file, it may take some time."</string>
+    <string name="gear2_text_import3">Settings</string>
+    <string name="gear_bnr_desc">"Use your mobile device storage to back up the following %1$s data: %2$s
+
+If you previously backed up your %3$s data, you can restore it to your %4$s now.
+
+This may take some time depending on the size of the files."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Your mobile device is now scanning for your Gear. This will take several minutes. It may be difficult to locate your Gear if it is indoors.</string>
+    <string name="gear_location_popup_title">Locate Gear</string>
+    <string name="gear_location_text">Gear location</string>
+    <string name="gear_lock_success">Gear locked.</string>
+    <string name="gear_lock_text">Lock Gear</string>
+    <string name="gear_locked">Gear locked</string>
+    <string name="gear_locked_text1">Gear locked. To unlock, connect Gear to mobile device via Bluetooth.</string>
+    <string name="gear_phone_number">Gear phone number</string>
+    <string name="gear_phone_number_popup_desc">All calls to your mobile device will be forwarded to %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">To lock your Gear, Remote connection must first be enabled.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">To reset your Gear, Remote connection must first be enabled.</string>
+    <string name="gear_reset_text">Reset Gear</string>
+    <string name="gear_to_mobile">Gear to mobile</string>
+    <string name="gear_to_mobile_des">Receive calls made to your Gear on your mobile device while the two devices are connected via Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Failed to find location. Try again later.</string>
+    <string name="gear_unable_to_locate_title">Unable to locate Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Wallpapers</string>
+    <string name="home_bg_color">Colours</string>
+    <string name="home_bg_colors_title">AVAILABLE COLOURS</string>
+    <string name="home_bg_delete_actionbar_selected">Selected</string>
+    <string name="home_bg_delete_dialog_msg">%d wallpapers will be removed from Gear Manager and your Gear.</string>
+    <string name="home_bg_delete_select_all">Select all</string>
+    <string name="home_bg_max_more_image_toast">Maximum number of wallpapers (%d) reached.</string>
+    <string name="home_bg_more_images">More images</string>
+    <string name="home_bg_popup_wallpaper_msg">Downloading Gear wallpapers…</string>
+    <string name="home_bg_popup_wallpaper_title">Download wallpapers</string>
+    <string name="home_bg_toast_saved">Saved.</string>
+    <string name="home_bg_wallpaper">Wallpaper</string>
+    <string name="home_bg_wallpapers_title">AVAILABLE WALLPAPERS</string>
+    <string name="homelayout_apps">APPLICATIONS</string>
+    <string name="incoming_calls_title">Incoming Calls</string>
+    <string name="info_build_number">Software version</string>
+    <string name="info_model_number">Model number</string>
+    <string name="info_software_update">Software update</string>
+    <string name="information_provision_agreement">Information Provision Agreement</string>
+    <string name="information_provision_agreement_mgs">"Voice Memo uses voice recognition technologies provided by a third party service provider called Nuance Communications, Inc. Therefore, your voice information is inevitably stored in a server operated by Nuance (in the United States), and using Voice Memo requires that you agree to the Terms and Conditions of Nuance.
+ Nuance reserves the right to use your voice input for the purposes of improving services and developing technologies. Nuance also reserves the right to provide aforementioned voice input to Nuance's partners. Your voice input information is stored until the aforementioned objectives have been accomplished. For information of the Voice Memo services, please read the Samsung Privacy Policy and Nuance Privacy Policy.
+ You cannot use Voice Memo if you do not agree to the provision of your information described above."</string>
+    <string name="init_manage_notifications_desc">"Select the applications you want to receive notifications from on your %1$s. To save your %2$s's battery power, deselect applications that you do not want notifications from."</string>
+    <string name="install_in_progress">In Progress...</string>
+    <string name="invalid_rename_character">Invalid character entered. Try again.</string>
+    <string name="latest_version">Latest version installed</string>
+    <string name="latitude">Latitude</string>
+    <string name="limit_notification_desc">Block alerts from appearing on the Gear while the mobile device is being used.</string>
+    <string name="limit_notification_dialog_desc">Unable to enable Restrict notifications on your Gear. No screen lock is set on your mobile device.</string>
+    <string name="limit_notification_title">Limit notifications</string>
+    <string name="location_info_title">Share location</string>
+    <string name="lock_gear_legal_text1">By using Lock Gear, you can remotely lock your Gear to prevent unauthorised use. You may unlock the Gear by reconnecting it to the mobile device.</string>
+    <string name="lock_gear_legal_text2">* The Lock Gear may take some time to function or may even fail depending on the state of your Gear, mobile device or network environment.</string>
+    <string name="lock_gear_text">Unable to lock your Gear while your mobile device and Gear are connected via Bluetooth.</string>
+    <string name="login_to_samsung_account">Sign in to Samsung account</string>
+    <string name="login_to_samsung_account_desc">To enable Remote connection on your Gear, sign in to your Samsung account.</string>
+    <string name="login_to_samsung_account_full_desc">"Sign in to your Samsung account to use the following features even when not connected via Bluetooth:
+- Receiving notifications
+- Using applications via Remote connection
+Using Remote connection may result in additional charges."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Longitude</string>
+    <string name="main_bt_unpaired">Unpaired</string>
+    <string name="main_disconnected">Disconnected</string>
+    <string name="manage_applications">Manage applications</string>
+    <string name="manage_notifications">Manage notifications</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Call forwarding is a network service that diverts %s incoming calls to a specified number. Depending on your service provider, a subscription may be required to allow your Gear to use this feature. This may result in additional charges.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobile device</string>
+    <string name="masterapp_not_installed">%1$s is not installed on your mobile device. To use %2$s on your Gear, download %1$s to your mobile device.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s is not installed on your mobile device. To use %2$s on your Gear, download %1$s to your mobile device. You will be taken to the download screen.</string>
+    <string name="masterapp_uninstalled">%1$s has been uninstalled from your mobile device. To use %2$s on your Gear, download %1$s to your mobile device.</string>
+    <string name="maximum_size_warning">Maximum number of characters reached.</string>
+    <string name="menu_about_device">ABOUT %s</string>
+    <string name="menu_actionbar_remove">Remove</string>
+    <string name="menu_actionbar_uninstall">Uninstall</string>
+    <string name="menu_appsandsettigns">APPS AND SETTINGS</string>
+    <string name="menu_clock">Clock</string>
+    <string name="menu_display">EDIT HOME SCREEN</string>
+    <string name="menu_downloaded_font">DOWNLOADED FONTS</string>
+    <string name="menu_filetransfertogear">TRANSFER FILES TO GEAR</string>
+    <string name="menu_gallery">Image</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitness</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_home_screen">Home screen styler</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_myapp">My apps</string>
+    <string name="menu_notification">Notifications</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mobile_to_gear">Mobile to Gear</string>
+    <string name="mobile_to_gear_des">Receive calls made to your mobile device on the Gear while the two devices are remotely connected.</string>
+    <string name="monotype_default_font">Default font</string>
+    <string name="monotype_dialog_font_applemint">Applemint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinkerbell</string>
+    <string name="more">More</string>
+    <string name="more_options">More options</string>
+    <string name="multisim_title">Multi SIM</string>
+    <string name="navigate_up">Navigate up</string>
+    <string name="new_eula_error_log">Report diagnostic info</string>
+    <string name="new_eula_fmd2">Find My Device</string>
+    <string name="new_eula_fmg2">Find My Gear</string>
+    <string name="new_eula_news_briefing">News Briefing</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung keyboard</string>
+    <string name="new_notification_list">List view</string>
+    <string name="new_notifications_list_desc">Show a list of notifications received on the Gear to the left of the clock.</string>
+    <string name="no_application_selected">No applications selected</string>
+    <string name="no_downloaded_applications">No downloaded applications</string>
+    <string name="no_of_application_selected">%d applications selected</string>
+    <string name="no_remote_connection_popup_msg">To enable Auto call forwarding, open the Samsung Gear application on your mobile device and enable Remote connection, then try again.</string>
+    <string name="no_remote_connection_popup_title">Enable Remote connection</string>
+    <string name="notification_type">Notification type</string>
+    <string name="notification_type_desc">While your Gear is in use, your notifications will be displayed as small pop-ups at the top of the screen, regardless of your selection above.</string>
+    <string name="number_setting">Number setting</string>
+    <string name="ok">OK</string>
+    <string name="once">Once</string>
+    <string name="one_application_selected">1 application selected</string>
+    <string name="popup_attention_email_msg">Some email accounts are not selected in Email settings. To receive notifications from those accounts on your Gear, select Email notifications in Email settings.</string>
+    <string name="popup_attention_message_msg">To send and receive messages on your Gear, your default messaging app will be changed from %s to Messaging.</string>
+    <string name="popupmenu_search_for_new_device">Manage devices</string>
+    <string name="preview_message_desc">Show a preview of received notifications, except for incoming call alerts and alarms, in the notification pop-ups on your Gear.</string>
+    <string name="preview_message_title">Preview message</string>
+    <string name="primary">primary</string>
+    <string name="privacypolicy_fmgfmd">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the %1$s &amp; %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">By enabling \"%1$s &amp; %2$s\", you acknowledge that location data associated with your mobile phone will be transmitted through a Samsung server in order to provide the %2$s service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="privacypolicy_newsbriefing">This app provides users the ability to interact with social media and the Internet in a variety of innovative ways. If you enable this app, the service will collect information about how you use the services, including how you view and interact with content and advertisements. For more details, please see the Flipboard %1$sTerms of Use%2$s and %3$sPrivacy Policy%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung Privacy Policy</string>
+    <string name="progressdialog_please_wait">Please wait …</string>
+    <string name="progressdialog_reinstalled_message">Installing...</string>
+    <string name="progressdialog_reinstalled_popup_content">Reinstall</string>
+    <string name="providerapp_reinstalled">%s does not work properly so it has been uninstalled. It will now be reinstalled.</string>
+    <string name="quick_tutorial_add_shortcuts">"To add app shortcuts to the Gear's home screen, go to Apps on the Gear, tap and hold an app icon, then drag and drop it on the home icon at the top of the screen."</string>
+    <string name="quick_tutorial_gear_structure">"The clock is shown on the main page of your Gear's home screen. Pages to the left of the clock show notifications and those to the right show widgets. Swipe upwards from the bottom edge of the screen to view applications."</string>
+    <string name="quick_tutorial_noti_title">Introduction to %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">To open S Voice, say “Hi Gear” or press the home key twice while on any screen.</string>
+    <string name="quick_tutorial_swipe_downwards">Double press the home key to open your favourite application. You can change your favourite application in Settings.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Double press the power key to open your favourite app. You can change your favourite app in Settings.</string>
+    <string name="quick_tutorial_to_go_back">Swipe screen downwards from edge to go back.</string>
+    <string name="remote_connection_disabled_settings">Settings</string>
+    <string name="remote_connection_enabled_desc">Gear will be connected remotely if Bluetooth connection ends.</string>
+    <string name="requested">Requested</string>
+    <string name="reset_gear_legal_text1">By using Reset Gear, you can remotely delete all data on your Gear. After such deletion, the deleted data cannot be restored and you can no longer use Find My Gear.</string>
+    <string name="reset_gear_legal_text2">* The Reset Gear may take some time to function or may even fail depending on the state of your Gear, mobile device or network environment.</string>
+    <string name="restore_complete">Restore completed.</string>
+    <string name="restore_some_error">Restoration failed. Try again.</string>
+    <string name="restore_try_again">Try Again</string>
+    <string name="restore_watch_settings_content2">"Use your device storage to back up your %1$s content:
+%2$s
+
+If you previously backed up this content, you can restore it to %3$s now.
+
+Depending on the size of the file, it can take some time.
+
+You can change your backup settings in Settings."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">Settings</string>
+    <string name="retrieve_dialog_desc">Retrieving application list...</string>
+    <string name="sa_email">Email</string>
+    <string name="sa_error_0203_desc">To enable Remote connection, update Samsung account manually.</string>
+    <string name="sa_error_0203_title">Update Samsung account</string>
+    <string name="sa_error_0301_desc">A network error occurred while signing in to your Samsung account on your mobile device.</string>
+    <string name="sa_error_0301_title">Failed to enable function</string>
+    <string name="sa_error_0302_desc">A network error occurred while signing in to your Samsung account on your mobile device.</string>
+    <string name="sa_error_0302_title">Failed to enable function</string>
+    <string name="sa_error_0401_desc">An error has occurred. Try again.</string>
+    <string name="sa_error_0401_title">Error</string>
+    <string name="safety_message_interval_10minutes">Every 10 minutes</string>
+    <string name="safety_message_interval_20minutes">Every 20 minutes</string>
+    <string name="samsung_apps_info">Applications that have been downloaded via %1$s can be deleted when %2$s is uninstalled or application data is cleared. You can download deleted applications from your purchase history in %3$s.</string>
+    <string name="samsung_apps_notice">Notice</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Update now</string>
+    <string name="screen_off">Keep screen off</string>
+    <string name="screen_off_desc">Receive notifications, except incoming call alerts and alarms, on your Gear while its screen is turned off.</string>
+    <string name="setting_Enable">Enable</string>
+    <string name="setting_alpm_dialog_title">Attention</string>
+    <string name="setting_always_off">Always off</string>
+    <string name="setting_always_on">Always on</string>
+    <string name="setting_auto">Auto</string>
+    <string name="setting_auto_lock_disable_desc">Disabled by administrator, encryption policy, or credential storage.</string>
+    <string name="setting_backup_restore2">Back up and restore</string>
+    <string name="setting_basic">BASICS</string>
+    <string name="setting_connections">CONNECTIONS</string>
+    <string name="setting_disable">Disable</string>
+    <string name="setting_home_key_double_pressing">Double pressing home key</string>
+    <string name="setting_language_input">LANGUAGE AND INPUT</string>
+    <string name="setting_manage_text_templates">Edit text templates</string>
+    <string name="setting_mobile_network">Mobile networks</string>
+    <string name="setting_mobile_network_desc">The Gear will be disconnected from your mobile network when it is connected to your mobile device via Bluetooth. When the connection via Bluetooth ends, the Gear will connect to your mobile network again automatically.</string>
+    <string name="setting_multisim_popup_desc">Depending on your service provider, you may require a separate subscription to use the Multi SIM function. Tap OK to enable Multi SIM.</string>
+    <string name="setting_opensource">Open source license</string>
+    <string name="setting_palm_motion">Motions</string>
+    <string name="setting_palm_swipe">Swipe to capture</string>
+    <string name="setting_palmover_desc">To mute incoming calls and alarms, or pause media, place your hand on the screen while the screen is on.</string>
+    <string name="setting_palmswipe_desc">Capture the screen by swiping your whole finger across it, keeping in contact with the screen.</string>
+    <string name="setting_pause_mute">Mute/pause</string>
+    <string name="setting_power_key_double_pressing">Double pressing power key</string>
+    <string name="setting_restoring">Restoring…</string>
+    <string name="setting_safety_b1_desc">When your Gear and mobile device are connected, Send help messages helps you in an emergency. It alerts your emergency message contacts to your situation by sending them emergency messages with your location. Sending these messages may result in additional charges. To enable Send help messages during an emergency, press the power key %d times.</string>
+    <string name="setting_safety_b2_desc">When your Gear and mobile device are connected, Send help messages helps you in an emergency by taking a picture using the Gear camera. It alerts your emergency message contacts to your situation by sending them emergency messages with this picture and your location. The first message will contain both your location and the picture. Then, after an interval, a second message will be sent containing only your location. Sending these messages may result in additional charges. To enable Send help messages during an emergency, press the home key %d times.</string>
+    <string name="setting_safety_b2_no_camera_desc">When your Gear and mobile device are connected, Send help messages helps you in an emergency. It alerts your emergency message contacts to your situation by sending them emergency messages with your location. Sending these messages may result in additional charges. To enable Send help messages during an emergency, press the home key %d times.</string>
+    <string name="setting_safety_b3_desc1">Press the home key quickly 3 times to send a quick alert to your primary contacts when you are in an emergency situation.</string>
+    <string name="setting_safety_b3_desc2">Your primary contacts will receive emergency messages containing information about your current location.</string>
+    <string name="setting_safety_b3_desc3">Connect your mobile device to your Gear to use this function.</string>
+    <string name="setting_safety_list">Safety assistance</string>
+    <string name="setting_samsung_legal">Samsung legal</string>
+    <string name="setting_screen_lock">Auto lock</string>
+    <string name="setting_screen_lock_desc">Set your mobile device to lock automatically when your Gear is too far away to be detected.</string>
+    <string name="setting_screen_secutiry">SCREEN SECURITY</string>
+    <string name="setting_send_emergency_picture">Send Emergency picture</string>
+    <string name="setting_send_emergency_recording">Send sound recording</string>
+    <string name="setting_send_emergency_term_agree">I have read and agree to all the terms and conditions above.</string>
+    <string name="setting_send_help_message">Send help message</string>
+    <string name="setting_send_terms_conditions">Terms and Conditions</string>
+    <string name="setting_smart_relay">Smart relay</string>
+    <string name="setting_smart_relay_desc">View content from your Gear on your mobile device by picking up your mobile device.</string>
+    <string name="setting_smart_toss">Smart Toss</string>
+    <string name="setting_system">SYSTEM</string>
+    <string name="setting_text_to_speech_engine">Text-to-speech engine</string>
+    <string name="setting_textinput_emoticon">Emoticons</string>
+    <string name="setting_textinput_keyboard">Keyboard</string>
+    <string name="setting_textinput_list">Text input methods</string>
+    <string name="setting_textinput_templates">Templates</string>
+    <string name="setting_try_it">Try it</string>
+    <string name="setting_wake_up">Wake-up gesture</string>
+    <string name="setting_wake_up_desc">Wake up the Gear by raising the arm your Gear is on.</string>
+    <string name="setting_wakeupgesture">"To wake up the Gear, raise the arm that your Gear is on and look at the Gear's screen.
+
+This feature does not work when you are leaning back or lying down, and may consume more of the Gear's battery power because its motion sensor is always on."</string>
+    <string name="setting_wakeupgesture_clock">Clock</string>
+    <string name="setting_wakeupgesture_previous">Last viewed screen</string>
+    <string name="setting_wakeupgesture_screen_on">Select screen shown</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Select screen shown</string>
+    <string name="settings">SETTINGS</string>
+    <string name="settings_application_version">Application version</string>
+    <string name="settings_emergency_contact">Manage Primary contacts</string>
+    <string name="settings_emergency_contact_empty">No primary contacts have been added. To enable %s, add contacts to Primary contacts.</string>
+    <string name="settings_legal_information">Legal information</string>
+    <string name="settings_message_interval">Message interval</string>
+    <string name="settings_not_set">Not set</string>
+    <string name="settings_security">Security</string>
+    <string name="settings_security_update">Security update</string>
+    <string name="settings_security_update_desc">Protect your device from harmful content by improving its security and service.</string>
+    <string name="settings_unknown_sources_dialog">Installing from unknown sources may be harmful to your device and personal data. By tapping OK, you agree that you are solely responsible for any damage to your device or loss of data that may result from using these applications.</string>
+    <string name="settings_unknown_sources_subtitle">Allow installation of apps from unknown sources.</string>
+    <string name="share_loc_disabled">Share location disabled.</string>
+    <string name="share_location_desc">"Allow Find My Gear and Find My Device to share your Gear and mobile device's location data."</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">I agree that Mobile data may be used and that MMS messages may be sent in emergencies. I understand that this may result in additional charges.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Send Help Message] is intended to help users send notice of their approximate location and visual/auditory surroundings to the mobile phone of a chosen contact that you set in advance. It is made available only for your convenience and is not intended as, nor should it be treated as, a substitute for emergency calls to the authorities.
+ 
+ 2. [Send Help Message] (the “Services”) may not work accurately, continuously or error-free, depending on the circumstances such as network connectivity, availability of GPS/Wi-Fi information, status and/or condition of your/your chosen contact´s device, battery level and/or other circumstances which are out of Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”)´s control. The accuracy of the location information and timely delivery of the Services may be affected by your surroundings and the condition of your device and the device of your chosen contact. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error. Please note that your chosen contact must be a working mobile phone and the device must be turned on and capable of accepting text messages. Transferring your surroundings and location data may be chargeable to you depending on the fees specified by your service operator.
+ 
+ In order for the Services to function as intended, it may be necessary to have the feature, once deployed by you, automatically turn on the GPS and Wi-Fi functions of your device. You acknowledge and agree to the automatic enabling of the GPS and Wi-Fi functions (if required), without further notice to you or consent by you.
+ 
+ 3. You acknowledge and agree not to misuse this function or use this function for any illegal purposes or to infringe on the privacy or any personal or proprietary rights of others. Use this function only in accordance with the law and only in cases of emergencies.You agree to be solely responsible for your use of this feature. Samsung shall not be liable for any outcome that may arise from your use of this feature.
+ 
+ 4. The Services are made available only for your convenience and are not intended as, nor should they be treated as, a substitute for emergency calls to the authorities. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error.
+ 
+ 5. DISCLAIMER OF WARRANTIES. YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+ 
+ A. THE SERVICES ARE PROVIDED ON AN AS IS, “WITH ALL FAULTS,” AND AS AVAILABLE BASIS. YOU BEAR THE RISK OF USING THEM. SAMSUNGGIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS UNDER OR IN RELATION TO THE SERVICES. SAMSUNG EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY IMPLIED WARRANTIES FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+ 
+ B. WITHOUT LIMITING THE FOREGOING,SAMSUNG MAKES NO REPRESENTATION OR WARRANTY THAT (i) THE SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE CONTENT OBTAINED FROM THE SERVICES, OR ANY NOTIFICATIONS OR FUNCTIONALITY OF THE SERVICES WILL BE AVAILABLE, ACCURATE, COMPLETE OR RELIABLE, (iv) THE QUALITY OF THE SERVICES OR ANY INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS OR BUGS IN THE SERVICES WILL BE CORRECTED.
+ 
+ 6. LIMITATION OF LIABILITY.
+ 
+ A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT SAMSUNG SHALL NOT BE LIABLE UNDER A NEGLIGENCE THEORY, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY LOSS, LIABILITY, DAMAGE OR EXPENSE, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF USE OR OTHER LOSSES (EVEN IF REPAIR, REPLACEMENT OR A REFUND FOR THE SERVICES DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES ORSAMSUNG KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH LOSS, LIABILITY, DAMAGE, OR EXPENSE), DIRECTLY OR INDIRECTLY RESULTING FROM OR ARISING OUT OF: (i) CLAIMS FOR BREACH OF CONTRACT, BREACH OF WARRANTY, GUARANTEE OR CONDITION, STRICT LIABILITY, NEGLIGENCE, OR OTHER TORT TO THE EXTENT PERMITTED BY APPLICABLE LAW; (ii) YOUR USE OR YOUR INABILITY TO USE THE SERVICES, (iii) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES; (iv) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (v) STATEMENTS OR CONDUCT OF ANY THIRD PARTY; (vi) THIS AGREEMENT; (vii) INJURY TO PERSON OR PROPERTY (INCLUDING DEATH), OR (viii) ANY OTHER MATTER RELATING TO THE SERVICES OR THE CONTENT PROVIDED THROUGH THE SERVICES.
+ 
+ B. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH SAMSUNG RELATED TO THIS AGREEMENT OR THE SERVICES SHALL BE CEASING USE OF THE SERVICES.
+ 
+ C. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 5 AND 6 MAY NOT APPLY TO YOU.
+ 
+ 7. INDEMNIFICATION. You agree to hold harmless, indemnify and defend the Samsung from and against any claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including reasonable attorneys' fees and costs) arising out of or relating to your use of the Services or any failure by you to comply with this Agreement. If, despite the personal nature of the licenses granted to you under these terms and conditions, you allow any individual to use the Services, or provide to any individual any information received via the Services, you agree to inform such individual of the existence and provisions of these terms and conditions, which shall be binding upon such individual, and you agree to hold harmless, indemnify, and defend the Samsung from any and all claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including attorneys' fees and costs) related to such individual’s use of the Services.
+ 
+ 8. Force Majeure. The Samsung shall not be liable for any delay or failure in performance under these terms and conditions or interruption of the Services, resulting from acts of God, civil or military authority, war, acts of terrorism, labor disputes, materials or services provided by third parties, or any cause beyond the reasonable control of the Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">I agree to allow %1$s to share my location with my %2$s contacts.</string>
+    <string name="smartrelay_not_show">Do not show again</string>
+    <string name="software_update">Software update</string>
+    <string name="ss_double_tap_any_screen">Double tap any screen with two fingers to view the brightness and volume controls, and other useful information.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Forwarding calls to your Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Requesting...</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Reading settings...</string>
+    <string name="ss_loading_ing_abb">Loading...</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Mobile data is disabled. Connect to Wi-Fi network instead, or enable mobile data and try again.</string>
+    <string name="ss_no_network_connection">No network connection</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting SIM cards for outgoing calls</string>
+    <string name="ss_user_manual">User manual</string>
+    <string name="str_no">No thanks</string>
+    <string name="str_yes">Yes</string>
+    <string name="stub_list_install">Install</string>
+    <string name="sw_eula_condition">I understand and agree to the Terms and Conditions above.</string>
+    <string name="sw_eula_desc2">"You agree to provide Samsung the error log data from any Software Update failure your device experiences. This will assist Samsung to improve and enhance Samsung's Software Update process and ultimately help you keep your device properly updated."</string>
+    <string name="tab_stub_list">Featured</string>
+    <string name="talkback_download">Download</string>
+    <string name="talkback_setting">Setting</string>
+    <string name="the_samsung_gear_application">the Samsung Gear application</string>
+    <string name="threeg_connection">Use Remote connection</string>
+    <string name="threeg_connection_subtitle">Connect to your Gear remotely, using Mobile data or Wi-Fi together with your Samsung account.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Uninstall</string>
+    <string name="title_activity_connect_popup">Connect</string>
+    <string name="title_activity_paired_watch">Paired device</string>
+    <string name="title_alertdialog_device_name_popup">Rename %s</string>
+    <string name="title_alertdialog_disconnect_popup">Disconnect</string>
+    <string name="title_dialog_pm_error">Warning</string>
+    <string name="title_dialog_uninstall">Uninstall</string>
+    <string name="title_eula">Legal notices</string>
+    <string name="title_findmywatch_connect2">"Find
+my Gear"</string>
+    <string name="title_findmywatch_finding">Searching...</string>
+    <string name="tri_connect_title_circle_to_gear">Connect %1$s to %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Connecting your %1$s to your %2$s via Bluetooth will disconnect your %3$s from your mobile device temporarily. This connection will resume shortly and your %4$s will then be connected to both your %5$s and your mobile device.</string>
+    <string name="tt_install_voice_data">Install TTS voice data</string>
+    <string name="tt_install_voice_data_required">Install additional text-to-speech languages on your Gear.</string>
+    <string name="tt_language">Language</string>
+    <string name="tt_send_help_message">Send help messages</string>
+    <string name="tt_tts_language_guide">Your text-to-speech language is the language you set in your Gear Settings. If your language is not supported by the text-to-speech engine, English (United Kingdom) will be used.</string>
+    <string name="unable_to_connect_popup_message">Failed to connect your Gear to your mobile device. Try again later.</string>
+    <string name="unable_to_connect_popup_title">Connection failed</string>
+    <string name="unable_to_lock_gear">Unable to lock Gear</string>
+    <string name="unable_to_reset_gear">Unable to reset Gear</string>
+    <string name="unabled_health">Unable to open this application because it is disabled.</string>
+    <string name="uninstall_applications">Uninstall applications</string>
+    <string name="unknown_sources_msg_new">%1$s will not be installed via %2$s. Your device and personal data are more vulnerable to attack by applications from unknown sources. You agree that you are solely responsible for any damage to your device or loss of data that may result from using these applications. To always install applications from unknown sources, go to %3$s > %4$s > %5$s, and enable %6$s. Tap OK to install %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s is not from %2$s, and it does not include an app for your Gear. Your device and data are more vulnerable to attack by apps from unknown sources. The installation will be cancelled and %3$s will be deleted from your phone.</string>
+    <string name="unknown_sources_title">Unknown sources</string>
+    <string name="update_button">Update</string>
+    <string name="update_summary">Check for updates</string>
+    <string name="update_the_latest_version">Update available</string>
+    <string name="voice_control_subtitle">Say “Answer” or “Reject”, during the pauses while your Gear is not ringing or vibrating, to answer or reject calls.</string>
+    <string name="voicememo_link1">Terms and Conditions of Nuance</string>
+    <string name="voicememo_link2">Samsung Privacy Policy</string>
+    <string name="voicememo_link3">Nuance Privacy Policy</string>
+    <string name="watchapp_all">Apps</string>
+    <string name="watchapp_noapps">No apps</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Refreshing...</string>
+    <string name="wifi_only">Wi-Fi only</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Only download updates when connected to a Wi-Fi network.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN</string>
+    <string name="shm_new_disclaimer_msg_01_chn">"[Send Help Message] is intended to help users send notice of their approximate location and visual/auditory surroundings to the mobile phone of an emergency contact that you set in advance. It is made available only for your convenience and is not intended as, nor should it be treated as, a substitute for emergency calls to the authorities. 
+ 
+ [Send Help Message] may not work accurately, continuously or error-free, depending on the circumstances such as network connectivity, availability of GPS/WLAN information, status and/or condition of your/your emergency contact夷늮 device, battery level and/or other circumstances which are out of Samsung夷늮 control. The accuracy of the location information and timely delivery of [Send Help Message] data may be affected by your surroundings and the condition of your device and the device of your emergency contact. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the [Send Help Message] function will work accurately, continuously or without any error. Please note that your emergency contact must be a working mobile phone and the device must be turned on and capable of accepting text messages. Transferring your surroundings and location data may be chargeable to you depending on the fees specified by your service operator.
+ 
+ In order for [Send Help Message] to function as intended, it is necessary to have the feature, once deployed by you, automatically turn on the GPS and WLAN functions of your device. You acknowledge and agree to the automatic enabling of the GPS and WLAN functions, without further notice to you or consent by you.
+ 
+ You acknowledge and agree not to misuse this function or use this function for any illegal purposes or to infringe on the privacy or any personal or proprietary rights of others. Use this function only in accordance with the law and only in cases of emergencies. You agree to be solely responsible for your use of this feature. Samsung shall not be liable for any outcome that may arise from your use of this feature."</string>
+    <string name="cmw_legal_content_no_gps">By enabling Share Location, you agree that location data associated with your mobile phone will be transmitted to your Gear device through a Samsung server in order to provide the Find My Device service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="general_app_name_for_reinstall">The Samsung Gear application</string>
+    <string name="actionbar_name_not_translated">Gear Manager</string>
+    <string name="app_name">Gear Plugin</string>
+    <string name="auto_call_forwarding_desc_optus">Voice service should be activated on Gear S SIM to receive calls via Auto Call Forwarding. Please check with your network provider for services enabled on your SIM</string>
+    <string name="bmanager_findmywatch_widget">Bmanager_Finmywatch_Widget</string>
+    <string name="bt_ticker_actionbar_title">Select device</string>
+    <string name="bt_unknown">Unknown</string>
+    <string name="call_modemoff_when_cfwd">You can use call forwarding when Gear is remotely connected to your mobile device.</string>
+    <string name="callforward_xml_load">Call Fwd XML load</string>
+    <string name="callforward_xml_save">Call Fwd XML save</string>
+    <string name="clocks_uninstallation_failed">Uninstallation failed</string>
+    <string name="connect_lost">"SAP connection lost.
+please re-connect your Gear and try again"</string>
+    <string name="dialog_data_loading_popup">Loading Data...</string>
+    <string name="dialog_permission_title">Permission</string>
+    <string name="gear2_text_import1">Gear</string>
+    <string name="gear_2">Samsung Gear 2</string>
+    <string name="homelayout_tab_talkback">Tab</string>
+    <string name="main_watch_capital">GEAR</string>
+    <string name="none_paired">No devices are paired</string>
+    <string name="pp_i_agree">I understand and agree to ALL of the above.</string>
+    <string name="pp_notice">Services will be available only after you indicate your acknowledgement. Click each separately to ONLY choose a specific service.</string>
+    <string name="remote_connection_disabled_desc">Remote connection disabled</string>
+    <string name="restore_in_progress">Restoring data to device…</string>
+    <string name="setting_opensoucelicencesdec">"Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION 
+
+1. Definitions. 
+\"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. 
+
+\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. 
+
+\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. 
+
+\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License. 
+
+\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. 
+
+\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types. 
+
+\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below). 
+
+\"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. 
+
+\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution. 
+
+\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work. 
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. 
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. 
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions: 
+
+(a) You must give any other recipients of the Work or Derivative Works a copy of this License; and 
+
+(b) You must cause any modified files to carry prominent notices stating that You changed the files; and 
+
+(c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and 
+
+(d) If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. 
+
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License. 
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions. 
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file. 
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License. 
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. 
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability. 
+
+END OF TERMS AND CONDITIONS 
+
+APPENDIX: How to apply the Apache License to your work. 
+
+To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets [] replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same printed page as the copyright notice for easier identification within third-party archives. 
+
+Copyright [yyyy] [name of copyright owner] 
+
+Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
+
+http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. 
+
+
+
+Copyright (c) 2002-2003, Jean-Marc Valin/Xiph.Org Foundation 
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+
+Neither the name of the Xiph.org Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE FOUNDATION OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+
+
+W3C SOFTWARE AND DOCUMENT NOTICE AND LICENSE 
+This work is being provided by the copyright holders under the following license. 
+
+License 
+By obtaining, using and/or copying this work, you (the licensee) agree that you have read, understood, and will comply with the following terms and conditions. 
+
+Permission to copy, modify, and distribute this software and its documentation, with or without modification, for any purpose and without fee or royalty is hereby granted, provided that you include the following on ALL copies of the software and documentation or portions thereof, including modifications: 
+
+• The full text of this NOTICE in a location viewable to users of the redistributed or derivative work. 
+• Any pre-existing intellectual property disclaimers, notices, or terms and conditions. If none exist, the W3C Software Short Notice should be included (hypertext is preferred, text is permitted) within the body of any redistributed or derivative code. 
+• Notice of any changes or modifications, through a copyright statement on the new code or document such as This software or document includes
+    material copied from or derived from [title and URI of the W3C document].
+    
+Copyright © [YEAR] W3C® (MIT, ERCIM, Keio, Beihang). 
+
+Disclaimers 
+THIS WORK IS PROVIDED AS IS, AND COPYRIGHT HOLDERS MAKE NO REPRESENTATIONS OR WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PARTICULAR PURPOSE OR THAT THE USE OF THE SOFTWARE OR DOCUMENT WILL NOT INFRINGE ANY THIRD PARTY PATENTS, COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. 
+
+COPYRIGHT HOLDERS WILL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF ANY USE OF THE SOFTWARE OR DOCUMENT. 
+
+The name and trademarks of copyright holders may NOT be used in advertising or publicity pertaining to the work without specific, written prior permission. 
+Title to copyright in this work will at all times remain with copyright holders. 
+
+Notes 
+This version: http://www.w3.org/Consortium/Legal/2015/copyright-software-and-document 
+
+Previous version: http://www.w3.org/Consortium/Legal/2002/copyright-software-20021231 
+
+This version makes clear that the license is applicable to both software and text, by changing the name and substituting work for instances of software and its documentation. 
+It moves notice of changes or modifications to the files to the copyright notice, to make clear that the license is compatible with other liberal licenses. 
+
+Copyright (c) 2010-2013, The Linux Foundation. All rights reserved. 
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+ Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+ Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+ Neither the name of The Linux Foundation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+LICENSE ISSUES 
+============== 
+
+The OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit. See below for the actual license texts. Actually both licenses are BSD-style Open Source licenses. In case of any license issues related to OpenSSL please contact openssl-core@openssl.org. 
+
+OpenSSL License 
+--------------- 
+
+==================================================================== 
+Copyright (c) 1998-2011 The OpenSSL Project. All rights reserved. 
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+
+3. All advertising materials mentioning features or use of this software must display the following acknowledgment: \"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)\" 
+
+4. The names \"OpenSSL Toolkit\" and \"OpenSSL Project\" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org. 
+
+5. Products derived from this software may not be called \"OpenSSL\" nor may \"OpenSSL\" appear in their names without prior written permission of the OpenSSL Project. 
+
+6. Redistributions of any form whatsoever must retain the following acknowledgment:
+ \"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)\" 
+
+THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+==================================================================== 
+
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com). This product includes software written by Tim Hudson (tjh@cryptsoft.com). 
+
+Original SSLeay License 
+----------------------- 
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) 
+All rights reserved. 
+
+This package is an SSL implementation written by Eric Young (eay@cryptsoft.com). 
+The implementation was written so as to conform with Netscapes SSL. 
+
+This library is free for commercial and non-commercial use as long as the following conditions are aheared to. The following conditions apply to all code found in this distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code. The SSL documentation included with this distribution is covered by the same copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com). 
+
+Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed. 
+If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used. 
+This can be in the form of a textual message at program startup or in documentation (online or textual) provided with the package. 
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+1. Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer. 
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+3. All advertising materials mentioning features or use of this software must display the following acknowledgement: 
+\"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)\" The word 'cryptographic' can be left out if the rouines from the library being used are not cryptographic related :-). 
+4. If you include any Windows specific code (or a derivative thereof) from the apps directory (application code) you must include an acknowledgement: \"This product includes software written by Tim Hudson (tjh@cryptsoft.com)\" 
+
+THIS SOFTWARE IS PROVIDED BY ERIC YOUNG AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+The licence and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. this code cannot simply be copied and put under another distribution licence 
+[including the GNU Public Licence.]
+"</string>
+    <string name="setting_palm_over">Palm over</string>
+    <string name="uninstall_falied">"Uninstallation couldn't be done due to"</string>
+    <string name="welcome_manager">manager</string>
+</resources>

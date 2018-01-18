@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Қоңырау барысында болмайды.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Қалқымалы толық экран</string>
+    <string name="alert_mini">Шағын қалқымалы терезе</string>
+    <string name="alertdialog_backkey_popup_content">Ескерту</string>
+    <string name="alertdialog_disconnect_popup_description">Gear құрылғысы ажыратылады. Қайта қосу үшін, Bluetooth пайдаланыңыз.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Бұл %s қосылымын аяқтайды.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s құрылғыңыз ұялы құрылғыдан ажыратылады. Осы құрылғыларды келесі жолы қосқан кезде, Bluetooth пайдалануыңыз қажет. Содан кейінгі кез келген қосылымдар қашықтықтан қосылу арқылы орындалады.</string>
+    <string name="alertdialog_uninstall_popup_content">Жою</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">Ұялы құрылғыда %1$s орнатылмаған. Gear құрылғысында %2$s пайдалану үшін, ұялы құрылғыға %1$s жүктеңіз</string>
+    <string name="attention_popup_title">Назар аударыңыз</string>
+    <string name="auto_call_forwarding">Қоңырау бағытын авто бұру</string>
+    <string name="auto_call_forwarding_att">Қоң. бағ-н Gear-ге автоөзгерту</string>
+    <string name="auto_call_forwarding_desc">Gear ұялы құрылғыдан өшірілген кезде қоңырау бағытын өзгертуді автоматты түрде қосу. Бұл құрылғылар қайта қосылмағанша кіріс қоңырауларды ұялы құрылғыдан Gear құрылғысына бағыттайды.</string>
+    <string name="auto_update">Авто жаңарту</string>
+    <string name="auto_update_summary">Жаңартуларын автоматты түрде тексеріңіз.</string>
+    <string name="backing_up">Резервтік көшіру…</string>
+    <string name="backup_complete">Резервтік көшіру аяқталды.</string>
+    <string name="bnr_backup">Резервтік көшіру…</string>
+    <string name="bnr_bakcup_title">Сақтық көшірме</string>
+    <string name="bnr_cancel">Тоқтату</string>
+    <string name="bnr_canel">Тоқтату</string>
+    <string name="bnr_error_occurred">Қате орын алды</string>
+    <string name="bnr_except">%1$s (%2$s байланысынан басқа)</string>
+    <string name="bnr_except_autolock">Автоматты құлыптау</string>
+    <string name="bnr_except_remoteconnection">Қашықтан қосылу</string>
+    <string name="bnr_except_texttemplate">Мәтін үлгілері</string>
+    <string name="bnr_next">Кел.</string>
+    <string name="bnr_no">Жоқ</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Жаңа құрылғыға қосылу үшін, Gear құрылғысының зауыттық параметрлері қалпына келтіріледі.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear құрылғысы толық орнатылмаған. Орнату шебері Gear құрылғысында қазір ашық тұр, бірақ Gear құрылғысына қосылу үшін, орнату шеберін осы құрылғыдағы Gear Manager қолданбасында да ашу қажет.</string>
+    <string name="bnr_reset_initialization">Ескерту</string>
+    <string name="bnr_restore">Қал. келт.</string>
+    <string name="bnr_restored">Деректер қалпына келтірілді.</string>
+    <string name="bnr_setupwizard_title2">Сақтық көш.және қалп.келтіру</string>
+    <string name="bnr_yes">Иә</string>
+    <string name="button_finish">Аяқтау</string>
+    <string name="button_restore">Қалп. келтіру</string>
+    <string name="call">ҚОҢЫРАУ</string>
+    <string name="call_check_gear_status_when_cfwd">Қоңырауды ұялы құрылғыдан Gear және Gear құрылғысынан ұялы құрылғыға бұру функцияларын бір уақытта қосу мүмкін емес.</string>
+    <string name="call_dualsim1">1-SIM карта</string>
+    <string name="call_dualsim1sim2">Екі SIM картасы</string>
+    <string name="call_dualsim2">2-SIM карта</string>
+    <string name="call_forwarding">Қоңырау бағытын өзгерту</string>
+    <string name="call_forwarding_agree">Келісемін.</string>
+    <string name="call_forwarding_desc">Ұялы құрылғыға келген қоңырауларды Gear құрылғысына бұру.</string>
+    <string name="call_forwarding_desc_vzw">Жауап берілмеген кіріс қоңырауларының бағытын телефоннан Gear құрылғысына өзгертіңіз.</string>
+    <string name="call_forwarding_disable_msg">Сұрау қоңырау бағытын ұялы құрылғыңыздан Gear құрылғысына бұруды өшіру үшін жасалды. Ұялы желіңіз бен ұялы құрылғыңыздың күйі нәтижелерге әсер етуі мүмкін.</string>
+    <string name="call_forwarding_enable_msg">Сұрау қоңырау бағытын ұялы құрылғыңыздан Gear құрылғысына бұруды қосу үшін жасалды. Ұялы желіңіз бен ұялы құрылғыңыздың күйі нәтижелерге әсер етуі мүмкін.</string>
+    <string name="call_forwarding_for_att_msg">"Gear құрылғысы смартфоннан ажыратылған кезде, ұялы құрылғыға келген кіріс қоңыраулар автоматты түрде Gear құрылғысына бағытталады.
+- Смартфон бірнеше рет шырылдайды және содан кейін қоңырау Gear құрылғысына бағытталады.
+- Егер Gear құрылғыңызда қоңырауға жауап бермесеңіз, қоңырау шалушы Gear құрылғыңызда тыңдай алатын дауыстық пошта хабарын қалдыра алады.
+Қоңырау бағытын авто өзгертуді қазір қосуды қалайсыз ба?"</string>
+    <string name="call_forwarding_notify_msg">Ұялы құрылғыдан Gear құрылғысына қоңырау бағытын өзгерту қазір қосылған. Ұялы құрылғыға кіріс қоңыраулар Gear құрылғысына бағытталады. Gear құрылғысы сізбен болмаса, Параметрлер бөліміне өтіп, қоңырауды өткізіп жібермегеніңізге көз жеткізу үшін, қоңыраулар бағытын автоматты түрде өзгертіңіз.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Дауыс. қңру бағытын өзгерту өшірілуде…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Дауыс. қңру бағытын өзгерту қосылуда…</string>
+    <string name="call_no_gear_number">Нөмірлер жоқ</string>
+    <string name="call_select_dualsim_title">SIM картасын таң-з</string>
+    <string name="call_voice_control">Дауыспен басқару</string>
+    <string name="callforwarding_help_des1">Құрылғылар Bluetooth немесе қашықтан қосылу арқылы қосылғанына байланысты қоңыраулар бағыты автоматты өзгертілетін құрылғыны қосыңыз.</string>
+    <string name="callforwarding_help_des2">Қозғалып және Gear құрылғысын тағып жүргенде және ол ұялы құрылғыға қашықтан қосулы болғанда, ұялы құрылғыға жасалған қоңырауларды Gear арқылы қабылдаңыз.</string>
+    <string name="cancel">Тоқтату</string>
+    <string name="cf_activated">Белсендірілген</string>
+    <string name="cf_deactivate_failed">Қоңырау бағытын өзгертуді өшіру сәтсіз болды.</string>
+    <string name="cf_deactivated">Өшірілген</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Жаңа сағат пааметрлері Gear арқылы қолданылды.</string>
+    <string name="clocks_download_more_clocks">Қосымша сағаттар жүктеу</string>
+    <string name="clocks_noti_uninstall_clock">%s жойылады.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s жойылады және %2$s әдепкі сағат ретінде орнатылады.</string>
+    <string name="clocks_title_basic_clocks">НЕГІЗГІ САҒАТТАР</string>
+    <string name="clocks_title_downloaded_clocks">ЖҮКТЕЛГЕН САҒАТТАР</string>
+    <string name="clocks_title_style_clocks">СТИЛЬДІК САҒАТТАР</string>
+    <string name="clocks_uninstalled">Жойылған</string>
+    <string name="clocks_uninstalling">Жойылуда…</string>
+    <string name="close">Жабу</string>
+    <string name="closing_samsung_gear_message">Gear қалпына келтірілді. Samsung Gear бағдарламасы қысқа уақытта жабылады.</string>
+    <string name="closing_samsung_gear_message_jpn">Gear құрылғысы қалпына келтірілді. Gear құрылғысы қысқа уақытта жабылады.</string>
+    <string name="closing_samsung_gear_title">Samsung Gear бағдарламасын жабыңыз</string>
+    <string name="closing_samsung_gear_title_jpn">Gear қолданбасын жабу</string>
+    <string name="cloud_backup_no_information">Ешқашан</string>
+    <string name="cloud_backup_restore_backup_now">Дерек-ң сақтық көшірмесі</string>
+    <string name="cloud_backup_restore_restore_now">Дерек-ді қалпына келтіру</string>
+    <string name="cmw_agree">Келісемін</string>
+    <string name="cmw_eula_agree">Жоғарыдағы шарттарды түсінемін және олармен келісемін.</string>
+    <string name="cmw_for_setting">Орын қызметтері өшірілді. Параметрлерге өтіңіз.</string>
+    <string name="cmw_high_accuracy_dialog_message">Ең жылдам және ең анық орналасуды анықтау үшін Орын > Режим бөлімінде Жоғары дәлдік опциясын таңдаңыз.</string>
+    <string name="cmw_high_accuracy_dialog_title">Жоғары дәлдікті таңдау</string>
+    <string name="cmw_legal_content">«Орналасқан орны туралы мәліметтерді беру» параметрін қосып, сіз өз телефоныңызды және/немесе Gear құрылғыңызды Samsung сервер арқылы «Менің Gear табу» және «Құрылғыны табу» қызметтерін қамтамасыз ету үшін келісім бересіз. Сіздің құрылғыңыздың орналасқан орны туралы мәлімет Samsung серверінде сақталады.</string>
+    <string name="cmw_legal_content1">“%1$s &amp; %2$s” қосқанда, сіз “%1$s &amp; %2$s” қызметтерін ұсынуға арналған Samsung сервері арқылы, сіздің ұялы телефоныңыз және/немесе Gear құрылғыңызбен байланысты орналасу орныңыз туралы деректердің берілуіне өз келісіміңізді бересіз. Сіздің құрылғыңыздың орналасу орны туралы деректер Samsung серверінде сақталынбайды.</string>
+    <string name="cmw_legal_content1_no_gps">“%1$s &amp; %2$s” қоса отырып, сіз %2$s қызметін ұсынуға арналған Samsung сервері арқылы, сіздің ұялы телефоныңызбен байланысты орналасу орныңыз туралы деректердің берілуіне өз келісіміңізді бересіз. Сіздің құрылғыңыздың орналасу орны туралы деректер Samsung серверінде сақталмайды.</string>
+    <string name="cmw_legal_content_2">Samsung құпиялылық саясаты</string>
+    <string name="cmw_legal_title">Құқықтық ескертулер</string>
+    <string name="cmw_location">Орын анықтау қызметтерін қосу</string>
+    <string name="cmw_show_on_map">"Картада
+көрсету"</string>
+    <string name="color_black">Қара</string>
+    <string name="color_blue">Көк</string>
+    <string name="color_brown">Қоңыр</string>
+    <string name="color_gray">Сұр</string>
+    <string name="color_green">Жасыл</string>
+    <string name="color_light_sky_blue">Ашық аспан көк</string>
+    <string name="color_medium_purple">Ақшыл көк</string>
+    <string name="color_orange">Сарғыш-қызыл</string>
+    <string name="color_pink">Қызғылт</string>
+    <string name="color_purple">Күлгін</string>
+    <string name="color_red">Қызыл</string>
+    <string name="color_spring_green">Ашық жасыл</string>
+    <string name="common_none">Жоқ</string>
+    <string name="common_off">Өшірілген</string>
+    <string name="common_on">Қосылған</string>
+    <string name="common_recent_apps">Соңғы бағд-р</string>
+    <string name="connect_popup_content">%s-ге қосылуда…</string>
+    <string name="connected_by_trasport_BT">Bluetooth арқылы қосылған</string>
+    <string name="connected_by_trasport_SCS">Қашықтан қосылған</string>
+    <string name="connecting_content">Gear құрылғысына қосылуда</string>
+    <string name="connecting_doc">%1$s құрылғыңызға қосылғаннан кейін, %2$s арқылы оның параметрлерін өзгертіп, оған бағдарламаларды орната аласыз.</string>
+    <string name="connecting_popup_message">Gear құрылғысына қосылуда…</string>
+    <string name="connecting_popup_title">Gear құрылғысына қосылу</string>
+    <string name="connecting_to_gear_ing">Gear құрылғысына қосылуда…</string>
+    <string name="connectingdoc">Gear құрылғысына қосылғаннан кейін, Gear Manager қолданбасы арқылы параметрлерді өзгертіп, қолданбаларды орната аласыз.</string>
+    <string name="connection_error_dialog_message">Құрылғыңыз қосылмады. Қайта қосылуға әрекет етеді</string>
+    <string name="dialog_check_phone_number_msg1">Келесі ақпараттың дұрыс екенін тексеріңіз:</string>
+    <string name="dialog_check_phone_number_msg2">Ұялы телефон нөмірі: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear телефон нөмірі: %s</string>
+    <string name="dialog_check_phone_number_msg4">Растау үшін OK түймесін басып, автоматты қоңырау бағытын өзгертуді қосыңыз.</string>
+    <string name="dialog_enable_remote_connection_desc">Қоңырау бағытын автоматты өзгертуді қосу үшін, қашықтан қосылуды қосып, әрекетті қайталаңыз.</string>
+    <string name="dialog_enable_remote_connection_title">Қашықтан қосылымды қосу</string>
+    <string name="dialog_permission_message">%s функциясын пайдалану мүмкін емес. ПАРАМЕТРЛЕР түймесін түртіп, Қолданба ақпараты > Рұқсаттар бөліміне өтіп, келесі рұқсаттарды беріп, әрекетті қайталаңыз:</string>
+    <string name="dialog_popup_button_cancel">Тоқтату</string>
+    <string name="dialog_reverse_msg">Қызмет провайдеріңізге байланысты, ұялы және Gear құрылғыңызға осы мүмкіндікті пайдалануы үшін бөлек жазылым қажет болуы мүмкін. Бұған қосымша ақы алынуы мүмкін.</string>
+    <string name="dialog_set_phone_number_msg">Қоңырау бағытын авто бұруды қосу үшін, келген және шыққан кіріс қоңырауларының бағытын бұру керек құрылғылардың телефон нөмірлерін орнатыңыз.</string>
+    <string name="dialog_set_phone_number_title">Автоматты қоңырау бағытын өзгертуді қосу</string>
+    <string name="disable_loc_text">Орынды бөлісу өшіріледі. Gear не ұялы құрылғы ақпаратын Gear құрылғымды табу не менің құрылғымды табу қызметтері арқылы іздеу үшін орын ақпаратын пайдалану мүмкін болмайды.</string>
+    <string name="disable_loc_text_no_gps">Орынды бөлісу ажыратылады. Ұялы құрылғы ақпаратын менің құрылғымды табу арқылы іздеу үшін, орын ақпаратын пайдалану мүмкін болмайды.</string>
+    <string name="disable_remote_connection">Қашықтан қосылуды ажырату</string>
+    <string name="disable_remote_connection_fmm_fmd">Gear құрылғымды табу және менің құрылғымды табу</string>
+    <string name="disable_remote_connection_receiving_blocked">Ұялы құрылғыдан хабарларды, электрондық пошта хабарларын және хабарландыруларды алу</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Ұялы құрылғыдан электрондық хаттар мен хабарландыруларды қабылдау</string>
+    <string name="disable_remote_connection_warning">Қашықтан қосылу ажыратылады. Gear құрылғысы Bluetooth арқылы ұялы құрылғыға қайта қосылған кезде, келесі функциялар қолжетімді болмайды:</string>
+    <string name="disable_share_location">Орынды бөлісуді өшіру</string>
+    <string name="disconnect_popup_content">%s ажыратылуда…</string>
+    <string name="do_not_show_again">Қайтадан көрсетпеу</string>
+    <string name="enable_auto_call_forwarding_msg">Gear өшірілген кезде кіріс қоңырауларды ұялы құрылғыдан Gear құрылғысына автоматты түрде бағыттаңыз. Қызмет жеткізушісіне байланысты бұл қосымша ақыларға әкелуі мүмкін. Автоматты қоңырау бағытын өзгертуді қосу үшін, ОК түртіңіз.</string>
+    <string name="enable_auto_call_forwarding_title">Авто қоңырау бағ. өзг. Қосу</string>
+    <string name="enable_more_notifications_enable">Қосу</string>
+    <string name="enable_notification_access">Хабарландыру қатынасын қосу</string>
+    <string name="enable_notification_access_desc">"Бұл функция контактілер және сізге жіберілген хабарлар сияқты жеке ақпаратты қамтуы мүмкін болған, сіз қабылдайтын барлық хабарландыруларды оқу мүмкіндігіне ие болады. Сонымен қатар, ол осы хабарландыруларды босату немесе оларға байланысты әрекеттерді таңдау мүмкіндігіне ие болады.
+Gear құрылғысында хабарландырулар қабылдау үшін, Қосу түймесін түртіп, %s қосыңыз."</string>
+    <string name="enable_share_location">Орынды бөлісуді қосыңыз</string>
+    <string name="enabled_loc">Орынды бөлісу қосылды.</string>
+    <string name="error_enter_device_name">Құрылғы атауын енгізу.</string>
+    <string name="error_occurred">Қате пайда болды.</string>
+    <string name="eula_i_agree">Келісемін.</string>
+    <string name="failed_tshare_msg">Қоңырау бағытын өзгерту қосылмады. T share-дан жауап жоқ.</string>
+    <string name="find_my_device">Құрылғымды табу</string>
+    <string name="find_my_gear">Gear құрылғымды табу</string>
+    <string name="find_watch_btn_start">Бастау</string>
+    <string name="find_watch_btn_stop">Үзіліс</string>
+    <string name="find_watch_off">Gear құрылғысын табу үшін, Бастау түймешігін басыңыз. Gear құрылғысы дыбысты ойнатады және оның бейнебеті қосылады</string>
+    <string name="find_watch_on">Gear табуды тоқтату үшін Тоқтату түймесін басыңыз. Gear дыбыс ойнатуды тоқтатып, экраны өшеді</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s жойылып, әдепкі қаріп %2$s құрылғысына қолданылады.</string>
+    <string name="force_wifi_direct_msg">Бағдарлама Wi-Fi Direct арқылы орнатылады. Бұл ағымдағы Wi-Fi Direct қосылымыңызды аяқтайды. Орнатудан бас тартсаңыз, орнату үшін осы бағдарламаны қайта жүктейсіз.</string>
+    <string name="force_wifi_direct_title">Орнату</string>
+    <string name="force_wifi_install">Орнату</string>
+    <string name="gear2_backup_confirm_text">Егер деректеріңіздің сақтық көшірмесін қазір жасасаңыз, ұялы құрылғыңыздағы ағымдық Gear деректерінің сақтық көшірмесі соңғы Gear деректерімен ауыстырылады.</string>
+    <string name="gear2_restore_confirm_text">Егер деректеріңізді қалпына келтірсеңіз, ағымдағы Gear құрылғыңыздағы деректер жойылады және ағымдық Gear деректерінің сақтық көшірмесімен ауыстырылады.</string>
+    <string name="gear2_text">"%1$s мазмұныңызды сақтық көшірмелеу үшін құрылғы жадыңызды пайдаланыңыз:
+%2$s
+
+Бұл мазмұнды бұрын сақтық көшірмелеген болсаңыз, оны қазір %3$s ішіне қалпына келтіруіңізге болады.
+
+Файлдың өлшеміне байланысты біраз уақыт қажет болуы мүмкін."</string>
+    <string name="gear2_text_import3">Қондырғылар</string>
+    <string name="gear_bnr_desc">"Келесі %1$s деректерін сақтық көшірмелеу үшін ұялы телефоныңыздың қоймасын пайдаланыңыз: %2$s
+
+%3$s деректеріңізді бұрын сақтық көшірмелесеңіз, оны қазір %4$s құрылғыңызға қалпына келтіруіңізге болады.
+
+Бұл файлдардың өлшемдеріне байланысты біраз уақытта алуы мүмкін."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Ұялы құрылғыңыз қазір Gear құрылғысын тексеруде. Бұл бірнеше минут алады. Бөлме ішінде емес Gear құрылғысын орналастыру қиын болуы мүмкін.</string>
+    <string name="gear_location_popup_title">Gear орналастыру</string>
+    <string name="gear_location_text">Gear орны</string>
+    <string name="gear_lock_success">Gear құлыпталған.</string>
+    <string name="gear_lock_text">Gear құлыптау</string>
+    <string name="gear_locked">Gear құлыпталған</string>
+    <string name="gear_locked_text1">Gear құлыпталған. Құлыптан шығару үшін, Gear құрылғысын ұялы құрылғыға Bluetooth арқылы қосыңыз.</string>
+    <string name="gear_phone_number">Gear телефон нөмірі</string>
+    <string name="gear_phone_number_popup_desc">Ұялы құрылғының барлық қоңыраулар бағыты %s нөміріне өзгертіледі.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Ұялы құрылғыңызға келіп түскен барлық жауап берілмеген қоңыраулардың бағыты %s құрылғысына өзгертіледі.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Gear құрылғыңызды құлыптау үшін, бірінші қашықтықтан қосылу қосулы болу керек.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Gear құрылғыңызды қалпына келтіру үшін, бірінші қашықтықтан қосылу қосулы болу керек.</string>
+    <string name="gear_reset_text">Gear қалпына келтіру</string>
+    <string name="gear_to_mobile">Gear - ұялы құр-ға</string>
+    <string name="gear_to_mobile_des">Екі құрылғы Bluetooth арқылы қосулы болған кезде Gear құрылғыңызға жасалған қоңырауларды ұялы құрылғыңызда қабылдаңыз.</string>
+    <string name="gear_unable_to_locate_message">Орын табылмады. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="gear_unable_to_locate_title">Gear құрылғысын орналастыру мүмкін емес</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Түсқағаздар</string>
+    <string name="home_bg_color">Түстер</string>
+    <string name="home_bg_colors_title">ҚОЛ ЖЕТІМДІ ТҮСТЕР</string>
+    <string name="home_bg_delete_actionbar_selected">Таңдалған</string>
+    <string name="home_bg_delete_dialog_msg">%d түсқағаз Gear Manager қолданбасы мен Gear құрылғысынан жойылады.</string>
+    <string name="home_bg_delete_select_all">Бәрін бөлектеу</string>
+    <string name="home_bg_max_more_image_toast">Ең көп түсқағаздар (%d) санына жетті.</string>
+    <string name="home_bg_more_images">Қосымша суреттер</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear түсқағаздарын жүктеуде…</string>
+    <string name="home_bg_popup_wallpaper_title">Түсқағаздарды жүктеу</string>
+    <string name="home_bg_toast_saved">Сақталған</string>
+    <string name="home_bg_wallpaper">Тұсқағаз</string>
+    <string name="home_bg_wallpapers_title">ҚОЛ ЖЕТІМДІ ТҮСҚАҒАЗДАР</string>
+    <string name="homelayout_apps">Қосымшалар</string>
+    <string name="incoming_calls_title">Келген қоңыраулар</string>
+    <string name="info_build_number">Жаңарту процесі нұсқасы</string>
+    <string name="info_model_number">Модель нөмірі</string>
+    <string name="info_software_update">Бағдарлама жаңарту</string>
+    <string name="init_manage_notifications_desc">%1$s құрылғысында хабарландырулар алу керек бағдарламаларды таңдаңыз. %2$s құрылғысының батарея зарядын үнемдеу үшін, хабарландырулар алу керек емес бағдарламаларды таңдаудан алып тастаңыз.</string>
+    <string name="install_in_progress">Процесс үстінде…</string>
+    <string name="invalid_rename_character">Қате таңба енгізілді. Әрекетті қайталаңыз.</string>
+    <string name="latest_version">Соңғы нұсқасы орнатылды</string>
+    <string name="latitude">Кеңділік</string>
+    <string name="limit_notification_desc">Ұялы телефонды пайдалану кезінде Gear құрылғысында пайда болатын дабылдарды бұғаттаңыз.</string>
+    <string name="limit_notification_dialog_desc">Gear құрылғысындағы Шектеу хабарландыруларын іске қосу мүмкін емес. Ұялы телефоныңызда экран құлыбы орнатылмаған.</string>
+    <string name="limit_notification_title">Хабарландыруларды шектеу</string>
+    <string name="location_info_title">Орынды бөлісу</string>
+    <string name="lock_gear_legal_text1">“Тосқауыл Gear” қызметі көмегімен қашықтықтан Gear құрылғысына тосқауыл қоюға және авторландырылмаған қолжетімділіктің алдын алуға болады. Тосқауылдан шығару Gear құрылғысын ұялы құрылғыға қайта қосқанда жүзеге асырылады.</string>
+    <string name="lock_gear_legal_text2">“Тосқауыл Gear” қызметінің орындалуы біршама уақытқа созылуы мүмкін. Бұдан басқа қызметті орындау барысында Gear құрылғысының, ұялы құрылғының немесе желінің жағдайына негіздеген ақаулықтар орын алуы мүмкін.</string>
+    <string name="lock_gear_text">Ұялы құрылғы мен Gear құрылғысы Bluetooth арқылы қосылған кезде Gear құрылғысын құлыптау мүмкін емес.</string>
+    <string name="login_to_samsung_account">Samsung ес.жазбасына кіру</string>
+    <string name="login_to_samsung_account_desc">Gear құрылғыңыздағы қашықтықтан қосылуды қосу үшін, Samsung есептік жазбаңызға кіріңіз.</string>
+    <string name="login_to_samsung_account_full_desc">"Bluetooth арқылы қосылмаған
+болсаңыз да, келесі мүм. пайд.
+үшін, Samsung ес. жаз. кір-з:
+- Хабарландырулар қабылдау
+- Қашықтан қосылу арқылы
+бағ-ды пайдалану
+Қашықтан қосылу мүмк-н пайд.
+үшін қосымша ақы алуы мүмкін."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Bluetooth арқылы телефонға қосылмаған кезде, Samsung есептік жазбасы ұялы деректер арқылы келесі әрекеттерді орындауға мүмкіндік береді:
+- Хабарларды, электрондық пошта хабарларын және басқа да хабарландыруларды алу
+- Телефонға қашықтан қосылуды қажет ететін Gear құрылғысындағы қолданбаларды пайдалану.
+
+Samsung есептік жазбасы арқылы қашықтан қосылуға деректер жоспары пайдаланылатынын ескеріңіз."</string>
+    <string name="longitude">Ұзақтық</string>
+    <string name="main_bt_unpaired">Жұптастырылмаған</string>
+    <string name="main_disconnected">Ажыратылды</string>
+    <string name="manage_applications">Бағдарламаларды басқару</string>
+    <string name="manage_notifications">Хабарландыруларды басқару</string>
+    <string name="manual_call_forwarding_for_att_msg">"Смартфонға жасалған қоңыраулар бағытын Gear құрылғысына өзгертуге болады.
+- Смартфон бірнеше рет шырылдайды және содан кейін қоңырау Gear құрылғысына бағытталады.
+- Егер Gear құрылғыңызда қоңырауға жауап бермесеңіз, қоңырау шалушы Gear құрылғыңызда тыңдай алатын дауыстық пошта хабарын қалдыра алады.
+Қоңырау бағытын өзгертуді қазір қосу керек пе?"</string>
+    <string name="manual_call_forwarding_popup_desc">Қоңырау бағытын өзгерту %s кіріс қоңырауларын арнайы нөмірге қайтаратын желі қызметі. Қызмет провайдеріңізге байланысты, Gear құрылғыңызға осы мүмкіндікті пайдалануы үшін жазылым қажет болуы мүмкін. Бұған қосымша ақы алынуы мүмкін.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Ұялы құрылғы</string>
+    <string name="masterapp_not_installed">Ұялы құрылғыда %1$s орнатылмаған. Gear құрылғысында %2$s пайдалану үшін, ұялы құрылғыға %1$s жүктеңіз</string>
+    <string name="masterapp_not_installed_goto_deeplink">Ұялы құрылғыда %1$s орнатылмаған. Gear құрылғысында %2$s пайдалану үшін, ұялы құрылғыға %1$s жүктеңіз. Сіз жүктеу экранына өтесіз</string>
+    <string name="masterapp_uninstalled">Ұялы құрылғыдан %1$s жойылды. Gear құрылғысында %2$s пайдалану үшін, ұялы құрылғыға %1$s жүктеңіз</string>
+    <string name="maximum_size_warning">Ең көп таңбалар санына жетті.</string>
+    <string name="menu_about_device">%s ТУРАЛЫ</string>
+    <string name="menu_actionbar_remove">Жоғалту</string>
+    <string name="menu_actionbar_uninstall">Жою</string>
+    <string name="menu_appsandsettigns">ҚОЛДАНБАЛАР МЕН ПАРАМЕТРЛЕР</string>
+    <string name="menu_clock">Сағат</string>
+    <string name="menu_display">БАСТАПҚЫ ЭКРАНДЫ ӨҢДЕУ</string>
+    <string name="menu_downloaded_font">ЖҮКТЕЛГЕН ҚАРІПТЕР</string>
+    <string name="menu_filetransfertogear">ФАЙЛ. GEAR ҚҰР-НА ТАСЫМ-У</string>
+    <string name="menu_gallery">Сурет</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Фитнес</string>
+    <string name="menu_help">Анықтама</string>
+    <string name="menu_home_screen">Бастапқы экран мәнері</string>
+    <string name="menu_music">Музыка</string>
+    <string name="menu_myapp">Менің бағдарламаларым</string>
+    <string name="menu_notification">Хабарландырулар</string>
+    <string name="menu_rename">Атын өзгерту</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung GALAXY Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Параметрлер</string>
+    <string name="mobile_to_gear">Ұялы - Gear құр-на</string>
+    <string name="mobile_to_gear_des">Екі құрылғы қашықтан қосулы болғанда, ұялы құрылғыға жасалған қоңырауларды Gear арқылы қабылдаңыз.</string>
+    <string name="monotype_default_font">Әдепкі қаріп</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Көбірек</string>
+    <string name="more_options">Қосымша опциялар</string>
+    <string name="multisim_title">Бірнеше SIM</string>
+    <string name="new_eula_error_log">Диагнос-қ ақп-қа ес. беру</string>
+    <string name="new_eula_fmd2">Құрылғымды табу</string>
+    <string name="new_eula_fmg2">Gear құрылғымды табу</string>
+    <string name="new_eula_news_briefing">Қысқаша жаңал-р</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung пернетақтасы</string>
+    <string name="new_notification_list">Тізім көрінісі</string>
+    <string name="new_notifications_list_desc">Сағаттың сол жағына Gear бағдарламасына түскен хабарландырулардың тізімін көрсетіңіз.</string>
+    <string name="no_application_selected">Таңдалған бағдарламалар жоқ</string>
+    <string name="no_downloaded_applications">Жүктелген бағдарламалар жоқ</string>
+    <string name="no_of_application_selected">%d бағдарлама таңдалды</string>
+    <string name="no_remote_connection_popup_msg">Автоматты қоңырау бағытын өзгертуді қосу үшін, Samsung Gear бағдарламасын ұялы құрылғыда ашып, қашықтан басқаруды қосыңыз, содан кейін әрекетті қайталаңыз.</string>
+    <string name="no_remote_connection_popup_title">Қашықтан қосылымды қосу</string>
+    <string name="notification_type">Хабарландыру түрі</string>
+    <string name="notification_type_desc">Gear пайдаланылған кезде таңдауыңызға қарамастан, хабарландырулар экранның жоғарғы жағында кішкентай қалқымалы терезелер ретінде көрсетіледі.</string>
+    <string name="number_setting">Нөмірді орнату</string>
+    <string name="ok">OK</string>
+    <string name="once">Бір рет</string>
+    <string name="one_application_selected">1 бағдарлама таңдалды</string>
+    <string name="popup_attention_email_msg">Кейбір электрондық пошта есептік жазбалары электрондық пошта параметрлерінде таңдалмаған. Gear құрылғысындағы есептік жазбалардан хабарландыруларды қабылдау үшін, электрондық пошта параметрлеріндегі электрондық пошта хабарландыруларын таңдаңыз.</string>
+    <string name="popup_attention_message_msg">Gear құрылғыңызда хабарларды жіберу және алу үшін, әдепкі хабар алмасу бағдарламаңыз %s бағдарламасынан “Хабар алмасу” бағдарламасына өзгертіледі.</string>
+    <string name="popupmenu_search_for_new_device">Құрылғыларды басқару</string>
+    <string name="preview_message_desc">Gear құрылғыңыздағы хабарландыру қалқымалы терезелерінде кіріс қоңырау ескертулері мен дабылдарынан басқа қабылданған хабарландыруларды алдын ала көруді көрсетіңіз.</string>
+    <string name="preview_message_title">Хабарламаны алдын ала көру</string>
+    <string name="primary">Негізгі</string>
+    <string name="privacypolicy_fmgfmd">“%1$s &amp; %2$s” қосқанда, сіз “%1$s &amp; %2$s” қызметтерін ұсынуға арналған Samsung сервері арқылы, сіздің ұялы телефоныңыз және/немесе Gear құрылғыңызбен байланысты орналасу орныңыз туралы деректердің берілуіне өз келісіміңізді бересіз. Сіздің құрылғыңыздың орналасу орны туралы деректер Samsung серверінде сақталынбайды.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">“%1$s &amp; %2$s” қоса отырып, сіз %2$s қызметін ұсынуға арналған Samsung сервері арқылы, сіздің ұялы телефоныңызбен байланысты орналасу орныңыз туралы деректердің берілуіне өз келісіміңізді бересіз. Сіздің құрылғыңыздың орналасу орны туралы деректер Samsung серверінде сақталмайды.</string>
+    <string name="privacypolicy_newsbriefing">Бұл қолданба пайдаланушыларға көптеген жаңашыл әдістермен әлеуметтік желілермен және Интернетпен өзара әрекеттесуге мүмкіндік береді. Осы қолданбаны іске қосқаннан кейін сервис сіз қызметтерді қалай қолданатыңыз, соның ішінде сіз мазмұнын және жарнамаларды қалай қарайтыныңыз және олармен өзара әрекеттесетініңіз туралы ақпаратты жинай бастайды. Толығырақ ақпаратты Flipboard %1$sTerms of Use%2$s және %3$sPrivacy Policy%4$s құжаттарында қараңыз.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung құпиялылық саясаты</string>
+    <string name="progressdialog_please_wait">Күте тұрыңыз…</string>
+    <string name="progressdialog_reinstalled_message">Орнатылуда…</string>
+    <string name="progressdialog_reinstalled_popup_content">Қайта орнату</string>
+    <string name="providerapp_reinstalled">%s дұрыс жұмыс істемейді сондықтан бұл жойылды. Бұл қазір қайта орнатылатын болады</string>
+    <string name="quick_tutorial_add_shortcuts">Gear бастапқы экранына бағдарлама белгішелерін қосу үшін Gear құрылғысындағы Бағдарламаларға өтіңіз, бағдарлама белгішесін басып тұрып, экранның жоғарғы жағындағы үй белгішесіне сүйреп апарыңыз.</string>
+    <string name="quick_tutorial_gear_structure">Сағат Gear бастапқы экранының негізгі бетінде көрсетіледі. Сағаттың сол жағындағы беттер хабарландыруларды, ал оң жағындағы беттер виджеттерді көрсетеді. Бағдарламаларды көру үшін, экранының төменгі жағынан жоғары қарай сипаңыз.</string>
+    <string name="quick_tutorial_noti_title">%s кіріспе</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice ашу үшін, “Привет, Gear” деп айтыңыз немесе кез келген экраннан “Бастапқы” пернесін екі рет басыңыз.</string>
+    <string name="quick_tutorial_swipe_downwards">Таңдаулы бағдарламаны ашу үшін бастапқы пернесін екі рет басыңыз. Параметрлердегі таңдаулы бағдарламаңызды өзгертуіңізге болады.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Таңдаулы бағдарламаны ашу үшін, қуат пернесін екі рет басыңыз. Параметрлердегі таңдаулы бағдарламаңызды өзгертуіңізге болады.</string>
+    <string name="quick_tutorial_to_go_back">Артқа өту үшін экранның шетінен төменге қарай сипаңыз.</string>
+    <string name="remote_connection_disabled_settings">Параметрлер</string>
+    <string name="remote_connection_enabled_desc">Егер Bluetooth байланысы өшірілсе, Gear қашықтан қосылады.</string>
+    <string name="requested">Сұралды</string>
+    <string name="reset_gear_legal_text1">“Gear тастау” қызметі көмегімен Gear құрылғысындағы барлық мәліметтерді қашықтықтан өшіруге болады. Осындай тәсілмен өшірілген мәліметтер қайта қалпына келтірілмейді, ал “Менің Gear табу” қызметі пайдалануға қол жетімсіз болады.</string>
+    <string name="reset_gear_legal_text2">*“Gear тастау” қызметінің орындалуы біршама уақытқа созылуы мүмкін. Бұдан басқа қызметті орындау барысында Gear құрылғысының, ұялы құрылғының немесе желінің жағдайына негіздеген ақаулықтар орын алуы мүмкін.</string>
+    <string name="restore_complete">Қалпына келтіру аяқталды.</string>
+    <string name="restore_some_error">Қалпына келтірілмеді. Қайталап көріңіз.</string>
+    <string name="restore_try_again">Қай. көріңіз</string>
+    <string name="restore_watch_settings_content2">"%1$s мазмұныңызды сақтық көшірмелеу үшін құрылғы жадыңызды пайдаланыңыз:
+%2$s
+
+Бұл мазмұнды бұрын сақтық көшірмелеген болсаңыз, оны қазір %3$s ішіне қалпына келтіруіңізге болады.
+
+Файлдың өлшеміне байланысты біраз уақыт қажет болуы мүмкін.
+
+Параметлер бөлімінде сақтық көшірмелеу параметрлерін өзгертуіңізге болады."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">ПАРАМЕТРЛЕР</string>
+    <string name="retrieve_dialog_desc">Бағдарлама тізімі алынуда…</string>
+    <string name="sa_email">Эл. пошта</string>
+    <string name="sa_error_0203_desc">Қашықтан қосылуды іске қосу үшін Samsung есептік жазбаңызды қолмен жаңартыңыз.</string>
+    <string name="sa_error_0203_title">Samsung ес. жазб. жаңарту</string>
+    <string name="sa_error_0301_desc">Ұялы құрылғыңызда Samsung есептік жазбасына кіру кезінде желі қатесі орын алды.</string>
+    <string name="sa_error_0301_title">Функция іске қосылмады</string>
+    <string name="sa_error_0302_desc">Ұялы құрылғыңызда Samsung есептік жазбасына кіру кезінде желі қатесі орын алды.</string>
+    <string name="sa_error_0302_title">Функция іске қосылмады</string>
+    <string name="sa_error_0401_desc">Қате орын алды. Әр. қайт-з.</string>
+    <string name="sa_error_0401_title">Қате</string>
+    <string name="safety_message_interval_10minutes">10 минут сайын</string>
+    <string name="safety_message_interval_20minutes">20 минут сайын</string>
+    <string name="samsung_apps_info">%2$s жойылғанда немесе бағдарлама деректері тазартылғанда %1$s арқылы жүктелген бағдарламалар жойылуы мүмкін. Жойылған бағдарламаларды %3$s ішіндегі сатып алу журналынан жүктей аласыз.</string>
+    <string name="samsung_apps_notice">Ескерту</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Қазір жаңарту</string>
+    <string name="screen_off">Экранды өшірулі сақтау</string>
+    <string name="screen_off_desc">Экраны өшірілгенде Gear құрылғыңызда кіріс қоңырау ескертулері мен дабылдарынан басқа хабарландыруларды қабылдаңыз.</string>
+    <string name="setting_Enable">Қосу</string>
+    <string name="setting_alpm_dialog_title">Назар аударыңыз</string>
+    <string name="setting_always_off">Әрқашан өшірулі</string>
+    <string name="setting_always_on">Әрқашан қосылған</string>
+    <string name="setting_auto">Авто</string>
+    <string name="setting_auto_lock_disable_desc">Әкімші, шифрлау саясаты не есептік жазба мәліметтерінің жады арқылы өшірілді.</string>
+    <string name="setting_backup_restore2">Сақтық көш.және қалп.келтіру</string>
+    <string name="setting_basic">НЕГІЗГІЛЕР</string>
+    <string name="setting_connections">БАЙЛАНЫСТАР</string>
+    <string name="setting_disable">Өшіру</string>
+    <string name="setting_home_key_double_pressing">Баст.пернені екі рет басу</string>
+    <string name="setting_language_input">ТІЛ ЖӘНЕ ЕНГІЗУ</string>
+    <string name="setting_manage_text_templates">Мәтін үлгілерін өңдеу</string>
+    <string name="setting_mobile_network">Ұялы желілер</string>
+    <string name="setting_mobile_network_desc">Gear ұялы құрылғыңызға Bluetooth арқылы қосылған кезде ұялы желіңізден ажыратылады. Bluetooth арқылы қосылым аяқталған кезде, Gear ұялы құрылғыңызға автоматты түрде қайта қосылады.</string>
+    <string name="setting_multisim_popup_desc">Қызмет провайдеріңізге байланысты Бірнеше SIM функциясын пайдалану үшін бөлек жазылымды сұрауыңыз мүмкін. Бірнеше SIM картаны іске қосу үшін OK түймесін түртіңіз.</string>
+    <string name="setting_opensource">Бастапқы лицензияны ашу</string>
+    <string name="setting_palm_motion">Қозғалыстар</string>
+    <string name="setting_palm_swipe">Түсіру үшін сипау</string>
+    <string name="setting_palmover_desc">Кіріс қоңыраулары мен оятарлардың дауысын өшіру немесе медианы кідірту үшін, қолыңызды экран қосулы болған кезде экранға қойыңыз.</string>
+    <string name="setting_palmswipe_desc">Барлық саусақтарды экраннан алмай экран бойымен сипалау арқылы суретке түсіріңіз.</string>
+    <string name="setting_pause_mute">Дыбысын өшіру/тоқтату</string>
+    <string name="setting_power_key_double_pressing">Қуат перн.екі рет басу</string>
+    <string name="setting_restoring">Қалпына келтіру…</string>
+    <string name="setting_safety_b1_desc">Gear және ұялы телефоныңыз қосылғанда Анықтама хабарларын жіберу төтенше жағдайларда көмектеседі. Орналасуыңыз арқылы төтенше хабар контактілеріңізге төтенше хабар жіберу арқылы сіздің жағдайыңыз туралы хабарлайды. Бұл хабарларды жіберу қосымша ақылар алуы мүмкін. Төтенше жағдай барысында Жәрдем хабарларын жіберу опциясын қосу үшін қуат пернесін %d рет басыңыз.</string>
+    <string name="setting_safety_b2_desc">Gear және мобильді құрылғы қосылғанда анықтама хабарларын жіберу Gear камерасының көмігемен суретке түсіру арқылы төтенше жағдайларда көмектеседі. Ол төтенше хабарлар контактілеріне осы суреттер мен орныңыз қамтылған төтенше хабарларды жіберу арқылы оларды сіздің жағдайыңыз туралы хабарландырады. Бірінші хабар орныңыз бен суретті қамтиды. Аралықтан кейін тек орынды қамтитын екінші хабар жіберіледі. Бұл хабарларды жіберу қосымша ақылар алуы мүмкін. Төтенше жағдайда анықтама хабарларын жіберу опциясын іске қосу үшін Бастапқы пернесін %d рет басыңыз.</string>
+    <string name="setting_safety_b2_no_camera_desc">Gear және ұялы телефоныңыз қосылғанда Анықтама хабарларын жіберу төтенше жағдайларда көмектеседі. Орналасуыңыз арқылы төтенше хабар контактілеріңізге төтенше хабар жіберу арқылы сіздің жағдайыңыз туралы хабарлайды. Бұл хабарларды жіберу қосымша ақылар алуы мүмкін. Төтенше жағдайда анықтама хабарларын жіберу опциясын іске қосу үшін Бастапқы пернесін %d рет басыңыз.</string>
+    <string name="setting_safety_b3_desc1">Төтенше жағдайда негізгі контактілерге жедел ескерту жіберу үшін, “Бастапқы” пернесін жылдам 3 рет басыңыз.</string>
+    <string name="setting_safety_b3_desc2">Негізгі контактілеріңіз ағымдағы орныңыз туралы ақпаратты қамтитын төтенше хабарларды қабылдайтын болады.</string>
+    <string name="setting_safety_b3_desc3">Осы функцияны пайдалану үшін, ұялы құрылғыңызды Gear құрылғысына қосыңыз.</string>
+    <string name="setting_safety_list">Қауіпсіздік көмегі</string>
+    <string name="setting_samsung_legal">Samsung құқықтық</string>
+    <string name="setting_screen_lock">Автоматты құлыптау</string>
+    <string name="setting_screen_lock_desc">Ұялы құрылғыны құлыптау үшін, Gear құрылғысын пайдаланыңыз.</string>
+    <string name="setting_screen_secutiry">ЭКРАН ҚАУІПСІЗДІГІ</string>
+    <string name="setting_send_emergency_picture">Төтенше сурет жіберу</string>
+    <string name="setting_send_emergency_recording">Дыбыстық жазуларды жіберу</string>
+    <string name="setting_send_emergency_term_agree">Мен жоғарыдағы шарттардың барлығын оқып шықтым және олармен келісемін.</string>
+    <string name="setting_send_help_message">Анықтама хабарларын жіберу</string>
+    <string name="setting_send_terms_conditions">Шарттар мен ережелер</string>
+    <string name="setting_smart_relay">Смарт-көрсету</string>
+    <string name="setting_smart_relay_desc">Gear құрылғысындағы мазмұнды ұялы құрылғыны көтеру арқылы ұялы құрылғыда көріңіз.</string>
+    <string name="setting_smart_toss">Смарт-лақтыру</string>
+    <string name="setting_system">ЖҮЙЕ</string>
+    <string name="setting_text_to_speech_engine">Мәтіннен сөйлеуге жүйесі</string>
+    <string name="setting_textinput_emoticon">Эмотикондар</string>
+    <string name="setting_textinput_keyboard">Пернетақта</string>
+    <string name="setting_textinput_list">Мәтін енгізу әдістері</string>
+    <string name="setting_textinput_templates">Үлгілер</string>
+    <string name="setting_try_it">Қайталаңыз</string>
+    <string name="setting_wake_up">Ояту қимылы</string>
+    <string name="setting_wake_up_desc">Gear құрылғысын таққан қолыңызды көтеру арқылы Gear құрылғысын оятыңыз.</string>
+    <string name="setting_wakeupgesture">"Gear құрылғысын ояту үшін, Gear құрылғысын таққан қолыңызды көтеріп, Gear экранына қараңыз.
+
+Бұл мүмкіндік шалқайған немесе жатқан кезіңізде жұмыс істемейді және Gear батареясының қуатын көп тұтынады, өйткені оның қимыл сенсоры әрқашан қосулы болады"</string>
+    <string name="setting_wakeupgesture_clock">Сағат</string>
+    <string name="setting_wakeupgesture_previous">Соңғы көрілген экран</string>
+    <string name="setting_wakeupgesture_screen_on">Таңдау экраны көрсетілген</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Таңдау экраны көрсетілген</string>
+    <string name="settings">Параметрлер</string>
+    <string name="settings_application_version">Бағдарлама нұсқасы</string>
+    <string name="settings_emergency_contact">Жеке контактілерді басқару</string>
+    <string name="settings_emergency_contact_empty">Негізгі контактілер қосылмады. %s қосу үшін, негізгі контактілерге контактілерді қосыңыз.</string>
+    <string name="settings_legal_information">Құқықтық ақпарат</string>
+    <string name="settings_message_interval">Хабар аралығы</string>
+    <string name="settings_not_set">Орнатылмаған</string>
+    <string name="settings_security">Қауіпсіздік</string>
+    <string name="settings_security_update">Қауіпсіздікті жаңарту</string>
+    <string name="settings_security_update_desc">Қауіпсіздігі мен қызметін жақсарту арқылы құрылғыңызды зиянды мазмұннан қорғаңыз.</string>
+    <string name="settings_unknown_sources_dialog">Белгісіз ресурстардан орнату құрылғыңыз бен жеке мәліметтеріңізге зиян тигізуі мүмкін. OK түймесін басу арқылы сіз осы бағдарламаларды пайдалану нәтижесінде құрылғыңызға келтірілген кез келген зақымға немесе деректердің жоғалуына жауапты екеніңізге келісесіз.</string>
+    <string name="settings_unknown_sources_subtitle">Белгісіз ресурстардан бағдарламаларды орнатуға рұқсат ету.</string>
+    <string name="share_loc_disabled">Орынды бөлісу өшірілді.</string>
+    <string name="share_location_desc">Gear құрылғымды табу және менің құрылғымды табу мүмкіндіктеріне Gear және ұялы құрылғының орын деректерін бөлісуге рұқсат беру.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Ұялы деректер пайдаланылуы және төтенше жағдайларда MMS хабарлары жіберілуі мүмкіндігіне келісім беремін. Бұл қосымша ақыларға әкелуі мүмкін екенін түсінемін.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Анықтама хабарын жіберу қызметінің мақсаты болып пайдаланушыларға алдын ала анықталған төтенше байланысу тұлғаларының ұялы телефондарына өздерінің қай жерде тұрғаны жайлы және сол жер туралы көрнекілік/аудио ақпарат жіберу үшін көмектесу табылады.. Бұл функция сіздің қолайлығыңыз үшін ғана ұсынылған және құзырлы мекемелерге қоңырау соғуға арналмаған және сондай қызмет ретінде саналмауы тиіс.
+
+2. Send help message (Қызметтер”) жұмысы желіемн байланысу, GPS/Wi-Fi қол жетімділігі, сіздің немесе таңдалған байланысу тұлғасының құрылғысының күйі, батарея деңгейі және/немесе Samsung Electronics Co., Ltd. (“Samsung”, “біз”, “бізді/бізге”, “біздің”)´компаниясының бақылауынан тыс басқа жағдайларға байланысты нақты, қатесіз және жұмысы үзіліссіз болмауы мүмкін. Тұрған жеріңіз туралы ақпараттың дәлдігіне және Қызметтерді уақытында қамтамасыз ету сапасына сізді қоршаған орта және сіздің немесе таңдалған байланысу тұлғасының құрылғысының күйі әсер етуі мүмкін. Өзгесі белгіленген немесе заң бойынша талап етілген жөж, Samsung компаниясы Қызметтер нақты, үзіліссіз және ешқандай қатесіз жұмыс істеуне кепіл бермейді. Таңдалған байланысу тұлғасының ұялы телефоны мен құрылғысы қосылып тұруы тиіс және мәтін хабарларын қабылдауға әзір болуы тиіс екенін ескеріңіз. Қоршаған орта және тұрған жеріңіз туралы ақпаратты жіберу Қызметтерді жеткізуші операторыңыз анықтаған төлемдерге байланысты ақылы болуы мүмкін.
+
+Қызметтер анықталған мақсатына сәйкес жұмыс істеу үшін, бұл функция қосылғаннан кейін, GPS және Wi-Fi функцияларын құрылғыңызға автоматты түрде қосу қажет болуы мүмкін. Құрылғыңыздағы GPS және Wi-Fi функцияларының автоматты түрде қосылатыны (егер қажет болса) жайлы ескертілесіз және бұл шартпен келісесіз, сондықтан сізге ол туралы қосымша хабар жіберілмейді және сіздің қосымша рұқсатыңыз қажет етілмейді.
+
+3. Сіз бұл қызметті басқа мақсатта немесе заңсыз әрекеттер үшін немесе басқалардың құпиялық немесе жеке меншіктік құқығын бұзу мақсатында қолдануға болмайтыны жайлы білесіз және бұл шартен келісесіз. Бұл фукцияны заңға сәйкес және төтенше жағдайларда ғана қолданыңыз. Бұл функцияны қолдану үшін жауапкершілікті өз мойныңызға аласыз. Samsung компаниясы бұл қызметті қолдану салдарынан болған салдар үшін жауап бермейді.
+
+4. Қызметтер сіздің қолайлығыңыз үшін ғана ұсынылған және құзырлы мекемелерге қоңырау соғуға арналмаған және сондай қызмет ретінде саналмауы тиіс. Өзгесі белгіленген немесе заң бойынша талап етілген жағдайлардан өзге жағдайларда  Samsung компаниясы Қызметтер нақты, үзіліссіз және ешқандай қатесіз жұмыс істеуіне кепіл бермейді.
+
+5. КЕПІЛДЕН БАС ТАРТУ. СІЗ КЕЛЕСІ ШАРТТАРДЫ ТОЛЫҒЫМЕН ТҮСІНІП, ОЛАРМЕН КЕЛІСЕСІЗ:
+ 
+A. ҚЫЗМЕТТЕР ОСЫ ҚАЛПЫНДА, БАРЛЫҚ ЫҚТИМАЛ АҚАУЛЫҚТАРЫМЕН БІРГЕ  ЖӘНЕ ҚОЛ ЖЕТІМДІ РЕТІНДЕ ЖЕТКІЗІЛЕДІ. ҚОЛДАНУ ЖАУАКЕРШІЛІГІН ӨЗ МОЙНЫҢЫЗҒА АЛАСЫЗ. SAMSUNG ҚЫЗМЕТТЕР АЯСЫНДА НЕМЕСЕ ОЛАРҒА ҚАТЫСТЫ ЕШҚАНДАЙ АШЫҚ КЕПІЛДІКТЕР, КЕПІЛДІКТЕР НЕМЕСЕ ШАРТТАР ҰСЫНБАЙДЫ. SAMSUNG АШЫҚ ТҮРДЕ БАРЛЫҚ МӘЛІМДЕМЕЛЕР ЖӘНЕ ҚАНДАЙ ДА КЕПІЛДІКТЕРДЕН, АШЫҚ НЕМЕСЕ БОЛЖАМДЫ КЕПІЛДІКТЕН, СОНЫҢ ІШІНДЕ, БІРАҚ ОНЫМЕН ШЕКТЕЛМЕЙ, САТУ МҮМКІНДІГІНЕ, БЕЛГІЛІ БІР МАҚСАТТА ҚОЛДАНУҒА ЖӘНЕ АВТОРЛЫҚ ҚҰҚЫҚТЫ БҰЗУҒА ҚАТЫСТЫ КЕПІЛДІК, КЕЛІСУ НЕМЕСЕ ҚОЛДАНУ БАРЫСЫНА ҚАТЫСТЫ БОЛЖАЛДЫ КЕПІЛДІКТЕРДІҢ БАРЛЫҒЫНАН БАС ТАРТАДЫ.
+
+B. АТАЛҒАН ШАРТТАРДЫ ШЕКТЕМЕЙ, SAMSUNG КОМПАНИЯСЫ (i) ҚЫЗМЕТТЕР СІЗДІҢ ТАЛАПТАРЫҢЫЗҒА СӘЙКЕС КЕЛЕДІ, (ii) ҚЫЗМЕТТЕР ҮЗІЛІССІЗ, УАҚЫТЫНДА, ҚАУІПСІЗ НЕМЕСЕ АҚАУЛЫҚСЫЗ КӨРСЕТІЛЕДІ, (iii) ҚЫЗМЕТТЕР ҚАМТАМАСЫЗ ЕТКЕН МАЗМҰН НЕМЕСЕ ХАБАРЛАНДЫРУЛАР НЕМЕСЕ ҚЫЗМЕТТЕРДІҢ ОРЫНДАЛУЫ ҚОЛ ЖЕТІМДІ, НАҚТЫ, ТОЛЫҚ ҚАМТЫЛҒАН НЕМЕСЕ СЕНІМДІ БОЛУЫН, (iv) ҚЫЗМЕТТЕР НЕМЕСЕ АҚПАРАТ НЕМЕСЕ ҚЫЗМЕТТЕР АРҚЫЛЫ ЖЕТКІЗІЛГЕН ҚАНДАЙ ДА МАТЕРИАЛДАР САПАСЫ СІЗДІҢ ТАЛАБЫҢЫЗҒА ЖАУАП БЕРЕДІ НЕМЕСЕ (v) ҚЫЗМЕТТЕРДЕГІ ОЛҚЫЛЫҚТАР МЕН ҚАТЕЛІКТЕР ТҮЗЕТІЛУІН МӘЛІМДЕМЕЙДІ ЖӘНЕ ОНДАЙ КЕПІЛДІК БЕРМЕЙДІ.
+
+6. ШЕКТЕУЛІ ЖАУАПКЕРШІЛІК
+
+A. СІЗ НЕМҚҰРАЙЛЫҚ ҚАҒИДАСЫ АЯСЫНДА, ҚАНДАЙ ДА ТІКЕЛЕЙ, ЖАНАМА, АБАЙСЫЗДА ОРЫН АЛҒАН, АРНАЙЫ, ЖАЗА ТАЛАП ЕТЕТІН, САЛДАРДЫ НЕМЕСЕ АЙЫППҰЛДЫ ЖОҒАЛУЛАР, ЖАУАПКЕРШІЛІК, БҰЗЫЛУ НЕМЕСЕ ШЫҒЫН, ПАЙДАДАН АЙЫРЫЛУ, ҚОЛДАНУ МҮМКІНДІГІНЕН АЙЫРЫЛУ НЕМЕСЕ БАСҚА ЖОҒАЛТУЛАР (ҚЫЗМЕТТЕРГЕ ҚАТЫСТЫ ТАЛАП ЕТІЛГЕН ЖӨНДЕУ, АЛМАСТЫРУ НЕМЕСЕ ҚҰНЫН ҚАЙТАРУ ҚАНДАЙ ДА ЖОҒАЛТУЛАР ҚҰНЫН ТОЛЫҒЫМЕН ӨТЕМЕСЕ НЕМЕСЕ SAMSUNG КОМПАНИЯСЫ ОНДАЙ ЫҚТИМАЛ ЖОҒАЛТУЛАР, ЖАУАПКЕРШІЛІК, БҰЗЫЛУ НЕМЕСЕ ШЫҒЫНДАР ЖАЙЛЫ ХАБАРДАР БОЛСА НЕМЕСЕ ХАБАРДАР БОЛУЫ ТИІС БОЛСА ДА), ТІКЕЛЕЙ НЕМЕСЕ ЖАНАМА КЕЛЕСІ ЖАҒДАЙЛАР НӘТИЖЕСІНДЕ ОРЫН АЛҒАН: (i) КЕЛІСІМ ШАРТЫН БҰЗУ, КЕПІЛДІК ШАРТЫН БҰЗУ, КЕПІЛДІК НЕМЕСЕ ШАРТ, ҚАТАҢ ЖАУАКЕРШІЛІК, НЕМҚҰРАЙЛЫҚ, НЕМЕСЕ БАСҚА ЗАҢ АЯСЫНДА ҚОЛДАНЫСҚА ЖАРАМДЫ ЗАҢ БҰЗУШЫЛЫҚ; (ii) ҚЫЗМЕТТЕРДІ ҚОЛДАНУ НЕМЕСЕ ҚАТЕ ҚОЛДАНУ, (iii) ҚОСЫМША ҚЫЗМЕТТЕР ШЫҒЫНЫ; (iv) СІЗДІҢ ЖЕКЕ ДЕРЕКТЕРІҢІЗГЕ РҰҚСАТСЫЗ КІРУ; (v) ҚАНДАЙ ДА ҮШІНШІ ТАРАПТЫҢ МӘЛІМДЕМЕЛЕРІ НЕМЕСЕ НҰСҚАУЛАРЫ; (vi) ОСЫ КЕЛІСІМ-ШАРТ; (vii) ЖЕКЕ ТҰЛҒА НЕМЕСЕ МҮЛІККЕ КЕЛГЕН ЗАҚЫМ (СОНЫҢ ІШІНДЕ ӨЛІМ ЖАҒДАЙЫН), НЕМЕСЕ (viii) ҚЫЗМЕТТЕРГЕ ҚАТЫСТЫ БАСҚА САЛДАР НЕМЕСЕ ҚЫЗМЕТТЕР АРҚЫЛЫ ЖЕТКІЗІЛГЕН ҚАНДАЙ МАЗМҰН ЖАҒДАЙЛАРЫНА SAMSUNG КОМПАНИЯСЫ ЖАУАПТЫ ЕМЕС ЕКЕНІН ЕСКЕРІҢІЗ ЖӘНЕ БҰЛ ШАРТПЕН КЕЛІСЕСІЗ.
+ 
+B. СІЗДІҢ SAMSUNG КОМПАНИЯСЫМЕН ОСЫ КЕЛІСІМ-ШАРТҚА ҚАТЫСТЫ ДАУ ТУЫНДАҒАН ЖАҒДАЙДА СІЗДІҢ ЖАЛҒЫЗ ЖӘНЕ ЕРЕКШЕ ЗАҢДЫ ШЕШІМІҢІЗ БҰЛ ҚЫЗМЕТТЕРДІ ҚОЛДАНУДЫ ДОҒАРУ БОЛЫП ТАБЫЛАДЫ.
+ 
+C. КЕЙБІР ЗАҢНАМАЛАР ЖЕКЕ КЕПІЛДІКТЕРДІҢ ЕРЕКШЕ ЖАҒДАЙЛАРЫНА ЖӘНЕ АБАЙСЫЗДА ОРЫН АЛҒАН НЕМЕСЕ САЛДАРЛЫ БҰЗЫЛУЛАРҒА ЖАУАПКЕРШІЛІКТІ ШЕКТЕУГЕ НЕМЕСЕ ЕРЕКШЕ ЖАҒДАЙ РЕТІНДЕ ҚАРАУҒА РҰҚСАТ БЕРМЕЙДІ. ОСЫҒАН ОРАЙ, ЖОҒАРЫДАҒЫ 5 ЖӘНЕ 6-ШІ БӨЛІМДЕ АТАЛҒАН КЕЙБІР ШЕКТЕУЛЕР СІЗГЕ ҚАТЫСТЫ ҚОЛДАНЫЛМАУЫ МҮМКІН.
+
+7. ТӨЛЕМ АҚЫ. Қызметтерге қатысты немесе оларды қолдану немесе осы Келісім шарттарын орындамау нәтижесінде орын алған салдарға қатысты Samsung компаниясына зиян тигізетін қандай да мәлімделер, әрекеттер жасамауға, талапта қоймауға, шығын өтемдерін, жауапкершілік, жоғалтулар мен бұзылулар үшін айыппұлдар және шығын төлемдерін (соның ішінде өкілдік шығындары мен төлемдерін) талап етпеуге келісіміңізді бересіз. Егер, осы келісім-шарт ұсынған лицензия сізге ғана қатысты екеніне қарамастан, бұл Қызметтерді басқа тұлғаның қолдануына рұқсат берсеңіз немесе Қызметтер арқылы алған ақпаратты басқа тұлғамен бөліссеңіз, ол тұлғаны осы шарттармен және ол тұлғаның міндеттемелерімен таныстыруға және Samsung компаниясына зиян тигізетін қандай да мәлімделер, әрекеттер жасамауға, талаптар қоймауға, шығын өтемдерін, жауапкершілік, жоғалтулар мен бұзылулар үшін айыппұлдар және шығын төлемдерін (соның ішінде өкілдік шығындары мен төлемдерін) талап етпеуге келісіміңізді бересіз.
+
+8. Форс-мажор. Samsung компаниясы бұл шарттар аясында табиғи апаттар, азаматтық және әскери құзырлы мекемелер ықпалымен, соғыс, терроризм әрекеттері, еңбек даулары, үшінші тарап жеткізген материалдар немесе қызметтер немесе Samsung компаниясының еркінен тыс басқа жағдайлар нәтижесінде орын алған қандай да кешігулер мен қызметтердің көрсетілмеуі үшін жауапты емес."</string>
+    <string name="shm_share_my_location_checkbox_text">%1$s бағдарламасына орналасуымды менің %2$s контактілеріммен бөлісу рұқсатын беруге келісім беремін.</string>
+    <string name="smartrelay_not_show">Қайтадан көрсетпеу</string>
+    <string name="software_update">Бағдарламалық қамтамасыз етуді жаңарту</string>
+    <string name="ss_double_tap_any_screen">Ашықтық пен дыбыс деңгейін және басқа пайдалы ақпаратты көру үшін, экранды екі саусағыңызбен екі рет түртіңіз.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Қоңыраулар бағытын Gear құрылғысына өзгерту</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Сұраныс жіберілді</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Параметрлер оқылуда…</string>
+    <string name="ss_loading_ing_abb">Жүктелуде…</string>
+    <string name="ss_mobile_data_is_disabled">Ұялы деректер өшірілген. Оның орнына WLAN желісіне қосылыңыз немесе ұялы деректерді қосып, әрекетті қайталаңыз.</string>
+    <string name="ss_mobile_data_is_disabled2">Ұялы деректер өшірілді. Оның орнына Wi-Fi желісіне қосылыңыз немесе ұялы деректерді қосыңыз, сосын әрекетті қайталап көріңіз</string>
+    <string name="ss_no_network_connection">Желі байланысы жоқ</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Пайдаланушы нұсқаулығы</string>
+    <string name="str_no">Жоқ, рахмет</string>
+    <string name="str_yes">Иә</string>
+    <string name="stub_list_install">Орнату</string>
+    <string name="sw_eula_condition">Жоғарыдағы шарттарды түсінемін және олармен келісемін.</string>
+    <string name="sw_eula_desc2">Сіз құрылғыңызда орын алатын кез келген бағдарламалық жасақтаманы жаңарту қатесінен қате журналы деректерін Samsung компаниясына беруге келісесіз. Бұл Samsung компаниясына Samsung бағдарламалық жасақтамасын жаңарту процесін жақсартуға және сізге құрылғыңызды дұрыс жаңартып отыруға көмектеседі.</string>
+    <string name="tab_stub_list">Белгілі</string>
+    <string name="talkback_download">Жүктеу</string>
+    <string name="talkback_setting">Қондырғылар</string>
+    <string name="the_samsung_gear_application">Samsung Gear бағдарламасы</string>
+    <string name="threeg_connection">Қашықтық. қосылуды пайд-у</string>
+    <string name="threeg_connection_subtitle">Ұялы деректерді немесе Wi-Fi желісін Samsung тіркелгіңізбен бірге пайдалану арылы Gear құрылғыңызға қашықтықтан қосылыңыз.</string>
+    <string name="threeg_connection_subtitle_chn">Ұялы деректерді немесе WLAN желісін Samsung есептік жазбасымен бірге пайдалану арқылы Gear құрылғысына қашықтан қосылыңыз.</string>
+    <string name="title_activity_clock_delete">Жою</string>
+    <string name="title_activity_connect_popup">Қосылу</string>
+    <string name="title_activity_paired_watch">Жұптастырылған құрылғы</string>
+    <string name="title_alertdialog_device_name_popup">%s атын өзгерту</string>
+    <string name="title_alertdialog_disconnect_popup">Ажырату</string>
+    <string name="title_dialog_pm_error">Ескерту</string>
+    <string name="title_dialog_uninstall">Жою</string>
+    <string name="title_eula">Құқықтық ескертулер</string>
+    <string name="title_findmywatch_connect2">Gear құрылғымды табу</string>
+    <string name="title_findmywatch_finding">Іздеуде….</string>
+    <string name="tri_connect_title_circle_to_gear">%1$s құрылғысын %2$s құрылғысына қосу</string>
+    <string name="tri_connect_warning_temporal_disconnect">Bluetooth арқылы %2$s құрылғысына %1$s қосу %3$s құрылғысын ұялы құрылғыдан уақытша ажыратады. Бұл қосылым қысқа уақытта жалғастырылып, %4$s құрылғыңыз %5$s және ұялы құрылғыңызға қосылады.</string>
+    <string name="tt_install_voice_data">TTS дауыс дер. орнату</string>
+    <string name="tt_install_voice_data_required">Gear құрылғысындағы қосымша “мәтіннен сөйлеуге” тілдерін орнату.</string>
+    <string name="tt_language">Тіл</string>
+    <string name="tt_send_help_message">Анықт.хабарларын жіберу</string>
+    <string name="tt_tts_language_guide">Мәтіннен сөйлеуге тіліңіз Gear параметрлерінде орнатылған тіл болып табылады. Тіліңіз мәтіннен сөйлеуге механизмі тарапынан қолдау көрсетілмеген болса, Ағылшын тілі (Ұлыбритания) пайдаланылады.</string>
+    <string name="unable_to_connect_popup_message">Gear құрылғысын ұялы құрылғыңызға қосу сәтсіз болды. Әрекетті кейінірек қайталаңыз.</string>
+    <string name="unable_to_connect_popup_title">Қосылмады</string>
+    <string name="unable_to_lock_gear">Gear құрылғысын құлыптау мүмкін емес</string>
+    <string name="unable_to_reset_gear">Gear қалпына келтіру мүмкін емес</string>
+    <string name="unabled_health">Бағдарлама ажыратылғандықтан, оны ашу мүмкін емес.</string>
+    <string name="uninstall_applications">Бағдарламаларды жою</string>
+    <string name="unknown_sources_msg_new">%1$s %2$s арқылы орнатылмайды. Құрылғыңыз бен жеке деректеріңіз белгісіз көздерден алынған бағдарламалардың шабуылына осалдау болып табылады. Осы бағдарламаларды пайдалану арқылы құрылғыңызға келтірілген зақымға немесе деректердің жоғалуына тек өзіңіз жауапты екеніңізге келісесіз. Бағдарламаларды белгісіз көздерден әрқашан орнату үшін, %3$s > %4$s > %5$s бөліміне өтіп, %6$s қосыңыз. %7$s орнату үшін, ОК түймесін түртіңіз.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s %2$s дүкенінен емес және оған Gear құрылғыңызға арналған қолданба кірмейді. Құрылғыңыз бен деректеріңіз белгісіз көздерден алынған қолданбаларға қарсы тұруға осалдау болып табылады. Орнатудан бас тартылып, %3$s телефоннан жойылады.</string>
+    <string name="unknown_sources_title">Белгісіз көздер</string>
+    <string name="update_button">Жаңарту</string>
+    <string name="update_summary">Жаңаруды тексеру</string>
+    <string name="update_the_latest_version">Жаңарту қолжетімді</string>
+    <string name="voice_control_subtitle">Gear құрылғысы шырылдамаған немесе дірілдемеген кезде, қоңырауға жауап беру немесе оны қабылдамау үшін, кідіріс уақытында “Ответить” немесе “Отклонить” деп айтыңыз.</string>
+    <string name="voicememo_link2">Samsung құпиялылық саясаты</string>
+    <string name="watchapp_all">Бағдарламалар</string>
+    <string name="watchapp_noapps">Бағдарламалар жоқ</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Жаңартылуда…</string>
+    <string name="wifi_only">Тек Wi-Fi</string>
+    <string name="wifi_only_chn">Тек WLAN</string>
+    <string name="wifi_only_summary">Wi-Fi желісіне қосылғанда ғана жаңартуларды жүктеңіз.</string>
+    <string name="wifi_only_summary_chn">WLAN арқылы қосылғанда ғана жүктеледі.</string>
+    <string name="email_sanitize">Бұл электрондық пошта мазмұны қауіпсіздік себептеріне байланысты Gear ішінде көрсетілмейді. Мәліметтер алу үшін мобильді құрылғыңыздағы электрондық поштаны көріңіз.</string>
+    <string name="knox_sanitize">KNOX режимін енгізу үшін мына жерді түртіңіз.</string>
+</resources>

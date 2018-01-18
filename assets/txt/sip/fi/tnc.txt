@@ -1,0 +1,8 @@
+Samsung-näppäimistön ja puheentunnistuspalvelun käyttäminen
+1. Samsung-näppäimistö-palvelu käyttää palvelun osana puheentunnistustekniikkaa. Ymmärrät, että Samsung saattaa käyttää kolmannen osapuolen, Nuance Communications Inc:n (”Nuance”), tuottamaa puheentunnistuspalvelua (”Puheentunnistuspalvelu”), sekä ymmärrät ja hyväksyt seuraavat Samsung-näppäimistö-palvelun käyttöön liittyvät ehdot.
+2. Sitoudut olemaan lähettämättä mitään automaattisia tai tallennettuja pyyntöjä Samsung-näppäimistö-palveluun.  
+3. Ymmärrät, että puheentunnistuspalvelun tuottamisesta vastaava Nuance kerää Samsung-näppäimistö-palveluun sanelemasi sanat (kyseiset sanat sisältävät äänitallenteet, kirjalliset kopiot ja lokitiedostot mukaan lukien) (”Puhetiedot”).
+4. Ymmärrät ja hyväksyt, että Nuance voi puheentunnistuspalvelua tuottaessaan kerätä puhetietoja, joita Nuance ja sen kolmannen osapuolen kumppanit voivat käyttää (a) puheentunnistuspalvelun sekä (b) muiden Nuancen tuotteiden ja palveluiden säätämiseen, kehittämiseen ja parantamiseen.
+5. Ymmärrät ja hyväksyt, että puhetietosi voidaan siirtää Yhdysvaltoihin ja/tai muihin maihin, jotta Nuance ja sen kolmannen osapuolen kumppanit voivat tallentaa ne sekä käsitellä ja käyttää niitä.
+6. Kaikki luovuttamasi puhetiedot pidetään luottamuksellisina ja niitä käsitellään voimassa olevien lakien mukaisesti, mutta Nuance saattaa lakien tai määräysten noudattamiseksi tarvittaessa paljastaa ne esimerkiksi tuomioistuimen tai valtion viraston määräyksestä, jos se on lain mukaan luvallista tai tarpeen, tai antaa ne Nuancen hankkivan tai siihen yhdistyvän kolmannen osapuolen käyttöön.
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="attention_popup_body_app_is_not_installed">तपाईको मोबाइल यन्त्रमा %1$s स्थापना गरिएको छैन। तपाईको गियरमा %2$s को प्रयोग गर्नको लागि आफ्नो मोबाइल यन्त्रमा %1$s डाउनलोड गर्नुहोस्।</string>
+    <string name="attention_popup_title">ध्‍यान दिनुहोस्</string>
+    <string name="clock_new_clock_settings_applied_via_gear">गियर मार्फत नयाँ घडी सेटिङहरू लागू गरियो।</string>
+    <string name="invalid_rename_character">अमान्य वर्ण प्रविष्ट गरिएको छ। पुन: प्रयास गर्नुहोस्।</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="sa_email">ईमेल</string>
+    <string name="shealth_menu">S Health</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/LegalInformationParentLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginTop="0.0dip" android:layout_marginRight="@dimen/list_divider_side_margin">
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingOpenSourceLicensesLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_opensource" />
+        <include layout="@layout/settings_items_simple_divider" />
+        <com.samsung.android.gear2plugin.activity.setting.items.SettingSingleTextItem android:id="@id/settingSamsungLegalLinear" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setting_samsung_legal" />
+        <include layout="@layout/settings_items_simple_divider" />
+    </LinearLayout>
+</ScrollView>

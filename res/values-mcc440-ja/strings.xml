@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name_samsung_gear">Gear Manager</string>
+    <string name="closing_samsung_gear_message">Gearがリセットされました。まもなくGear Managerアプリケーションを終了します。</string>
+    <string name="closing_samsung_gear_title">Gear Managerアプリを終了</string>
+    <string name="cmw_legal_content_2">プライバシー規約</string>
+    <string name="login_to_samsung_account_desc">Gearでリモート接続を有効にするには、Galaxyアカウントにサインインしてください。</string>
+    <string name="login_to_samsung_account_full_desc">"Galaxyアカウントにサインインすると、Bluetoothで接続していない場合でも以下の機能を使用できるようになります。
+- 通知を受信
+- リモート接続でアプリケーションを使用
+リモート接続を使用すると、追加料金が発生する可能性があります。"</string>
+    <string name="menu_samsung_health">S Health</string>
+    <string name="menu_samsungapps">Galaxy Apps</string>
+    <string name="new_eula_sip">Galaxyキーボード</string>
+    <string name="no_remote_connection_popup_msg">自動通話転送を有効にするには、モバイル端末でGear Managerアプリケーションを起動し、[リモート接続]を有効にしてから再度実行してください。</string>
+    <string name="privacypolicy_samsung_privacy_policy">プライバシー規約</string>
+    <string name="sa_error_0203_desc">リモート接続を有効にするには、手動でGalaxyアカウントを更新してください。</string>
+    <string name="sa_error_0203_title">Galaxyアカウントを更新</string>
+    <string name="sa_error_0302_desc">端末でGalaxyアカウントにサインイン中に、ネットワークエラーが発生しました。</string>
+    <string name="samsung_gear">Gear Manager</string>
+    <string name="setting_samsung_legal">Galaxy規約</string>
+    <string name="the_samsung_gear_application">the Gear application</string>
+    <string name="threeg_connection_subtitle">Galaxyアカウントを使用して、モバイルデータまたはWi-FiでGearにリモート接続します。</string>
+    <string name="voicememo_link2">プライバシー規約</string>
+</resources>

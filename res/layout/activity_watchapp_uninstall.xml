@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:id="@id/watchapps_uninstall_blank_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="22.0sp" android:textColor="@color/no_item_text" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_downloaded_applications" style="@style/RobotoTextViewStyle" />
+        </LinearLayout>
+    </RelativeLayout>
+    <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:id="@id/watchapps_uninstall_list_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <ListView android:id="@id/watchapps_uninstall_list" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="true" android:splitMotionEvents="false" />
+            <View android:id="@id/watchapps_font_list_margin" android:layout_width="fill_parent" android:layout_height="@dimen/clocks_idle_clock_image_frame_margintop_marginTop" />
+            <com.samsung.android.gear2plugin.activity.setting.items.SettingDividerTextItem android:id="@id/fontUninstallDivider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_divider_side_margin" android:layout_marginRight="@dimen/list_divider_side_margin" android:text="@string/menu_downloaded_font" />
+            <ListView android:id="@id/font_uninstall_listview" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/myapps_list_layout_left_margin" android:layout_marginRight="@dimen/myapps_list_layout_right_margin" android:drawSelectorOnTop="true" android:divider="@drawable/manager_list_divider" android:splitMotionEvents="false" />
+            <RelativeLayout android:id="@id/background_dummy" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

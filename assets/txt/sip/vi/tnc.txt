@@ -1,0 +1,8 @@
+Bàn phím Samsung và việc sử dụng dịch vụ nhận dạng giọng nói
+
+1. Dịch vụ Bàn phím Samsung sử dụng công nghệ nhận dạng giọng nói như một thành phần của dịch vụ.  Bạn xác nhận rằng Samsung có thể sử dụng dịch vụ nhận dạng giọng nói ("Dịch vụ nhận dạng giọng nói") do bên thứ ba là Nuance Communications Inc. ("Nuance") cung cấp, đồng thời cũng xác nhận và đồng ý với các điều khoản sau liên quan tới việc sử dụng dịch vụ Bàn phím Samsung của bạn. 
+2. Bạn đồng ý không gửi bất kỳ yêu cầu được ghi âm hoặc tự động hóa nào tới dịch vụ Bàn phím Samsung. 
+3. Bạn xác nhận rằng các từ bạn đọc cho dịch vụ Bàn phím Samsung (bao gồm các bản ghi âm của những từ đó, các bản sao chép, file nhật ký có liên quan) (“Dữ liệu giọng nói”) sẽ được Nuance thu thập để cung cấp Dịch vụ nhận dạng giọng nói. 
+4. Bạn chấp nhận và đồng ý rằng với việc cung cấp Dịch vụ nhận dạng giọng nói, Nuance có thể thu thập Dữ liệu gọng nói mà Nuance hoặc các đối tác bên thứ ba của mình có thể sử dụng để điều chỉnh, nâng cao và cải thiện (a) Dịch vụ nhận dạng giọng nói cũng như (b) các sản phẩm và dịch vụ khác của Nuance. 
+5. Bạn xác nhận và đồng ý rằng Dữ liệu giọng nói của bạn có thể được chuyển tới Hoa Kỳ và/hoặc quốc gia khác để Nuance và các đối tác bên thứ ba của mình lưu trữ, xử lý và sử dụng . 
+6. Toàn bộ Dữ liệu giọng nói mà bạn cung cấp sẽ được bảo mật và sử dụng tuân theo luật pháp hiện hành, tuy nhiên trong trường hợp bắt buộc, Nuance có thể công khai dữ liệu đó nhằm đáp ứng các yêu cầu về pháp lý hoặc quy chế, chẳng hạn như theo lệnh của tòa án hoặc một cơ quan chính phủ nếu được yêu cầu hoặc được ủy quyền theo pháp luật, hoặc để cho bên thứ ba mua lại hoặc sáp nhập với Nuance.

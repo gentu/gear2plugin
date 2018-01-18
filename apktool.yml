@@ -1,0 +1,25 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Gear2PlugIn.apk
+compressionType: false
+doNotCompress:
+- arsc
+- txt
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '17'
+  targetSdkVersion: '22'
+sharedLibrary: false
+unknownFiles:
+  SEC-INF/buildConfirm.crt: '8'
+  SEC-INF/buildinfo.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.4-dirty
+versionInfo:
+  versionCode: '2117042161'
+  versionName: 2.2.02.17042161

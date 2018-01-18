@@ -1,0 +1,8 @@
+Samsung klaviaturası və Nitq Tanınması Xidmətlərindən İstifadə
+1. Samsung klaviaturası xidməti xidmətin komponenti kimi nitq tanınması xidmətlərindən istifadə edir. Siz Samsung-un üçüncü tərəf Nuance Communications Inc. (“Nuance”) tərəfindən təmin edilən nitq tanınması xidmətindən istifadə etdiyini qəbul edirsiniz və Samsung klaviaturası xidmətindən istifadə ilı bağlı aşağıdakılarla razılaşırsınız.
+2. Siz Samsung klaviaturası xidmətinə avtomatlaşdırılmış və ya yazılmış sorğular göndərməməyə dair razılaşırsınız.
+3. Siz qəbul edirsiniz ki, Samsung klaviaturası xidmətlərinə diktə etdiyiniz sözlər (belə sözlərin audio yazılışları, əlaqədar transkripsiyalar və jurnal faylları da daxildir) ("Nitq Məlumatları") Nitqin Tanınması Xidmətini təmin etmək məqsədilə Nuance tərəfindən toplanacaq.
+4. Nitqin Tanınması Xidmətini təmin edərkən Nuance-ın Nitq Məlumatları toplaya bilməsi və bu məlumatların (a) Nitqin Tanınması Xidmətini və (b) digər Nuance məhsullarını və xidmətlərini yaxşılaşdırmaq və təkmilləşdirmək üçün Nuance və onun üçüncü tərəf tərəfdaşları tərəfindən istifadə edilə bilməsi ilə razılaşırsınız.
+5. Siz qəbul edir və razılaşırsınız ki, sizin Nitq Məlumatlarınız Nuance və onun üçüncü tərəf tərəfdaşları tərəfindən saxlanma, emal və istifadə üçün ABŞ və/və ya digər ölkələrə göndərilə bilər.
+6. Təmin etdiyiniz istənilən və bütün Nitq Məlumatları məxfi saxlanacaq və müvafiq qanunvericiliyə uyğun şəkildə istifadə ediləcək, lakin hüquqi və ya tənzimləyici tələblərə cavab vermək üçün, məsələn, məhkəmə qərarı əsasında və ya qanunla icazə verilərsə, Nuance tərəfindən hökumət orqanına və ya Nuance-ı satın almış və ya onunla birləşmiş üçüncü tərəfə açıqlana bilər.
+

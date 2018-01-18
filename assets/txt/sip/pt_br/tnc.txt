@@ -1,0 +1,9 @@
+ Teclado Samsung e Uso do Serviço de Reconhecimento de Fala
+1. O serviço do Teclado Samsung usa a tecnologia do reconhecimento de fala como um componente do serviço. Você reconhece que a Samsung utilize o serviço de reconhecimento de fala (o “Serviço de Reconhecimento de Fala”) fornecido por um parceiro externo, a Nuance Communications Inc. (“Nuance”), e você compreende e concorda com o seguinte em relação ao seu uso do serviço de Teclado Samsung .
+2. Você concorda em não enviar qualquer solicitação automatizada ou gravada para o serviço de Teclado Samsung . 
+3. Você reconhece que as palavras ditadas para o serviço de Teclado Samsung (incluindo gravações de áudio de tais palavras, transcrições associadas e arquivos de registro) (“Dados da Fala”) serão reunidas pela Nuance para suprimento do Serviço de Reconhecimento de Fala.
+4. Você consente e concorda que, ao fornecer o Serviço de Reconhecimento de Fala, a Nuance pode coletar os Dados da Fala que podem ser usados pela Nuance e por seus parceiros externos para ajustar, aprimorar e melhorar (a) o Serviço de Reconhecimento de Fala e (b) outros produtos e serviços da Nuance. 
+5. Você consente e concorda que os seus Dados da Fala podem ser transferidos para os Estados Unidos e/ou outros países para armazenamento, processamento e uso pela Nuance e por seus parceiros externos.
+6. Todo e qualquer Dado da Fala fornecido por você será mantido em sigilo e será usado de acordo com leis aplicáveis, mas poderão ser divulgados pela Nuance, caso necessário, para o cumprimento de requisitos regulamentares sob ordem judicial, ou para uma agência governamental se exigido ou autorizado por lei, ou para terceiros que comprarem ou realizarem fusão com a Nuance.
+
+

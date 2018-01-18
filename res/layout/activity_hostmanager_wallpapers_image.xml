@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="center" android:background="@xml/xml_listitem_selector" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/wallpaper_frame_view" android:background="@drawable/manager_palette" android:layout_width="@dimen/home_bg_image_focus_size" android:layout_height="@dimen/home_bg_image_focus_size" />
+    <ImageView android:layout_gravity="center" android:id="@id/wallpaper_image_view" android:layout_width="@dimen/home_bg_image_size" android:layout_height="@dimen/home_bg_image_size" android:scaleType="center" />
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="@color/transparent" android:layout_width="@dimen/home_bg_image_size" android:layout_height="@dimen/home_bg_image_size">
+        <CheckBox android:layout_gravity="center|left|top" android:id="@id/delete_checkbox" android:focusable="false" android:visibility="gone" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="1.0dip" android:layout_marginTop="1.0dip" android:button="@drawable/manager_checkbox_btn" />
+    </LinearLayout>
+</FrameLayout>

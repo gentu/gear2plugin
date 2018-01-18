@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">ໃຊ້ບໍ່ໄດ້ໃນລະຫວ່າງການໂທ.</string>
+    <string name="actionbar_name">ຕົວຈັດການເກຍ</string>
+    <string name="alert_full_screen">ປັອບອັບເຕັມໜ້າຈໍ</string>
+    <string name="alert_mini">ປັອບອັບນ້ອຍ</string>
+    <string name="alertdialog_backkey_popup_content">ເຕືອນ</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ການປິດເຊື່ອມຕໍ່ຈະຈົບການເຊື່ອມຕໍ່ຂອງທ່ານກັບ %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s ຂອງທ່ານຈະຖືກຕັດເຊື່ອມຕໍ່ຈາກອຸປະກອນມືຖືຂອງທ່ານ. ຄັ້ງຕໍ່ໄປທີ່ທ່ານເຊື່ອມຕໍ່ອຸປະກອນນີ້, ທ່ານຕ້ອງໃຊ້ບລູທູດ. ຫຼັງຈາກນັ້ນ ສາມາດເຮັດການເຊື່ອມຕໍ່ໃດໜຶ່ງໄດ້ຜ່ານການເຊື່ອມຕໍ່ທາງໄກ.</string>
+    <string name="alertdialog_uninstall_popup_content">ຖອນການຕິດຕັ້ງ</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">ໂອນສາຍໂທອັດຕະໂນມັດ</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">ເປີດໃຊ້ງານການໂອນສາຍໂທອັດຕະໂນມັດ ໃນຂະນະທີ່ເກຍຂອງທ່ານຖືກຕັດເຊື່ອມຕໍ່ຈາກອຸປະກອນມືຖືຂອງທ່ານ. ອັນນີ້ຈະໂອນສາຍໂທເຂົ້າຂອງທ່ານຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານ ຈົນກວ່າອຸປະກອນເຊື່ອມຕໍ່ໃໝ່ແລ້ວ.</string>
+    <string name="auto_update">ອັບເດດອັດຕະໂນມັດ</string>
+    <string name="auto_update_summary">ກວດສອບຫາການອັບເດດອັດຕະໂນມັດ.</string>
+    <string name="backing_up">ກໍາລັງສໍາຮອງ…</string>
+    <string name="backup_complete">ການແບັກອັບສໍາເລັດ.</string>
+    <string name="bnr_backup">ກໍາລັງສໍາຮອງ…</string>
+    <string name="bnr_bakcup_title">ສໍາຮອງ</string>
+    <string name="bnr_cancel">ຍົກເລີກ</string>
+    <string name="bnr_canel">ຍົກເລີກ</string>
+    <string name="bnr_except">%1$s (ຍົກເວັ້ນ %2$s)</string>
+    <string name="bnr_except_autolock">ລັອກອັດຕະໂນມັດ</string>
+    <string name="bnr_except_remoteconnection">ການເຊື່ອມຕໍ່ທາງໄກ</string>
+    <string name="bnr_except_texttemplate">ເທັມເພຣດຂໍ້ຄວາມ</string>
+    <string name="bnr_no">No</string>
+    <string name="bnr_ok">ຕົກລົງ</string>
+    <string name="bnr_reset_gear">ເພື່ອເຊື່ອມຕໍ່ກັບເຄື່ອງໃໝ່, ເກຍຈະຖືກຕັ້ງຄ່າຄືນໃໝ່ໄປເປັນການຕັ້ງຄ່າໂຮງງານຂອງມັນ.</string>
+    <string name="bnr_reset_gear_move_setupwizard">ເກຍບໍ່ໄດ້ຮັບການຕັ້ງຢ່າງເຕັມສ່ວນ. ປະຈຸບັນນີ້ ການຕັ້ງອັດຕະໂນມັດເປີດຢູ່ໃນເກຍ, ແຕ່ເພື່ອທີ່ຈະເຊື່ອມຕໍ່ກັບເກຍ ທ່ານຕ້ອງເປີດການຕັ້ງອັດຕະໂນມັດຢູ່ໃນ Gear Manager ຢູ່ໃນເຄື່ອງນີ້ຄືກັນ.</string>
+    <string name="bnr_reset_initialization">ແຈ້ງການ</string>
+    <string name="bnr_restored">ຣີສະຕໍຂໍ້ມູນຄືນແລ້ວ.</string>
+    <string name="bnr_yes">ແມ່ນແລ້ວ</string>
+    <string name="bt_connected">ເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="bt_disconnected">ປິດເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="bt_unpaired">ບໍ່ໄດ້ຈັບຄູ່</string>
+    <string name="button_restore">ຮື້ຟື້ນກັບຄືນ</string>
+    <string name="call">ໂທ</string>
+    <string name="call_check_gear_status_when_cfwd">ຟັງຄ໌ຊັນການໂອນສາຍມືຖືຫາເກຍ ແລະເກຍຫາມືຖືບໍ່ສາມາດເປີດໃຊ້ງານໃນເວລາດຽວກັນໄດ້.</string>
+    <string name="call_dualsim1">ແຜ່ນ SIM 1</string>
+    <string name="call_dualsim1sim2">ທັງສອງ SIM</string>
+    <string name="call_dualsim2">ແຜ່ນ SIM 2</string>
+    <string name="call_forwarding">ການໂອນສາຍໂທ</string>
+    <string name="call_forwarding_agree">ຂ້ອຍເຫັນດີ.</string>
+    <string name="call_forwarding_desc">ໂອນສາຍໂທເຂົ້າຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານ.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">ໄດ້ສະເໜີຂໍປິດໃຊ້ງານການໂອນສາຍຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານແລ້ວ. ສະຖານະຂອງເຄືອຂ່າຍມືຖື ແລະອຸປະກອນມືຖືຂອງທ່ານອາດມີຜົນຕໍ່ຜົນໄດ້ຮັບ.</string>
+    <string name="call_forwarding_enable_msg">ໄດ້ສະເໜີຂໍເປີດໃຊ້ງານການໂອນສາຍຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານແລ້ວ. ສະຖານະຂອງເຄືອຂ່າຍມືຖື ແລະອຸປະກອນມືຖືຂອງທ່ານອາດມີຜົນຕໍ່ຜົນໄດ້ຮັບ.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">ການໂອນສາຍຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານເປີດ​ໃຊ້​ງານ​ແລ້ວໃນ​ປະ​ຈຸ​ບັນ. ສາຍໂທເຂົ້າຫາອຸປະກອນມືຖືຂອງທ່ານຈະຖືກໂອນໄປຫາເກຍຂອງທ່ານ. ຖ້າ​ທ່ານ​ບໍ່​ມີ​ເກຍ​ຂອງ​ທ່ານ​ຢູ່​ກັບ​ທ່ານ, ໄປ​ທີ່​ການ​ຕັ້ງ​ຄ່າ ແລະ​ປິດ​ໃຊ້​ງານ​ການ​ໂອນ​ສາຍ​ອັດ​ຕະ​ໂນ​ມັດ ເພື່ອ​ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ທ່ານ​ບໍ່​ໄດ້​ພາດ​ໄປ​ຈາກ​ສາຍ​ໂທ​ໃດ.</string>
+    <string name="call_forwarding_turning_off_notify_msg">ກໍາລັງປິດໃຊ້ການໂອສາຍການໂທແບບໃຊ້ສຽງ…</string>
+    <string name="call_forwarding_turning_on_notify_msg">ກໍາລັງເປີດໃຊ້ການໂອສາຍການໂທແບບໃຊ້ສຽງ…</string>
+    <string name="call_no_gear_number">ບໍ່ມີເລກໝາຍ</string>
+    <string name="call_select_dualsim_title">ເລືອກແຜ່ນ SIM</string>
+    <string name="call_voice_control">ການຄວບຄຸມສຽງ</string>
+    <string name="callforwarding_help_des1">ການ​ສະ​ຫຼັບ​ອຸ​ປະ​ກອນ​ທີ່​ໂທ​ຈະ​ຖືກ​ສົ່ງ​ໄປ​ຕໍ່​ອັດ​ຕະ​ໂນ​ມັດ, ຂຶ້ນ​ຢູ່​ກັບ​ວ່າ ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ເຊື່ອມ​ຕໍ່​ຜ່ານບ​ລູ​ທູດ ຫຼື​ການ​ເຊື່ອມ​ຕໍ່​ທາງ​ໄກ.</string>
+    <string name="callforwarding_help_des2">ຮັບ​ສາຍ​ໂທ​ທີ່​ໂທ​ຫາ​ອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານ​ຢູ່​ເທິງ​ເກຍ​ຂອງ​ທ່ານ ໃນ​ຂະ​ນະ​ທີ່​ທ່ານ​ກຳ​ລັງ​ຍ້າຍ ແລະ​ສວມ​ໃສ່​ເກຍ ແລະ​ມັນ​ເຊື່ອມ​ຕໍ່​ກັບ​ອຸ​ປະ​ກອນ​ມື​ຖື​ທາງ​ໄກ​ແລ້ວ.</string>
+    <string name="cancel">ຍົກເລີກ</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">ບໍ່ສາມາດປິດໃຊ້ງານການໂອນສາຍໂທໄດ້.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">ດາວໂຫຼດໂມງເພີ່ມອີກ</string>
+    <string name="clocks_noti_uninstall_clock">%s ຈະຖືກຖອນການຕິດຕັ້ງ.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s ຈະຖືກຖອນຕິດຕັ້ງ ແລະ %2$s ຈະຖືກຕັ້ງເປັນໂມງມາດຕະຖານ.</string>
+    <string name="clocks_title_basic_clocks">ໂມງພື້ນຖານ</string>
+    <string name="clocks_title_downloaded_clocks">ໂມງທີ່ດາວໂຫຼດແລ້ວ</string>
+    <string name="clocks_title_style_clocks">ໂມງສະໄຕລ໌</string>
+    <string name="clocks_uninstalled">ຖອນການຕິດຕັ້ງ ສຳເລັດແລ້ວ.</string>
+    <string name="clocks_uninstalling">ກໍາລັງຖອນການຕິດຕັ້ງ…</string>
+    <string name="close">ປິດ</string>
+    <string name="closing_samsung_gear_message">ຕັ້ງຄ່າເກຍຂອງທ່ານຄືນແລ້ວ. ແອພພລິເຄຊັນ Samsung Gear ຈະປິດໄວໆນີ້.</string>
+    <string name="closing_samsung_gear_title">ປິດແອພພລິເຄຊັນ Samsung Gear</string>
+    <string name="cloud_backup_no_information">ບໍ່</string>
+    <string name="cloud_backup_restore_backup_now">ແບັກອັບຂໍ້ມູນ</string>
+    <string name="cloud_backup_restore_restore_now">ເອົາຂໍ້ມູນກັບຄືນ</string>
+    <string name="cmw_agree">ຂ້ອຍເຫັນດີ</string>
+    <string name="cmw_eula_agree">ຂ້ອຍເຂົ້າໃຈ ແລະເຫັນດີກັບຂໍ້ກໍານົດ ແລະເງື່ອນໄຂຂ້າງເທິງ.</string>
+    <string name="cmw_for_setting">ການບໍລິການລະບຸຕຳແໜ່ງຖືກປິດໃຊ້ງານແລ້ວ. ໄປຫາການຕັ້ງຄ່າ.</string>
+    <string name="cmw_high_accuracy_dialog_message">ເພື່ອການກວດຫາສະຖານທີ່ໄດ້ໄວ ແລະຖືກຕ້ອງທີ່ສຸດ, ເລືອກຄວາມຖືກຕ້ອງສູງຢູ່ໃນທີ່ຕັ້ງ > ໂໝດ.</string>
+    <string name="cmw_high_accuracy_dialog_title">ເລືອກຄວາມຖືກຕ້ອງສູງ</string>
+    <string name="cmw_legal_content">ໂດຍການເປີດໃຊ້ງານ “ແຊຣ໌ຈຸດທີ່ຕັ້ງ”, ທ່ານເຫັນດີວ່າ ຂໍ້ມູນຈຸດທີ່ຕັ້ງກ່ຽວຂ້ອງກັບໂທລະສັບມືຖືຂອງທ່ານ ແລະ/ຫຼືອຸປະກອນເກຍຈະຖືກສົ່ງຜ່ານເຊີບເວີຊໍາຊຸງ ເພື່ອໃຫ້ການບໍລິການຊອກຫາເກຍຂອງຂ້ອຍ ແລະຊອກຫາມືຖືຂອງຂ້ອຍ. ບໍ່ມີຂໍ້ມູນ ຫຼືຂໍ້ມູນກ່ຽວກັບຈຸດທີ່ຕັ້ງອຸປະກອນຂອງທ່ານຖືກເກັບໄວ້ຢູ່ໃນເຊີບເວີຊໍາຊຸງແລ້ວ.</string>
+    <string name="cmw_legal_content1">ໂດຍການເປີດໃຊ້ງານ \"%1$s &amp; %2$s\", ທ່ານຮັບຮູ້ວ່າຂໍ້ມູນຈຸດທີ່ຕັ້ງຂອງທ່ານ ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບມືຖື ແລະ/ຫຼືອຸປະກອນເກຍ ຂອງ​ທ່ານ ຈະຖືກສົ່ງຜ່ານເຊີບເວີຊໍາຊຸງ ເພື່ອ​ໃຫ້ການບໍລິການ %1$s &amp; %2$s. ບໍ່ມີຂໍ້ມູນ​ໃດ ກ່ຽວກັບຈຸດທີ່ຕັ້ງອຸປະກອນຂອງທ່ານ​ໄດ້ຖືກເກັບໄວ້ຢູ່ໃນເຊີບເວີຊໍາຊຸງ.</string>
+    <string name="cmw_legal_content1_no_gps">ໂດຍການເປີດໃຊ້ງານ \"%1$s &amp; %2$s\", ທ່ານຮັບຮູ້ວ່າຂໍ້ມູນຈຸດທີ່ຕັ້ງຂອງທ່ານ ທີ່ກ່ຽວຂ້ອງກັບໂທລະສັບມືຖືຂອງ​ທ່ານ ຈະຖືກສົ່ງຜ່ານເຊີບເວີຊໍາຊຸງ ເພື່ອ​ໃຫ້ການບໍລິການ %2$s. ບໍ່ມີຂໍ້ມູນ​ໃດ ກ່ຽວກັບຈຸດທີ່ຕັ້ງອຸປະກອນຂອງທ່ານ​ໄດ້ຖືກເກັບໄວ້ຢູ່ໃນເຊີບເວີຊໍາຊຸງ.</string>
+    <string name="cmw_legal_content_2">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງຊຳຊຸງ</string>
+    <string name="cmw_legal_title">Legal notices</string>
+    <string name="cmw_location">ເປີດໃຊ້ງານການບໍລິການທີ່ຕັ້ງ</string>
+    <string name="cmw_show_on_map">ສະແດງຢູ່ໃນແຜນທີ່</string>
+    <string name="color_black">ສີດໍາ</string>
+    <string name="color_blue">ສີຟ້າ</string>
+    <string name="color_brown">ສີນໍ້າຕານ</string>
+    <string name="color_gray">ສີເທົາ</string>
+    <string name="color_green">ສີຂຽວ</string>
+    <string name="color_light_sky_blue">ສີຟ້າຄາມຈືດ</string>
+    <string name="color_medium_purple">ສີມ່ວງກາງ</string>
+    <string name="color_orange">ໝາກກ້ຽງ</string>
+    <string name="color_pink">ສີບົວ</string>
+    <string name="color_purple">ສີມ່ວງ</string>
+    <string name="color_red">ສີ​ແດງ</string>
+    <string name="color_spring_green">ສີຂຽວລະດູບານໃໝ່</string>
+    <string name="common_none">ບໍ່ມີ</string>
+    <string name="common_off">ປິດ</string>
+    <string name="common_on">ເປີດ</string>
+    <string name="common_recent_apps">ແອັບບໍ່ດົນນີ້</string>
+    <string name="connect_popup_content">ກຳລັງເຊື່ອມຕໍ່ກັບ %s…</string>
+    <string name="connected_by_trasport_BT">ເຊື່ອມຕໍ່ຜ່ານບລູທູດແລ້ວ</string>
+    <string name="connected_by_trasport_SCS">ເຊື່ອມຕໍ່ທາງໄກແລ້ວ</string>
+    <string name="connecting_popup_message">ກໍາລັງເຊື່ອມຕໍ່ກັບເກຍ…</string>
+    <string name="connecting_popup_title">ເຊື່ອມຕໍ່ກັບເກຍ</string>
+    <string name="dialog_check_phone_number_msg1">ເບິ່ງ​ໃຫ້​ແນ່​ໃຈ​ວ່າ ຂໍ້​ມູນ​ຕໍ່​ໄປ​ນີ້​ຖືກ​ຕ້ອງ​ແລ້ວ​ຄື:</string>
+    <string name="dialog_check_phone_number_msg2">ເບີໂທລະສັບມືຖື: %s</string>
+    <string name="dialog_check_phone_number_msg3">ເບີໂທລະສັບເກຍ: %s</string>
+    <string name="dialog_check_phone_number_msg4">ແຕະຕົກລົງ ເພື່ອຢືນ​ຢັນ ແລະ​ເປີດໃຊ້ງານໂອນສາຍໂທອັດຕະໂນມັດ.</string>
+    <string name="dialog_enable_remote_connection_desc">ເພື່ອເປີດໃຊ້ງານການໂອນສາຍອັດຕະໂນມັດ, ເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ, ຈາກນັ້ນລອງໃໝ່ອີກ.</string>
+    <string name="dialog_enable_remote_connection_title">ເປີດ​ໃຊ້​ງານການເຊື່ອມຕໍ່ທາງໄກ</string>
+    <string name="dialog_reverse_msg">ຂຶ້ນຢູ່ກັບຜູ້ໃຫ້ບໍລິການຂອງທ່ານ, ອາດຈໍາເປັນຕ້ອງໄດ້ມີການສະໝັກແຍກ ເພື່ອໃຫ້ອຸປະກອນມືຖືຂອງທ່ານໃຊ້ຟີເຈີນີ້. ອັນນີ້ອາດຈະມີຜົນເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ.</string>
+    <string name="dialog_set_phone_number_msg">ເພື່ອ​ເປີດ​ໃຊ້​ງານ​ການ​ໂອນ​ສາຍ​ໂທ​ອັດ​ຕະ​ໂນ​ມັດ, ຕັ້ງ​ເບີ​ໂທ​ລະ​ສັບ​ຂອງ​ອຸ​ປະ​ກອນ ທີ່​ທ່ານ​ຕ້ອງ​ການ​ໂອນ​ສາຍ​ເຂົ້າ​ໄປ​ຫາ ແລະ​ຈາກ.</string>
+    <string name="dialog_set_phone_number_title">ເປີດໃຊ້ງານການໂອນສາຍອັດຕະໂນມັດ</string>
+    <string name="disable_loc_text">ແຊຣ໌ທີ່ຕັ້ງປິດໃຊ້ງານ. ທ່ານຈະບໍ່ສາມາດໃຊ້ຂໍ້ມູນທີ່ຕັ້ງ ເພື່ອຄົ້ນຫາເກຍ ຫຼືອຸປະກອນມືຖືຂອງທ່ານຜ່ານຊອກຫາເກຍຂອງຂ້ອຍ ຫຼືຊອກຫາອຸປະກອນຂອງຂ້ອຍໄດ້.</string>
+    <string name="disable_loc_text_no_gps">ແຊຣ໌ທີ່ຕັ້ງຈະຖືກປິດໃຊ້ງານ. ທ່ານຈະບໍ່ສາມາດໃຊ້ຂໍ້ມູນທີ່ຕັ້ງ ເພື່ອຄົ້ນຫາເກຍ ຫຼືອຸປະກອນມືຖືຂອງທ່ານຜ່ານຊອກຫາອຸປະກອນຂອງຂ້ອຍໄດ້.</string>
+    <string name="disable_remote_connection">ປິດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ</string>
+    <string name="disable_remote_connection_fmm_fmd">ຊອກ​ຫາ​ເກຍ​ຂອງ​ຂ້ອຍ ແລະ​ຊອກ​ຫາ​ອຸ​ປະ​ກອນ​ຂອງ​ຂ້ອຍ</string>
+    <string name="disable_remote_connection_receiving_blocked">ການ​ຮັບ​ຂໍ້​ຄວາມ, ອີ​ເມ​ລ໌, ແລະ​ການ​ແຈ້ງ​ເຕືອນ​ຈາກ​ອຸ​ປະ​ກອນ​ມື​ຖື</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">ການ​ຮັບອີ​ເມ​ລ໌ ແລະ​ການ​ແຈ້ງ​ເຕືອນ​ຈາກ​ອຸ​ປະ​ກອນ​ມື​ຖື</string>
+    <string name="disable_remote_connection_warning">ການເຊື່ອມຕໍ່ທາງໄກຈະຖືກປິດໃຊ້ງານ. ຟັງຄ໌ຊັນຕໍ່ໄປນີ້ຈະບໍ່ມີຢູ່ ຈົນກວ່າເກຍຂອງທ່ານເຊື່ອມຕໍ່ກັບອຸປະກອນມືຖືຂອງທ່ານຜ່ານບລູທູດອີກ:</string>
+    <string name="disable_share_location">ປິດໃຊ້ງານແຊຣ໌ທີ່ຕັ້ງ</string>
+    <string name="disconnect_popup_content">ກໍາລັງຢຸດເຊື່ອມຕໍ່ %s…</string>
+    <string name="do_not_show_again">ບໍ່ຕ້ອງສະແດງອີກ</string>
+    <string name="enable_auto_call_forwarding_msg">ໂອນສາຍໂທເຂົ້າຈາກອຸປະກອນມືຖືຂອງທ່ານໄປຫາເກຍຂອງທ່ານອັດຕະໂນມັດ ໃນຂະນະທີ່ເກຍຖືກຕັດເຊື່ອມຕໍ່. ຂຶ້ນຢູ່ກັບຜູ້ໃຫ້ບໍລິການຂອງທ່ານ, ອັນນີ້ອາດຈະເຮັດໃຫ້ເສຍຄ່າເພີ່ມໄດ້. ແຕະຕົກລົງ ເພື່ອເປີດໃຊ້ງານໂອນສາຍອັດຕະໂນມັດ.</string>
+    <string name="enable_auto_call_forwarding_title">ເປີດໃຊ້ງານການໂອນສາຍອັດຕະໂນມັດ</string>
+    <string name="enable_more_notifications_enable">ເປີດໃຫ້ໃຊ້ງານໄດ້</string>
+    <string name="enable_notification_access">ເປີດໃຊ້ງານການເຂົ້າໃຊ້ການແຈ້ງເຕືອນ</string>
+    <string name="enable_notification_access_desc">"ຟັງຄ໌ຊັນນີ້ຈະສາມາດອ່ານທຸກການແຈ້ງເຕືອນທີ່ທ່ານໄດ້ຮັບ, ເຊິ່ງອາດຈະລວມມີຂໍ້ມູນສ່ວນຕົວເຊັ່ນ ຜູ້ຕິດຕໍ່ ແລະຂໍ້ຄວາມທີ່ສົ່ງໃຫ້ທ່ານ. ມັນຍັງຈະສາມາດປ່ອຍການແຈ້ງເຕືອນເຫຼົ່ານີ້ໄປ ຫຼືເລືອກການດໍາເນີນການທີ່ກ່ຽວຂ້ອງກັບມັນໄດ້.
+ເພື່ອຮັບການແຈ້ງເຕືອນຢູ່ໃນເກຍຂອງທ່ານ, ແຕະເປີດໃຊ້ງານ, ຈາກນັ້ນເປີດໃຊ້ງານ %s."</string>
+    <string name="enable_share_location">ປິດໃຊ້ງານແຊຣ໌ທີ່ຕັ້ງ</string>
+    <string name="enabled_loc">ເປີດໃຊ້ງານແຊຣ໌ທີ່ຕັ້ງແລ້ວ.</string>
+    <string name="error_enter_device_name">ໃສ່ຊື່ເຄື່ອງເຂົ້າໄປ.</string>
+    <string name="error_occurred">ຄວາມຜິດພາດເກີດຂຶ້ນ.</string>
+    <string name="find_my_device">ຊອກຫາເຄື່ອງຂອງຂ້ອຍ</string>
+    <string name="find_my_gear">ຊອກຫາເກຍຂອງຂ້ອຍ</string>
+    <string name="find_watch_btn_start">ເລີ່ມຕົ້ນ</string>
+    <string name="find_watch_btn_stop">ຢຸດ</string>
+    <string name="find_watch_off">ເພື່ອຊອກຫາເກຍຂອງທ່ານ, ແຕະເລີ່ມຕົ້ນ. ເກຍຈະຫຼິ້ນສຽງ ແລະໜ້າຈໍຂອງມັນຈະເປີດຂຶ້ນ.</string>
+    <string name="find_watch_on">ເພື່ອຢຸດການຊອກຫາເກຍຂອງທ່ານ, ແຕະຢຸດ. ເກຍຈະຢຸດເປີດສຽງ ແລະໜ້າຈໍຂອງມັນຈະປິດ.</string>
+    <string name="font_gear_name">ເກຍ</string>
+    <string name="font_noti_uninstall_idle_font">%1$s ຈະຖືກຖອນຕິດຕັ້ງ, ແລະແບບຕົວໜັງສືມາດຕະຖານຈະໃຊ້ %2$s ຂອງທ່ານ.</string>
+    <string name="force_wifi_direct_msg">ແອພພລິເຄຊັນຈະຖືກຕິດຕັ້ງຜ່ານ Wi-Fi Direct. ອັນນີ້ຈະສິ້ນສຸດການເຊື່ອມຕໍ່ Wi-Fi Direct ປະຈຸບັນຂອງທ່ານ. ຖ້າທ່ານຍົກເລີກການຕິດຕັ້ງນີ້, ທ່ານຈະຕ້ອງໄດ້ດາວໂຫຼດແອພພລິເຄຊັນນີ້ອີກ ເພື່ອຕິດຕັ້ງມັນ.</string>
+    <string name="force_wifi_direct_title">ຕິດຕັ້ງ</string>
+    <string name="force_wifi_install">ຕິດຕັ້ງ</string>
+    <string name="gear2_backup_confirm_text">ຖ້າທ່ານແບັກອັບຂໍ້ມູນຂອງທ່ານດຽວນີ້, ຂໍ້ມູນແບັກອັບເກຍຢູ່ໃນໂທລະສັບມືຖືຈະຖືກປ່ຽນແທນດ້ວຍຂໍ້ມູນເກຍຫຼ້າສຸດຂອງທ່ານ.</string>
+    <string name="gear2_restore_confirm_text">ຖ້າທ່ານຣີສະຕໍ້ຂໍ້ມູນຂອງທ່ານຄືນ, ຂໍ້ມູນປະຈຸບັນຢູ່ໃນເກຍຂອງທ່ານຈະຖືກລຶບ ແລະຖືກແທນທີ່ດ້ວຍຂໍ້ມູນແບັກອັບເກຍ.</string>
+    <string name="gear2_text">"ໃຊ້ບ່ອນເກັບຂໍ້ມູນເຄື່ອງຂອງທ່ານ ເພື່ອແບັກອັບເນື້ອໃນ %1$s ຂອງທ່ານ:
+%2$s
+
+ຖ້າທ່ານໄດ້ແບັກອັບເນື້ອໃນນີ້ມາກ່ອນແລ້ວ, ທ່ານສາມາດຣີສະຕໍມັນໄປໃສ່ %3$s ໄດ້ດຽວນີ້.
+
+ຂຶ້ນຢູ່ກັບຂະໜາດຂອງໄຟລ໌, ມັນອາດຈະໃຊ້ເວລາດົນ."</string>
+    <string name="gear2_text_import3">ຕັ້ງຄ່າ</string>
+    <string name="gear_bnr_desc">"ໃຊ້ບ່ອນເກັບຂໍ້ມູນໂທລະສັບມືຖືຂອງທ່ານ ເພື່ອແບັກອັບຂໍ້ມູນ %1$s ຕໍ່ໄປນີ້: %2$s
+
+ຖ້າທ່ານໄດ້ແບັກອັບຂໍ້ມູນ %3$s ຂອງທ່ານມາກ່ອນ, ທ່ານສາມາດຣີສະຕໍມັນໃສ່ %4$s ຂອງທ່ານໄດ້ດຽວນີ້.
+
+ອັນນີ້ອາດຈະໃຊ້ເວລາ ຂຶ້ນຢູ່ກັບຂະໜາດຂອງໄຟລ໌."</string>
+    <string name="gear_location_popup_message">ໂທລະສັບມືຖືຂອງທ່ານກໍາລັງສະແກນຫາເກຍຂອງທ່ານຢູ່ໃນເວລານີ້. ອັນນີ້ຈະໃຊ້ເວລາຫຼາຍນາທີ. ມັນອາດຈະຍາກທີ່ຈະບອກທີ່ຕັ້ງເກຍຂອງທ່ານໄດ້ ຖ້າມັນຢູ່ໃນຮົ່ມ.</string>
+    <string name="gear_location_popup_title">ກໍານົດທີ່ຕັ້ງເກຍ</string>
+    <string name="gear_location_text">ທີ່ຕັ້ງເກຍ</string>
+    <string name="gear_lock_success">ລັອກເກຍແລ້ວ.</string>
+    <string name="gear_lock_text">ລັອກເກຍ</string>
+    <string name="gear_locked">ລັອກເກຍແລ້ວ</string>
+    <string name="gear_locked_text1">ລັອກເກຍແລ້ວ. ເພື່ອປົດ​ລັອກ, ເຊື່ອມຕໍ່ເກຍກັບອຸປະກອນມືຖືຜ່ານບລູທູດ.</string>
+    <string name="gear_phone_number">ເບີໂທລະສັບເກຍ</string>
+    <string name="gear_phone_number_popup_desc">ທຸກສາຍໂທຫາອຸປະກອນມືຖືຂອງທ່ານຈະຖືກໂອນໄປຫາ %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">ເພື່ອລັອກເກຍຂອງທ່ານ, ກ່ອນອື່ນຕ້ອງເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">ເພື່ອຕັ້ງເກຍຂອງທ່ານໃໝ່, ກ່ອນອື່ນຕ້ອງເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ.</string>
+    <string name="gear_reset_text">ຕັ້ງເກຍຄືນໃໝ່</string>
+    <string name="gear_to_mobile">ເກຍຫາມືຖື</string>
+    <string name="gear_to_mobile_des">ຮັບ​ສາຍ​ທີ່​ໂທ​ຫາ​ເກຍ​ຂອງ​ທ່ານຢູ່​ໃນ​ອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານ ໃນ​ຂະ​ນະ​ທີ່​ອຸ​ປະ​ກອນສອງ​ອັນ​ເຊື່ອມ​ຕໍ່ກັນ​ຜ່ານບ​ລູ​ທູດ​ແລ້ວ.</string>
+    <string name="gear_unable_to_locate_message">ຊອກຫາທີ່ຕັ້ງບໍ່ສໍາເລັດ. ລອງອີກພາຍຫຼັງ.</string>
+    <string name="gear_unable_to_locate_title">ບໍ່ສາມາດກໍານົດເກຍໄດ້</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">ວອລເປເປີ</string>
+    <string name="home_bg_color">ສີ</string>
+    <string name="home_bg_colors_title">ສີທີ່ມີຢູ່</string>
+    <string name="home_bg_delete_actionbar_selected">​ປຸ່ມເລືອກ</string>
+    <string name="home_bg_delete_dialog_msg">ຈະເອົາ %d ວອລເປເປີອອກໄປຈາກຕົວຈັດການເກຍ ແລະເກຍຂອງທ່ານ.</string>
+    <string name="home_bg_delete_select_all">ເລືອກທັງໝົດ</string>
+    <string name="home_bg_max_more_image_toast">ຮອດຈໍານວນວອລເປເປີສູງສຸດ (%d) ແລ້ວ.</string>
+    <string name="home_bg_more_images">ຮູບເພີ່ມເຕີມ</string>
+    <string name="home_bg_popup_wallpaper_msg">ກໍາລັງດາວໂຫຼດວອລເປເປີເກຍ…</string>
+    <string name="home_bg_popup_wallpaper_title">ດາວໂຫຼດວອລເປເປີ</string>
+    <string name="home_bg_toast_saved">ບັນທຶກ​ແລ້ວ</string>
+    <string name="home_bg_wallpaper">ວອລເປເປີອັດ</string>
+    <string name="home_bg_wallpapers_title">ວອລເປເປີທີ່ມີຢູ່</string>
+    <string name="homelayout_apps">ແອພພລິເຄຊັນ</string>
+    <string name="incoming_calls_title">ສາຍໂທເຂົ້າ</string>
+    <string name="info_build_number">ເວີເຊິນຊອບແວ</string>
+    <string name="info_model_number">ລະຫັດລຸ້ນ</string>
+    <string name="info_software_update">ອັບເດດຊອບແວ</string>
+    <string name="information_provision_agreement">ຂໍ້ຕົກລົງການໃຫ້ຂໍ້ມູນ</string>
+    <string name="information_provision_agreement_mgs">"ບັນທຶກສຽງນໍາໃຊ້ເຕັກໂນໂລຊີການຮັບຮູ້ສຽງທີ່ທາງຜູ້ໃຫ້ບໍລິການບຸກຄົນທີສາມທີ່ເອີ້ນວ່າບໍລິສັດ Nuance Communications, Inc ເປັນຜູ້ຈັດໃຫ້. ດັ່ງນັ້ນ, ຈິ່ງເປັນທີ່ບໍ່ສາມາດຫຼີກເວັ້ນໄດ້ວ່າ ຂໍ້ມູນສຽງຂອງທ່ານຈະຖືກເກັບໄວ້ຢູ່ໃນເຊີບເວີທີ່ທາງບໍລິສັດ Nuance (ຢູ່ໃນສະຫະລັດ) ເປັນຜູ້ດໍາເນີນການ, ແລະການໃຊ້ບັນທຶກສຽງນັ້ນ ທ່ານຈໍາເປັນຕ້ອງຕົກລົງເຫັນດີກັບ ຂໍ້ກໍານົດ ແລະເງື່ອນໄຂຂອງບໍລິສັດ Nuance.
+ ບໍລິສັດ Nuance ສະຫງວນສິດທີ່ຈະໃຊ້ການປ້ອນສຽງຂອງທ່ານ ເພື່ອຈຸດປະສົງໃນການປັບປຸງການບໍລິການ ແລະພັດທະນາເຕັກໂນໂລຊີຕ່າງໆ. ບໍລິສັດ Nuance ຍັງສະຫງວນສິດທີ່ຈະເອົາການປ້ອນສຽງທີ່ກ່າວມານັ້ນໃຫ້ກັບຫຸ້ນສ່ວນຂອງບໍລິສັດ Nuance. ຂໍ້ມູນການປ້ອນສຽງຂອງທ່ານຈະຖືກເກັບໄວ້ໄປຈົນກ່ວາບັນລຸຕາມຈຸດປະສົງທີ່ກ່າວມາກ່ອນແລ້ວນັ້ນ. ສໍາລັບຂໍ້ມູນກ່ຽວກັບການບໍລິການບັນທຶກສຽງ, ກະລຸນາອ່ານ ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງຊໍາຊຸງ ແລະ ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງບໍລິສັດ Nuance.
+ ທ່ານບໍ່ສາມາດໃຊ້ບັນທຶກສຽງໄດ້ ຖ້າທ່ານບໍ່ຕົກລົງເຫັນດີກັບການໃຫ້ຂໍ້ມູນຂອງທ່ານທີ່ໄດ້ກ່າວມາຂ້າງເທິງນັ້ນ."</string>
+    <string name="init_manage_notifications_desc">ເລືອກແອພພລິເຄຊັນທີ່ທ່ານຕ້ອງການຮັບການແຈ້ງເຕືອນຈາກ %1$s ຂອງທ່ານ. ເພື່ອປະຢັດໄຟແບັດເຕີຣີຂອງ %2$s ຂອງທ່ານ, ຖອນເລືອກແອພພລິເຄຊັນທີ່ທ່ານບໍ່ຕ້ອງການໃຫ້ມີການແຈ້ງເຕືອນຈາກ.</string>
+    <string name="install_in_progress">ຄືບໜ້າ…</string>
+    <string name="latitude">ເສັ້ນຂະໜານ</string>
+    <string name="limit_notification_desc">ບລັອກການເຕືອນຈາກທີ່ປະກົດຂຶ້ນຢູ່ໃນເກຍ ໃນຂະນະທີ່ກໍາລັງໃຊ້ໂທລະສັບມືຖືຢູ່.</string>
+    <string name="limit_notification_dialog_desc">ບໍ່ສາມາດເປີດໃຊ້ງານຈໍາກັດການເຕືອນຢູ່ໃນເກຍຂອງທ່ານໄດ້. ບໍ່ໄດ້ຕັ້ງຄ່າລັອກໜ້າຈໍຢູ່ໃນໂທລະສັບມືຖືຂອງທ່ານ.</string>
+    <string name="limit_notification_title">ຈໍາກັດການແຈ້ງເຕືອນ</string>
+    <string name="location_info_title">ແຊຣ໌ທີ່ຕັ້ງ</string>
+    <string name="lock_gear_legal_text1">ໂດຍການໃຊ້ລັອກເກຍ, ທ່ານສາມາດລັອກເກຍຂອງທ່ານທາງໄກ ເພື່ອປ້ອງກັນການໃຊ້ທີ່ບໍ່ໄດ້ຮັບອະນຸຍາດໄດ້. ທ່ານອາດຈະປົດລັອກເກຍໄດ້ໂດຍການເຊື່ອມຕໍ່ມັນກັບອຸປະກອນມືຖືຄືນໃໝ່.</string>
+    <string name="lock_gear_legal_text2">* ລັອກເກຍອາດຈະໃຊ້ເວລາໜ້ອຍໜຶ່ງ ເພື່ອເຮັດໜ້າທີ່ ຫຼືແມ້ແຕ່ຫຼົ້ມເຫຼວ ຂຶ້ນກັບສະພາວະຂອງເກຍຂອງທ່ານ, ອຸປະກອນມືຖື ຫຼືສະພາບແວດລ້ອມເຄືອຂ່າຍ.</string>
+    <string name="lock_gear_text">ບໍ່​ສາ​ມາດ​ປົດ​ລັອກ​ເກຍ​ຂອງ​ທ່ານ​ໄດ້ ໃນ​ຂະ​ນະ​ທີ່​ອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານ ແລະ​ເກຍ​ເຊື່ອມ​ຕໍ່​ຜ່ານບ​ລູ​ທູດ​ແລ້ວ.</string>
+    <string name="login_to_samsung_account">ລົງຊື່ເຂົ້າໃຊ້ບັນຊີຊໍາຊຸງ</string>
+    <string name="login_to_samsung_account_desc">ເພື່ອເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກຢູ່ໃນເກຍຂອງທ່ານ, ລົງຊື່ເຂົ້າໃຊ້ບັນຊີຊໍາຊຸງຂອງທ່ານ.</string>
+    <string name="login_to_samsung_account_full_desc">"ລົງຊື່ເຂົ້າໃຊ້ Samsung account ຂອງທ່ານ ເພື່ອໃຊ້ຟີເຈີຕໍ່ໄປນີ້ ແມ້ແຕ່ເມື່ອບໍ່ເຊື່ອມຕໍ່ຜ່ານບລູທູດ:
+- ການຮັບການແຈ້ງເຕືອນ
+- ການໃຊ້ແອພພລິເຄຊັນຜ່ານການເຊື່ອມຕໍ່ທາງໄກ
+ການໃຊ້ການເຊື່ອມຕໍ່ທາງໄກອາດຈະເຮັດໃຫ້ເສຍຄ່າເພີ່ມເຕີມໄດ້."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">ເສັ້ນຂະໜານ</string>
+    <string name="main_bt_unpaired">ບໍ່ໄດ້ຈັບຄູ່</string>
+    <string name="main_disconnected">ປິດເຊື່ອມຕໍ່ແລ້ວ</string>
+    <string name="manage_applications">ຈັດແຈງແອພພລິເຄຊັນ</string>
+    <string name="manage_notifications">ຈັດການເລື່ອງການແຈ້ງເຕືອນ</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">ການໂອນສາຍແມ່ນການບໍລິການເຄືອຂ່າຍທີ່ໂອນ %s ສາຍໂທເຂົ້າໄປຫາເບີສະເພາະ. ຂຶ້ນຢູ່ກັບຜູ້ໃຫ້ບໍລິການຂອງທ່ານ, ອາດຈໍາເປັນຕ້ອງໄດ້ມີການສະໝັກ ເພື່ອໃຫ້ເກຍຂອງທ່ານໃຊ້ຟີເຈີນີ້. ອັນນີ້ອາດຈະມີຜົນເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມເຕີມ.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">ໂທລະສັບມືຖື</string>
+    <string name="masterapp_not_installed">%1$s ບໍ່ຖືກຕິດຕັ້ງລົງໃນໂທລະສັບມືຖືຂອງທ່ານ. ເພື່ອໃຊ້ %2$s ຢູ່ໃນເກຍຂອງທ່ານ, ດາວໂຫຼດ %1$s ໄປໃສ່ໂທລະສັບມືຖືຂອງທ່ານ. ທ່ານຈະຖືກນໍາພາໄປຫາໜ້າຈໍດາວໂຫຼດ.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s ບໍ່ຖືກຕິດຕັ້ງລົງໃນໂທລະສັບມືຖືຂອງທ່ານ. ເພື່ອໃຊ້ %2$s ຢູ່ໃນເກຍຂອງທ່ານ, ດາວໂຫຼດ %1$s ໄປໃສ່ໂທລະສັບມືຖືຂອງທ່ານ. ທ່ານຈະຖືກນໍາພາໄປຫາໜ້າຈໍດາວໂຫຼດ.</string>
+    <string name="masterapp_uninstalled">ຖອນຕິດຕັ້ງ %1$s ອອກໄປຈາກໂທລະສັບມືຖືຂອງທ່ານແລ້ວ. ເພື່ອໃຊ້ %2$s ຢູ່ໃນເກຍຂອງທ່ານ, ດາວໂຫຼດ %1$s ໄປໃສ່ໂທລະສັບມືຖືຂອງທ່ານ.</string>
+    <string name="maximum_size_warning">ຮອດຈໍານວນຕົວອັກສອນສູງສຸດແລ້ວ.</string>
+    <string name="menu_about_device">ກ່ຽວກັບ %s</string>
+    <string name="menu_actionbar_remove">ເອົາ​ອອກ​</string>
+    <string name="menu_actionbar_uninstall">ຖອນການຕິດຕັ້ງ</string>
+    <string name="menu_appsandsettigns">ແອັບ ແລະການຕັ້ງຄ່າ</string>
+    <string name="menu_clock">ໂມງ</string>
+    <string name="menu_display">ແກ້ໄຂໜ້າຈໍຫຼັກ</string>
+    <string name="menu_downloaded_font">ແບບຕົວໜັງສືທີ່ດາວໂຫຼດແລ້ວ</string>
+    <string name="menu_filetransfertogear">ໂອນໄຟລ໌ໄປຫາເກຍ</string>
+    <string name="menu_gallery">ຮູບ</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">ຄວາມແຂງແຮງ</string>
+    <string name="menu_help">ຊ່ວຍ​ເຫຼືອ</string>
+    <string name="menu_home_screen">ສະໄຕລ໌ໜ້າຈໍຫຼັກ</string>
+    <string name="menu_music">ເພງ</string>
+    <string name="menu_myapp">ແອັບຂອງຂ້ອຍ</string>
+    <string name="menu_notification">ແຈ້ງເຕືອນ</string>
+    <string name="menu_rename">ປ່ຽນຊື່​ໃໝ່</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">ການຕັ້ງຄ່າຕ່າງໆ</string>
+    <string name="mobile_to_gear">ມືຖືຫາເກຍ</string>
+    <string name="mobile_to_gear_des">ຮັບ​ສາຍ​ທີ່​ໂທ​ຫາອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານຢູ່​ໃນເກຍ ໃນ​ຂະ​ນະ​ທີ່​ອຸ​ປະ​ກອນສອງ​ອັນ​ເຊື່ອມ​ຕໍ່ໂດຍ​ທາງ​ໄກແລ້ວ.</string>
+    <string name="monotype_default_font">ຮູບແບບຕົວໜັງສືມາດຕະຖານ</string>
+    <string name="monotype_dialog_font_applemint">ແອັບເປີ້ລມີ້ນ</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">ກະດິ່ງຕິ່ງເກີ</string>
+    <string name="more">ເພີ່ມເຕີມ</string>
+    <string name="more_options">ທາງເລືອກເພີ່ມເຕີມ</string>
+    <string name="multisim_title">ມັລຕິ SIM</string>
+    <string name="navigate_up">ເລື່ອນຂຶ້ນ</string>
+    <string name="new_notification_list">ມຸມມອງລາຍການ</string>
+    <string name="new_notifications_list_desc">ສະແດງລາຍການຂອງການແຈ້ງເຕືອນທີ່ໄດ້ຮັບຢູ່ໃນເກຍໄປທາງດ້ານຊ້າຍຂອງໂມງ.</string>
+    <string name="no_application_selected">ບໍ່ມີແອພພລິເຄຊັນທີ່ເລືອກໄວ້</string>
+    <string name="no_downloaded_applications">ບໍ່ມີແອັບທີ່ດາວໂຫຼດໄວ້</string>
+    <string name="no_of_application_selected">ເລືອກ %d ແອພພລິເຄຊັນແລ້ວ</string>
+    <string name="no_remote_connection_popup_msg">ເພື່ອເປີດໃຊ້ງານການໂອນສາຍອັດຕະໂນມັດ, ເປີດແອພພລິເຄຊັນ Samsung Gear ຢູ່ໃນອຸປະກອນມືຖືຂອງທ່ານ ແລະເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ, ຈາກນັ້ນລອງໃໝ່ອີກ.</string>
+    <string name="no_remote_connection_popup_title">ເປີດ​ໃຊ້​ງານການເຊື່ອມຕໍ່ທາງໄກ</string>
+    <string name="notification_type">ປະເພດການແຈ້ງເຕືອນ</string>
+    <string name="notification_type_desc">ໃນຂະນະທີ່ເກຍຂອງທ່ານໃຊ້ງານຢູ່, ການແຈ້ງເຕືອນຂອງທ່ານຈະສະແດງຂຶ້ນເປັນປັອບອັບນ້ອຍຢູ່ດ້ານເທິງຂອງໜ້າຈໍ, ໂດຍບໍ່ຄໍານຶງເຖິງການເລືອກຂອງທ່ານຢູ່ຂ້າງເທິງ.</string>
+    <string name="number_setting">ການຕັ້ງຄ່າຕົວເລກ</string>
+    <string name="ok">ຕົກລົງ</string>
+    <string name="once">ເມື່ອ</string>
+    <string name="one_application_selected">1 ແອັບຖືກເລືອກ</string>
+    <string name="popup_attention_email_msg">ບາງບັນຊີອີເມລ໌ບໍ່ຖືກເລືອກຢູ່ໃນການຕັ້ງຄ່າອີເມລ໌. ເພື່ອຮັບເອົາການແຈ້ງເຕືອນຈາກບັນຊີເຫຼົ່ານັ້ນຢູ່ໃນເກຍຂອງທ່ານ, ເລືອກການແຈ້ງເຕືອນອີເມລ໌ຢູ່ໃນການຕັ້ງຄ່າອີເມລ໌.</string>
+    <string name="popup_attention_message_msg">ເພື່ອສົ່ງ ແລະຮັບຂໍ້ຄວາມຢູ່ໃນເກຍຂອງທ່ານ, ແອັບສົ່ງຂໍ້ຄວາມເລີ່ມຕົ້ນຂອງທ່ານຈະຖືກປ່ຽນແປງຈາກ %s ໄປຫາການສົ່ງຂໍ້ຄວາມ.</string>
+    <string name="popupmenu_search_for_new_device">ຈັດການເຄື່ອງ</string>
+    <string name="preview_message_desc">ສະແດງການເບິ່ງຕົວຢ່າງການແຈ້ງເຕືອນທີ່ໄດ້ຮັບກ່ອນ, ຍົກເວັ້ນການເຕືອນສາຍເຂົ້າ ແລະໂມງປຸກ ຢູ່ໃນຕົວປັອບອັບການແຈ້ງເຕືອນຢູ່ໃນເກຍຂອງທ່ານ.</string>
+    <string name="preview_message_title">ເບິ່ງຂໍ້ຄວາມກ່ອນ</string>
+    <string name="primary">ຕົ້ນຕໍ</string>
+    <string name="progressdialog_please_wait">ກະລຸນາ ລໍຖ້າ…</string>
+    <string name="progressdialog_reinstalled_message">ກໍາລັງຕິດຕັ້ງ…</string>
+    <string name="progressdialog_reinstalled_popup_content">ຕິດຕັ້ງຄືນໃໝ່</string>
+    <string name="providerapp_reinstalled">%s ເຮັດວຽກບໍ່ຖືກຕ້ອງ ດັ່ງນັ້ນ ມັນຖືກຖອນການຕິດຕັ້ງ. ມັນຈະຖືກຕິດຕັ້ງຄືນໃໝ່ດຽວນີ້.</string>
+    <string name="quick_tutorial_add_shortcuts">ເພື່ອເພີ່ມທາງລັດແອັບໄປໃສ່ໜ້າຈໍຫຼັກຂອງເກຍ, ໄປທີ່ແອັບຢູ່ໃນເກຍ, ແຕະໄອຄອນແອັບຄ້າງໄວ້, ຈາກນັ້ນລາກມັນໄປວາງລົງເທິງໄອຄອນໂຮມຢູ່ດ້ານເທິງຂອງໜ້າຈໍ.</string>
+    <string name="quick_tutorial_gear_structure">ໂມງສະແດງຂຶ້ນຢູ່ໜ້າຫຼັກຂອງໜ້າຈໍຫຼັກຂອງເກຍຂອງທ່ານ. ໜ້າໄປທາງດ້ານຊ້າຍຂອງໂມງສະແດງການແຈ້ງເຕືອນ ແລະໜ້າໄປທາງດ້ານຂວາສະແດງວິດເຈັດ. ຮູດຂຶ້ນເທິງຈາກຂອບລຸ່ມຂອງໜ້າຈໍ ເພື່ອເບິ່ງແອພພລິເຄຊັນ.</string>
+    <string name="quick_tutorial_noti_title">ການແນະນໍາສູ່ %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">ເກຍ</string>
+    <string name="quick_tutorial_noti_title_gear2">ເກຍ 2</string>
+    <string name="quick_tutorial_open_svoice">ເພື່ອເປີດ S Voice, ເວົ້າຄໍາວ່າ “Hi Gear” ຫຼືກົດປຸ່ມໂຮມສອງຄັ້ງ ໃນຂະນະທີ່ຢູ່ໃນໜ້າຈໍໃດໜຶ່ງ.</string>
+    <string name="quick_tutorial_swipe_downwards">ກົດປຸ່ມໂຮມສອງເທື່ອ ເພື່ອເປີດແອພພລິເຄຊັນທີ່ມັກຂອງທ່ານ. ທ່ານຍັງສາມາດປ່ຽນແອພພລິເຄຊັນທີ່ມັກຂອງທ່ານໄດ້ຢູ່ໃນການຕັ້ງຄ່າ.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">ກົດປຸ່ມປິດເປີດສອງຄັ້ງ ເພື່ອເປີດແອັບທີ່ມັກຂອງທ່ານ. ທ່ານສາມາດປ່ຽນແອັບທີ່ມັກຂອງທ່ານໄດ້ຢູ່ໃນການຕັ້ງຄ່າ.</string>
+    <string name="quick_tutorial_to_go_back">ເລື່ອນໜ້າຈໍລົງລຸ່ມຈາກຂອບ ເພື່ອກັບຄືນ.</string>
+    <string name="remote_connection_disabled_settings">ການຕັ້ງຄ່າຕ່າງໆ</string>
+    <string name="remote_connection_enabled_desc">ເກຍຈະຖືກເຊື່ອມຕໍ່ທາງໄກ ຖ້າການເຊື່ອມຕໍ່ບລູທູດຈົບລົງ.</string>
+    <string name="requested">ສະເໜີຂໍແລ້ວ</string>
+    <string name="reset_gear_legal_text1">ໂດຍການໃຊ້ຕັ້ງເກຍຄືນໃໝ່, ທ່ານສາມາດລຶບທຸກຂໍ້ມູນຢູ່ໃນເກຍຂອງທ່ານທາງໄກໄດ້. ຫຼັງຈາກການລຶບດັ່ງກ່າວແລ້ວ, ຂໍ້ມູນລຶບໄປບໍ່ສາມາດຣີສະຕໍຄືນໄດ້ ແລະທ່ານບໍ່ສາມາດໃຊ້ຊອກຫາເກຍຂອງຂ້ອຍໄດ້ອີກ.</string>
+    <string name="reset_gear_legal_text2">* ຕັ້ງເກຍຄືນໃໝ່ອາດຈະໃຊ້ເວລາໜ້ອຍໜຶ່ງ ເພື່ອເຮັດໜ້າທີ່ ຫຼືແມ້ແຕ່ຫຼົ້ມເຫຼວ ຂຶ້ນກັບສະພາວະຂອງເກຍຂອງທ່ານ, ອຸປະກອນມືຖື ຫຼືສະພາບແວດລ້ອມເຄືອຂ່າຍ.</string>
+    <string name="restore_complete">ການເອົາກັບຄືນສໍາເລັດແລ້ວ.</string>
+    <string name="restore_some_error">ການກູ້ເອົາກັບຄືນບໍ່ສໍາເລັດ. ລອງໃໝ່ອີກ.</string>
+    <string name="restore_try_again">ລອງໃໝ່ອີກ</string>
+    <string name="retrieve_dialog_desc">ກໍາລັງກູ້ລາຍການແອພພລິເຄຊັນຄືນ…</string>
+    <string name="sa_error_0203_desc">ເພື່ອເປີດໃຊ້ງານການເຊື່ອມຕໍ່ທາງໄກ, ອັບເດດບັນຊີຊໍາຊຸງເອົາເອງ.</string>
+    <string name="sa_error_0203_title">ອັບເດດບັນຊີຊໍາຊຸງ</string>
+    <string name="sa_error_0301_desc">ເຄືອຂ່າຍເກີດຂັດຂ້ອງ ໃນຂະນະທີ່ກໍາລັງລົງຊື່ເຂົ້າໃຊ້ບັນຊີຊໍາຊຸງຂອງທ່ານຢູ່ໃນໂທລະສັບມືຖືຂອງທ່ານ.</string>
+    <string name="sa_error_0301_title">ເປີດໃຊ້ງານຟັງຄ໌ຊັນບໍ່ສໍາເລັດ</string>
+    <string name="sa_error_0302_title">ເປີດໃຊ້ງານຟັງຄ໌ຊັນບໍ່ສໍາເລັດ</string>
+    <string name="sa_error_0401_desc">ເກີດຄວາມຜິດພາດຂຶ້ນ. ລອງໃໝ່ອີກ.</string>
+    <string name="sa_error_0401_title">ຂັດຂ້ອງ</string>
+    <string name="safety_message_interval_10minutes">ທຸກໆ​ 10 ນາທີ</string>
+    <string name="safety_message_interval_20minutes">ທຸກໆ 20 ນາທີ</string>
+    <string name="samsung_apps_info">ແອພພລິເຄຊັນທີ່ໄດ້ຮັບການດາວໂຫຼດຜ່ານ %1$s ສາມາດລຶບຖິ້ມໄດ້ ເມື່ອ %2$s ຖືກຖອນການຕິດຕັ້ງ, ຫຼືຂໍ້ມູນແອພພລິເຄຊັນຖືກລຶບ. ທ່ານສາມາດດາວໂຫຼດແອພພລິເຄຊັນທີ່ລຶບແລ້ວຄືນຈາກປະຫວັດການຊື້ຂອງທ່ານຢູ່ໃນ %3$s ໄດ້.</string>
+    <string name="samsung_apps_notice">ແຈ້ງການ</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">ອັບເດດດຽວນີ້</string>
+    <string name="screen_off">ໃຫ້ໜ້າຈໍເປີດໄວ້</string>
+    <string name="screen_off_desc">ຮັບການແຈ້ງເຕືອນ, ຍົກເວັ້ນການເຕືອນສາຍເຂົ້າ ແລະໂມງປຸກຢູ່ໃນເກຍຂອງທ່ານ ໃນຂະນະທີ່ໜ້າຈໍຂອງມັນປິດ.</string>
+    <string name="setting_Enable">ເປີດໃຫ້ໃຊ້ງານໄດ້</string>
+    <string name="setting_alpm_dialog_title">ຂໍ້ຄວນຄຳນຶງ</string>
+    <string name="setting_always_off">ປິດທຸກເວລາ</string>
+    <string name="setting_always_on">ເປີດຕະຫຼອດ</string>
+    <string name="setting_auto">ອັດຕະໂນມັດ</string>
+    <string name="setting_auto_lock_disable_desc">ຖືກປິດໃຊ້ງານໂດຍຜູ້ຄວບຄຸມ, ນະໂຍບາຍການເຂົ້າລະຫັດ, ຫຼືບ່ອນຈັດເກັບໜັງສືຮັບຮອງ.</string>
+    <string name="setting_backup_restore2">ແບັກອັບ ແລະເອົາກັບຄືນ</string>
+    <string name="setting_basic">ພື້ນຖານ</string>
+    <string name="setting_connections">ການເຊື່ອມຕໍ່</string>
+    <string name="setting_disable">ປິດໃຊ້ງານ</string>
+    <string name="setting_home_key_double_pressing">ກົດປຸ່ມໂຮມສອງຄັ້ງ</string>
+    <string name="setting_language_input">ພາສາ ແລະ ການປ້ອນຂໍ້ມູນ</string>
+    <string name="setting_manage_text_templates">ແກ້ໄຂເທັມເພລດຂໍ້ຄວາມ</string>
+    <string name="setting_mobile_network">ເຄືອຂ່າຍໂທລະສັບມືຖື</string>
+    <string name="setting_mobile_network_desc">ເກຍຈະຖືກຕັດເຊື່ອມຕໍ່ຈາກເຄືອຂ່າຍມືຖືຂອງທ່ານ ເມື່ອມັນເຊື່ອມຕໍ່ກັບອຸປະກອນມືຖືຂອງທ່ານຜ່ານບລູທູດ. ເມື່ອການເຊື່ອມຕໍ່ຜ່ານບລູທູດຈົບລົງ, ເກຍຈະເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍມືຖືຂອງທ່ານອີກໂດຍອັດຕະໂນມັດ.</string>
+    <string name="setting_multisim_popup_desc">ຂຶ້ນຢູ່ກັບຜູ້ໃຫ້ບໍລິການຂອງທ່ານ, ທ່ານອາດຈະຕ້ອງການໃຫ້ມີການສະໝັກແຍກ ເພື່ອໃຊ້ຟັງຄ໌ຊັນຫຼາຍ SIM. ແຕະຕົກລົງ ເພື່ອເປີດໃຊ້ງານຫຼາຍ SIM.</string>
+    <string name="setting_opensource">ເປີດໃບອະນຸຍາດຂອງແຫຼ່ງຂໍ້ມູນ</string>
+    <string name="setting_palm_motion">ການເຄື່ອນໄຫວ</string>
+    <string name="setting_palm_swipe">ຮູດເພື່ອແຄັບເຈີ</string>
+    <string name="setting_palmover_desc">ເພື່ອປິດສຽງສາຍໂທເຂົ້າ ແລະໂມງປຸກ, ຫຼືຢຸດມີເດຍ, ວາງມືຂອງທ່ານລົງເທິງໜ້າຈໍ ໃນຂະນະທີ່ໜ້າຈໍເປີດ.</string>
+    <string name="setting_palmswipe_desc">ແຄັບເຈີ້ໜ້າຈໍໂດຍການຮູດໝົດນີ້ວມືຂອງທ່ານຂ້າມມັນ, ສືບຕໍ່ສໍາຜັດກັບໜ້າຈໍ.</string>
+    <string name="setting_pause_mute">ປິດສຽງ/ຢຸດຊົ່ວຄາວ</string>
+    <string name="setting_power_key_double_pressing">ກົດປຸ່ມປິດເປີດສອງເທື່ອຊ້ອນ</string>
+    <string name="setting_restoring">ກໍາລັງເອົາກັບມາ…</string>
+    <string name="setting_safety_b1_desc">ເມື່ອ Gear ແລະໂທລະສັບມືຖືຂອງທ່ານເຊື່ອມຕໍ່ແລ້ວ, ສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອຊ່ວຍທ່ານຢູ່ໃນກໍລະນີສຸກເສີນໄດ້. ມັນເຕືອນບອກຜູ້ຕິດຕໍ່ຂໍ້ຄວາມສຸກເສີນຂອງທ່ານກ່ຽວກັບສະຖານະການຂອງທ່ານ ໂດຍການສົ່ງຂໍ້ຄວາມສຸກເສີນພ້ອມທີ່ຕັ້ງຂອງທ່ານໄປໃຫ້ເຂົາເຈົ້າ. ການສົ່ງຂໍ້ຄວາມເຫຼົ່ານີ້ອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ. ເພື່ອເປີດໃຊ້ງານສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອໃນລະຫວ່າງເວລາສຸກເສີນ, ກົດປຸ່ມປິດເປີດ %d ຄັ້ງ.</string>
+    <string name="setting_safety_b2_desc">ເມື່ອເກຍ ແລະໂທລະສັບມືຖືຂອງທ່ານເຊື່ອມຕໍ່ແລ້ວ, ສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອຊ່ວຍທ່ານໃນກໍະລນີສຸກເສີນ ໂດຍການຖ່າຍຮູບດ້ວຍການໃຊ້ກ້ອງຖ່າຍຮູບເກຍ. ມັນເຕືອນບອກຜູ້ຕິດຕໍ່ຂໍ້ຄວາມສຸກເສີນຂອງທ່ານກ່ຽວກັບສະຖານະການຂອງທ່ານ ໂດຍການສົ່ງຂໍ້ຄວາມສຸກເສີນກັບຮູບນີ້ ແລະທີ່ຕັ້ງຂອງທ່ານໄປໃຫ້ເຂົາເຈົ້າ. ຂໍ້ຄວາມທໍາອິດຈະມີທັງທີ່ຕັ້ງຂອງທ່ານ ແລະຮູບ. ຈາກນັ້ນ, ຫຼັງຈາກຊ່ວງໄລຍະໜຶ່ງ, ຂໍ້ຄວາມທີສອງຈະຖືກສົ່ງອອກໄປທີ່ມີແຕ່ທີ່ຕັ້ງຂອງທ່ານເທົ່ານັ້ນ. ການສົ່ງຂໍ້ຄວາມເຫຼົ່ານີ້ອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ. ເພື່ອເປີດໃຊ້ງານສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອໃນລະຫວ່າງເວລາສຸກເສີນ, ກົດປຸ່ມໂຮມ %d ຄັ້ງ.</string>
+    <string name="setting_safety_b2_no_camera_desc">ເມື່ອ Gear ແລະໂທລະສັບມືຖືຂອງທ່ານເຊື່ອມຕໍ່ແລ້ວ, ສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອຊ່ວຍທ່ານຢູ່ໃນກໍລະນີສຸກເສີນໄດ້. ມັນເຕືອນບອກຜູ້ຕິດຕໍ່ຂໍ້ຄວາມສຸກເສີນຂອງທ່ານກ່ຽວກັບສະຖານະການຂອງທ່ານ ໂດຍການສົ່ງຂໍ້ຄວາມສຸກເສີນພ້ອມທີ່ຕັ້ງຂອງທ່ານໄປໃຫ້ເຂົາເຈົ້າ. ການສົ່ງຂໍ້ຄວາມເຫຼົ່ານີ້ອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ. ເພື່ອເປີດໃຊ້ງານສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອໃນລະຫວ່າງເວລາສຸກເສີນ, ກົດປຸ່ມໂຮມ %d ຄັ້ງ.</string>
+    <string name="setting_safety_b3_desc1">ກົດປຸ່ມໂຮມຢ່າງໄວ 3 ຄັ້ງ ເພື່ອສົ່ງການເຕືອນດ່ວນໄປໃຫ້ກັບຜູ້ຕິດຕໍ່ຕົ້ນຕໍ ເມື່ອທ່ານຢູ່ໃນສະຖານະການສຸກເສີນ.</string>
+    <string name="setting_safety_b3_desc2">ຜູ້ຕິດຕໍ່ຕົ້ນຕໍຂອງທ່ານຈະໄດ້ຮັບຂໍ້ຄວາມສຸກເສີນທີ່ມີຂໍ້ມູນກ່ຽວກັບທີ່ຕັ້ງປະຈຸບັນຂອງທ່ານ.</string>
+    <string name="setting_safety_b3_desc3">ເຊື່ອມຕໍ່ອຸປະກອນມືຖືຂອງທ່ານກັບເກຍຂອງທ່ານ ເພື່ອໃຊ້ຟັງຄ໌ຊັນນີ້.</string>
+    <string name="setting_safety_list">ການຊ່ວຍເຫຼືອຄວາມປອດໄພ</string>
+    <string name="setting_samsung_legal">ກ່ຽວກັບກົດໝາຍຊຳຊຸງ</string>
+    <string name="setting_screen_lock">ລັອກອັດຕະໂນມັດ</string>
+    <string name="setting_screen_lock_desc">ຕັ້ງອຸປະກອນມືຖືຂອງທ່ານໃຫ້ລັອກອັດຕະໂນມັດ ເມື່ອເກຍຂອງທ່ານຢູ່ໄກເກີນໄປກວ່າທີ່ຈະກວດຫາໄດ້.</string>
+    <string name="setting_screen_secutiry">ຄວາມປອດໄພໜ້າຈໍ</string>
+    <string name="setting_send_emergency_picture">ສົ່ງຮູບສຸກເສີນ</string>
+    <string name="setting_send_emergency_recording">ສົ່ງການບັນທຶກສຽງ</string>
+    <string name="setting_send_emergency_term_agree">I have read and agree to all the terms and conditions above.</string>
+    <string name="setting_send_help_message">ສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອ</string>
+    <string name="setting_send_terms_conditions">ຂໍ້ກໍານົດ ແລະເງື່ອນໄຂ</string>
+    <string name="setting_smart_relay">ການຖ່າຍທອດສັນຍານອັດສະລິຍະ</string>
+    <string name="setting_smart_relay_desc">ເບິ່ງເນື້ອໃນຈາກເກຍຂອງທ່ານຢູ່ໃນໂທລະສັບມືຖືຂອງທ່ານໂດຍການຈັບໂທລະສັບມືຖືຂອງທ່ານຂຶ້ນມາ.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">ລະບົບ</string>
+    <string name="setting_text_to_speech_engine">ເຄື່ອງປ່ຽນຂໍ້ຄວາມເປັນຄໍາເວົ້າ</string>
+    <string name="setting_textinput_emoticon">ອີ​​ໂມ​ຕີ​ຄອນ</string>
+    <string name="setting_textinput_keyboard">ຄີບອດ</string>
+    <string name="setting_textinput_list">ວິທີການປ້ອນຂໍ້ມູນຂໍ້ຄວາມ</string>
+    <string name="setting_textinput_templates">ເທັມເພລດ</string>
+    <string name="setting_try_it">ລອງເບິ່ງ</string>
+    <string name="setting_wake_up">ທ່າທາງການປຸກ</string>
+    <string name="setting_wake_up_desc">ປຸກເກຍໃຫ້ຕື່ນຂຶ້ນໂດຍການຍົກແຂນເບື້ອງທ່ານໃສ່ເກຍຢູ່.</string>
+    <string name="setting_wakeupgesture">"ເພື່ອປຸກເກຍໃຫ້ຕື່ນ, ຍົກແຂນເບື້ອງທີ່ໃສ່ເກຍຂອງທ່ານຢູ່ ແລະເບິ່ງໜ້າຈໍຂອງເກຍ.
+
+ຟີເຈີນີ້ບໍ່ເຮັດວຽກ ເມື່ອທ່ານກໍາລັງເອນຫຼັງລົງ ຫຼືນອນລົງ, ແລະອາດຈະໃຊ້ໄຟແບັດເຕີຣີຂອງເກຍຫຼາຍຂຶ້ນ ເພາະຕົວເຊັນເຊີການເຄື່ອນໄຫວຂອງມັນເປີດຢູ່ຕະຫຼອດ."</string>
+    <string name="setting_wakeupgesture_clock">ໂມງ</string>
+    <string name="setting_wakeupgesture_previous">ໜ້າຈໍທີ່ເບິ່ງຄັ້ງຫຼ້າສຸດ</string>
+    <string name="setting_wakeupgesture_screen_on">ເລືອກໜ້າຈໍທີ່ສະແດງຂຶ້ນ</string>
+    <string name="settings_application_version">ສະບັບຄໍາສັ່ງການນໍາໃຊ້</string>
+    <string name="settings_emergency_contact">ຈັດການຜູ້ຕິດຕໍ່ຕົ້ນຕໍ</string>
+    <string name="settings_emergency_contact_empty">ບໍ່ມີຜູ້ຕິດຕໍ່ຕົ້ນຕໍເພີ່ມເຂົ້າໄປ. ເພື່ອເປີດໃຊ້ງານ %s, ເພີ່ມຜູ້ຕິດຕໍ່ໃສ່ຜູ້ຕິດຕໍ່ຕົ້ນຕໍ.</string>
+    <string name="settings_legal_information">ຂໍ້ມູນທາງດ້ານກົດໝາຍ</string>
+    <string name="settings_message_interval">ຊ່ວງເວລາຂໍ້ຄວາມ</string>
+    <string name="settings_not_set">ບໍ່ໄດ້ຕັ້ງຄ່າ</string>
+    <string name="settings_security">ຄວາ​ມປອດ​ໄພ</string>
+    <string name="settings_security_update">ອັບເດດຄວາມປອດໄພ</string>
+    <string name="settings_security_update_desc">ປົກປ້ອງເຄື່ອງຂອງທ່ານຈາກເນື້ອໃນອັນຕະລາຍ ໂດຍການປັບປຸງຄວາມປອດໄພ ແລະການບໍລິການຂອງມັນ.</string>
+    <string name="settings_unknown_sources_dialog">ການຕິດຕັ້ງຈາກແຫຼ່ງທີ່ບໍ່ຮູ້ຈັກອາດຈະເປັນອັນຕະລາຍຕໍ່ເຄື່ອງ ແລະຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ. ໂດຍການແຕະຕົກລົງ, ທ່ານຕົກລົງເຫັນດີວ່າ ທ່ານຈະຮັບຜິດຊອບຕໍ່ຄວາມເສຍຫາຍກັບເຄື່ອງຂອງທ່ານ ຫຼືການສູນເສຍຂໍ້ມູນທັງໝົດທີ່ອາດຈະເປັນຜົນມາຈາກການໃຊ້ແອພພລິເຄຊັນເຫຼົ່ານີ້.</string>
+    <string name="settings_unknown_sources_subtitle">ອະນຸຍາດໃຫ້ແອພພລິເຄຊັນຕິດຕັ້ງຈາກທີ່ມາບ່ອນອື່ນນອກເໜືອຈາກ Samsung Gear Apps ໄດ້.</string>
+    <string name="share_loc_disabled">ປິດໃຊ້ງານແຊຣ໌ທີ່ຕັ້ງແລ້ວ.</string>
+    <string name="share_location_desc">ອະນຸຍາດໃຫ້ຊອກຫາເກຍຂອງຂ້ອຍ ແລະຊອກຫາອຸປະກອນຂອງຂ້ອຍແຊຣ໌ເກຍ ແລະຂໍ້ມູນທີ່ຕັ້ງຂອງອຸປະກອນມືຖືຂອງທ່ານ.</string>
+    <string name="shm_I_agree_that_mobile_data">ຂ້ອຍຕົກລົງເຫັນດີວ່າ ອາດຈະມີການນໍາໃຊ້ຂໍ້ມູນມືຖື ແລະດັ່ງນັ້ນ ຂໍ້ຄວາມ MMS ອາດຈະຖືກສົ່ງອອກໄປໃນກໍລະນີສຸກເສີນ. ຂ້ອຍເຂົ້າໃຈວ່າ ອັນນີ້ອາດຈະເຮັດໃຫ້ເສຍຄ່າໃຊ້ຈ່າຍເພີ່ມ.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Send Help Message] is intended to help users send notice of their approximate location and visual/auditory surroundings to the mobile phone of a chosen contact that you set in advance. It is made available only for your convenience and is not intended as, nor should it be treated as, a substitute for emergency calls to the authorities.
+
+2. [Send Help Message] (the “Services”)may not work accurately, continuously or error-free, depending on the circumstances such as network connectivity, availability of GPS/Wi-Fi information, status and/or condition of your/your chosen contact´s device, battery level and/or other circumstances which are out of Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”)´s control. The accuracy of the location information and timely delivery of the Services may be affected by your surroundings and the condition of your device and the device of your chosen contact. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error. Please note that your chosen contact must be a working mobile phone and the device must be turned on and capable of accepting text messages. Transferring your surroundings and location data may be chargeable to you depending on the fees specified by your service operator.
+
+In order for the Services to function as intended, it may be necessary to have the feature, once deployed by you, automatically turn on the GPS and Wi-Fi functions of your device. You acknowledge and agree to the automatic enabling of the GPS and Wi-Fi functions (if required), without further notice to you or consent by you.
+
+3. You acknowledge and agree not to misuse this function or use this function for any illegal purposes or to infringe on the privacy or any personal or proprietary rights of others. Use this function only in accordance with the law and only in cases of emergencies.You agree to be solely responsible for your use of this feature. Samsung shall not be liable for any outcome that may arise from your use of this feature.
+
+4. The Services are made available only for your convenience and are not intended as, nor should they be treated as, a substitute for emergency calls to the authorities. Unless otherwise expressly stated or legally required, Samsung disclaims any warranty that the Services will work accurately, continuously or without any error.
+
+5. DISCLAIMER OF WARRANTIES. YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
+
+A. THE SERVICES ARE PROVIDED ON AN AS IS, “WITH ALL FAULTS,” AND AS AVAILABLE BASIS. YOU BEAR THE RISK OF USING THEM. SAMSUNGGIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS UNDER OR IN RELATION TO THE SERVICES. SAMSUNG EXPRESSLY DISCLAIMS ALL REPRESENTATIONS AND WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, AND ANY IMPLIED WARRANTIES FROM COURSE OF DEALING OR COURSE OF PERFORMANCE.
+
+B. WITHOUT LIMITING THE FOREGOING,SAMSUNG MAKES NO REPRESENTATION OR WARRANTY THAT (i) THE SERVICES WILL MEET YOUR REQUIREMENTS, (ii) THE SERVICES WILL BE UNINTERRUPTED, TIMELY, SECURE, OR ERROR-FREE, (iii) THE CONTENT OBTAINED FROM THE SERVICES, OR ANY NOTIFICATIONS OR FUNCTIONALITY OF THE SERVICES WILL BE AVAILABLE, ACCURATE, COMPLETE OR RELIABLE, (iv) THE QUALITY OF THE SERVICES OR ANY INFORMATION, OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SERVICES WILL MEET YOUR EXPECTATIONS, OR (v) ANY ERRORS OR BUGS IN THE SERVICES WILL BE CORRECTED.
+
+6. LIMITATION OF LIABILITY.
+
+A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT SAMSUNG SHALL NOT BE LIABLE UNDER A NEGLIGENCE THEORY, FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, CONSEQUENTIAL OR EXEMPLARY LOSS, LIABILITY, DAMAGE OR EXPENSE, INCLUDING BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF USE OR OTHER LOSSES (EVEN IF REPAIR, REPLACEMENT OR A REFUND FOR THE SERVICES DOES NOT FULLY COMPENSATE YOU FOR ANY LOSSES ORSAMSUNG KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH LOSS, LIABILITY, DAMAGE, OR EXPENSE), DIRECTLY OR INDIRECTLY RESULTING FROM OR ARISING OUT OF: (i) CLAIMS FOR BREACH OF CONTRACT, BREACH OF WARRANTY, GUARANTEE OR CONDITION, STRICT LIABILITY, NEGLIGENCE, OR OTHER TORT TO THE EXTENT PERMITTED BY APPLICABLE LAW; (ii) YOUR USE OR YOUR INABILITY TO USE THE SERVICES, (iii) THE COST OF PROCUREMENT OF SUBSTITUTE SERVICES; (iv) UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR TRANSMISSIONS OR DATA; (v) STATEMENTS OR CONDUCT OF ANY THIRD PARTY; (vi) THIS AGREEMENT; (vii) INJURY TO PERSON OR PROPERTY (INCLUDING DEATH), OR (viii) ANY OTHER MATTER RELATING TO THE SERVICES OR THE CONTENT PROVIDED THROUGH THE SERVICES.
+
+B. YOUR SOLE AND EXCLUSIVE REMEDY FOR ANY DISPUTE WITH SAMSUNG RELATED TO THIS AGREEMENT OR THE SERVICES SHALL BE CEASING USE OF THE SERVICES.
+
+C. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, SOME OF THE ABOVE LIMITATIONS OF SECTIONS 5 AND 6 MAY NOT APPLY TO YOU.
+
+7. INDEMNIFICATION. You agree to hold harmless, indemnify and defend the Samsung from and against any claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including reasonable attorneys' fees and costs) arising out of or relating to your use of the Services or any failure by you to comply with this Agreement. If, despite the personal nature of the licenses granted to you under these terms and conditions, you allow any individual to use the Services, or provide to any individual any information received via the Services, you agree to inform such individual of the existence and provisions of these terms and conditions, which shall be binding upon such individual, and you agree to hold harmless, indemnify, and defend the Samsung from any and all claims, actions, demands, costs, liabilities, losses, damages, fines and expenses (including attorneys' fees and costs) related to such individual’s use of the Services.
+
+8. Force Majeure. The Samsung shall not be liable for any delay or failure in performance under these terms and conditions or interruption of the Services, resulting from acts of God, civil or military authority, war, acts of terrorism, labor disputes, materials or services provided by third parties, or any cause beyond the reasonable control of the Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">ຂ້ອຍຕົກລົງເຫັນດີທີ່ຈະອະນຸຍາດໃຫ້ %1$s ແຊຣ໌ທີ່ຕັ້ງຂອງຂ້ອຍກັບຜູ້ຕິດຕໍ່ %2$s ຂອງຂ້ອຍ.</string>
+    <string name="smartrelay_not_show">ບໍ່ຕ້ອງສະແດງອີກ</string>
+    <string name="software_update">ອັບ​ເດດ​ຊອບ​ແວຣ</string>
+    <string name="ss_double_tap_any_screen">ແຕະໜ້າຈໍບ່ອນໃດໜຶ່ງສອງເທື່ອຊ້ອນດ້ວຍນີ້ວມືສອງນີ້ວ ເພື່ອເບິ່ງການຄວບຄຸມຄວາມແຈ້ງ ແລະລະດັບສຽງ, ແລະຂໍ້ມູນມີປະໂຫຍດອື່ນໆ.</string>
+    <string name="ss_forwarding_calls_to_gear_header">ໂອນສາຍໄປຫາເກຍຂອງທ່ານ</string>
+    <string name="ss_forwarding_calls_to_gear_progress">ກໍາລັງສະເໜີຂໍ…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ກຳລັງອ່ານການຕັ້ງຄ່າ…</string>
+    <string name="ss_loading_ing_abb">ກໍາລັງໂຫຼດ…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">ຂໍ້ມູນໂທລະສັບມືຖືຖືກປິດໃຊ້ງານ. ເຊື່ອມຕໍ່ໃສ່ກັບເຄືອຂ່າຍ Wi-Fi ແທນ, ຫຼືເປີດໃຊ້ຂໍ້ມູນໂທລະສັບມືຖື ແລະລອງໃໝ່ອີກ</string>
+    <string name="ss_no_network_connection">ບໍ່ມີການເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍໃດ</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ຄູ່ມືຜູ້ໃຊ້</string>
+    <string name="stub_list_install">ຕິດຕັ້ງ</string>
+    <string name="tab_stub_list">ຟີເຈີ</string>
+    <string name="talkback_download">ດາວໂຫຼດ</string>
+    <string name="talkback_setting">ການຕັ້ງຄ່າ</string>
+    <string name="the_samsung_gear_application">ແອພພລິເຄຊັນ Samsung Gear</string>
+    <string name="threeg_connection">ໃຊ້ການເຊື່ອມຕໍ່ທາງໄກ</string>
+    <string name="threeg_connection_subtitle">ເຊື່ອມຕໍ່ເກຍຂອງທ່ານທາງໄກ, ດ້ວຍການໃຊ້ຂໍ້ມູນມືຖື ຫຼື Wi-Fi ຮ່ວມກັນກັບບັນຊີຊໍາຊຸງຂອງທ່ານ.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">ຖອນການຕິດຕັ້ງ</string>
+    <string name="title_activity_connect_popup">ເຊື່ອມຕໍ່</string>
+    <string name="title_activity_paired_watch">ເຄື່ອງທີ່ຈັບຄູ່ແລ້ວ</string>
+    <string name="title_alertdialog_device_name_popup">ປ່ຽນຊື່ %s</string>
+    <string name="title_alertdialog_disconnect_popup">ປິດເຊື່ອມຕໍ່</string>
+    <string name="title_dialog_pm_error">ເຕືອນ</string>
+    <string name="title_dialog_uninstall">ຖອນການຕິດຕັ້ງ</string>
+    <string name="title_findmywatch_connect2">ຊອກຫາເກຍຂອງຂ້ອຍ</string>
+    <string name="title_findmywatch_finding">ກຳລັງຄົ້ນ​ຫາ…</string>
+    <string name="tri_connect_title_circle_to_gear">ເຊື່ອມ​ຕໍ່ %1$s ກັບ %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">ການ​ເຊື່ອມ​ຕໍ່​ %1$s ຂອງ​ທ່ານ​ກັບ %2$s ຂອງ​ທ່ານ​ຈະ​ຕັດ​ເຊື່ອມ​ຕໍ່ %3$s ຂອງ​ທ່ານ​ຈາກ​ອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານ​ຊົ່ວ​ຄາວ. ການ​ເຊື່ອມ​ຕໍ່​ນີ້​ຈະ​ເລີ່ມ​ຕໍ່​ໃນ​ໄວໆ​ນີ້ ແລະຈາກນັ້ນ %4$s ຂອງ​ທ່ານ​ຈະ​ຖືກ​ເຊື່ອມ​ຕໍ່​ກັບ​ທັງ %5$s ຂອງ​ທ່ານ ແລະ​ອຸ​ປະ​ກອນ​ມື​ຖື​ຂອງ​ທ່ານ.</string>
+    <string name="tt_install_voice_data">ຕິດຕັ້ງຂໍ້ມູນສຽງ TTS</string>
+    <string name="tt_install_voice_data_required">ຕິດຕັ້ງພາສາຂໍ້ຄວາມເປັນຄໍາເວົ້າເພີ່ມເຕີມຢູ່ໃນເກຍຂອງທ່ານ.</string>
+    <string name="tt_language">ພາສາ</string>
+    <string name="tt_send_help_message">ສົ່ງຂໍ້ຄວາມຊ່ວຍເຫຼືອ</string>
+    <string name="tt_tts_language_guide">ພາສາຂໍ້ຄວາມເປັນຄໍາເວົ້າຂອງທ່ານແມ່ນພາສາທີ່ທ່ານຕັ້ງຢູ່ໃນການຕັ້ງຄ່າເກຍ. ຖ້າພາສາຂອງທ່ານບໍ່ຖືກຮອງຮັບໂດຍເຄື່ອງຈັກຂໍ້ຄວາມເປັນຄໍາເວົ້າ, ແມ່ນຈະໃຊ້ພາສາອັງກິດ (ສະຫະລາດຊະອານາຈັກ).</string>
+    <string name="unable_to_connect_popup_message">ເຊື່ອມຕໍ່ເກຍຂອງທ່ານກັບອຸປະກອນມືຖືຂອງທ່ານບໍ່ສໍາເລັດ. ລອງໃໝ່ພາຍຫຼັງ.</string>
+    <string name="unable_to_connect_popup_title">ການເຊື່ອມຕໍ່ບໍ່ສໍາເລັດ</string>
+    <string name="unable_to_lock_gear">ບໍ່ສາມາດລັອກເກຍໄດ້</string>
+    <string name="unable_to_reset_gear">ບໍ່ສາມາດຕັ້ງເກຍໃໝ່ໄດ້</string>
+    <string name="uninstall_applications">ຖອນການຕິດຕັ້ງແອພພລິເຄຊັນ</string>
+    <string name="unknown_sources_msg_new">%1$s ຈະບໍ່ຖືກຕິດຕັ້ງຜ່ານ %2$s. ເຄື່ອງຂອງທ່ານ ແລະຂໍ້ມູນສ່ວນຕົວຈະຕົກຢູ່ໃນຄວາມສ່ຽງຕໍ່ການໂຈມຕີໂດຍແອພພລິເຄຊັນຈາກແຫຼ່ງທີ່ບໍ່ຮູ້ຈັກໄດ້. ທ່ານເຫັນດີວ່າ ທ່ານຈະຮັບຜິດຊອບຕໍ່ຄວາມເສຍຫາຍກັບເຄື່ອງຂອງທ່ານ ຫຼືການສູນເສຍຂໍ້ມູນທັງໝົດທີ່ອາດຈະເປັນຜົນມາຈາກການໃຊ້ແອພພລິເຄຊັນເຫຼົ່ານີ້. ເພື່ອຕິດຕັ້ງແອພພລິເຄຊັນຈາກແຫຼ່ງທີ່ບໍ່ຮູ້ຈັກທຸກຄັ້ງ, ໄປທີ່ %3$s > %4$s > %5$s ແລະເປີດໃຊ້ງານ %6$s. ແຕະຕົກລົງ ເພື່ອຕິດຕັ້ງ %7$s.</string>
+    <string name="unknown_sources_title">ບໍ່ຮູ້ແຫຼ່ງທີ່ມາ</string>
+    <string name="update_summary">ກວດສອບຫາການອັບເດດ</string>
+    <string name="voice_control_subtitle">ເວົ້າຄໍາວ່າ “Answer” ຫຼື “Reject”, ໃນລະຫວ່າງການຢຸດ ໃນຂະນະທີ່ເກຍຂອງທ່ານບໍ່ດັງ ຫຼືສັ່ນ, ເພື່ອຮັບ ຫຼືບໍ່ຮັບສາຍ.</string>
+    <string name="voicememo_link1">ຂໍ້ກໍານົດ ແລະເງື່ອນໄຂຂອງບໍລິສັດ Nuance</string>
+    <string name="voicememo_link3">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງບໍລິສັດ Nuance</string>
+    <string name="watchapp_all">ແອັບ</string>
+    <string name="watchapp_noapps">ບໍ່ມີແອັບ</string>
+    <string name="widget_bt">ບລູທູດ</string>
+    <string name="widget_fmw_refresh">ກໍາລັງຣີເຟຣດຊ໌…</string>
+    <string name="wifi_only">ສະເພາະ Wi-Fi ເທົ່ານັ້ນ</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">ດາວໂຫຼດແຕ່ການອັບເດດເທົ່ານັ້ນ ເມື່ອເຊື່ອມຕໍ່ກັບເຄືອຂ່າຍ Wi-Fi ແລ້ວ.</string>
+    <string name="wifi_only_summary_chn">ສາມາດດາວໂຫຼດໄດ້ພຽງແຕ່ເມື່ອເຊື່ອມຕໍ່ຜ່ານ WLAN ແລ້ວເທົ່ານັ້ນ.</string>
+</resources>

@@ -1,0 +1,4 @@
+Teabe jagamise nõusolek<br>
+Teenuses Samsungi klaviatuur kasutatakse hääletuvastustehnoloogiat kolmanda osapoole teenusepakkujalt Nuance Communications, Inc. Seetõttu salvestatakse häälteave paratamatult serveris, mida juhib Nuance (Ameerika Ühendriikides), ja teenuse Samsungi klaviatuur kasutamine eeldab <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo">Nuance'i tingimustega</a> nõustumist.
+Nuance'il on õigus kasutada teie häälsisendit teenuste parandamise ja tehnoloogiate arendamise eesmärgil. Nuance'il on ka õigus jagada ülalmainitud häälsisendit Nuance’i partneritega. Häälsisendi teavet hoitakse alles, kuni ülalmainitud eesmärgid on saavutatud. Teavet Samsungi klaviatuuri teenuste kohta lugege <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en"> Nuance'i privaatsuseeskirjast</a>.
+Samsungi klaviatuuri ei ole võimalik kasutada, kui te ei nõustu ülakirjeldatud teabe jagamise tingimustega.

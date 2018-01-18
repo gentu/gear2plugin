@@ -1,0 +1,9 @@
+ Clavier Samsung et utilisation d’un service de reconnaissance vocale
+1. Le service Clavier Samsung utilise la technologie de reconnaissance vocale en tant que composant du service. Vous reconnaissez que Samsung a le droit d’utiliser un service de reconnaissance vocale (le “Service de reconnaissance vocale“) fourni par un tiers, Nuance Communications Inc. (“Nuance”), et vous reconnaissez et acceptez les conditions suivantes en rapport avec votre utilisation du service Clavier Samsung.
+2. Vous acceptez de ne pas soumettre de demandes automatisées ou enregistrées au service Clavier Samsung. 
+3. Vous reconnaissez que les mots que vous dictez au service Clavier Samsung (y compris les enregistrements audio de ces mots, les transcriptions associées et les fichiers de rapport) (“Données vocales“) seront collectés par Nuance dans le cadre de la mise à disposition du Service de reconnaissance vocale. 
+4. Vous consentez et vous acceptez qu'en tant que fournisseur du Service de reconnaissance vocale, Nuance peut recueillir des Données vocales que Nuance et ses partenaires tiers peuvent utiliser pour régler, affiner et améliorer (a) le Service de reconnaissance vocale et (b) d’autres produits et services de Nuance. 
+5. Vous reconnaissez et acceptez que vos Données vocales puissent être transférées aux Etats-Unis et/ou dans d’autres pays à des fins de stockage, de traitement et d’utilisation par Nuance et ses partenaires tiers.
+6. Toutes les Données vocales que vous fournissez resteront confidentielles et seront utilisées en accord avec les lois et réglementations applicables. Elles pourront cependant être divulguées par Nuance, si besoin est, pour satisfaire à des exigences réglementaires ou légales, à la demande d’un tribunal ou d’un organisme administratif, par exemple, si la loi l’exige ou l’autorise, ou à la demande d’une société tierce qui rachète ou fusionne avec Nuance.
+ 
+

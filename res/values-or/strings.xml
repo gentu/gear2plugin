@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">କଲ୍ ସମୟରେ ଅନୁପଲବ୍ଧ।</string>
+    <string name="actionbar_name">ଗିୟର ପରିଚାଳକ</string>
+    <string name="alert_full_screen">ପୂର୍ଣ୍ଣ ସ୍କ୍ରିନ୍ ପପ-ଅପ୍</string>
+    <string name="alert_mini">ମିନି ପପ୍-ଅପ୍</string>
+    <string name="alertdialog_backkey_popup_content">ସତର୍କବାଣୀ</string>
+    <string name="alertdialog_disconnect_popup_description">ଗିଅର୍ ବିଚ୍ଛିନ୍ନ ହେବ। ପୁନଃସଂଯୋଗ କରିବାକୁ ବ୍ଲୁଟୁଥ୍ ବ୍ୟବହାର କରନ୍ତୁ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">ଏହା %s ସହିତ ଆପଣଙ୍କର ସଂଯୋଜନା ଶେଷ କରିବ।</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରୁ ଆପଣଙ୍କ %s ବିଚ୍ଛିନ୍ନ ହେବ। ଆପଣ ପରବର୍ତ୍ତୀ ସମୟରେ ଏହି ଡିଭାଇସଗୁଡିକୁ ସଂଯୋଗ କଲେ, ଆପଣଙ୍କୁ ନିଶ୍ଚିତ ବ୍ଲୁଟୁଥ୍ ବ୍ୟବହାର କରିବାକୁ ହେବ। ଏହା ପରେ କୌଣସି ସଂଯୋଜନା ରିମୋଟ୍ ସଂଯୋଜନା ମାଧ୍ୟମରେ ସମାପ୍ତ କରାଯାଇ ପାରେ।</string>
+    <string name="alertdialog_uninstall_popup_content">ଅଣସଂସ୍ଥାପନ</string>
+    <string name="app_name_samsung_gear">ସାମସଙ୍ଗ ଗିଅର୍</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ସଂସ୍ଥାପିତ ହୋଇ ନାହିଁ। ଆପଣଙ୍କ ଗିଅରରେ %2$s ବ୍ୟବହାର କରିବାକୁ, ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ %1$s ଡାଉନଲୋଡ୍‌ କରନ୍ତୁ।</string>
+    <string name="attention_popup_title">ସତର୍କତା</string>
+    <string name="auto_call_forwarding">ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ କରୁଛି</string>
+    <string name="auto_call_forwarding_att">ଗିଅରକୁ ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ</string>
+    <string name="auto_call_forwarding_desc">କଲ୍ ଅଗ୍ରଗାମୀ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ସକ୍ଷମ ହେବ ଯେତେବେଳେ ଆପଣଙ୍କ ଗିଅର୍ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରୁ ସଂଯୋଗ ବିଛିନ୍ନ କରିବ। ଡିଭାଇସଗୁଡିକ ପୁନଃସଂଯୋଗ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ ଏହା ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରୁ ଗିଅରକୁ ଆଗମନ କଲଗୁଡିକ ଅଗ୍ରଗାମୀ ହେବ।</string>
+    <string name="auto_update">ସ୍ୱତଃ ଅପଡେଟ୍</string>
+    <string name="auto_update_summary">ସ୍ଵତଃସ୍ପୃତ ଭାବେ ଅପଡେଟ୍ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।</string>
+    <string name="backing_up">ବ୍ୟାକିଂ ଅପ୍…</string>
+    <string name="backup_complete">ବ୍ୟାକଅପ୍ ସମୂର୍ଣ୍ଣ ହୋଇଛି।</string>
+    <string name="bnr_backup">ବ୍ୟାକିଂ ଅପ୍…</string>
+    <string name="bnr_bakcup_title">ବ୍ୟାକଅପ୍</string>
+    <string name="bnr_cancel">ବାତିଲ୍</string>
+    <string name="bnr_canel">ବାତିଲ୍</string>
+    <string name="bnr_error_occurred">ତ୍ରୁଟି ଘଟିଲା</string>
+    <string name="bnr_except">%1$s (ବ୍ୟତିତ %2$s)</string>
+    <string name="bnr_except_autolock">ସ୍ଵତଃ ଲକ୍</string>
+    <string name="bnr_except_remoteconnection">ରିମୋଟ୍ ସଂଯୋଜନା</string>
+    <string name="bnr_except_texttemplate">ଟେକ୍ସଟ୍ ଟେମ୍ପଲେଟଗୁଡିକ</string>
+    <string name="bnr_next">ପରବର୍ତ୍ତୀ</string>
+    <string name="bnr_no">ନା</string>
+    <string name="bnr_ok">ଓକେ</string>
+    <string name="bnr_reset_gear">ଏକ ନୂତନ ଡିଭାଇସ୍‌କୁ ସଂଯୋଗ କରିବାକୁ, ଗିଅର୍‌ ଏହାର ଫ୍ୟାକ୍ଟୋରୀ ସେଟିଂକୁ ପୁନଃସେଟ୍ ହେବ।</string>
+    <string name="bnr_reset_gear_move_setupwizard">ଗିଅର୍ ସମ୍ପୂର୍ଣ୍ଣ ଭାବେ ସେଟ୍ ଅପ୍ ନୁହେଁ। ସେଟ୍ ଅପ୍ ୱିଜାର୍ଡ ଗିଅରରେ ଖୋଲା ନାହିଁ, କିନ୍ତୁ ଗିଅର୍‌ରେ ସଂଯୋଗ କରିବାକୁ ଅଛି, ଏହି ଡିଭାଇସରେ ଆପଣ ଗିଅର୍ ପରିଚାଳକରେ ସେଟଅପ୍ ୱିଜାର୍ଡ ଖୋଲିବାକୁ ମଧ୍ୟ ଆପଣ ଆବଶ୍ୟକ କରନ୍ତି।</string>
+    <string name="bnr_reset_initialization">ସୂଚନା</string>
+    <string name="bnr_restore">ପୁନରୁଦ୍ଧାର</string>
+    <string name="bnr_restored">ଡାଟା ପୁନରୁଦ୍ଧାର ହୋ‍ଇଛି।</string>
+    <string name="bnr_setupwizard_title2">ବ୍ୟାକ୍ ଅପ୍ ଏବଂ ପୁନଃଗଚ୍ଛିତ</string>
+    <string name="bnr_yes">ହଁ</string>
+    <string name="bt_connected">ସଂଯୋଗ ହୋଇଛି</string>
+    <string name="bt_disconnected">ବିଛିନ୍ନ ହେଲା</string>
+    <string name="bt_unpaired">ଅନ୍‌ପେୟାର୍।</string>
+    <string name="button_finish">ସମାପ୍ତ</string>
+    <string name="button_restore">ପୁନରୁଦ୍ଧାର</string>
+    <string name="call">କଲ୍</string>
+    <string name="call_check_gear_status_when_cfwd">କଲ୍ ଅଗ୍ରଗାମୀ ପ୍ରକାର୍ଯ୍ୟଗୁଡିକ ମୋବାଇଲରୁ ଗିଅର୍‌ ଏବଂ ଗିଅରରୁ ମୋବାଇଲ୍‌ ଏକା ସମୟରେ ସକ୍ଷମ କରାଯାଇପାରିବ ନାହିଁ।</string>
+    <string name="call_dualsim1">SIM କାର୍ଡ୍ 1</string>
+    <string name="call_dualsim1sim2">ଉଭୟ SIM କାର୍ଡ୍</string>
+    <string name="call_dualsim2">SIM କାର୍ଡ୍ 2</string>
+    <string name="call_forwarding">କଲ୍ ଅଗ୍ରଗାମୀ</string>
+    <string name="call_forwarding_agree">ମୁଁ ରାଜି</string>
+    <string name="call_forwarding_desc">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସକୁ ଆପଣଙ୍କ ଗିଅରରୁ ଆପଣଙ୍କ ଆଗମନ କଲ୍‌ ଅଗ୍ରଗାମୀ କରନ୍ତୁ।</string>
+    <string name="call_forwarding_desc_vzw">ଆପଣଙ୍କ ଫୋନକୁ ଅଣଉତ୍ତର ଦେଇଥିବା ଆଗମନ କଲ୍‌ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ କରନ୍ତୁ।</string>
+    <string name="call_forwarding_disable_msg">ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରୁ ଆପଣଙ୍କ ଗିଅରରେ କଲ୍‌ ଅଗ୍ରଗାମୀ ଅକ୍ଷମ କରିବାକୁ ଗୋଟିଏ ଅନୁରୋଧ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ନେଟୱାର୍କ୍ ସ୍ଥିତି ଏବଂ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଏହି ଫଳାଫଳଗୁଡିକ ପ୍ରଭାବ କରି ପାରେ।</string>
+    <string name="call_forwarding_enable_msg">ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରୁ ଆପଣଙ୍କ ଗିଅରରେ କଲ୍‌ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ ଗୋଟିଏ ଅନୁରୋଧ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ନେଟୱାର୍କ୍ ସ୍ଥିତି ଏବଂ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଏହି ଫଳାଫଳଗୁଡିକ ପ୍ରଭାବ କରି ପାରେ।</string>
+    <string name="call_forwarding_for_att_msg">"ଆପଣଙ୍କ ସ୍ମାର୍ଟଫୋନରୁ ଗିଅର୍ ବିଚ୍ଛିନ୍ନ ହୋଇଥିବା ବେଳେ, ଆଗମନ କଲ୍ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ଗିଅରକୁ ଅଗ୍ରଗାମୀ କରିବ।
+- ଆପଣଙ୍କ ସ୍ମାର୍ଟଫୋନ୍‌ କିଛି ଥର ରିଂ ହେବ ଏବଂ ତାପରେ କଲ୍ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ ହେବ।
+- ଯଦି ଆପଣ ଆପଣଙ୍କ ଗିଅରରେ କଲ୍ ଉତ୍ତର କରନ୍ତି ନାହିଁ, ତେବେ କଲର୍ ହୁଏତ ଭଏସମେଲ୍ ପରିତ୍ୟାଗ କରି ପାରନ୍ତି ଯାହାକୁ ଆପଣ ଆପଣଙ୍କ ଗିଅରରେ ଶୁଣିପାରିବେ।
+ଆପଣ ବର୍ତ୍ତମାନ ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ଟର୍ନ୍ ଅନ୍ କରିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="call_forwarding_notify_msg">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରୁ ଆପଣଙ୍କ ଗିଅରକୁ କଲ୍ ଅଗ୍ରଗାମୀ କରିବା ସମ୍ପ୍ରତି ସକ୍ଷମ ହୋଇଛି। ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସକୁ ଆଗମନ କଲଗୁଡିକ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ କରାଯିବ। ଯଦି ଆପଣଙ୍କ ପାଖରେ ଆପଣଙ୍କ ଗିଅର୍ ନାହିଁ, ତେବେ ଆପଣ ଏକ କଲ୍ ହରାଇ ନାହାଁନ୍ତି ତାହା ନିଶ୍ଚିତ କରିବାକୁ ସେଟିଂସକୁ ଯାଆନ୍ତୁ ଏବଂ କଲଗୁଡିକୁ ସ୍ୱତଃ ଅଗ୍ରଗାମୀ ଅକ୍ଷମ କରନ୍ତୁ।</string>
+    <string name="call_forwarding_turning_off_notify_msg">ଭଏସ୍ କଲ୍ ଅଗ୍ରସର ଅକ୍ଷମ କରୁଛି…</string>
+    <string name="call_forwarding_turning_on_notify_msg">ଭଏସ୍ କଲ୍ ଅଗ୍ରସର ସକ୍ଷମ କରୁଛି…</string>
+    <string name="call_no_gear_number">କୌଣସି ସଂଖ୍ୟା ନାହିଁ</string>
+    <string name="call_select_dualsim_title">SIM କାର୍ଡ୍ ଚୟନ କର.</string>
+    <string name="call_voice_control">ଭଏସ୍ ନିୟନ୍ତ୍ରଣ</string>
+    <string name="callforwarding_help_des1">ଆପଣଙ୍କ ଡିଭାଇସଗୁଡିକ ବ୍ଲୁଟୁଥ୍ କିମ୍ୱା ରିମୋଟ୍ ସଂଯୋଜନା ମାଧ୍ୟମରେ ସଂଯୋଜିତ ଅଛି କି ନାହିଁ ତାହା ଉପରେ ନିର୍ଭର କରି ସ୍ୱତଃସ୍ପୃତ ଭାବେ ଯେଉଁ ଡିଭାଇସର କଲଗୁଡିକ ଅଗ୍ରଗାମୀ ହେବ ତାହା ସ୍ଵିଚ୍ କରନ୍ତୁ।</string>
+    <string name="callforwarding_help_des2">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ହୋଇଥିବା କଲଗୁଡିକ ଆପଣ ଯେତେବେଳେ ଚଳମାନ ଅବସ୍ଥାରେ ଥାଆନ୍ତି ଏବଂ ଗିଅର୍‌ ପରିଧାନ କରନ୍ତି ଏବଂ ଏହା ମୋବାଇଲ୍ ଡିଭାଇସର ସହିତ ରିମୋଟ୍ ଭାବେ ସଂଯୋଜିତ ସେତେବେଳେ ଆପଣଙ୍କ ଗିଅରରେ ପ୍ରାପ୍ତ କରନ୍ତୁ।</string>
+    <string name="cancel">ବାତିଲ୍</string>
+    <string name="cf_activated">ସକ୍ରିୟ</string>
+    <string name="cf_deactivate_failed">କଲ୍ ଅଗ୍ରଗାମୀ ଅକ୍ଷମ କରିବାକୁ ବିଫଳ ହେଲା।</string>
+    <string name="cf_deactivated">ନିଷ୍କ୍ରିୟ</string>
+    <string name="clock_new_clock_settings_applied_via_gear">ଗିଅର୍ ମାଧ୍ୟମରେ ନୂତନ ଘଣ୍ଟା ସେଟିଂସ୍ ଲାଗୁ ହୋଇଛି।</string>
+    <string name="clocks_download_more_clocks">ଅଧିକ ଘଣ୍ଟା ଡାଉନଲୋଡ କର.</string>
+    <string name="clocks_noti_uninstall_clock">%s ଅଣସଂସ୍ଥାପନ ହେବ।</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s ଅଣସଂସ୍ଥାପିତ ହେବ ଏବଂ %2$s ଡିଫଲ୍ଟ ଘଣ୍ଟା ଭାବେ ସେଟ୍ ହେବ।</string>
+    <string name="clocks_title_basic_clocks">ମୌଳିକ ଘଣ୍ଟାଗୁଡିକ</string>
+    <string name="clocks_title_downloaded_clocks">ଡାଉନଲୋଡ୍ ହୋଇଥିବା ଘଣ୍ଟା.</string>
+    <string name="clocks_title_style_clocks">ଷ୍ଟାଇଲ୍ ଘଣ୍ଟାଗୁଡିକ</string>
+    <string name="clocks_uninstalled">ଅଣସଂସ୍ଥାପିତ</string>
+    <string name="clocks_uninstalling">ଅଣସଂସ୍ଥାପନ କରୁଛି…</string>
+    <string name="close">ବନ୍ଦ</string>
+    <string name="closing_samsung_gear_message">ଆପଣଙ୍କ ଗିଅର୍ ପୁନଃସେଟ୍ ହୋଇଛି। ସାମସଙ୍ଗ ଗଅର୍ ଆପ୍ଲିକେସନ୍ ଶୀଘ୍ର ବନ୍ଦ ହେବ।</string>
+    <string name="closing_samsung_gear_message_jpn">ଆପଣଙ୍କ ଗିଅର୍ ପୁନଃସେଟ୍ ହୋଇଛି। ଗିଅର୍ ଆପ୍ଲିକେସନ୍‌ ଶୀଘ୍ର ବନ୍ଦ ହେବ।</string>
+    <string name="closing_samsung_gear_title">ସାମସଙ୍ଗ ଗଅର୍ ଆପ୍ଲିକେସନ୍ ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="closing_samsung_gear_title_jpn">ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ବନ୍ଦ</string>
+    <string name="cloud_backup_no_information">କେବେବି ନୁହେଁ</string>
+    <string name="cloud_backup_restore_backup_now">ବ୍ୟାକ୍ ଅପ୍ ଡାଟା</string>
+    <string name="cloud_backup_restore_restore_now">ଡାଟା ପୁନଃଗଚ୍ଛିତ</string>
+    <string name="cmw_agree">ମୁଁ ରାଜି</string>
+    <string name="cmw_eula_agree">ମୁଁ ଉପରୋକ୍ତ ସର୍ତ୍ତାବଳୀ ଏବଂ ଚୁକ୍ତିନାମା ବୁଝିଲି ଏବଂ ରାଜି ହେଲି।</string>
+    <string name="cmw_for_setting">ଅବସ୍ଥାନ ସେବାଗୁଡିକ ଅକ୍ଷମ ହୋଇଛି। ସେଟିଂସକୁ ଯାଆନ୍ତୁ।</string>
+    <string name="cmw_high_accuracy_dialog_message">ଦ୍ରୁତତମ ଏବଂ ସବୁଠାରୁ ଅଧିକ ସଠିକ ଅବସ୍ଥିତି ଚିହ୍ନଟ ପାଇଁ, ଅବସ୍ଥିତିର ଉଚ୍ଚ ସଠିକତା > ମୋଡ୍ ଚୟନ କରନ୍ତୁ।</string>
+    <string name="cmw_high_accuracy_dialog_title">ଉଚ୍ଚ ସଠିକତା ଚୟନ କରନ୍ତୁ</string>
+    <string name="cmw_legal_content">By enabling “Share Location”, you agree that location data associated with your mobile phone and/or Gear device will be transmitted through a Samsung server in order to provide the Find My Gear &amp; Find My Device service. No data or information about your device location is stored on the Samsung server.</string>
+    <string name="cmw_legal_content1">“%1$s &amp; %2$s” ସକ୍ଷମ କରି ଆପଣ ସମ୍ମତ ହୁଅନ୍ତି ଯେ %1$s &amp; %2$s ସେବା ସନ୍ଧାନ କରନ୍ତୁ ପ୍ରଦାନ କରିବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଫୋନ୍‌ ଏବଂ/କିମ୍ୱା ଗିଅର୍‌ ଭିଭାଇସ୍‌ ସହିତ ସମ୍ପର୍କିତ ଅବସ୍ଥାନର ଡାଟା ଗୋଟିଏ Samsung ସର୍ଭର ମଧ୍ୟରେ ସ୍ଥାନାନ୍ତରିତ ହେବ। Samsung ସର୍ଭରେ ସଞ୍ଚିତ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅବସ୍ଥାନ ସମ୍ପର୍କରେ କୌଣସି ଡାଟା କିମ୍ୱା ସୂଚନା ନାହିଁ।</string>
+    <string name="cmw_legal_content1_no_gps">“%1$s &amp; %2$s” ସକ୍ଷମ କରି ଆପଣ ସମ୍ମତ ହୁଅନ୍ତି ଯେ %2$s ସେବା ପ୍ରଦାନ କରିବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଫୋନ୍‌ ଏବଂ/କିମ୍ୱା ଗିଅର୍‌ ଭିଭାଇସ୍‌ ସହିତ ସମ୍ପର୍କିତ ଅବସ୍ଥାନର ଡାଟା ଗୋଟିଏ Samsung ସର୍ଭର ମଧ୍ୟରେ ସ୍ଥାନାନ୍ତରିତ ହେବ। Samsung ସର୍ଭରେ ସଞ୍ଚିତ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅବସ୍ଥାନ ସମ୍ପର୍କରେ କୌଣସି ଡାଟା କିମ୍ୱା ସୂଚନା ନାହିଁ।</string>
+    <string name="cmw_legal_content_2">ସାମସଙ୍ଗ ଗୋପନୀୟ ନୀତି</string>
+    <string name="cmw_legal_title">ଆଇନଗତ ସୂଚନା</string>
+    <string name="cmw_location">ଅବସ୍ଥାନ ସେବା ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="cmw_show_on_map">ମାନଚିତ୍ରରେ ଦେଖାନ୍ତୁ</string>
+    <string name="color_black">କଳା</string>
+    <string name="color_blue">ନୀଳ</string>
+    <string name="color_brown">ବାଦାମୀ</string>
+    <string name="color_gray">ଧୂସର</string>
+    <string name="color_green">ସବୁଜ</string>
+    <string name="color_light_sky_blue">ହାଲୁକା ଆକାଶୀ ନୀଳ</string>
+    <string name="color_medium_purple">ମଧ୍ୟମ ବାଇଗଣୀ</string>
+    <string name="color_orange">କମଳା</string>
+    <string name="color_pink">ଗୋଲାପୀ</string>
+    <string name="color_purple">ବାଇଗଣି</string>
+    <string name="color_red">ଲାଲ୍</string>
+    <string name="color_spring_green">ସବୁଜ ସ୍ପ୍ରିଙ୍ଗ୍</string>
+    <string name="common_none">କିଛି ନାହିଁ</string>
+    <string name="common_off">ଅଫ୍</string>
+    <string name="common_on">ଅନ୍</string>
+    <string name="common_recent_apps">ସମ୍ପ୍ରତି ଆପସ୍</string>
+    <string name="connect_popup_content">%sକୁ ସଂଯୋଗ କରୁଛି…</string>
+    <string name="connected_by_trasport_BT">ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଜିତ</string>
+    <string name="connected_by_trasport_SCS">ରିମୋଟ୍ ଭାବେ ସଂଯୋଜିତ</string>
+    <string name="connecting_content">ଗିଅରକୁ ସଂଯୋଗ କରୁଛି</string>
+    <string name="connecting_doc">ଆପଣଙ୍କର %1$sରେ ସଂଯୋଗ ପରେ ଆପଣ %2$sର ମାଧ୍ୟମରେ ଏହାର ସେଟିଂସ୍ ପରିବର୍ତ୍ତନ କରି ପାରିବେ ଏବଂ ଆପ୍ଲିକେସନଗୁଡିକ ସଂସ୍ଥାପନ କରି ପାରନ୍ତି।</string>
+    <string name="connecting_popup_message">ଗିଅରକୁ ସଂଯୋଗ ହେଉଛି…</string>
+    <string name="connecting_popup_title">ଗିଅରକୁ ସଂଯୋଗ କରିବା</string>
+    <string name="connecting_to_gear_ing">ଗିଅରକୁ ସଂଯୋଗ ହେଉଛି…</string>
+    <string name="connectingdoc">ଆପଣଙ୍କର ଗିଅରକୁ ସଂଯୋଗ କରିବା ପରେ, ଆପଣ ଗିଅର୍‌ ପରିଚାଳକ ମାଧ୍ୟମରେ ଏହାର ସେଟିଂସ୍ ପରିବର୍ତ୍ତନ ଏବଂ ଆପ୍ଲିକେସନଗୁଡିକୁ ସଂସ୍ଥାପନ କରିପାରିବେ।</string>
+    <string name="connection_error_dialog_message">ଆପଣଙ୍କ ଡିଭାଇସ୍ ସଂଯୋଜିତ ହୋଇ ନାହିଁ। ଏହାକୁ ପୁନଃସଂଯୋଗ କରିବାକୁ ଚେଷ୍ଟା କରିବ।</string>
+    <string name="dialog_check_phone_number_msg1">ନିମ୍ନଲିଖିତ ସୂଚନା ସଠିକ୍ ତାହା ନିଶ୍ଚିତ କରନ୍ତୁ:</string>
+    <string name="dialog_check_phone_number_msg2">ମୋବାଇଲ୍ ଫୋନ୍ ନମ୍ଵର୍: %s</string>
+    <string name="dialog_check_phone_number_msg3">ଗିଅର୍ ଫୋନ୍ ନମ୍ଵର୍: %s</string>
+    <string name="dialog_check_phone_number_msg4">ନିଶ୍ଚିତ କରିବାକୁ “ଓକେ” ଟ୍ୟାପ୍‍ କରି ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରନ୍ତୁ।</string>
+    <string name="dialog_enable_remote_connection_desc">ସ୍ୱତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ, ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ କରନ୍ତୁ, ତାପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="dialog_enable_remote_connection_title">ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ</string>
+    <string name="dialog_permission_message">%s ବ୍ୟବହାର କରିବାକୁ ଅସମର୍ଥ। “ସେଟିଂସ୍‍” ଟ୍ୟାପ୍‌ କରନ୍ତୁ, ଆପ୍ଲିକେସନ୍‌ ସୂଚନା > ଅନୁମତିଗୁଡିକୁ ଯାଆନ୍ତୁ, ତାପରେ ନିମ୍ନଲିଖିତ ଅନୁମତିଗୁଡିକୁ ଅନୁମତି ଦିଅନ୍ତୁ ଏବଂ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ:</string>
+    <string name="dialog_popup_button_cancel">ବାତିଲ୍</string>
+    <string name="dialog_reverse_msg">ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀ ଉପରେ ନିର୍ଭର କରି, ଏହି ବୈଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସ୍ ଏବଂ ଗିଅରକୁ ଅନୁମତି ଦେବାର ପୃଥକ ଗ୍ରହୀତାଗୁଡିକ ଆବଶ୍ୟକୀୟୀୟ ହୋଇପାରେ। ଏହା ଦ୍ଵାରା ଅତିରିକ୍ତ ଦର ଲାଗୁ ହୋଇପାରେ।</string>
+    <string name="dialog_set_phone_number_msg">ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ, ଆପଣ ଯେଉଁ ଡିଭାଇସଗୁଡିକରେ ଆଗମନ କଲଗୁଡିକୁ ଏବଂ ସେଥିରୁ ଅଗ୍ରଗାମୀ କରିବାକୁ ଚାହୁଁଥିବା ଫୋନ୍ ନମ୍ଵରଗୁଡିକୁ ସେଟ୍ କରନ୍ତୁ।</string>
+    <string name="dialog_set_phone_number_title">ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରୁଛି</string>
+    <string name="disable_loc_text">ଅଂଶୀଦାର ଅବସ୍ଥାନ ଅକ୍ଷମ ହେବ। ମୋ ଗିଅର୍‌ ସନ୍ଧାନ କରନ୍ତୁ କିମ୍ୱା ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ କରନ୍ତୁ ମାଧ୍ୟମରେ ଆପଣଙ୍କ ଗିଅର୍ କିମ୍ୱା ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସନ୍ଧାନ କରିବା ପାଇଁ ଆପଣ ଅବସ୍ଥାନ ସୂଚନା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ନୁହେଁ।</string>
+    <string name="disable_loc_text_no_gps">ଅଂଶୀଦାର ଅବସ୍ଥାନ ଅକ୍ଷମ ହେବ। ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ କରନ୍ତୁ ମାଧ୍ୟମରେ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସନ୍ଧାନ କରିବା ପାଇଁ ଆପଣ ଅବସ୍ଥାନ ସୂଚନା ବ୍ୟବହାର କରିବାକୁ ସମର୍ଥ ନୁହେଁ।</string>
+    <string name="disable_remote_connection">ରିମୋଟ୍ ସଂଯୋଜନା ଅକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="disable_remote_connection_fmm_fmd">ମୋ ଗିଅର୍‌ ସନ୍ଧାନ ଏବଂ ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ</string>
+    <string name="disable_remote_connection_receiving_blocked">ମୋବାଇଲ୍‌ ଡିଭାଇସରୁ ସନ୍ଦେଶଗୁଡିକ, ଇମେଲଗୁଡିକ ଏବଂ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରାପ୍ତ କରିବା</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">ମୋବାଇଲ୍‌ ଡିଭାଇସରୁ ଇମେଲଗୁଡିକ ଏବଂ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରାପ୍ତ କରୁଛି</string>
+    <string name="disable_remote_connection_warning">ରିମୋଟ୍ ସଂଯୋଜନା ଅକ୍ଷମ ହୋଇପାରେ। ଆପଣଙ୍କ ଗିଅର୍ ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସଂଯୋଜିତ ନହେବା ପର୍ଯ୍ୟନ୍ତ ନିମ୍ନୋକ୍ତ ପ୍ରକାର୍ଯ୍ୟଗୁଡିକ ଉପଲବ୍ଧ ହେବ ନାହିଁ:</string>
+    <string name="disable_share_location">ଅବସ୍ଥାନ ଅଂଶୀଦାର ଅକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="disconnect_popup_content">ବିଛିନ୍ନ କରିଛି %s…</string>
+    <string name="do_not_show_again">ପୁନଃ ଦେଖାନ୍ତୁ ନାହିଁ</string>
+    <string name="enable_auto_call_forwarding_msg">ଆଗମନ କଲଗୁଡିକୁ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ ହେବ ଯେତେବେଳେ ଗିଅର୍ ବିଛିନ୍ନ ହୋଇଥିବ। ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀ ଉପରେ ନିର୍ଭର କରେ, ଯାହାକି ଅତିରିକ୍ତ ଦର ଲାଗୁ ହୋଇ ପାରେ। ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ “ଓକେ” ଟ୍ୟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="enable_auto_call_forwarding_title">ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ</string>
+    <string name="enable_more_notifications_enable">ସକ୍ଷମ</string>
+    <string name="enable_notification_access">ବିଜ୍ଞପ୍ତି ଆକସେସ୍ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="enable_notification_access_desc">"ଏହି ପ୍ରକାର୍ଯ୍ୟ ଆପଣ ପ୍ରାପ୍ତ କରିଥିବା ସମସ୍ତ ବିଜ୍ଞପ୍ତି ପଢିବାକୁ ସମର୍ଥ ହେବ, ଯାହାକି ଆପଣଙ୍କୁ ପ୍ରେରଣ ହୋଇଥିବା ସମ୍ପର୍କଗୁଡିକ ଏବଂ ସନ୍ଦେଶଗୁଡିକ ପରି ବ୍ୟକ୍ତିଗତ ସୂଚନାକୁ ଅନ୍ତର୍ଭୁକ୍ତ କରିପାରେ। ଏହା ମଧ୍ୟ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରତ୍ୟାଖ୍ୟାନ କରିବାରେ କିମ୍ବା ସେଗୁଡିକ ସହିତ ସମ୍ବନ୍ଧୀୟ କ୍ରିୟାଗୁଡିକ ଚୟନ କରିବାକୁ ସମର୍ଥ ହେବ।
+ଆପଣଙ୍କ ଗିଅରରେ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରାପ୍ତ କରିବାକୁ, “ସକ୍ଷମ” ଟ୍ୟାପ୍‌ କରନ୍ତୁ, ତାପରେ %s ସକ୍ଷମ କରନ୍ତୁ।"</string>
+    <string name="enable_share_location">ଅବସ୍ଥାନ ଅଂଶୀଦାର ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="enabled_loc">ଅବସ୍ଥାନ ଅଂଶୀଦାର ସକ୍ଷମ ହୋଇଛି।</string>
+    <string name="error_enter_device_name">ଡିଭାଇସ୍ ନାମ ପ୍ରବେଶ କରନ୍ତୁ।</string>
+    <string name="error_occurred">ତ୍ରୁଟି ଘଟିଛି</string>
+    <string name="eula_i_agree">ମୁଁ ରାଜି</string>
+    <string name="failed_tshare_msg">କଲ୍ ଅଗ୍ରଗା. ସକ୍ଷମ କରି. ବିଫଳ ହୋଇ.। T ଅଂଶୀଦା. କୌ. ପ୍ରତିକ୍ରି. ନାହିଁ।</string>
+    <string name="find_my_device">ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ</string>
+    <string name="find_my_gear">ମୋ ଗିଅର୍‌ ସନ୍ଧାନ</string>
+    <string name="find_watch_btn_start">ଆରମ୍ଭ</string>
+    <string name="find_watch_btn_stop">ସ୍ଥଗିତ</string>
+    <string name="find_watch_off">ଆପଣଙ୍କ ଗିଅର୍‌ ଖୋଜିବାକୁ, ଆରମ୍ଭ ଟ୍ୟାପ୍ କରନ୍ତୁ। ଗିଅର୍‌ ଏକ ଧ୍ଵନି ବଜାଇବ ଏବଂ ଏହାର ସ୍କ୍ରିନ୍‌ ଟର୍ନ୍ ଅନ୍ ହେବ।</string>
+    <string name="find_watch_on">ଆପଣଙ୍କ ଗିଅର୍ ଖୋଜିବା ସ୍ଥଗିତ କରିବାକୁ, “ସ୍ଥଗିତ” ଟ୍ୟାପ୍ କରନ୍ତୁ। ଏକ ଧ୍ଵନି ବଜାଇ ଗିଅର୍ ସ୍ଥଗିତ ହେବ ଏବଂ ଏହାର ସ୍କ୍ରିନ୍ ଟର୍ନ୍ ଅଫ୍ ହେବ।</string>
+    <string name="font_gear_name">ଗିଅର୍‍</string>
+    <string name="font_noti_uninstall_idle_font">%1$s ଅଣସଂସ୍ଥାପିତ ହେବ, ଏବଂ ଆପଣଙ୍କ %2$sରେ ଡିଫଲ୍ଟ ଫଣ୍ଟ ପ୍ରୟୋଗ କରାଯିବ।</string>
+    <string name="force_wifi_direct_msg">Wi-Fi Direct ମାଧ୍ୟମରେ ଆପ୍ଲିକେସନ୍‌ ସଂସ୍ଥାପିତ ହେବ। ଏହା ଆପଣଙ୍କ ସମ୍ପ୍ରତି Wi-Fi Direct ସଂଯୋଜନା ସମାପ୍ତ କରିବ। ଆପଣଙ୍କ ଦ୍ୱାରା ସଂସ୍ଥାପନ ବାତିଲ୍‍ କରାଯିବା ଦ୍ୱାରା ଆପଣ ଏହି ଆପ୍ଲିକେସନ୍ ପୁନଃସଂସ୍ଥାପନ କରିବାପାଇଁ ଏହାକୁ ଡାଉନ‌ଲୋଡ୍ କରିବା ଆବ୍ୟଶକ।</string>
+    <string name="force_wifi_direct_title">ସଂସ୍ଥାପନ</string>
+    <string name="force_wifi_install">ସଂସ୍ଥାପନ</string>
+    <string name="gear2_backup_confirm_text">ଯଦି ଆପଣଙ୍କ ଡାଟା ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟାକଅପ୍ ନିଅନ୍ତି, ମୋବାଇଲ୍ ଡିଭାଇସରେ ଥିବା ସମ୍ପ୍ରତି ଗିଅର୍ ବ୍ୟାକଅପ୍ ଡାଟା ଆପଣଙ୍କ ସର୍ବନୂତନ ଗିଅର୍ ଡାଟା ଦ୍ଵାରା ବିସ୍ଥାପିତ ହେବ।</string>
+    <string name="gear2_restore_confirm_text">ଯଦି ଆପଣଙ୍କ ଡାଟା ଆପଣ ପୁନରୁଦ୍ଧାର କରନ୍ତି, ଆପଣଙ୍କ ଗିଅରରେ ଥିବା ସମ୍ପ୍ରତି ଡାଟା, ଆପଣଙ୍କ ସମ୍ପ୍ରତି ଗିଅର୍ ବ୍ୟାକଅପ୍ ଡାଟା ଦ୍ଵାରା ବିସ୍ଥାପିତ ହେବ।</string>
+    <string name="gear2_text">"ଆପଣଙ୍କ %1$s ବିଷୟବସ୍ତୁ ବ୍ୟାକଅପ୍ କରିବାକୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜ୍ ବ୍ୟବହାର କରନ୍ତୁ:
+%2$s
+
+ଯଦି ଆପଣ ଏହି ବିଷୟବସ୍ତୁର ବ୍ୟାକଅପ୍ ପୂର୍ବରୁ ନେଇଛନ୍ତି, ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ %3$sରେ ପୁନରୁଦ୍ଧାର କରିପାରିବେ।
+
+ଫାଇଲର ଆକାର ଉପରେ ନିର୍ଭର କରି, ଏହା କିଛି ସମୟ ନେଇ ପାରେ।"</string>
+    <string name="gear2_text_import3">ସେଟିଂସ୍</string>
+    <string name="gear_bnr_desc">"ନିମ୍ନଲିଖିତ %1$s ଡାଟା ବ୍ୟାକ୍‌ଅପ୍ କରିବାକୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜ୍ ବ୍ୟବହାର କରନ୍ତୁ: %2$s
+
+ଆପଣ ଯଦି ପୂର୍ବେ ଆପଣଙ୍କର %3$s ଡାଟାର ବ୍ୟାକ୍‌ ଅପ୍‌ ନେଇ ଥାଆନ୍ତି ତେବେ ବର୍ତ୍ତମାନ ଆପଣ ତାହାକୁ ଆପଣଙ୍କ %4$sରେ ପୁନଃଷ୍ଟୋର୍ କରି ପାରିବେ।
+
+ଫାଇଲଗୁଡିକର ଆକାର ଉପରେ ନିର୍ଭର କରି ଏଥିପାଇଁ କିଛି ସମୟ ଲାଗିପାରେ।"</string>
+    <string name="gear_fit">ସାମସଙ୍ଗ ଗିଅର୍ ଫିଟ୍</string>
+    <string name="gear_location_popup_message">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ଗିଅର୍‌ ସ୍କାନ୍ କରୁଛି। ଏହା କିଛି ମିନିଟ୍ ସମୟ ନେବ। ଯଦି ଘର ଭିତରେ ଥାଏ ଆପଣଙ୍କ ଗିଅର୍ ଚିହ୍ନଟ କରିବାରେ କଷ୍ଟ ହୋଇପାରେ।</string>
+    <string name="gear_location_popup_title">ଗିଅର୍ ଚିହ୍ନଟ</string>
+    <string name="gear_location_text">ଗିଅର୍ ଅବସ୍ଥାନ</string>
+    <string name="gear_lock_success">ଗିଅର୍‌ ଲକ୍ ହୋଇଛି।</string>
+    <string name="gear_lock_text">ଲକ୍ ଗିଅର୍</string>
+    <string name="gear_locked">ଗିଅର୍ ଲକ୍ ହୋଇଛି</string>
+    <string name="gear_locked_text1">ଗିଅର୍‌ ଲକ୍ ହୋଇଛି। ଅନଲକ୍ କରିବାକୁ, ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ମୋବାଇଲ୍ ଡିଭାଇସକୁ ଗିଅର୍ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="gear_phone_number">ଗିଅର୍ ଫୋନ୍ ନମ୍ଵର୍</string>
+    <string name="gear_phone_number_popup_desc">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ସମସ୍ତ କଲ୍ %sକୁ ଅଗ୍ରଗାମୀ କରାଯିବ।</string>
+    <string name="gear_phone_number_popup_desc_vzw">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ସମସ୍ତ ଉତ୍ତର ଦେଇଥିବା କଲ୍ %sକୁ ଅଗ୍ରଗାମୀ କରାଯିବ।</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">ଆପଣଙ୍କ ଗିଅର୍‌ ଲକ୍‌ କରିବାକୁ, ପ୍ରଥମେ ନିଶ୍ଚିତ ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ କରିବାକୁ ହେବ।</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">ଆପଣଙ୍କ ଗିଅର୍‌ ପୁନଃସେଟ୍ କରିବାକୁ, ପ୍ରଥମେ ନିଶ୍ଚିତ ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ କରିବାକୁ ହେବ।</string>
+    <string name="gear_reset_text">ଗିଅର୍ ପୁନଃସେଟ୍ କରନ୍ତୁ</string>
+    <string name="gear_to_mobile">ଗିଅରରୁ ମୋବାଇଲକୁ</string>
+    <string name="gear_to_mobile_des">ଡିଭାଇସଗୁଡିକ ଦୁଇଟି ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଜିତ ଥିବା ସମୟରେ ଆପଣଙ୍କ ଗିଅରରେ କରାଯାଇ ଥିବା କଲଗୁଡିକ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ପ୍ରାପ୍ତ କରନ୍ତୁ।</string>
+    <string name="gear_unable_to_locate_message">ଅବସ୍ଥାନ ସନ୍ଧାନ କରିବାକୁ ବିଫଳ ହୋଇଛି। ପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="gear_unable_to_locate_title">ଗିଅର୍ ଚିହ୍ନଟ କରିବାରେ ଅସମର୍ଥ</string>
+    <string name="gearmanager_app_name">ସାମସଙ୍ଗ ଗିଅର୍</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">ୱାଲପେପର୍‌</string>
+    <string name="home_bg_color">ରଙ୍ଗଗୁଡିକ</string>
+    <string name="home_bg_colors_title">ଉପଲବ୍ଧ ରଙ୍ଗଗୁଡିକ</string>
+    <string name="home_bg_delete_actionbar_selected">ଚୟନିତ</string>
+    <string name="home_bg_delete_dialog_msg">%d ୱାଲପେପର୍‌ ଗିଅର୍‌ ପରିଚାଳକ ଏବଂ ଆପଣ‍ଙ୍କ ଗିଅରରୁ ଅପସାରଣ କରାଯିବ।</string>
+    <string name="home_bg_delete_select_all">ସମସ୍ତ ଚୟନ</string>
+    <string name="home_bg_max_more_image_toast">ସର୍ବାଧିକ ସଂଖ୍ୟାକର (%d) ୱାଲପେପରରେ ପହଞ୍ଚିଛି।</string>
+    <string name="home_bg_more_images">ଅଧିକ ଫଟୋ</string>
+    <string name="home_bg_popup_wallpaper_msg">ଗିଅର୍ ୱାଲପେପରଗୁଡିକ ଡାଉନଲୋଡ୍ କରୁଛି…</string>
+    <string name="home_bg_popup_wallpaper_title">ୱାଲପେପରଗୁଡିକୁ ଡାଉନଲୋଡ୍ କରନ୍ତୁ</string>
+    <string name="home_bg_toast_saved">ସଞ୍ଚୟ ହୋଇଛି</string>
+    <string name="home_bg_wallpaper">ୱାଲପେପର୍‌</string>
+    <string name="home_bg_wallpapers_title">ଉପଲବ୍ଧ ୱାଲପେପରଗୁଡିକ</string>
+    <string name="homelayout_apps">ଆପ୍ଲିକେସନଗୁଡିକ</string>
+    <string name="incoming_calls_title">ଆଗମନ କଲଗୁଡିକ</string>
+    <string name="info_build_number">ସଫ୍ଟୱେୟାର୍ ସଂସ୍କରଣ</string>
+    <string name="info_model_number">ମଡେଲ୍ ନମ୍ଵର୍</string>
+    <string name="info_software_update">ସଫ୍ଟୱେୟାର୍ ଅପଡେଟ୍</string>
+    <string name="information_provision_agreement">ସୂଚନା ପ୍ରାଧିକାର ଚୁକ୍ତି</string>
+    <string name="information_provision_agreement_mgs">"Nuance Communications, Inc. ନାମକ ଏକ ତୃତୀୟ ପକ୍ଷ ସେବା ପ୍ରଦାନକାରୀଙ୍କ ଦ୍ବାରା ଯୋଗାଇଦିଆଯାଉଥିବା କଣ୍ଠସ୍ବର ଚିହ୍ନଟକରଣ ବୈଷୟିକ ଜ୍ଞାନକୌଶଳକୁ Voice Memo ବ୍ୟବହାର କରେ. ଅତଏବ, ଆପଣଙ୍କ କଣ୍ଠସ୍ବର ସୂଚନା Nuance (ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକାରେ ଅବସ୍ଥିତ) ଦ୍ବାରା ଚାଳିତ ଏକ ସର୍ଭର୍ରେ ଅପରିହାର୍ଯ୍ୟ ଭାବେ ଗଚ୍ଛିତ ହୁଏ, ଏବଂ Voice Memo ବ୍ୟବହାର କରିବା ଦ୍ବାରା ଆପଣଙ୍କୁ Nuanceର ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ ସହ ରାଜି ହେବାର ଆବଶ୍ୟକତା ରହିଛି.
+ ସେବାର ଉତ୍କର୍ଷ ସାଧନ ଏବଂ ପରିବର୍ଦ୍ଧିତ ବୈଷୟିକ ଜ୍ଞାନ କୌଶଳର ଉଦ୍ଦେଶ୍ୟ ନିମନ୍ତେ ଆପଣଙ୍କ କଣ୍ଠସ୍ବର ନିବେଶକୁ ବ୍ୟବହାର କରିବାର ଅଧିକାରକୁ Nuance ସଂରକ୍ଷିତ ରଖିଅଛି. ପୂର୍ବରୁ ଉଲ୍ଲେଖ କରାଯାଇଥିବା କଣ୍ଠସ୍ବର ନିବେଶକୁ Nuance ଏହାର ସହଯୋଗୀମାନଙ୍କୁ ମଧ୍ୟ ପ୍ରଦାନ କରିବାର ଅଧିକାର ସଂରକ୍ଷିତ ରଖିଅଛି. ପୂର୍ବରୁ ଉଲ୍ଲେଖ କରାଯାଇଥିବା ଉଦ୍ଦେଶ୍ୟସକଳ ପୂରଣ ନ ହେବା ପର୍ଯ୍ୟନ୍ତ ଆପଣଙ୍କର କଣ୍ଠସ୍ବର ନିବେଶ ସୂଚନା ସଂରକ୍ଷିତ ହୋଇରହିବ. Voice Memo ବିଷୟକ ସୂଚନା ନିମନ୍ତେ, ଦୟାକରି Samsung ଗୋପନୀୟ ନୀତି ଏବଂ Nuance ଗୋପନୀୟ ନୀତିପାଠ କରନ୍ତୁ.
+ ଉପରେ ବର୍ଣ୍ଣିତ ଆପଣଙ୍କ ସୂଚନା ପ୍ରଦାନ ସହ ଯଦି ଆପଣ ଏକମତ ନୁହଁନ୍ତି ତେବେ ଆପଣ Voice Memo ବ୍ୟବହାର କରିପାରିବେ ନାହିଁ."</string>
+    <string name="init_manage_notifications_desc">ଆପଣଙ୍କ %1$sରେ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରାପ୍ତ କରିବାକୁ ଚାହୁଁଥିବା ଆପ୍ଲିକେସନଗୁଡିକ ଚୟନ କରନ୍ତୁ। ଆପଣଙ୍କ %2$s ବ୍ୟାଟେରୀ ପାୱାର୍ ସଞ୍ଚୟ କରିବାକୁ, ଆପ୍ଲିକେସନଗୁଡିକ ଅଣଚୟନ କରନ୍ତୁ ଯାହା ଠାରୁ ଆପଣ ବିଜ୍ଞପ୍ତିଗୁଡିକ ଚାହୁଁନାହାଁନ୍ତି।</string>
+    <string name="install_in_progress">ପ୍ରଗତିରେ ଅଛି…</string>
+    <string name="invalid_rename_character">ଅବୈଧ ବର୍ଣ୍ଣ ପ୍ରବେଶ ହୋଇଛି। ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="latest_version">ନବୀନତ୍ତମ ସଂସ୍କରଣ ସଂସ୍ଥାପିତ ହୋଇଛି</string>
+    <string name="latitude">ଅକ୍ଷାଂଶ</string>
+    <string name="limit_notification_desc">ମୋବାଇଲ୍‌ ଡିଭାଇସ୍‌ ବ୍ୟବହାର ସମୟରେ ଗିଅର୍‌ ସତର୍କ ଉପସ୍ଥାପିତ ହେବାକୁ ଅବରୋଧ କରନ୍ତୁ।</string>
+    <string name="limit_notification_dialog_desc">ଆପଣଙ୍କ ଗିଅରରେ ବିଜ୍ଞପ୍ତିଗୁଡିକ ସକ୍ଷମ କରିବାକୁ ଅସମର୍ଥ। ଆପଣଙ୍କ ମୋବାଇଲ୍‍ ଡିଭାଇସରେ କୌଣସି ସ୍କ୍ରିନ୍‍ ଲକ୍‍ ସେଟ୍‍ ହୋ‍ଇନାହିଁ।</string>
+    <string name="limit_notification_title">ସୀମିତ ବିଜ୍ଞପ୍ତି</string>
+    <string name="location_info_title">ଅବସ୍ଥାନ ଅଂଶୀଦାର କରନ୍ତୁ</string>
+    <string name="lock_gear_legal_text1">By using Lock Gear, you can remotely lock your Gear to prevent unauthorised use. You may unlock the Gear by reconnecting it to the mobile device.</string>
+    <string name="lock_gear_legal_text2">* The Lock Gear may take some time to function or may even fail depending on the state of your Gear, mobile device or network environment.</string>
+    <string name="lock_gear_text">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଏବଂ ଗିଅର୍ ବ୍ଲଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଜିତ ହୋଇଛି, ଯେବେ ଆପଣଙ୍କ ଗିଅର୍ ଲକ୍ କରିବାକୁ ଅସମର୍ଥ।</string>
+    <string name="login_to_samsung_account">Samsung accountରେ ସାଇନ୍ ଇନ୍ କର.</string>
+    <string name="login_to_samsung_account_desc">ଆପଣଙ୍କ ଗିଅରରେ ରିମୋଟ୍‌ ସଂଯୋଗ ସକ୍ଷମ କରିବା ପାଇଁ, ଆପଣଙ୍କ Samsung accountରେ ସାଇନ୍‌ ଇନ୍‌ କରନ୍ତୁ।</string>
+    <string name="login_to_samsung_account_full_desc">"ବ୍ଲଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଜିତ ନ କରିଲେ ମଧ୍ୟ ନିମ୍ନଲିଖିତ ବୈଶିଷ୍ଟ୍ୟଗୁ. ବ୍ୟବହାର କରିବା ପାଇଁ ଆପଣଙ୍କ Samsung accountରେ ସାଇନ୍‌ ଇନ୍‌ କରନ୍ତୁ:
+- ବିଜ୍ଞପ୍ତିଗୁ. ପ୍ରାପ୍ତ କରୁଛି
+- ରିମୋଟ୍ ସଂଯୋଜନା ମାଧ୍ୟମରେ ଆପ୍ଲିକେସନଗୁ. ବ୍ୟବହାର କରେ
+ରିମୋଟ୍ ସଂଯୋଜନା ବ୍ୟବହାର କରିବା ଫଳରେ ଅତିରିକ୍ତ ଦର ଲାଗୁ ହୋଇପାରେ।"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"ଆପଣ ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ଆପଣଙ୍କ ଫୋନକୁ ସଂଯୋଜିତ ଥିବା ସମୟରେ, ଏକ Samsung account ଆପଣ ମୋବାଇଲ୍ ଡାଟା ଉପରେ ନିମ୍ନଲିଖିତ ଦିଆ ହେବ:
+- ସନ୍ଦେଶଗୁଡିକ, ଇମେଲଗୁଡିକ, ଏବଂ ଅନ୍ୟ ବିଜ୍ଞପ୍ତି ପ୍ରାପ୍ତ କରି
+- ରିମୋଟ୍ ସଂଯୋଜନା ମାଧ୍ୟମରେ ଆପଣଙ୍କ ଫୋନକୁ ଏକ ସଂଯୋଜନା ଆବଶ୍ୟକ ଯାହା ଗିଅର୍ ଆପ୍ଲିକେସନଗୁଡିକ ବ୍ୟବହାର କରେ।
+
+ମନେରଖନ୍ତୁ ଯେ ଆପଣଙ୍କ Samsung account ମାଧ୍ୟମରେ ରିମୋଟ୍ ସଂଯୋଜନା ଆପଣଙ୍କ ଡାଟା ଯୋଜନା ବ୍ୟବହାର କରେ।"</string>
+    <string name="longitude">ଦ୍ରାଘିମା</string>
+    <string name="main_bt_unpaired">ଅନପେୟାର୍</string>
+    <string name="main_disconnected">ବିଛିନ୍ନ ହେଲା</string>
+    <string name="manage_applications">ଆପ୍ଲିକେସନ୍ ପରିଚାଳନା କରନ୍ତୁ</string>
+    <string name="manage_notifications">ବିଜ୍ଞପ୍ତି ପରିଚାଳକ</string>
+    <string name="manual_call_forwarding_for_att_msg">"ଆପଣଙ୍କ ସ୍ମାର୍ଟଫୋନକୁ ଡାୟଲ୍‌ ହେଉଥିବା କଲ୍ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ ହୋଇପାରିବ।
+- ଆପଣଙ୍କ ସ୍ମାର୍ଟଫୋନ୍‌ କିଛି ଥର ରିଂ ହେବ ଏବଂ ତାପରେ କଲ୍ ଆପଣଙ୍କ ଗିଅରକୁ ଅଗ୍ରଗାମୀ ହେବ।
+- ଯଦି ଆପଣ ଆପଣଙ୍କ ଗିଅରରେ କଲ୍ ଉତ୍ତର କରନ୍ତି ନାହିଁ, ତେବେ କଲର୍ ହୁଏତ ଭଏସମେଲ୍ ପରିତ୍ୟାଗ କରି ପାରନ୍ତି ଯାହାକୁ ଆପଣ ଆପଣଙ୍କ ଗିଅରରେ ଶୁଣିପାରିବେ।
+ଆପଣ ବର୍ତ୍ତମାନ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ ଚାହାଁନ୍ତି କି?"</string>
+    <string name="manual_call_forwarding_popup_desc">କଲ୍ ଅଗ୍ରଗାମୀ ଏକ ନେଟୱାର୍କ୍ ସେବା ଯାହା ଆଗମନ କଲଗୁଡିକ %s ନିର୍ଦ୍ଦିଷ୍ଟ ନମ୍ଵରକୁ ଡାଇଭର୍ଟ କରେ। ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀ ଉପରେ ନିର୍ଭର କରି, ଏକ ସଦସ୍ୟତା ଆପଣଙ୍କ ଗିଅରର ଏହି ବୈଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବାର ଅନୁମତି ଦେବାର ଆବଶ୍ୟକୀୟ ହୋଇପାରେ। ଏହା ଦ୍ଵାରା ଅତିରିକ୍ତ ଦର ଲାଗୁ ହୋଇପାରେ।</string>
+    <string name="manual_call_forwarding_popup_desc_arg">ମୋବାଇଲ୍ ଡିଭାଇସ୍</string>
+    <string name="masterapp_not_installed">%1$s ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ସଂସ୍ଥାପିତ ହୋଇ ନାହିଁ। ଆପଣଙ୍କ ଗିଅରରେ %2$s ବ୍ୟବହାର କରିବାକୁ, ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ %1$s ଡାଉନଲୋଡ୍‌ କରନ୍ତୁ।</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ ସଂସ୍ଥାପିତ ହୋଇନାହିଁ। ଆପଣଙ୍କ ଗିଅରରେ %2$s ବ୍ୟବହାର କରିବାକୁ, ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସକୁ %1$s ଡାଉନଲୋଡ୍ କରନ୍ତୁ। ଆପଣଙ୍କୁ ଡାଉନଲୋଡ୍ ସ୍କ୍ରିନକୁ ନିଆଯିବ।</string>
+    <string name="masterapp_uninstalled">%1$s ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରୁ ଅଣସଂସ୍ଥାପିତ ହୋଇଛି। ଆପଣଙ୍କ ଗିଅରରେ %2$s ବ୍ୟବହାର କରିବାକୁ, ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରେ %1$s ଡାଉନଲୋଡ୍‌ କରନ୍ତୁ।</string>
+    <string name="maximum_size_warning">ସର୍ବାଧିକ ସଂଖ୍ୟର ବର୍ଣ୍ଣରେ ପହଞ୍ଚିଛି।</string>
+    <string name="menu_about_device">%s ବିଷୟରେ</string>
+    <string name="menu_actionbar_remove">ଅପସାରଣ</string>
+    <string name="menu_actionbar_uninstall">ଅଣସଂସ୍ଥାପନ</string>
+    <string name="menu_appsandsettigns">ଆପ୍ଲିକେସନ୍ ଏବଂ ସେଟିଂସ୍</string>
+    <string name="menu_clock">ଘଡି</string>
+    <string name="menu_display">ହୋମ୍ ସ୍କ୍ରିନ୍ ସମ୍ପାଦନ କରନ୍ତୁ</string>
+    <string name="menu_downloaded_font">ଫଣ୍ଟଗୁଡିକ ଡାଉନଲୋଡ୍ ହୋଇଛି</string>
+    <string name="menu_filetransfertogear">ଫାଇଲଗୁ. ଗିଅରକୁ ସ୍ଥାନାନ୍ତର କର.</string>
+    <string name="menu_gallery">ଫଟୋ</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">ଫିଟନେସ୍</string>
+    <string name="menu_help">ସହାୟତା</string>
+    <string name="menu_home_screen">ହୋମ୍ ସ୍କ୍ରିନ୍ ଷ୍ଟାଏଲର୍</string>
+    <string name="menu_music">ସଙ୍ଗୀତ</string>
+    <string name="menu_myapp">ମୋ ଆପ୍ଲିକେସନ୍</string>
+    <string name="menu_notification">ବିଜ୍ଞପ୍ତିଗୁଡିକ</string>
+    <string name="menu_rename">ପୁନଃନାମ</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">ଗିଅର୍ ଆପସ୍‌</string>
+    <string name="menu_settings">ସେଟିଂସ୍</string>
+    <string name="mobile_to_gear">ମୋବାଇଲରୁ ଗିଅରକୁ</string>
+    <string name="mobile_to_gear_des">ଦୁଇଟି ଡିଭାଇସ୍‌ ରିମୋଟ୍ ଭାବେ ସଂଯୋଜିତ ଥିବା ସମୟରେ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରେ କରାଯାଇ ଥିବା କଲଗୁଡିକ ଗିଅରରେ ପ୍ରାପ୍ତ କରନ୍ତୁ।</string>
+    <string name="monotype_default_font">ଡିଫଲ୍ଟ ଫଣ୍ଟ</string>
+    <string name="monotype_dialog_font_applemint">ଆପଲ୍ ମିଣ୍ଟ</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">ପପ୍</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">ଟିଙ୍କର ବେଲ୍</string>
+    <string name="more">ଅଧିକ</string>
+    <string name="more_options">ଅଧିକ ବିକଳ୍ପ</string>
+    <string name="multisim_title">ମଲ୍ଟି SIM</string>
+    <string name="navigate_up">ଉପରକୁ ନେଭିଗେଟ୍ କରନ୍ତୁ</string>
+    <string name="new_eula_error_log">ଡାଇଗ୍ନୋଷ୍ଟିକ୍ ବିଜ୍ଞପ୍ତି ରିପୋର୍ଟ୍ କର.</string>
+    <string name="new_eula_fmd2">ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ</string>
+    <string name="new_eula_fmg2">ମୋ ଗିଅର୍‌ ସନ୍ଧାନ</string>
+    <string name="new_eula_news_briefing">ସମାଚାର ବର୍ଣ୍ଣନା</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">ସାମସଙ୍ଗ କୀବୋର୍ଡ</string>
+    <string name="new_notification_list">ତାଲିକା ଦର୍ଶନ</string>
+    <string name="new_notifications_list_desc">ଘଣ୍ଟାର ବାମକୁ ଗିଅରରେ ପ୍ରାପ୍ତ ହୋଇଥିବା ନୂତନ ବିଜ୍ଞପ୍ତିଗୁଡିକ ଏକ ତାଲିକା ଦେଖାନ୍ତୁ।</string>
+    <string name="no_application_selected">କୌଣସି ଆପ୍ଲିକେସନ୍‌ ଚୟନ ହୋଇନାହିଁ</string>
+    <string name="no_downloaded_applications">କୌଣସି ଡାଉନଲୋଡ୍ ହୋଇଥିବା ଆପ୍ଲିକେସନ୍ ନାହିଁ</string>
+    <string name="no_of_application_selected">%dଟି ଆପ୍ଲିକେସନ୍‌ ଚୟନ ହୋଇନାହିଁ</string>
+    <string name="no_remote_connection_popup_msg">ସ୍ଵତଃ କଲ୍ ଅଗ୍ରଗାମୀ ସକ୍ଷମ କରିବାକୁ, ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରେ ସାମସଙ୍ଗ ଗିଅର୍ ଆପ୍ଲିକେସନ୍ ଖୋଲନ୍ତୁ ଏବଂ ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ କରନ୍ତୁ, ତାପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="no_remote_connection_popup_title">ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ</string>
+    <string name="notification_type">ବିଜ୍ଞପ୍ତି ପ୍ରକାର</string>
+    <string name="notification_type_desc">ଯଦିଓ ଆପଣଙ୍କ ଗିଅର୍‌ ବ୍ୟବହାର ହୁଏ, ଆପଣଙ୍କ ବିଜ୍ଞପ୍ତିଗୁଡିକ ଆପଣଙ୍କ ଶୀର୍ଷ ମନୋନୟନ ସ୍କ୍ରିନର ଉପରେ କ୍ଷୁଦ୍ର ପପ୍-ଅପ୍ ଭାବରେ ଦେଖାଯିବ।</string>
+    <string name="number_setting">ନମ୍ଵର୍ ସେଟିଂ</string>
+    <string name="ok">ଓକେ</string>
+    <string name="once">ଥରେ</string>
+    <string name="one_application_selected">1 ଆପ୍ଲିକେସନ୍ ଚୟନିତ</string>
+    <string name="popup_attention_email_msg">କେତେକ ଇମେଲ୍‌ ଆକାଉଣ୍ଟ ଇମେଲ୍‌ ସେଟିଂସରେ ଚୟନ କରାଯାଇ ନାହିଁ। ଆପଣଙ୍କ ଗିଅରରେ ଏହି ଆକାଉଣ୍ଟଗୁଡିକରୁ ସୂଚନା ପାଇବାକୁ, ଇମେଲ୍‌ ସେଟିଂସରେ “ଇମେଲ୍‌ ସୂଚନା” ଚୟନ କରନ୍ତୁ।</string>
+    <string name="popup_attention_message_msg">ଆପଣଙ୍କ ଗିୟରରେ ସନ୍ଦେଶଗୁଡିକ ପ୍ରେରଣ ଏବଂ ପ୍ରାପ୍ତ କରିବାକୁ, ଆପଣଙ୍କର ଡିଫଲ୍ଟ୍ ସନ୍ଦେଶକରଣ ଆପ୍ଲିକେସନ୍ %sରୁ ସନ୍ଦେଶକରଣକୁ ବଦଳିବ।</string>
+    <string name="popupmenu_search_for_new_device">ଡିଭାଇସ୍‌. ପରିଚାଳନା କର.</string>
+    <string name="preview_message_desc">ଆପଣଙ୍କ ଗିଅର ପପ୍-ଅପସ୍ ବିଜ୍ଞପ୍ତିଗୁଡିକରେ ଆଗମନ କଲ୍‍ ସୂଚନା ଏବଂ ଆଲରାମ୍ ବ୍ୟତୀତ ପ୍ରାପ୍ତ ହୋ‍ଇଥିବା ବିଜ୍ଞପ୍ତି ଏକ ଦର୍ଶନ ଦେଖାଏ।</string>
+    <string name="preview_message_title">ସନ୍ଦେଶ ପୂର୍ବାବଲୋକନ</string>
+    <string name="primary">ପ୍ରାଥମିକ</string>
+    <string name="privacypolicy_fmgfmd">“%1$s &amp; %2$s” ସକ୍ଷମ କରି ଆପଣ ସମ୍ମତ ହୁଅନ୍ତି ଯେ %1$s &amp; %2$s ସେବା ସନ୍ଧାନ କରନ୍ତୁ ପ୍ରଦାନ କରିବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଫୋନ୍‌ ଏବଂ/କିମ୍ୱା ଗିଅର୍‌ ଭିଭାଇସ୍‌ ସହିତ ସମ୍ପର୍କିତ ଅବସ୍ଥାନର ଡାଟା ଗୋଟିଏ Samsung ସର୍ଭର ମଧ୍ୟରେ ସ୍ଥାନାନ୍ତରିତ ହେବ। Samsung ସର୍ଭରେ ସଞ୍ଚିତ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅବସ୍ଥାନ ସମ୍ପର୍କରେ କୌଣସି ଡାଟା କିମ୍ୱା ସୂଚନା ନାହିଁ।</string>
+    <string name="privacypolicy_fmgfmd_no_gps">“%1$s &amp; %2$s” ସକ୍ଷମ କରି ଆପଣ ସମ୍ମତ ହୁଅନ୍ତି ଯେ %2$s ସେବା ପ୍ରଦାନ କରିବାକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଫୋନ୍‌ ଏବଂ/କିମ୍ୱା ଗିଅର୍‌ ଭିଭାଇସ୍‌ ସହିତ ସମ୍ପର୍କିତ ଅବସ୍ଥାନର ଡାଟା ଗୋଟିଏ Samsung ସର୍ଭର ମଧ୍ୟରେ ସ୍ଥାନାନ୍ତରିତ ହେବ। Samsung ସର୍ଭରେ ସଞ୍ଚିତ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅବସ୍ଥାନ ସମ୍ପର୍କରେ କୌଣସି ଡାଟା କିମ୍ୱା ସୂଚନା ନାହିଁ।</string>
+    <string name="privacypolicy_newsbriefing">ଏହି ଆପ୍ଲିକେସନ୍‌ ଉପଭୋକ୍ତାଙ୍କ ବିଭିନ୍ନ ଅଭିନବ ଉପାୟରେ ସାମାଜିକ ମିଡିଆ ଏବଂ ଇଣ୍ଟର୍ନେଟର ସହିତ ଆଦାନ ପ୍ରଦାନ କରିବାର ସାମର୍ଥ୍ୟ ପ୍ରଦାନ କରେ। ଆପଣ ଯଦି ଏହି ଆପ୍ଲିକେସନ୍‌ ସକ୍ଷମ କରନ୍ତି ତେବେ ଆପଣ କିପରି ବିଷୟବସ୍ତୁ ଏବଂ ବିଜ୍ଞାପନଗୁଡିକ ଦେଖନ୍ତି ଏବଂ ସେଗୁଡିକର ସହିତ ଆଦାନ ପ୍ରଦାନ କରନ୍ତି ତାହା ସହିତ ସେବାଗୁଡିକ କିପରି ଭାବେ ବ୍ୟବହାର କରିବେ ସେହି ବିଷୟରେ ତଥ୍ୟ ସଂଗ୍ରହ କରିବ। ଅଧିକ ବିବରଣୀ ପାଇଁ ଦୟାକରି ଫ୍ଲିପବୋର୍ଡ %1$s ବ୍ୟବହାରାର ସର୍ତ୍ତାବଳୀ %2$s ଏବଂ %3$s ଗୋପନୀୟତା ନୀତି %4$s ଦେଖନ୍ତୁ।</string>
+    <string name="privacypolicy_samsung_privacy_policy">ସାମସଙ୍ଗ ଗୋପନୀୟ ନୀତି</string>
+    <string name="progressdialog_please_wait">ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ…</string>
+    <string name="progressdialog_reinstalled_message">ସଂସ୍ଥାପନ କରୁଛି…</string>
+    <string name="progressdialog_reinstalled_popup_content">ପୁନଃସଂସ୍ଥାପନ</string>
+    <string name="providerapp_reinstalled">%s ଉପଯୁକ୍ତ ଭାବେ କାର୍ଯ୍ୟ କରୁ ନାହିଁ ତେଣୁକରି ଏହା ଅଣସଂସ୍ଥାପନ ହେବ। ଏହା ବର୍ତ୍ତମାନ ଅଣସଂସ୍ଥାପିତ ହେବ।</string>
+    <string name="quick_tutorial_add_shortcuts">ଗିୟରର ହୋମ୍ ସ୍କ୍ରିନକୁ ଆପ୍ଲିକେସନ୍ ସର୍ଟକଟ୍ ଯୋଡିବାକୁ, ଗିୟରରେ ଆପ୍ଲିକେସନକୁ ଯାଆନ୍ତୁ, “ଏକ ଆପ୍ଲିକେସନ୍” କିମ୍ଵା ୱିଜେଟ୍ ଆଇକନ୍ ଟ୍ୟାପ୍ ଏବଂ ହୋଲ୍ଡ କରନ୍ତୁ, ତାପରେ ସ୍କ୍ରିନର ଶୀର୍ଷରେ ହୋମ୍ ଆଇକନରେ ଏହା ଡ୍ରାଗ୍ ଏବଂ ଡ୍ରପ୍ କରନ୍ତୁ।</string>
+    <string name="quick_tutorial_gear_structure">ଆପଣଙ୍କ ଗିଅର୍ ହୋମ୍ ସ୍କ୍ରିନର ମୁଖ୍ୟ ପୃଷ୍ଠାରେ ଘଣ୍ଟା ଦେଖାଯିବ। ଘଣ୍ଟାର ବାମ ପୃଷ୍ଠାରେ ବିଜ୍ଞପ୍ତିଗୁଡିକ ଦେଖାଇବ ଏବଂ ଡାହାଣରେ ୱିଜେଟଗୁଡିକ ଦେଖାଇବ। ଆପ୍ଲିକେସନଗୁଡିକ ଦର୍ଶନ କରିବାକୁ ସ୍କ୍ରିନର ନିମ୍ନ ପ୍ରାନ୍ତରୁ ଉପରକୁ ସ୍ଵାଇପ୍ କରନ୍ତୁ।</string>
+    <string name="quick_tutorial_noti_title">%sକୁ ଉନ୍ମୋଚନ</string>
+    <string name="quick_tutorial_noti_title_gear">ଗିଅର୍ S</string>
+    <string name="quick_tutorial_noti_title_gear1">ଗିଅର୍‍</string>
+    <string name="quick_tutorial_noti_title_gear2">ଗିଅର୍ 2</string>
+    <string name="quick_tutorial_open_svoice">S Voice ଖୋଲିବାକୁ, “Hi Gear” କୁହନ୍ତୁ କିମ୍ୱା ଯେକୌଣସି ସ୍କ୍ରିନରେ ରହିବା ସମୟରେ ହୋମ୍‌ କୀ ଦୁଇ ଥର ଟ୍ୟାପ୍‌ କରନ୍ତୁ।</string>
+    <string name="quick_tutorial_swipe_downwards">ଆପଣଙ୍କ ପସନ୍ଦିତା ଆପ୍ଲିକେସନ୍ ଖୋଲିବାକୁ ହୋମ୍‍ କୀ ଦୁଇ ଥର ଦବାନ୍ତୁ। ଏହି ସେଟିଂସରେ ଆପଣଙ୍କ ପସନ୍ଦିତା ଆପ୍ଲିକେସନ୍ ବଦଳି ପାରିବ।</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">ଆପଣଙ୍କ ପସନ୍ଦିତା ଆପ୍ଲିକେସନ୍ ଖୋଲିବାକୁ ପାୱାର୍ କୀ ଦୁଇଥର ଦବାନ୍ତୁ। ସେଟିଂସରେ ଆପଣ ଆପଣଙ୍କ ପସନ୍ଦିତା ଆପ୍ଲିକେସନ୍ ବଦଳାଇ ପାରିବେ।</string>
+    <string name="quick_tutorial_to_go_back">ପଛକୁ ଯିବା ପାଇଁ ଧାରରୁ ସ୍କ୍ରିନ୍‌ ନିମ୍ନକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ।</string>
+    <string name="remote_connection_disabled_settings">ସେଟିଂସ୍</string>
+    <string name="remote_connection_enabled_desc">ବ୍ଲୁଟୁଥ୍ ସଂଯୋଜନା ଶେଷ ହେଲେ ଗିୟର୍ ରିମୋଟ୍ ଭାବରେ ସଂଯୋଗ ହେବ।</string>
+    <string name="requested">ଅନୁରୋଧ ହେଲା</string>
+    <string name="reset_gear_legal_text1">By using Reset Gear, you can remotely delete all data on your Gear. After such deletion, the deleted data cannot be restored and you can no longer use Find My Gear.</string>
+    <string name="reset_gear_legal_text2">* The Reset Gear may take some time to function or may even fail depending on the state of your Gear, mobile device or network environment.</string>
+    <string name="restore_complete">ପୁନରୁଦ୍ଧାର ସମୂର୍ଣ୍ଣ ହୋଇଛି।</string>
+    <string name="restore_some_error">ପୁନରୁଦ୍ଧାର ବିଫଳ ହୋଇଛି। ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="restore_try_again">ପୁନଃଚେଷ୍ଟା</string>
+    <string name="restore_watch_settings_content2">"ଆପଣଙ୍କ %1$s ବିଷୟବସ୍ତୁ ବ୍ୟାକଅପ୍ ନେବାକୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ଷ୍ଟୋରେଜ୍ ବ୍ୟବହାର କରନ୍ତୁ:
+%2$s
+
+ଯଦି ଆପଣ ଏହି ବିଷୟବସ୍ତୁର ବ୍ୟାକଅପ୍ ପୂର୍ବରୁ ନେଇଛନ୍ତି, ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ %3$sରେ ପୁନରୁଦ୍ଧାର କରିପାରିବେ।
+
+ଫାଇଲର ଆକାର ଉପରେ ନିର୍ଭର କରି, ଏହା କିଛି ସମୟ ନେଇ ପାରେ।
+
+ସେଟିଂସରେ ଆପଣଙ୍କ ବ୍ୟାକଅପ୍ ସେଟିଂସ୍ ଆପଣ ପରିବର୍ତ୍ତନ କରିପାରିବେ।"</string>
+    <string name="restore_watch_settings_content2_import1">ଗିଅର୍‍</string>
+    <string name="restore_watch_settings_content2_import3">ସେଟିଂସ୍</string>
+    <string name="retrieve_dialog_desc">ଆପ୍ଲିକେସନ୍ ତାଲିକା ପୁନରୁଦ୍ଧାର କରୁଛି…</string>
+    <string name="sa_email">ଇମେଲ୍</string>
+    <string name="sa_error_0203_desc">ରିମୋଟ୍ ସଂଯୋଜନା ସକ୍ଷମ କରିବାକୁ, ହସ୍ତଚାଳିତ ଭାବରେ Samsung account ଅପଡେଟ୍‌ କରନ୍ତୁ।</string>
+    <string name="sa_error_0203_title">Samsung account ଅପଡେଟ୍ କରନ୍ତୁ।</string>
+    <string name="sa_error_0301_desc">ଆପଣଙ୍କ ମୋବାଇଲ ଡିଭାଇସରେ Samsung accountକୁ ସାଇନ୍‌ ଇନ୍ କରିବା ସମୟରେ ଏକ ନେଟୱାର୍କ୍‌ ତ୍ରୁଟି ଘଟିଲା।</string>
+    <string name="sa_error_0301_title">ପ୍ରକାର୍ଯ୍ୟ ସକ୍ଷମ କରିବାକୁ ବିଫଳ ହୋଇଛି</string>
+    <string name="sa_error_0302_desc">ଆପଣଙ୍କ ମୋବାଇଲ ଡିଭାଇସରେ Samsung accountକୁ ସାଇନ୍‌ ଇନ୍ କରିବା ସମୟରେ ଏକ ନେଟୱାର୍କ୍‌ ତ୍ରୁଟି ଘଟିଲା।</string>
+    <string name="sa_error_0302_title">ପ୍ରକାର୍ଯ୍ୟ ସକ୍ଷମ କରିବାକୁ ବିଫଳ ହୋଇଛି</string>
+    <string name="sa_error_0401_desc">ଏକ ତ୍ରୁଟି ଘଟିଛି। ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="sa_error_0401_title">ତ୍ରୁଟି</string>
+    <string name="safety_message_interval_10minutes">ପ୍ରତି 10 ମିନିଟ୍</string>
+    <string name="safety_message_interval_20minutes">ପ୍ରତି 20 ମିନିଟରେ</string>
+    <string name="samsung_apps_info">%2$s ଅଣସଂସ୍ଥାପନ ହୋଇଥିବା ବେଳେ, ଆପ୍ଲିକେସ‌ନ୍‌ ଡାଟା ଖାଲି ହୋଇଥିବା ବେଳେ, କିମ୍ବା ପୂର୍ବରୁ ବ୍ୟାକ୍‌ ଅପ୍ ନିଆଯାଇଥିବା ଡାଟା ପୁନରୁଦ୍ଧାର ହେବା ବେଳେ %1$s ମାଧ୍ୟମରେ ଡାଉନଲୋଡ୍ ହୋଇଥିବା ଆପ୍ଲିକେସନଗୁଡିକ ବିଲୋପ ହେବ। ଆପଣ %3$sରେ ଆପଣଙ୍କ କ୍ରୟ ଇତିହାସରୁ ବିଲୋପ ହୋଇଥିବା ଆପ୍ଲିକେସନଗୁଡିକ ଡାଉନଲୋଡ୍ କରିପାରିବେ।</string>
+    <string name="samsung_apps_notice">ସୂଚନା</string>
+    <string name="samsung_gear">ସାମସଙ୍ଗ ଗିଅର୍</string>
+    <string name="samsung_update">ବର୍ତ୍ତମାନ ଅପଡେଟ୍</string>
+    <string name="screen_off">ସ୍କ୍ରିନ୍‍ ଅଫ୍‍ ରଖିବା</string>
+    <string name="screen_off_desc">ଆପଣଙ୍କ ଗିଅରରେ ସ୍କ୍ରିନ୍‍ ଅଫ୍‍ ହୋ‍ଇଥିବା ସମୟରେ ଆଗମନ କଲ୍‍ ଏବଂ ଆଲରାମ୍ ବ୍ୟତୀତ ବିଜ୍ଞପ୍ତିଗୁଡିକ ପ୍ରାପ୍ତ କରନ୍ତୁ।</string>
+    <string name="setting_Enable">ସକ୍ଷମ</string>
+    <string name="setting_alpm_dialog_title">ସତର୍କତା</string>
+    <string name="setting_always_off">ସର୍ବଦା ଅଫ୍‌</string>
+    <string name="setting_always_on">ସର୍ବଦା ଅନ୍</string>
+    <string name="setting_auto">ସ୍ୱତଃ</string>
+    <string name="setting_auto_lock_disable_desc">ବ୍ୟବସ୍ଥାପକ, ଏନକ୍ରିପସନ୍ ନୀତି, କିମ୍ଵା ପରିଚୟପତ୍ର ଷ୍ଟୋରେଜ୍ ଦ୍ଵାରା ଅକ୍ଷମ ହୋଇଛି।</string>
+    <string name="setting_backup_restore2">ବ୍ୟାକ୍ ଅପ୍ ଏବଂ ପୁନଃଗଚ୍ଛିତ</string>
+    <string name="setting_basic">ମୌଳିକଗୁଡିକ</string>
+    <string name="setting_connections">ସଂଯୋଜନାଗୁଡିକ</string>
+    <string name="setting_disable">ଅକ୍ଷମ</string>
+    <string name="setting_home_key_double_pressing">ହୋମ୍ କୀ ଦୁଇଥର ଦବାନ୍ତୁ</string>
+    <string name="setting_language_input">ଭାଷା ଏବଂ ଇନପୁଟ୍</string>
+    <string name="setting_manage_text_templates">ଟେକ୍ସଟ୍ ଟେମ୍ପଲେଟ୍. ସମ୍ପାଦନ କର.</string>
+    <string name="setting_mobile_network">ମୋବାଇଲ୍ ନେଟୱାର୍କଗୁଡିକ</string>
+    <string name="setting_mobile_network_desc">ଯେତେବେଳେ ଏହା ଆପଣଙ୍କ ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ମୋବାଇଲ୍‌ ଡିଭାଇସ୍ ସହିତ ସଂଯୋଜିତ ହୁଏ ସେତେବେଳେ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ନେଟୱାର୍କରୁ ଗିଅର୍‌ ସଂଯୋଜିତ ବିଚ୍ଛିନ୍ନ ହେବ। ଯେତେବେଳେ ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଗ ଶେଷ ହୁଏ, ସେତେବେଳେ ଗିଅର୍‌ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ପୁନଃ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ନେଟୱାର୍କକୁ ସଂଯୋଜନା ହେବ।</string>
+    <string name="setting_multisim_popup_desc">ଆପଣଙ୍କ ସେବା ପ୍ରଦାନକାରୀ ଉପରେ ନିର୍ଭର କରି, ଆପଣ ହୁଏତ ମଲ୍ଟି SIM ପ୍ରକାର୍ଯ୍ୟ ବ୍ୟବହାର କରିବାକୁ ଏକ ଭିନ୍ନ ସଦସ୍ୟତା ଆବଶ୍ୟକୀୟ କରିପାରନ୍ତି। ମଲ୍ଟି SIM ସକ୍ଷମ କରିବାକୁ “ଓକେ” ଟ୍ୟାପ୍ କରନ୍ତୁ।</string>
+    <string name="setting_opensource">ଉତ୍ସ ଲାଇସେନ୍ସ ଖୋଲନ୍ତୁ</string>
+    <string name="setting_palm_motion">ମୋସନଗୁଡିକ</string>
+    <string name="setting_palm_swipe">କ୍ୟାପଚର କରିବାକୁ ସ୍ଵାଇପ୍ କର.</string>
+    <string name="setting_palmover_desc">ଆଗମନ କଲଗୁଡିକ ଏବଂ ଆଲରାମଗୁଡିକ ମ୍ୟୁଟ୍ କରିବାକୁ କିମ୍ୱା ମିଡିଆ ବିରତ କରିବାକୁ ଦେବାକୁ ସ୍କ୍ରିନ୍‌ ଅନ୍ ଥିବା ସମୟରେ ସ୍କ୍ରିନର ସ୍ଥାନରେ ଆପଣଙ୍କ ହାତ ରଖନ୍ତୁ।</string>
+    <string name="setting_palmswipe_desc">ଏହି ସ୍କ୍ରିନ୍‌କୁ ସ୍ପର୍ଶ କରି ଏହା ସହିତ ଆପଣଙ୍କ ସମ୍ପୂର୍ଣ୍ଣ ଆଙ୍ଗୁଠିକୁ ସ୍ୱାଇପ୍ କରି ସ୍କ୍ରିନ୍ କ୍ୟାପଚର୍ କରନ୍ତୁ।</string>
+    <string name="setting_pause_mute">ମ୍ୟୁଟ୍/ବିରତ</string>
+    <string name="setting_power_key_double_pressing">ପାୱାର୍ କୀ ଦୁଇଥର ଦବାଇବା</string>
+    <string name="setting_restoring">ପୁନରୁଦ୍ଧାର ହେଉଛି…</string>
+    <string name="setting_safety_b1_desc">ଯେତେବେଳେ ଆପଣଙ୍କ ଗିୟର୍ ଏବଂ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସଂଯୋଗ ହୋଇଥିବ, ଏକ ଜରୁରୀକାଳୀନ ସମୟରେ ସହାୟତା ସନ୍ଦେଶ ପ୍ରେରଣ କରିବାକୁ ସହାୟତା କରେ। ଏହା ଆପଣଙ୍କ ଅବସ୍ଥାନ ସହିତ ସେମାନଙ୍କୁ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶଗୁଡିକ ପ୍ରେରଣ କରି ଆପଣଙ୍କ ସ୍ଥିତିକୁ ଆପଣଙ୍କ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶ ସମ୍ପର୍କଙ୍କୁ ଏହା ସତର୍କ କରାଏ। ଏହି ସନ୍ଦେଶଗୁଡିକ ପ୍ରେରଣ କରିବା ଦ୍ଵାରା ହୁଏତ ଅତିରିକ୍ତ ଦେୟ ଲାଗୁ ହୋଇପାରେ। ଏକ ଜରୁରୀକାଳୀନ ସମୟରେ ସହାୟତା ସନ୍ଦେଶଗୁଡିକ ପ୍ରେରଣ ସକ୍ଷମ କରିବାକୁ, %d ଥର ପାୱାର୍ କୀ ଦବାନ୍ତୁ।</string>
+    <string name="setting_safety_b2_desc">ଯେତେବେଳେ ଆପଣଙ୍କ ଗିଅର୍‍ ଏବଂ ମୋବାଇଲ୍‍ ଡିଭାଇସ୍ ସଂଯୁକ୍ତ ହୋ‍ଇଥାଏ, ସହାୟତା ସନ୍ଦେଶ ପ୍ରେରଣ ଆପଣଙ୍କୁ ଜରୁରୀକାଳୀନ ସ୍ଥିତିରେ ଏହି ଗି‍ଅର୍‍ କ୍ୟାମେରାରେ ଫଟୋ ଉଠାଇବା ସାହାଯ୍ୟ କରିଥାଏ। ଏହା ଆପଣଙ୍କ ଜରୁରୀକାଳୀନ ସମ୍ପର୍କଗୁଡିକୁ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶ ଏବଂ ସହିତ ଏହି ଫଟୋ ଓ ଅବସ୍ଥିତି ପଠାଇ ସତର୍କ କରିଦେଇଥାଏ। ଏହି ସନ୍ଦେଶ ଉଭୟେ ଆପଣଙ୍କ ଅବସ୍ଥିତି ଏବଂ ଫଟୋ ଧାରଣ କରିବ। ତାହା ପରେ, କିଛି ସମୟ ବ୍ୟବଧାନରେ, କେବଳ ଆପଣଙ୍କ ଅବସ୍ଥିତି ଧାରଣ କରିଥିବା ଦ୍ୱିତୀୟ ସନ୍ଦେଶ ପଠାଇବ। ଏହି ସନ୍ଦେଶଗୁଡିକ ପଠାଇବା ଫଳରେ ଅତିରିକ୍ତ ଦେୟ ଲାଗୁ ହୋ‍ଇପାରେ। ଜରୁରୀକାଳୀନ ସ୍ଥିତିରେ ସହାୟତା ସନ୍ଦେଶ ପଠାଇବା ସମର୍ଥ କରିବାକୁ ହୋମ୍‍ କୀ %d ଥର ଦବାନ୍ତୁ।</string>
+    <string name="setting_safety_b2_no_camera_desc">ଯେତେବେଳେ ଆପଣଙ୍କ ଗିଅର୍‍ ଓ ମୋବାଇଲ୍‍ ଡିଭାଇସ୍ ସଂଯୁକ୍ତ ହୋ‍ଇଥାଏ, ସହାୟତା ସନ୍ଦେଶ ପ୍ରେରଣ ଆପଣଙ୍କୁ ଜରୁରୀକାଳୀନ ସ୍ଥିତିରେ ସାହାଯ୍ୟ କରେ। ଏହା ଆପଣଙ୍କ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶ ସମ୍ପର୍କଗୁଡିକୁ ଆପଣଙ୍କ ଅବସ୍ଥିତି ସହିତ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶ ପଠାଇ ସତର୍କ କରିଦେଇଥାଏ। ଏହି ସନ୍ଦେଶଗୁଡିକ ପଠାଇବା ଫଳରେ ଅତିରିକ୍ତ ଦେୟ ଲାଗୁ ହୋ‍ଇପାରେ। ଜରୁରୀକାଳୀନ ସ୍ଥିତିରେ ସହାୟତା ସନ୍ଦେଶ ପଠାଇବା ସମର୍ଥ କରିବାକୁ ହୋମ୍‍ କୀ %d ଥର ଦବାନ୍ତୁ।</string>
+    <string name="setting_safety_b3_desc1">ଆପଣ ଯେତେବେଳେ ଜରୁରୀକାଳୀନ ସ୍ଥିତିରେ ଥାଆନ୍ତି ଶୀଘ୍ର ହୋମ୍‌ କୀକୁ 3 ଥର ଦବାଇ ଆପଣଙ୍କ ପ୍ରାଥମିକ ସମ୍ପର୍କଗୁଡିକୁ ଏକ ଦ୍ରୁତ ସତର୍କ ସୂଚନା ପଠାନ୍ତୁ।</string>
+    <string name="setting_safety_b3_desc2">ଆପଣଙ୍କ ପ୍ରାଥମିକ ସମ୍ପର୍କଗୁଡିକ ଆପଣଙ୍କ ସମ୍ପ୍ରତି ଅବସ୍ଥାନ ବିଷୟରେ ସୂଚନା ସହ ଜରୁରୀକାଳୀନ ସନ୍ଦେଶଗୁଡିକ ପ୍ରାପ୍ତ କରିବେ।</string>
+    <string name="setting_safety_b3_desc3">ଏହି ପ୍ରକାର୍ଯ୍ୟ ବ୍ୟବହାର କରିବାକୁ ଆପଣଙ୍କ ଗିଅରକୁ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="setting_safety_list">ନିରାପଦ ସହାୟକ</string>
+    <string name="setting_samsung_legal">ସାମସଙ୍ଗ ଲିଗାଲ୍</string>
+    <string name="setting_screen_lock">ସ୍ଵତଃ ଲକ୍</string>
+    <string name="setting_screen_lock_desc">ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଲକ୍ କରିବାକୁ ଆପଣଙ୍କ ଗିଅର୍ ବ୍ୟବହାର କରନ୍ତୁ।</string>
+    <string name="setting_screen_secutiry">ସ୍କ୍ରିନ୍ ସୁରକ୍ଷା</string>
+    <string name="setting_send_emergency_picture">ଜରୁରୀକାଳୀନ ଫଟୋ ପଠାନ୍ତୁ</string>
+    <string name="setting_send_emergency_recording">ଧ୍ଵନି ରେକର୍ଡିଂ ପଠାନ୍ତୁ</string>
+    <string name="setting_send_emergency_term_agree">ମୁଁ ଉପରୋକ୍ତ ସମସ୍ତ ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ ପଠନ କରିଛି ଏବଂ ରାଜି ଅଛି।</string>
+    <string name="setting_send_help_message">ସହାୟତା ସନ୍ଦେଶଗୁଡିକ ପଠାନ୍ତୁ</string>
+    <string name="setting_send_terms_conditions">ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ</string>
+    <string name="setting_smart_relay">ସ୍ମାର୍ଟ୍ ରିଲେ</string>
+    <string name="setting_smart_relay_desc">ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସ୍‌ ପିକ୍ ଅପ୍ କରି ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସରେ ଆପଣଙ୍କ ଗିଅର୍‌ରୁ ବିଷୟବସ୍ତୁ ଦେଖନ୍ତୁ।</string>
+    <string name="setting_smart_toss">ସ୍ମାର୍ଟ ଟସ୍</string>
+    <string name="setting_system">ସିଷ୍ଟମ୍</string>
+    <string name="setting_text_to_speech_engine">ଟେକ୍ସଟ୍-ରୁ-ସ୍ପିଚ୍ ଇଞ୍ଜିନ୍</string>
+    <string name="setting_textinput_emoticon">ଇମୋଟିକୋନଗୁଡିକ</string>
+    <string name="setting_textinput_keyboard">କୀବୋର୍ଡ୍</string>
+    <string name="setting_textinput_list">ଟେକ୍ସଟ୍ ଇନପୁଟ୍ ପଦ୍ଧତି</string>
+    <string name="setting_textinput_templates">ଟେମ୍ପଲେଟ୍</string>
+    <string name="setting_try_it">ଏହା ଚେଷ୍ଟା</string>
+    <string name="setting_wake_up">ୱେକ-ଅପ୍ ଜେଶ୍ଚର୍‌</string>
+    <string name="setting_wake_up_desc">ଗିଅର୍‌ ପିନ୍ଧିଥିବା ହାତ ଉଠାଇ ଗିଅର୍‌ ୱେକ୍ ଅପ୍ କରନ୍ତୁ।</string>
+    <string name="setting_wakeupgesture">"ଗିଅର୍‌ ୱେକ୍ ଅପ୍ କରିବାକୁ, ଗିଅର୍ ପିନ୍ଧିଥିବା ହାତ ଉଠାନ୍ତୁ ଏବଂ ଗିଅରର ସ୍କ୍ରିନ୍ ଦେଖନ୍ତୁ।
+
+ଏହି ବିଶେଷତା ଆପଣ ଆଉଜେଇ ହୋଇଥିବା ବେଳେ କିମ୍ବା ତଳେ ଶୋଇଥିବା ବେଳେ କାମ କରିବ ନାହିଁ ଏବଂ ଗିଅରର ଅଧିକ ବ୍ୟାଟେରୀ ପାୱାର୍ ବ୍ୟବହାର କରିପାରେ କାରଣ ମୋସନ୍ ସେନସର୍ ସର୍ବଦା ଅନ୍ ଥାଏ।"</string>
+    <string name="setting_wakeupgesture_clock">ଘଡି</string>
+    <string name="setting_wakeupgesture_previous">ଶେଷଥର ଦେଖିଥିବା ସ୍କ୍ରିନ୍‌</string>
+    <string name="setting_wakeupgesture_screen_on">ଦର୍ଶାଯାଇଥିବା ସ୍କ୍ରିନ୍‌ ଚୟନ କର.</string>
+    <string name="setting_wakeupgesture_screen_on_ru">ଦର୍ଶାଯାଇଥିବା ସ୍କ୍ରିନ୍‌ ଚୟନ କର.</string>
+    <string name="settings">ସେଟିଂସ୍‌</string>
+    <string name="settings_application_version">ଆପ୍ଲିକେସନ୍‌ ସଂସ୍କରଣ</string>
+    <string name="settings_emergency_contact">ପ୍ରାଥମିକ ସମ୍ପର୍କଗୁଡିକ ପରିଚାଳନା କର.</string>
+    <string name="settings_emergency_contact_empty">କୌଣସି ପ୍ରାଥମିକ ସମ୍ପର୍କ ଯୋଗ କରାଯାଇନାହିଁ। %s ଅକ୍ଷମ କରିବା ପାଇଁ ସମ୍ପର୍କଗୁଡିକ ପ୍ରାଥମିକ ସମ୍ପର୍କଗୁଡିକରେ ଯୋଗ କରନ୍ତୁ।</string>
+    <string name="settings_legal_information">ଆଇନଗତ ସୂଚନା</string>
+    <string name="settings_message_interval">ସନ୍ଦେଶ ଅନ୍ତରାଳ</string>
+    <string name="settings_not_set">ସେଟ୍ ହୋଇନାହିଁ</string>
+    <string name="settings_security">ସୁରକ୍ଷା</string>
+    <string name="settings_security_update">ସୁରକ୍ଷା ଅପଡେଟ୍</string>
+    <string name="settings_security_update_desc">ଏହାର ସୁରକ୍ଷା ଏବଂ ସେବା ଉନ୍ନତ କରି କ୍ଷତିକାରକ ବିଷୟବସ୍ତୁ ଠାରୁ ଆପଣଙ୍କ ଡିଭାଇସ୍ ସୁରକ୍ଷା କରନ୍ତୁ।</string>
+    <string name="settings_unknown_sources_dialog">ଅଜ୍ଞାତ ଉତ୍ସରୁ ସଂସ୍ଥାପନ କରିବା ଆପଣଙ୍କ ଡିଭାଇସ୍ ଏବଂ ବ୍ୟକ୍ତିଗତ ଡାଟାରେ ହାନି ପହଞ୍ଚାଇ ପାରେ। “ଓକେ” ଟ୍ୟାପ୍ କରି, ଆପଣ ରାଜି ହୁଅନ୍ତି ଯେ ଏହି ଆପ୍ଲିକେସନ୍ ବ୍ୟବହାର କରିବା ଦ୍ଵାରା ଆପଣଙ୍କ ଡିଭାଇସରେ ହେଉଥିବା କୌଣସି ପ୍ରକାର ହାନି କିମ୍ବା ଡାଟା ନଷ୍ଟ ପାଇଁ ଆପଣ ଦାୟୀ ଅଟନ୍ତି।</string>
+    <string name="settings_unknown_sources_subtitle">ଅଜ୍ଞାତ ଉତ୍ସ ଠାରୁ ଆପ୍ଲିକେସନର ସଂସ୍ଥାପନ ଅନୁମତି କରନ୍ତୁ।</string>
+    <string name="share_loc_disabled">ଅବସ୍ଥାନ ଅଂଶୀଦାର ଅକ୍ଷମ ହୋଇଛି।</string>
+    <string name="share_location_desc">ଆପଣଙ୍କ ଗିଅର୍‌ ଏବଂ ମୋବାଇଲ୍ ଡିଭାଇସର ଅବସ୍ଥାନ ଡାଟା ଅଂଶୀଦାର କରିବାକୁ ମୋ ଗିଅର୍‌ ଖୋଜନ୍ତୁ ଏବଂ ମୋ ଡିଭାଇସ୍ ସନ୍ଧାନ କରିବାକୁ ଅନୁମତି ଦିଅନ୍ତୁ।</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">ମୁଁ ରାଜି ହୁଏ ଯେ ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରାଯାଇ ପାରେ ଏବଂ ସେହି MMS ସନ୍ଦେଶ ଜରୁରୀକାଳୀନରେ ପଠାଯାଇ ପାରେ। ମୁଁ ବୁଝେ ଯେ ଏହା ଦ୍ଵାରା ଅତିରିକ୍ତ ଦର ଲାଗୁ ହୋଇପାରେ।</string>
+    <string name="shm_new_disclaimer_msg_01">"1. ସହାୟତା ସନ୍ଦେଶ ପ୍ରେରଣ କରନ୍ତୁ ଏହା ଉପଭୋକ୍ତାଗଣଙ୍କୁ ସେମାନଙ୍କର ହାରାହାରି ଅବସ୍ଥାନ ଏବଂ ପରିପାର୍ଶ୍ଵ ଯାହାକୁ ଆପଣ ଅଗ୍ରୀମରେ ସେଟ୍ କରିଥିବା ଏକ ଚୟନିତ ସମ୍ପର୍କର ମୋବାଇଲ୍ ଫୋନ୍‌କୁ ବିଜ୍ଞପ୍ତି ପ୍ରେରଣ କରିବାରେ ସହାୟତା କରିବାକୁ ଉଦ୍ଧିଷ୍ଟ ଅଟେ। ଏହା କେବଳ ଆପଣଙ୍କର ସୁବିଧା ଉଦ୍ଦେଶ୍ୟରେ ଉଦ୍ଧିଷ୍ଟ ଏବଂ ଉଦ୍ଧିଷ୍ଟ ନୁହେଁ, କିମ୍ଵା ବ୍ୟବହାର ହେବ ନାହିଁ, ଅଧିକାରୀଗଣଙ୍କୁ ଜରୁରୀକାଳିନ କଲ୍‌ଗୁଡିକ ପାଇଁ ଏକ ବୈକଳ୍ପିକ ଭାବରେ। 
+
+2. ସହାୟତା ସନ୍ଦେଶଗୁଡିକ ପଠାନ୍ତୁ (“ସେବାଗୁଡିକ”) ହୁଏତ ନେଟ୍‌ୱାର୍କ୍ ସଂଯୋଜନ, GPS/Wi-Fi ସୂଚନାର ଉପଲବ୍ଧତା, ସ୍ଥିତି ଏବଂ/କିମ୍ଵା ଆପଣଙ୍କର ସ୍ଥିତି/ଆପଣଙ୍କର ଚୟନିତ ସମ୍ପର୍କ’ଙ୍କ ଡିଭାଇସ୍, ବ୍ୟାଟେରୀ ସ୍ତର ଏବଂ/କିମ୍ଵା ଅନ୍ୟ ସ୍ଥିତିଗୁଡିକ ସହିତ ଯାହା Samsung Electronics Co., Ltd. (“Samsung”, “ଆମେ”, “ଆମକୁ”, “ଆମର”)´ର ନିୟନ୍ତ୍ରଣ ବାହାରେ ପରି ସ୍ଥିତି ଉପରେ ନିର୍ଭରକରି ଉପଯୁକ୍ତ, ଲଗାତାର କିମ୍ଵା ତ୍ରୁଟି-ମୁକ୍ତଭାବରେ କାର୍ଯ୍ୟ କରିନପାରେ। ଅବସ୍ଥାନ ସୂଚନାର ସଠିକତା ଏବଂ ସେବାଗୁଡିକର ସଠିକ୍ ସମୟରେ ବିତରଣ ହୁଏତ ଆପଣଙ୍କର ପରିପାର୍ଶ୍ଵରେ ପ୍ରଭାବିତ ହୋଇପାରେ ଏବଂ ଆପଣଙ୍କର ଡିଭାଇସ୍‌ର ସ୍ଥିତି ଏବଂ ଆପଣଙ୍କର ଚୟନିତ ସମ୍ପର୍କର ଡିଭାଇସ୍ ପ୍ରଭାବିତ ହୋଇପାରେ। ଅନ୍ୟଥା ଅନ୍ୟଭାବରେ ଦର୍ଶାନଯାଇଛି କିମ୍ଵା ଆଇନଠ୍ ଆବଶ୍ୟକ ନହୋଇଛି, Samsung ଯେକୌଣସି ୱାରେଣ୍ଟୀକୁ ସ୍ଵୀକାର କରେ ନାହିଁ ଯେ ସେବା ସଠିକ୍‌ଭାବରେ, ଲଗାତାର କିମ୍ଵା ବିନା କୌଣସି ତ୍ରୁଟିରେ କାର୍ଯ୍ୟ କରିବ। ଦୟାକରି ଟିପନ୍ତୁ ଯେ ଆପଣଙ୍କର ଚୟନିତ ସମ୍ପର୍କ ନିଶ୍ଚିତଭାବରେ ଏକ କାର୍ଯ୍ୟରତ ମୋବାଇଲ୍ ଫୋନ୍ ହୋଇଥିବ ଏବଂ ଡିଭାଇସ୍ ନିଶ୍ଚିରଭାବରେ ଟର୍ନ୍ ଅନ୍ ହୋଇଥିବ ଏବଂ ପାଠ୍ୟ ସନ୍ଦେଶଗୁଡିକ ସ୍ଵୀକାରର କରିବାର ଦକ୍ଷତା ରଖିଥିବ। ଆପଣଙ୍କର ପରିପାର୍ଶ୍ଵ ଏବଂ ଅବସ୍ଥାନ ଡାଟା ସ୍ଥାନାନ୍ତରଣ କରିବା ହୁଏତ ଆପଣଙ୍କର ସେବା ପ୍ରଦାନକାରୀଙ୍କ ଦ୍ଵାରା ନିର୍ଦ୍ଧିଷ୍ଟିର ଦେୟଗୁଡିକ ଉପରେ ନିର୍ଭର କରି ଦେୟ ଯୁକ୍ତ ହୋଇପାରେ।
+
+ଉଦ୍ଧିଷ୍ଟ ଭାବରେ ପ୍ରକାର୍ଯ୍ୟକୁ ସେବାଗୁଡିକ ପାଇଁ କ୍ରମାଙ୍କରେ, ଏହା ହୁଏତ ବୈଶିଷ୍ଟ୍ୟକୁ ଆବଶ୍ୟକ ହୋଇପାରେ, ଥରେ ଆପଣଙ୍କ ଦ୍ଵାରା ନିୟୋଜନ ହେଲେ, ସ୍ଵତଃସ୍ପୃତଭାବରେ ଆପଣଙ୍କର ଡିଭାଇସ୍‌ର GPS ଏବଂ Wi-Fi ପ୍ରକାର୍ଯ୍ୟ ଟର୍ନ୍ ଅନ୍ କରେ। ଆପଣ କିମ୍ଵା ଆପଣଙ୍କ ଦ୍ଵାରା ଅନୁମତି ବିନା, ଆପଣ GPS ଏବଂ Wi-Fi ପ୍ରକାର୍ଯ୍ୟ ସ୍ଵତଃସ୍ପୃତଭାବରେ ସାମର୍ଥ୍ୟ କରିବାକୁ ସ୍ଵୀକାର ଏବଂ ରାଜି ହୋଇଛନ୍ତି (ଯଦି ଆବଶ୍ୟକ ହୁଏ)।
+
+3. ଆପଣ ସ୍ଵୀକାର ଏବଂ ରାଜି ହୋଇଛନ୍ତି ଯେ ଏହି ପ୍ରକାର୍ଯ୍ୟ ଅପବ୍ୟବହାର କିମ୍ଵା ଏହୁ ପ୍ରକାର୍ଯ୍ୟକୁ କୌଣସି ବେଆଇନ କାର୍ଯ୍ୟ ଉଦ୍ଦେଶ୍ୟରେ କିମ୍ଵା ଗୋପନୀୟତାର ଉଲ୍ଲଂଘନ କିମ୍ଵା କୌଣସି ବ୍ୟକ୍ତିଗତ କିମ୍ଵା ଅନ୍ୟଙ୍କର ମାଲିକାନା ଅଧିକାର କରିବେ ନାହିଁ। କେବଳ ଆପଦକାଳୀନ ସ୍ଥିତିରେ ଏବଂ ଆଇନ୍‍ ଅନୁଯାୟୀ ଏହି ପ୍ରକାର୍ଯ୍ୟ ବ୍ୟବହାର କରନ୍ତୁ| ଆପଣଙ୍କର ଏହି ବୈଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର ପାଇଁ ଆପଣ ଏକକ ଭାବରେ ଦାୟୀ ରହିବେ ବୋଲି ସମ୍ମତ| ଆପଣଙ୍କର ଏହି ବୈଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର ଦ୍ଵାରା ହେଉଥିବା ଯେକୌଣସି ଫଳାଫଲ ପାଇଁ Samsung ଦାୟୀ ରହିବ ନାହିଁ।
+
+4. ସେବାଗୁଡିକ କେବଳ ଆପଣଙ୍କର ସୁବିଧା ଉଦ୍ଦେଶ୍ୟରେ ଉଦ୍ଧିଷ୍ଟ ଏବଂ ଉଦ୍ଧିଷ୍ଟ ନୁହେଁ, କିମ୍ଵା ବ୍ୟବହାର ହେବ ନାହିଁ, ଅଧିକାରୀଗଣଙ୍କୁ ଜରୁରୀକାଳିନ କଲ୍‌ଗୁଡିକ ପାଇଁ ଏକ ବୈକଳ୍ପିକ ଭାବରେ। ଅନ୍ୟଥା ଅନ୍ୟଭାବରେ ଦର୍ଶାନଯାଇଛି କିମ୍ଵା ଆଇନଠ୍ ଆବଶ୍ୟକ ନହୋଇଛି, Samsung ଯେକୌଣସି ୱାରେଣ୍ଟୀକୁ ସ୍ଵୀକାର କରେ ନାହିଁ ଯେ ସେବା ସଠିକ୍‌ଭାବରେ, ଲଗାତାର କିମ୍ଵା ବିନା କୌଣସି ତ୍ରୁଟିରେ କାର୍ଯ୍ୟ କରିବ।
+
+5. ୱାରେଣ୍ଟୀର ଅସ୍ଵୀକାରକରଣ। ଆପଣ ବୁଝିଛନ୍ତି ଏବଂ ରାଜି ହୋଇଛନ୍ତି ଯେ:
+ 
+A. ପ୍ରଦାନ ହୋଇଥିବା ସେବାଗୁଡିକ ସମପରି, “ସମସ୍ତ ତ୍ରୁଟିଗୁଡିକ ସହିତ,” ଏବଂ ଯେପରି ଉପଲବ୍ଧ ଆଧାରରେ ଅଟେ। ଆପଣ ସେଗୁଡିକୁ ବ୍ୟବହାର କରିବାର ଦାୟିତ୍ଵ ନେଇଛନ୍ତି। SAMSUNG କୌଣସି ୱାରେଣ୍ଟୀ, ଗ୍ୟାରେଣ୍ଟୀ, କିମ୍ଵା ସ୍ଥିତିଗୁଡିକୁ ଯାହା ସେବାଗୁଡିକୁ ସମ୍ଵନ୍ଧିରେ ପ୍ରଦାନ କରେ ନାହିଁ। SAMSUNG ଯେକୌଣସି ପ୍ରକାରର ସମସ୍ତ ପୁନଃଉପସ୍ଥାପନା ଏବଂ ୱାରେଣ୍ଟୀଗୁଡିକୁ ଅସ୍ଵୀକାର କରେ, ତାହା ବ୍ୟାଖ୍ୟା କିମ୍ଵା ଲାଗୁ, ଅନ୍ତର୍ଭୁକ୍ତ, କିନ୍ତୁ ଯେକୌଣସି ଲାଗୁ ହୋଇଥିବା ବ୍ୟାପାରର ୱାରେଣ୍ଟୀ, ଏକ ନିର୍ଦ୍ଧିଷ୍ଟ ଉଦ୍ଦେଶ୍ୟରେ ଫିଟ୍‌ଣେସ୍ ଏବଂ କୌଣସି ଅଣ-ଉଲ୍ଲଂଘନ ଏବଂ ଯେକୌଣସି ଲାଗୁ ହୋଇଥିବା ୱାରେଣ୍ଟୀଗୁଡିକ ଠାରୁ ନେବାର କୋର୍ସ୍ କିମ୍ଵା ସଞ୍ଚାଳନର କୋର୍ସ୍‌କୁ ସୀମିତ ନୁହେଁ।
+
+B. ପୂର୍ବବତ୍ ସୀମିତତା ବିନା, SAMSUNG କୌଣସି ପୁନଃଉପସ୍ଥାପନା କିମ୍ଵା ୱାରେଣ୍ଟୀ ଯାହା (i) ସେବାଗୁଡିକ ଆପଣଙ୍କର ଆବଶ୍ୟକତାକୁ ମେଳକ ହେବ, (ii) ସେବାଗୁଡିକ ଅବାଧିତ, ଠିକ୍ ସମୟରେ, ସୁରକ୍ଷିତ, କିମ୍ଵା ତ୍ରୁଟି-ମୁକ୍ତ, (iii) ବିଷୟବସ୍ତୁ ସେବାଗୁଡିକ ଠାରୁ ଆସିଛି, କିମ୍ଵା ଯେକୌଣସି ସେବାର ବିଜ୍ଞପ୍ତିଗୁଡିକ କିମ୍ଵା ପ୍ରକାର୍ଯ୍ୟତା ଉପଲବ୍ଧ ହେବ, ସଠିକତା, ସମ୍ପୁର୍ଣ୍ଣ କିମ୍ଵା ବିଶ୍ଵସ୍ତ, (iv) ସେବାଗୁଡିକ କିମ୍ଵା ଯେକୌଣସି ସୂଚନାର ଗୁଣବତ୍ତା, କିମ୍ଵା ଅନ୍ୟ ଉପାଦାନ ଆପଣଙ୍କର ଦ୍ଵାରା ରହିଛି ଯାହା ସେବାଗୁଡିକ ଆପଣଙ୍କର ଛାଡଗୁଡିକ ସହି ମିଶିବ, କିମ୍ଵା (v) ଯେକୌଣସି ତ୍ରୁଟି କିମ୍ଵା ବଗ୍‌ଗୁଡିକ ଯାହା ସେବାଗୁଡିକ ସଠିକ୍ ରହିବ।
+
+6. ଦାୟୀର ସୀମିତତା।
+
+A. ଆପଣ ବୁଝିଛନ୍ତି ଏବଂ ରାଜି ହୋଇଛନ୍ତି ଯେ SAMSUNG କୌଣସି ଅବହେଳା, ଯେକୌଣସି ସିଧା, ମାଧ୍ୟମରେ, ଦୁର୍ଘଟଣାବସତଃ, ସ୍ଵତନ୍ତ୍ର, ସଠିକତା, ଗୁରୁତ୍ଵପୂର୍ଣ୍ଣତା କିମ୍ଵା ଉପଯୁକ୍ତ କ୍ଷତି, ଦାୟୀ, ନଷ୍ଟ କିମ୍ଵା ଖର୍ଚ୍ଚ, ଅନ୍ତର୍ଭୁକ୍ତ କିନ୍ତୁ ସୀମିତ ନୁହେଁ, ଲାଭର କ୍ଷତି, ବ୍ୟବହାରର କ୍ଷତି କିମ୍ଵା ଅନ୍ୟାନ୍ୟ କ୍ଷତିଗୁଡିକ (ଯଦିଓ ତାହା ମରାମତି, ପରିବର୍ତ୍ତନ କିମ୍ଵା ଏକ ସେବା ପାଇଁ ଫେରସ୍ତ ସମ୍ପୁର୍ଣ୍ଣଭାବରେ ଭରଣ ଆପଣଙ୍କୁ କରିବ ଯେକୌଣସି କ୍ଷତି ପାଇଁ କିମ୍ଵା SAMSUNG ସେହି ପ୍ରକାରର କ୍ଷତି, ଦାୟୀ, ନଷ୍ଟି, କିମ୍ଵା ଖର୍ଚ୍ଚ), ସିଧାସଳଖ ଭାବରେ କିମ୍ଵା ତାହାର ସମ୍ଭାବନା ସମ୍ଵନ୍ଧରେ ଅବଗତ ରହିବାଜାଣିଥିବା କିମ୍ଵା ଅପ୍ରତକ୍ଷ୍ୟ ଭାବରେ ଆସିଥିବା ଫଳାଫଳ କିମ୍ଵା ହେଉଥିବାର ସୂଚନା ରହିବା: (i) ଚୁକ୍ତିର ଉଲ୍ଲଂଘନ ପାଇଁ ଦାବି, ୱାରେଣ୍ଟୀର ଉଲ୍ଲଂଘନ, ଗ୍ୟାରେଣ୍ଟୀ କିମ୍ଵା ସ୍ଥିତି, ଦୃଢ ଆଇନତଃ ଦାୟୀତ୍ଵ, ଅବହେଳା, କିମ୍ଵା ଅନ୍ୟ ଟୋର୍ଟ୍ ଯାହା ପ୍ରଯୁଜ୍ୟ ଆଇନ ଦ୍ଵାରା ଅନୁମୋଦିତ ଅଟେ; (ii) ସେବାଗୁଡିକର ବ୍ୟବହାରକୁ ଆପଣଙ୍କର ଦକ୍ଷତା କିମ୍ଵା ଆପଣଙ୍କର ବ୍ୟବହାର, (iii) ବୈକଳ୍ପିକ ସେବାଗୁଡିକର ପ୍ରାପ୍ତିର ଖର୍ଚ୍ଚ; (iv) ଆପଣଙ୍କର ପ୍ରସାରଣ କିମ୍ଵା ତଥ୍ୟର ଅଣସ୍ଵୀକୃତ ପ୍ରବେଶ କିମ୍ଵା ପରିବର୍ତ୍ତନ; (v) ବିବରଣୀ କିମ୍ଵା ଯେକୌଣସି ତୃତୀୟ ପକ୍ଷର ବିବରଣୀ କିମ୍ଵା ଆୟୋଜନ; (vi) ଏହି ଚୁକ୍ତି; (vii) ବ୍ୟକ୍ତିଙ୍କୁ ଆଘାତ ଲାଗିବା କିମ୍ଵା ସମ୍ପତ୍ତି (ମୃତ୍ୟୁ ସହିତ), କିମ୍ଵା (viii) ଯେକୌଣସି ଅନ୍ୟ ବିଷୟ ସମ୍ଵନ୍ଧିତ ଯାହା ସେବାଗୁଡିକୁ କିମ୍ଵା ସେବାଗୁଡିକ ମାଧ୍ୟମରେ ପ୍ରଦାନ ହୋଇଥିବା ବିଷୟବସ୍ତୁ।
+
+B. SAMSUNG ସହିତ ଯେକୌଣସି ବିବାଦ ପାଇଁ ଆପଣଙ୍କର ନିଜର ଏବଂ ସ୍ଵତନ୍ତ୍ର ଉପାୟ ପାଇଁ ସମ୍ଵନ୍ଧିତକୁ ଏହି ଚୁକ୍ତି କିମ୍ଵା ସେବାଗୁଡିକ ନିଶ୍ଚିତଭାବରେ ସେବାଗୁଡିକର ବ୍ୟବହାର ବନ୍ଦ କରିବ।
+ 
+C. କିଛି ଆଇନ ଅନୁମତି କରେ ନାହିଁ କିଛି ନିର୍ଦ୍ଧିଷ୍ଟ ୱାରେଣ୍ଟୀ କିମ୍ଵା ସୀମିତତା କିମ୍ଵା ଘଟଣାବସତଃ ପାଇଁ ଦାୟୀର ଛାଡ କିମ୍ଵା ପରିଣାମ କ୍ଷତି ଅନୁମତି କରେ ନାହିଁ। ସେହି ଅନୁସାରେ, ଉପରୋକ୍ତ ସୀମିତତାଗୁଡିକର ଧାରା 5 ଏବଂ 6 ର କିଛି ହୁଏତ ଆପଣଙ୍କୁ ଲାଗୁ ହୋଇନପାରେ।
+
+7. ବୀମା ରାଶି। ଆପଣ ରାଜି ହୋଇଛନ୍ତି ଯେ ନିର୍ଦ୍ଦୋଷ, ବୀମା କରିବା ଏବଂ Samsung କୁ ଯେକୌଣସି ଦାବୀ, କ୍ରିୟା, ଅନୁରୋଧ, ଖର୍ଚ୍ଚ, ଦେୟ, ବ୍ୟୟ (ଅନ୍ତର୍ଭୁକ୍ତ ଅଟେ ଉପଯୁକ୍ତ ଓକିଲ ଦେୟ) ହେଉଥିବା କିମ୍ଵା ଆପଣଙ୍କର ସେବାଗୁଡିକର ବ୍ୟବହାର ସମ୍ଵନ୍ଧିତ କିମ୍ଵା ଏହି ଚୁକ୍ତି ସହିତ ଆଳନ କରିବାକୁ ଯେକୌଣସି ବିଫଳତା ପାଇଁ ରଖିବାକୁ ରାଜି ହୋଇଛନ୍ତି। ଯଦି, ଏହି ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ ଅନୁସାରେ ଆପଣଙ୍କୁ ଅନୁମୋଦିତ ଲାଇସେନନ୍ସଗୁଡିକର ବ୍ୟକ୍ତିଗତ ପ୍ରକାର ବ୍ୟତିତ, ଆପଣ ହୁଏତ ଯେକେହିଙ୍କୁ ସେବାର ବ୍ୟବହାର, କିମ୍ଵା ସେବାଗୁଡିକ ମାଧ୍ୟମରେ ପ୍ରାପ୍ତ କରିଥିବା ଯେକୌଣସି ଏକକ ସୂଚନାର ପ୍ରଦାନ, ଯାହା ସେହିପ୍ରକାରର ଏକକ ବିଣ୍ଡିଂ ହେବ, ଏବଂ ଆପଣ ବିପଦମୁକ୍ତ, ସୁନିଶ୍ଚିତ, ଏବଂ ଯେକୌଣସି ଏବଂ ସମସ୍ତ ଦାବି, କାର୍ଯ୍ୟାକାରୀ, ଆବଶ୍ୟକ, ଦେୟ, ଦାୟୀ, କ୍ଷତି, ନଷ୍ଟି, ଅର୍ଥଦଣ୍ଡ ଏବଂ ଖର୍ଚ୍ଚ (ଓକିଲଙ୍କ ଦେୟ ଏବଂ ଖର୍ଚ୍ଚ ସହିତ) ସମ୍ଵନ୍ଧିତ ଯାହା ସେହି ପ୍ରକାରର ସେବାଗୁଡିକର ବ୍ୟବହାରର ଏକକ ଠାରୁ Samsungକୁ ରକ୍ଷା କରିବା ପାଇଁ ରାଜି ହୋଇଛନ୍ତି।
+
+8. ଅପ୍ରତ୍ୟାସିତ ଘଟଣା। ଏହି ଚୁକ୍ତି ଏବଂ ସର୍ତ୍ତାବଳୀ ଅନୁସାରେ ସଞ୍ଚାଳନରେ ଯେକୌଣସି ବିଳମ୍ଵ କିମ୍ଵା ବିଫଳତା ପାଇଁ କିମ୍ଵା ସେବାର ବାଧା, ପ୍ରାକୃତିକ ବିପର୍ଯ୍ୟୟ ଯୋଗୁଁ, ବେସାମରିକ କିମ୍ଵା ସାମରୀକ, ଯୁଦ୍ଧ, ଆତଙ୍କବାଦ, ଉପାଦାନ କିମ୍ଵା ତୃତୀୟ ପକ୍ଷଙ୍କ ଦ୍ଵାରା ସେବା ପ୍ରଦାନ ହୋଇଥିବା, କିମ୍ଵା ଯେକୌଣସି କାରଣ ଯାହା Samsung ର ନିୟନ୍ତ୍ରଣ ବାହାରେ ରହିଥିବ ସେଥି ପାଇଁ Samsung ଦାୟୀ ରହିବ ନାହିଁ।"</string>
+    <string name="shm_share_my_location_checkbox_text">ମୋ %2$s ସମ୍ପର୍କ ସହ ମୋ ଅବସ୍ଥାନ ଅଂଶୀଦାର କରିବାକୁ %1$sକୁ ଅନୁମତି ଦେବାରେ ମୁଁ ରାଜି ଅଟେ।</string>
+    <string name="smartrelay_not_show">ପୁନଃ ଦେଖାନ୍ତୁ ନାହିଁ</string>
+    <string name="software_update">ସଫ୍ଟୱେୟାର୍ ଅପଡେଟ୍</string>
+    <string name="ss_double_tap_any_screen">ଔଜଲ୍ୟତା ଏବଂ ଭଲ୍ୟୁମ୍ ନିୟନ୍ତ୍ରଣଗୁଡିକ ଏବଂ ଅନ୍ୟ ବ୍ୟବହାରଯୋଗୀ ସୂଚନା ଦର୍ଶନ କରିବାକୁ ଦୁଇ ଆଙ୍ଗୁଠୀରେ କୌଣସି ସ୍କ୍ରିନ୍ ଦୁଇଥର ଟ୍ୟାପ୍ କରନ୍ତୁ।</string>
+    <string name="ss_forwarding_calls_to_gear_header">ଆପଣଙ୍କ ଗିଅରରେ କଲଗୁଡିକ ଫରୱାର୍ଡ କରିବା</string>
+    <string name="ss_forwarding_calls_to_gear_progress">ଅନୁରୋଧ କରୁଛି…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">ସେଟିଂସ୍ ପଢୁଛି…</string>
+    <string name="ss_loading_ing_abb">ଲୋଡ୍ କରୁଛି…</string>
+    <string name="ss_mobile_data_is_disabled">ମୋବାଇଲ୍‌ ଡାଟା ଅକ୍ଷମ ହୋଇଛି। ବଦଳରେ WLANକୁ ସଂଯୋଗ, କିମ୍ୱା ମୋବାଇଲ୍ ଡାଟା ସକ୍ଷମ କରି ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="ss_mobile_data_is_disabled2">ମୋବାଇଲ୍‌ ଡାଟା ଅକ୍ଷମ ହୋଇଛି। ତାହା ପରିବର୍ତ୍ତେ WI-Fi ନେଟୱାର୍କକୁ ସଂଯୋଗ କରନ୍ତୁ, କିମ୍ବା ମୋବାଇଲ୍‌ ଡାଟା ସକ୍ଷମ କରି ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="ss_no_network_connection">କୌଣସି ନେଟୱାର୍କ୍‌ ସଂଯୋଜନା ନାହିଁ</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ଉପଭୋକ୍ତା ମାନୁଆଲ୍</string>
+    <string name="str_no">ନା ଧନ୍ୟବାଦ</string>
+    <string name="str_yes">ହଁ</string>
+    <string name="stub_list_install">ସଂସ୍ଥାପନ</string>
+    <string name="sw_eula_condition">ମୁଁ ଉପରୋକ୍ତ ସର୍ତ୍ତାବଳୀ ଏବଂ ଚୁକ୍ତିନାମା ବୁଝିଲି ଏବଂ ରାଜି ହେଲି।</string>
+    <string name="sw_eula_desc2">ଆପଣଙ୍କ ଡିଭାଇସ୍‌ରେ ହେଉଥିବା ଯେକୌଣସି ସଫ୍ଟୱେୟାର୍ ଅପଡେଟ୍‌ ବିଫଳତାର ତ୍ରୁଟି ଲଗ୍ ଡାଟା ଆପଣ ସାମସଙ୍ଗକୁ ପ୍ରଦାନ କରିବାକୁ ରାଜି ହୁଅନ୍ତି। ସାମସଙ୍ଗ ସଫ୍ଟୱେୟାର୍ ଅପଡେଟ୍‌ ପ୍ରକ୍ରିୟାକୁ ଉନ୍ନତ ତଥା ବର୍ଦ୍ଧିତ କରିବାରେ ଏହା ସାମସଙ୍ଗକୁ ସହାୟତା କରିବ ଏବଂ ବୈକଳ୍ପିକ ଭାବେ ଆପଣଙ୍କ ଡିଭାଇସକୁ ଉପଯୁକ୍ତ ଭାବେ ଅପଡେଟ୍‌ ହେବାରେ ସହାୟତା କରିବ।</string>
+    <string name="tab_stub_list">ବୈଶିଷ୍ଟ୍ୟତା</string>
+    <string name="talkback_download">ଡାଉନଲୋଡ୍</string>
+    <string name="talkback_setting">ସେଟିଂ</string>
+    <string name="the_samsung_gear_application">ସାମସଙ୍ଗ ଗଅର୍ ଆପ୍ଲିକେସନ୍</string>
+    <string name="threeg_connection">ରିମୋଟ୍ ସଂଯୋଗ ବ୍ୟବହାର କର.</string>
+    <string name="threeg_connection_subtitle">ଆପଣଙ୍କ Samsung account ଆକାଉଣ୍ଟ ସହ ମୋବାଇଲ୍ ଡାଟା କିମ୍ବା Wi-Fi ଏକତ୍ର ବ୍ୟବହାର କରି ଆପଣଙ୍କ ଗିଅର୍ ରିମୋଟ୍ ଭାବେ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="threeg_connection_subtitle_chn">ଆପଣଙ୍କ Samsung account ଆକାଉଣ୍ଟ ସହ ମୋବାଇଲ୍ ଡାଟା କିମ୍ବା WLAN ଏକତ୍ର ବ୍ୟବହାର କରି ଆପଣଙ୍କ ଗିଅର୍ ରିମୋଟ୍ ଭାବେ ସଂଯୋଗ କରନ୍ତୁ।</string>
+    <string name="title_activity_clock_delete">ଅଣସଂସ୍ଥାପନ</string>
+    <string name="title_activity_connect_popup">ସଂଯୋଗ</string>
+    <string name="title_activity_paired_watch">ଯୋଡି ହୋଇଥିବା ଡିଭାଇସ୍</string>
+    <string name="title_alertdialog_device_name_popup">%s ପୁନଃନାମକରଣ</string>
+    <string name="title_alertdialog_disconnect_popup">ବିଛିନ୍ନ</string>
+    <string name="title_dialog_pm_error">ସତର୍କବାଣୀ</string>
+    <string name="title_dialog_uninstall">ଅଣସଂସ୍ଥାପନ</string>
+    <string name="title_eula">ଆଇନଗତ ସୂଚନା</string>
+    <string name="title_findmywatch_connect2">ମୋ ଗିଅର୍‌ ସନ୍ଧାନ</string>
+    <string name="title_findmywatch_finding">ସନ୍ଧାନ କରୁଛି…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$sରୁ %2$sକୁ ସଂଯୋଗ କରନ୍ତୁ</string>
+    <string name="tri_connect_warning_temporal_disconnect">ଆପଣଙ୍କ %1$sକୁ ଆପଣଙ୍କ %2$sର ବ୍ଲୁଟୁଥ୍ ମାଧ୍ୟମରେ ସଂଯୋଗ କରିବାକୁ ଆପଣଙ୍କ %3$s ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସରୁ ଅସ୍ଥାୟୀ ଭାବେ ବିଚ୍ଛିନ୍ନ ହେବ। ଏହି ସଂଯୋଜନା ଶୀଘ୍ର ପୁନରାରମ୍ଭ ହେବ ଏବଂ ତାପରେ ଆପଣଙ୍କ %4$s ଆପଣଙ୍କ %5$s ଏବଂ ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍ ଉଭୟ ସହ ସଂଯୋଜିତ ହେବ।</string>
+    <string name="tt_install_voice_data">TTS ଭଏସ୍‌ ଡାଟା ସଂସ୍ଥାପନ କର.</string>
+    <string name="tt_install_voice_data_required">ଆପଣଙ୍କ ଗିଅରରେ ଅତିରିକ୍ତ ଟେକ୍ସଟ୍-ରୁ-ସ୍ପିଚ୍ ଭାଷାଗୁଡିକ ସଂସ୍ଥାପନ କରନ୍ତୁ।</string>
+    <string name="tt_language">ଭାଷା</string>
+    <string name="tt_send_help_message">ସହାୟତା ସନ୍ଦେଶଗୁଡିକ ପଠାନ୍ତୁ</string>
+    <string name="tt_tts_language_guide">ଆପଣଙ୍କର ଟେକ୍ସଟ୍-ରୁ-ସ୍ପିଚ୍ ଭାଷାକୁ ଆପଣ ଆପଣଙ୍କ ଗିଅର୍‌ ସେଟିଂସର ଭାଷା ଭାବେ ସେଟ୍ କରନ୍ତୁ। ଯଦି ଆପଣଙ୍କ ଭାଷା ଟେକ୍ସଟ୍-ରୁ-ସ୍ପିଚ୍‍ ଇଞ୍ଜିନରେ ସମର୍ଥିତ ନୁହେଁ, ତେବେ ଇଂରାଜୀ (ଯୁକ୍ତରାଜ୍ୟ) ବ୍ୟବହାର ହେବ।</string>
+    <string name="unable_to_connect_popup_message">ଆପଣଙ୍କ ଗିଅର୍‌ ଆପଣଙ୍କ ମୋବାଇଲ୍‌ ଡିଭାଇସକୁ ସଂଯୋଗ କରିବାକୁ ବିଫଳ ହୋଇଛି। ପରେ ପୁନଃଚେଷ୍ଟା କରନ୍ତୁ।</string>
+    <string name="unable_to_connect_popup_title">ସଂଯୋଜନ ବିଫଳ ହୋଇଛି</string>
+    <string name="unable_to_lock_gear">ଗିଅର୍‌ ଲକ୍ କରିବାକୁ ଅସମର୍ଥ</string>
+    <string name="unable_to_reset_gear">ଗିଅର୍‌ ପୁନଃସେଟ୍ କରିବାକୁ ଅସମର୍ଥ</string>
+    <string name="unabled_health">ଏହା ଅକ୍ଷମ ହୋଇଥିବା ଯୋଗୁଁ ଏହି ଆପ୍ଲିକେସନ୍ ଖୋଲିବାକୁ ଅସମର୍ଥ।</string>
+    <string name="uninstall_applications">ଆପ୍ଲିକେସନଗୁଡିକ ଅଣସଂସ୍ଥାପନ</string>
+    <string name="unknown_sources_msg_new">%1$s, %2$sର ମଧ୍ୟରେ ସଂସ୍ଥାପିତ ହେବ ନାହିଁ। ଅଜ୍ଞାତ ଉତ୍ସଗୁଡିକରୁ ଆପ୍ଲିକେସନଗୁଡିକ ଦ୍ୱାରା ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ତଥା ବ୍ୟକ୍ତିଗତ ଡାଟା ଆକ୍ରମଣ କରାଯିବାକୁ ଅଧିକ ଉନ୍ମୁକ୍ତ ଅଟନ୍ତି। ଆପଣ ରାଜି ହୁଅନ୍ତି ଯେ ଆପଣ ଏହି ଆପ୍ଲିକେସନଗୁଡିକ ବ୍ୟବହାର ଫଳରେ ଦେଖା ଦେଇଥିବା ଆପଣଙ୍କ ଡିଭାଇସରେ ହେଉଥିବା ଯେକୌଣସି ପ୍ରକାର ହାନୀ କିମ୍ବା ଡାଟା ନଷ୍ଟର ଫଳାଫଳ ପାଇଁ ଆପଣ ଦାୟୀ ଅଟନ୍ତି। ସର୍ବଦା ଅଜ୍ଞାତ ଉତ୍ସରୁ ଆପ୍ଲିକେସନଗୁଡିକ ସଂସ୍ଥାପନ କରିବାକୁ, %3$s > %4$s > %5$sକୁ ଯାଆନ୍ତୁ, ଏବଂ %6$s ସକ୍ଷମ କରନ୍ତୁ। %7$s ସଂସ୍ଥାପନ କରିବା ପାଇଁ “ଓକେ” ଟ୍ୟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="unknown_sources_msg_new_vulnerable">%2$sରୁ %1$s ନୁହେଁ, ଏବଂ ଏହା ଆପଣଙ୍କ ଗିଅର୍ ପାଇଁ କୌଣସି ଆପ୍ଲିକେସନ୍ ଅନ୍ତର୍ଭୁକ୍ତ କରେ ନାହିଁ। ଆପଣଙ୍କ ଡିଭାଇସ୍ ଏବଂ ଡାଟା ଅଜ୍ଞାତ ଉତ୍ସଗୁଡିକରୁ ଆପସ୍ ଦ୍ୱାରା ଆକ୍ରମଣ କରିବାକୁ ଅଧିକ ପ୍ରବେଶଯୋଗ୍ୟ ହେବ। ସଂସ୍ଥାପନା ବାତିଲ୍ ହେବ ଏବଂ %3$s ଆପଣଙ୍କ ଫୋନରୁ ବିଲୋପ ହେବ।</string>
+    <string name="unknown_sources_title">ଅଜଣା ଉତ୍ସଗୁଡିକ</string>
+    <string name="update_button">ଅପଡେଟ୍</string>
+    <string name="update_summary">ଅପଡେଟଗୁଡିକ ପାଇଁ ଯାଞ୍ଚ କରନ୍ତୁ।</string>
+    <string name="update_the_latest_version">ଅପଡେଟ୍ ଉପଲବ୍ଧ</string>
+    <string name="voice_control_subtitle">ଯେତେବେଳେ ଆପଣଙ୍କ ଗିଅର୍ ରିଂ କରେ ନାହିଁ କିମ୍ୱା କମ୍ପନ ହୁଏ ନାହିଁ, କଲଗୁଡିକର ଉତ୍ତର ଦେବାକୁ କିମ୍ୱା ଅଗ୍ରାହ୍ୟ କରିବାକୁ, “Answer” କିମ୍ୱା “Reject” କୁହନ୍ତୁ।</string>
+    <string name="voicememo_link2">ସାମସଙ୍ଗ ଗୋପନୀୟ ନୀତି</string>
+    <string name="watchapp_all">ଆପ୍ଲିକେସନଗୁଡିକ</string>
+    <string name="watchapp_noapps">କୌଣସି ଆପ୍ଲିକେସନ୍‌ ନାହିଁ</string>
+    <string name="welcome_Gear">ଗିଅର୍‍</string>
+    <string name="welcome_samsung">ସାମସଙ୍ଗ</string>
+    <string name="widget_bt">ବ୍ଲୁଟୁଥ୍</string>
+    <string name="widget_fmw_refresh">ସତେଜ କରୁଛି…</string>
+    <string name="wifi_only">Wi-Fi କେବଳ</string>
+    <string name="wifi_only_chn">କେବଳ WLAN</string>
+    <string name="wifi_only_summary">ଏକ Wi-Fi ନେଟୱାର୍କ୍ ସହ ସଂଯୁକ୍ତ ହୋ‍ଇଥିବା ବେଳେ କେବଳ ଅପଡେଟଗୁଡିକ ଡାଉନଲୋଡ୍ କରନ୍ତୁ।</string>
+    <string name="wifi_only_summary_chn">WLAN ମାଧ୍ୟମରେ ସଂଯୋଜିତ ହୋଇଥିବା ସମୟରେ କେବଳ ଡାଉନଲୋଡଯୋଗ୍ୟ।</string>
+    <string name="email_sanitize">ଏହି ଇମେଲ୍‌ର ବିଷୟବସ୍ତୁ ସୁରକ୍ଷା କାରଣବସତଃ ଗିଅରରେ ପ୍ରଦର୍ଶିତ ହେବ ନାହିଁ। ବିବରଣୀଗୁଡିକ ପାଇଁ, ଆପଣଙ୍କ ମୋବାଇଲ୍ ଡିଭାଇସ୍‌ରେ ଏହି ଇମେଲ୍ ଦେଖନ୍ତୁ।</string>
+    <string name="knox_sanitize">KNOX ମୋଡରେ ପ୍ରବେଶ କରିବାକୁ ଏଠାରେ ଟ୍ୟାପ୍ କରନ୍ତୁ।</string>
+</resources>

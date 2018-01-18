@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/popup_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/textView_popuptitle" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle">
+        <ImageView android:id="@id/dialogImageLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+        <TextView android:textSize="18.0sp" android:id="@id/textView_message" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="15.0dip" android:layout_marginBottom="24.0dip" android:maxHeight="288.0dip" android:layout_below="@id/dialogImageLayout" android:layout_marginStart="@dimen/popup_left_right_margin" android:layout_marginEnd="@dimen/popup_left_right_margin" style="@style/TextView_PopupDesc" />
+        <LinearLayout android:gravity="center|right" android:orientation="horizontal" android:id="@id/btn_layout" android:layout_width="fill_parent" android:layout_height="@dimen/popup_btn_height" android:layout_below="@id/textView_message">
+            <TextView android:id="@id/btn_left" android:text="@string/cancel" style="@style/TextView_PopupButton" />
+            <TextView android:id="@id/btn_ok" android:layout_marginRight="8.0dip" android:text="@string/ok" style="@style/TextView_PopupButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

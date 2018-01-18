@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center_horizontal" android:id="@id/fingerSwipe_image" android:background="@drawable/gesture_palm_swipe" android:layout_width="360.0dip" android:layout_height="256.0dip" android:layout_marginLeft="25.0dip" android:layout_marginRight="25.0dip" />
+        <TextView android:textSize="18.0sp" android:textColor="@color/normal_text_color" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/wakeupgesture_textview_left_margin" android:layout_marginTop="@dimen/wakeupgesture_imageview_top_margin" android:layout_marginRight="@dimen/wakeupgesture_textview_right_margin" android:text="@string/setting_palmswipe_desc" />
+    </LinearLayout>
+</ScrollView>

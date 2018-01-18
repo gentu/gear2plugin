@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Không có sẵn trong khi thực hiện cuộc gọi.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Pop-up toàn màn hình</string>
+    <string name="alert_mini">Pop-up mini</string>
+    <string name="alertdialog_backkey_popup_content">Cảnh báo</string>
+    <string name="alertdialog_disconnect_popup_description">Gear sẽ bị ngắt kết nối. Hãy sử dụng Bluetooth để kết nối lại.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Việc này sẽ ngắt kết nối của bạn với %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s sẽ bị ngắt kết nối khỏi thiết bị di động của bạn. Lần tới khi bạn kết nối các thiết bị này, bạn phải sử dụng Bluetooth. Mọi kết nối sau đó có thể được thực hiện qua Kết nối từ xa.</string>
+    <string name="alertdialog_uninstall_popup_content">Gỡ bỏ</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$s chưa được cài đặt trên thiết bị di động. Để dùng %2$s trên Gear, hãy tải %1$s về thiết bị di động.</string>
+    <string name="attention_popup_title">Chú ý</string>
+    <string name="auto_call_forwarding">Tự động chuyển tiếp cuộc gọi</string>
+    <string name="auto_call_forwarding_att">Tự động chuyển tiếp cuộc gọi đến Gear</string>
+    <string name="auto_call_forwarding_desc">Tự động bật Chuyển tiếp cuộc gọi khi Gear không kết nối với thiết bị di động. Tính năng này sẽ chuyển tiếp các cuộc gọi đến trên thiết bị di động sang Gear đến khi các thiết bị được kết nối lại.</string>
+    <string name="auto_update">Tự động cập nhật</string>
+    <string name="auto_update_summary">Tự động kiểm tra các bản cập nhật.</string>
+    <string name="backing_up">Đang sao lưu…</string>
+    <string name="backup_complete">Sao lưu hoàn tất.</string>
+    <string name="bnr_backup">Đang sao lưu…</string>
+    <string name="bnr_bakcup_title">Sao lưu</string>
+    <string name="bnr_cancel">Thoát</string>
+    <string name="bnr_canel">Thoát</string>
+    <string name="bnr_error_occurred">Đã xảy ra lỗi</string>
+    <string name="bnr_except">%1$s (ngoại trừ %2$s)</string>
+    <string name="bnr_except_autolock">Tự động khóa</string>
+    <string name="bnr_except_remoteconnection">Kết nối từ xa</string>
+    <string name="bnr_except_texttemplate">Mẫu tin nhắn</string>
+    <string name="bnr_next">Kế tiếp</string>
+    <string name="bnr_no">Không</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Để kết nối với thiết bị mới, Gear sẽ được đặt lại cài đặt gốc.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear chưa được cài đặt hoàn chỉnh. Hướng dẫn cài đặt hiện đang mở trên Gear, nhưng để kết nối với Gear, bạn cũng cần mở hướng dẫn cài đặt trong Gear Manager trên thiết bị này.</string>
+    <string name="bnr_reset_initialization">Thông báo</string>
+    <string name="bnr_restore">Khôi phục</string>
+    <string name="bnr_restored">Đã khôi phục dữ liệu.</string>
+    <string name="bnr_setupwizard_title2">Sao lưu và khôi phục</string>
+    <string name="bnr_yes">OK</string>
+    <string name="bt_connected">Đã kết nối</string>
+    <string name="bt_disconnected">Ngắt kết nối</string>
+    <string name="bt_unpaired">Chưa được ghép đôi</string>
+    <string name="button_finish">Hoàn tất</string>
+    <string name="button_restore">Khôi phục</string>
+    <string name="call">GỌI</string>
+    <string name="call_check_gear_status_when_cfwd">Không thể bật cùng lúc chức năng chuyển tiếp cuộc gọi từ Di động đến Gear và từ Gear đến di động.</string>
+    <string name="call_dualsim1">Thẻ SIM 1</string>
+    <string name="call_dualsim1sim2">Cả hai thẻ SIM</string>
+    <string name="call_dualsim2">Thẻ SIM 2</string>
+    <string name="call_forwarding">Chuyển tiếp cuộc gọi</string>
+    <string name="call_forwarding_agree">Tôi đồng ý.</string>
+    <string name="call_forwarding_desc">Chuyển tiếp cuộc gọi đến trên thiết bị di động đến Gear.</string>
+    <string name="call_forwarding_desc_vzw">Chuyển tiếp cuộc gọi đến không được trả lời từ điện thoại đến Gear của bạn.</string>
+    <string name="call_forwarding_disable_msg">Đã thực hiện yêu cầu tắt chuyển tiếp cuộc gọi từ thiết bị di động đến Gear. Trạng thái mạng di động và thiết bị di động của bạn có thể ảnh hưởng đến kết quả.</string>
+    <string name="call_forwarding_enable_msg">Đã thực hiện yêu cầu bật chuyển tiếp cuộc gọi từ thiết bị di động đến Gear. Trạng thái mạng di động và thiết bị di động của bạn có thể ảnh hưởng đến kết quả.</string>
+    <string name="call_forwarding_for_att_msg">"Khi Gear ngắt kết nối khỏi điện thoại, các cuộc gọi đến thiết bị di động sẽ tự động được chuyển tiếp đến Gear.
+- Điện thoại của bạn sẽ đổ vài tiếng chuông, sau đó cuộc gọi sẽ được chuyển tiếp đến Gear.
+- Nếu bạn không trả lời cuộc gọi trên Gear, người gọi có thể để lại thư thoại và bạn có thể nghe lại trên Gear.
+Bạn có muốn bật tự động chuyển tiếp cuộc gọi bây giờ không?"</string>
+    <string name="call_forwarding_notify_msg">Chuyển tiếp cuộc gọi từ thiết bị di động đến Gear hiện đang bật. Các cuộc gọi đến thiết bị di động sẽ được chuyển tiếp đến Gear. Nếu bạn không mang theo Gear, hãy đi đến Cài đặt và tắt Tự động chuyển tiếp cuộc gọi để đảm bảo không bỏ lỡ cuộc gọi nào.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Đang tắt chuyển tiếp cuộc gọi thoại…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Đang bật chuyển tiếp cuộc gọi thoại…</string>
+    <string name="call_no_gear_number">Không có số</string>
+    <string name="call_select_dualsim_title">Chọn thẻ SIM</string>
+    <string name="call_voice_control">Điều khiển giọng nói</string>
+    <string name="callforwarding_help_des1">Tự động chuyển đổi thiết bị mà các cuộc gọi sẽ được chuyển tiếp đến tùy vào việc các thiết bị của bạn được kết nối qua Bluetooth hay qua Kết nối từ xa.</string>
+    <string name="callforwarding_help_des2">Nhận các cuộc gọi đến thiết bị di động trên Gear khi bạn đang di chuyển và đang đeo Gear, đồng thời Gear được kết nối từ xa với thiết bị di động.</string>
+    <string name="cancel">Thoát</string>
+    <string name="cf_activated">Đã kích hoạt</string>
+    <string name="cf_deactivate_failed">Có lỗi khi tắt Chuyển tiếp cuộc gọi.</string>
+    <string name="cf_deactivated">Đã hủy kích hoạt</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Đã áp dụng cài đặt đồng hồ mới qua Gear.</string>
+    <string name="clocks_download_more_clocks">Tải về thêm đồng hồ</string>
+    <string name="clocks_noti_uninstall_clock">%s sẽ được gỡ cài đặt.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s sẽ bị gỡ cài đặt và %2$s sẽ được đặt làm đồng hồ mặc định.</string>
+    <string name="clocks_title_basic_clocks">ĐỒNG HỒ CƠ BẢN</string>
+    <string name="clocks_title_downloaded_clocks">ĐỒNG HỒ ĐÃ TẢI VỀ</string>
+    <string name="clocks_title_style_clocks">ĐỒNG HỒ PHONG CÁCH</string>
+    <string name="clocks_uninstalled">Gỡ cài đặt.</string>
+    <string name="clocks_uninstalling">Đang gỡ cài đặt…</string>
+    <string name="close">Đóng</string>
+    <string name="closing_samsung_gear_message">Gear của bạn đã được đặt lại. Ứng dụng Samsung Gear sẽ sớm đóng lại.</string>
+    <string name="closing_samsung_gear_message_jpn">Gear của bạn đã được đặt lại. Ứng dụng Gear sẽ đóng trong giây lát.</string>
+    <string name="closing_samsung_gear_title">Đóng ứng dụng Samsung Gear</string>
+    <string name="closing_samsung_gear_title_jpn">Đóng ứng dụng Gear</string>
+    <string name="cloud_backup_no_information">Không bao giờ</string>
+    <string name="cloud_backup_restore_backup_now">Sao lưu dữ liệu</string>
+    <string name="cloud_backup_restore_restore_now">Khôi phục dữ liệu</string>
+    <string name="cmw_agree">Tôi đồng ý</string>
+    <string name="cmw_eula_agree">Tôi hiểu và đồng ý với điều kiện và điều khoản bên trên.</string>
+    <string name="cmw_for_setting">Dịch vụ vị trí đã tắt. Đến Cài đặt.</string>
+    <string name="cmw_high_accuracy_dialog_message">Để phát hiện vị trí nhanh nhất và chính xác nhất, hãy chọn Độ chính xác cao về vị trí > Chế độ.</string>
+    <string name="cmw_high_accuracy_dialog_title">Chọn Chính xác cao</string>
+    <string name="cmw_legal_content">Khi bật “Chia sẻ vị trí”, bạn đồng ý rằng dữ liệu vị trí liên kết với điện thoại di động và/hoặc thiết bị Gear của bạn sẽ được truyền tải qua server Samsung để cung cấp dịch vụ Tìm Gear của bạn &amp; Tìm thiết bị của bạn. Không có dữ liệu hoặc thông tin nào về vị trí thiết bị của bạn được lưu trên server Samsung.</string>
+    <string name="cmw_legal_content1">Khi bật “%1$s &amp; %2$s”, bạn nhận biết rằng dữ liệu vị trí liên kết với điện thoại di động và/hoặc thiết bị Gear của bạn sẽ được truyền tải qua server Samsung để cung cấp dịch vụ %1$s &amp; %2$s. Không có dữ liệu hoặc thông tin nào về vị trí thiết bị của bạn được lưu trên server Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">Khi bật “%1$s &amp; %2$s”, bạn nhận biết rằng dữ liệu vị trí liên kết với điện thoại di động của bạn sẽ được truyền tải qua server Samsung để cung cấp dịch vụ %2$s. Không có dữ liệu hoặc thông tin nào về vị trí thiết bị của bạn được lưu trên server Samsung.</string>
+    <string name="cmw_legal_content_2">Chính sách bảo mật Samsung</string>
+    <string name="cmw_legal_title">Thông tin pháp lý</string>
+    <string name="cmw_location">Bật dịch vụ vị trí</string>
+    <string name="cmw_show_on_map">Hiển thị trên bản đồ</string>
+    <string name="color_black">Đen</string>
+    <string name="color_blue">Xanh dương</string>
+    <string name="color_brown">Nâu</string>
+    <string name="color_gray">Xám</string>
+    <string name="color_green">Xanh lá cây</string>
+    <string name="color_light_sky_blue">Xanh da trời nhạt</string>
+    <string name="color_medium_purple">Tím vừa</string>
+    <string name="color_orange">Cam</string>
+    <string name="color_pink">Hồng</string>
+    <string name="color_purple">Tím</string>
+    <string name="color_red">Đỏ</string>
+    <string name="color_spring_green">Xanh lá mạ</string>
+    <string name="common_none">Không có</string>
+    <string name="common_off">Tắt</string>
+    <string name="common_on">Bật</string>
+    <string name="common_recent_apps">Ứng dụng gần đây</string>
+    <string name="connect_popup_content">Đang kết nối đến %s…</string>
+    <string name="connected_by_trasport_BT">Đã kết nối qua Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Đã kết nối từ xa</string>
+    <string name="connecting_content">Đang kết nối với Gear</string>
+    <string name="connecting_doc">Sau khi kết nối với %1$s, bạn có thể thay đổi thông số cài đặt của nó và cài đặt các ứng dụng trên đó qua %2$s.</string>
+    <string name="connecting_popup_message">Đang kết nối với Gear…</string>
+    <string name="connecting_popup_title">Kết nối với Gear</string>
+    <string name="connecting_to_gear_ing">Đang kết nối với Gear…</string>
+    <string name="connectingdoc">Sau khi kết nối với Gear, bạn có thể thay đổi cài đặt và cài đặt ứng dụng trên nó qua Gear Manager.</string>
+    <string name="connection_error_dialog_message">Thiết bị của bạn đã bị ngắt kết nối. Thiết bị sẽ thử kết nối lại.</string>
+    <string name="dialog_check_phone_number_msg1">Hãy đảm bảo thông tin sau là chính xác:</string>
+    <string name="dialog_check_phone_number_msg2">Số điện thoại di động: %s</string>
+    <string name="dialog_check_phone_number_msg3">Số điện thoại của Gear: %s</string>
+    <string name="dialog_check_phone_number_msg4">Chạm OK để xác nhận và bật Tự động chuyển tiếp cuộc gọi.</string>
+    <string name="dialog_enable_remote_connection_desc">Để bật Tự động chuyển tiếp cuộc gọi, hãy bật Kết nối từ xa rồi thử lại.</string>
+    <string name="dialog_enable_remote_connection_title">Bật Kết nối từ xa</string>
+    <string name="dialog_permission_message">Không thể sử dụng %s. Chạm CÀI ĐẶT, đi đến Thông tin ứng dụng > Quyền, rồi cho phép các quyền sau đây và thử lại:</string>
+    <string name="dialog_popup_button_cancel">Thoát</string>
+    <string name="dialog_reverse_msg">Tùy vào nhà cung cấp dịch vụ, có thể cần đăng ký các thuê bao riêng biệt để cho phép thiết bị di động và Gear sử dụng tính năng này. Việc này có thể phát sinh thêm phí.</string>
+    <string name="dialog_set_phone_number_msg">Để bật Tự động chuyển tiếp cuộc gọi, hãy đặt số điện thoại của các thiết bị mà bạn muốn cuộc gọi đến được chuyển tiếp từ đó và đến đó.</string>
+    <string name="dialog_set_phone_number_title">Bật Tự động chuyển tiếp cuộc gọi</string>
+    <string name="disable_loc_text">Chia sẻ vị trí sẽ bị tắt. Bạn sẽ không thể sử dụng thông tin vị trí để tìm kiếm Gear hoặc thiết bị di động của bạn qua Tìm Gear của bạn hoặc Tìm thiết bị của bạn.</string>
+    <string name="disable_loc_text_no_gps">Chia sẻ vị trí sẽ bị tắt. Bạn sẽ không thể sử dụng thông tin vị trí để tìm kiếm thiết bị di động của bạn qua Tìm thiết bị của bạn.</string>
+    <string name="disable_remote_connection">Tắt Kết nối từ xa</string>
+    <string name="disable_remote_connection_fmm_fmd">Tìm Gear của bạn và Tìm thiết bị của bạn</string>
+    <string name="disable_remote_connection_receiving_blocked">Nhận tin nhắn, email và thông báo từ thiết bị di động</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Nhận email và thông báo từ thiết bị di động</string>
+    <string name="disable_remote_connection_warning">Kết nối từ xa sẽ tắt. Sẽ không có các chức năng sau đây cho đến khi Gear kết nối lại với thiết bị di động qua Bluetooth:</string>
+    <string name="disable_share_location">Tắt Chia sẻ vị trí</string>
+    <string name="disconnect_popup_content">Đang ngắt kết nối %s…</string>
+    <string name="do_not_show_again">Không hiện lại</string>
+    <string name="enable_auto_call_forwarding_msg">Tự động chuyển tiếp cuộc gọi đến trên thiết bị di động sang Gear khi Gear ngắt kết nối. Tùy vào nhà cung cấp dịch vụ, việc này có thể phát sinh thêm phí. Chạm OK để bật Tự động chuyển tiếp cuộc gọi.</string>
+    <string name="enable_auto_call_forwarding_title">Bật Tự động chuyển tiếp cuộc gọi</string>
+    <string name="enable_more_notifications_enable">Bật</string>
+    <string name="enable_notification_access">Bật truy cập thông báo</string>
+    <string name="enable_notification_access_desc">"Chức năng này sẽ có thể đọc tất cả thông báo bạn nhận được, trong đó có thể bao gồm thông tin cá nhân như danh bạ và tin nhắn gửi cho bạn. Nó cũng có thể bỏ qua các thông báo này hoặc chọn các hành động liên quan đến chúng.
+Để nhận thông báo trên Gear, hãy chạm Bật rồi bật %s."</string>
+    <string name="enable_share_location">Bật Chia sẻ vị trí</string>
+    <string name="enabled_loc">Đã bật Chia sẻ vị trí.</string>
+    <string name="error_enter_device_name">Nhập tên thiết bị.</string>
+    <string name="error_occurred">Đã xảy ra lỗi.</string>
+    <string name="eula_i_agree">Tôi đồng ý.</string>
+    <string name="failed_tshare_msg">Bật Chuyển tiếp c.gọi bị lỗi. T share không phản hồi.</string>
+    <string name="find_my_device">Tìm thiết bị của bạn</string>
+    <string name="find_my_gear">Tìm Gear của bạn</string>
+    <string name="find_watch_btn_start">Bắt đầu</string>
+    <string name="find_watch_btn_stop">Dừng</string>
+    <string name="find_watch_off">Để tìm Gear của bạn, hãy chạm Bắt đầu. Gear sẽ phát âm thanh và bật màn hình.</string>
+    <string name="find_watch_on">Để dừng tìm Gear của bạn, hãy chạm Dừng. Gear sẽ dừng phát âm thanh và tắt màn hình.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s sẽ bị gỡ cài đặt và font mặc định sẽ được áp dụng cho %2$s của bạn.</string>
+    <string name="force_wifi_direct_msg">Ứng dụng sẽ được cài đặt qua Wi-Fi Direct. Quá trình này sẽ ngắt kết nối Wi-Fi Direct hiện tại của bạn. Nếu hủy cài đặt, bạn sẽ phải tải về lại ứng dụng này và cài đặt.</string>
+    <string name="force_wifi_direct_title">Cài đặt</string>
+    <string name="force_wifi_install">Cài đặt</string>
+    <string name="gear2_backup_confirm_text">Nếu bạn sao lưu dữ liệu bây giờ, dữ liệu sao lưu hiện tại của Gear trên thiết bị di động sẽ được thay bằng dữ liệu Gear mới nhất.</string>
+    <string name="gear2_restore_confirm_text">Nếu bạn khôi phục dữ liệu của mình, dữ liệu hiện có trên Gear sẽ bị xóa và được thay bằng dữ liệu sao lưu hiện tại của Gear.</string>
+    <string name="gear2_text">"Sử dụng bộ nhớ thiết bị để sao lưu nội dung %1$s của bạn:
+%2$s
+
+Nếu trước đó bạn đã sao lưu nội dung này, bạn có thể khôi phục nó về %3$s ngay bây giờ.
+
+Tùy thuộc vào kích cỡ của file, có thể mất một thời gian."</string>
+    <string name="gear2_text_import3">Cài đặt</string>
+    <string name="gear_bnr_desc">"Sử dụng bộ nhớ thiết bị di động của bạn để sao lưu dữ liệu %1$s sau: %2$s
+
+Nếu trước đây bạn từng lưu dữ liệu %3$s, bạn có thể khôi phục dữ liệu đó vào %4$s ngay bây giờ.
+
+Quá trình này có thể mất chút thời gian tùy thuộc vào kích cỡ file."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">Thiết bị di động của bạn đang dò tìm Gear. Việc này sẽ mất vài phút. Có thể sẽ khó định vị Gear của bạn nếu Gear ở trong nhà.</string>
+    <string name="gear_location_popup_title">Định vị Gear</string>
+    <string name="gear_location_text">Vị trí Gear</string>
+    <string name="gear_lock_success">Đã khóa Gear.</string>
+    <string name="gear_lock_text">Khóa Gear</string>
+    <string name="gear_locked">Đã khóa Gear</string>
+    <string name="gear_locked_text1">Đã khóa Gear. Để mở khóa, hãy kết nối Gear với thiết bị di động qua Bluetooth.</string>
+    <string name="gear_phone_number">Số điện thoại Gear</string>
+    <string name="gear_phone_number_popup_desc">Tất cả cuộc gọi đến thiết bị di động của bạn sẽ được chuyển tiếp đến %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">Tất cả cuộc gọi không trả lời trên thiết bị di động sẽ được chuyển tiếp đến %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Để khóa Gear của bạn, trước tiên phải bật Kết nối từ xa.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Để đặt lại Gear của bạn, trước tiên phải bật Kết nối từ xa.</string>
+    <string name="gear_reset_text">Đặt lại Gear</string>
+    <string name="gear_to_mobile">Gear đến di động</string>
+    <string name="gear_to_mobile_des">Nhận các cuộc gọi đến Gear trên thiết bị di động khi hai thiết bị được kết nối qua Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Không tìm được vị trí. Hãy thử lại sau.</string>
+    <string name="gear_unable_to_locate_title">Không thể định vị Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Hình nền</string>
+    <string name="home_bg_color">Màu</string>
+    <string name="home_bg_colors_title">MÀU CÓ SẴN</string>
+    <string name="home_bg_delete_actionbar_selected">Đã chọn</string>
+    <string name="home_bg_delete_dialog_msg">%d hình nền sẽ bị xóa khỏi Gear Manager và Gear của bạn.</string>
+    <string name="home_bg_delete_select_all">Chọn tất cả</string>
+    <string name="home_bg_max_more_image_toast">Đã đạt số hình nền tối đa (%d).</string>
+    <string name="home_bg_more_images">Hình ảnh khác</string>
+    <string name="home_bg_popup_wallpaper_msg">Đang tải về hình nền Gear…</string>
+    <string name="home_bg_popup_wallpaper_title">Tải về hình nền</string>
+    <string name="home_bg_toast_saved">Đã lưu.</string>
+    <string name="home_bg_wallpaper">Màn hình nền</string>
+    <string name="home_bg_wallpapers_title">HÌNH NỀN CÓ SẴN</string>
+    <string name="homelayout_apps">Ứng dụng</string>
+    <string name="incoming_calls_title">Cuộc gọi đến</string>
+    <string name="info_build_number">Phiên bản chương trình</string>
+    <string name="info_model_number">Số kiểu máy</string>
+    <string name="info_software_update">Cập nhật phần mềm</string>
+    <string name="information_provision_agreement">Thỏa thuận Điều khoản Thông tin</string>
+    <string name="information_provision_agreement_mgs">"Ghi nhớ Thoại sử dụng công nghệ nhận dạng giọng nói được nhà cung cấp dịch vụ của bên thứ ba có tên Nuance Communications, Inc cung cấp. Vì vậy, thông tin bằng giọng nói của bạn chắc chắn được lưu trữ trong máy chủ do Nuance (ở Hoa Kỳ) điều hành và việc sử dụng Ghi nhớ Thoại yêu cầu bạn đồng ý với các Điều khoản và Điều kiện của Nuance.
+ Nuance bảo lưu quyền sử dụng thông tin nhập bằng giọng nói của bạn vì mục đích cải thiện dịch vụ và phát triển công nghệ. Nuance cũng bảo lưu quyền cung cấp thông tin nhập bằng giọng nói được đề cập ở trên cho các đối tác của Nuance. Thông tin nhập bằng giọng nói của bạn được lưu trữ cho đến khi các mục tiêu nói trên đã được thực hiện. Để biết thông tin về các dịch vụ Ghi nhớ Thoại, vui lòng đọc Chính sách Bảo mật của Samsung và Chính sách Bảo mật của Nuance.
+ Bạn không thể sử dụng Ghi nhớ Thoại nếu bạn không đồng ý với điều khoản về thông tin của bạn được mô tả bên trên."</string>
+    <string name="init_manage_notifications_desc">Chọn các ứng dụng bạn muốn nhận thông báo trên %1$s. Để tiết kiệm pin cho %2$s của bạn, hãy bỏ chọn các ứng dụng bạn không muốn nhận thông báo.</string>
+    <string name="install_in_progress">Đang xử lý…</string>
+    <string name="invalid_rename_character">Đã nhập ký tự không hợp lệ. Hãy thử lại.</string>
+    <string name="latest_version">Đã cài đặt phiên bản mới nhất</string>
+    <string name="latitude">Vĩ độ</string>
+    <string name="limit_notification_desc">Chặn thông báo xuất hiện trên Gear khi thiết bị di động đang được sử dụng.</string>
+    <string name="limit_notification_dialog_desc">Không thể bật Hạn chế thông báo trên Gear. Chưa đặt khóa màn hình trên thiết bị di động của bạn.</string>
+    <string name="limit_notification_title">Giới hạn thông báo</string>
+    <string name="location_info_title">Chia sẻ vị trí</string>
+    <string name="lock_gear_legal_text1">Khi sử dụng Khóa Gear, bạn có thể khóa Gear từ xa để ngăn việc sử dụng trái phép. Bạn có thể mở khóa Gear bằng cách kết nối lại Gear với thiết bị di động.</string>
+    <string name="lock_gear_legal_text2">* Khóa Gear có thể cần một ít thời gian để thực hiện chức năng hoặc thậm chí có thể không thực hiện được tùy thuộc vào trạng thái của Gear, thiết bị di động hoặc môi trường mạng.</string>
+    <string name="lock_gear_text">Không thể khóa Gear khi thiết bị di động và Gear đang kết nối với nhau qua Bluetooth.</string>
+    <string name="login_to_samsung_account">Đăng nhập vào Samsung account</string>
+    <string name="login_to_samsung_account_desc">Để bật Kết nối từ xa trên Gear, hãy đăng nhập Samsung account của bạn.</string>
+    <string name="login_to_samsung_account_full_desc">"Đăng nhập vào Samsung account của bạn để sử dụng các tính năng sau ngay cả khi không kết nối qua Bluetooth:
+- Nhận thông báo
+- Sử dụng ứng dụng qua Kết nối từ xa
+Việc sử dụng Kết nối từ xa có thể phát sinh thêm phí."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Khi bạn không kết nối với điện thoại qua Bluetooth, Samsung account sẽ cho phép bạn thực hiện những việc sau qua mạng di động:
+- Nhận tin nhắn, email và các thông báo khác
+- Sử dụng ứng dụng trên Gear có yêu cầu kết nối với điện thoại qua Kết nối từ xa.
+
+Lưu ý rằng kết nối từ xa thông qua Samsung account sẽ sử dụng gói dữ liệu của bạn."</string>
+    <string name="longitude">Kinh độ</string>
+    <string name="main_bt_unpaired">Chưa được ghép đôi</string>
+    <string name="main_disconnected">Ngắt kết nối</string>
+    <string name="manage_applications">Quản lý ứng dụng</string>
+    <string name="manage_notifications">Quản lý thông báo</string>
+    <string name="manual_call_forwarding_for_att_msg">"Các cuộc gọi đến điện thoại thông minh của bạn có thể được chuyển tiếp đến Gear.
+- Điện thoại thông minh sẽ đổ chuông vài lần và sau đó cuộc gọi sẽ được chuyển tiếp đến Gear.
+- Nếu bạn không trả lời cuộc gọi trên Gear, người gọi có thể để lại thư thoại mà bạn có thể nghe trên Gear.
+Bạn có muốn bật chuyển tiếp cuộc gọi bây giờ không?"</string>
+    <string name="manual_call_forwarding_popup_desc">Chuyển tiếp cuộc gọi là dịch vụ mạng chuyển các cuộc gọi đến %s tới một số cụ thể. Tùy thuộc vào nhà cung cấp dịch vụ của bạn, đăng ký có thể được yêu cầu cho phép Gear sử dụng tính năng này. Việc này có thể phát sinh thêm phí.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Thiết bị di động</string>
+    <string name="masterapp_not_installed">%1$s chưa được cài đặt trên thiết bị di động. Để dùng %2$s trên Gear, hãy tải %1$s về thiết bị di động.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s chưa được cài trên thiết bị di động của bạn. Để sử dụng %2$s trên Gear, hãy tải %1$s về thiết bị di động. Bạn sẽ được đưa đến màn hình tải về.</string>
+    <string name="masterapp_uninstalled">%1$s đã bị gỡ bỏ khỏi thiết bị di động của bạn. Để dùng %2$s trên Gear, hãy tải %1$s về thiết bị di động.</string>
+    <string name="maximum_size_warning">Đã đạt số ký tự tối đa.</string>
+    <string name="menu_about_device">THÔNG TIN VỀ %s</string>
+    <string name="menu_actionbar_remove">Xóa</string>
+    <string name="menu_actionbar_uninstall">Gỡ cài đặt</string>
+    <string name="menu_appsandsettigns">ỨNG DỤNG VÀ CÀI ĐẶT</string>
+    <string name="menu_clock">Đồng hồ</string>
+    <string name="menu_display">CHỈNH SỬA MÀN HÌNH CHỜ</string>
+    <string name="menu_downloaded_font">FONT ĐÃ TẢI VỀ</string>
+    <string name="menu_filetransfertogear">TRUYỀN FILE ĐẾN GEAR</string>
+    <string name="menu_gallery">Hình ảnh</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Thể dục</string>
+    <string name="menu_help">Trợ giúp</string>
+    <string name="menu_home_screen">Kiểu màn hình chờ</string>
+    <string name="menu_music">Nhạc</string>
+    <string name="menu_myapp">Ứng dụng của bạn</string>
+    <string name="menu_notification">Thông báo</string>
+    <string name="menu_rename">Đổi tên</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Cài đặt</string>
+    <string name="mobile_to_gear">Di động đến Gear</string>
+    <string name="mobile_to_gear_des">Nhận các cuộc gọi đến thiết bị di động trên Gear khi hai thiết bị được kết nối từ xa.</string>
+    <string name="monotype_default_font">Font mặc định</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Nhiều hơn</string>
+    <string name="more_options">Tùy chọn khác</string>
+    <string name="multisim_title">Đa SIM</string>
+    <string name="navigate_up">Đi lên</string>
+    <string name="new_eula_error_log">Báo cáo thông tin chẩn đoán</string>
+    <string name="new_eula_fmd2">Tìm thiết bị của bạn</string>
+    <string name="new_eula_fmg2">Tìm Gear của bạn</string>
+    <string name="new_eula_news_briefing">Tin vắn</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Bàn phím Samsung</string>
+    <string name="new_notification_list">Dạng xem danh sách</string>
+    <string name="new_notifications_list_desc">Hiển thị danh sách thông báo đã nhận trên Gear ở bên trái đồng hồ.</string>
+    <string name="no_application_selected">Không có ứng dụng nào được chọn</string>
+    <string name="no_downloaded_applications">Không có ứng dụng nào đã tải về</string>
+    <string name="no_of_application_selected">%d ứng dụng đã chọn</string>
+    <string name="no_remote_connection_popup_msg">Để bật Tự động chuyển tiếp cuộc gọi, hãy mở ứng dụng Samsung Gear trên thiết bị di động và bật Kết nối từ xa, sau đó thử lại.</string>
+    <string name="no_remote_connection_popup_title">Bật Kết nối từ xa</string>
+    <string name="notification_type">Kiểu thông báo</string>
+    <string name="notification_type_desc">Khi đang sử dụng Gear, thông báo của bạn sẽ được hiển thị dưới dạng pop-up nhỏ ở trên cùng màn hình, bất kể lựa chọn bên dưới như thế nào.</string>
+    <string name="number_setting">Cài đặt số</string>
+    <string name="ok">OK</string>
+    <string name="once">Một lần</string>
+    <string name="one_application_selected">1 ứng dụng đã được chọn</string>
+    <string name="popup_attention_email_msg">Một số tài khoản email không được chọn trong Cài đặt email. Để nhận thông báo từ các tài khoản này trên Gear của bạn, hãy chọn Thông báo email trong Cài đặt email.</string>
+    <string name="popup_attention_message_msg">Để gửi và nhận tin nhắn trên Gear, ứng dụng nhắn tin mặc định của bạn sẽ được chuyển từ %s sang Tin nhắn.</string>
+    <string name="popupmenu_search_for_new_device">Quản lý thiết bị</string>
+    <string name="preview_message_desc">Hiển thị bản xem trước của các thông báo nhận được, ngoại trừ thông báo cuộc gọi đến và chuông báo, trong pop-up trên Gear.</string>
+    <string name="preview_message_title">Xem trước tin nhắn</string>
+    <string name="primary">Chính</string>
+    <string name="privacypolicy_fmgfmd">Khi bật “%1$s &amp; %2$s”, bạn nhận biết rằng dữ liệu vị trí liên kết với điện thoại di động và/hoặc thiết bị Gear của bạn sẽ được truyền tải qua server Samsung để cung cấp dịch vụ %1$s &amp; %2$s. Không có dữ liệu hoặc thông tin nào về vị trí thiết bị của bạn được lưu trên server Samsung.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">Khi bật “%1$s &amp; %2$s”, bạn nhận biết rằng dữ liệu vị trí liên kết với điện thoại di động của bạn sẽ được truyền tải qua server Samsung để cung cấp dịch vụ %2$s. Không có dữ liệu hoặc thông tin nào về vị trí thiết bị của bạn được lưu trên server Samsung.</string>
+    <string name="privacypolicy_newsbriefing">Ứng dụng này cung cấp cho người dùng khả năng tương tác với các phương tiện truyền thông xã hội và Internet theo nhiều cách thức tân tiến. Nếu bạn bật ứng dụng này, dịch vụ sẽ thu thập thông tin về cách bạn sử dụng dịch vụ, bao gồm việc bạn xem và tương tác với những nội dung và quảng cáo. Để biết thêm thông tin, hãy xem %1$sĐiều khoản sử dụng%2$s và %3$sChính sách bảo mật%4$s của Flipboard.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Chính sách bảo mật Samsung</string>
+    <string name="progressdialog_please_wait">Xin chờ…</string>
+    <string name="progressdialog_reinstalled_message">Đang cài đặt</string>
+    <string name="progressdialog_reinstalled_popup_content">Cài đặt lại</string>
+    <string name="providerapp_reinstalled">%s không hoạt động bình thường nên đã bị gỡ bỏ. Bây giờ nó sẽ được cài đặt lại.</string>
+    <string name="quick_tutorial_add_shortcuts">Để thêm các phím tắt ứng dụng vào màn hình chờ của Gear, hãy đến Ứng dụng trên Gear, chạm và giữ biểu tượng của ứng dụng, sau đó kéo và thả vào biểu tượng màn hình chờ ở phía trên cùng của màn hình.</string>
+    <string name="quick_tutorial_gear_structure">Đồng hồ được hiển thị trên trang chính của màn hình chờ của Gear. Các trang bên trái đồng hồ hiển thị thông báo còn các trang bên phải hiển thị widget. Vuốt lên từ cạnh dưới cùng màn hình để xem các ứng dụng.</string>
+    <string name="quick_tutorial_noti_title">Giới thiệu về %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Để mở S Voice, hãy nói “Hi Gear” hoặc nhấn phím trang chính hai lần khi đang ở màn hình bất kỳ.</string>
+    <string name="quick_tutorial_swipe_downwards">Nhấn hai lần vào phím trang chính để mở ứng dụng yêu thích. Bạn có thể thay đổi ứng dụng yêu thích trong Cài đặt.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Nhấn hai lần phím nguồn để mở ứng dụng yêu thích. Bạn có thể thay đổi ứng dụng yêu thích trong Cài đặt.</string>
+    <string name="quick_tutorial_to_go_back">Vuốt từ cạnh màn hình xuống để quay lại.</string>
+    <string name="remote_connection_disabled_settings">Cài đặt</string>
+    <string name="remote_connection_enabled_desc">Gear sẽ được kết nối từ xa nếu kết nối Bluetooth kết thúc.</string>
+    <string name="requested">Đã yêu cầu</string>
+    <string name="reset_gear_legal_text1">Khi sử dụng Đặt lại Gear, bạn có thể xóa tất cả dữ liệu trên Gear từ xa. Sau khi xóa, bạn sẽ không thể khôi phục dữ liệu đã xóa và không thể sử dụng Tìm Gear của bạn được nữa.</string>
+    <string name="reset_gear_legal_text2">* Đặt lại Gear có thể cần một ít thời gian để thực hiện chức năng hoặc thậm chí có thể không thực hiện được tùy thuộc vào trạng thái của Gear, thiết bị di động hoặc môi trường mạng.</string>
+    <string name="restore_complete">Hoàn tất khôi phục.</string>
+    <string name="restore_some_error">Khôi phục bị lỗi. Thử lại.</string>
+    <string name="restore_try_again">Thử lại</string>
+    <string name="restore_watch_settings_content2">"Sử dụng bộ nhớ thiết bị để sao lưu nội dung %1$s của bạn:
+%2$s
+
+Nếu trước đó bạn đã sao lưu nội dung này, bạn có thể khôi phục nó về %3$s ngay bây giờ.
+
+Tùy thuộc vào kích cỡ của file, có thể mất một thời gian.
+
+Bạn có thể thay đổi cài đặt sao lưu trong Cài đặt."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">CÀI ĐẶT</string>
+    <string name="retrieve_dialog_desc">Đang truy xuất danh sách ứng dụng…</string>
+    <string name="sa_email">Email</string>
+    <string name="sa_error_0203_desc">Để bật Kết nối từ xa, hãy cập nhật thủ công Samsung account.</string>
+    <string name="sa_error_0203_title">Cập nhật Samsung account</string>
+    <string name="sa_error_0301_desc">Đã xảy ra lỗi mạng khi đăng nhập vào Samsung account trên thiết bị di động của bạn.</string>
+    <string name="sa_error_0301_title">Không bật được chức năng</string>
+    <string name="sa_error_0302_desc">Đã xảy ra lỗi mạng khi đăng nhập vào Samsung account trên thiết bị di động của bạn.</string>
+    <string name="sa_error_0302_title">Không bật được chức năng</string>
+    <string name="sa_error_0401_desc">Đã xảy ra lỗi. Hãy thử lại.</string>
+    <string name="sa_error_0401_title">Lỗi</string>
+    <string name="safety_message_interval_10minutes">Mỗi 10 phút</string>
+    <string name="safety_message_interval_20minutes">Mỗi 20 phút</string>
+    <string name="samsung_apps_info">Bạn có thể xóa ứng dụng đã tải về qua %1$s khi gỡ cài đặt %2$s hoặc xóa dữ liệu ứng dụng. Bạn có thể tải về ứng dụng đã xóa từ nhật ký mua hàng trong %3$s.</string>
+    <string name="samsung_apps_notice">Thông báo</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Cập nhật ngay</string>
+    <string name="screen_off">Giữ màn hình tắt</string>
+    <string name="screen_off_desc">Nhận thông báo, ngoại trừ thông báo cuộc gọi đến và chuông báo, trên Gear trong khi màn hình thiết bị tắt.</string>
+    <string name="setting_Enable">Bật</string>
+    <string name="setting_alpm_dialog_title">Chú ý</string>
+    <string name="setting_always_off">Luôn tắt</string>
+    <string name="setting_always_on">Luôn bật</string>
+    <string name="setting_auto">Tự động</string>
+    <string name="setting_auto_lock_disable_desc">Bị vô hiệu bởi người quản trị, chính sách mã hóa hoặc bộ nhớ chứng danh.</string>
+    <string name="setting_backup_restore2">Sao lưu và khôi phục</string>
+    <string name="setting_basic">CƠ BẢN</string>
+    <string name="setting_connections">KẾT NỐI</string>
+    <string name="setting_disable">Tắt</string>
+    <string name="setting_home_key_double_pressing">Nhấn hai lần phím trang chính</string>
+    <string name="setting_language_input">NGÔN NGỮ VÀ BÀN PHÍM</string>
+    <string name="setting_manage_text_templates">Sửa mẫu tin nhắn</string>
+    <string name="setting_mobile_network">Các mạng di động</string>
+    <string name="setting_mobile_network_desc">Gear sẽ bị ngắt kết nối khỏi mạng di động của bạn khi được kết nối với thiết bị di động qua Bluetooth. Khi kết nối qua Bluetooth kết thúc, Gear sẽ tự động kết nối lại với mạng di động của bạn.</string>
+    <string name="setting_multisim_popup_desc">Tùy thuộc nhà cung cấp dịch vụ của bạn, bạn có thể yêu cầu đăng ký riêng để sử dụng chức năng Đa SIM. Chạm OK để bật Đa SIM.</string>
+    <string name="setting_opensource">Giấy phép nguồn mở</string>
+    <string name="setting_palm_motion">Chuyển động</string>
+    <string name="setting_palm_swipe">Vuốt để chụp</string>
+    <string name="setting_palmover_desc">Để tắt chuông cuộc gọi đến và chuông báo hoặc tạm dừng media, hãy đặt bàn tay lên màn hình khi màn hình đang bật.</string>
+    <string name="setting_palmswipe_desc">Chụp màn hình bằng cách vuốt toàn bộ ngón tay qua màn hình, luôn giữ tiếp xúc với màn hình.</string>
+    <string name="setting_pause_mute">Tắt âm/tạm dừng</string>
+    <string name="setting_power_key_double_pressing">Nhấn phím nguồn hai lần</string>
+    <string name="setting_restoring">Đang khôi phục…</string>
+    <string name="setting_safety_b1_desc">Khi Gear và thiết bị di động của bạn được kết nối, tính năng Gửi tin nhắn trợ giúp sẽ giúp bạn trong trường hợp khẩn cấp. Tin nhắn khẩn cấp sẽ cảnh báo cho những người trong danh bạ nhận tin nhắn khẩn cấp về tình huống của bạn bằng cách gửi cho họ tin nhắn khẩn cấp kèm theo vị trí của bạn. Việc gửi các tin nhắn này có thể phát sinh thêm phí. Để bật tính năng Gửi tin nhắn trợ giúp trong trường hợp khẩn cấp, hãy nhấn phím nguồn %d lần.</string>
+    <string name="setting_safety_b2_desc">Khi Gear và thiết bị di động được kết nối, tính năng Gửi tin nhắn trợ giúp sẽ giúp bạn trong trường hợp khẩn cấp bằng cách chụp ảnh bằng máy ảnh của Gear. Nó sẽ cảnh báo cho những người trong danh bạ tin nhắn khẩn về trường hợp của bạn bằng cách gửi cho họ tin nhắn khẩn cùng với ảnh này và vị trí của bạn. Tin nhắn đầu sẽ chứa cả ảnh lẫn vị trí của bạn. Sau đó một lúc, tin nhắn thứ hai sẽ được gửi đi và chỉ chứa vị trí của bạn. Việc gửi tin nhắn này có thể phát sinh thêm phí. Để bật tính năng Gửi tin nhắn trợ giúp trong trường hợp khẩn cấp, hãy nhấn phím trang chính %d lần.</string>
+    <string name="setting_safety_b2_no_camera_desc">Khi Gear và thiết bị di động của bạn được kết nối, tính năng Gửi tin nhắn trợ giúp sẽ giúp bạn trong trường hợp khẩn cấp. Nó sẽ cảnh báo cho những người trong danh bạ nhận tin nhắn khẩn cấp của bạn về tình huống của bạn bằng cách gửi cho họ tin nhắn khẩn cấp kèm theo vị trí của bạn. Việc gửi tin nhắn này có thể phát sinh thêm phí. Để bật tính năng Gửi tin nhắn trợ giúp trong trường hợp khẩn cấp, hãy nhấn phím trang chính %d lần.</string>
+    <string name="setting_safety_b3_desc1">Nhấn nhanh phím trang chính 3 lần để gửi cảnh báo nhanh cho các danh bạ ưu tiên khi bạn gặp tình huống khẩn cấp.</string>
+    <string name="setting_safety_b3_desc2">Danh bạ ưu tiên của bạn sẽ nhận tin nhắn khẩn cấp có chứa thông tin về vị trí hiện tại của bạn.</string>
+    <string name="setting_safety_b3_desc3">Kết nối thiết bị di động với Gear để sử dụng chức năng này.</string>
+    <string name="setting_safety_list">Trợ giúp an toàn</string>
+    <string name="setting_samsung_legal">Chính sách pháp lý của Samsung</string>
+    <string name="setting_screen_lock">Tự động khóa</string>
+    <string name="setting_screen_lock_desc">Sử dụng Gear để khóa thiết bị di động.</string>
+    <string name="setting_screen_secutiry">BẢO MẬT MÀN HÌNH</string>
+    <string name="setting_send_emergency_picture">Gửi ảnh khẩn cấp</string>
+    <string name="setting_send_emergency_recording">Gửi bản ghi âm thanh</string>
+    <string name="setting_send_emergency_term_agree">Tôi đã đọc và đồng ý với tất cả các điều khoản và điều kiện bên trên.</string>
+    <string name="setting_send_help_message">Gửi tin nhắn trợ giúp</string>
+    <string name="setting_send_terms_conditions">Điều khoản và điều kiện</string>
+    <string name="setting_smart_relay">Chuyển tiếp thông minh</string>
+    <string name="setting_smart_relay_desc">Xem nội dung từ Gear trên thiết bị di động bằng cách nhấc thiết bị di động lên.</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">HỆ THỐNG</string>
+    <string name="setting_text_to_speech_engine">Công cụ chuyển văn bản sang giọng nói</string>
+    <string name="setting_textinput_emoticon">Biểu tượng cảm xúc</string>
+    <string name="setting_textinput_keyboard">Bàn phím</string>
+    <string name="setting_textinput_list">Phương pháp nhập văn bản</string>
+    <string name="setting_textinput_templates">Mẫu</string>
+    <string name="setting_try_it">Thử</string>
+    <string name="setting_wake_up">Thao tác đánh thức</string>
+    <string name="setting_wake_up_desc">Đánh thức Gear bằng cách nhấc cánh tay đeo Gear.</string>
+    <string name="setting_wakeupgesture">"Để đánh thức Gear, hãy đưa cánh tay đeo Gear lên và nhìn vào màn hình Gear.
+
+Tính năng này không hoạt động khi bạn ngồi tựa lưng hoặc đang nằm và có thể tiêu thụ nhiều pin của Gear hơn vì cảm biến chuyển động luôn bật."</string>
+    <string name="setting_wakeupgesture_clock">Đồng hồ</string>
+    <string name="setting_wakeupgesture_previous">Màn hình đã xem lần cuối</string>
+    <string name="setting_wakeupgesture_screen_on">Chức năng chọn màn hình đã bật</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Chức năng chọn màn hình đã bật</string>
+    <string name="settings">Cài đặt</string>
+    <string name="settings_application_version">Phiên bản ứng dụng</string>
+    <string name="settings_emergency_contact">Quản lý danh bạ ưu tiên</string>
+    <string name="settings_emergency_contact_empty">Chưa thêm danh bạ ưu tiên nào. Để bật %s, hãy thêm danh bạ vào Danh bạ ưu tiên.</string>
+    <string name="settings_legal_information">Thông tin pháp lý</string>
+    <string name="settings_message_interval">Thời gian nhắn tin</string>
+    <string name="settings_not_set">Chưa cài</string>
+    <string name="settings_security">Bảo mật</string>
+    <string name="settings_security_update">Cập nhật bảo mật</string>
+    <string name="settings_security_update_desc">Bảo vệ thiết bị của bạn chống nội dung độc hại bằng cách cải thiện bảo mật và dịch vụ của thiết bị.</string>
+    <string name="settings_unknown_sources_dialog">Việc cài đặt không rõ nguồn gốc có thể gây hại cho thiết bị và dữ liệu cá nhân của bạn. Khi chạm OK, bạn đồng ý chịu trách nhiệm hoàn toàn về mọi tổn hại đối với thiết bị hoặc mất mát dữ liệu có thể xảy ra do sử dụng những ứng dụng này.</string>
+    <string name="settings_unknown_sources_subtitle">Cho phép cài đặt ứng dụng từ nguồn chưa rõ.</string>
+    <string name="share_loc_disabled">Đã tắt Chia sẻ vị trí.</string>
+    <string name="share_location_desc">Cho phép Tìm Gear của bạn và Tìm thiết bị của bạn chia sẻ dữ liệu vị trí của Gear và thiết bị di động.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Tôi đồng ý rằng Dữ liệu di động có thể được sử dụng và tin nhắn MMS có thể được gửi trong trường hợp khẩn cấp. Tôi hiểu rằng điều này có thể phát sinh thêm phí.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. [Gửi Tin nhắn Trợ giúp] nhằm giúp người dùng gửi thông báo về địa điểm gần đúng của họ và âm thanh/hình ảnh về môi trường xung quanh đến điện thoại di động của người liên lạc mà bạn đã cài đặt trước. Nó chỉ được cung cấp vì sự tiện lợi của bạn và không nhằm làm, cũng không được xem là, một biện pháp thay thế cho các cuộc gọi khẩn cấp đến các cơ quan quản lý.
+
+2. [Gửi Tin nhắn Trợ giúp] (“Dịch vụ”) có thể hoạt động không chính xác, không liên tục hay không có lỗi, phụ thuôc vào các hoàn cảnh chẳng hạn như khả năng kết nối mạng, tính khả dụng của thông tin GPS/Wi-Fi, trạng thái và/hoặc điều kiện của thiết bị của bạn/của số liên lạc mà bạn chọn, mức pin và/hoặc những hoàn cảnh khác ngoài tầm kiểm soát của Samsung Electronics Co., Ltd. (“Samsung”, “chúng tôi”, “của chúng tôi”)´. Độ chính xác của thông tin địa điểm và việc cung cấp các Dịch vụ một cách kịp thời có thể bị ảnh hưởng bởi môi trường xung quanh của bạn và điều kiện của thiết bị của bạn và của thiết bị của số liên lạc bạn chọn. Trừ phi được cho biết khác một cách rõ ràng hoặc theo quy định của pháp luật, Samsung từ chối bất kỳ sự đảm bảo nào rằng các Dịch vụ sẽ hoạt động chính xác, liên tục hoặc không có lỗi. Vui lòng lưu ý rằng số liên lạc bạn chọn phải là điện thoại di động có hoạt động và thiết bị đó phải được bật và có thể nhận tin nhắn văn bản. Bạn có thể phải chịu phí chuyển dữ liệu môi trường xung quanh và địa điểm của bạn tùy vào các khoản lệ phí theo quy định của công ty điều hành dịch vụ của bạn.
+
+Để các Dịch vụ hoạt động như mong muốn, có thể cần phải có một số tính năng, một khi bạn sử dụng Dịch vụ, thiết bị của bạn sẽ tự động bật các chức năng GPS và Wi-Fi . Bạn xác nhận và đồng ý cho phép tự động bật các chức năng GPS và Wi-Fi (nếu cần) trên thiết bị của bạn mà không cần thông báo thêm cho bạn hay sự đồng ý thêm của bạn.
+
+3. Bạn xác nhận và đồng ý không sử dụng sai chức năng này hoặc sử dụng chức năng này vì bất kỳ mục đích phi pháp nào hay để xâm phạm quyền riêng tư hoặc bất kỳ quyền cá nhân hay độc quyền nào của người khác. Sử dụng chức năng này chỉ phù hợp với luật pháp và chỉ trong trường hợp khẩn cấp. Bạn đồng ý chịu trách nhiệm cho việc bạn sử dụng tính năng này. Samsung sẽ không chịu trách nhiệm pháp lý đối với bất kỳ hậu quả nào có thể phát sinh từ việc bạn sử dụng tính năng này.
+
+4. Các Dịch vụ chỉ được cung cấp vì sự tiện lợi của bạn và không nhằm làm, cũng không được xem là, một biện pháp thay thế cho các cuộc gọi khẩn cấp đến các cơ quan quản lý. Trừ khi được quy định khác đi một cách rõ ràng hoặc trừ khi pháp luật yêu cầu, Samsung từ chối bất kỳ sự đảm bảo nào rằng các Dịch vụ sẽ hoạt động chính xác, liên tục hoặc không có lỗi.
+
+5. TỪ CHỐI BẢO ĐẢM. BẠN HIỂU RÕ VÀ ĐỒNG Ý RẰNG:
+ 
+A. CÁC DỊCH VỤ ĐƯỢC CUNG CẤP TRÊN CƠ SỞ THEO NGUYÊN TRẠNG, CÓ LỖI, VÀ  NHƯ ĐANG TỒN TẠI . BẠN CHỊU RỦI RO KHI SỬ DỤNG CHÚNG. SAMSUNG KHÔNG ĐẢM BẢO, CAM ĐOAN, HAY RA ĐIỀU KIỆN RÕ RÀNG THEO HOẶC LIÊN QUAN ĐẾN CÁC DỊCH VỤ. SAMSUNG TỪ CHỐI RÕ MỌI CAM ĐOAN VÀ ĐẢM BẢO DƯỚI MỌI HÌNH THỨC, DÙ LÀ HIỂN NGÔN HAY NGỤ Ý, BAO GỒM, NHƯNG KHÔNG GIỚI HẠN Ở BẤT KỲ SỰ ĐẢM BẢO NGỤ Ý NÀO VỀ TÍNH KHẢ MẠI, SỰ PHÙ HỢP CHO MỘT MỤC ĐÍCH CỤ THỂ VÀ SỰ KHÔNG VI PHẠM, VÀ BẤT KỲ SỰ ĐẢM BẢO NGỤ Ý NÀO TỪ QUÁ TRÌNH GIAO DỊCH HOẶC QUÁ TRÌNH THỰC HIỆN.
+
+B. KHÔNG GIỚI HẠN Ở NỘI DUNG BÊN TRÊN, SAMSUNG KHÔNG ĐẢM BẢO HAY CAM ĐOAN RẰNG (i) CÁC DỊCH VỤ NÀY SẼ ĐÁP ỨNG YÊU CẦU CỦA BẠN, (ii) CÁC DỊCH VỤ NÀY SẼ KHÔNG BỊ GIÁN ĐOẠN, KỊP THỜI, AN TOÀN, HOẶC KHÔNG CÓ LỖI, (iii) NỘI DUNG CÓ ĐƯỢC TỪ CÁC DỊCH VỤ, HOẶC BẤT KỲ THÔNG BÁO HAY CHỨC NĂNG CỦA CÁC DỊCH VỤ SẼ KHẢ DỤNG, CHÍNH XÁC, HOÀN CHỈNH HOẶC ĐÁNG TIN CẬY, (iv) CHẤT LƯỢNG CỦA CÁC DỊCH VỤ HOẶC BẤT KỲ THÔNG TIN NÀO, HOẶC TÀI LIỆU KHÁC MÀ BẠN CÓ ĐƯỢC THÔNG QUA CÁC DỊCH VỤ SẼ ĐÁP ỨNG KỲ VỌNG CỦA BẠN, HOẶC (v) BẤT KỲ THIẾU SÓT HAY LỖI NÀO TRONG CÁC DỊCH VỤ SẼ ĐƯỢC KHẮC PHỤC.
+
+6. GIỚI HẠN TRÁCH NHIỆM PHÁP LÝ.
+
+A. BẠN HIỂU RÕ VÀ ĐỒNG Ý RẰNG SAMSUNG SẼ KHÔNG CHỊU TRÁCH NHIỆM PHÁP LÝ THEO LÝ DO BẤT CẨN, ĐỐI VỚI BẤT KỲ TỔN THẤT, TRÁCH NHIỆM PHÁP LÝ, THIỆT HẠI HAY CHI PHÍ TRỰC TIẾP, GIÁN TIẾP, VÔ TÌNH, ĐẶC BIỆT, TRỪNG PHẠT, HẬU QUẢ HOẶC PHẠT LÀM GƯƠNG NÀO, BAO GỒM NHƯNG KHÔNG GIỚI HẠN Ở, TỔN THẤT LỢI NHUẬN, MẤT QUYỀN SỬ DỤNG HOẶC NHỮNG TỔN THẤT KHÁC (NGAY CẢ KHI VIỆC SỬA CHỮA, THAY THẾ HOẶC HOÀN TIỀN ĐỐI VỚI CÁC DỊCH VỤ KHÔNG BỒI THƯỜNG ĐẦY ĐỦ CHO BẠN ĐỐI VỚI BẤT KỲ TỔN THẤT NÀO HOẶC SAMSUNG ĐÃ BIẾT HOẶC LẼ RA PHẢI BIẾT KHẢ NĂNG XẢY RA TỔN THẤT, TRÁCH NHIỆM PHÁP LÝ, THIỆT HẠI, HOẶC CHI PHÍ NHƯ THẾ), TRỰC TIẾP HAY GIÁN TIẾP GÂY RA BỞI HOẶC PHÁT SINH TỪ: (i) CÁC KHIẾU KIỆN VI PHẠM HỢP ĐỒNG, VI PHẠM BẢO HÀNH, BẢO ĐẢM HOẶC ĐIỀU KIỆN, TRÁCH NHIỆM PHÁP LÝ TUYỆT ĐỐI, KHINH SUẤT, HOẶC SAI LẦM KHÁC Ở MỨC ĐỘ ĐƯỢC LUẬT HIỆN HÀNH CHO PHÉP, (ii) VIỆC BẠN SỬ DỤNG HOẶC VIỆC BẠN KHÔNG THỂ SỬ DỤNG CÁC DỊCH VỤ, (iii) CHI PHÍ MUA CÁC DỊCH VỤ THAY THẾ; (iv) SỰ TRUY CẬP TRÁI PHÉP ĐẾN HOẶC THAY ĐỔI QUÁ TRÌNH TRUYỀN HOẶC DỮ LIỆU CỦA BẠN; (v) CÁC TUYÊN BỐ HOẶC HÀNH VI CỦA BẤT KỲ BÊN THỨ BA NÀO; (vi) THỎA THUẬN NÀY; (vii) THƯƠNG TÍCH CHO NGƯỜI HOẶC THIỆT HẠI TÀI SẢN (BAO GỒM TỬ VONG), HOẶC (viii) BẤT KỲ VẤN ĐỀ NÀO LIÊN QUAN ĐẾN CÁC DỊCH VỤ HOẶC NỘI DUNG ĐƯỢC CUNG CẤP THÔNG QUA CÁC DỊCH VỤ.
+ 
+B. BIỆN PHÁP BỒI THƯỜNG DUY NHẤT VÀ DÀNH RIÊNG CỦA BẠN ĐỐI VỚI BẤT KỲ TRANH CHẤP NÀO VỚI SAMSUNG LIÊN QUAN ĐẾN THỎA THUẬN NÀY HAY CÁC DỊCH VỤ SẼ LÀ CHẤM DỨT SỬ DỤNG CÁC DỊCH VỤ.
+ 
+C. MỌT SỐ QUỐC GIA KHÔNG CHO PHÉP LOẠI TRỪ NHỮNG ĐẢM BẢO NHẤT ĐỊNH HOẶC HẠN CHẾ HAY LOẠI TRỪ TRÁCH NHIỆM PHÁP LÝ ĐỐI VỚI NHỮNG THIỆT HẠI VÔ TÌNH HOẶC HẬU QUẢ. THEO ĐÓ, MỘT SỐ GIỚI HẠN BÊN TRÊN CỦA PHẦN 5 VÀ 6 CÓ THỂ KHÔNG ÁP DỤNG CHO BẠN.
+
+7. BỒI THƯỜNG. Bạn đồng ý giữ cho Samsung và bên cấp quyền sử dụng của Samsung tránh mọi thiệt hại, miễn trách nhiệm, bồi thường và bảo vệ Samsung đối với bất kỳ khiếu kiện, kiện tụng, đòi hỏi, chi phí, trách nhiệm pháp lý, tổn thất, thiệt hại, phạt tiền và phí tổn nào (bao gồm phí luật sư và các chi phí hợp lý) phát sinh từ hoặc liên quan đến việc bạn sử dụng các Dịch vụ hoặc bất kỳ trường hợp nào bạn không tuân thủ Thỏa thuận này. Nếu, bất kể bản chất cá nhân của các giấy phép được cấp cho bạn theo các điều khoản và điều kiện này, bạn cho phép bất kỳ cá nhân nào sử dụng các Dịch vụ, hoặc cung cấp cho bất kỳ ai bất kỳ thông tin gì đã nhận qua các Dịch vụ, bạn đồng ý thông báo cho người đó biết sự tồn tại và các quy định của các điều khoản và điều kiện này, chúng sẽ có giá trị ràng buộc đối với người đó, và bạn đồng ý miễn trách nhiệm, bồi thường và bảo vệ Samsung đối với bất kỳ khiếu kiện, kiện tụng, đòi hỏi, chi phí, trách nhiệm pháp lý, tổn thất, thiệt hại, phạt tiền và phí tổn nào (bao gồm phí luật sư và các chi phí hợp lý) phát sinh từ hoặc liên quan đến việc người đó sử dụng các Dịch vụ.
+
+8. Bất khả kháng. Samsung sẽ không chịu trách nhiệm pháp lý đối với bất kỳ sự trì hoãn nào hay sự không thực hiện theo các điều khoản và điều kiện này hoặc sự gián đoạn các Dịch vụ, gây ra bởi Thiên tai, thẩm quyền dân sự hoặc quân sự, chiến tranh, khủng bố, tranh chấp lao động, vật liệu hoặc dịch vụ do các bên thứ ba cung cấp, hoặc bất kỳ nguyên nhân nào ngoài khả năng kiểm soát của Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Tôi đồng ý cho phép %1$s chia sẻ vị trí của tôi với các danh bạ %2$s của tôi.</string>
+    <string name="smartrelay_not_show">Không hiện lại</string>
+    <string name="software_update">Cập nhật phần mềm</string>
+    <string name="ss_double_tap_any_screen">Chạm hai lần vào màn hình bất kỳ bằng hai ngón tay để xem bộ điều khiển độ sáng và âm lượng và xem thông tin hữu ích khác.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Chuyển tiếp cuộc gọi đến Gear của bạn</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Yêu cầu…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Đang đọc các cài đặt…</string>
+    <string name="ss_loading_ing_abb">Đang tải…</string>
+    <string name="ss_mobile_data_is_disabled">Đã tắt dữ liệu di động. Hãy kết nối với WLAN hoặc bật dữ liệu di động rồi thử lại.</string>
+    <string name="ss_mobile_data_is_disabled2">Dữ liệu di động bị tắt. Kết nối với mạng Wi-Fi để thay thế hoặc bật dữ liệu di động và thử lại</string>
+    <string name="ss_no_network_connection">Không có kết nối mạng</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Sách hướng dẫn sử dụng</string>
+    <string name="str_no">Không, cảm ơn</string>
+    <string name="str_yes">OK</string>
+    <string name="stub_list_install">Cài đặt</string>
+    <string name="sw_eula_condition">Tôi hiểu và đồng ý với điều kiện và điều khoản bên trên.</string>
+    <string name="sw_eula_desc2">Bạn đồng ý cung cấp dữ liệu bản ghi lỗi cho Samsung từ bất kỳ lần Cập nhật Phần mềm nào không thành công mà thiết bị của bạn trải nghiệm. Việc này sẽ trợ giúp Samsung phát triển và nâng cao quy trình Cập nhật Phần mềm của Samsung và sau cùng, giúp thiết bị của bạn được cập nhật tốt.</string>
+    <string name="tab_stub_list">Tiêu biểu</string>
+    <string name="talkback_download">Tải về</string>
+    <string name="talkback_setting">Cài đặt</string>
+    <string name="the_samsung_gear_application">ứng dụng Samsung Gear</string>
+    <string name="threeg_connection">Sử dụng Kết nối từ xa</string>
+    <string name="threeg_connection_subtitle">Kết nối với Gear của bạn từ xa, sử dụng Dữ liệu di động hoặc Wi-Fi cùng với Samsung account của bạn.</string>
+    <string name="threeg_connection_subtitle_chn">Kết nối với Gear từ xa, sử dụng Dữ liệu di động hoặc WLAN cùng với Samsung account của bạn.</string>
+    <string name="title_activity_clock_delete">Gỡ cài đặt</string>
+    <string name="title_activity_connect_popup">Kết nối</string>
+    <string name="title_activity_paired_watch">Thiết bị được ghép đôi</string>
+    <string name="title_alertdialog_device_name_popup">Đổi tên %s</string>
+    <string name="title_alertdialog_disconnect_popup">Ngắt kết nối</string>
+    <string name="title_dialog_pm_error">Cảnh báo</string>
+    <string name="title_dialog_uninstall">Gỡ bỏ</string>
+    <string name="title_eula">Thông báo pháp lý</string>
+    <string name="title_findmywatch_connect2">Tìm Gear của bạn</string>
+    <string name="title_findmywatch_finding">Đang tìm…</string>
+    <string name="tri_connect_title_circle_to_gear">Kết nối %1$s với %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Kết nối %1$s với %2$s qua Bluetooth sẽ ngắt kết nối %3$s khỏi thiết bị di động tạm thời. Kết nối này sẽ sớm được tiếp tục và sau đó %4$s sẽ được kết nối với cả %5$s và thiết bị di động của bạn.</string>
+    <string name="tt_install_voice_data">Cài đặt dữ liệu thoại TTS</string>
+    <string name="tt_install_voice_data_required">Cài đặt ngôn ngữ văn bản sang giọng nói bổ sung trên Gear của bạn.</string>
+    <string name="tt_language">Ngôn ngữ</string>
+    <string name="tt_send_help_message">Gửi tin nhắn trợ giúp</string>
+    <string name="tt_tts_language_guide">Ngôn ngữ văn bản sang giọng nói của bạn là ngôn ngữ bạn đặt trong Cài đặt Gear. Nếu ngôn ngữ của bạn không được hỗ trợ bởi công cụ chuyển văn bản sang giọng nói, English (United Kingdom) sẽ được sử dụng.</string>
+    <string name="unable_to_connect_popup_message">Có lỗi khi kết nối Gear với thiết bị di động. Hãy thử lại sau.</string>
+    <string name="unable_to_connect_popup_title">Kết nối bị lỗi</string>
+    <string name="unable_to_lock_gear">Không thể khóa Gear</string>
+    <string name="unable_to_reset_gear">Không thể đặt lại Gear</string>
+    <string name="unabled_health">Không thể mở ứng dụng này vì nó bị tắt.</string>
+    <string name="uninstall_applications">Gỡ cài đặt ứng dụng</string>
+    <string name="unknown_sources_msg_new">%1$s sẽ không được cài đặt qua %2$s. Thiết bị và dữ liệu cá nhân của bạn dễ bị tấn công hơn bởi các ứng dụng từ những nguồn không xác định. Bạn đồng ý tự chịu trách nhiệm đối với mọi tổn hại xảy ra cho thiết bị hoặc mất mát dữ liệu do sử dụng các ứng dụng này. Để luôn cài đặt ứng dụng từ nguồn không xác định, hãy đi đến %3$s > %4$s > %5$s và bật %6$s. Chạm OK để cài đặt %7$s.</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s không có nguồn gốc từ %2$s và không bao gồm ứng dụng dành cho Gear của bạn. Thiết bị và dữ liệu của bạn dễ bị tấn công hơn bởi các ứng dụng không rõ nguồn gốc. Quá trình cài đặt sẽ bị hủy và %3$s sẽ bị xóa khỏi điện thoại của bạn.</string>
+    <string name="unknown_sources_title">Không rõ nguồn gốc</string>
+    <string name="update_button">C.nhật</string>
+    <string name="update_summary">Kiểm tra cập nhật</string>
+    <string name="update_the_latest_version">Đã có cập nhật</string>
+    <string name="voice_control_subtitle">Nói “Answer” hoặc “Reject” ở các khoảng dừng khi Gear không đổ chuông hoặc rung để trả lời hoặc từ chối cuộc gọi.</string>
+    <string name="voicememo_link1">Điều khoản và Điều kiện của Nuance</string>
+    <string name="voicememo_link2">Chính sách bảo mật Samsung</string>
+    <string name="voicememo_link3">Chính sách Bảo mật của Nuance</string>
+    <string name="watchapp_all">Ứng dụng</string>
+    <string name="watchapp_noapps">Không có ứng dụng</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Đang cập nhật…</string>
+    <string name="wifi_only">Chỉ dùng Wi-Fi</string>
+    <string name="wifi_only_chn">Chỉ WLAN</string>
+    <string name="wifi_only_summary">Chỉ tải về cập nhật khi được kết nối với mạng Wi-Fi.</string>
+    <string name="wifi_only_summary_chn">Chỉ có thể tải về khi kết nối qua WLAN.</string>
+    <string name="email_sanitize">Nội dung email này không thể hiển thị trên Gear vì lý do bảo mật. Để biết thêm chi tiết, hãy xem email này trên thiết bị di động của bạn.</string>
+    <string name="knox_sanitize">Chạm vào đây để vào chế độ KNOX.</string>
+</resources>

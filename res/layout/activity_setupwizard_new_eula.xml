@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#fff8f8f8" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/textView2_bg_linear" android:background="@color/l_os_actionbar_color" android:layout_width="fill_parent" android:layout_height="@dimen/legal_notice_header_height">
+        <TextView android:textSize="@dimen/legal_notice_header_text_size" android:textColor="#ffffffff" android:ellipsize="marquee" android:gravity="start|bottom|center" android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="82.0dip" android:layout_marginTop="@dimen/legal_notice_header_textview_margin_top" android:text="@string/title_eula" android:fontFamily="sans-serif" android:layout_marginStart="@dimen/legal_notice_header_textview_margin_left" android:layout_marginEnd="@dimen/legal_notice_header_textview_margin_left" />
+    </LinearLayout>
+    <RelativeLayout android:id="@id/outer_relative_layout" android:background="@drawable/layout_border" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="9.0dip" android:layout_marginBottom="14.0dip" android:layout_above="@id/checkbox" android:layout_below="@id/textView2_bg_linear" android:layout_marginStart="@dimen/eula_textView_margin" android:layout_marginEnd="@dimen/eula_textView_margin">
+        <ScrollView android:scrollbarThumbVertical="@drawable/manager_scrollbar" android:gravity="center_horizontal" android:id="@id/scrollviewtext" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:scrollbarStyle="insideOverlay" android:textSize="@dimen/eula_textView_size" android:textColor="@color/setupwizard_connect_button_text" android:gravity="top" android:id="@id/textView7" android:focusable="false" android:scrollbars="vertical" android:clickable="false" android:longClickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:editable="false" android:layout_marginStart="@dimen/new_eula_textContent_margin_left" android:layout_marginEnd="@dimen/new_eula_textContent_margin" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/checkbox" android:layout_width="fill_parent" android:layout_height="@dimen/eula_checkBox_height" android:layout_marginBottom="13.0dip" android:layout_above="@id/BottomBar" android:onClick="OnClickCheckBox" android:paddingStart="@dimen/eula_textView_margin" android:paddingEnd="@dimen/eula_textView_margin">
+        <CheckBox android:gravity="left" android:layout_gravity="center_vertical" android:id="@id/checkBox1" android:focusable="true" android:layout_width="30.0dip" android:layout_height="30.0dip" android:button="@drawable/manager_checkbox_btn" android:onClick="OnClickCheckBox3" />
+        <TextView android:textSize="@dimen/eula_checkBox_text_size" android:textColor="@color/winset_dark_description_text" android:gravity="center_vertical" android:layout_gravity="center_vertical" android:focusable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/eula_i_agree" android:singleLine="true" android:fontFamily="sans-serif-light" android:paddingStart="11.0dip" />
+    </LinearLayout>
+    <View android:id="@id/dividerView" android:background="#ffd1cac2" android:layout_width="fill_parent" android:layout_height="3.0px" android:layout_above="@id/BottomBar" />
+    <RelativeLayout android:id="@id/BottomBar" android:background="#fff0f0f0" android:layout_width="wrap_content" android:layout_height="46.0dip" android:layout_alignParentBottom="true">
+        <RelativeLayout android:id="@id/RestoreSkipButtonOwner" android:background="#fff0f0f0" android:layout_width="@dimen/swr_manager_btn_next_default_portrait" android:layout_height="46.0dip" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true">
+            <Button android:id="@id/buttonright" android:background="@xml/xml_listitem_selector" android:layout_width="@dimen/eula_buttonRightRelative_width" android:layout_height="fill_parent" android:layout_alignParentTop="true" android:layout_centerVertical="true" android:onClick="OnClickButtonNext" android:layout_alignParentEnd="true" />
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true">
+                <ImageView android:id="@id/Restoreimage" android:background="@drawable/manager_btn_icon_next" android:layout_width="22.0dip" android:layout_height="22.0dip" android:layout_centerVertical="true" android:contentDescription="@null" android:layout_marginStart="8.0dip" android:layout_toEndOf="@id/NextText" />
+                <TextView android:textSize="@dimen/button_text_size" android:textColor="@drawable/b2_manager_eula_next_txt_selector" android:gravity="bottom" android:id="@id/NextText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/bnr_next" android:shadowDy="2.0" android:layout_alignTop="@id/Restoreimage" android:textAllCaps="true" android:layout_alignParentStart="true" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">通话中无法使用。</string>
+    <string name="actionbar_name">Gear 管理器</string>
+    <string name="alert_full_screen">全屏弹出窗口</string>
+    <string name="alert_mini">迷你弹出窗口</string>
+    <string name="alertdialog_backkey_popup_content">警告</string>
+    <string name="alertdialog_disconnect_popup_description">Gear 将断开连接。使用蓝牙以重新连接。</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">这将关闭您与 %s 的连接。</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">您的%s将从移动设备断开。下次连接这些设备时，必须使用蓝牙。在这之后的任何连接均可通过远程连接建立。</string>
+    <string name="alertdialog_uninstall_popup_content">卸载</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">您的设备尚未安装 %1$s。若要在 Gear 上使用 %2$s，请将 %1$s 下载到您的移动设备。</string>
+    <string name="attention_popup_title">注意</string>
+    <string name="auto_call_forwarding">自动呼叫转移</string>
+    <string name="auto_call_forwarding_att">自动呼叫转移至 Gear</string>
+    <string name="auto_call_forwarding_desc">Gear 从您的移动设备断开连接时自动启用呼叫转移。在设备重新连接之前，这将从移动设备转移来电至 Gear。</string>
+    <string name="auto_update">自动更新</string>
+    <string name="auto_update_summary">自动检查更新</string>
+    <string name="backing_up">备份中…</string>
+    <string name="backup_complete">备份完成</string>
+    <string name="bnr_backup">备份中…</string>
+    <string name="bnr_bakcup_title">备份</string>
+    <string name="bnr_cancel">取消</string>
+    <string name="bnr_canel">取消</string>
+    <string name="bnr_error_occurred">出现错误</string>
+    <string name="bnr_except">%1$s (%2$s 除外)</string>
+    <string name="bnr_except_autolock">自动锁定</string>
+    <string name="bnr_except_remoteconnection">远程连接</string>
+    <string name="bnr_except_texttemplate">文本模板</string>
+    <string name="bnr_next">下一步</string>
+    <string name="bnr_no">否</string>
+    <string name="bnr_ok">确定</string>
+    <string name="bnr_reset_gear">若要连接至新设备，Gear 将重置为出厂设置。</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear 未完全设置。Gear 的设置向导当前处于打开状态，但若要连接到 Gear，您还需打开此设备的 Gear 管理器安全向导。</string>
+    <string name="bnr_reset_initialization">注意</string>
+    <string name="bnr_restore">恢复</string>
+    <string name="bnr_restored">数据已恢复</string>
+    <string name="bnr_setupwizard_title2">备份和恢复</string>
+    <string name="bnr_yes">是</string>
+    <string name="bt_connected">已连接</string>
+    <string name="bt_disconnected">已断开</string>
+    <string name="bt_unpaired">未配对</string>
+    <string name="button_finish">完成</string>
+    <string name="button_restore">恢复</string>
+    <string name="call">通话</string>
+    <string name="call_check_gear_status_when_cfwd">呼叫转移功能手机至 Gear 和 Gear 至手机无法同时启用。</string>
+    <string name="call_dualsim1">SIM 卡 1</string>
+    <string name="call_dualsim1sim2">两张 SIM 卡</string>
+    <string name="call_dualsim2">SIM 卡 2</string>
+    <string name="call_forwarding">呼叫转移</string>
+    <string name="call_forwarding_agree">我同意。</string>
+    <string name="call_forwarding_desc">将来电从您的移动设备转移至 Gear。</string>
+    <string name="call_forwarding_desc_vzw">将未接来电从您的手机转移至 Gear。</string>
+    <string name="call_forwarding_disable_msg">已发出一个请求以禁用将呼叫从移动设备转移至 Gear。移动网络和移动设备的状态可能影响结果。</string>
+    <string name="call_forwarding_enable_msg">已发出一个请求以启用将呼叫从移动设备转移至 Gear。移动网络和移动设备的状态可能影响结果。</string>
+    <string name="call_forwarding_for_att_msg">"Gear 从智能手机断开连接时，移动设备的来电将自动转移至 Gear。
+- 智能手机将响铃几次，随后呼叫将转移至 Gear。
+- 如果不在 Gear 上接听来电，对方可能会留下语音邮件，以便您可在 Gear 上收听。
+是否要立即启用【自动呼叫转移】？"</string>
+    <string name="call_forwarding_notify_msg">【将呼叫从您的移动设备转移至 Gear】当前已启用。移动设备的来电将转移至您的 Gear。如果您没有随身佩戴 Gear，请进入【设置】并禁用【自动转移呼叫】确保不会错过来电。</string>
+    <string name="call_forwarding_turning_off_notify_msg">正在禁用语音通话转移…</string>
+    <string name="call_forwarding_turning_on_notify_msg">正在启用语音通话转移…</string>
+    <string name="call_no_gear_number">没有号码</string>
+    <string name="call_select_dualsim_title">选择 SIM 卡</string>
+    <string name="call_voice_control">语音控制</string>
+    <string name="callforwarding_help_des1">根据设备是通过蓝牙还是远程连接的连接情况，自动切换用于接听来电转移的设备。</string>
+    <string name="callforwarding_help_des2">在运动时佩戴 Gear 且 Gear 已远程连接至移动设备的情况下，在 Gear 上接听拨打至移动设备的电话。</string>
+    <string name="cancel">取消</string>
+    <string name="cf_activated">已激活</string>
+    <string name="cf_deactivate_failed">禁用呼叫转移失败</string>
+    <string name="cf_deactivated">已停用</string>
+    <string name="clock_new_clock_settings_applied_via_gear">已通过 Gear 应用新时钟设置</string>
+    <string name="clocks_download_more_clocks">下载更多时钟</string>
+    <string name="clocks_noti_uninstall_clock">%s将被卸载。</string>
+    <string name="clocks_noti_uninstall_idle_clock">取消安装 %1$s，将 %2$s 设为默认时钟。</string>
+    <string name="clocks_title_basic_clocks">基本时钟</string>
+    <string name="clocks_title_downloaded_clocks">已下载的时钟</string>
+    <string name="clocks_title_style_clocks">风格时钟</string>
+    <string name="clocks_uninstalled">已卸载。</string>
+    <string name="clocks_uninstalling">正在卸载…</string>
+    <string name="close">关闭</string>
+    <string name="closing_samsung_gear_message">您的 Gear 已重置。Samsung Gear 应用程序将马上关闭。</string>
+    <string name="closing_samsung_gear_message_jpn">您的 Gear 已重置。Gear 应用程序将很快关闭。</string>
+    <string name="closing_samsung_gear_title">关闭 Samsung Gear 应用程序</string>
+    <string name="closing_samsung_gear_title_jpn">关闭 Gear 应用程序</string>
+    <string name="cloud_backup_no_information">永不</string>
+    <string name="cloud_backup_restore_backup_now">备份数据</string>
+    <string name="cloud_backup_restore_restore_now">恢复数据</string>
+    <string name="cmw_agree">我同意</string>
+    <string name="cmw_eula_agree">我理解并同意以上条款和条件</string>
+    <string name="cmw_for_setting">位置服务已禁用。转至设置。</string>
+    <string name="cmw_high_accuracy_dialog_message">若需最快最精确的位置检测，请在【定位服务】 > 【模式】中选择高精确度。</string>
+    <string name="cmw_high_accuracy_dialog_title">选择高精确度</string>
+    <string name="cmw_legal_content">启用“分享位置”功能，即表示您同意通过三星服务器传输与您移动电话及/或 Gear 设备有关的位置数据，以用于提供“查找我的 Gear”和“查找我的设备”服务。 三星服务器上不会存储有关您设备位置的任何数据或信息。</string>
+    <string name="cmw_legal_content1">启用“%1$s 和 %2$s”功能，即表示您知晓与您移动电话及/或 Gear 设备有关的位置数据将通过三星服务器传输，以用于提供 %1$s 和 %2$s 服务。三星服务器上不会存储有关您设备位置的任何数据或信息。</string>
+    <string name="cmw_legal_content1_no_gps">启用“%1$s 和 %2$s”功能，即表示您知晓与您移动电话有关的位置数据将通过三星服务器传输，以用于提供 %2$s 服务。 三星服务器上不会存储有关您设备位置的任何数据或信息。</string>
+    <string name="cmw_legal_content_2">三星隐私政策</string>
+    <string name="cmw_legal_title">法律通告</string>
+    <string name="cmw_location">启用位置服务</string>
+    <string name="cmw_show_on_map">在地图上显示</string>
+    <string name="color_black">黑色</string>
+    <string name="color_blue">蓝色</string>
+    <string name="color_brown">棕色</string>
+    <string name="color_gray">灰色</string>
+    <string name="color_green">绿色</string>
+    <string name="color_light_sky_blue">淡天蓝</string>
+    <string name="color_medium_purple">浅紫色</string>
+    <string name="color_orange">橙色</string>
+    <string name="color_pink">粉色</string>
+    <string name="color_purple">紫</string>
+    <string name="color_red">红</string>
+    <string name="color_spring_green">春绿色</string>
+    <string name="common_none">无</string>
+    <string name="common_off">关</string>
+    <string name="common_on">开</string>
+    <string name="common_recent_apps">最近应用程序</string>
+    <string name="connect_popup_content">连接到%s…</string>
+    <string name="connected_by_trasport_BT">已通过蓝牙连接</string>
+    <string name="connected_by_trasport_SCS">远程连接</string>
+    <string name="connecting_content">正在连接至 Gear</string>
+    <string name="connecting_doc">连接至 %1$s 后，可更改其设置并通过 %2$s 在上面安装应用程序。</string>
+    <string name="connecting_popup_message">正在连接至 Gear…</string>
+    <string name="connecting_popup_title">连接至 Gear</string>
+    <string name="connecting_to_gear_ing">正在连接至 Gear…</string>
+    <string name="connectingdoc">连接至 Gear 后，可变更其设置并经由 Gear 管理器在上面安装应用程序。</string>
+    <string name="connection_error_dialog_message">您的设备尚未连接。将尝试再次连接。</string>
+    <string name="dialog_check_phone_number_msg1">确保以下信息正确：</string>
+    <string name="dialog_check_phone_number_msg2">手机号码：%s</string>
+    <string name="dialog_check_phone_number_msg3">Gear 电话号码：%s</string>
+    <string name="dialog_check_phone_number_msg4">点击【确定】可确认并启用自动呼叫转移。</string>
+    <string name="dialog_enable_remote_connection_desc">若要启用自动呼叫转移，请启用远程连接，然后重试。</string>
+    <string name="dialog_enable_remote_connection_title">启用远程连接</string>
+    <string name="dialog_permission_message">无法使用%s。请点击【设置】，进入【应用程序中心】 > 【权限】，然后授予以下权限并重试：</string>
+    <string name="dialog_popup_button_cancel">取消</string>
+    <string name="dialog_reverse_msg">根据您的运营商，移动设备和 Gear 可能需要单独订阅才能使用该功能。这可能会产生额外费用。</string>
+    <string name="dialog_set_phone_number_msg">若要启用自动呼叫转移，请为您要将来电转移至和从中转移呼叫的设备设置电话号码。</string>
+    <string name="dialog_set_phone_number_title">启用自动呼叫转移</string>
+    <string name="disable_loc_text">将禁用分享位置。您将无法使用位置信息以通过查找我的 Gear 或查找我的设备搜索 Gear 或移动设备。</string>
+    <string name="disable_loc_text_no_gps">将禁用分享位置。您将无法使用位置信息以通过查找我的设备搜索移动设备。</string>
+    <string name="disable_remote_connection">禁用远程连接</string>
+    <string name="disable_remote_connection_fmm_fmd">查找我的 Gear 和查找我的设备。</string>
+    <string name="disable_remote_connection_receiving_blocked">从移动设备中接收信息、电子邮件和通知。</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">从移动设备接收电子邮件和通知。</string>
+    <string name="disable_remote_connection_warning">远程连接将禁用。在您的 Gear 重新通过蓝牙连接至移动设备之前，以下功能将不可用：</string>
+    <string name="disable_share_location">禁用分享位置</string>
+    <string name="disconnect_popup_content">%s断开中…</string>
+    <string name="do_not_show_again">不再显示</string>
+    <string name="enable_auto_call_forwarding_msg">Gear 断开连接时，自动将来电从您的移动设备转移至 Gear。根据您的运营商，这可能会产生额外费用。点击【确定】以启用【自动呼叫转移】。</string>
+    <string name="enable_auto_call_forwarding_title">启用自动呼叫转移</string>
+    <string name="enable_more_notifications_enable">启用</string>
+    <string name="enable_notification_access">启用通知访问</string>
+    <string name="enable_notification_access_desc">"该功能将可读取您接收的所有通知，其中可能包括联系人和已发送给您的信息等个人信息。也可以解除这些通知或选择与其相关的动作。
+若要在 Gear 上接收通知，请点击【启用】，然后启用 %s。"</string>
+    <string name="enable_share_location">启用分享位置</string>
+    <string name="enabled_loc">分享位置已启用</string>
+    <string name="error_enter_device_name">输入设备名称。</string>
+    <string name="error_occurred">出错。</string>
+    <string name="eula_i_agree">我同意。</string>
+    <string name="failed_tshare_msg">启用呼叫转移失败。T Share 未响应。</string>
+    <string name="find_my_device">查找我的设备</string>
+    <string name="find_my_gear">查找我的 Gear</string>
+    <string name="find_watch_btn_start">开始</string>
+    <string name="find_watch_btn_stop">停止</string>
+    <string name="find_watch_off">若要寻找您的 Gear，请点击开始。Gear 将播放音效且屏幕将开启。</string>
+    <string name="find_watch_on">若要停止寻找您的 Gear，请点击【停止】。Gear 将停止播放声音且屏幕将关闭。</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">将卸载 %1$s，且默认字体将应用至您的 %2$s。</string>
+    <string name="force_wifi_direct_msg">应用程序将通过 Wi-Fi 直连安装。这将结束您当前的 Wi-Fi 直连连接。如果取消安装，您将需要重新下载该应用程序进行安装。</string>
+    <string name="force_wifi_direct_title">安装</string>
+    <string name="force_wifi_install">安装</string>
+    <string name="gear2_backup_confirm_text">如果您现在备份数据，移动设备上的当前 Gear 备份数据将会被您的最新 Gear 数据替换。</string>
+    <string name="gear2_restore_confirm_text">如果您恢复数据，当前在您 Gear 上的数据将被删除并将由您当前的 Gear 备份数据替换。</string>
+    <string name="gear2_text">"使用您的设备存储以备份 %1$s 内容：
+%2$s
+
+如果您之前已备份该内容，则可将其立即恢复至 %3$s。
+
+根据文件的大小，可能需要一些时间。"</string>
+    <string name="gear2_text_import3">设置</string>
+    <string name="gear_bnr_desc">"使用移动设备存储以备份以下 %1$s 数据：%2$s
+
+如果您以前备份了 %3$s 数据，则可立即将其恢复到 %4$s。
+
+根据文件的大小，这可能需要一些时间。"</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">您的移动设备现正在扫描 Gear。这将需要几分钟。如果 Gear 在室内，可能难以找到。</string>
+    <string name="gear_location_popup_title">查找 Gear</string>
+    <string name="gear_location_text">Gear 位置</string>
+    <string name="gear_lock_success">Gear 已锁定</string>
+    <string name="gear_lock_text">锁定 Gear</string>
+    <string name="gear_locked">Gear 已锁定</string>
+    <string name="gear_locked_text1">Gear 已锁定。若要解锁，请通过蓝牙将 Gear 连接至移动设备。</string>
+    <string name="gear_phone_number">Gear 电话号码</string>
+    <string name="gear_phone_number_popup_desc">移动设备的所有呼叫将转移至 %s。</string>
+    <string name="gear_phone_number_popup_desc_vzw">移动设备的所有未接来电将转移至%s。</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">若要锁定您的 Gear，必须先启用远程连接。</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">若要重置您的 Gear，必须先启用远程连接。</string>
+    <string name="gear_reset_text">重置 Gear</string>
+    <string name="gear_to_mobile">Gear 至手机</string>
+    <string name="gear_to_mobile_des">两个设备通过蓝牙连接时，在移动设备上接听拨打至 Gear 的电话。</string>
+    <string name="gear_unable_to_locate_message">查找位置失败。请稍后再试。</string>
+    <string name="gear_unable_to_locate_title">无法定位 Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">墙纸</string>
+    <string name="home_bg_color">颜色</string>
+    <string name="home_bg_colors_title">可用颜色</string>
+    <string name="home_bg_delete_actionbar_selected">已选中</string>
+    <string name="home_bg_delete_dialog_msg">将从 Gear 管理器和您的 Gear 中移除 %d 张壁纸。</string>
+    <string name="home_bg_delete_select_all">全选</string>
+    <string name="home_bg_max_more_image_toast">已达到最大壁纸数 (%d)</string>
+    <string name="home_bg_more_images">更多图片</string>
+    <string name="home_bg_popup_wallpaper_msg">正在下载 Gear 壁纸…</string>
+    <string name="home_bg_popup_wallpaper_title">下载壁纸</string>
+    <string name="home_bg_toast_saved">已保存</string>
+    <string name="home_bg_wallpaper">壁纸</string>
+    <string name="home_bg_wallpapers_title">可用壁纸</string>
+    <string name="homelayout_apps">应用程序</string>
+    <string name="incoming_calls_title">来电</string>
+    <string name="info_build_number">软件版本</string>
+    <string name="info_model_number">型号</string>
+    <string name="info_software_update">系统更新</string>
+    <string name="information_provision_agreement">信息条款协议</string>
+    <string name="information_provision_agreement_mgs">"语音备忘录使用第三方服务提供商（名为 Nuance Communications, Inc）提供的语音识别技术。因此，您的语音信息将不可避免地储存在由 Nuance（位于美国）运营的服务器中，并且使用语音备忘录表明您同意 Nuance 公司的条款和条件。
+ Nuance 保留将您的语音输入用于改善服务和开发技术目的的权利。Nuance 还有权将上述语音输入提供给 Nuance 的合作伙伴。您的语音输入将始终保留直至实现上述目的。如需有关语音备忘录的信息，请参阅三星隐私政策和 Nuance 隐私政策。
+ 如果您不同意上述信息服务条款，请不要使用语音备忘录服务。"</string>
+    <string name="init_manage_notifications_desc">选择想要从 %1$s 上接收通知的应用程序。为节省 %2$s 的电量，请取消选择您不想从中接收通知的应用程序。</string>
+    <string name="install_in_progress">进行中…</string>
+    <string name="invalid_rename_character">输入的字符无效。请重试。</string>
+    <string name="latest_version">已安装最新版本</string>
+    <string name="latitude">纬度</string>
+    <string name="limit_notification_desc">当正在使用移动设备时，阻止提示在 Gear 上出现。</string>
+    <string name="limit_notification_dialog_desc">无法在您的 Gear 上启用限制通知。您的移动设备上未设置屏幕锁定。</string>
+    <string name="limit_notification_title">限制通知</string>
+    <string name="location_info_title">分享位置</string>
+    <string name="lock_gear_legal_text1">利用“锁定 Gear”功能可远程锁定您的 Gear，以防他人未经授权使用。 将 Gear 重新连接至移动设备即可将其解锁。</string>
+    <string name="lock_gear_legal_text2">*“锁定 Gear”功能可能需要一些时间才能生效，也有可能会失败，具体取决于您 Gear 的状态、移动设备或网络环境。</string>
+    <string name="lock_gear_text">您的移动设备和 Gear 通过蓝牙连接时无法锁定 Gear。</string>
+    <string name="login_to_samsung_account">登录到三星帐户</string>
+    <string name="login_to_samsung_account_desc">若要在 Gear 上启用【远程连接】，请登录您的三星帐户。</string>
+    <string name="login_to_samsung_account_full_desc">"登录您的三星帐户，即使在蓝牙未连接的情况下，也可使用以下功能：
+- 接收通知
+- 通过【远程连接】使用应用程序
+使用【远程连接】可能产生额外费用。"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"未通过蓝牙连接至您的手机时，三星帐户将允许您通过移动数据执行以下操作：
+- 接收信息、电子邮件及其他通知
+- 在需要通过远程连接连接至手机的 Gear 上使用应用程序。
+
+请注意，通过三星帐户的远程连接将使用您的流量。"</string>
+    <string name="longitude">经度</string>
+    <string name="main_bt_unpaired">未配对</string>
+    <string name="main_disconnected">已断开</string>
+    <string name="manage_applications">管理应用程序</string>
+    <string name="manage_notifications">管理通知</string>
+    <string name="manual_call_forwarding_for_att_msg">"拨打您智能手机的电话将转移至 Gear。
+- 智能手机将响铃几次，随后呼叫将转移至 Gear。
+- 如果不在 Gear 上接听来电，呼叫方可能会留下语音邮件，以便您可在 Gear 上收听。
+是否要立即启用【呼叫转移】？"</string>
+    <string name="manual_call_forwarding_popup_desc">呼叫转移是一项将 %s 来电转移至指定号码的网络服务。根据您的运营商，可能需要预订才能让您的 Gear 使用该功能。这可能产生额外费用。</string>
+    <string name="manual_call_forwarding_popup_desc_arg">移动设备</string>
+    <string name="masterapp_not_installed">您的设备尚未安装 %1$s。若要在 Gear 上使用 %2$s，请将 %1$s 下载到您的移动设备。</string>
+    <string name="masterapp_not_installed_goto_deeplink">您的移动设备上未安装 %1$s。若要在您的 Gear 上使用 %2$s，请将 %1$s 下载到您的移动设备。将被导向下载画面。</string>
+    <string name="masterapp_uninstalled">%1$s 已自您的移动设备卸载。若要在 Gear 上使用 %2$s，请将 %1$s 下载到您的移动设备。</string>
+    <string name="maximum_size_warning">已达到最大字符数</string>
+    <string name="menu_about_device">关于%s</string>
+    <string name="menu_actionbar_remove">移除</string>
+    <string name="menu_actionbar_uninstall">卸载</string>
+    <string name="menu_appsandsettigns">应用程序和设置</string>
+    <string name="menu_clock">时钟</string>
+    <string name="menu_display">编辑主屏幕</string>
+    <string name="menu_downloaded_font">已下载字体</string>
+    <string name="menu_filetransfertogear">传输文件至 GEAR</string>
+    <string name="menu_gallery">图片</string>
+    <string name="menu_health">S 健康</string>
+    <string name="menu_healthlite">健身</string>
+    <string name="menu_help">帮助</string>
+    <string name="menu_home_screen">主屏幕样式设计工具</string>
+    <string name="menu_music">音乐</string>
+    <string name="menu_myapp">我的应用程序</string>
+    <string name="menu_notification">通知</string>
+    <string name="menu_rename">重命名</string>
+    <string name="menu_samsung_health">三星健康</string>
+    <string name="menu_samsungapps">三星应用商店</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">设置</string>
+    <string name="mobile_to_gear">手机至 Gear</string>
+    <string name="mobile_to_gear_des">当两个设备远程连接时，在 Gear 上接听拨打至移动设备的电话。</string>
+    <string name="monotype_default_font">默认字体</string>
+    <string name="monotype_dialog_font_applemint">苹果薄荷</string>
+    <string name="monotype_dialog_font_choco">巧克饼干</string>
+    <string name="monotype_dialog_font_cool">爵士酷</string>
+    <string name="monotype_dialog_font_girl">少女</string>
+    <string name="monotype_dialog_font_kaiti">楷体</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">喵呜</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">玛丽玫瑰</string>
+    <string name="monotype_dialog_font_tinkerbell">小叮当</string>
+    <string name="more">更多</string>
+    <string name="more_options">更多选项</string>
+    <string name="multisim_title">多 SIM 卡</string>
+    <string name="navigate_up">向上导航</string>
+    <string name="new_eula_error_log">参加用户体验改进计划</string>
+    <string name="new_eula_fmd2">查找我的设备</string>
+    <string name="new_eula_fmg2">查找我的 Gear</string>
+    <string name="new_eula_news_briefing">新闻简报</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">三星键盘</string>
+    <string name="new_notification_list">列表视图</string>
+    <string name="new_notifications_list_desc">在时钟的左侧显示 Gear 上收到的通知列表</string>
+    <string name="no_application_selected">未选择应用程序</string>
+    <string name="no_downloaded_applications">没有已下载的应用程序</string>
+    <string name="no_of_application_selected">已选择 %d 个应用程序。</string>
+    <string name="no_remote_connection_popup_msg">若要启用自动呼叫转移，在您的移动设备上打开 Samsung Gear 应用程序并启用远程连接，然后重试。</string>
+    <string name="no_remote_connection_popup_title">启用远程连接</string>
+    <string name="notification_type">通知类型</string>
+    <string name="notification_type_desc">Gear 已在使用中时，不管您在上面的选择是什么，通知均会在屏幕顶部显示为小弹出窗口。</string>
+    <string name="number_setting">号码设置</string>
+    <string name="ok">确定</string>
+    <string name="once">一次</string>
+    <string name="one_application_selected">已选择 1 个应用程序</string>
+    <string name="popup_attention_email_msg">部分电子邮件帐户未在电子邮件设置中选中。若要在您的 Gear 上接收来自这些帐户的通知，请在电子邮件设置中选择电子邮件通知。</string>
+    <string name="popup_attention_message_msg">若要在 Gear 上发送和接收信息，您的默认信息应用程序将由%s变为信息。</string>
+    <string name="popupmenu_search_for_new_device">管理设备</string>
+    <string name="preview_message_desc">在 Gear 上的通知弹出窗口中显示收到通知的预览，来电提示和闹钟除外</string>
+    <string name="preview_message_title">预览信息</string>
+    <string name="primary">主要</string>
+    <string name="privacypolicy_fmgfmd">启用“%1$s 和 %2$s”功能，即表示您知晓与您移动电话及/或 Gear 设备有关的位置数据将通过三星服务器传输，以用于提供 %1$s 和 %2$s 服务。三星服务器上不会存储有关您设备位置的任何数据或信息。</string>
+    <string name="privacypolicy_fmgfmd_no_gps">启用“%1$s 和 %2$s”功能，即表示您知晓与您移动电话有关的位置数据将通过三星服务器传输，以用于提供 %2$s 服务。 三星服务器上不会存储有关您设备位置的任何数据或信息。</string>
+    <string name="privacypolicy_newsbriefing">此应用程序可让用户通过各种创新方式与社交媒体及互联网进行互动。 如果启用此应用程序，该服务将收集有关您如何使用该服务的信息，包括您如何查看内容和广告以及如何进行互动的信息。 如需详细信息，请参阅 Flipboard%1$s使用条款%2$s和%3$s隐私政策%4$s。</string>
+    <string name="privacypolicy_samsung_privacy_policy">三星隐私政策</string>
+    <string name="progressdialog_please_wait">请稍等…</string>
+    <string name="progressdialog_reinstalled_message">正在安装…</string>
+    <string name="progressdialog_reinstalled_popup_content">重新安装</string>
+    <string name="providerapp_reinstalled">%s无法正常运作因此已卸载。现在将重新安装。</string>
+    <string name="quick_tutorial_add_shortcuts">若要将应用程序快捷方式添加到 Gear 的主屏幕，请在 Gear 上进入【应用程序】，长按应用程序图标，然后将其拖放到屏幕顶部的主屏幕图标上。</string>
+    <string name="quick_tutorial_gear_structure">时钟将在 Gear 主屏幕的主页上显示。时钟左侧的页面将显示通知，右侧的页面将显示小组件。从屏幕边缘向上滑动以查看应用程序。</string>
+    <string name="quick_tutorial_noti_title">%s介绍</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">若要打开 S Voice，请说出“Hi Gear”或在任何屏幕上按两下主屏幕键。</string>
+    <string name="quick_tutorial_swipe_downwards">双击主屏幕键以打开您的收藏应用程序，您可在【设置】中更改收藏应用程序。</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">按两下电源键以打开您的收藏应用程序。您可在【设置】中更改收藏应用程序。</string>
+    <string name="quick_tutorial_to_go_back">从边缘向下滑动屏幕以返回。</string>
+    <string name="remote_connection_disabled_settings">设置</string>
+    <string name="remote_connection_enabled_desc">如果蓝牙连接结束，Gear 将被远程连接。</string>
+    <string name="requested">已发出请求</string>
+    <string name="reset_gear_legal_text1">利用“重置 Gear”功能可远程删除您 Gear 上的所有数据。 数据一旦删除将无法再恢复，您也无法再使用“查找我的 Gear”功能。</string>
+    <string name="reset_gear_legal_text2">*“重置 Gear”功能可能需要一些时间才能生效，也有可能会失败，具体取决于您 Gear 的状态、移动设备或网络环境。</string>
+    <string name="restore_complete">恢复已完成。</string>
+    <string name="restore_some_error">恢复失败。请重试。</string>
+    <string name="restore_try_again">重试</string>
+    <string name="restore_watch_settings_content2">"使用您的设备存储以备份 %1$s 内容：
+%2$s
+
+如果您之前已备份该内容，则可将其立即恢复至 %3$s。
+
+根据文件的大小，可能需要一些时间。
+
+您可在【设置】中更改备份设置。"</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">设置</string>
+    <string name="retrieve_dialog_desc">正在获取应用程序列表…</string>
+    <string name="sa_email">电子邮件</string>
+    <string name="sa_error_0203_desc">若要启用远程连接，请手动更新三星帐户。</string>
+    <string name="sa_error_0203_title">更新三星帐户</string>
+    <string name="sa_error_0301_desc">登录您的三星帐户时发生网络错误。</string>
+    <string name="sa_error_0301_title">启用功能失败</string>
+    <string name="sa_error_0302_desc">登录您的三星帐户时发生网络错误。</string>
+    <string name="sa_error_0302_title">启用功能失败</string>
+    <string name="sa_error_0401_desc">发生错误。请重试。</string>
+    <string name="sa_error_0401_title">错误</string>
+    <string name="safety_message_interval_10minutes">每 10 分钟</string>
+    <string name="safety_message_interval_20minutes">每 20 分钟</string>
+    <string name="samsung_apps_info">在卸载 %2$s 或清除应用程序数据时，通过 %1$s 下载的应用程序可能会被删除。您可从 %3$s 的购买历史记录中下载已删除的应用程序。</string>
+    <string name="samsung_apps_notice">注意</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">立即更新</string>
+    <string name="screen_off">保持屏幕关闭</string>
+    <string name="screen_off_desc">在Gear上接收通知时屏幕保持关闭，来电提示和闹钟除外</string>
+    <string name="setting_Enable">启用</string>
+    <string name="setting_alpm_dialog_title">注意</string>
+    <string name="setting_always_off">始终关闭</string>
+    <string name="setting_always_on">始终开启</string>
+    <string name="setting_auto">自动</string>
+    <string name="setting_auto_lock_disable_desc">已由管理员、加密政策，或证书存储禁用。</string>
+    <string name="setting_backup_restore2">备份和恢复</string>
+    <string name="setting_basic">基本</string>
+    <string name="setting_connections">连接</string>
+    <string name="setting_disable">禁用</string>
+    <string name="setting_home_key_double_pressing">双击主屏幕键</string>
+    <string name="setting_language_input">语言和输入</string>
+    <string name="setting_manage_text_templates">编辑文本模板</string>
+    <string name="setting_mobile_network">移动网络</string>
+    <string name="setting_mobile_network_desc">Gear 通过蓝牙连接至移动设备时，将从移动网络中断开连接。通过蓝牙的连接结束时，Gear 将自动重新连接至移动网络。</string>
+    <string name="setting_multisim_popup_desc">根据您的运营商，您可能需要单独预订才能使用多 SIM 卡功能。点击【确定】以启用多 SIM 卡。</string>
+    <string name="setting_opensource">开源许可证</string>
+    <string name="setting_palm_motion">动作</string>
+    <string name="setting_palm_swipe">滑动以捕捉</string>
+    <string name="setting_palmover_desc">若要将来电和闹钟转为静音、或暂停媒体播放，请在屏幕开启时将手放在屏幕上。</string>
+    <string name="setting_palmswipe_desc">通过在屏幕上滑动整根手指并与屏幕保持接触来捕捉屏幕。</string>
+    <string name="setting_pause_mute">静音/暂停</string>
+    <string name="setting_power_key_double_pressing">双击电源键</string>
+    <string name="setting_restoring">恢复中…</string>
+    <string name="setting_safety_b1_desc">当您的 Gear 和移动设备均已连接时，发送求助信息以在紧急情况下帮助您。它会向您的紧急信息联系人发送包含您位置的紧急信息来提示您的处境。发送这些信息可能会产生额外费用。若要在紧急情况下启用发送求助信息，请按下电源键 %d 次。</string>
+    <string name="setting_safety_b2_desc">当您的 Gear 和移动设备均已连接时，发送求助信息可使用 Gear 相机拍摄照片来在紧急情况下帮助您。它会向您的紧急信息联系人发送包含该图片及您位置的紧急信息来提示您的处境。第一条信息将同时包含您的位置和图片。然后，在一段时间间隔后，发送的第二条信息将仅包含您的位置。发送这些信息可能会产生额外费用。若要在紧急情况下启用发送求助信息，请按下主屏幕键 %d 次。</string>
+    <string name="setting_safety_b2_no_camera_desc">当您的 Gear 和移动设备均已连接时，发送求助信息以在紧急情况下帮助您。它会向您的紧急信息联系人发送包含您位置的紧急信息来提示您的处境。发送这些信息可能会产生额外费用。若要在紧急情况下启用发送求助信息，请按下主屏幕键 %d 次。</string>
+    <string name="setting_safety_b3_desc1">在紧急情况下快速按下主屏幕键 3 次以向您的主要联系人发送快速提醒。</string>
+    <string name="setting_safety_b3_desc2">主要联系人将接收包含有关您当前位置信息的紧急信息。</string>
+    <string name="setting_safety_b3_desc3">将您的移动设备连接至 Gear 以使用该功能。</string>
+    <string name="setting_safety_list">安全助理</string>
+    <string name="setting_samsung_legal">用户协议</string>
+    <string name="setting_screen_lock">自动锁定</string>
+    <string name="setting_screen_lock_desc">请使用您的 Gear 来锁定移动设备</string>
+    <string name="setting_screen_secutiry">屏幕安全性</string>
+    <string name="setting_send_emergency_picture">发送紧急照片</string>
+    <string name="setting_send_emergency_recording">发送声音录制</string>
+    <string name="setting_send_emergency_term_agree">我已阅读并同意上述所有条款和条件。</string>
+    <string name="setting_send_help_message">发送求救信息</string>
+    <string name="setting_send_terms_conditions">条款和条件</string>
+    <string name="setting_smart_relay">智能传递</string>
+    <string name="setting_smart_relay_desc">拿起您的移动设备以在移动设备上查看 Gear 的内容</string>
+    <string name="setting_smart_toss">Smart toss</string>
+    <string name="setting_system">系统</string>
+    <string name="setting_text_to_speech_engine">文本转语音引擎</string>
+    <string name="setting_textinput_emoticon">表情</string>
+    <string name="setting_textinput_keyboard">键盘</string>
+    <string name="setting_textinput_list">文本输入法</string>
+    <string name="setting_textinput_templates">文本模板</string>
+    <string name="setting_try_it">试用</string>
+    <string name="setting_wake_up">唤醒与手势</string>
+    <string name="setting_wake_up_desc">举起戴 Gear 的那只手来唤醒 Gear</string>
+    <string name="setting_wakeupgesture">"若要唤醒 Gear，请举起戴 Gear 的那只手，然后注视 Gear 屏幕。
+
+当您向后靠或躺下时，无法运行此功能，且因动作传感器持续开启，可能会耗费更多 Gear 电量。"</string>
+    <string name="setting_wakeupgesture_clock">时钟</string>
+    <string name="setting_wakeupgesture_previous">上次查看的屏幕</string>
+    <string name="setting_wakeupgesture_screen_on">选择显示的画面</string>
+    <string name="setting_wakeupgesture_screen_on_ru">选择显示的画面</string>
+    <string name="settings">设置</string>
+    <string name="settings_application_version">应用程序版本</string>
+    <string name="settings_emergency_contact">管理主要联系人</string>
+    <string name="settings_emergency_contact_empty">尚未添加主要联系人。若要启用%s，请将联系人添加至主要联系人。</string>
+    <string name="settings_legal_information">法律信息</string>
+    <string name="settings_message_interval">信息间隔</string>
+    <string name="settings_not_set">未设置</string>
+    <string name="settings_security">安全</string>
+    <string name="settings_security_update">安全更新</string>
+    <string name="settings_security_update_desc">通过增强其安全性和服务来防止有害内容损害您的设备。</string>
+    <string name="settings_unknown_sources_dialog">安装未知来源的应用程序可能会损害您的设备和个人数据</string>
+    <string name="settings_unknown_sources_subtitle">允许安装未知来源的应用程序。</string>
+    <string name="share_loc_disabled">分享位置已禁用</string>
+    <string name="share_location_desc">允许查找我的 Gear 和查找我的设备以分享您的 Gear 和移动设备的位置数据</string>
+    <string name="shealth_menu">S 健康</string>
+    <string name="shm_I_agree_that_mobile_data">我同意在紧急情况下可能使用移动数据并可能发送彩信。我理解这可能会产生额外费用。</string>
+    <string name="shm_new_disclaimer_msg_01">"1. 发送帮助信息旨在帮助用户将有关其大致位置及周边所看到/听到内容的通知发送到选定联系人（须提前设置）的手机上。 该功能仅用于为您提供便利，而不得用作或不应当作紧急呼吁当局的替代方式。
+
+2. 发送帮助信息（“服务”）可能无法准确、持续或毫无错误地工作，具体取决于环境因素，例如网络连接、GPS/WLAN 功能是否可用、您/您选定联系人的设备状况和/或条件、电池电量水平及/或其他不在 Samsung Electronics Co., Ltd.（“三星”、“我们”、“我们的”）控制范围内的环境因素。 位置信息的准确性以及本服务传送的及时性可能会受当前环境、您的设备以及您选定联系人的设备条件的影响。 除非另有明确声明或法律另有规定，三星对本服务能否准确、持续或毫无错误地工作不提供任何保证。 请注意，您的选定联系人必须是正常使用的手机，且该设备必须已开机，并能接收短信。 传输当前环境和位置数据可能需要付费，具体资费请参考服务运营商规定。
+
+要让本服务正常工作，请确保该功能（在您配置后）可自动打开您设备的 GPS 和 WLAN 功能。 您知晓并同意自动启用 GPS 和WLAN 功能（如需要），而无需进一步通知您或获得您的进一步许可。
+
+3. 您知晓并同意绝不会滥用此功能，或利用此功能达到任何非法目的，或侵犯他人的隐私权、任何个人权利、财产权。 仅在遵守相关法规并在遇到紧急情况时，才能使用此功能。
+
+4. 本服务仅用于为您提供便利，而不得用作或不应当作紧急呼吁当局的替代方式。 除非另有明确声明或法律另有规定，三星对本服务能否准确、持续或毫无错误地工作不提供任何保证。
+
+5. 有关保证的免责声明。 您明确知晓并同意：
+ 
+A. 本服务按“原样”提供，“可能存在各种错误”，“仅提供目前可用的功能”。 三星不对本服务或其相关方面提供任何明示担保、保证或条件。 三星在此明确声明其未作出任何类型的明示或暗示陈述或保证，包括但不限于适销性、适合特定用途和非侵权，以及在交易或执行过程中引发的任何暗示担保。
+
+B. 在不限制前述规定的前提下，三星对以下表述未作出任何陈述或担保：(i) 本服务将满足您的要求，(ii) 本服务不会中断、及时、安全或无错误，(iii) 从本服务获取的内容，或者本服务的任何通知或功能均可用、准确、完整或可靠，(iv) 本服务的质量，或者您通过本服务获取的任何信息或其他材料将达到您的期望，或者 (v) 本服务中的任何错误或缺陷均会得到纠正。
+
+C．如您未能按照本条款说明及提示使用本服务，须自行承担相关风险。
+
+D 如果与三星发生有关本协议或服务的争执，请您停止使用本服务。
+ 
+E. 某些司法管辖区不允许排除某些保证。 因此，本第 5部分的限制条款可能不适用于您。
+
+6. 不可抗力。 对于在遵守这些条款和条件的情况下出现的任何延迟或性能故障，或者因天灾、民事或军事当局、战争、恐怖行为、劳资纠纷、第三方提供的材料或服务，或者任何超出三星合理控制范围的原因所导致的服务中断等不可抗力事件，三星不承担任何责任。"</string>
+    <string name="shm_share_my_location_checkbox_text">我同意允许 %1$s 与我的 %2$s 联系人分享我的位置。</string>
+    <string name="smartrelay_not_show">不再显示</string>
+    <string name="software_update">系统更新</string>
+    <string name="ss_double_tap_any_screen">用两根手指双击任何屏幕以查看亮度和音量控制，以及其他有用信息。</string>
+    <string name="ss_forwarding_calls_to_gear_header">转移来电至您的 Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">要求中…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">正在读取设置…</string>
+    <string name="ss_loading_ing_abb">载入中…</string>
+    <string name="ss_mobile_data_is_disabled">移动数据已禁用。连接至 WLAN，或启用移动数据并重试。</string>
+    <string name="ss_mobile_data_is_disabled2">移动数据已禁用。连接至 <cst>Wi-Fi</cst> 网络，或启用移动数据并重试。</string>
+    <string name="ss_no_network_connection">无网络连接</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">用户手册</string>
+    <string name="str_no">不用，谢谢</string>
+    <string name="str_yes">是</string>
+    <string name="stub_list_install">安装</string>
+    <string name="sw_eula_condition">我理解并同意以上条款和条件</string>
+    <string name="sw_eula_desc2">您同意向三星提供设备“软件更新”失败的错误日志数据。这将协助三星改善和提升“软件更新”进程，从而最终帮助您确保设备正确更新。</string>
+    <string name="tab_stub_list">推荐</string>
+    <string name="talkback_download">下载</string>
+    <string name="talkback_setting">设置</string>
+    <string name="the_samsung_gear_application">Samsung Gear 应用程序</string>
+    <string name="threeg_connection">使用远程连接</string>
+    <string name="threeg_connection_subtitle">使用三星帐户通过移动数据或 Wi-Fi 远程连接至您的 Gear。</string>
+    <string name="threeg_connection_subtitle_chn">通过您的三星帐户同时使用移动数据或 WLAN 远程连接至 Gear</string>
+    <string name="title_activity_clock_delete">卸载</string>
+    <string name="title_activity_connect_popup">连接</string>
+    <string name="title_activity_paired_watch">已配对设备</string>
+    <string name="title_alertdialog_device_name_popup">重命名%s</string>
+    <string name="title_alertdialog_disconnect_popup">断开连接</string>
+    <string name="title_dialog_pm_error">警告</string>
+    <string name="title_dialog_uninstall">卸载</string>
+    <string name="title_eula">法律声明</string>
+    <string name="title_findmywatch_connect2">寻找我的 Gear</string>
+    <string name="title_findmywatch_finding">正在搜索…</string>
+    <string name="tri_connect_title_circle_to_gear">将 %1$s 连接至 %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">通过蓝牙将 %1$s 连接至 %2$s 将使 %3$s 与移动设备暂时断开连接。该连接将继续，且 %4$s 随即将同时连接至 %5$s 和移动设备。</string>
+    <string name="tt_install_voice_data">安装文字转语音语音数据</string>
+    <string name="tt_install_voice_data_required">在 Gear 上安装其他文字转语音语言</string>
+    <string name="tt_language">语言</string>
+    <string name="tt_send_help_message">发送求助信息</string>
+    <string name="tt_tts_language_guide">您的【文字转语音】语言是您在【Gear 设置】中设置的语言。如果文字转语音引擎不支持您的语言，则将使用英语 (英国)。</string>
+    <string name="unable_to_connect_popup_message">将您的 Gear 连接至移动设备失败。请稍后再试。</string>
+    <string name="unable_to_connect_popup_title">连接失败</string>
+    <string name="unable_to_lock_gear">无法锁定 Gear</string>
+    <string name="unable_to_reset_gear">无法重置 Gear</string>
+    <string name="unabled_health">由于已被禁用，无法打开该应用程序。</string>
+    <string name="uninstall_applications">卸载应用程序</string>
+    <string name="unknown_sources_msg_new">%1$s 将不会通过 %2$s 安装。您的设备和个人数据更容易受到来自未知来源应用程序的攻击。您同意对因使用这些应用程序而可能导致的对设备的任何损害或数据丢失负全部责任。若要始终安装来自未知来源的应用程序，请进入 %3$s > %4$s > %5$s 并启用 %6$s。点击【确定】以安装 %7$s。</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$s 不是来自 %2$s 的应用程序，且不包含供 Gear 使用的应用程序。您的设备和数据容易受到未知来源应用程序的攻击。将取消安装并从您的手机上删除 %3$s。</string>
+    <string name="unknown_sources_title">未知来源</string>
+    <string name="update_button">更新</string>
+    <string name="update_summary">检查更新</string>
+    <string name="update_the_latest_version">有可用更新</string>
+    <string name="voice_control_subtitle">在 Gear 未响铃或振动的暂停期间说出“接听”或“拒绝”，以接听或拒绝来电。</string>
+    <string name="voicememo_link1">Nuance 公司的条款和条件</string>
+    <string name="voicememo_link2">三星隐私政策</string>
+    <string name="voicememo_link3">Nuance 隐私政策</string>
+    <string name="watchapp_all">应用程序</string>
+    <string name="watchapp_noapps">无应用程序</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">三星</string>
+    <string name="widget_bt">蓝牙</string>
+    <string name="widget_fmw_refresh">正在刷新…</string>
+    <string name="wifi_only">仅Wi-Fi</string>
+    <string name="wifi_only_chn">仅限 WLAN</string>
+    <string name="wifi_only_summary">仅在连接至 <cst>Wi-Fi</cst> 网络时下载更新。</string>
+    <string name="wifi_only_summary_chn">仅限连接WLAN时可下载</string>
+    <string name="shm_new_disclaimer_msg_01_chn">"发送帮助信息旨在帮助用户将有关其大致位置及周边所看到/听到内容的通知发送到紧急联系人（须提前设置）的手机上。该功能仅用于为您提供便利，而不得用作或不应当作紧急呼叫当局的替代方式。 
+
+发送帮助信息可能无法准确、持续或毫无错误地工作，具体取决于环境因素，例如网络连接、GPS/WLAN 功能是否可用、您/您紧急联系人的设备状况和/或条件、电池电量水平及/或其他不在三星控制范围内的环境因素。位置信息的准确性和发送帮助信息数据的及时传达可能会受到当前环境、您的设备以及您紧急联系人的设备条件的影响。除非另有明确声明或法律另有规定，三星对发送帮助信息功能能否准确、持续或毫无错误地工作不提供任何保证。请注意，您的紧急联系人必须是正常使用的手机，且该设备必须已开机，并能接收短信。传输当前环境和位置数据可能需要付费，具体资费请参考服务运营商规定。
+
+要让发送帮助消息正常工作，请确保该功能（在您配置后）可自动打开您设备的 GPS 和 WLAN 功能。您知晓并同意自动启用 GPS 和 WLAN 功能，而无需进一步通知您或获取您的进一步许可。
+
+您知晓并同意绝不会滥用此功能，或利用此功能达到任何非法目的，或侵犯他人的隐私权、任何个人权利、财产权。仅在遵守相关法规并在遇到紧急情况时，才能使用此功能。 
+
+如您未能按照本条款的说明及提示使用本服务，须自行承担相关风险。"</string>
+    <string name="email_sanitize">出于安全原因，该电子邮件的内容无法在 Gear 上显示。有关详细信息，请在移动设备上查看该电子邮件。</string>
+    <string name="knox_sanitize">轻敲此处以进入 KNOX 模式。</string>
+</resources>

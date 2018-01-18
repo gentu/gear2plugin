@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/find_mywatch_disconnect_layout" android:layout_width="276.0dip" android:layout_height="110.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/BmanagerWidget_layout" android:background="@drawable/manager_widget_bg" android:layout_width="276.0dip" android:layout_height="110.0dip">
+        <TextView android:textSize="22.0dip" android:textColor="@color/widget_disconnected" android:gravity="bottom" android:id="@id/find_mywatch_disconnect_device_name" android:layout_width="wrap_content" android:layout_height="26.0dip" android:layout_marginLeft="8.0dip" android:layout_marginTop="9.0dip" android:text="@string/widget_bt" android:layout_alignParentTop="true" android:fontFamily="sans-serif" />
+        <TextView android:textSize="22.0dip" android:textColor="@color/widget_disconnected" android:id="@id/find_mywatch_disconnect_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/main_disconnected" android:layout_below="@id/find_mywatch_disconnect_device_name" android:layout_alignLeft="@id/find_mywatch_disconnect_device_name" android:fontFamily="sans-serif" />
+        <ImageView android:id="@id/find_mywatch_disconnect_widget" android:layout_width="105.0dip" android:layout_height="70.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="4.0dip" android:layout_above="@id/find_mywatch__widgetbar_img" android:layout_alignParentRight="true" />
+        <ImageView android:id="@id/find_mywatch__widgetbar_img" android:background="@drawable/manager_widget_disconected_bar" android:layout_width="258.0dip" android:layout_height="wrap_content" android:layout_marginBottom="8.0dip" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <ImageView android:background="@drawable/manager_widget_shadow" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_alignParentBottom="true" />
+</RelativeLayout>

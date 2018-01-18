@@ -1,0 +1,2 @@
+資料提供協議<br>
+Samsung 鍵盤使用由第三方服務提供者，名為 Nuance Communications, Inc. 提供的語音識別服務技術。因此，您的語音資料無可避色地會儲存在由 Nuance 操作的伺服器內（在美國）及您需要同意 <a href="privacypolicy-activity://samsung_keyboard_nuanceinfo"> Nuance 條款及細則</a> 以使用 Samsung 鍵盤。 <br><br>Nuance 保留使用您的語音輸入作改善服務及發展技術的一切權利。 Nuance 同時保留向其合夥人提供上述語音輸入的一切權利。 您的語音輸入會被保留直至上述目的成功達成。 欲獲取 Samsung 鍵盤服務的資料，請參閱 <a href="http://www.vlingo.com/wap/samsung-asr-privacy-addendum/en">Nuance 私隱政策</a>。 <br><br> 如不同意上述的資料提供條款，則無法使用 Samsung 鍵盤。

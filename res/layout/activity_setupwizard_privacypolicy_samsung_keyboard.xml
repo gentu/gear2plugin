@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/textView2_bg_linear" android:background="@color/l_os_actionbar_color" android:layout_width="fill_parent" android:layout_height="@dimen/popup_title_height">
+        <TextView android:textSize="@dimen/restore_title_height" android:textColor="@color/restore_setupwixard_heading" android:gravity="center_vertical" android:id="@id/textView2" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/restore_title_marginleft" android:text="@string/voicememo_link1" android:singleLine="true" android:shadowColor="@color/shadow_color" android:shadowDy="3.0" android:shadowRadius="1.0" android:fontFamily="sans-serif-light" />
+    </LinearLayout>
+    <ScrollView android:id="@id/ScrollView1" android:scrollbars="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/textView2_bg_linear">
+        <TextView android:textSize="18.0sp" android:textColor="@color/eula_text_color" android:id="@id/textViewAgreement" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/tcnuance_text_margin_left" android:layout_marginTop="@dimen/new_eula_top_text_bottom_margin" android:layout_marginRight="@dimen/tcnuance_text_margin_right" android:lineSpacingExtra="5.0dip" android:fontFamily="sans-serif-light" />
+    </ScrollView>
+</RelativeLayout>

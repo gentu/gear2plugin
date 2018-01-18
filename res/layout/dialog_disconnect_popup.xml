@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center_vertical" android:id="@id/textView_popuptitle" style="@style/TextView_PopupTitle" />
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/layout_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/textView_popuptitle" android:paddingStart="@dimen/popup_left_right_padding" android:paddingEnd="@dimen/popup_left_right_padding">
+        <ImageView android:id="@id/imageView_progressbar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:src="@drawable/manager_widget_progressbar" android:layout_centerVertical="true" />
+        <TextView android:textColor="@color/normal_text_color" android:gravity="center_vertical" android:id="@id/textView_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_centerInParent="true" android:layout_marginStart="6.0dip" android:layout_toEndOf="@id/imageView_progressbar" style="@style/TextView_PopupDesc" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height" android:minHeight="@dimen/myapps_list_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/tts_layout" android:focusable="true" android:clickable="false" android:layout_width="fill_parent" android:layout_height="@dimen/myapps_list_item_height">
+        <TextView android:gravity="left" android:layout_gravity="center_vertical" android:id="@id/tts_textview" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" style="@style/TextView_ListDescFirstLine" />
+    </LinearLayout>
+</RelativeLayout>

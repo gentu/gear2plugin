@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">通話中は利用不可</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">全画面ポップアップ</string>
+    <string name="alert_mini">ミニポップアップ</string>
+    <string name="alertdialog_backkey_popup_content">警告</string>
+    <string name="alertdialog_disconnect_popup_description">Gearとの接続を解除します。再接続するには、Bluetoothを使用してください。</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">%sとの接続を終了します。</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%sとモバイル端末の接続を解除します。次回デバイスを接続する際には、Bluetoothで接続する必要があります。その後、リモート接続でデバイスを接続できるようになります。</string>
+    <string name="alertdialog_uninstall_popup_content">アンインストール</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">%1$sはモバイル端末にインストールされていません。Gearで%2$sを使用するには、%1$sをモバイル端末にダウンロードしてください。</string>
+    <string name="attention_popup_title">注意</string>
+    <string name="auto_call_forwarding">自動通話転送</string>
+    <string name="auto_call_forwarding_att">Gearに自動通話転送</string>
+    <string name="auto_call_forwarding_desc">Gearがモバイル端末と接続されていない間、通話転送機能を自動的に有効にします。これにより、Gearとモバイル端末が再接続されるまで、モバイル端末への着信はGearに転送されます。</string>
+    <string name="auto_update">自動更新</string>
+    <string name="auto_update_summary">自動的に更新を確認します。</string>
+    <string name="backing_up">バックアップ中…</string>
+    <string name="backup_complete">バックアップが完了しました。</string>
+    <string name="bnr_backup">バックアップ中…</string>
+    <string name="bnr_bakcup_title">バックアップ</string>
+    <string name="bnr_cancel">キャンセル</string>
+    <string name="bnr_canel">キャンセル</string>
+    <string name="bnr_error_occurred">エラー発生</string>
+    <string name="bnr_except">%1$s(%2$s以外)</string>
+    <string name="bnr_except_autolock">自動ロック</string>
+    <string name="bnr_except_remoteconnection">リモート接続</string>
+    <string name="bnr_except_texttemplate">定型文</string>
+    <string name="bnr_next">次へ</string>
+    <string name="bnr_no">いいえ</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">新しい端末に接続するため、Gearは工場出荷時の設定にリセットされます。</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gearの設定はまだ完了していません。Gearでセットアップウィザードを実行している為、この端末とGearを接続するには、Gear Managerのセットアップウィザードを実行する必要があります。</string>
+    <string name="bnr_reset_initialization">お知らせ</string>
+    <string name="bnr_restore">復元</string>
+    <string name="bnr_restored">データを復元しました。</string>
+    <string name="bnr_setupwizard_title2">バックアップと復元</string>
+    <string name="bnr_yes">はい</string>
+    <string name="bt_connected">接続中</string>
+    <string name="bt_disconnected">切断</string>
+    <string name="bt_unpaired">ペアリング解除しました。</string>
+    <string name="button_finish">完了</string>
+    <string name="button_restore">復元</string>
+    <string name="call">通話</string>
+    <string name="call_check_gear_status_when_cfwd">通話の転送機能の[モバイル端末からGear]と[Gearからモバイル端末]を同時に有効にすることはできません。</string>
+    <string name="call_dualsim1">SIMカード1</string>
+    <string name="call_dualsim1sim2">両方のSIMカード</string>
+    <string name="call_dualsim2">SIMカード2</string>
+    <string name="call_forwarding">通話転送</string>
+    <string name="call_forwarding_agree">同意します。</string>
+    <string name="call_forwarding_desc">モバイル端末からGearに着信を転送します。</string>
+    <string name="call_forwarding_desc_vzw">端末からGearに着信を転送します。</string>
+    <string name="call_forwarding_disable_msg">モバイル端末からGearに通話を転送しないように設定します。モバイルネットワークおよびモバイル端末の状態により結果が異なる場合があります。</string>
+    <string name="call_forwarding_enable_msg">モバイル端末からGearに通話を転送するように設定します。モバイルネットワークおよびモバイル端末の状態により結果が異なる場合があります。</string>
+    <string name="call_forwarding_for_att_msg">"Gearとスマートフォンの接続を解除すると、モバイル端末への着信は自動的にGearに転送されます。
+- スマートフォンの着信音が数回鳴った後、着信がGearに転送されます。
+- Gearで着信に応答しなかった場合、発信者が残した留守番電話をGearで聞くことができます。
+今すぐ自動通話転送機能をONにしますか？"</string>
+    <string name="call_forwarding_notify_msg">モバイル端末からGearへの通話の転送機能は現在有効です。モバイル端末への着信はGearに転送されます。Gearを装着していない場合、着信を受けることができない可能性があるため、[設定]に移動し、[自動通話転送]を無効にしてください。</string>
+    <string name="call_forwarding_turning_off_notify_msg">音声通話の転送機能を無効にしています…</string>
+    <string name="call_forwarding_turning_on_notify_msg">音声通話の転送機能を有効にしています…</string>
+    <string name="call_no_gear_number">番号がありません</string>
+    <string name="call_select_dualsim_title">SIMカードを選択</string>
+    <string name="call_voice_control">音声コントロール</string>
+    <string name="callforwarding_help_des1">端末との接続がBluetooth接続かリモート接続かによって、着信時の転送先が自動的に切り替わります。</string>
+    <string name="callforwarding_help_des2">モバイル端末とリモート接続したGearを装着して移動している場合、モバイル端末への着信をGearで受信します。</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cf_activated">有効</string>
+    <string name="cf_deactivate_failed">通話転送機能を無効にできませんでした。</string>
+    <string name="cf_deactivated">無効</string>
+    <string name="clock_new_clock_settings_applied_via_gear">新しい時計の設定をGearで適用しました。</string>
+    <string name="clocks_download_more_clocks">時計を追加でダウンロード</string>
+    <string name="clocks_noti_uninstall_clock">%sをアンインストールします。</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$sがアンインストールされ、%2$sが標準の時計として設定されます。</string>
+    <string name="clocks_title_basic_clocks">基本時計</string>
+    <string name="clocks_title_downloaded_clocks">ダウンロードした時計</string>
+    <string name="clocks_title_style_clocks">スタイル時計</string>
+    <string name="clocks_uninstalled">アンインストールしました。</string>
+    <string name="clocks_uninstalling">アンインストール中…</string>
+    <string name="close">閉じる</string>
+    <string name="closing_samsung_gear_message">Gearがリセットされました。まもなくSamsung Gearアプリケーションを終了します。</string>
+    <string name="closing_samsung_gear_message_jpn">Gearがリセットされました。まもなくGearアプリケーションを終了します。</string>
+    <string name="closing_samsung_gear_title">Samsung Gearアプリを終了</string>
+    <string name="closing_samsung_gear_title_jpn">Gearアプリケーションを終了</string>
+    <string name="cloud_backup_no_information">なし</string>
+    <string name="cloud_backup_restore_backup_now">データのバックアップ</string>
+    <string name="cloud_backup_restore_restore_now">データを復元</string>
+    <string name="cmw_agree">同意する</string>
+    <string name="cmw_eula_agree">上記の利用規約を理解した上で同意します。</string>
+    <string name="cmw_for_setting">位置情報サービスが無効です。[設定]に移動します。</string>
+    <string name="cmw_high_accuracy_dialog_message">迅速かつ正確な位置を測定するために、[位置情報] > [モード]で[高精度]を選択してください。</string>
+    <string name="cmw_high_accuracy_dialog_title">高精度を選択</string>
+    <string name="cmw_legal_content">[位置情報の共有 (Share Location)] 機能を有効にすることで、お客様はご利用中の携帯電話および / または Gear デバイスに関連付けられた位置データが、[Gear を探す (Find My Gear)] サービスおよび [デバイスを探す (Find My Device)] サービスを提供するために、Samsung のサーバーを経由して転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="cmw_legal_content1">[%1$s &amp; %2$s] 機能を有効にすることで、お客様はご利用中の携帯電話および / または Gear デバイスに関連付けられた位置データが、[%1$s &amp; %2$s] サービスを提供するために、Samsung のサーバーを経由して転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="cmw_legal_content1_no_gps">[%1$s &amp; %2$s] 機能を有効にすることで、お客様はご利用中の携帯電話に関連付けられた位置データが、[%2$s] サービスを提供するために、Samsung のサーバーを経由して転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="cmw_legal_content_2">Samsungプライバシーポリシー</string>
+    <string name="cmw_legal_title">利用規約</string>
+    <string name="cmw_location">位置情報サービスを有効にする</string>
+    <string name="cmw_show_on_map">地図上に表示</string>
+    <string name="color_black">黒</string>
+    <string name="color_blue">青</string>
+    <string name="color_brown">ブラウン</string>
+    <string name="color_gray">グレー</string>
+    <string name="color_green">緑</string>
+    <string name="color_light_sky_blue">ライトスカイブルー</string>
+    <string name="color_medium_purple">紫</string>
+    <string name="color_orange">オレンジ</string>
+    <string name="color_pink">ピンク</string>
+    <string name="color_purple">紫</string>
+    <string name="color_red">赤</string>
+    <string name="color_spring_green">スプリンググリーン</string>
+    <string name="common_none">なし</string>
+    <string name="common_off">OFF</string>
+    <string name="common_on">ON</string>
+    <string name="common_recent_apps">最近のアプリ</string>
+    <string name="connect_popup_content">%sに接続中…</string>
+    <string name="connected_by_trasport_BT">Bluetoothで接続</string>
+    <string name="connected_by_trasport_SCS">リモート接続済み</string>
+    <string name="connecting_content">Gearに接続中</string>
+    <string name="connecting_doc">%1$sと接続すると、%2$sで設定の変更やアプリケーションのインストールができます。</string>
+    <string name="connecting_popup_message">Gearに接続中…</string>
+    <string name="connecting_popup_title">Gearに接続</string>
+    <string name="connecting_to_gear_ing">Gearに接続中…</string>
+    <string name="connectingdoc">Gearと接続を完了すると、Gear Managerで設定の変更やアプリケーションのインストールができます。</string>
+    <string name="connection_error_dialog_message">端末はまだ接続されていません。再接続します。</string>
+    <string name="dialog_check_phone_number_msg1">以下の情報が正しいことを確認してください:</string>
+    <string name="dialog_check_phone_number_msg2">携帯電話番号: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gearの電話番号: %s</string>
+    <string name="dialog_check_phone_number_msg4">自動通話転送を有効にするには、電話番号を確認し、[OK]をタップしてください。</string>
+    <string name="dialog_enable_remote_connection_desc">自動通話転送を有効にするには、リモート接続を有効にしてから、再度実行してください。</string>
+    <string name="dialog_enable_remote_connection_title">リモート接続を有効にする</string>
+    <string name="dialog_permission_message">[%s]を使用できません。[設定]をタップし、[アプリケーション情報] > [権限]に移動して、次の権限を許可してから再度実行してください。</string>
+    <string name="dialog_popup_button_cancel">キャンセル</string>
+    <string name="dialog_reverse_msg">サービスプロバイダによっては、モバイル端末およびGearでこの機能を使用するための個別の登録が必要になり、追加料金が発生する可能性があります。</string>
+    <string name="dialog_set_phone_number_msg">自動通話転送を有効にするには、着信を送受信したい端末の電話番号を設定してください。</string>
+    <string name="dialog_set_phone_number_title">自動通話転送を有効にする</string>
+    <string name="disable_loc_text">[位置情報を共有]を無効にします。[Gearリモート追跡]または[端末リモート追跡]でGearやモバイル端末を検索する場合、位置情報が使用できなくなります。</string>
+    <string name="disable_loc_text_no_gps">[位置情報を共有]を無効にします。位置情報を使用して、[端末リモート追跡]でモバイル端末を検索することができなくなります。</string>
+    <string name="disable_remote_connection">リモート接続を無効にする</string>
+    <string name="disable_remote_connection_fmm_fmd">Gearリモート追跡と端末リモート追跡</string>
+    <string name="disable_remote_connection_receiving_blocked">モバイル端末からのメッセージ、Eメールおよび通知の受信</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">モバイル端末からのEメールおよび通知の受信</string>
+    <string name="disable_remote_connection_warning">リモート接続を無効にします。Gearとモバイル端末をBluetoothで再度接続するまで、以下の機能は利用できません。</string>
+    <string name="disable_share_location">[位置情報を共有]を無効にする</string>
+    <string name="disconnect_popup_content">%sを切断中…</string>
+    <string name="do_not_show_again">今後表示しない</string>
+    <string name="enable_auto_call_forwarding_msg">Gearが接続されていないとき、モバイル端末への着信をGearに自動転送します。サービスプロバイダによっては、追加料金が発生する可能性があります。自動通話転送を有効にするには、[OK]をタップしてください。</string>
+    <string name="enable_auto_call_forwarding_title">自動通話転送を有効にする</string>
+    <string name="enable_more_notifications_enable">有効</string>
+    <string name="enable_notification_access">[通知へのアクセス]を有効にする</string>
+    <string name="enable_notification_access_desc">"この機能では、連絡先やメッセージなど個人情報が含まれている通知を全て受け取ることができます。また、通知の解除や関連する操作の選択を行うことができます。
+Gearで通知を受信するには、[有効]をタップし、%sを有効にしてください。"</string>
+    <string name="enable_share_location">[位置情報を共有]を有効にする</string>
+    <string name="enabled_loc">[位置情報を共有]が有効になりました。</string>
+    <string name="error_enter_device_name">デバイス名称を入力してください。</string>
+    <string name="error_occurred">エラーが発生しました。</string>
+    <string name="eula_i_agree">同意します。</string>
+    <string name="failed_tshare_msg">T shareから応答がないため、通話転送機能を有効にできません。</string>
+    <string name="find_my_device">端末リモート追跡</string>
+    <string name="find_my_gear">Gearリモート追跡</string>
+    <string name="find_watch_btn_start">開始</string>
+    <string name="find_watch_btn_stop">停止</string>
+    <string name="find_watch_off">Gearを捜索するには、[開始]をタップします。Gearから音が鳴り、画面がONになります。</string>
+    <string name="find_watch_on">Gearの捜索を中止するには、[停止]をタップします。Gearが音の再生を停止して、画面がOFFになります。</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$sをアンインストールし、%2$sに標準フォントを適用します。</string>
+    <string name="force_wifi_direct_msg">アプリケーションをWi-Fi Directでインストールするため、現在のWi-Fi Direct接続を終了します。インストールをキャンセルした場合、このアプリケーションをインストールするには、再度ダウンロードする必要があります。</string>
+    <string name="force_wifi_direct_title">インストール</string>
+    <string name="force_wifi_install">インストール</string>
+    <string name="gear2_backup_confirm_text">今データをバックアップすると、モバイル端末に保存されたGearのバックアップデータが最新のGearデータに置き換えられます。</string>
+    <string name="gear2_restore_confirm_text">データを復元すると、現在のGearデータが削除され、バックアップデータに置き換えられます。</string>
+    <string name="gear2_text">"%1$sのコンテンツ(%2$s)をバックアップするには、システムメモリ(本体) を使用してください。
+
+このコンテンツが以前バックアップされたことがある場合、今すぐ%3$sに復元することができます。
+
+ファイルのサイズによっては、この操作に時間がかかる可能性があります。"</string>
+    <string name="gear2_text_import3">設定</string>
+    <string name="gear_bnr_desc">"モバイル端末のシステムメモリ(本体)を使用して、%1$sのデータをバックアップします。
+バックアップデータ: %2$s
+以前に%3$sのデータをバックアップしている場合は%4$sに復元できます。
+
+ファイルのサイズによっては時間がかかる可能性があります。"</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">モバイル端末がGearを検索しています。検索には数分かかる可能性があります。屋内ではGearの検索が困難な場合があります。</string>
+    <string name="gear_location_popup_title">Gearの位置を確認</string>
+    <string name="gear_location_text">Gearの位置</string>
+    <string name="gear_lock_success">Gearをロックしました。</string>
+    <string name="gear_lock_text">Gearをロック</string>
+    <string name="gear_locked">Gearをロック済み</string>
+    <string name="gear_locked_text1">Gearをロックしました。ロックを解除するには、BluetoothでGearとモバイル端末を接続してください。</string>
+    <string name="gear_phone_number">Gearの電話番号</string>
+    <string name="gear_phone_number_popup_desc">モバイル端末への全ての着信を%sに転送します。</string>
+    <string name="gear_phone_number_popup_desc_vzw">モバイル端末への全ての着信を%sに転送します。</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Gearをロックするには、先にリモート接続を有効にする必要があります。</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Gearをリセットするには、先にリモート接続を有効にする必要があります。</string>
+    <string name="gear_reset_text">Gearをリセット</string>
+    <string name="gear_to_mobile">Gearからﾓﾊﾞｲﾙ端末</string>
+    <string name="gear_to_mobile_des">Gearとモバイル端末がBluetoothで接続されている場合、Gearへの着信をモバイル端末で受信します。</string>
+    <string name="gear_unable_to_locate_message">位置情報の取得に失敗しました。後ほどお試しください。</string>
+    <string name="gear_unable_to_locate_title">Gearの位置検出不可</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">Sボイス</string>
+    <string name="home_background">壁紙</string>
+    <string name="home_bg_color">色</string>
+    <string name="home_bg_colors_title">使用可能な色</string>
+    <string name="home_bg_delete_actionbar_selected">選択</string>
+    <string name="home_bg_delete_dialog_msg">%d件の壁紙をGear ManagerとGearから削除します。</string>
+    <string name="home_bg_delete_select_all">全て選択</string>
+    <string name="home_bg_max_more_image_toast">壁紙の最大数(%d件)に達しました。</string>
+    <string name="home_bg_more_images">他の画像</string>
+    <string name="home_bg_popup_wallpaper_msg">Gearの壁紙をダウンロード中…</string>
+    <string name="home_bg_popup_wallpaper_title">壁紙をダウンロード</string>
+    <string name="home_bg_toast_saved">保存しました。</string>
+    <string name="home_bg_wallpaper">壁紙</string>
+    <string name="home_bg_wallpapers_title">利用可能な壁紙</string>
+    <string name="homelayout_apps">アプリケーション</string>
+    <string name="incoming_calls_title">着信</string>
+    <string name="info_build_number">ソフトウェアバージョン</string>
+    <string name="info_model_number">モデル番号</string>
+    <string name="info_software_update">ソフトウェア更新</string>
+    <string name="information_provision_agreement">情報提供への同意</string>
+    <string name="information_provision_agreement_mgs">"音声メモは、サードパーティーのサービスプロバイダであるNuance Communications, Inc.から提供される音声認識技術を使用します。そのため、お客様の音声情報はNuanceによって運営されるサーバー(米国内)に保存されます。音声メモの使用にはNuanceの使用条件に同意する必要があります。
+ Nuanceは、サービスおよび技術の向上の目的のため、お客様の音声入力を使用する権利を留保します。また、Nuanceは、Nuanceのパートナーへお客様の音声入力を提供する権利も留保します。お客様の音声入力は、前述の目標が達成されるまで保存されます。音声メモサービスの詳細情報については、SamsungのプライバシーポリシーおよびNuanceのプライバシーポリシーを参照してください。
+ ここで説明したお客様の情報のご提供に同意いただけない場合、音声メモのご利用はできません。"</string>
+    <string name="init_manage_notifications_desc">%1$sから通知を受信するアプリケーションを選択できます。%2$sのバッテリーの消費量を抑えるには、通知が不要なアプリケーションの選択を解除してください。</string>
+    <string name="install_in_progress">進行中…</string>
+    <string name="invalid_rename_character">無効な文字が入力されました。再度入力してください。</string>
+    <string name="latest_version">最新ﾊﾞｰｼﾞｮﾝがｲﾝｽﾄｰﾙ済み</string>
+    <string name="latitude">緯度</string>
+    <string name="limit_notification_desc">モバイル端末を操作中はGearで通知の表示をブロック</string>
+    <string name="limit_notification_dialog_desc">[通知を制限]を有効にできませんでした。モバイル端末で画面ロックが設定されていません。</string>
+    <string name="limit_notification_title">通知を制限</string>
+    <string name="location_info_title">位置情報を共有</string>
+    <string name="lock_gear_legal_text1">[Gearをロック]を使用すると、遠隔操作でGearをロックして不正使用を防止できます。Gearをモバイル端末に再接続すると、ロックを解除できます。</string>
+    <string name="lock_gear_legal_text2">* [Gearをロック]は、Gearやモバイル端末、またはネットワーク環境の状態により、時間がかかる、もしくは失敗する可能性があります。</string>
+    <string name="lock_gear_text">モバイル端末とGearがBluetoothで接続されている間は、Gearをロックできません。</string>
+    <string name="login_to_samsung_account">Samsungｱｶｳﾝﾄにｻｲﾝｲﾝ</string>
+    <string name="login_to_samsung_account_desc">Gearでリモート接続を有効にするには、Samsungアカウントにサインインしてください。</string>
+    <string name="login_to_samsung_account_full_desc">"Samsungアカウントにサインインすると、Bluetoothで接続していない場合でも以下の機能を使用できるようになります。
+- 通知を受信
+- リモート接続でアプリケーションを使用
+リモート接続を使用すると、追加料金が発生する可能性があります。"</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Bluetoothで端末に接続されていない場合、Samsungアカウントを使用してモバイルデータで以下の処理を実行できます。
+- メッセージ、Eメール、その他の通知の受信
+-リモート接続で端末との接続が必要なGearアプリケーションの使用
+
+Samsungアカウントでリモート接続すると、ご利用のデータプランが適用されるので注意してください。"</string>
+    <string name="longitude">経度</string>
+    <string name="main_bt_unpaired">ペアリング解除しました。</string>
+    <string name="main_disconnected">切断</string>
+    <string name="manage_applications">アプリケーション管理</string>
+    <string name="manage_notifications">通知を管理</string>
+    <string name="manual_call_forwarding_for_att_msg">"スマートフォンへの着信をGearに転送することができます。
+- スマートフォンの着信音が数回鳴った後、着信がGearに転送されます。
+- Gearで着信に応答しなかった場合、発信者が残した留守番電話をGearで聞くことができます。
+今すぐ通話転送機能を有効にしますか？"</string>
+    <string name="manual_call_forwarding_popup_desc">通話転送機能は、指定した電話番号に%sへの着信を転送するネットワークサービスです。サービスプロバイダによっては、Gearでこの機能を使用するための登録が必要になり、追加料金が発生する可能性があります。</string>
+    <string name="manual_call_forwarding_popup_desc_arg">モバイル端末</string>
+    <string name="masterapp_not_installed">%1$sはモバイル端末にインストールされていません。Gearで%2$sを使用するには、%1$sをモバイル端末にダウンロードしてください。</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$sはモバイル端末にインストールされていません。Gearで%2$sを使用するには、%1$sをモバイル端末にダウンロードしてください。ダウンロード画面に移動します。</string>
+    <string name="masterapp_uninstalled">%1$sがモバイル端末からアンインストールされました。Gearで%2$sを使用するには、%1$sをモバイル端末にダウンロードしてください。</string>
+    <string name="maximum_size_warning">最大文字数に達しました。</string>
+    <string name="menu_about_device">%sについて</string>
+    <string name="menu_actionbar_remove">削除</string>
+    <string name="menu_actionbar_uninstall">アンインストール</string>
+    <string name="menu_appsandsettigns">アプリと設定</string>
+    <string name="menu_clock">時計</string>
+    <string name="menu_display">ホーム画面を編集</string>
+    <string name="menu_downloaded_font">ダウンロード済みフォント</string>
+    <string name="menu_filetransfertogear">Gearにファイルを転送</string>
+    <string name="menu_gallery">画像</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">運動</string>
+    <string name="menu_help">ヘルプ</string>
+    <string name="menu_home_screen">ホーム画面のスタイル</string>
+    <string name="menu_music">音楽</string>
+    <string name="menu_myapp">マイアプリ</string>
+    <string name="menu_notification">通知</string>
+    <string name="menu_rename">名前を変更</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung GALAXY Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">設定</string>
+    <string name="mobile_to_gear">ﾓﾊﾞｲﾙ端末からGear</string>
+    <string name="mobile_to_gear_des">Gearとモバイル端末がリモート接続されている場合、モバイル端末への着信をGearで受信します。</string>
+    <string name="monotype_default_font">標準フォント</string>
+    <string name="monotype_dialog_font_applemint">アップルミント</string>
+    <string name="monotype_dialog_font_choco">チョコクッキー</string>
+    <string name="monotype_dialog_font_cool">クールジャズ</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UD丸ゴシック</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UD明朝</string>
+    <string name="monotype_dialog_font_pop">ポップ</string>
+    <string name="monotype_dialog_font_rose">ローズマリー</string>
+    <string name="monotype_dialog_font_tinkerbell">ティンカーベル</string>
+    <string name="more">その他</string>
+    <string name="more_options">他の​オプション</string>
+    <string name="multisim_title">マルチSIM</string>
+    <string name="navigate_up">上に移動</string>
+    <string name="new_eula_error_log">診断情報を報告</string>
+    <string name="new_eula_fmd2">端末リモート追跡</string>
+    <string name="new_eula_fmg2">Gearリモート追跡</string>
+    <string name="new_eula_news_briefing">ﾆｭｰｽﾌﾞﾘｰﾌｨﾝｸﾞ</string>
+    <string name="new_eula_s_voice">Sボイス</string>
+    <string name="new_eula_sip">Samsungキーボード</string>
+    <string name="new_notification_list">リスト表示</string>
+    <string name="new_notifications_list_desc">Gearで受信した通知のリストを時計の左側に表示</string>
+    <string name="no_application_selected">アプリケーション未選択</string>
+    <string name="no_downloaded_applications">ダウンロードしたアプリケーションはありません</string>
+    <string name="no_of_application_selected">%d件のアプリケーションを選択</string>
+    <string name="no_remote_connection_popup_msg">自動通話転送を有効にするには、モバイル端末でSamsung Gearアプリケーションを起動し、[リモート接続]を有効にしてから再度実行してください。</string>
+    <string name="no_remote_connection_popup_title">リモート接続を有効にする</string>
+    <string name="notification_type">通知タイプ</string>
+    <string name="notification_type_desc">Gearの使用中は、上記の設定に関係なく、画面上部に小さなポップアップとして通知が表示されます。</string>
+    <string name="number_setting">番号の設定</string>
+    <string name="ok">OK</string>
+    <string name="once">1回のみ</string>
+    <string name="one_application_selected">1件のアプリケーションを選択</string>
+    <string name="popup_attention_email_msg">一部のEメールアカウントが、Eメール設定で選択されていません。Gearでそれらのアカウントから通知を受信するには、Eメール設定で[Eメール通知]を選択してください。</string>
+    <string name="popup_attention_message_msg">Gearのメッセージを送受信するため、標準メッセージアプリを%sからメッセージに変更します。</string>
+    <string name="popupmenu_search_for_new_device">端末を管理</string>
+    <string name="preview_message_desc">着信とアラーム以外で受信した通知の内容をGearのポップアップでプレビュー表示</string>
+    <string name="preview_message_title">メッセージをプレビュー表示</string>
+    <string name="primary">メイン</string>
+    <string name="privacypolicy_fmgfmd">[%1$s &amp; %2$s] 機能を有効にすることで、お客様はご利用中の携帯電話および / または Gear デバイスに関連付けられた位置データが、[%1$s &amp; %2$s] サービスを提供するために、Samsung のサーバーを経由して転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="privacypolicy_fmgfmd_no_gps">[%1$s &amp; %2$s] 機能を有効にすることで、お客様はご利用中の携帯電話に関連付けられた位置データが、[%2$s] サービスを提供するために、Samsung のサーバーを経由して転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="privacypolicy_newsbriefing">このアプリを使用すると、ユーザーは各種の画期的な方法により、ソーシャル メディアやインターネットとのやり取りを行えるようになります。 このアプリを有効にした場合、本サービスはお客様のサービス利用方法に関する情報 (コンテンツおよび広告に関する表示状況や通信状況を含む) を収集します。 詳細については、Flipboard の「%1$sご利用規約%2$s」および「%3$s個人情報保護方針%4$s」をご覧ください。</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsungプライバシーポリシー</string>
+    <string name="progressdialog_please_wait">し​ば​らく​お​待ち​く​ださ​い…</string>
+    <string name="progressdialog_reinstalled_message">インストール中…</string>
+    <string name="progressdialog_reinstalled_popup_content">再ｲﾝｽﾄｰﾙ</string>
+    <string name="providerapp_reinstalled">%sは正しく動作しないためアンインストールしました。再インストールします。</string>
+    <string name="quick_tutorial_add_shortcuts">Gearのホーム画面にアプリを追加するには、Gearの[アプリ]に移動し、アプリのアイコンを押しながら画面上部のホームアイコンにドラッグします。</string>
+    <string name="quick_tutorial_gear_structure">Gearのホーム画面のメインページに時計が表示されます。時計から左のページに通知、右のページにウィジェットが表示されます。画面の下端から上にスワイプすると、アプリケーションが表示されます。</string>
+    <string name="quick_tutorial_noti_title">%sの紹介</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Sボイスを起動するには、任意の画面で「ハイ ギア」と音声入力するか、ホームキーを2回押します。</string>
+    <string name="quick_tutorial_swipe_downwards">お気に入りアプリを起動するには、ホームキーを2回押します。[設定]でお気に入りアプリを変更できます。</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">お気に入りアプリを起動するには、電源キーを2回押します。[設定]でお気に入りアプリを変更できます。</string>
+    <string name="quick_tutorial_to_go_back">前の画面に戻るには、画面の上端から下にスワイプします。</string>
+    <string name="remote_connection_disabled_settings">設定</string>
+    <string name="remote_connection_enabled_desc">Bluetooth接続が解除されると、Gearがリモート接続されます。</string>
+    <string name="requested">送信要求中</string>
+    <string name="reset_gear_legal_text1">[Gearをリセット]を使用すると、遠隔操作でGearの全てのデータを削除できます。実行後は、削除されたデータを復元することはできません。また、Gearリモート追跡を使用できなくなります。</string>
+    <string name="reset_gear_legal_text2">* [Gearをリセット]は、Gearやモバイル端末、またはネットワーク環境の状態により、時間がかかる、もしくは失敗する可能性があります。</string>
+    <string name="restore_complete">読み込みが完了しました。</string>
+    <string name="restore_some_error">復元に失敗しました。再度実行してください。</string>
+    <string name="restore_try_again">再試行</string>
+    <string name="restore_watch_settings_content2">"%1$sのコンテンツをバックアップするには、システムメモリ(本体)を使用してください。
+%2$s
+
+このコンテンツが以前バックアップされたことがある場合、今すぐ%3$sに復元することができます。
+
+ファイルのサイズによっては、この操作に時間がかかる可能性があります。
+
+[設定]でバックアップの設定を変更できます。"</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">設定</string>
+    <string name="retrieve_dialog_desc">アプリケーションリストを取得中…</string>
+    <string name="sa_email">Eメール</string>
+    <string name="sa_error_0203_desc">リモート接続を有効にするには、手動でSamsungアカウントを更新してください。</string>
+    <string name="sa_error_0203_title">Samsungアカウントを更新</string>
+    <string name="sa_error_0301_desc">端末でSamsungアカウントにサインイン中に、ネットワークエラーが発生しました。</string>
+    <string name="sa_error_0301_title">機能の有効化に失敗</string>
+    <string name="sa_error_0302_desc">端末でSamsungアカウントにサインイン中に、ネットワークエラーが発生しました。</string>
+    <string name="sa_error_0302_title">機能の有効化に失敗</string>
+    <string name="sa_error_0401_desc">エラーが発生しました。再度実行してください。</string>
+    <string name="sa_error_0401_title">エラー</string>
+    <string name="safety_message_interval_10minutes">10分ごと</string>
+    <string name="safety_message_interval_20minutes">20分ごと</string>
+    <string name="samsung_apps_info">%2$sをアンインストール、またはアプリケーションデータを消去すると、%1$sからダウンロードしたアプリケーションが削除される可能性があります。削除されたアプリは、%3$sの購入履歴からダウンロードすることができます。</string>
+    <string name="samsung_apps_notice">お知らせ</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">今すぐ更新</string>
+    <string name="screen_off">画面OFFを維持</string>
+    <string name="screen_off_desc">着信とアラーム以外で受信した通知をGearの画面をONにせずに受信</string>
+    <string name="setting_Enable">有効</string>
+    <string name="setting_alpm_dialog_title">注意</string>
+    <string name="setting_always_off">常にOFF</string>
+    <string name="setting_always_on">常にON</string>
+    <string name="setting_auto">自動</string>
+    <string name="setting_auto_lock_disable_desc">管理機能、暗号化ポリシー、または認証情報ストレージにより、無効になりました。</string>
+    <string name="setting_backup_restore2">バックアップと復元</string>
+    <string name="setting_basic">基本</string>
+    <string name="setting_connections">接続</string>
+    <string name="setting_disable">無効</string>
+    <string name="setting_home_key_double_pressing">ホームキーの2回押し</string>
+    <string name="setting_language_input">言語と​文字入力</string>
+    <string name="setting_manage_text_templates">定型文を編集</string>
+    <string name="setting_mobile_network">モバイルネットワーク</string>
+    <string name="setting_mobile_network_desc">Gearとモバイル端末をBluetoothで接続すると、Gearのモバイルネットワーク接続が解除されます。Bluetoothの接続を終了すると、Gearのモバイルネットワークは自動的に再接続されます。</string>
+    <string name="setting_multisim_popup_desc">サービスプロバイダによっては、マルチSIM機能を使用するために、別途サービスに加入する必要があります。マルチSIM機能を有効にするには、[OK]をタップしてください。</string>
+    <string name="setting_opensource">オープンソースライセンス</string>
+    <string name="setting_palm_motion">モーション</string>
+    <string name="setting_palm_swipe">ｽﾜｲﾌﾟでｷｬﾌﾟﾁｬ</string>
+    <string name="setting_palmover_desc">画面がONのときに手のひらで画面をタッチすると、着信音やアラーム音を消音、メディア再生を一時停止します。</string>
+    <string name="setting_palmswipe_desc">指全体を画面から離さずにスワイプすると、画面をキャプチャします。</string>
+    <string name="setting_pause_mute">消音/一時停止</string>
+    <string name="setting_power_key_double_pressing">電源キーの2回押し</string>
+    <string name="setting_restoring">復元中…</string>
+    <string name="setting_safety_b1_desc">Gearとモバイル端末を接続すると、緊急時に、緊急メッセージを送信することができます。現在地を緊急メッセージとともに緊急連絡先に送信し、緊急状況を通知します。これらのメッセージの送信には追加料金が発生する可能性があります。緊急時に[緊急メッセージ送信]を使用するには、電源キーを%d回押してください。</string>
+    <string name="setting_safety_b2_desc">Gearとモバイル端末が接続されている場合、緊急時に、[緊急メッセージを送信]機能がGearのカメラで写真を撮影し、写真と現在地を緊急メッセージとともに緊急連絡先に送信し、緊急状況を通知します。最初のメッセージには、現在地と写真が含まれます。その後しばらくして、現在地のみを含む2番目のメッセージが送信されます。メッセージの送信には追加料金が発生する可能性があります。緊急時に[緊急メッセージを送信]機能を使用するには、ホームキーを%d回押してください。</string>
+    <string name="setting_safety_b2_no_camera_desc">Gearとモバイル端末を接続すると、緊急時に[緊急メッセージを送信]機能でメッセージを送信することができます。この機能は、現在地を緊急メッセージとともに主要連絡先に送信し、緊急状況を通知します。メッセージの送信には追加料金が発生する可能性があります。[緊急メッセージを送信]を使用するには、ホームキーを3回押してください。</string>
+    <string name="setting_safety_b3_desc1">緊急時の通知を速やかに主要連絡先に送信するには、ホームキーを続けて3回押してください。</string>
+    <string name="setting_safety_b3_desc2">主要連絡先に、現在の位置情報を含む緊急メッセージが送信されます。</string>
+    <string name="setting_safety_b3_desc3">この機能を使用するには、モバイル端末にGearを接続してください。</string>
+    <string name="setting_safety_list">安全サポート</string>
+    <string name="setting_samsung_legal">Samsung規約</string>
+    <string name="setting_screen_lock">自動ロック</string>
+    <string name="setting_screen_lock_desc">モバイル端末のロックにGearを使用</string>
+    <string name="setting_screen_secutiry">画面のセキュリティ</string>
+    <string name="setting_send_emergency_picture">緊急時の写真を送信</string>
+    <string name="setting_send_emergency_recording">録音データを送信</string>
+    <string name="setting_send_emergency_term_agree">上記のすべての利用規約を読み、これに同意します。</string>
+    <string name="setting_send_help_message">緊急メッセージを送信</string>
+    <string name="setting_send_terms_conditions">利用規約</string>
+    <string name="setting_smart_relay">スマートリレー</string>
+    <string name="setting_smart_relay_desc">モバイル端末を持ち上げてGearのコンテンツをモバイル端末に表示</string>
+    <string name="setting_smart_toss">スマートトス</string>
+    <string name="setting_system">システム</string>
+    <string name="setting_text_to_speech_engine">TTSエンジン</string>
+    <string name="setting_textinput_emoticon">顔文字</string>
+    <string name="setting_textinput_keyboard">キーボード</string>
+    <string name="setting_textinput_list">テキスト入力方法</string>
+    <string name="setting_textinput_templates">定型文</string>
+    <string name="setting_try_it">試す</string>
+    <string name="setting_wake_up">ｳｪｲｸｱｯﾌﾟｼﾞｪｽﾁｬｰ</string>
+    <string name="setting_wake_up_desc">Gearを装着している腕を上げてGearを起動</string>
+    <string name="setting_wakeupgesture">"Gearを装着した腕を上げて画面を見ると、Gearの画面がONになります。
+
+この機能は、体をもたれかけていたり、横になっているときは動作しません。また、モーションセンサーが常時ONになっているため、Gearのバッテリーの消費量が増加する可能性があります。"</string>
+    <string name="setting_wakeupgesture_clock">時計</string>
+    <string name="setting_wakeupgesture_previous">最後の画面</string>
+    <string name="setting_wakeupgesture_screen_on">表示画面を選択</string>
+    <string name="setting_wakeupgesture_screen_on_ru">表示画面を選択</string>
+    <string name="settings">設定</string>
+    <string name="settings_application_version">バージョン</string>
+    <string name="settings_emergency_contact">主要連絡先を管理</string>
+    <string name="settings_emergency_contact_empty">主要連絡先がありません。[%s]を有効にするには、主要連絡先を追加してください。</string>
+    <string name="settings_legal_information">法定情報</string>
+    <string name="settings_message_interval">メッセージの送信間隔</string>
+    <string name="settings_not_set">未設定</string>
+    <string name="settings_security">セキュリティ</string>
+    <string name="settings_security_update">セキュリティ更新</string>
+    <string name="settings_security_update_desc">セキュリティやサービスを強化して、有害なコンテンツから端末を保護</string>
+    <string name="settings_unknown_sources_dialog">提供元不明のアプリをインストールすると、端末や個人情報データが破損する恐れがあります。[OK]をタップすると、このようなアプリケーションを使用したことで生じうる端末への損害やデータ損失について、ユーザーが全ての責任を負うことに同意したものとみなされます。</string>
+    <string name="settings_unknown_sources_subtitle">提供元不明アプリのインストールを許可</string>
+    <string name="share_loc_disabled">[位置情報を共有]が無効になりました。</string>
+    <string name="share_location_desc">Gearとモバイル端末の位置情報を共有することを、Gearリモート追跡機能および端末リモート追跡機能に許可</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">緊急時に、モバイルデータを使用してMMSメッセージを送信することに同意します。これにより追加料金が発生する可能性があることを理解しました。</string>
+    <string name="shm_new_disclaimer_msg_01">"1. 緊急メッセージを送信は、お客様の近似位置と視覚的/聴覚的環境の通知を、お客様が事前に設定した選択した連絡先の携帯電話に送ることができるようにするものです。 これは、お客様の便宜のためにのみ利用可能であり、当局への緊急電話の代わりとして意図されておらず、そのように扱われるものでもありません。
+
+2. 「緊急メッセージを送信」(以下「本サービス」といいます) は、ネットワークの接続性、GPS/Wi-Fi 情報の可用性、お客様のデバイス/お客様の選択した連絡先のデバイスの状態、バッテリー残量または 「Samsung」 Electronics Co., Ltd. (以下「Samsung」または「弊社」といいます) の制御の及ばないその他の状況により、正確に、継続的に、またはエラーなしで機能しない可能性があります。 お客様の環境並びにお客様のデバイスおよびお客様の選択した連絡先のデバイスの状態により、位置情報の正確性および本サービスの適時の配信が影響を受ける可能性があります。 別途明確に指定されているか、法的に要求された場合を除き、「Samsung」 は、本サービスが正確に、継続的に、エラーなく作動するという保証を否認します。 なお、お客様の選択した連絡先は、作動している携帯電話でなければならず、デバイスは作動しかつテキスト メッセージ受信可能になっている必要があります。 お客様の環境および位置データを転送すると、ご利用のサービス事業者が指定した料金がお客様に請求される場合があります。
+
+本サービスを目的どおりに機能させるために、本サービスはお客様によって導入され次第、お客様のデバイスの GPS および Wi-Fi 機能を自動的にオンにする必要があります。 お客様は、お客様への追加通知やお客様による個別の同意なく、GPS および Wi-Fi 機能 (必要な場合) が自動的に有効になることを認め、これに同意します。
+
+3. お客様は、本サービスを悪用しないこと、本サービスを違法目的で使用しないこと、他者のプライバシーその他の人権または所有権を侵害しないことを認め、これに同意します。 本サービスは、法に従ってのみ使用してください。お客様は、本サービスの使用に単独で責任を負うことに同意します。 「Samsung」は、お客様が本サービスを使用した結果について責任を負いません。 本サービスは、お客様の便宜のためにのみ利用可能であり、当局への緊急電話の代わりとして意図されておらず、そのように扱われるものでもありません。
+
+4. お客様は、本サービスへの参加に同意することにより、お客様の位置情報を共有することに同意することになります。 お客様の位置は、お客様の位置に関連する気象、環境、および地質情報を提供するために使用されます。 また、「Samsung」は、お客様のデバイス情報および位置データを、お客様の現在位置に関連する可能性のある気象、環境、および地質情報を選別するという目的のために、または 「Samsung」のプライバシー規約で許容される何らかの理由で使用するために収集し、第三者のサービス提供者に転送する場合があります。
+ 
+5. 気象、環境、および地質情報は The Weather Channel, LLC (以下「プロバイダー」といいます) などの第三者によって提供され、またプロバイダーは他の第三者からこのような情報の一部または全部を取得する場合があります。 本サービスはプロバイダーが運営するサイト、アプリケーションまたはその他のサービスにリンクする場合があり、お客様によるこのようなサイト、アプリケーションおよびその他のサービスの利用は、該当する場所で規定された条件により管理されます。 このようなすべての情報は、お客様の便宜と参考のためにのみ提供されます。 その情報が暫定的なものであることを十分に考慮し、現地の公的機関およびその他の情報源に確認したうえで、個人もしくは公共の安全性、または資産あるいは金銭上もしくは運営上の影響が大きいビジネス活動に関わる決定を下す必要があります。 本サービスを利用するに当たっては、お客様は自発的かつ自己責任で利用するものとします。 本サービスおよび文字言語によって提供される情報は、お客様の位置では数や種類が限定される場合があり、すべての気象、環境、および地質的気候条件、現象または出来事を網羅しているとは限りません。 お客様の位置情報の正確性は、ネットワークの状況やその他の要因に影響される場合があり、お客様の位置情報は、リアルタイムでは更新されない場合、または正確でない場合があります。 現地における利用可能な言語、気象、環境、および地質的条件および出来事に関する通知の詳細については、サービス範囲でご確認ください。
+ 
+6. 免責条項
+　　お客様は以下を理解した上で承諾するものとします。 
+
+A. 本サービスは 現状有姿のまま、“無保証で”、および 提供可能な範囲で 提供されます。 本サービスを利用するリスクはお客様が負うものとします。「Samsung」もそのライセンサーも、本サービスに関連して明示的な保証または条件を提供いたしません。 「Samsung」およびそのライセンサーは、市販性、特定目的との適合性、および権利侵害の一切の保証、および取引の過程または履行の過程の一切の保証を含み、かつ、それに限定されない、明示または黙示を問わないあらゆる保証も責任も明示的に否認します。
+
+B. 気象、環境、および地質情報を含み、かつこれに限定されない、本サービス、または本サービスのあらゆる内容、通知またはその他の機能の有用性、正確性、完全性または信頼性に関して、いかなる種類の表明も保証もせず、また、お客様はお客様個人の裁量およびリスクの下で使用することを認め、同意するものとします。
+
+C. 「Samsung」およびそのライセンサーは、(i) 本サービスがお客様の要件を満たすこと、(ii) 本サービスが無停止で、時宜を得ており、安全で、エラーなしであること、(iii) 本サービスから得られる内容、または本サービスのあらゆる通知または機能が利用可能、正確、完全または信頼性があること、(iv) 本サービス、または本サービスを通じてお客様が取得するあらゆる情報またはその他の資料の質がお客様の期待に応えること、または (v) 本サービス内のあらゆるエラーまたはバグが修正されることを一切表明または保証しません。なお、これは上記の各免責条項に制約を加えるものではありません。
+
+7. 責任の制限
+
+A. お客様は、(i) 契約違反、保証違反、無過失責任、過失または不法行為 (適用法で許可されている範囲において)(ii) お客様による本サービスの利用またはお客様が本サービスを利用できないこと、(iii) 代替サービスの調達コスト、(iv) お客様の送信またはデータへの承認されていないアクセスまたは改変、(v) あらゆる第三者の声明または行動、(vi) 本契約、(vii) 人または資産の損傷 (死亡を含む)、または (viii) 本サービスまたは本サービスを通じて提供される内容に関連するその他のあらゆる事柄に直接または間接的に起因する、またはこれから発生する、利益の損失、用益の損失またはその他の損失 (本サービスの修理、交換、または払戻しを行ってもお客様の損失が完全に補償されない場合、または 「Samsung」および/またはそのライセンサーがこのような損失、責任、損害、または費用の可能性について知らされていた場合を含む) を含むがこれに限定されない、いかなる直接的な、間接的な、付随的な、特別の、懲罰的な、または派生的な損失、、法的責任、損害または費用に対しても、「Samsung」もそのライセンサーも、過失理論またはその他のあらゆる法理論または衡平理論に基づく契約責任、不法行為責任、または厳格責任を含みこれに限定されない一切の責任を負わないことを理解し、同意するものとします。
+ 
+B. 本契約または本サービスと関連した 「Samsung」またはそのライセンサーとの紛争のお客様に対する唯一の救済方法は、本サービスの利用の停止です。
+ 
+C.付随的損害賠償または派生的損害賠償に対する保証否認、責任制限または免責が許可されない一部の裁判管轄区域がございます。。 そのため、上記の第 6 および第 7 項の制限の一部がお客様には適用されない場合があります。
+
+8. 補償
+お客様は、お客様による本サービスの使用またはお客様による本契約の不遵守により又はこれに関連して生じるあらゆるクレーム、訴訟、請求、経費、負債、損失、損害賠償、罰金および費用 (合理的な弁護士費用と経費を含む) に対して 「Samsung」 およびそのライセンサーを免責し、補償し、防御することに同意します。 本条件の下でお客様に付与されるライセンスの個人的性質にも関わらず、お客様が他者に本サービスの使用を許可し、または本サービスによって得た何らかの情報を他者に提供した場合、お客様は、このような他者を拘束する本条件の存在と条項を同人に知らせることに同意し、またお客様は、このような他者による本サービスの使用に関連して生じるあらゆる主張、訴訟、請求、経費、負債、損失、損害、罰金および費用 (弁護士費用と経費を含む) に対して「Samsung」およびそのライセンサーを免責し、補償し、防御することに同意します。
+
+9. 不可抗力
+　 「Samsung」もそのライセンサーも、不可抗力、政府または軍事権力の命令、戦争、テロ行為、労働争議、第三者が提供する資料またはサービス、その他「Samsung」またはそのライセンサーの合理的制御を超える原因により発生する、本利用条件の下での履行の遅延または不履行または本サービスの中断に対する責任を負いません。"</string>
+    <string name="shm_share_my_location_checkbox_text">現在地を%2$s連絡先と共有することを%1$sに許可します。</string>
+    <string name="smartrelay_not_show">今後表示しない</string>
+    <string name="software_update">ソフトウェア更新</string>
+    <string name="ss_double_tap_any_screen">2本の指で画面をダブルタップすると、明るさと音量の調整、その他の役立つ情報を確認できます。</string>
+    <string name="ss_forwarding_calls_to_gear_header">Gearに転送</string>
+    <string name="ss_forwarding_calls_to_gear_progress">要求中…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">設定を読み込み中…</string>
+    <string name="ss_loading_ing_abb">ロード中…</string>
+    <string name="ss_mobile_data_is_disabled">モバイルデータが無効です。WLANに接続するか、モバイルデータを有効にし、再度実行してください。</string>
+    <string name="ss_mobile_data_is_disabled2">モバイルデータがOFFになっています。Wi-Fiネットワークに接続するか、モバイルデータをONにして、再度実行してください。</string>
+    <string name="ss_no_network_connection">ネットワーク接続不可</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">ユーザーマニュアル</string>
+    <string name="str_no">今はしない</string>
+    <string name="str_yes">はい</string>
+    <string name="stub_list_install">インストール</string>
+    <string name="sw_eula_condition">上記の利用規約を理解した上で同意します。</string>
+    <string name="sw_eula_desc2">お客様は、デバイスで発生したソフトウェアの更新に関する障害のエラー ログ データをサムスンに提供することに同意するものとします。ご提供いただくことで、サムスンのソフトウェアの更新プロセスの改善および強化に役立ち、お客様のデバイスを常に適切に更新できるようになります。</string>
+    <string name="tab_stub_list">おすすめ</string>
+    <string name="talkback_download">ダウンロード</string>
+    <string name="talkback_setting">設定</string>
+    <string name="the_samsung_gear_application">Samsung Gearアプリケーション</string>
+    <string name="threeg_connection">リモート接続を使用</string>
+    <string name="threeg_connection_subtitle">Samsungアカウントを使用して、モバイルデータまたはWi-FiでGearにリモート接続します。</string>
+    <string name="threeg_connection_subtitle_chn">Samsungアカウントを使用して、モバイルデータまたはWLANでGearにリモート接続します。</string>
+    <string name="title_activity_clock_delete">アンインストール</string>
+    <string name="title_activity_connect_popup">接続</string>
+    <string name="title_activity_paired_watch">ペアリング済みデバイス</string>
+    <string name="title_alertdialog_device_name_popup">%sの名前を変更</string>
+    <string name="title_alertdialog_disconnect_popup">切断</string>
+    <string name="title_dialog_pm_error">警告</string>
+    <string name="title_dialog_uninstall">アンインストール</string>
+    <string name="title_eula">利用規約</string>
+    <string name="title_findmywatch_connect2">Gearリモート追跡</string>
+    <string name="title_findmywatch_finding">検索中…</string>
+    <string name="tri_connect_title_circle_to_gear">%1$sと%2$sを接続</string>
+    <string name="tri_connect_warning_temporal_disconnect">%1$sと%2$sをBluetoothで接続すると、一時的にモバイル端末から%3$sの接続が解除されます。まもなく再接続が行われ、%4$sは%5$sとモバイル端末の両方に接続されます。</string>
+    <string name="tt_install_voice_data">TTS音声ﾃﾞｰﾀをｲﾝｽﾄｰﾙ</string>
+    <string name="tt_install_voice_data_required">追加のテキスト読み上げ言語をGearにインストール</string>
+    <string name="tt_language">言語</string>
+    <string name="tt_send_help_message">緊急メッセージを送信</string>
+    <string name="tt_tts_language_guide">テキスト読み上げ(TTS)言語は、Gearの設定で設定した言語です。言語がTTSエンジンに対応していない場合は、英語(イギリス)を使用します。</string>
+    <string name="unable_to_connect_popup_message">Gearをモバイル端末と接続できませんでした。後ほどお試しください。</string>
+    <string name="unable_to_connect_popup_title">接続失敗</string>
+    <string name="unable_to_lock_gear">Gearのロック不可</string>
+    <string name="unable_to_reset_gear">Gearのリセット不可</string>
+    <string name="unabled_health">このアプリケーションは無効になっているため、起動できません。</string>
+    <string name="uninstall_applications">ｱﾌﾟﾘｹｰｼｮﾝをｱﾝｲﾝｽﾄｰﾙ</string>
+    <string name="unknown_sources_msg_new">%1$sは%2$sを経由してインストールされません。提供元不明のアプリケーションから端末や個人情報データが攻撃を受ける可能性が高くなります。このようなアプリケーションの使用により生じうる端末への損害やデータ損失については、お客様が全ての責任を負うことに同意するものとします。提供元不明のアプリケーションのインストールを常に許可するには、[%3$s] > [%4$s] > [%5$s]に移動し、[%6$s]を有効にします。%7$sをインストールするには[OK]をタップしてください。</string>
+    <string name="unknown_sources_msg_new_vulnerable">%1$sは、%2$sから取得されたものではなく、Gear用のアプリは含まれていません。そのため、提供元不明のアプリから端末やデータが攻撃を受ける可能性が高くなっています。インストールをキャンセルし、%3$sを端末から削除します。</string>
+    <string name="unknown_sources_title">提供元不明のアプリ</string>
+    <string name="update_button">更新</string>
+    <string name="update_summary">更新を確認</string>
+    <string name="update_the_latest_version">利用可能な更新</string>
+    <string name="voice_control_subtitle">着信の応答/拒否をするにはGearで着信音やバイブが作動していない間に、「応答」や「拒否」と音声入力する</string>
+    <string name="voicememo_link1">Nuanceの使用条件</string>
+    <string name="voicememo_link2">Samsungプライバシーポリシー</string>
+    <string name="voicememo_link3">Nuanceのプライバシーポリシー</string>
+    <string name="watchapp_all">アプリ</string>
+    <string name="watchapp_noapps">アプリがありません</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">更新中…</string>
+    <string name="wifi_only">Wi-Fi接続時</string>
+    <string name="wifi_only_chn">WLAN接続時のみ</string>
+    <string name="wifi_only_summary">Wi-Fi接続時のみ更新をダウンロードします。</string>
+    <string name="wifi_only_summary_chn">WLAN接続時のみダウンロードを許可します。</string>
+    <string name="cmw_legal_content_no_gps">[位置情報の共有 (Share Location)] 機能を有効にすることで、お客様はご利用中の携帯電話に関連付けられた位置データが、[Find My Device (デバイス を探す)] サービスを提供するために、Samsung のサーバーを経由して、お客様の Gear デバイスに転送されることに同意するものとします。 お客様のデバイスの位置に関するデータまたは情報が、Samsung のサーバーに保存されることはありません。</string>
+    <string name="email_sanitize">セキュリティ上の理由により、このEメールの内容をGearで表示できません。Eメールの詳細は、モバイル端末で確認してください。</string>
+    <string name="knox_sanitize">ここをタップしてKNOXモード実行</string>
+</resources>

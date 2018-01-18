@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Hívás közben nem elérhető.</string>
+    <string name="actionbar_name">Gear Manager</string>
+    <string name="alert_full_screen">Teljes képernyős előugró ablak</string>
+    <string name="alert_mini">Mini előugró ablak</string>
+    <string name="alertdialog_backkey_popup_content">Figyelmeztetés</string>
+    <string name="alertdialog_disconnect_popup_description">Bontja a kapcsolatot a Gearrel. Bluetooth-on újra kapcsolódhat.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Így megszakad a kapcsolata a(z) %s eszközzel.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">Bontja a(z) %s és a mobileszköz közötti kapcsolatot. A két eszköz között a legközelebb csak Bluetooth használatával létesíthető kapcsolat. Ezt követően használhatja a Távoli kapcsolódás funkciót kapcsolat létesítéséhez.</string>
+    <string name="alertdialog_uninstall_popup_content">Eltávolítás</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="attention_popup_body_app_is_not_installed">A(z) %1$s nincs telepítve a mobileszközön. A(z) %2$s használatához a Gearen töltse le a(z) %1$s alkalmazást a mobileszközre.</string>
+    <string name="attention_popup_title">Figyelem</string>
+    <string name="auto_call_forwarding">Aut. hívásátirányítás</string>
+    <string name="auto_call_forwarding_att">Aut. hívásátirányítás a Gearre</string>
+    <string name="auto_call_forwarding_desc">A Gear és a mobileszköz közötti kapcsolat megszakadása esetén automatikusan bekapcsol a hívásátirányítás. A rendszer mindaddig átirányítja a mobileszköz bejövő hívásait a Gearre, amíg ismét kapcsolat nem létesül a két eszköz között.</string>
+    <string name="auto_update">Automatikus frissítés</string>
+    <string name="auto_update_summary">Frissítések automatikus keresése</string>
+    <string name="backing_up">Biztonsági mentés…</string>
+    <string name="backup_complete">A biztonsági mentés befejeződött.</string>
+    <string name="bnr_backup">Biztonsági mentés…</string>
+    <string name="bnr_bakcup_title">Biztonsági mentés</string>
+    <string name="bnr_cancel">Mégse</string>
+    <string name="bnr_canel">Mégse</string>
+    <string name="bnr_error_occurred">Hiba történt</string>
+    <string name="bnr_except">%1$s (a(z) %2$s kivételével)</string>
+    <string name="bnr_except_autolock">Automatikus lezárás</string>
+    <string name="bnr_except_remoteconnection">Távoli kapcsolódás</string>
+    <string name="bnr_except_texttemplate">Szövegsablonok</string>
+    <string name="bnr_next">Tovább</string>
+    <string name="bnr_no">Nem</string>
+    <string name="bnr_ok">OK</string>
+    <string name="bnr_reset_gear">Ha új eszközhöz kíván kapcsolódni, visszaállnak a Gear gyári beállításai.</string>
+    <string name="bnr_reset_gear_move_setupwizard">A Gear beállítása nem teljes. A Gearen jelenleg meg van nyitva a beállítási varázsló, de a Gearhez történő kapcsolódáshoz ezen az eszközön is meg kell nyitni a beállítási varázslót a Gear Managerben.</string>
+    <string name="bnr_reset_initialization">Jegyzet</string>
+    <string name="bnr_restore">Visszaá.</string>
+    <string name="bnr_restored">Adatok visszaállítva.</string>
+    <string name="bnr_setupwizard_title2">Bizt. mentés és visszaállítás</string>
+    <string name="bnr_yes">Igen</string>
+    <string name="bt_connected">Csatlakoztatva</string>
+    <string name="bt_disconnected">Szétkapcsolva</string>
+    <string name="bt_unpaired">Nem párosított</string>
+    <string name="button_finish">Befejez</string>
+    <string name="button_restore">Visszaállítás</string>
+    <string name="call">HÍVÁS</string>
+    <string name="call_check_gear_status_when_cfwd">A Mobilról a Gearre és a Gearről a mobilra hívásátirányítási funkció nem kapcsolható be egyszerre.</string>
+    <string name="call_dualsim1">1. SIM-kártya</string>
+    <string name="call_dualsim1sim2">Két SIM-kártya</string>
+    <string name="call_dualsim2">2. SIM-kártya</string>
+    <string name="call_forwarding">Hívásátirányítás</string>
+    <string name="call_forwarding_agree">Elfogadom.</string>
+    <string name="call_forwarding_desc">A bejövő hívásokat átirányítja a mobileszközről a Gearre.</string>
+    <string name="call_forwarding_desc_vzw">A nem fogadott bejövő hívásokat átirányítja a telefonról a Gearre.</string>
+    <string name="call_forwarding_disable_msg">A mobileszközről a Gearre történő hívásátirányítás kikapcsolását kérte. Az eredményt befolyásolhatja a mobilhálózat és a mobileszköz állapota.</string>
+    <string name="call_forwarding_enable_msg">A mobileszközről a Gearre történő hívásátirányítás bekapcsolását kérte. Az eredményt befolyásolhatja a mobilhálózat és a mobileszköz állapota.</string>
+    <string name="call_forwarding_for_att_msg">"Amikor nincs kapcsolat a Gear és az okostelefon között, a mobileszközre irányuló hívásokat a rendszer automatikusan átirányítja a Gearre.
+- Az okostelefon néhányszor kicseng, majd a rendszer átirányítja a hívást a Gearre.
+- Ha a Gearen nem fogadja a hívást, a hívó fél hangüzenetet hagyhat, amely meghallgatható a Gearen.
+Bekapcsolja a hívásátirányítást?"</string>
+    <string name="call_forwarding_notify_msg">Be van kapcsolva a hívásátirányítás a mobileszközről a Gearre. A rendszer így átirányítja a Gearre a mobileszköz bejövő hívásait. Ha nincs önnél a Gear, akkor kapcsolja ki az automatikus hívásátirányítást a Beállításokban, nehogy hívásokat szalasszon el.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Hanghívás-átirányítás letiltása…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Hanghívás-átirányítás engedélyezése…</string>
+    <string name="call_no_gear_number">Nincs szám</string>
+    <string name="call_select_dualsim_title">Válasszon SIM-et</string>
+    <string name="call_voice_control">Hangvezérlés</string>
+    <string name="callforwarding_help_des1">A hívásátirányítás céleszköze automatikusan változik attól függően, hogy az eszközök között Bluetooth-on vagy a Távoli kapcsolódás funkcióval létesült-e kapcsolat.</string>
+    <string name="callforwarding_help_des2">Ha mozgásban van, és a mobileszközzel távoli kapcsolatban lévő Geart viseli, a mobileszközre irányuló hívások a Gearre futnak be.</string>
+    <string name="cancel">Mégse</string>
+    <string name="cf_activated">Aktiválva</string>
+    <string name="cf_deactivate_failed">Nem sikerült kikapcsolni a hívásátirányítást.</string>
+    <string name="cf_deactivated">Deaktiválva</string>
+    <string name="clock_new_clock_settings_applied_via_gear">Új órabeállításokat alkalmazott a Gear eszközre.</string>
+    <string name="clocks_download_more_clocks">További órák letöltése</string>
+    <string name="clocks_noti_uninstall_clock">El fogja távolítani a(z) %s alkalmazást.</string>
+    <string name="clocks_noti_uninstall_idle_clock">A(z) %1$s el lesz távolítva, és a(z) %2$s lesz az alapértelmezett óra.</string>
+    <string name="clocks_title_basic_clocks">EGYSZERŰ ÓRÁK</string>
+    <string name="clocks_title_downloaded_clocks">LETÖLTÖTT ÓRÁK</string>
+    <string name="clocks_title_style_clocks">STÍLÓRÁK</string>
+    <string name="clocks_uninstalled">Eltávolítva.</string>
+    <string name="clocks_uninstalling">Eltávolítás…</string>
+    <string name="close">Bezárás</string>
+    <string name="closing_samsung_gear_message">Törölte az adatokat a Gearről. Hamarosan bezáródik a Samsung Gear alkalmazás.</string>
+    <string name="closing_samsung_gear_message_jpn">Törölte az adatokat a Gearről. Hamarosan bezáródik a Gear alkalmazás.</string>
+    <string name="closing_samsung_gear_title">A Samsung Gear alkalmazás bezárása</string>
+    <string name="closing_samsung_gear_title_jpn">A Gear alkalmazás bezárása</string>
+    <string name="cloud_backup_no_information">Soha</string>
+    <string name="cloud_backup_restore_backup_now">Adatok biztonsági mentése</string>
+    <string name="cloud_backup_restore_restore_now">Adatokat visszaállít</string>
+    <string name="cmw_agree">Elfogad</string>
+    <string name="cmw_eula_agree">Megértettem és elfogadom a fenti feltételeket.</string>
+    <string name="cmw_for_setting">Le vannak tiltva a helymeghatározó szolgáltatások. Nyissa meg a Beállításokat.</string>
+    <string name="cmw_high_accuracy_dialog_message">A lehető leggyorsabb és legpontosabb helymeghatározáshoz válassza a Nagy pontosság lehetőséget a Hely > Üzemmód menüpontban.</string>
+    <string name="cmw_high_accuracy_dialog_title">Válassza a Nagy pontosságot</string>
+    <string name="cmw_legal_content">A „Hely megosztása” funkció bekapcsolásával Ön elfogadja, hogy mobiltelefonja és/vagy Gear eszköze földrajzipozíció-adatai Samsung szerveren keresztül kerülnek továbbításra annak érdekében, hogy a Find My Gear és Find My Device szolgáltatásokat biztosítani tudjuk az Ön számára. A Samsung szerver nem tárol semmilyen földrajzipozíció-adatot vagy -információt az Ön eszközéről.</string>
+    <string name="cmw_legal_content1">A „%1$s és %2$s” funkciók bekapcsolásával Ön tudomásul veszi, hogy mobiltelefonja és/vagy Gear eszköze földrajzipozíció-adatai Samsung szerveren keresztül kerülnek továbbításra annak érdekében, hogy a %1$s és %2$s szolgáltatást biztosítani tudjuk az Ön számára. A Samsung szerver nem tárol semmilyen földrajzipozíció-adatot vagy -információt az Ön eszközéről.</string>
+    <string name="cmw_legal_content1_no_gps">A „%1$s és %2$s” funkciók bekapcsolásával Ön tudomásul veszi, hogy mobiltelefonjának földrajzipozíció-adatai Samsung szerveren keresztül kerülnek továbbításra annak érdekében, hogy a %2$s szolgáltatást biztosítani tudjuk az Ön számára. A Samsung szerver nem tárol semmilyen földrajzipozíció-adatot vagy -információt az Ön eszközéről.</string>
+    <string name="cmw_legal_content_2">Samsung Adatvédelmi nyilatkozat</string>
+    <string name="cmw_legal_title">Jogi nyilatkozatok</string>
+    <string name="cmw_location">Helymegh. szolg. engedélyezése</string>
+    <string name="cmw_show_on_map">Megjelenítés térképen</string>
+    <string name="color_black">Fekete</string>
+    <string name="color_blue">Kék</string>
+    <string name="color_brown">Barna</string>
+    <string name="color_gray">Szürke</string>
+    <string name="color_green">Zöld</string>
+    <string name="color_light_sky_blue">Világos égkék</string>
+    <string name="color_medium_purple">Közepes lila</string>
+    <string name="color_orange">Narancssárga</string>
+    <string name="color_pink">Rózsaszín</string>
+    <string name="color_purple">Lila</string>
+    <string name="color_red">Piros</string>
+    <string name="color_spring_green">Élénkzöld</string>
+    <string name="common_none">Nincs</string>
+    <string name="common_off">Ki</string>
+    <string name="common_on">Be</string>
+    <string name="common_recent_apps">Legut. alk.</string>
+    <string name="connect_popup_content">Kapcsolódás a következőhöz: %s…</string>
+    <string name="connected_by_trasport_BT">Létrejött a Bluetooth-kapcsolat</string>
+    <string name="connected_by_trasport_SCS">Távolról kapcsolódott</string>
+    <string name="connecting_content">Kapcsolódás a Gearhez</string>
+    <string name="connecting_doc">A(z) %1$s eszközhöz kapcsolódva a(z) %2$s segítségével módosíthatja annak beállításait, és alkalmazásokat telepíthet rá.</string>
+    <string name="connecting_popup_message">Kapcsolódás a Gearhez…</string>
+    <string name="connecting_popup_title">Kapcsolódás a Gearhez</string>
+    <string name="connecting_to_gear_ing">Kapcsolódás a Gearhez…</string>
+    <string name="connectingdoc">A Gearhez kapcsolódva a Gear Manager segítségével módosíthatja annak beállításait, és alkalmazásokat telepíthet rá.</string>
+    <string name="connection_error_dialog_message">Az eszköznek nem sikerült kapcsolódnia. Újból fog próbálkozni.</string>
+    <string name="dialog_check_phone_number_msg1">Ellenőrizze az alábbi adatokat:</string>
+    <string name="dialog_check_phone_number_msg2">A mobileszköz telefonszáma: %s</string>
+    <string name="dialog_check_phone_number_msg3">A Gear telefonszáma: %s</string>
+    <string name="dialog_check_phone_number_msg4">A megerősítéshez és az automatikus hívásátirányítás bekapcsolásához érintse meg az OK gombot.</string>
+    <string name="dialog_enable_remote_connection_desc">Az automatikus hívásátirányítás bekapcsolásához kapcsolja be a Távoli kapcsolódás funkciót, és próbálja újra.</string>
+    <string name="dialog_enable_remote_connection_title">Távoli kapcsolódás bekapcsolása</string>
+    <string name="dialog_permission_message">A(z) %s nem használható. Érintse meg a BEÁLLÍTÁSOK lehetőséget, lépjen be az Alkalmazásinfó > Engedélyek menüpontba, adja meg a következő engedélyeket, majd próbálja újra:</string>
+    <string name="dialog_popup_button_cancel">Mégse</string>
+    <string name="dialog_reverse_msg">A funkció használata a mobileszközön és a Gearen a szolgáltatótól függően külön előfizetést igényelhet. Ez további költséggel járhat.</string>
+    <string name="dialog_set_phone_number_msg">Az automatikus hívásátirányítás bekapcsolásához állítsa be annak az eszköznek a telefonszámát, amelyről és amelyre szeretné átirányítani a bejövő hívásokat.</string>
+    <string name="dialog_set_phone_number_title">Automatikus hívásátirányítás bekapcsolása</string>
+    <string name="disable_loc_text">Kikapcsolja a Hely megosztása funkciót. Így nem használhat helyadatokat a Gear vagy a mobileszköz kereséséhez a Gear megkeresése vagy az Eszköz megkeresése funkcióval.</string>
+    <string name="disable_loc_text_no_gps">Kikapcsolja a Hely megosztása funkciót. Így nem használhat helyadatokat a mobileszköz kereséséhez az Eszköz megkeresése funkcióval.</string>
+    <string name="disable_remote_connection">Távoli kapcs. letiltása</string>
+    <string name="disable_remote_connection_fmm_fmd">Gear megkeresése és Eszköz megkeresése</string>
+    <string name="disable_remote_connection_receiving_blocked">Üzenetek, e-mailek és értesítések fogadása a mobileszközről</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">E-mailek és értesítések fogadása a mobileszközről</string>
+    <string name="disable_remote_connection_warning">A Távoli kapcsolódás funkció kikapcsol. Amíg újból Bluetooth-kapcsolatot nem létesít a Gear és a mobileszköz között, a következő funkciók nem használhatók:</string>
+    <string name="disable_share_location">Hely megosztása funkció kikapcsolása</string>
+    <string name="disconnect_popup_content">%s leválasztása…</string>
+    <string name="do_not_show_again">Ne jelenjen meg újra</string>
+    <string name="enable_auto_call_forwarding_msg">Automatikusan átirányíthatja bejövő hívásait a mobileszközről a leválasztott Gearre. Ez a szolgáltatótól függően további költséggel járhat. Az Automatikus hívásátirányítás bekapcsolásához érintse meg az OK gombot.</string>
+    <string name="enable_auto_call_forwarding_title">Aut. hívásátirány. bekapcs.</string>
+    <string name="enable_more_notifications_enable">Engedélyezés</string>
+    <string name="enable_notification_access">Értesítések hozzáférésének bekapcsolása</string>
+    <string name="enable_notification_access_desc">"Ez a funkció valamennyi beérkező értesítést elolvashat, ezek azonban személyes adatokat, például névjegyeket és önnek küldött üzeneteket tartalmazhatnak. A funkció bezárhatja az értesítéseket, vagy kiválaszthat egy kapcsolódó műveletet.
+Ha szeretne a Gearen értesítéseket fogadni, akkor érintse meg a Bekapcsolás gombot, majd kapcsolja be a(z) %s lehetőséget."</string>
+    <string name="enable_share_location">Hely megosztásának engedélyezése</string>
+    <string name="enabled_loc">Hely megosztása engedélyezve.</string>
+    <string name="error_enter_device_name">Adja meg az eszköz nevét.</string>
+    <string name="error_occurred">Hiba történt.</string>
+    <string name="eula_i_agree">Elfogadom.</string>
+    <string name="failed_tshare_msg">"Nem kapcsolt be
+a Hívásátirányítás.
+A T share nem vál."</string>
+    <string name="find_my_device">Eszköz megkeresése</string>
+    <string name="find_my_gear">Gear megkeresése</string>
+    <string name="find_watch_btn_start">Indítás</string>
+    <string name="find_watch_btn_stop">Leállít</string>
+    <string name="find_watch_off">A Gear megkereséséhez érintse meg az Indítás gombot. A Gear hangjelzést ad, és bekapcsol a képernyője.</string>
+    <string name="find_watch_on">A Gear keresésének leállításához érintse meg a Leállítás gombot. A Gear elhallgat, és kikapcsol a képernyője.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">Eltávolítja a(z) %1$s betűtípust, és a(z) %2$s lesz az alapértelmezett betűtípus.</string>
+    <string name="force_wifi_direct_msg">Az alkalmazást a Wi-Fi Direct segítségével fogja telepíteni. A jelenlegi Wi-Fi Direct-kapcsolat megszakad. Ha megszakítja a telepítést, újból le kell majd töltenie az alkalmazást a telepítéshez.</string>
+    <string name="force_wifi_direct_title">Telepít</string>
+    <string name="force_wifi_install">Telepít</string>
+    <string name="gear2_backup_confirm_text">Ha most biztonsági másolatot készít az adatairól, azzal lecseréli a Gear mentett adatait a mobileszközön a Gear legfrissebb adataira.</string>
+    <string name="gear2_restore_confirm_text">Ha visszaállítja az adatokat, azzal törli a Gear jelenlegi adatait, amelyek helyébe a mentett Gear-adatok lépnek.</string>
+    <string name="gear2_text">"Az eszköz tárhelyének használatával biztonsági másolatot készíthet a(z) %1$s tartalmáról:
+%2$s
+
+Ha már készített biztonsági másolatot a tartalomról, akkor most visszaállíthatja azt a(z) %3$s eszközön.
+
+Ez a fájl méretétől függően némi időt igényelhet."</string>
+    <string name="gear2_text_import3">Beállítások</string>
+    <string name="gear_bnr_desc">"A mobileszköz tárhelyének használatával biztonsági másolatot készíthet a(z) %1$s következő adatairól: %2$s
+
+Ha már készített biztonsági másolatot a(z) %3$s adatairól, akkor most visszaállíthatja azokat a(z) %4$s eszközön.
+
+Ez a fájlok méretétől függően eltarthat egy ideig."</string>
+    <string name="gear_fit">Samsung Gear Fit</string>
+    <string name="gear_location_popup_message">A mobileszköze keresi a Gear-eszközt. Ez néhány percig eltarthat. Épületen belül nehéz lehet a Gear megkeresése.</string>
+    <string name="gear_location_popup_title">Gear keresése</string>
+    <string name="gear_location_text">Gear helye</string>
+    <string name="gear_lock_success">Zárolta a Geart.</string>
+    <string name="gear_lock_text">Gear zárolása</string>
+    <string name="gear_locked">Gear zárolva</string>
+    <string name="gear_locked_text1">Zárolta a Geart. A feloldáshoz létesítsen Bluetooth-kapcsolatot a Gear és a mobileszköz között.</string>
+    <string name="gear_phone_number">Gear telefonszáma</string>
+    <string name="gear_phone_number_popup_desc">A mobileszköz minden bejövő hívását átirányítja a(z) %s számra.</string>
+    <string name="gear_phone_number_popup_desc_vzw">A mobileszközre érkező nem fogadott hívásokat átirányítja ide: %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">A Gear zárolásához előbb be kell kapcsolni a Távoli kapcsolódás funkciót.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">A Gear adatainak törléséhez előbb be kell kapcsolni a Távoli kapcsolódás funkciót.</string>
+    <string name="gear_reset_text">Gear adatainak törlése</string>
+    <string name="gear_to_mobile">Gearről a mobilra</string>
+    <string name="gear_to_mobile_des">Amikor a két eszköz között Bluetooth-kapcsolat működik, a Gearre irányuló hívások a mobileszközre futnak be.</string>
+    <string name="gear_unable_to_locate_message">Nem található a hely. Próbálja újra később.</string>
+    <string name="gear_unable_to_locate_title">Nem található a Gear</string>
+    <string name="gearmanager_app_name">Samsung Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Háttérképek</string>
+    <string name="home_bg_color">Színek</string>
+    <string name="home_bg_colors_title">ELÉRHETŐ SZÍNEK</string>
+    <string name="home_bg_delete_actionbar_selected">Kiválasztva</string>
+    <string name="home_bg_delete_dialog_msg">%d háttérképet el fog távolítani a Gear Managerből és a Gearről.</string>
+    <string name="home_bg_delete_select_all">Összes kijelölése</string>
+    <string name="home_bg_max_more_image_toast">Elérte a háttérképek maximális számát (%d).</string>
+    <string name="home_bg_more_images">Egyéb képek</string>
+    <string name="home_bg_popup_wallpaper_msg">Gear háttérképek letöltése…</string>
+    <string name="home_bg_popup_wallpaper_title">Háttérképek letöltése</string>
+    <string name="home_bg_toast_saved">Mentve.</string>
+    <string name="home_bg_wallpaper">Háttérkép</string>
+    <string name="home_bg_wallpapers_title">ELÉRHETŐ HÁTTÉRKÉPEK</string>
+    <string name="homelayout_apps">Alkalmazások</string>
+    <string name="incoming_calls_title">Bejövő hívások</string>
+    <string name="info_build_number">Szoftververzió</string>
+    <string name="info_model_number">Modell száma</string>
+    <string name="info_software_update">Szoftverfrissítés</string>
+    <string name="information_provision_agreement">Megállapodás információ rendelkezésre bocsátásáról</string>
+    <string name="information_provision_agreement_mgs">"A Hangjegyzet szolgáltatás harmadik fél, a Nuance Communications Inc. által biztosított beszédfelismerő technológiát használ. Ennélfogva a felhasználó beszélt hangadatait a Nuance által működtetett szervereken kell tárolni (az Egyesült Államokban), és a Hangjegyzet használatához Önnek el kell fogadnia a Nuance feltételeit.
+ A Nuance fenntartja a jogot a felhasználók beszélt hangadatainak felhasználására a szolgáltatások javítására és a technológia fejlesztésére. Továbbá, a Nuance fenntartja a jogot arra, hogy partnerei rendelkezésére bocsássa az említett beszélt hangadatokat. A felhasználók beszélt hangadatainak tárolása az említett célok teljesítéséig tart. A Hangjegyzet szolgáltatásról a Samsung adatvédelmi nyilatkozata, valamint a Nuance adatvédelmi nyilatkozata szolgál további tájékoztatással.
+ Ha nem fogadja el az adataira vonatkozó fenti rendelkezést, nem használhatja a Hangjegyzet szolgáltatást."</string>
+    <string name="init_manage_notifications_desc">Jelölje ki azokat az alkalmazásokat, amelyeknek az értesítéseit fogadni szeretné a(z) %1$s eszközön. A(z) %2$s akkumulátorának kímélése érdekében törölje azon alkalmazások kijelölését, amelyektől nem kíván értesítést fogadni.</string>
+    <string name="install_in_progress">Folyamatban…</string>
+    <string name="invalid_rename_character">Érvénytelen karaktert vitt be. Próbálja újra.</string>
+    <string name="latest_version">A legfrissebb verzió fut</string>
+    <string name="latitude">Szélesség</string>
+    <string name="limit_notification_desc">A mobileszköz használatakor blokkolja a riasztások megjelenítését a Gear eszközön.</string>
+    <string name="limit_notification_dialog_desc">Nem engedélyezhető a Gearen az értesítések korlátozása. Nincs beállítva képernyőzár a mobileszközön.</string>
+    <string name="limit_notification_title">Értesítések korlátozása</string>
+    <string name="location_info_title">Hely megosztása</string>
+    <string name="lock_gear_legal_text1">A Gear zárolása funkcióval lehetősége van rá, hogy távolról zárolja a Gear készüléket, megakadályozva ezáltal annak illetéktelen használatát. A zárolt Gear készülék a mobilkészülékhez való ismételt csatlakoztatással oldható fel.</string>
+    <string name="lock_gear_legal_text2">* Előfordulhat, hogy a Gear zárolása funkció végrehajtása némi időbe telik, vagy hogy a funkció végrehajtása egyáltalán nem sikerül, a Gear vagy a mobilkészülék állapotától, vagy a hálózati környezettől függően.</string>
+    <string name="lock_gear_text">Amíg a mobileszköz és a Gear között Bluetooth-kapcsolat működik, a Gear nem zárolható.</string>
+    <string name="login_to_samsung_account">Bejel. a Samsung accountba</string>
+    <string name="login_to_samsung_account_desc">A Távoli kapcsolódás engedélyezéséhez a Gearen jelentkezzen be a Samsung accountba.</string>
+    <string name="login_to_samsung_account_full_desc">"Samsung accountjába bejelentkezve Bluetooth-kapcsolat nélkül is használhatja a következő funkciókat:
+- értesítések fogadása;
+- alkalmazások használata Távoli kapcsolódással.
+A Távoli kapcsolódás használata további költséggel járhat."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"Amikor nem kapcsolódik Bluetooth-on a telefonhoz, Samsung account használatával a következőkre van lehetősége a mobilinterneten:
+- Üzeneteket, e-maileket és egyéb értesítéseket fogadhat
+- A Távoli kapcsolódás segítségével használhatja a Gear azon alkalmazásait, amelyeknek kapcsolatra van szükségük a telefonnal.
+
+Felhívjuk figyelmét, hogy a Samsung account segítségével megvalósított távoli kapcsolódás adatforgalommal jár."</string>
+    <string name="longitude">Hosszúság</string>
+    <string name="main_bt_unpaired">Nem párosított</string>
+    <string name="main_disconnected">Szétkapcsolva</string>
+    <string name="manage_applications">Alkalmazások kezelése</string>
+    <string name="manage_notifications">Értesítések kezelése</string>
+    <string name="manual_call_forwarding_for_att_msg">"Átirányíthatja a Gearre az okostelefonra irányuló hívásokat.
+- Az okostelefon néhányszor kicseng, majd a rendszer átirányítja a hívást a Gearre.
+- Ha a Gearen nem fogadja a hívást, a hívó fél hangüzenetet hagyhat, amely meghallgatható a Gearen.
+Bekapcsolja a hívásátirányítást?"</string>
+    <string name="manual_call_forwarding_popup_desc">A hívásátirányítás a(z) %s bejövő hívásait egy megadott számra továbbító hálózati szolgáltatás. Használata a Gearen a szolgáltatótól függően előfizetést igényelhet. Ez további költséggel járhat.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Mobileszköz</string>
+    <string name="masterapp_not_installed">A(z) %1$s nincs telepítve a mobileszközön. A(z) %2$s használatához a Gearen töltse le a(z) %1$s alkalmazást a mobileszközre.</string>
+    <string name="masterapp_not_installed_goto_deeplink">A(z) %1$s nincs telepítve a mobileszközön. A(z) %2$s használatához a Gearen töltse le a(z) %1$s alkalmazást a mobileszközre. Megnyílik a letöltőképernyő.</string>
+    <string name="masterapp_uninstalled">A(z) %1$s el lett távolítva a mobileszközről. A(z) %2$s használatához a Gearen töltse le a(z) %1$s alkalmazást a mobileszközre.</string>
+    <string name="maximum_size_warning">Elérte a karakterek maximális számát.</string>
+    <string name="menu_about_device">A(Z) %s</string>
+    <string name="menu_actionbar_remove">Eltávolít</string>
+    <string name="menu_actionbar_uninstall">Eltávolítás</string>
+    <string name="menu_appsandsettigns">ALKALMAZÁSOK, BEÁLLÍTÁSOK</string>
+    <string name="menu_clock">Óra</string>
+    <string name="menu_display">KEZ.KÉPERNYŐ SZERKESZTÉSE</string>
+    <string name="menu_downloaded_font">LETÖLTÖTT BETŰTÍPUSOK</string>
+    <string name="menu_filetransfertogear">FÁJLOK ÁTVITELE A GEARRE</string>
+    <string name="menu_gallery">Kép</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Fitnesz</string>
+    <string name="menu_help">Súgó</string>
+    <string name="menu_home_screen">Kezdőképernyő-formázó</string>
+    <string name="menu_music">Zene</string>
+    <string name="menu_myapp">Saját alkalmazások</string>
+    <string name="menu_notification">Értesítések</string>
+    <string name="menu_rename">Átnevez</string>
+    <string name="menu_samsung_health">Samsung Health</string>
+    <string name="menu_samsungapps">Samsung Galaxy Apps</string>
+    <string name="menu_samsungapps_jpn">Gear Apps</string>
+    <string name="menu_settings">Beállítások</string>
+    <string name="mobile_to_gear">Mobilról a Gearre</string>
+    <string name="mobile_to_gear_des">Ha a két eszköz között távoli kapcs. működik, a mobileszközre irányuló hívások a Gearre futnak be.</string>
+    <string name="monotype_default_font">Alapértelmezett betűtípus</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Egyebek</string>
+    <string name="more_options">Egyéb opciók</string>
+    <string name="multisim_title">Több SIM</string>
+    <string name="navigate_up">Navigálás felfelé</string>
+    <string name="new_eula_error_log">Diagn. adatok jelentése</string>
+    <string name="new_eula_fmd2">Eszköz megkeresése</string>
+    <string name="new_eula_fmg2">Gear megkeresése</string>
+    <string name="new_eula_news_briefing">Hírtájékoztató</string>
+    <string name="new_eula_s_voice">S Voice</string>
+    <string name="new_eula_sip">Samsung-billentyűzet</string>
+    <string name="new_notification_list">Listanézet</string>
+    <string name="new_notifications_list_desc">Az óra mellett balra megjelenik a Gearen fogadott értesítések listája.</string>
+    <string name="no_application_selected">Nincs kijelölt alkalmazás</string>
+    <string name="no_downloaded_applications">Nincs letöltött alkalmazás</string>
+    <string name="no_of_application_selected">%d alkalmazás kijelölve</string>
+    <string name="no_remote_connection_popup_msg">Az automatikus hívásátirányítás bekapcsolásához nyissa meg a Samsung Gear alkalmazást a mobileszközön, kapcsolja be a Távoli kapcsolódás funkciót, majd próbálja újra.</string>
+    <string name="no_remote_connection_popup_title">Távoli kapcsolódás bekapcsolása</string>
+    <string name="notification_type">Értesítés típusa</string>
+    <string name="notification_type_desc">A Gear használatakor az értesítések kis előugró ikonként jelennek meg a képernyőn tetején, függetlenül a fenti beállítástól.</string>
+    <string name="number_setting">Szám beállítása</string>
+    <string name="ok">OK</string>
+    <string name="once">Egyszer</string>
+    <string name="one_application_selected">1 alkalmazás kijelölve</string>
+    <string name="popup_attention_email_msg">Bizonyos e-mail-fiókok nincsenek kiválasztva az E-mail-beállításokban. Ha a Gearen értesítéseket kíván fogadni ezekből a fiókokból, válassza ki az E-mail-beállításokban az E-mail-értesítések lehetőséget.</string>
+    <string name="popup_attention_message_msg">Ha a Gearrel üzeneteket szeretne küldeni és fogadni, akkor a(z) %s helyett az Üzeneteket válassza ki alapértelmezett üzenetküldő alkalmazásként.</string>
+    <string name="popupmenu_search_for_new_device">Eszközök kezelése</string>
+    <string name="preview_message_desc">A Gearen előugró értesítésként megjelenik a fogadott értesítések előnézete, a bejövő hívások és egyebek jelzésének kivételével.</string>
+    <string name="preview_message_title">Üzenet megtekintése</string>
+    <string name="primary">Elsődleges</string>
+    <string name="privacypolicy_fmgfmd">A „%1$s és %2$s” funkciók bekapcsolásával Ön tudomásul veszi, hogy mobiltelefonja és/vagy Gear eszköze földrajzipozíció-adatai Samsung szerveren keresztül kerülnek továbbításra annak érdekében, hogy a %1$s és %2$s szolgáltatást biztosítani tudjuk az Ön számára. A Samsung szerver nem tárol semmilyen földrajzipozíció-adatot vagy -információt az Ön eszközéről.</string>
+    <string name="privacypolicy_fmgfmd_no_gps">A „%1$s és %2$s” funkciók bekapcsolásával Ön tudomásul veszi, hogy mobiltelefonjának földrajzipozíció-adatai Samsung szerveren keresztül kerülnek továbbításra annak érdekében, hogy a %2$s szolgáltatást biztosítani tudjuk az Ön számára. A Samsung szerver nem tárol semmilyen földrajzipozíció-adatot vagy -információt az Ön eszközéről.</string>
+    <string name="privacypolicy_newsbriefing">Az alkalmazás segítségével a felhasználók innovatív módon használhatják a közösségi médiát és az internetet. Ha aktiválja az alkalmazást, a szolgáltatás információt fog gyűjteni arról, hogyan használja Ön a szolgáltatásokat, beleértve a tartalmak és a hirdetések megtekintését. További részletekért lásd: Flipboard-tájékoztató %1$sHasználati feltételek%2$s és %3$sAdatvédelmi irányelvek%4$s.</string>
+    <string name="privacypolicy_samsung_privacy_policy">Samsung Adatvédelmi nyilatkozat</string>
+    <string name="progressdialog_please_wait">Kérem, várjon…</string>
+    <string name="progressdialog_reinstalled_message">Telepítés…</string>
+    <string name="progressdialog_reinstalled_popup_content">Újratelep.</string>
+    <string name="providerapp_reinstalled">A(z) %s helytelen működés miatt el lett távolítva. Most újra lesz telepítve.</string>
+    <string name="quick_tutorial_add_shortcuts">Alkalmazás-parancsikon hozzáadásához a Gear kezdőképernyőjéhez érintse meg, válassza ki az Alkalmazásokat a Gearen, tartsa ujját egy alkalmazás ikonján, majd húzza azt a Kezdőlap ikonra a képernyő tetején.</string>
+    <string name="quick_tutorial_gear_structure">A Gear kezdőképernyőjének főoldalán az óra jelenik meg. Az órától balra az értesítéseket, jobbra pedig a widgeteket tartalmazó oldalak találhatók. Az alkalmazások megjelenítéséhez húzza fel a képernyő alját.</string>
+    <string name="quick_tutorial_noti_title">%s – bevezetés</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Bármely képernyőről megnyithatja az S Voice-ot úgy, hogy kimondja a „Hi Gear” parancsot, vagy kétszer megnyomja a Kezdőlap gombot.</string>
+    <string name="quick_tutorial_swipe_downwards">Nyomja meg kétszer a Kezdőlap gombot kedvenc alkalmazása megnyitásához. A kedvenc alkalmazás a Beállításokban módosítható.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Nyomja meg kétszer a Bekapcsolás gombot kedvenc alkalmazása megnyitásához. A kedvenc alkalmazás a Beállításokban módosítható.</string>
+    <string name="quick_tutorial_to_go_back">A visszatéréshez simítson lefelé a képernyő széléről.</string>
+    <string name="remote_connection_disabled_settings">Beállítások</string>
+    <string name="remote_connection_enabled_desc">A Bluetooth-kapcsolat bontása után a Gear távolról kapcsolódik.</string>
+    <string name="requested">Kérés</string>
+    <string name="reset_gear_legal_text1">A Gear alaphelyzetbe állítása funkcióval lehetősége van rá, hogy távolról töröljön minden adatot a Gear készülékről. Az ilyen törlés után a törölt adatokat nem lehet visszaállítani, és a Gear megkeresése funkció sem használható.</string>
+    <string name="reset_gear_legal_text2">* Előfordulhat, hogy a Gear alaphelyzetbe állítása funkció végrehajtása némi időbe telik, vagy hogy a funkció végrehajtása egyáltalán nem sikerül, a Gear vagy a mobilkészülék állapotától, vagy a hálózati környezettől függően.</string>
+    <string name="restore_complete">A visszaállítás befejeződött.</string>
+    <string name="restore_some_error">A visszaállítás sikertelen. Próbálja újra.</string>
+    <string name="restore_try_again">Prób. újra</string>
+    <string name="restore_watch_settings_content2">"Az eszköz tárhelyének használatával biztonsági másolatot készíthet a(z) %1$s tartalmáról:
+%2$s
+
+Ha már készített biztonsági másolatot a tartalomról, akkor most visszaállíthatja azt a(z) %3$s eszközön.
+
+Ez a fájl méretétől függően némi időt igényelhet.
+
+A biztonsági mentés beállításait a Beállításokban módosíthatja."</string>
+    <string name="restore_watch_settings_content2_import1">Gear</string>
+    <string name="restore_watch_settings_content2_import3">BEÁLLÍTÁSOK</string>
+    <string name="retrieve_dialog_desc">Alkalmazáslista letöltése…</string>
+    <string name="sa_email">E-mail</string>
+    <string name="sa_error_0203_desc">A Távoli kapcsolódás engedélyezéséhez frissítse kézileg a Samsung accountot.</string>
+    <string name="sa_error_0203_title">Samsung account frissítése</string>
+    <string name="sa_error_0301_desc">A Samsung accountba való bejelentkezéskor a mobileszközön hálózati hiba történt.</string>
+    <string name="sa_error_0301_title">Sikertelen funkcióengedélyezés</string>
+    <string name="sa_error_0302_desc">A Samsung accountba való bejelentkezéskor a mobileszközön hálózati hiba történt.</string>
+    <string name="sa_error_0302_title">Sikertelen funkcióengedélyezés</string>
+    <string name="sa_error_0401_desc">Hiba történt. Próbálja újra.</string>
+    <string name="sa_error_0401_title">Hiba</string>
+    <string name="safety_message_interval_10minutes">10 percenként</string>
+    <string name="safety_message_interval_20minutes">20 percenként</string>
+    <string name="samsung_apps_info">A(z) %2$s eltávolításakor vagy adatainak törlésekor törlődhetnek a(z) %1$s segítségével letöltött alkalmazások. A törölt alkalmazásokat újból letöltheti a(z) %3$s vásárlási előzményeinek listájából.</string>
+    <string name="samsung_apps_notice">Jegyzet</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Frissítés most</string>
+    <string name="screen_off">A képernyő kikapcs. marad</string>
+    <string name="screen_off_desc">A Gear kikapcsolt képernyővel fogadja az értesítéseket, a bejövő hívások és egyebek jelzésének kivételével.</string>
+    <string name="setting_Enable">Engedélyezés</string>
+    <string name="setting_alpm_dialog_title">Figyelem</string>
+    <string name="setting_always_off">Mindig kikapcsolva</string>
+    <string name="setting_always_on">Mindig bekapcs.</string>
+    <string name="setting_auto">Auto.</string>
+    <string name="setting_auto_lock_disable_desc">Rendszergazda, titkosítási irányelv vagy hitelesítőadat-tárhely által letiltva.</string>
+    <string name="setting_backup_restore2">Bizt. mentés és visszaállítás</string>
+    <string name="setting_basic">ALAPADATOK</string>
+    <string name="setting_connections">KAPCSOLATOK</string>
+    <string name="setting_disable">Kikapcsol</string>
+    <string name="setting_home_key_double_pressing">Kezdőlap g. megnyomása 2x</string>
+    <string name="setting_language_input">NYELV ÉS BEVITEL</string>
+    <string name="setting_manage_text_templates">Szövegsablon szerkesztése</string>
+    <string name="setting_mobile_network">Mobilhálózatok</string>
+    <string name="setting_mobile_network_desc">Ha a Gear Bluetooth-on a mobileszközhöz kapcsolódik, mobilhálózati kapcsolata megszakad. A Bluetooth-kapcsolat bontása után a Gear újra automatikusan mobilhálózati kapcsolatot létesít.</string>
+    <string name="setting_multisim_popup_desc">A Több SIM funkció használata a szolgáltatótól függően külön előfizetést igényelhet. Érintse meg az OK gombot a Több SIM funkció bekapcsolásához.</string>
+    <string name="setting_opensource">Nyílt forráskód licenc</string>
+    <string name="setting_palm_motion">Mozdulatok engedélyezése</string>
+    <string name="setting_palm_swipe">Felvétel simítással</string>
+    <string name="setting_palmover_desc">A bejövő hívások és a jelzések elnémításához, illetve a médialejátszás szüneteltetéséhez helyezze kezét a bekapcsolt képernyőre.</string>
+    <string name="setting_palmswipe_desc">A képernyőn egész ujjával, folyamatos érintéssel végigsimítva képernyőfelvételt készíthet.</string>
+    <string name="setting_pause_mute">Némítás/szünet</string>
+    <string name="setting_power_key_double_pressing">Bekapcsolás g. 2x megny.</string>
+    <string name="setting_restoring">Visszaállítás…</string>
+    <string name="setting_safety_b1_desc">Amikor a Gear kapcsolatban van a mobileszközzel, a segélykérő üzenetek küldése funkció vészhelyzetben üzenetet küld. A segélykérési üzenetpartnerek vészjelző üzenetet kapnak a helyadatokkal. Ezeknek az üzeneteknek a küldése további költséggel járhat. Vészhelyzetben a segélykérő üzenetek küldése funkció aktiválásához nyomja meg %d alkalommal a Bekapcsolás gombot.</string>
+    <string name="setting_safety_b2_desc">Amikor a Gear kapcsolatban van a mobileszközzel, a segélykérő üzenetek küldése funkció vészhelyzetben képet készít a Gear kamerájával. A segélykérési üzenetpartnerek vészjelző üzenetet kapnak a felvett képpel és a helyadatokkal. Az első üzenetben a helyadatok és a kép is szerepel. A bizonyos idő elteltével küldött második üzenet már csak a helyadatokat tartalmazza. Ezeknek az üzeneteknek a küldése további költséggel járhat. Vészhelyzetben a segélykérő üzenetek küldése funkció aktiválásához nyomja meg %d alkalommal a Kezdőlap gombot.</string>
+    <string name="setting_safety_b2_no_camera_desc">Amikor a Gear kapcsolatban van a mobileszközzel, a segélykérő üzenetek küldése funkció vészhelyzetben üzenetet küld. A segélykérési üzenetpartnerek vészjelző üzenetet kapnak a helyadatokkal. Ezeknek az üzeneteknek a küldése további költséggel járhat. Vészhelyzetben a segélykérő üzenetek küldése funkció aktiválásához nyomja meg %d alkalommal a Kezdőlap gombot.</string>
+    <string name="setting_safety_b3_desc1">Vészhelyzetben a Kezdőlap gomb 3 egymást követő megnyomásával gyors jelzést küldhet kiemelt partnereinek.</string>
+    <string name="setting_safety_b3_desc2">Kiemelt partnerei vészjelző üzeneteket kapnak majd az ön aktuális tartózkodási helyének adataival.</string>
+    <string name="setting_safety_b3_desc3">A funkció használatához létesítsen kapcsolatot a mobileszköz és a Gear között.</string>
+    <string name="setting_safety_list">Biztonsági segítő</string>
+    <string name="setting_samsung_legal">Samsung jogi nyilatkozat</string>
+    <string name="setting_screen_lock">Automatikus lezárás</string>
+    <string name="setting_screen_lock_desc">A Gear segítségével zárolhatja a mobileszközt.</string>
+    <string name="setting_screen_secutiry">KÉPERNYŐ BIZTONSÁGA</string>
+    <string name="setting_send_emergency_picture">Vészhelyzeti kép küldése</string>
+    <string name="setting_send_emergency_recording">Hangfelvétel küldése</string>
+    <string name="setting_send_emergency_term_agree">A fenti feltételeket elolvastam és elfogadom.</string>
+    <string name="setting_send_help_message">Segélykérő üzenetek küldése</string>
+    <string name="setting_send_terms_conditions">Feltételek</string>
+    <string name="setting_smart_relay">Intelligens átjátszás</string>
+    <string name="setting_smart_relay_desc">A mobileszköz felemelésével megjelenik rajta Gear tartalma.</string>
+    <string name="setting_smart_toss">Intelligens átadás</string>
+    <string name="setting_system">RENDSZER</string>
+    <string name="setting_text_to_speech_engine">Szövegfelolvasó modul</string>
+    <string name="setting_textinput_emoticon">Hangulatjelek</string>
+    <string name="setting_textinput_keyboard">Billentyűzet</string>
+    <string name="setting_textinput_list">Szövegbeviteli módok</string>
+    <string name="setting_textinput_templates">Sablonok</string>
+    <string name="setting_try_it">Próbálja ki</string>
+    <string name="setting_wake_up">Ébresztési mozdulat</string>
+    <string name="setting_wake_up_desc">A Gear felébresztéséhez emelje fel azt a karját, amelyen a Geart viseli.</string>
+    <string name="setting_wakeupgesture">"A Gear felébresztéséhez emelje fel azt a karját, amelyen a Geart viseli, és nézzen a Gear képernyőjére.
+
+A funkció hátradőlt vagy fekvő testhelyzetben nem működik, és az állandóan bekapcsolt mozgásérzékelő miatt gyorsabban merítheti a Gear akkumulátorát."</string>
+    <string name="setting_wakeupgesture_clock">Óra</string>
+    <string name="setting_wakeupgesture_previous">Legutóbb megtekintett képernyő</string>
+    <string name="setting_wakeupgesture_screen_on">Megjelenő képernyő kivál.</string>
+    <string name="setting_wakeupgesture_screen_on_ru">Megjelenő képernyő kivál.</string>
+    <string name="settings">Beállítások</string>
+    <string name="settings_application_version">Alkalmazás verziója</string>
+    <string name="settings_emergency_contact">Kiemelt névjegyek kezelése</string>
+    <string name="settings_emergency_contact_empty">Nem adott hozzá kiemelt névjegyet. A(z) %s engedélyezéséhez vegyen fel partnereket a Kiemelt névjegyek listára.</string>
+    <string name="settings_legal_information">Jogi információk</string>
+    <string name="settings_message_interval">Üzenetküldési időköz</string>
+    <string name="settings_not_set">Nincs beállítva</string>
+    <string name="settings_security">Védelem</string>
+    <string name="settings_security_update">Biztonsági frissítés</string>
+    <string name="settings_security_update_desc">Védje eszközét a káros tartalomtól biztonsága és szolgáltatásai javításával.</string>
+    <string name="settings_unknown_sources_dialog">Ismeretlen forrásból származó alkalmazás telepítésével veszélynek teheti ki az eszközt és személyes adatait. Az OK gomb megérintésével Ön elfogadja, hogy amennyiben ilyen alkalmazások használatából eredően kár keletkezik az eszközben vagy adatok vesznek el, azért Öné a kizárólagos felelősség.</string>
+    <string name="settings_unknown_sources_subtitle">Ismeretlen forrásból származó alkalmazások telepítésének engedélyezése</string>
+    <string name="share_loc_disabled">Hely megosztása tiltva.</string>
+    <string name="share_location_desc">Engedélyezi, hogy a Gear megkeresése és az Eszköz megkeresése funkció megossza a Gear és a mobileszköz helyadatait.</string>
+    <string name="shealth_menu">S Health</string>
+    <string name="shm_I_agree_that_mobile_data">Beleegyezem abba, hogy vészhelyzet esetén használható a mobil internetkapcsolat, és MMS üzenetek küldhetők. Tudatában vagyok, hogy ez többletköltséghez vezethet.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. A Segítő üzenetek küldése funkció célja, hogy segítsen a felhasználóknak értesítést küldeni a körülbelüli helyzetükről és a látási/hallási viszonyokról egy előre megadott személy mobiltelefonjára. A funkció kizárólag az Ön kényelmét szolgálja, és nem célja, hogy a hatóságoknak küldendő vészhelyzeti hívásokat helyettesítsék, és nem is szabad ilyen módon kezelni.
+
+2. Előfordulhat, hogy a Segítő üzenetek küldése (a továbbiakban a „Szolgáltatások”) különböző körülmények miatt nem működik pontosan, folyamatosan vagy hibátlanul. Az ilyen körülmények közé tartozik a GPS/Wi-Fi információk elérhetősége, az Ön vagy a kiválasztott személy eszközének állapota, az akkumulátor töltöttségi szintje, és/vagy egyéb olyan körülmények, amelyek a Samsung Electronics Co., Ltd. (a továbbiakban „Samsung”, „mi”, „minket”, „miénk”) irányításán kívül esnek. Az Ön földrajzipozíció-adatainak pontosságát és a Szolgáltatások időben történő biztosítását befolyásolhatja az Ön környezete, illetve az Ön vagy az Ön által kiválasztott személy készülékének állapota. Kifejezett nyilatkozat vagy jogszabályi kötelezettség hiányában a Samsung kizár minden garanciát a Szolgáltatások pontos, folyamatos vagy hibátlan működésére vonatkozóan. Felhívjuk a figyelmét, hogy a kiválasztott személynek rendelkeznie kell mobiltelefonnal, a készüléknek bekapcsolt állapotban kell lennie, és képesnek kell lennie szöveges üzenetek fogadására. A földrajzipozíció-adatainak továbbításával járó díjakat a szolgáltató az Ön számlájára terhelheti, a szolgáltatási szerződés díjaitól függően.
+
+A rendeltetésszerű működéshez a Szolgáltatásoknak a telepítést követően rendelkezniük kell a funkcióval, és automatikusan be kell kapcsolniuk a készüléke GPS és Wi-Fi funkcióit. Ön tudomásul veszi és beleegyezik a készülékén a GPS és a Wi-Fi funkciók (amennyiben szükséges) automatikus bekapcsolásába, amelyhez további értesítés és jóváhagyás Öntől nem szükséges.
+
+3. Ön tudomásul veszi és beleegyezik, hogy nem élhet vissza a funkcióval, nem használhatja illegális célokra, és nem sértheti vele mások adatvédelmi, személyiségi vagy tulajdonjogait. Ezt a funkciót csak a törvények tiszteletben tartásával és csakis vészhelyzetben használja.Ön elfogadja, hogy egyedül Ön a felelős a funkció felhasználási módjáért. A Samsung az ezen funkció használatából eredő semmilyen eredményért nem felelős.
+
+4. A Szolgáltatások kizárólag az Ön kényelmét szolgálják, és nem céljuk, hogy a hatóságoknak küldendő vészhelyzeti hívásokat helyettesítsék, és nem is szabad ilyen módon kezelni őket. Kifejezett nyilatkozat vagy jogszabályi kötelezettség hiányában a Samsung kizár minden garanciát a Szolgáltatások pontos, folyamatos vagy hibátlan működésére vonatkozóan.
+
+5. GARANCIANYILATKOZAT. ÖN KIFEJEZETTEN MEGÉRTETTE ÉS EGYETÉRT AZZAL, HOGY:
+ 
+A. A SZOLGÁLTATÁSOK „ADOTT ÁLLAPOTUKBAN”, „MINDEN HIBÁJUKKAL EGYÜTT” ÉS „JELENLEG ELÉRHETŐ FORMÁBAN” ELÉRHETŐEK. ÖNT TERHELI A HASZNÁLATUK FELELŐSSÉGE. A SAMSUNG NEM VÁLLAL KIFEJEZETT GARANCIÁT, JÓTÁLLÁST VAGY FELTÉTELEKET A SZOLGÁLTATÁSOKRA VONATKOZÓAN VAGY AZOKKAL KAPCSOLATBAN. A SAMSUNG KIFEJEZETTEN ELUTASÍT MINDENFAJTA FELELŐSSÉGVÁLLALÁST ÉS GARANCIÁT, LEGYEN AZ BÁR KIFEJEZETT VAGY BELEÉRTETT, IDEÉRTVE TÖBBEK KÖZÖTT AZ ÉRTÉKESÍTHETŐSÉGRE, ADOTT CÉLRA VALÓ ALKALMASSÁGRA ÉS NEMLEGES MEGÁLLAPÍTÁSRA VONATKOZÓ, VALAMINT MINDENFÉLE BELEÉRTETT, KEZELÉSRE VAGY TELJESÍTMÉNYRE VONATKOZÓ GARANCIÁT.
+
+B. AZ ELŐZŐEK KORLÁTOZÁSA NÉLKÜL A SAMSUNG NEM TESZ FELELŐSSÉGVÁLLALÁST ÉS NEM VÁLLAL GARANCIÁT ARRA VONATKOZÓAN, HOGY (i) A SZOLGÁLTATÁSOK MEGFELELNEK AZ ÖN ELVÁRÁSAINAK, (ii) A SZOLGÁLTATÁSOK MEGSZAKÍTÁSTÓL MENTESEK, PONTOSAK, BIZTONSÁGOSAK VAGY HIBAMENTESEK LESZNEK, (iii) A SZOLGÁLTATÁSOK ÁLTAL NYERT TARTALMAK VAGY A SZOLGÁLTATÁSOK BÁRMILYEN ÉRTESÍTÉSEI VAGY FUNKCIÓJA ELÉRHETŐ, PONTOS, TELJES VAGY MEGBÍZHATÓ LESZ, (iv) A SZOLGÁLTATÁSOK VAGY BÁRMILYEN INFORMÁCIÓ MINŐSÉGE, ILLETVE MÁS, ÖN ÁLTAL A SZOLGÁLTATÁSOKON KERESZTÜL SZERZETT ADATOK MEGFELELNEK AZ ÖN VÁRAKOZÁSAINAK, VAGY (v) A SZOLGÁLTATÁSOKBAN JELEN LÉVŐ BÁRMILYEN HIBÁK VAGY MEGHIBÁSODÁSOK KIJAVÍTÁSRA KERÜLNEK
+
+6. A FELELŐSSÉG KORLÁTOZÁSA.
+
+A. ÖN KIFEJEZETTEN MEGÉRTI ÉS A BELEEGYEZÉSÉT ADJA AHHOZ, HOGY A SAMSUNG NEM VONHATÓ FELELŐSSÉGRE HANYAGSÁG ELVE ALAPJÁN, BÁRMILYEN KÖZVETLEN, VÉLETLEN, KÜLÖNLEGES, MEGTORLÓ JELLEGŰ, KÖVETKEZMÉNYES VAGY ELRETTENTŐ VESZTESÉG, KÖLTSÉG, KÁROSODÁS VAGY KIADÁS MIATT, IDEÉRTVE TÖBBEK KÖZÖTT AZ ELMARADT NYERESÉGET, AZ ELMARADT HASZNÁLATOT VAGY EGYÉB ELMARADÁSOKAT (MÉG ABBAN AZ ESETBEN IS, HA A SZOLGÁLTATÁSOK ESETÉBEN A JAVÍTÁS, CSERE VAGY VISSZATÉRÍTÉS NEM JELENT TELJES KOMPENZÁCIÓT AZ ÖN SZÁMÁRA A VESZTESÉGEKÉRT, VAGY A SAMSUNG TUDATÁBAN VOLT VAGY TUDATÁBAN KELLETT VOLNA LENNIE ANNAK, HOGY LEHETSÉGES ILYENFAJTA VESZTESÉG, KÖLTSÉG, KÁROSODÁS VAGY KIADÁS), AMELY KÖZVETLENÜL VAGY KÖZVETETTEN A KÖVETKEZŐK EREDMÉNYE VAGY AZOKBÓL KIINDULVA TÖRTÉNIK: (i) SZERZŐDÉSSZEGÉSRE, GARANCIA, JÓTÁLLÁS VAGY FELTÉTEL MEGSZEGÉSÉRE, KÖTELMI VISZONYOK MEGSZEGÉSÉRE, HANYAGSÁGRA VAGY EGYÉB KÁROKOZÁSRA VONATKOZÓ KERESETEK A VONATKOZÓ TÖRVÉNYEK ÁLTAL MEGENGEDETT MÉRTÉKIG; (ii) A SZOLGÁLTATÁSOK ÖN ÁLTALI HASZNÁLATA VAGY HASZNÁLATUKRA VALÓ KÉPTELENSÉGE, (iii) A HELYETTESÍTŐ SZOLGÁLTATÁSOK BESZERZÉSI KÖLTSÉGE; (iv) AZ ADATÁTVITELEIHEZ VALÓ JOGOSULATLAN HOZZÁFÉRÉS VAGY AZOK MÓDOSÍTÁSAI; (v) BÁRMELY HARMADIK FÉL KIJELENTÉSEI VAGY ELJÁRÁSMÓDJA; (vi) A JELEN MEGÁLLAPODÁS; (vii) SZEMÉLY VAGY TULAJDON SÉRÜLÉSE (BELEÉRTVE A HALÁLT IS), VAGY (viii) BÁRMELY MÁS DOLOG, AMELY A SZOLGÁLTATÁSOKHOZ VAGY A SZOLGÁLTATÁSOKON KERESZTÜL BIZTOSÍTOTT TARTALMAKHOZ KAPCSOLÓDIK.
+ 
+B. AZ ÖN EGYEDÜLI ÉS KIZÁRÓLAGOS JOGORVOSLATA A SAMSUNG VÁLLALATTAL VALÓ, A JELEN MEGÁLLAPODÁSRA VAGY A SZOLGÁLTATÁSRA VONATKOZÓ VITA ESETÉN A SZOLGÁLTATÁSOK HASZNÁLATÁNAK FELFÜGGESZTÉSE LEHET.
+ 
+C. EGYES JOGHATÓSÁGOK NEM TESZIK LEHETŐVÉ BIZONYOS GARANCIÁK KIZÁRÁSÁT VAGY A FELELŐSSÉG KIZÁRÁSÁT VAGY KORLÁTOZÁSÁT A VÉLETLEN VAGY KÖVETKEZMÉNYES KÁROKRA VONATKOZÓAN. ENNEK MEGFELELŐEN ELŐFORDULHAT, HOGY A 5. ÉS 6. SZAKASZ BIZONYOS FENT RÉSZLETEZETT KORLÁTOZÁSAI NEM VONATKOZNAK ÖNRE.
+
+7. KÁRTÉRÍTÉS. Ön a beleegyezését adja, hogy a Samsung vállalatot vétlennek tekinti, kárpótolja és megvédi az esetleges keresetekkel, tettekkel, követelésekkel, költségekkel, veszteségekkel, károsodásokkal, bírságokkal és kiadásokkal szemben (ideértve az ésszerű ügyvédi díjakat és költségeket is), amelyek a Szolgáltatások Ön általi használatából vagy ahhoz kapcsolódóan, vagy a jelen Megállapodásnak megfelelő viselkedés elmaradása miatt lépnek fel. Amennyiben a jelen feltételeknek megfelelően az Ön számára biztosított licencek személyes volta ellenére bármely személynek megengedi a Szolgáltatások használatát, vagy beleegyezését adja, hogy bármely személynek bármely, a Szolgáltatásokon keresztül szerzett információt továbbad, Ön a beleegyezését adja, hogy az ilyen személyt tájékoztatni fogja a jelen feltételek létezéséről és intézkedéseiről, amelyek kötelezettséget jelenthetnek az ilyen személyre vonatkozóan, továbbá Ön a beleegyezését adja, hogy a Samsung vállalatot vétlennek tekinti, kárpótolja és megvédi az esetleges és összes keresettel, tettel, költséggel, veszteséggel, károsodással, bírsággal és kiadással szemben (ideértve az ügyvédi díjakat és költségeket is, amelyek a Szolgáltatások ilyen személyek általi használatából adódnak.
+
+8. Vis maior. A Samsung nem vonható felelősségre a jelen feltételek hatálya alá tartozó bármilyen késedelemért vagy hibás teljesítményért vagy a Szolgáltatások megszakadásáért, amely elemi csapás, polgári vagy katonai hatóság, háború, terrorista cselekedetek, munkaügyi viták, harmadik felek által biztosított anyagok vagy szolgáltatások, vagy bármely, a Samsung ésszerű irányításán kívül eső ok következménye."</string>
+    <string name="shm_share_my_location_checkbox_text">Beleegyezem abba, hogy a(z) %1$s megossza helyadataimat a(z) %2$s partnereimmel.</string>
+    <string name="smartrelay_not_show">Ne jelenjen meg újra</string>
+    <string name="software_update">Szoftver frissítése</string>
+    <string name="ss_double_tap_any_screen">Bármely képernyőt két ujjal kétszer megérintve megnyithatja a fény- és hangerő-szabályozókat, valamint egyéb hasznos információkat.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Hívások átirányítása a Gearre</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Lekérdezés…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Beállítások olvasása…</string>
+    <string name="ss_loading_ing_abb">Betöltés…</string>
+    <string name="ss_mobile_data_is_disabled">Ki van kapcsolva a mobilinternet. Kapcsolódjon WLAN-hálózathoz, vagy kapcsolja be a mobilinternetet, és próbálja újra.</string>
+    <string name="ss_mobile_data_is_disabled2">A mobilinternet-kapcsolat le van tiltva. Kapcsolódjon Wi-Fi-hálózathoz, vagy engedélyezze a mobilinternet-kapcsolatot, és próbálja újra</string>
+    <string name="ss_no_network_connection">Nincs hálózati kapcsolat</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Felhasználói kézikönyv</string>
+    <string name="str_no">Köszönöm, nem</string>
+    <string name="str_yes">Igen</string>
+    <string name="stub_list_install">Telepít</string>
+    <string name="sw_eula_condition">Megértettem és elfogadom a fenti feltételeket.</string>
+    <string name="sw_eula_desc2">Ön beleegyezik abba, hogy a Samsung rendelkezésére bocsátja az eszköz valamennyi Szoftverfrissítési hibájáról készülő hibanapló adatait. Ezzel segít a Samsung cégnek a Samsung Szoftverfrissítés menetének tökéletesítésében és továbbfejlesztésében, és végső soron a saját eszköze megfelelő frissítéséhez is hozzájárul.</string>
+    <string name="tab_stub_list">Kiemelt</string>
+    <string name="talkback_download">Letöltés</string>
+    <string name="talkback_setting">Beállítás</string>
+    <string name="the_samsung_gear_application">a Samsung Gear-alkalmazás</string>
+    <string name="threeg_connection">Távoli kapcs. használata</string>
+    <string name="threeg_connection_subtitle">Mobil internetkapcsolat vagy Wi-Fi, valamint a Samsung account használatával távolról kapcsolódhat a Gearhez.</string>
+    <string name="threeg_connection_subtitle_chn">Mobilinternet-kapcsolat vagy WLAN, valamint a Samsung account használatával távolról kapcsolódhat a Gearhez.</string>
+    <string name="title_activity_clock_delete">Eltávolítás</string>
+    <string name="title_activity_connect_popup">Kapcsolódás</string>
+    <string name="title_activity_paired_watch">Párosított eszköz</string>
+    <string name="title_alertdialog_device_name_popup">%s átnevezése</string>
+    <string name="title_alertdialog_disconnect_popup">Bontás</string>
+    <string name="title_dialog_pm_error">Figyelmeztetés</string>
+    <string name="title_dialog_uninstall">Eltávolítás</string>
+    <string name="title_eula">Jogi nyilatkozatok</string>
+    <string name="title_findmywatch_connect2">Gear megkeresése</string>
+    <string name="title_findmywatch_finding">Keresés…</string>
+    <string name="tri_connect_title_circle_to_gear">A(z) %1$s és a(z) %2$s csatlakoztatása</string>
+    <string name="tri_connect_warning_temporal_disconnect">Bluetooth-kapcsolatot létesítésével a(z) %1$s és a(z) %2$s között ideiglenesen leválasztja a mobileszközről a(z) %3$s eszközt. A kapcsolat kis idő elteltével helyreáll, a(z) %4$s egyaránt kapcsolódik majd a(z) %5$s eszközhöz és a mobileszközhöz.</string>
+    <string name="tt_install_voice_data">TTS-hangadatok telepítése</string>
+    <string name="tt_install_voice_data_required">További szövegfelolvasási nyelveket telepíthet a Gearre.</string>
+    <string name="tt_language">Nyelv</string>
+    <string name="tt_send_help_message">Segélykérő üz. küldése</string>
+    <string name="tt_tts_language_guide">A szövegfelolvasó nyelve a Gear beállításaiban megadott nyelv. Ha a nyelvet nem támogatja a szövegfelolvasó alrendszer, akkor angol (brit) nyelv lesz használatban.</string>
+    <string name="unable_to_connect_popup_message">Nem sikerült a Gearrel a mobileszközhöz kapcsolódni. Próbálja meg később.</string>
+    <string name="unable_to_connect_popup_title">Sikertelen kapcsolódás</string>
+    <string name="unable_to_lock_gear">Nem lehet zárolni a Geart</string>
+    <string name="unable_to_reset_gear">Nem lehet törölni a Gear adatait</string>
+    <string name="unabled_health">Nem lehet megnyitni az alkalmazást, mert le van tiltva.</string>
+    <string name="uninstall_applications">Alkalmazások eltávolítása</string>
+    <string name="unknown_sources_msg_new">A(z) %1$s alkalmazást nem a(z) %2$s használatával telepíti. Az eszköz és a személyes adatok sebezhetőbbek az ismeretlen forrásból származó alkalmazások támadásaival szemben. Ön elfogadja, hogy amennyiben ilyen alkalmazások használatából eredően kár keletkezik az eszközben vagy adatok vesznek el, azért öné a kizárólagos felelősség. Az ismeretlen forrásból származó alkalmazások telepítésének tartós engedélyezéséhez válassza a(z) %3$s > %4$s > %5$s menüpontot, és kapcsolja be a(z) %6$s beállítást. Érintse meg az OK gombot a(z) %7$s telepítéséhez.</string>
+    <string name="unknown_sources_msg_new_vulnerable">A(z) %1$s nem a %2$s áruházból származik, és nem tartalmaz a Gearen futtatható alkalmazást. Az eszköz és az adatok sebezhetőbbek az ismeretlen forrásból származó alkalmazások támadásaival szemben. A telepítés megszakad, a rendszer pedig törli a telefonról a(z) %3$s alkalmazást.</string>
+    <string name="unknown_sources_title">Ismeretlen források</string>
+    <string name="update_button">Frissítés</string>
+    <string name="update_summary">Frissítések keresése</string>
+    <string name="update_the_latest_version">Frissítés áll rendelkezése</string>
+    <string name="voice_control_subtitle">Hívás fogadásához vagy elutasításához mondja ki az „Answer”, illetve „Reject” parancsot a Gear csengésének vagy rezgésének szüneteiben.</string>
+    <string name="voicememo_link1">Nuance feltételeit</string>
+    <string name="voicememo_link2">Samsung Adatvédelmi nyilatkozat</string>
+    <string name="voicememo_link3">Nuance adatvédelmi nyilatkozata</string>
+    <string name="watchapp_all">Alkalmazások</string>
+    <string name="watchapp_noapps">Nincs alkalmazás</string>
+    <string name="welcome_Gear">Gear</string>
+    <string name="welcome_samsung">Samsung</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Frissítés…</string>
+    <string name="wifi_only">Csak Wi-Fi</string>
+    <string name="wifi_only_chn">Csak WLAN</string>
+    <string name="wifi_only_summary">Csak Wi-Fi-hálózathoz kapcsolódva tölt le frissítést.</string>
+    <string name="wifi_only_summary_chn">Csak WLAN-kapcsolattal lehet letölteni.</string>
+    <string name="email_sanitize">Az e-mail tartalma biztonsági okokból nem jeleníthető meg a Gearen. A részletekért tekintse meg az e-mailt a mobileszközön.</string>
+    <string name="knox_sanitize">Érintse meg a KNOX mód megnyitásához.</string>
+</resources>

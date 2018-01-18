@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SS_UNAVAILABLE_DURING_CALL">Ekki tiltækt í símtali.</string>
+    <string name="actionbar_name">Gear-stjórnun</string>
+    <string name="alert_full_screen">Sprettimynd á öllum skjánum</string>
+    <string name="alert_mini">Lítill sprettigluggi</string>
+    <string name="alertdialog_backkey_popup_content">Viðvörun</string>
+    <string name="alertdialog_disconnect_popup_new_device_content">Þetta slítur tengingunni við %s.</string>
+    <string name="alertdialog_disconnect_popup_new_device_content_for_scs">%s verður aftengt frá fartækinu. Þú verður að nota Bluetooth næst þegar þú tengir þessi tæki. Hægt er að nota fjartengingu fyrir allar tengingar þar á eftir.</string>
+    <string name="alertdialog_uninstall_popup_content">Fjarlægja</string>
+    <string name="app_name_samsung_gear">Samsung Gear</string>
+    <string name="auto_call_forwarding">Sjálfvirk framsending</string>
+    <string name="auto_call_forwarding_att">Auto call forwarding to Gear</string>
+    <string name="auto_call_forwarding_desc">Kveikja sjálfkrafa á framsendingu símtala þegar Gear er ekki tengt fartækinu. Þetta framsendir símtöl sem berast fartækinu yfir í Gear þangað til tækin eru tengd að nýju.</string>
+    <string name="auto_update">Sjálfvirk uppfærsla</string>
+    <string name="auto_update_summary">Gá að uppfærslum sjálfkrafa.</string>
+    <string name="backing_up">Varaafritun stendur yfir…</string>
+    <string name="backup_complete">Varaaftritun lokið.</string>
+    <string name="bnr_backup">Varaafritun stendur yfir…</string>
+    <string name="bnr_bakcup_title">Varaafrit</string>
+    <string name="bnr_cancel">Hætta v.</string>
+    <string name="bnr_canel">Hætta við</string>
+    <string name="bnr_except">%1$s (nema %2$s)</string>
+    <string name="bnr_except_autolock">Sjálfvirkur lás</string>
+    <string name="bnr_except_remoteconnection">Fjartenging</string>
+    <string name="bnr_except_texttemplate">Textasniðmát</string>
+    <string name="bnr_no">Nei</string>
+    <string name="bnr_ok">Í lagi</string>
+    <string name="bnr_reset_gear">Til að tengjast nýju tæki verður Gear endurstillt á frumstillingar sínar.</string>
+    <string name="bnr_reset_gear_move_setupwizard">Gear hefur ekki verið sett upp að fullu. Uppsetningarhjálpin er opin í Gear sem stendur en til að tengjast Gear þarftu einnig að opna uppsetningarhjálpina í Gear-stjórnun í þessu tæki.</string>
+    <string name="bnr_reset_initialization">Tilkynning</string>
+    <string name="bnr_restored">Gögn endurheimt.</string>
+    <string name="bnr_yes">Já</string>
+    <string name="bt_connected">Tengt</string>
+    <string name="bt_disconnected">Aftengt</string>
+    <string name="bt_unpaired">Óparað</string>
+    <string name="button_restore">Enduruppsetja</string>
+    <string name="call">SÍMTAL</string>
+    <string name="call_check_gear_status_when_cfwd">Ekki er hægt að hafa kveikt á framsendingu símtala úr fartæki yfir í Gear og úr Gear yfir í fartæki á sama tíma.</string>
+    <string name="call_dualsim1">SIM-kort 1</string>
+    <string name="call_dualsim1sim2">Bæði SIM-kort</string>
+    <string name="call_dualsim2">SIM-kort 2</string>
+    <string name="call_forwarding">Símtal framsent</string>
+    <string name="call_forwarding_agree">Ég samþykki.</string>
+    <string name="call_forwarding_desc">Framsenda símtöl sem berast fartækinu yfir í Gear.</string>
+    <string name="call_forwarding_desc_vzw">Forward unanswered incoming calls from your phone to your Gear.</string>
+    <string name="call_forwarding_disable_msg">Beðið hefur verið um að gera framsendingu símtala úr fartækinu yfir í Gear óvirka. Staða farsímakerfisins og fartækisins kann að hafa áhrif á niðurstöðurnar.</string>
+    <string name="call_forwarding_enable_msg">Beðið hefur verið um að gera framsendingu símtala úr fartækinu yfir í Gear virka. Staða farsímakerfisins og fartækisins kann að hafa áhrif á niðurstöðurnar.</string>
+    <string name="call_forwarding_for_att_msg">"When Gear is disconnected from your smartphone, incoming calls to mobile device will be forwarded to Gear automatically.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to turn on auto call forwarding now?"</string>
+    <string name="call_forwarding_notify_msg">Kveikt er á framsendingu símtala úr fartækinu yfir í Gear. Símtöl sem berast fartækinu verða framsend í Gear. Ef þú ert ekki með Gear meðferðis skaltu fara í stillingarnar og slökkva á sjálfvirkri framsendingu símtala til að tryggja að þú missir ekki af símtölum.</string>
+    <string name="call_forwarding_turning_off_notify_msg">Slekk á framsendingu raddsímtala…</string>
+    <string name="call_forwarding_turning_on_notify_msg">Kveiki á framsendingu raddsímtala…</string>
+    <string name="call_no_gear_number">Númer vantar</string>
+    <string name="call_select_dualsim_title">Veldu SIM-kort</string>
+    <string name="call_voice_control">Raddstýring</string>
+    <string name="callforwarding_help_des1">Skipta sjálfkrafa um tæki sem tekur við framsendum símtölum eftir því hvort tækin eru tengd um Bluetooth eða fjartengingu.</string>
+    <string name="callforwarding_help_des2">Framsendu símtöl í fartækið þitt í Gear þegar þú ert á ferðinni, með Gear á þér og með það tengt við fartækið.</string>
+    <string name="cancel">Hætta v.</string>
+    <string name="cf_activated">Activated</string>
+    <string name="cf_deactivate_failed">Mistókst að slökkva á framsendingu símtala.</string>
+    <string name="cf_deactivated">Deactivated</string>
+    <string name="clocks_download_more_clocks">Sækja fleiri klukkur</string>
+    <string name="clocks_noti_uninstall_clock">%s verður fjarlægt.</string>
+    <string name="clocks_noti_uninstall_idle_clock">%1$s verður fjarlægð og %2$s verður valin sem sjálfgefin klukka.</string>
+    <string name="clocks_title_basic_clocks">VENJULEGAR KLUKKUR</string>
+    <string name="clocks_title_downloaded_clocks">SÓTTAR KLUKKUR</string>
+    <string name="clocks_title_style_clocks">STÍLKLUKKUR</string>
+    <string name="clocks_uninstalled">Fjarlægt.</string>
+    <string name="clocks_uninstalling">Set upp…</string>
+    <string name="close">Loka</string>
+    <string name="closing_samsung_gear_message">Gear var endurstillt. Forritinu Samsung Gear verður lokað eftir stutta stund.</string>
+    <string name="closing_samsung_gear_title">Loka Samsung Gear forritinu</string>
+    <string name="cloud_backup_no_information">Aldrei</string>
+    <string name="cloud_backup_restore_backup_now">Afrita gögn</string>
+    <string name="cloud_backup_restore_restore_now">Endurheimta gögn</string>
+    <string name="cmw_agree">Ég samþykki</string>
+    <string name="cmw_eula_agree">Ég viðurkenni og samþykki skilmálana hér að ofan.</string>
+    <string name="cmw_for_setting">Slökkt hefur verið á staðsetningarþjónustu. Opnaðu Stillingar.</string>
+    <string name="cmw_high_accuracy_dialog_message">Veldu „Mikil nákvæmni“ undir Staðsetning > Stilling til að gera greiningu staðsetninga hraðari og nákvæmari.</string>
+    <string name="cmw_high_accuracy_dialog_title">Veldu mikla nákvæmni</string>
+    <string name="cmw_legal_content">Með því að virkja „Deila staðsetningu“ samþykkir þú að þau staðsetningargögn sem tengjast farsíma þínum og/eða Gear tæki eru send í gegnum þjón Samsung svo hægt sé að veita þjónustuna Finna minn Gear og Finna mitt tæki. Engin gögn eða upplýsingar um staðsetningu tækis þíns eru vistuð á þjóni Samsung.</string>
+    <string name="cmw_legal_content1">Með því að virkja „%1$s &amp; %2$s“ samþykkir þú að þau staðsetningargögn sem tengjast farsíma þínum og/eða Gear tæki eru send í gegnum þjón Samsung svo hægt sé að veita þjónustuna %1$s &amp; %2$s. Engin gögn eða upplýsingar um staðsetningu tækis þíns eru vistuð á þjóni Samsung.</string>
+    <string name="cmw_legal_content1_no_gps">Með því að virkja „%1$s &amp; %2$s“ samþykkir þú að þau staðsetningargögn sem tengjast farsíma þínum eru send í gegnum þjón Samsung svo hægt sé að veita þjónustuna %2$s. Engin gögn eða upplýsingar um staðsetningu tækis þíns eru vistuð á þjóni Samsung.</string>
+    <string name="cmw_legal_content_2">﻿Persónuverndarstefna Samsung</string>
+    <string name="cmw_legal_title">Lagalegar upplýsingar</string>
+    <string name="cmw_location">Kveikja á staðsetningarþjóni.</string>
+    <string name="cmw_show_on_map">Sýna á korti</string>
+    <string name="color_black">Svartur</string>
+    <string name="color_blue">Blátt</string>
+    <string name="color_brown">Brúnn</string>
+    <string name="color_gray">Grár</string>
+    <string name="color_green">Grænt</string>
+    <string name="color_light_sky_blue">Ljóshiminblár</string>
+    <string name="color_medium_purple">Fjólublár</string>
+    <string name="color_orange">Appelsínugult</string>
+    <string name="color_pink">Bleikur</string>
+    <string name="color_purple">Purpurarauður</string>
+    <string name="color_red">Rauður</string>
+    <string name="color_spring_green">Iðjagrænn</string>
+    <string name="common_none">Ekkert</string>
+    <string name="common_off">Slökkt</string>
+    <string name="common_on">Kveikt</string>
+    <string name="common_recent_apps">Nýleg forrit</string>
+    <string name="connect_popup_content">Er að tengjast %s…</string>
+    <string name="connected_by_trasport_BT">Tengt um Bluetooth</string>
+    <string name="connected_by_trasport_SCS">Fjartengt</string>
+    <string name="connecting_popup_message">Tengist við Gear…</string>
+    <string name="connecting_popup_title">Tengjast við Gear</string>
+    <string name="dialog_check_phone_number_msg1">Gakktu úr skugga um að eftirfarandi upplýsingar séu réttar:</string>
+    <string name="dialog_check_phone_number_msg2">Farsímanúmer: %s</string>
+    <string name="dialog_check_phone_number_msg3">Gear-símanúmer: %s</string>
+    <string name="dialog_check_phone_number_msg4">Pikkaðu á „Í lagi“ til að staðfesta og kveikja á sjálfvirkri framsendingu símtala.</string>
+    <string name="dialog_enable_remote_connection_desc">Til að kveikja á sjálfvirkri framsendingu símtala skaltu gera fjartengingu virka og reyna aftur.</string>
+    <string name="dialog_enable_remote_connection_title">Kveikja á fjartengingu</string>
+    <string name="dialog_reverse_msg">Hugsanlega þarf aðskildar áskriftir til að gera fartækinu og Gear kleift að nota þennan eiginleika, allt eftir símafyrirtæki. Þetta getur haft viðbótarkostnað í för með sér.</string>
+    <string name="dialog_set_phone_number_msg">Til kveikja á sjálfvirkri framsendingu símtala þarftu að velja símanúmer tækjanna sem á að framsenda símtöl í og úr.</string>
+    <string name="dialog_set_phone_number_title">Kveikja á sjálfvirkri framsendingu símtala</string>
+    <string name="disable_loc_text">Slökkt verður á deilingu staðsetningar. Þú getur ekki notað staðsetningarupplýsingar til að leita að Gear eða fartæki með „Finna Gear“ eða „Finna tækið mitt“.</string>
+    <string name="disable_loc_text_no_gps">Slökkt verður á deilingu staðsetningar. Þú getur ekki notað staðsetningarupplýsingar til að leita að fartækinu með „Finna tækið mitt“.</string>
+    <string name="disable_remote_connection">Slökkva á fjartengingu</string>
+    <string name="disable_remote_connection_fmm_fmd">„Finna Gear“ og „Finna tækið mitt“</string>
+    <string name="disable_remote_connection_receiving_blocked">Móttaka skilaboða, tölvupósts og tilkynninga úr fartækinu</string>
+    <string name="disable_remote_connection_receiving_blocked_kddi">Móttaka tölvupósts og tilkynninga úr fartækinu</string>
+    <string name="disable_remote_connection_warning">Slökkt verður á fjartengingu. Eftirfarandi eiginleikar verða ekki í boði fyrr en Gear er endurtengt við fartækið í gegnum Bluetooth:</string>
+    <string name="disable_share_location">Slökkva á deilingu staðsetningar</string>
+    <string name="disconnect_popup_content">Aftengist %s…</string>
+    <string name="do_not_show_again">Ekki sýna aftur</string>
+    <string name="enable_auto_call_forwarding_msg">Framsenda sjálfkrafa símtöl sem berast fartækinu yfir í Gear þegar Gear er ekki tengt. Símafyrirtækið þitt stjórnar því hvort þetta hefur í för með sér viðbótarkostnað. Pikkaðu á „Í lagi“ til að kveikja á sjálfvirkri framsendingu símtala.</string>
+    <string name="enable_auto_call_forwarding_title">Kveikja á sjálfv. frams.</string>
+    <string name="enable_more_notifications_enable">Gera virkt</string>
+    <string name="enable_notification_access">Kveikja á aðgangi að tilkynningum</string>
+    <string name="enable_notification_access_desc">"Þessi eiginleiki getur lesið allar tilkynningar sem þú færð. Þær kunna að innihalda persónulegar upplýsingar á borð við tengiliði og skilaboð sem þér eru send. Hann getur einnig hunsað þessar tilkynningar eða valið aðgerðir tengdar þeim.
+Til að fá tilkynningar í Gear skaltu pikka á „Kveikja“ og kveikja síðan á %s."</string>
+    <string name="enable_share_location">Kveikja á deilingu staðsetningar</string>
+    <string name="enabled_loc">Kveikt á deilingu staðsetningar.</string>
+    <string name="error_enter_device_name">Sláðu inn heiti tækis.</string>
+    <string name="error_occurred">Villa kom upp.</string>
+    <string name="find_my_device">Finna tækið mitt</string>
+    <string name="find_my_gear">Finna Gear</string>
+    <string name="find_watch_btn_start">Ræsa</string>
+    <string name="find_watch_btn_stop">Stöðva</string>
+    <string name="find_watch_off">Pikkaðu á Byrja til að finna Gear. Gear spilar hljóð og kveikt verður á skjá þess.</string>
+    <string name="find_watch_on">Pikkaðu á Stöðva til að hætta að leita að Gear. Gear hættir að spila hljóð og slökkt verður á skjá þess.</string>
+    <string name="font_gear_name">Gear</string>
+    <string name="font_noti_uninstall_idle_font">%1$s verður fjarlægð og sjálfgefin leturgerð verður notuð fyrir %2$s.</string>
+    <string name="force_wifi_direct_msg">Forritið verður sett upp um Wi-Fi Direct. Þetta slítur núverandi Wi-Fi Direct tengingu. Ef hætt er við uppsetninguna þarf að sækja þetta forrit aftur til að setja það upp.</string>
+    <string name="force_wifi_direct_title">Setja upp</string>
+    <string name="force_wifi_install">Setja upp</string>
+    <string name="gear2_backup_confirm_text">Ef þú afritar gögnin þín núna verður fyrirliggjandi Gear-öryggisafritum í fartækinu skipt út fyrir nýjustu Gear-gögnin.</string>
+    <string name="gear2_restore_confirm_text">Ef þú endurheimtir gögnin þín núna verður fyrirliggjandi gögnum í Gear eytt og skipt út fyrir fyrirliggjandi Gear-öryggisafrit.</string>
+    <string name="gear2_text">"Notaðu geymslu tækisins til að afrita efni %1$s:
+%2$s
+
+Ef þú hefur áður tekið afrit af þessu efni geturðu endurheimt það í %3$s núna.
+
+Þetta gæti tekið einhverja stund, allt eftir stærð skráarinnar."</string>
+    <string name="gear2_text_import3">Stillingar</string>
+    <string name="gear_bnr_desc">"Notaðu geymslu tækisins til að taka öryggisafrit af eftirfarandi %1$s gögnum: %2$s
+
+Ef þú hefur áður tekið öryggisafrit af %3$s gögnunum geturðu endurheimt þau í %4$s núna.
+
+Þetta getur tekið nokkurn tíma, allt eftir stærð skránna."</string>
+    <string name="gear_location_popup_message">Fartækið er nú að leita að Gear. Þetta mun taka nokkrar mínútur. Það kann að vera erfitt að staðsetja Gear ef það er innandyra.</string>
+    <string name="gear_location_popup_title">Staðsetja Gear</string>
+    <string name="gear_location_text">Staðsetning Gear</string>
+    <string name="gear_lock_success">Gear læst.</string>
+    <string name="gear_lock_text">Læsa Gear</string>
+    <string name="gear_locked">Gear læst</string>
+    <string name="gear_locked_text1">Gear er læst. Tengdu Gear við fartækið um Bluetooth til að taka það úr lás.</string>
+    <string name="gear_phone_number">Gear-símanúmer</string>
+    <string name="gear_phone_number_popup_desc">Öll símtöl sem berast fartækinu verða framsend í %s.</string>
+    <string name="gear_phone_number_popup_desc_vzw">All unanswered calls to your Mobile device will be forwarded to %s.</string>
+    <string name="gear_remote_connection_disabled_dialog_lock">Til að læsa Gear þarf fyrst að kveikja á fjartengingu.</string>
+    <string name="gear_remote_connection_disabled_dialog_reset">Til að endurstilla Gear þarf fyrst að kveikja á fjartengingu.</string>
+    <string name="gear_reset_text">Endurstilla Gear</string>
+    <string name="gear_to_mobile">Gear í fartæki</string>
+    <string name="gear_to_mobile_des">Svara símtölum sem berast í Gear í fartækinu þegar tækin eru tengd með Bluetooth.</string>
+    <string name="gear_unable_to_locate_message">Ekki tókst að finna staðsetninguna. Reyndu aftur síðar.</string>
+    <string name="gear_unable_to_locate_title">Ekki hægt að staðsetja Gear</string>
+    <string name="help_svoice">S Voice</string>
+    <string name="home_background">Veggfóður</string>
+    <string name="home_bg_color">Litir</string>
+    <string name="home_bg_colors_title">LITIR Í BOÐI</string>
+    <string name="home_bg_delete_actionbar_selected">Valið</string>
+    <string name="home_bg_delete_dialog_msg">%d veggfóður verða fjarlægð úr Gear-stjórnun og Gear.</string>
+    <string name="home_bg_delete_select_all">Velja allt</string>
+    <string name="home_bg_max_more_image_toast">Hámarksfjölda veggfóðra (%d) hefur verið náð.</string>
+    <string name="home_bg_more_images">Fleiri myndir</string>
+    <string name="home_bg_popup_wallpaper_msg">Sæki Gear veggfóður…</string>
+    <string name="home_bg_popup_wallpaper_title">Sækja veggfóður</string>
+    <string name="home_bg_toast_saved">Vistað.</string>
+    <string name="home_bg_wallpaper">Veggfóður</string>
+    <string name="home_bg_wallpapers_title">VEGGFÓÐUR Í BOÐI</string>
+    <string name="homelayout_apps">FORRIT</string>
+    <string name="incoming_calls_title">Innhringingar</string>
+    <string name="info_build_number">Hugbúnaðarútgáfa</string>
+    <string name="info_model_number">Tegundarnúmer</string>
+    <string name="info_software_update">Hugbúnaðaruppf.</string>
+    <string name="information_provision_agreement">Samningur um upplýsingamiðlun</string>
+    <string name="information_provision_agreement_mgs">"Raddminnismiði notast við raddkennslatækni frá þriðja aðila sem kallast Nuance Communications, Inc. Af þeim sökum eru raddupplýsingar þínar óumflýjanlega vistaðar á netþjóni sem Nuance rekur (í Bandaríkjunum) og notkun raddminnismiða krefst þess að þú samþykkir skilmála Nuance.
+ Nuance áskilur sér rétt til að nota raddupptökur þínar í þeim tilgangi að bæta þjónustuna og þróa nýja tækni. Nuance áskilur sér einnig rétt til að veita samstarfsaðilum Nuance aðgang að fyrrgreindum raddupptökum. Raddupptökuupplýsingar þínar verða geymdar þangað til fyrrgreindum markmiðum hefur verið náð. Upplýsingar um þjónustuna Raddminnismiði fást í persónuverndarstefnu Samsung og persónuverndarstefnu Nuance.
+ Þú getur ekki notað raddminnismiða ef þú samþykkir ekki þá upplýsingamiðlun sem lýst er hér að ofan."</string>
+    <string name="init_manage_notifications_desc">Veldu forritin sem þú vilt fá tilkynningar frá í %1$s. Til að spara rafhlöðuorku %2$s skaltu sleppa því að velja forrit sem þú vilt ekki fá tilkynningar frá.</string>
+    <string name="install_in_progress">Stendur yfir…</string>
+    <string name="latitude">Breiddargráða</string>
+    <string name="limit_notification_desc">Lokaðu á birtingu áminninga á Gear meðan fartækið er í notkun.</string>
+    <string name="limit_notification_dialog_desc">Ekki er hægt að gera takmörkun tilkynninga virka í Gear. Enginn skjálás er valinn í fartækinu.</string>
+    <string name="limit_notification_title">Takmarka tilkynningar</string>
+    <string name="location_info_title">Deila staðsetningu</string>
+    <string name="lock_gear_legal_text1">Með því að nota Læsa Gear getur þú læst Gear án þess að vera á staðnum til að hindra óheimilaða notkun. Þú getur opnað Gear með því að endurtengjast fartækinu.</string>
+    <string name="lock_gear_legal_text2">* Það getur tekið tíma fyrir Læsa Gear að virka og það getur jafnvel mistekist. Slíkt er háð ástandi Gear, fartækis þíns eða netkerfis.</string>
+    <string name="lock_gear_text">Ekki er hægt að læsa Gear þegar fartækið og Gear eru tengd um Bluetooth.</string>
+    <string name="login_to_samsung_account">Skrá inn á Samsung-reikn.</string>
+    <string name="login_to_samsung_account_desc">Skráðu þig inn á Samsung-reikninginn þinn til að gera fjartengingu virka í Gear.</string>
+    <string name="login_to_samsung_account_full_desc">"Skráðu þig inn á Samsung-reikninginn til að nota eftirfarandi eiginleika, jafnvel þegar engin Bluetooth-tenging er fyrir hendi:
+- Fá tilkynningar
+- Nota fjartengd forrit
+Notkun fjartengingar getur haft viðbótarkostnað í för með sér."</string>
+    <string name="login_to_samsung_account_full_desc_for_vzw">"When you are not connected to your phone via Bluetooth, a Samsung account will let you do the following over mobile data:
+- Receive messages, emails, and other notifications
+- Use applications on Gear that need a connection to your phone via Remote connection.
+
+Note that remote connection through your Samsung account uses your data plan."</string>
+    <string name="longitude">Lengdargráða</string>
+    <string name="main_bt_unpaired">Óparað</string>
+    <string name="main_disconnected">Aftengt</string>
+    <string name="manage_applications">Stjórna forritum</string>
+    <string name="manage_notifications">Stjórna tilkynningum</string>
+    <string name="manual_call_forwarding_for_att_msg">"Calls dialed to your smartphone can be forwarded to your Gear.
+- Your smartphone will ring a few times and then the call will be forwarded to your Gear.
+- If you do not answer the call on your Gear, the caller may leave voicemail that you can listen to on your Gear.
+Do you want to enable call forwarding now?"</string>
+    <string name="manual_call_forwarding_popup_desc">Framsending símtala er símkerfisþjónusta sem beinir símtölum sem berast í %s yfir í tiltekið númer. Áskrift gæti verið nauðsynleg til að þitt Gear geti notað þennan eiginleika, allt eftir símafyrirtæki. Þetta getur haft viðbótarkostnað í för með sér.</string>
+    <string name="manual_call_forwarding_popup_desc_arg">Fartæki</string>
+    <string name="masterapp_not_installed">%1$s er ekki uppsett í fartækinu þínu. Til að nota %2$s í Gear skaltu sækja %1$s í fartækið. Niðurhalsskjárinn mun opnast.</string>
+    <string name="masterapp_not_installed_goto_deeplink">%1$s er ekki uppsett í fartækinu þínu. Til að nota %2$s í Gear skaltu sækja %1$s í fartækið. Niðurhalsskjárinn mun opnast.</string>
+    <string name="masterapp_uninstalled">%1$s hefur verið fjarlægt úr fartækinu þínu. Til að nota %2$s í Gear skaltu sækja %1$s í fartækið.</string>
+    <string name="maximum_size_warning">Hámarksfjölda stafa hefur verið náð.</string>
+    <string name="menu_about_device">UM %s</string>
+    <string name="menu_actionbar_remove">Fjarlægja</string>
+    <string name="menu_actionbar_uninstall">Fjarlægja</string>
+    <string name="menu_appsandsettigns">FORRIT OG STILLINGAR</string>
+    <string name="menu_clock">Klukka</string>
+    <string name="menu_display">BREYTA HEIMASKJÁ</string>
+    <string name="menu_downloaded_font">SÓTT LETUR</string>
+    <string name="menu_filetransfertogear">FLYTJA SKRÁR YFIR Í GEAR</string>
+    <string name="menu_gallery">Mynd</string>
+    <string name="menu_health">S Health</string>
+    <string name="menu_healthlite">Hreysti</string>
+    <string name="menu_help">Hjálp</string>
+    <string name="menu_home_screen">Stíll heimaskjás</string>
+    <string name="menu_music">Tónlist</string>
+    <string name="menu_myapp">Forritin mín</string>
+    <string name="menu_notification">Tilkynningar</string>
+    <string name="menu_rename">Endurnefna</string>
+    <string name="menu_samsungapps">Samsung Gear Apps</string>
+    <string name="menu_settings">Stillingar</string>
+    <string name="mobile_to_gear">Fartæki í Gear</string>
+    <string name="mobile_to_gear_des">Svara símtölum sem berast fartækinu í Gear þegar tækin eru fjartengd.</string>
+    <string name="monotype_default_font">Sjálfgefin leturgerð</string>
+    <string name="monotype_dialog_font_applemint">Apple mint</string>
+    <string name="monotype_dialog_font_choco">Choco cooky</string>
+    <string name="monotype_dialog_font_cool">Cool jazz</string>
+    <string name="monotype_dialog_font_girl">ShaoNV</string>
+    <string name="monotype_dialog_font_kaiti">Kaiti</string>
+    <string name="monotype_dialog_font_maruberi">UDRGothicM</string>
+    <string name="monotype_dialog_font_miao">MiaoWu</string>
+    <string name="monotype_dialog_font_mincho">UDMincho</string>
+    <string name="monotype_dialog_font_pop">POP</string>
+    <string name="monotype_dialog_font_rose">Rosemary</string>
+    <string name="monotype_dialog_font_tinkerbell">Tinker bell</string>
+    <string name="more">Meira</string>
+    <string name="more_options">Fleiri kostir</string>
+    <string name="multisim_title">Mörg SIM-kort</string>
+    <string name="navigate_up">Fara upp</string>
+    <string name="new_notification_list">Listayfirlit</string>
+    <string name="new_notifications_list_desc">Sýndu lista yfir mótteknar tilkynningar í Gear vinstra megin við klukkuna.</string>
+    <string name="no_application_selected">Engin forrit valin</string>
+    <string name="no_downloaded_applications">Engin sótt forrit</string>
+    <string name="no_of_application_selected">%d forrit valin</string>
+    <string name="no_remote_connection_popup_msg">Til að kveikja á sjálfvirkri framsendingu símtala skaltu opna forritið Samsung Gear í fartækinu, kveikja á fjartengingu og reyna aftur.</string>
+    <string name="no_remote_connection_popup_title">Kveikja á fjartengingu</string>
+    <string name="notification_type">Tilkynningagerð</string>
+    <string name="notification_type_desc">Þegar Gear er í notkun birtast tilkynningar sem litlir sprettigluggar efst á skjánum, burtséð frá valinu þínu hér að ofan.</string>
+    <string name="number_setting">Númerastilling</string>
+    <string name="ok">Í lagi</string>
+    <string name="once">Einu sinni</string>
+    <string name="one_application_selected">1 forrit valið</string>
+    <string name="popup_attention_email_msg">Einhver pósthólf eru ekki valin í tölvupóststillingum. Veldu „Tilkynningar í tölvupósti“ í tölvupóststillingum til að fá tilkynningar frá þessum pósthólfum í Gear.</string>
+    <string name="popup_attention_message_msg">Til að senda og taka á móti skilaboðum í Gear verður forritið Skilaboð gert að sjálfgefnu skilaboðaforriti í stað %s.</string>
+    <string name="popupmenu_search_for_new_device">Stjórna tækjum</string>
+    <string name="preview_message_desc">Sýna forskoðun tilkynninga, nema um móttekin símtöl og vekjara, í tilkynningasprettigluggum Gear.</string>
+    <string name="preview_message_title">Forskoða skilaboð</string>
+    <string name="primary">Aðal</string>
+    <string name="progressdialog_please_wait">Augnablik…</string>
+    <string name="progressdialog_reinstalled_message">Verið er að setja upp…</string>
+    <string name="progressdialog_reinstalled_popup_content">Endurupps.</string>
+    <string name="providerapp_reinstalled">%s virkar ekki til fulls og hefur því verið fjarlægt. Það verður nú sett upp aftur.</string>
+    <string name="quick_tutorial_add_shortcuts">Til að bæta flýtileiðum forrita á heimaskjá Gear skaltu fara í „Forrit“ í Gear, halda fingri á tákni forrits og draga það síðan á tákn heimaskjásins efst á skjánum.</string>
+    <string name="quick_tutorial_gear_structure">Klukkan birtist á aðalsíðu heimaskjásins í Gear. Síður til vinstri við klukkuna sýna tilkynningar og þær til hægri geyma græjur. Strjúktu upp frá neðri brún skjásins til að skoða forrit.</string>
+    <string name="quick_tutorial_noti_title">Kynning á %s</string>
+    <string name="quick_tutorial_noti_title_gear">Gear S</string>
+    <string name="quick_tutorial_noti_title_gear1">Gear</string>
+    <string name="quick_tutorial_noti_title_gear2">Gear 2</string>
+    <string name="quick_tutorial_open_svoice">Segðu „Hi Gear“ eða ýttu tvisvar á heimatakkann til að opna S Voice af hvaða skjá sem er.</string>
+    <string name="quick_tutorial_swipe_downwards">Ýttu tvisvar á heimatakkann til að opna uppáhaldsforritið þitt. Þú getur skipt um uppáhaldsforrit í stillingum.</string>
+    <string name="quick_tutorial_swipe_downwards_gear1">Ýttu tvisvar á aflrofann til að opna uppáhaldsforritið þitt. Þú getur skipt um uppáhaldsforrit í stillingum.</string>
+    <string name="quick_tutorial_to_go_back">Strjúktu niður frá brún skjásins til að fara til baka.</string>
+    <string name="remote_connection_disabled_settings">Stillingar</string>
+    <string name="remote_connection_enabled_desc">Gear verður fjartengt ef Bluetooth-tenging slitnar.</string>
+    <string name="requested">Beiðnin var send</string>
+    <string name="reset_gear_legal_text1">Með því að nota Endurstilla Gear getur þú eytt öllum gögnum úr Gear án þess að vera á staðnum. Eftir slíka eyðingu er ekki hægt að endurreisa eydd gögn og þú getur ekki lengur nota Finna minn Gear.</string>
+    <string name="reset_gear_legal_text2">* Það getur tekið tíma fyrir Endurstilla Gear að virka og það getur jafnvel mistekist. Slíkt er háð ástandi Gear, fartækis þíns eða netkerfis.</string>
+    <string name="restore_complete">Enduruppsetningu er lokið.</string>
+    <string name="restore_some_error">Endurheimt mistókst. Reyndu aftur.</string>
+    <string name="restore_try_again">Reyndu aftur</string>
+    <string name="retrieve_dialog_desc">Sæki forritalista…</string>
+    <string name="sa_error_0203_desc">Uppfærðu Samsung-reikninginn þinn handvirkt til að gera fjartengingu virka.</string>
+    <string name="sa_error_0203_title">Uppfæra Samsung-reikning</string>
+    <string name="sa_error_0301_desc">Netvilla kom upp við innskráningu á Samsung-reikninginn þinn í fartækinu.</string>
+    <string name="sa_error_0301_title">Mistókst að virkja eiginleika</string>
+    <string name="sa_error_0302_title">Mistókst að virkja eiginleika</string>
+    <string name="sa_error_0401_desc">Villa kom upp. Reyndu aftur.</string>
+    <string name="sa_error_0401_title">Villa</string>
+    <string name="safety_message_interval_10minutes">Hverjar tíu mínútur</string>
+    <string name="safety_message_interval_20minutes">Á 20 mínútna fresti</string>
+    <string name="samsung_apps_info">Hugsanlega verður forritum sem sótt hafa verið á %1$s eytt þegar %2$s er fjarlægt eða forritagögn eru hreinsuð. Hægt er að sækja þessi forrit í kaupferli þínum í %3$s.</string>
+    <string name="samsung_apps_notice">Tilkynning</string>
+    <string name="samsung_gear">Samsung Gear</string>
+    <string name="samsung_update">Uppfæra núna</string>
+    <string name="screen_off">Hafa slökkt á skjá</string>
+    <string name="screen_off_desc">Fá tilkynningar um annað en móttekin símtöl og vekjara í Gear þegar slökkt er á skjá þess.</string>
+    <string name="setting_Enable">Gera virkt</string>
+    <string name="setting_alpm_dialog_title">Athuga</string>
+    <string name="setting_always_off">Alltaf slökkt</string>
+    <string name="setting_always_on">Alltaf kveikt</string>
+    <string name="setting_auto">Sjálfvirkt</string>
+    <string name="setting_auto_lock_disable_desc">Gert óvirkt af kerfisstjóra, dulkóðunarreglu eða skilríkjageymslu.</string>
+    <string name="setting_backup_restore2">Afritun og endurheimt</string>
+    <string name="setting_basic">GRUNNAÐGERÐIR</string>
+    <string name="setting_connections">TENGINGAR</string>
+    <string name="setting_disable">Slökkva</string>
+    <string name="setting_home_key_double_pressing">Ýtt tvisvar á heimatakka</string>
+    <string name="setting_language_input">TUNGUMÁL OG INNSLÁTTUR</string>
+    <string name="setting_manage_text_templates">Breyta textasniðmátum</string>
+    <string name="setting_mobile_network">Farsímakerfi</string>
+    <string name="setting_mobile_network_desc">Gear verður aftengt frá farsímakerfinu þegar það er tengt við fartækið um Bluetooth. Þegar Bluetooth-tengingin er rofin mun Gear sjálfkrafa tengjast farsímakerfinu á ný.</string>
+    <string name="setting_multisim_popup_desc">Það fer eftir símafyrirtækinu þínu hvort kaupa þarf viðbótaráskrift til að nota fleiri en eitt SIM-kort. Pikkaðu á „Í lagi“ til að virkja notkun fleiri en eins SIM-korts.</string>
+    <string name="setting_opensource">Frjálst hugbúnaðarleyfi</string>
+    <string name="setting_palm_motion">Hrey‌fingar</string>
+    <string name="setting_palm_swipe">Strjúka fyrir skjámynd</string>
+    <string name="setting_palmover_desc">Leggðu höndina á skjáinn til að slökkva á hringingu símtala sem berast og til að gera hlé á efnisspilun þegar kveikt er á skjánum.</string>
+    <string name="setting_palmswipe_desc">Taktu skjámynd með því að strjúka öllum fingrinum yfir skjáinn þannig að fingurinn snerti alltaf skjáinn.</string>
+    <string name="setting_pause_mute">Þagga/gera hlé</string>
+    <string name="setting_power_key_double_pressing">Ýtt tvisvar á rofann</string>
+    <string name="setting_restoring">Endurbyggja</string>
+    <string name="setting_safety_b1_desc">Þegar Gear og fartækið eru tengd getur eiginleikinn „Senda hjálparskilaboð“ hjálpað þér í neyð. Hann sendir neyðartengiliðunum þínum tilkynningu um aðstæður þínar ásamt staðsetningunni þinni. Sending þessara skilaboða kann að hafa viðbótarkostnað í för með sér. Til að nota „Senda hjálparskilaboð“ í neyð skaltu ýta %d sinnum á aflrofann.</string>
+    <string name="setting_safety_b2_desc">Þegar Gear og fartækið eru tengd hjálpar „Senda hjálparskilaboð“ þér í neyð með því að taka mynd með myndavél Gear. Neyðartengiliðir þínir fá tilkynningu um aðstæður þínar þegar þeim eru send neyðarskilaboð með þessari mynd ásamt staðsetningu þinni. Fyrstu skilaboðin innihalda bæði staðsetninguna og myndina. Að tilteknum tíma liðnum verða önnur skilaboð send sem innihalda eingöngu staðsetninguna. Viðbótarkostnaður kann að fylgja því að senda þessi skilaboð. Til að nota „Senda hjálparskilaboð“ í neyð skaltu ýta %d sinnum á heimatakkann.</string>
+    <string name="setting_safety_b2_no_camera_desc">Þegar Gear og fartækið eru tengd getur eiginleikinn „Senda hjálparskilaboð“ hjálpað þér í neyð. Hann sendir neyðartengiliðunum þínum tilkynningu um aðstæður þínar ásamt staðsetningunni þinni. Sending þessara skilaboða kann að hafa viðbótarkostnað í för með sér. Til að nota „Senda hjálparskilaboð“ í neyð skaltu ýta %d sinnum á heimatakkann.</string>
+    <string name="setting_safety_b3_desc1">Ýttu 3 sinnum hratt á heimatakkann til að senda tilkynningu til aðaltengiliðanna þinna þegar þú ert í neyð.</string>
+    <string name="setting_safety_b3_desc2">Neyðarskilaboð verða send til aðaltengiliðanna þinna með upplýsingum um núverandi staðsetningu þína.</string>
+    <string name="setting_safety_b3_desc3">Tengdu fartækið þitt við Gear til að nota þennan eiginleika.</string>
+    <string name="setting_safety_list">Öryggisaðstoð</string>
+    <string name="setting_samsung_legal">Lagalegar upplýsingar Samsung</string>
+    <string name="setting_screen_lock">Sjálfvirkur lás</string>
+    <string name="setting_screen_lock_desc">Stilla fartækið á að læsast sjálfkrafa þegar Gear er of langt í burtu til að greinast.</string>
+    <string name="setting_screen_secutiry">ÖRYGGI SKJÁS</string>
+    <string name="setting_send_emergency_picture">Senda neyðarmynd</string>
+    <string name="setting_send_emergency_recording">Senda hljóðupptöku</string>
+    <string name="setting_send_emergency_term_agree">Ég hef lesið og ég samþykki alla ofangreinda skilmála.</string>
+    <string name="setting_send_help_message">Senda hjálparskilaboð</string>
+    <string name="setting_send_terms_conditions">Skilmálar</string>
+    <string name="setting_smart_relay">Snjalltenging</string>
+    <string name="setting_smart_relay_desc">Taktu fartækið upp til að skoða efni Gear í fartækinu.</string>
+    <string name="setting_smart_toss">Snjalltenging</string>
+    <string name="setting_system">KERFI</string>
+    <string name="setting_text_to_speech_engine">Talgervilsvél</string>
+    <string name="setting_textinput_emoticon">Lyndistákn</string>
+    <string name="setting_textinput_keyboard">Lyklaborð</string>
+    <string name="setting_textinput_list">Innsláttaraðferðir texta</string>
+    <string name="setting_textinput_templates">Sniðmát</string>
+    <string name="setting_try_it">Prófa</string>
+    <string name="setting_wake_up">Hreyfing til að vekja</string>
+    <string name="setting_wake_up_desc">Vekja Gear með því að lyfta hendinni þegar kveikt er á Gear.</string>
+    <string name="setting_wakeupgesture">"Til að vekja Gear lyftir þú hendinni sem Gear er á og lítur á skjá Gear.
+
+Þessi eiginleiki virkar ekki ef þú liggur út af eða hallar þér aftur og kann að eyða rafhlöðu Gear hraðar, því að þá er alltaf kveikt á hreyfiskynjaranum."</string>
+    <string name="setting_wakeupgesture_clock">Klukka</string>
+    <string name="setting_wakeupgesture_previous">Síðasti opni skjár</string>
+    <string name="setting_wakeupgesture_screen_on">Veldu skjá sem birtist</string>
+    <string name="settings_application_version">Útgáfa forrits</string>
+    <string name="settings_emergency_contact">Stjórna aðaltengiliðum</string>
+    <string name="settings_emergency_contact_empty">Engum aðaltengiliðum hefur verið bætt við. Til að kveikja á %s skaltu bæta tengiliðum við aðaltengiliði.</string>
+    <string name="settings_legal_information">Lagaleg atriði</string>
+    <string name="settings_message_interval">Skilaboðatíðni</string>
+    <string name="settings_not_set">Ekki valinn</string>
+    <string name="settings_security">Öryggi</string>
+    <string name="settings_security_update">Öryggisuppfærsla</string>
+    <string name="settings_security_update_desc">Verndaðu tækið þitt gegn skaðlegu efni með því að bæta öryggi þess og þjónustu.</string>
+    <string name="settings_unknown_sources_dialog">Uppsetning frá óþekktum uppruna kann að skaða tækið þitt og persónuleg gögn. Með því að pikka á „Í lagi“ samþykkirðu að þú berð fulla ábyrgð á öllum þeim skaða sem tækið þitt kann að verða fyrir eða gagnatapi sem hlýst af notkun þessara forrita.</string>
+    <string name="settings_unknown_sources_subtitle">Leyfa uppsetningu forrita annars staðar frá en frá Samsung Gear Apps.</string>
+    <string name="share_loc_disabled">Slökkt á deilingu staðsetningar.</string>
+    <string name="share_location_desc">Leyfa „Finna Gear“ og „Finna tækið mitt“ að deila staðsetningargögnum Gear og fartækisins.</string>
+    <string name="shm_I_agree_that_mobile_data">Ég samþykki að farsímagögn kunna að vera notuð og að MMS-skilaboð kunna að verða send í neyðartilvikum. Ég skil að þetta kann að hafa viðbótarkostnað í för með sér.</string>
+    <string name="shm_new_disclaimer_msg_01">"1. Senda hjálparskilaboð er ætlað að hjálpa notendum að senda tilkynningu um áætlaða staðsetningu sína og hljóð og mynd af umhverfinu í farsíma tengiliðar sem er tilgreindur fyrirfram. Þessi eiginleiki eru eingöngu veittur þér til hentugleika og honum er ekki ætlað að koma í stað neyðarsímtala til yfirvalda og ekki skal nota hann í stað þeirra.
+
+2. Nákvæm, samfelld og villulaus virkni eiginleikans Senda hjálparskilaboð („þjónustunnar“) er háð tengingu við net, aðgengi að GPS og Wi-Fi upplýsingum, stöðu og/eða ástandi tækis þíns/valins tengiliðar, ástandi rafhlöðunnar og/eða öðrum kringumstæðum sem ekki eru á valdi Samsung Electronics Co., Ltd. („Samsung“, „við“, „okkar“). Umhverfi þitt og skilyrði tækis þíns og tækis valins tengiliðar geta haft áhrif á nákvæmni upplýsinga um staðsetningar og afhendingu þjónustunnar á réttum tíma. Samsung afsalar sér allri ábyrgð á að þjónustan virki á nákvæman, samfelldan og villulausan hátt, nema skýrt sé kveðið á um annað eða annars sé krafist samkvæmt lögum. Athugaðu að valinn tengiliður verður að vera með farsíma sem er í lagi, kveikt verður að vera á símanum og hann verður að geta tekið við textaskilaboðum. Flutningur umhverfis- og staðsetningargagna kann að vera gjaldskyldur, eftir gjaldskrá þjónustuveitunnar þinnar.
+
+Til þess að þjónustan virki eins og ætlast er til kann að vera nauðsynlegt að eiginleikinn, eftir að þú hefur virkjað hann, geti sjálfkrafa kveikt á GPS og Wi-Fi eiginleikum tækisins. Þú viðurkennir og samþykkir sjálfvirka gangsetningu GPS og Wi-Fi virkni tækisins (ef slíkt er nauðsynlegt) án frekari tilkynningar til þín eða samþykkis þíns.
+
+3. Þú viðurkennir og samþykkir að þú munt ekki misnota þennan eiginleika eða nota eiginleikann í ólöglegum tilgangi eða til að brjóta gegn friðhelgi, rétti einstaklinga eða einkaleyfisrétti annarra. Aðeins má nota þennan eiginleika í samræmi við lög og aðeins í neyðartilvikum. Þú samþykkir að þú berð alla ábyrgð á notkun þinni á þessum eiginleika. Samsung skal ekki vera bótaskylt vegna afleiðinga notkunar þinnar á eiginleikanum.
+
+4. Þjónustan er eingöngu veitt þér til hentugleika og henni er ekki ætlað að koma í stað neyðarsímtala til yfirvalda og ekki skal nota hana í stað þeirra. Samsung afsalar sér allri ábyrgð á að þjónustan virki á nákvæman, samfelldan og villulausan hátt, nema skýrt sé kveðið á um annað eða annars sé krafist samkvæmt lögum.
+
+5. FYRIRVARI UM ÁBYRGÐ. ÞÚ SKILUR OG SAMÞYKKIR AÐ:
+ 
+A. ÞJÓNUSTAN ER LÁTIN Í TÉ „EINS OG HÚN ER“, „MEÐ ÖLLUM GÖLLUM“ OG „Í SAMRÆMI VIÐ FRAMBOÐ“. NOTANDI BER SJÁLFUR ÁBYRGÐ Á NOTKUN HENNAR. SAMSUNG VEITIR ENGA BEINA ÁBYRGÐ, TRYGGINGAR EÐA SKILYRÐI MEÐ ÞJÓNUSTUNNI EÐA Í TENGSLUM VIÐ HANA. SAMSUNG UNDANSKILUR SIG ÖLLUM YFIRLÝSINGUM OG ÁBYRGÐ, HVORT SEM UM ER AÐ RÆÐA BEINA EÐA ÓBEINA, ÞAR Á MEÐAL, EN ÁN ÞESS AÐ TAKMARKAST VIÐ, ÓBEINNI ÁBYRGÐ Á SÖLUHÆFI, HÆFI FYRIR ÁKVEÐINN TILGANG OG BROTLEYSI OG ALLRI ÓBEINNI ÁBYRGÐ VARÐANDI VIÐSKIPTAFERIL EÐA AFKASTAFERIL.
+
+B. ÁN ÞESS AÐ TAKMARKA OFANGREINT VEITIR SAMSUNG ENGAR YFIRLÝSINGAR EÐA ÁBYRGÐ Á AÐ (i) ÞJÓNUSTAN MUNI FULLNÆGJA KRÖFUM ÞÍNUM, (ii) ÞJÓNUSTAN VERÐI ÓSLITIN, Á RÉTTUM TÍMA, ÖRUGG EÐA LAUS VIÐ VILLUR, (iii) EFNIÐ SEM FÆST MEÐ ÞJÓNUSTUNNI EÐA HVERS KONAR TILKYNNINGUM EÐA EIGINLEIKUM ÞJÓNUSTUNNAR VERÐI AÐGENGILEGT, NÁKVÆMT, HEILLEGT EÐA ÁREIÐANLEGT, (iv) GÆÐI ÞJÓNUSTUNNAR EÐA HVERS KYNS UPPLÝSINGA EÐA ANNARS EFNIS SEM FÆST Í GEGNUM ÞJÓNUSTUNA MUNI UPPFYLLA VÆNTINGAR ÞÍNAR EÐA AÐ (v) LEIÐRÉTTINGAR VERÐI GERÐAR Á GÖLLUM EÐA VILLUM Í ÞJÓNUSTUNNI.
+
+6. TAKMÖRKUN BÓTAÁBYRGÐAR.
+
+A. ÞÚ SKILUR OG SAMÞYKKIR AÐ SAMSUNG SKAL EKKI BERA BÓTAÁBYRGÐ Á BEINU, ÓBEINU, TILFALLANDI, SÉRSTÖKU EÐA AFLEIDDU TJÓNI, EÐA Í REFSISKYNI, VEGNA VANRÆKSLU Í SKILNINGI LAGA, ÞAR Á MEÐAL, EN ÁN ÞESS AÐ TAKMARKAST VIÐ, TAPI Á HAGNAÐI, NOTKUNARMISSI EÐA ÖÐRU TJÓNI (JAFNVEL ÞÓTT VIÐGERÐ, SKIPTI EÐA ENDURGREIÐSLA Á ÞJÓNUSTUNNI BÆTI EKKI AÐ FULLU UPP TJÓN EÐA ÞÓTT SAMSUNG VISSI EÐA HEFÐI ÁTT AÐ VITA AF MÖGULEIKANUM Á SLÍKU TJÓNI, BÓTASKYLDU, TAPI EÐA ÚTGJÖLDUM), SEM ER BEIN EÐA ÓBEIN AFLEIÐING EÐA RÍS BEINT EÐA ÓBEINT VEGNA (i) KRAFNA VEGNA BROTS Á SAMNINGI, BROTS Á ÁBYRGÐ, TRYGGINGU EÐA SKILYRÐI, HLUTLÆGRAR ÁBYRGÐAR, VANRÆKSLU EÐA ANNARRA VANEFNDA, AÐ ÞVÍ MARKI SEM GILDANDI LÖG LEYFA; (ii) NOTKUNAR ÞINNAR Á ÞJÓNUSTUNNI EÐA VANGETU TIL ÞESS; (iii) KOSTNAÐAR EÐA KAUPA Á SKIPTIÞJÓNUSTU; (iv) ÓHEIMILS AÐGANGS AÐ EÐA BREYTINGAR Á FLUTNINGI ÞÍNUM EÐA GÖGNUM ÞÍNUM; (v) FULLYRÐINGA EÐA ATHÆFI ÞRIÐJA AÐILA; (vi) ÞESSA SAMNINGS; (vii) LÍKAMSTJÓNS (ÞAR Á MEÐAL DAUÐA) EÐA EIGNATJÓNS, EÐA (vii) EINHVERS ANNARS SEM TENGIST ÞJÓNUSTUNNI EÐA EFNINU SEM BOÐIÐ ER UPP Á Í GEGNUM ÞJÓNUSTUNA.
+ 
+B. EINA ÚRRÆÐI ÞITT Í TILFELLI ÁGREININGS VIÐ SAMSUNG Í TENGSLUM VIÐ ÞENNAN SAMNING EÐA ÞJÓNUSTUNA SKAL VERA AÐ HÆTTA AÐ NOTA ÞJÓNUSTUNA.
+ 
+C. Í SUMUM LÖGSÖGUM ER EKKI HEIMILT AÐ UNDANÞIGGJA VISSAR ÁBYRGÐIR EÐA TAKMARKA EÐA UNDANÞIGGJA BÓTASKYLDU VEGNA TILFALLANDI EÐA AFLEIDDS TJÓNS. ÞESS VEGNA GETUR VERIÐ AÐ EINHVERJAR OFANGREINDRA TAKMARKANA Í KÖFLUM 5 OG 6 EIGI EKKI VIÐ UM ÞIG.
+
+7. BÆTUR. Þú samþykkir að votta um skaðleysi, tryggja bætur og verja Samsung gagnvart kröfum, aðgerðum, kostnaði, bótakröfum, tapi, tjóni, sektum og útgjöldum (þar á meðal eðlilegum greiðslum til lögfræðinga og lögfræðikostnaði) sem hlýst af eða tengist notkun þinni á þjónustunni eða vegna þess að þú ferð ekki að þessum samningi. Ef þú leyfir einhverjum einstaklingi að nota þjónustuna, þrátt fyrir að leyfi sem veitt eru samkvæmt þessum skilmálum séu bundin við einkanotkun, eða veitir einstaklingi upplýsingar sem mótteknar eru í gegnum þjónstuna, samþykkir þú að gera þeim einstaklingi viðvart um þessa skilmála og ákvæði þeirra, sem skulu vera bindandi fyrir slíkan einstakling, og þú samþykkir að votta um skaðleysi, tryggja bætur og verja Samsung gagnvart öllum kröfum, aðgerðum, kostnaði, bótakröfum, tapi, tjóni, sektum og útgjöldum (þar á meðal eðlilegum greiðslum til lögfræðinga og lögfræðikostnaði) sem tengjast notkun slíks einstaklings á þjónustunni.
+
+8. Óviðráðanleg atvik. Samkvæmt þessum skilmálum skal Samsung ekki vera bótaskylt vegna tafar eða afkastabrests eða truflunar á þjónustunni af völdum óviðráðanlegra atvika, aðgerða stjórnvalda eða hernaðaryfirvalda, stríðs, hryðjuverka, átaka á vinnumarkaði, efnis eða þjónustu sem þriðji aðili lætur í té eða annarra orsaka sem ekki eru á valdi Samsung."</string>
+    <string name="shm_share_my_location_checkbox_text">Ég samþykki að leyfa %1$s að deila staðsetningu minni með tengiliðum mínum í %2$s.</string>
+    <string name="smartrelay_not_show">Ekki sýna aftur</string>
+    <string name="software_update">Hugbúnaðaruppfærsla</string>
+    <string name="ss_double_tap_any_screen">Pikkaðu tvisvar á hvaða skjá sem er með tveimur fingrum til að skoða stýringar birtustigs og hljóðstyrks ásamt öðrum gagnlegum upplýsingum.</string>
+    <string name="ss_forwarding_calls_to_gear_header">Símtöl framsend í Gear</string>
+    <string name="ss_forwarding_calls_to_gear_progress">Bið um…</string>
+    <string name="ss_forwarding_calls_to_gear_reading_progress">Les stillingar…</string>
+    <string name="ss_loading_ing_abb">Hleð…</string>
+    <string name="ss_mobile_data_is_disabled">Mobile data is disabled. Connect to WLAN instead, or enable mobile data and try again.</string>
+    <string name="ss_mobile_data_is_disabled2">Slökkt á farsímagögnum. Tengdu við Wi-Fit net í staðinn, eða kveiktu á farsímagögnum og reyndu aftur.</string>
+    <string name="ss_no_network_connection">Ekkert netsamband</string>
+    <string name="ss_selecting_outgoing_number_header">Selecting a SIM card for outgoing calls</string>
+    <string name="ss_user_manual">Notandahandbók</string>
+    <string name="stub_list_install">Setja upp</string>
+    <string name="tab_stub_list">Valdar brellur</string>
+    <string name="talkback_download">Sækja</string>
+    <string name="talkback_setting">Stilling</string>
+    <string name="the_samsung_gear_application">Samsung Gear forritið</string>
+    <string name="threeg_connection">Nota fjartengingu</string>
+    <string name="threeg_connection_subtitle">Komdu á fjartengingu við Gear með farsímagögnum eða Wi-Fi og Samsung-reikningnum.</string>
+    <string name="threeg_connection_subtitle_chn">Connect to your Gear remotely, using Mobile data or WLAN together with your Samsung account.</string>
+    <string name="title_activity_clock_delete">Fjarlægja</string>
+    <string name="title_activity_connect_popup">Tengjast</string>
+    <string name="title_activity_paired_watch">Parað tæki</string>
+    <string name="title_alertdialog_device_name_popup">Endurnefna %s</string>
+    <string name="title_alertdialog_disconnect_popup">Aftengja</string>
+    <string name="title_dialog_pm_error">Viðvörun</string>
+    <string name="title_dialog_uninstall">Fjarlægja</string>
+    <string name="title_findmywatch_connect2">Finna Gear</string>
+    <string name="title_findmywatch_finding">Verið er að leita…</string>
+    <string name="tri_connect_title_circle_to_gear">Tengja %1$s við %2$s</string>
+    <string name="tri_connect_warning_temporal_disconnect">Ef %1$s er tengt við %2$s í gegnum Bluetooth verður %3$s aftengt frá fartækinu tímabundið. Tengingu verðu komið á aftur innan skamms og %4$s verður þá tengt við bæði %5$s og fartækið.</string>
+    <string name="tt_install_voice_data">Setja upp raddgögn talgervils</string>
+    <string name="tt_install_voice_data_required">Setja upp fleiri tungumál fyrir talgervil í Gear.</string>
+    <string name="tt_language">Tungumál</string>
+    <string name="tt_send_help_message">Senda hjálparskilaboð</string>
+    <string name="tt_tts_language_guide">Tungumál talgervilsins er tungumálið sem þú valdir í stillingum Gear. Ef tungumálið þitt er ekki stutt í talgervilsvélinni verður bresk enska notuð.</string>
+    <string name="unable_to_connect_popup_message">Mistókst að tengja Gear við fartækið. Reyndu aftur síðar.</string>
+    <string name="unable_to_connect_popup_title">Tenging mistókst</string>
+    <string name="unable_to_lock_gear">Ekki hægt að læsa Gear</string>
+    <string name="unable_to_reset_gear">Ekki er hægt að endurstilla Gear</string>
+    <string name="uninstall_applications">Fjarlægja forrit</string>
+    <string name="unknown_sources_msg_new">%1$s verður ekki sett upp af %2$s. Tækið þitt og persónuleg gögn eru berskjaldaðri fyrir árásum forrita af óþekktum uppruna. Þú samþykkir að þú berir alla ábyrgð á skemmdum á tækinu eða gagnatapi sem notkun þessara forrita kann að valda. Til að heimila alltaf uppsetningu forrita af óþekktum uppruna skaltu velja %3$s > %4$s > %5$s og velja svo %6$s. Pikkaðu á „Í lagi“ til að setja %7$s upp.</string>
+    <string name="unknown_sources_title">Óþekktur uppruni</string>
+    <string name="update_summary">Leita að uppfærslum</string>
+    <string name="voice_control_subtitle">Segðu „Answer“ eða „Reject“ í hléum, þegar Gear hvorki hringir né titrar, til að svara eða hafna símtölum.</string>
+    <string name="voicememo_link1">skilmála Nuance</string>
+    <string name="voicememo_link3">persónuverndarstefnu Nuance</string>
+    <string name="watchapp_all">Forrit</string>
+    <string name="watchapp_noapps">Engin forrit</string>
+    <string name="widget_bt">Bluetooth</string>
+    <string name="widget_fmw_refresh">Uppfæri…</string>
+    <string name="wifi_only">Aðeins Wi-Fi</string>
+    <string name="wifi_only_chn">WLAN only</string>
+    <string name="wifi_only_summary">Sækja aðeins uppfærslur þegar tenging við Wi-Fi net er til staðar.</string>
+    <string name="wifi_only_summary_chn">Only downloadable when connected via WLAN.</string>
+</resources>
